@@ -14,9 +14,10 @@ describe Eivu::Fingerprinter::Acoustid do
         context 'success' do
           context 'when passing in audio file' do
             it 'works' do
-              binding.pry
-              expect(identify.dig('status', 'msg')).to eq('Success')
-              expect(identify.dig('metadata', 'music', 0, 'acrid')).to eq('90b2803a611bb7015ff71634053a7538')
+              expect(identify['results'].count).to be(2)
+              expect(identify['status']).to eq('ok')
+              expect(identify.dig('results', 0, 'id')).to eq('94664ed5-1dc0-4c34-8679-a9b01f671800')
+              expect(identify.dig('results', 1, 'id')).to eq('3989d11c-6bec-45fd-b1aa-ffc389d9bcf8')
             end
           end
         end
@@ -25,13 +26,15 @@ describe Eivu::Fingerprinter::Acoustid do
 
     context 'Watch the throne - Otis' do
       context 'sending full file' do
-        let(:file) { "/Users/jinx/Dropbox/eivu/sample/library/Adele/Skyfall/01\ -\ Skyfall\ \(Full\ Length\).mp3" }
+        let(:file) { "/Users/jinx/Dropbox/eivu/sample/library/Jay-Z\ \&\ Kanye\ West/Watch\ The\ Throne\ \(Deluxe\ Edition\)\ \[Explicit\]/01-11-\ Made\ In\ America\ \[feat\ Frank\ Ocean\]\ \[Explicit\].mp3" }
 
         context 'success' do
           context 'when passing in audio file' do
             it 'works' do
-              expect(identify.dig('status', 'msg')).to eq('Success')
-              expect(identify.dig('metadata', 'music', 0, 'acrid')).to eq('90b2803a611bb7015ff71634053a7538')
+              expect(identify['results'].count).to be(2)
+              expect(identify['status']).to eq('ok')
+              expect(identify.dig('results', 0, 'id')).to eq('aceb68bd-1447-4a6d-94b3-438772efbbdd')
+              expect(identify.dig('results', 1, 'id')).to eq('99c99bc6-77d4-4163-a9b1-cb4f67aee738')
             end
           end
         end

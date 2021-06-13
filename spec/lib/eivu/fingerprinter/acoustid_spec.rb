@@ -14,6 +14,7 @@ describe Eivu::Fingerprinter::Acoustid do
         context 'success' do
           context 'when passing in audio file' do
             it 'works' do
+              binding.pry
               expect(identify.dig('status', 'msg')).to eq('Success')
               expect(identify.dig('metadata', 'music', 0, 'acrid')).to eq('90b2803a611bb7015ff71634053a7538')
             end

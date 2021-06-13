@@ -40,11 +40,6 @@ module Eivu
       #   @response     = Hashie::Mash.new(Oj.load(@raw_response))
       # end
 
-      # private
-
-      # def execute_binary(path_to_file)
-      #   `fpcalc "#{path_to_file}"`
-      # end
 
       # def fingerprint_url
       #   "#{SERVICE_LOOKUP_URL}?client=#{@client_id}&#{@duration}=#{@duration}&fingerprint=#{@fingerprint}&meta=#{SETTINGS}"
@@ -58,7 +53,7 @@ module Eivu
 
       def perform
         # call fingerprint calculator
-        @output = `fpcalc "#{@path_to_file}"`
+        @output = execute_binary(@path_to_file)
         # output is in the format of:
         # DURATION=267
         # FINGERPRINT=AQADtHKTZFJG7LSwHxeJuGmhj4i6Bj
@@ -72,6 +67,12 @@ module Eivu
         @fp_url = "https://api.acoustid.org/v2/lookup?client=o4Wf01oR4K&duration=#{@duration}&fingerprint=#{@fingerprint}&meta=recordings+releasegroups+compress"
         @raw_response = RestClient.get @fp_url
         @response = Oj.load @raw_response
+      end
+
+      private
+
+      def execute_binary(path_to_file)
+        `fpcalc "#{path_to_file}"`
       end
     end
   end

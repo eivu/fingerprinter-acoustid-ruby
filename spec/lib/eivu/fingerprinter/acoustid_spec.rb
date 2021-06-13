@@ -9,7 +9,14 @@ describe Eivu::Fingerprinter::Acoustid do
 
     context 'Adele - Skyfall' do
       context 'sending full file' do
-        let(:file) { "/Users/jinx/Dropbox/eivu/sample/library/Adele/Skyfall/01\ -\ Skyfall\ \(Full\ Length\).mp3" }
+        let(:fingerprint) { 'spec/fixtures/fingerprints/01_skyfall.txt' }
+        let(:file) { 'skyfall.mp3' }
+
+        before do
+          allow_any_instance_of(described_class)
+            .to receive(:execute_binary)
+            .and_return(File.read(fingerprint))
+        end
 
         context 'success' do
           context 'when passing in audio file' do

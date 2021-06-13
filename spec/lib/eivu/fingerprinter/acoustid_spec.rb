@@ -7,16 +7,16 @@ describe Eivu::Fingerprinter::Acoustid do
   describe '#identify' do
     subject(:identify) { Eivu::Fingerprinter::Acoustid.identify(file) }
 
+    before do
+      allow_any_instance_of(described_class)
+        .to receive(:execute_binary)
+        .and_return(File.read(fingerprint))
+    end
+
     context 'Adele - Skyfall' do
       context 'sending full file' do
         let(:fingerprint) { 'spec/fixtures/fingerprints/01_skyfall.txt' }
         let(:file) { 'skyfall.mp3' }
-
-        before do
-          allow_any_instance_of(described_class)
-            .to receive(:execute_binary)
-            .and_return(File.read(fingerprint))
-        end
 
         context 'success' do
           context 'when passing in audio file' do
@@ -31,9 +31,10 @@ describe Eivu::Fingerprinter::Acoustid do
       end
     end
 
-    context 'Watch the throne - Otis' do
+    context 'Watch the throne - Made in America' do
       context 'sending full file' do
-        let(:file) { "/Users/jinx/Dropbox/eivu/sample/library/Jay-Z\ \&\ Kanye\ West/Watch\ The\ Throne\ \(Deluxe\ Edition\)\ \[Explicit\]/01-11-\ Made\ In\ America\ \[feat\ Frank\ Ocean\]\ \[Explicit\].mp3" }
+        let(:file) { '01-11-Made In America [feat Frank Ocean] [Explicit].mp3' }
+        let(:fingerprint) { 'spec/fixtures/fingerprints/made_in_america.txt' }
 
         context 'success' do
           context 'when passing in audio file' do

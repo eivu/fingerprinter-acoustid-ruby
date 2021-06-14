@@ -6,3 +6,5 @@ gem 'pry'   # Debugger
 gem 'rest-client'
 gem 'rspec' # testing lib
 gem 'rubocop'
+gem 'vcr', '~> 3.0', '>= 3.0.1'
+gem 'webmock', '~> 3.13'

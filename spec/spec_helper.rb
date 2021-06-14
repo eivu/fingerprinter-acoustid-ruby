@@ -1,4 +1,14 @@
+# frozen_string_literal: true
+
 require_relative '../config/environment'
+require 'vcr'
+
+VCR.configure do |config|
+  config.cassette_library_dir = 'spec/fixtures/vcr'
+  config.default_cassette_options = { match_requests_on: %i[method uri body], record: :once }
+  config.configure_rspec_metadata! # enables :vcr tag
+  config.hook_into :webmock
+end
 
 RSpec.configure do |config|
   config.expect_with :rspec do |expectations|
@@ -6,6 +16,9 @@ RSpec.configure do |config|
   end
 
   config.mock_with :rspec do |mocks|
+    # Prevents you from mocking or stubbing a method that does not exist on
+    # a real object. This is generally recommended, and will default to
+    # `true` in RSpec 4.
     mocks.verify_partial_doubles = true
   end
 

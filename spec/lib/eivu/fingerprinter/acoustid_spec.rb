@@ -15,23 +15,35 @@ describe Eivu::Fingerprinter::Acoustid do
         .and_return(File.read(fingerprint))
     end
 
-    # context 'Adele - Skyfall' do
-    #   context 'sending full file' do
-    #     let(:fingerprint) { 'spec/fixtures/fingerprints/01_skyfall.txt' }
-    #     let(:file) { 'skyfall.mp3' }
+    context 'Adele - Skyfall' do
+      let(:folder) { 'spec/fixtures/fingerprints/adele/skyfall/' }
 
-    #     context 'success' do
-    #       context 'when passing in audio file' do
-    #         it 'works' do
-    #           expect(identify['results'].count).to be(2)
-    #           expect(identify['status']).to eq('ok')
-    #           expect(identify.dig('results', 0, 'id')).to eq('94664ed5-1dc0-4c34-8679-a9b01f671800')
-    #           expect(identify.dig('results', 1, 'id')).to eq('3989d11c-6bec-45fd-b1aa-ffc389d9bcf8')
-    #         end
-    #       end
-    #     end
-    #   end
-    # end
+      context 'Single Track' do
+        let(:label) { '01_skyfall' }
+
+        it 'returns the correct result', vcr: true do
+          expect(identify['results'].count).to be(2)
+          expect(identify['status']).to eq('ok')
+          expect(identify.dig('results', 0, 'id')).to eq('94664ed5-1dc0-4c34-8679-a9b01f671800')
+          expect(identify.dig('results', 1, 'id')).to eq('3989d11c-6bec-45fd-b1aa-ffc389d9bcf8')
+        end
+      end
+    end
+
+    context 'Justin Timberlake - Rock Your Body' do
+      let(:folder) { 'spec/fixtures/fingerprints/justin_timberlake/justified/' }
+
+      context 'Single Track' do
+        let(:label) { '06_rock_your_body' }
+
+        it 'returns the correct result', vcr: true do
+          expect(identify['results'].count).to be(2)
+          expect(identify['status']).to eq('ok')
+          expect(identify.dig('results', 0, 'id')).to eq('7aa7281e-100f-425a-a9d6-0dd7376d6130')
+          expect(identify.dig('results', 1, 'id')).to eq('a1b72c00-49ef-4826-8fcb-365f9d80364a')
+        end
+      end
+    end
 
     context 'Album: Watch the throne' do
       let(:folder) { 'spec/fixtures/fingerprints/watch_the_throne/watch_the_throne/' }
@@ -206,30 +218,29 @@ describe Eivu::Fingerprinter::Acoustid do
         end
       end
 
-      # context '15 - 01-15- Primetime' do
-      #   let(:label) { '01-15- Primetime' }
+      context '15 - 01-15- Primetime' do
+        let(:label) { '01-15- Primetime' }
 
-      #   it 'returns the correct result', vcr: true do
-      #     aggregate_failures do
-      #       expect(identify['results'].count).to be(2)
-      #       expect(identify['status']).to eq('ok')
-      #       expect(identify.dig('results', 0, 'id')).to eq('wrong')
-      #       expect(identify.dig('results', 1, 'id')).to eq('wrong')
-      #   end
-      # end
+        it 'returns the correct result', vcr: true do
+          aggregate_failures do
+            expect(identify['results'].count).to be(1)
+            expect(identify['status']).to eq('ok')
+            expect(identify.dig('results', 0, 'id')).to eq('79ea10ea-db1f-4e4e-906e-08471aa2eddd')
+          end
+        end
+      end
 
-      # context '16 - 01-16- The Joy' do
-      #   let(:label) { '01-16- The Joy' }
+      context '16 - 01-16- The Joy' do
+        let(:label) { '01-16- The Joy' }
 
-      #   it 'returns the correct result', vcr: true do
-      #     aggregate_failures do
-      #       expect(identify['results'].count).to be(2)
-      #       expect(identify['status']).to eq('ok')
-      #       expect(identify.dig('results', 0, 'id')).to eq('wrong')
-      #       expect(identify.dig('results', 1, 'id')).to eq('wrong')
-      #     end
-      #   end
-      # end
+        it 'returns the correct result', vcr: true do
+          aggregate_failures do
+            expect(identify['results'].count).to be(1)
+            expect(identify['status']).to eq('ok')
+            expect(identify.dig('results', 0, 'id')).to eq('3382ca2e-1685-49c9-b27f-00b8abe56b96')
+          end
+        end
+      end
     end
   end
 end

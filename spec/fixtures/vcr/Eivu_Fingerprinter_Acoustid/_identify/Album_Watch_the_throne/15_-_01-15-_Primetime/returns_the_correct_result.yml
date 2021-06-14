@@ -1,0 +1,52 @@
+---
+http_interactions:
+- request:
+    method: get
+    uri: https://api.acoustid.org/v2/lookup?client=<ACOUSTID_CLIENT_ID>&duration=199&fingerprint=AQADtNqWRImU4UX6C9cPTbnwIJ9dNJOy4-ND3MFz4_pwBlcIH50j5MyNK2KDT4e-oycaa8G94cHf4EQ9iBdqFaOlQw0T12j6YHqGXDWa7Ud_48rxH_7x6vjxJ3nwHeXO4MVxOEVIXvgfqHqRH01_lMwV4o_Q1zge62jCNHiDPEfy3vg-7MrxxWCaPXB-1DseJJcR6UxxHfaF66iOKk2LlJMORU4YZFeO_9jGLMdF4w_g4zrxB_8R7iL8Q7RYwC9q6vjxLFEe6BeFpsrxRIM_FW9yNC90xsETPDVqoznu5fiCJzqUK4f2JYc_vMSNHw98Bif0IM2PaT2uG0dPfPCLPjT6BSf8LAtuEj_S57gGURd6NBu5CeFzPEqKUEYzKYSeD-6PZw9ykjr84AryaBdu4xrCo-EY4pzGDU83zDLCPDa0C4-c40V76KJSpBWHkjcu6XhxHaeNMPuhXTt-5MxSoc_GYuaO1D20LgvyfthDTDuaI18gZ9SJ5ggtHuWPvMeVoW-g50JOXujaCk064tLx6SFasviUH32E2kbDZSni9GjyBxp1FfmT4hMaZhN6EddxIzcNeYiu8McX_MF9Y9uPJ0f4HcqoaJqQnkef5OiJMJm0HP8g78jRxEWtJLiGXKYGHdcTXBIFU8lyHPoeXGqiCT0PLa6MOw8m9vik41JoPIdzyJGyhISzQXuCay1eFblypMzxI3F53Dp-_HimE9-F80ezs0gmKkKuCU9G4mIaEZc23EpGVBvCVHGhL0yPK7vwI1p8XE5wSTpCNYmF2jHyVyjNo_mIPT7GPsgJRR9ScWZRscJLPDpOFU2HUMMvaIlTKqjlBj-PU2gfhImDl8aP8wp2kcVx8XjK448RZoxiJHtwMcJv4Yvx6kJ-aNlz9BLy5XiPPCEaTdDkJEGP04J2GXw4SjiPMEKfHLeL7IeWHJHG6Dg1FcejpEFtNMeLMD-qMLrw4wG0cCHyHN-Pmjp-4fpj_PhyfB9y2dDCHyEZqsGpkzjFBuexR4SR87gOadqHK33QRBz6LOB9_EFtHfdm3HCNPvlwurhCNMpDtEuGSzqarznKJcNz1E0qTDmPLzgT-Fmh_MelHb3j4crR-rhOdFSE5sRFQAzFZ_g1XEeY5yiPOxNyfThlvNJhXNoItXWKFs1prMcnZSea79AeNN_R67hypOeD_MQfVD7-wHFy2LmGcVkOnzrCyXiiGU3MgLHw6EHPFM2z45OGX0gcyYiZZDl-lEfz4UQeHwd3xWg8iQgVpcmDPdFxPXiTEg_RVOnRrnisH2l8QUdeXNoEkz1-PJ7xHNHZCdfxENfwz2j0o8aT41KYoaIyG-GtqDj8KMfF43rwGT-aSwjHLIeO-PlwHc9VfMzRPGAoJS9-ZI6yNNDUWrB2xNdD7FEitKPxyngywxV-FU8Px3GW4MIziWiPMD_-HWqO80nxEw9z7FHw4w-a_BQibSs-8cOTHTnT4DwUdUOYR8ed48txZU6IZkfoBck3Hd9xKVEq_Ph09El0NIwj5IduJwifLIWLzjkmeclDpFx0aClnPJqR72hiKeg8own1BOEvvIF--Mgz436OfDy2Gz2To6my4_h1DXeqw1aQJ-iURSfSWPJwMU3QPMJ31OrRZB_07MEnpiwaJ0G3BpWlHH5mUHwcoV4-nEfFo1FxJ3g-aDeYhMpRpUe0S3nwEc234dmRS8YX4T_0J8GT449w2UYTx4OOI2yH5zHuHF9yhNZeyMflqQjDHZdy4T9-5MeUD9UffGJGnIT04zpaXYGr7OiZ4ph-XCHEMM3xQw9ubJEWBeH4g1uOh5qx4T_eopRCozk3xE7wji2e5IH6FEcr2xCjejjOIeyPNzde4dOR94Z8NJFbtFEe5MuPHz-OaPmOb1yhh8eP60SeI4zzDZqVpcKPHMyPL8rhVDxC-4GOUB-8B8z24ZP2CruK3mg4pjizo_bRPEsRWznOJA9U8_iL66hcHeKY40LYDv_x5sGXFo9ehNuh_3CsGmGjXPiO_8iPKfnQHfp4vFlI4fpAHxUPO5xRK8sh_ENPuOOhqaKFWjxik4LHLMf3o_KNLzT6g-KNkNKE_vCHLyN8ok-g8EH5dLA4HSfcHr1kPDyq5YUWpyOunCi0cGGFkzqaUkevH7sp6CzmI1L4nOizZjj1hcjXFM0TDVLI4eVxTalxFdrjoNeGLKzQcDjeBrkO_z1UHf91fCglHp8Gj4TWTEd-nE2P_yiZo7lw4sqGMK_g5-gXJwj1B02dC1cyHzl_6KnQ50Zz4ZSUFxEj53genOiXIAyX44iuFk1CvaioB_nxDVp6ZE9yOCmN_wmaH89xH89zPPOQgvOCiyGhcUU94tKFc0fDZdC24zsehvgD7zouJcMlCdqZI3vyIdTj4KJymMqhS9nxdIj9oOmOjtqPS9IOPi_yRTGUT8Q3mMpxcpB7Ia3yhPiDZ8OdwjeO90jyvMg_gZ8wcniO6xqa7wh_fBlxD5cS5nh0ocslaHl0RB_xPMaDcBNDorkKPdLR6UF62nhyNPmFvMmh_YgURomF_bhmPGhUHYyk6sF35FUM5VR0lNMRJj6uHBWVK0TzF_mEpzKa66icQT4x7iH4b3h2PGFyjFSE9cKzC83Rq8hnxE12vEmH60H1wEc3HnwevEdfoZHCQ3129ANf4UeuD_ES8bAaQdOPfKgdg0qPzxgfZccRXjl0XKiVRfhRNU_w_NC942io4MH5DTc69diPH5dT4XtRs-GhZT8-Hdce9AAADAECGuGMsARQAxBSABEikABkASaAEwYRYZBBCiAHmOAACAgAA88IAyBCgBGGGDVMMIUAAwIRgwhRQCCmCLAOGMMIQgoRh6ABABGAgCGAAGQMAoICBZISDAkmiABCIEAZYAgBBqQYkAgBAoACGAaJAsYoIBgQRCEEkLhAASMEcIAZYgkDgABjpBBAAMMJIEALIIhAABEBiGIAAQGQMEoAxQChAgjgiAPGGGYIAUAAAZhh0ggLHAKCKCAAAswworDEECElgARAGI2cEogQJAxQiAkAECBOCEIgYAIwpKwzSAmhAEBCAIoEsEAxIogSRDghoBFAEKKAFAwDAIQAAIABGDNMEAIYRQAIAgQEQiBMDDIOCGAEAIgBJJAQAgilCBAAMISAIYAYQDgDBgkAALIGCYGAIgQIoxEyiBlkIACOKAGEMEoARhyxghhBkGCICEAMIEoCSI0BYAAjmECKAUAQQQgBB5gRxjEEmBBMCCMFQMYgBxARCggIGCEOGQycEAYpAoAiCCkFgINIGKmIQYIZAgxQTiEhDALEICKQQoRABIBgigADACIYAYQYVAoYAYwGQIABAAJQIKAoYAgIB4BQBABDgDFAIaGEcsQJhIAExiAkBQKECAgYIUoBpJQgAAkFFGFICKIAAk55igRjBkAGhDKGEAQEIpYYAwwSRiDGDBdAGCEBIcQBIrBACAjAgSAACEUgAE4YQYhRhhAqABKECQUIIEQhJZQQlAhAiHOAQAEEEUoIAxAgRiEEqBBGCQYMMgQYgIBgDgABhABCGKAMYQwAAKgAAhgAiWKCEAEUVQIAIoRRBiggIGAUAMIME0QKpCSACgAghDEUIKGMYIIBAgBxjBkABBGACEIAAIIiIgAQShCFDDAGEAQAFQIRBYgSSAiBhEEAMKEQAUyIYwQAyghhhBIGAWWAMUIYYwQgACADBHJIMIEMZEAhoBATBiFCGEDOCOIgMQYIwYgAhBrmIQEIEAGYZQBQKJxyxAEgCCDESA&meta=recordings%20releasegroups%20compress
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      Accept:
+      - "*/*"
+      User-Agent:
+      - rest-client/2.1.0 (darwin20.3.0 x86_64) ruby/2.7.1p83
+      Accept-Encoding:
+      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+      Host:
+      - api.acoustid.org
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Date:
+      - Mon, 14 Jun 2021 17:01:07 GMT
+      Content-Type:
+      - application/json; charset=UTF-8
+      Transfer-Encoding:
+      - chunked
+      Connection:
+      - keep-alive
+      Vary:
+      - Accept-Encoding
+      Access-Control-Allow-Origin:
+      - "*"
+      X-Envoy-Upstream-Service-Time:
+      - '74'
+      X-Envoy-Decorator-Operation:
+      - acoustid-server-api.acoustid.svc.cluster.local:3031/*
+      Strict-Transport-Security:
+      - max-age=15724800; includeSubDomains
+    body:
+      encoding: ASCII-8BIT
+      string: '{"results": [{"id": "79ea10ea-db1f-4e4e-906e-08471aa2eddd", "recordings":
+        [{"artists": [{"id": "f82bcf78-5b69-4622-a5ef-73800768d9ac", "joinphrase":
+        " & ", "name": "Jay-Z"}, {"id": "164f0d73-1234-4e2c-8743-d77bf2191051", "name":
+        "Kanye West"}], "duration": 199, "id": "0ea5eed4-6441-4063-87f7-59877d13e362",
+        "releasegroups": [{"id": "a96597aa-93b4-4e14-9e6e-03892ab24979", "title":
+        "Watch the Throne", "type": "Album"}], "title": "Primetime"}], "score": 0.953964}],
+        "status": "ok"}'
+    http_version:
+  recorded_at: Mon, 14 Jun 2021 17:01:07 GMT
+recorded_with: VCR 3.0.3

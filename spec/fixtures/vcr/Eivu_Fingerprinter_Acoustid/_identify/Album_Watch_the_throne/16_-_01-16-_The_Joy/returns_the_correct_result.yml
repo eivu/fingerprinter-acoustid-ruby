@@ -1,0 +1,65 @@
+---
+http_interactions:
+- request:
+    method: get
+    uri: https://api.acoustid.org/v2/lookup?client=<ACOUSTID_CLIENT_ID>&duration=317&fingerprint=AQADtJtSJssk7MmDj8cnognF1OiD_3hU_LiHsGJYiEKbiQv-o8nxwT_CS8NRoVG1Dm9yCT185Mmha7h2nEMfD5-ShUd-ISKe6Giqo2-gkRpjTKkSHU-UMLiE6wgrl_BTlOrxH29i4tLxtpGIsJ8CTyr0BD_CJysemcOTJEeOKcoLPQqY_MjZ4v2IK1sRJiJjdBfULcdFlEsuNNUF_UTYo0qlTMKXg5MON3uKZ-nRL2ii7Ake7SteXXB1xIc8h0ifuXiWJ3iIMp0OH87R70P1o5mokLgyhcSPkJ6gPYgzfIV_3GskfNKFLnCMZ0d-iGcq5Bl1fHtwHfcOyxFbjNeQLs9QPviNPoO_oD-eTcZ7BbpOIc6MJviSbTB3XPpxZ0VTB0-v48JxR9iR84LGLkf0k3iGUg5zPOhDNJsivHh05Myhv_hLhDzs7Ii3HN8HMWLhMbpQ73gPLUflD2fCI9Rh_LiSOceJ0xYqbilyLTkuG8qPPtFxPGrwLDsufsgT_didIk3h3igZot0hHqWCWFJivA-qOWXQlF6MXoFf_Eh9JNt0PCv-Yj1ynjiVB9-h8cEjGh6TB1JEPXh8IUcYJ6NQHvqR8xPu_OiOJseXKgfnHE11ocqUS_jRHD2TIf7RTKILbcoe5CyX4j2a7vjFYpOvYxaaXOFwKi_ekki2UEpw5Ievo-xyfIx8VJoe-Av-w49wOUcYLj30jETIw6FqnCccSsMucYE_osyRM-mCH1qcos9F5KWK97gvPC_xz0EvPMVLxDSP-xG0xLnwBzeap6gcvPgzDeVy6D-ebmiPRrzQmcUl_EJ1C817nBmOSqeQ_sWPb0V5Hs-xE5eGlj8uFekO3UV0ZSR-PMd_NHwY_EfNBE3C5siFL8oZfJqhHyGuJDJc8cGvDqFSmTiuQ4cZSTEeDz_q4450dJlmyBOPR0OL5hLujPh-9EdTlYrxJagfCemOJ4ezyMVJXJKUY8pxGkersHiOR6KG90iymBnSD_1CnCIV9Gi-4z8QQ24u5JmJyxuq4zuewOEJ64fjjGgXDfmhcc3RPCdOoXuPa4da45xxP9BbOPoRPniDH7UPS0qPvIZ6hN-EkoGp4jpudN4xooSp7PBzXHqQPFUQbV1htMtwZsKvoNfRXAlxIcanfMHNQzM3pC8u5cHheBqs5kFlNsKjID-8p3gSQb-MSmOONx-q54TW6MTxCX7Q79AvfJfRnMFf-IdoHTo-PYYWusKpcBdOfFWCKfyRE7Zv1GMjnBYRCsoRei9umnge9GhO5IRexE1uvHxwGtWOSxfsJDMuGVajIP00aBpxIcxu4crx5kGqSL2hOgjzDo_y42mLihcafUV8CEcY5hY66hFyQdORJzKebDhv3EKThMcsZcEP-gif4NfgHCTDHGKHSCeepfiT4_CLPEmCp4fwH_mVOLiNiimHPMd3vMuHJhcZ6AyDs3gOOz1ORfgPTT-Ro_5QZ8dXOJ_ReUQenC80TRdcFXmYI-9QSjGu45KhTUcaH1PHEI8OVg_uqGhuB12sNMGTyUj0I8waBdOLJ8fzHBeDxkmENkI-_JD94FQmoSpc5XjhrMejolEvnEpIvMfTG1a4pDhznH7xPPjyo1-4QJSO-FGmoZ0unDleC61ONMnEcHj2IOkfhKk39MYXYdKOLz-6MMS5hTgY-oe5HHYuGbkPSU92pC8mPcI__EHfoykV5BT0Iz4eLU_x5_iF-iJM6UhLnB03OH-GsnvwrngMOwzOHN9k9CmJNyx04k01InxRbWgeFj_eo_rRiNGYFXlqJD-afDl64Tz-oZTyoyfx6ViPTgt85NMhvkdoRTn2Bm-OV8Rd9EHT9biPnIK-5Iht48XnTEJ_wowC60L1F2H-oV5kvEOloxGj4WJOfAnaLwrs44R4wT_6D9fxvcehEM88o88HH_ukHD4-BkftEM2H_sh7PM2DN_qCO0YvmD-uxQh6CqozB5eC6HbwIzzeRAezJcffQEsdnHOg7cI5Hv-KnuHQ_MLlQ7eE00KuHFWkE0ze41LooNeLRslo4ZJih3gSoamOUIe2TsqRTsqO_sPRLwt8qYeP9sQ_hKlyop6gn0R-HQ9e3NTh5_jTBFeoWEFHwjl-pIdu5JmNrxd8nMWzxUyxF-meoYy0LfiNPkHzDD-eSdmgd1bwXIhpNMIlZRvMycOX67gyNA9x7viP4zwurFuOZGecINpISvhoXDqa1_jRfEFpHTmhbkE-fbhzVIftIuZ0XO-gGn1Y4ZMG_Wh4hPLxLOFRfYR3HJe2BTlcXWi-DOqiPMTzYzyOWseVPIRepTMeH3pS4mewbYd7ow9xND80J4i5HO-HP4cvLkI92FOK-BDFI5SObz5-Fd8RLnwwWTmNH3qDkjS-5YGW8cF9_EEfD80DaVpx7caVPEIoHg3BZ_Hx9WginUGnJbKCy0d1HU16_EKY6jE0SccXOkGs2UHzo5t-VKfgPceXw1yUrCgtGXnDQ72II5TRPMpDPJyFcjvhHzWHwj_SX1ClTWKCPApjOJkefPhGXA_2CmXiFF-Sx3iO5gxCKyN0WQviNIuL5_hQSYY_PD0c6uhyVM50-Ai7Q8s79DvyHGHiHWcuNIcua-g3I4dV9OqETzeO8IHPHNqjoz8Rr4tgRSruHHfh3dgohDx-JIq4HY2urHizo-kC5guHi9zwPIjaDJqoIsxzHE_xMKqImL1wLy20HT6e4xCv40WjyLiO8kOTpse3HOWL5vmgrWi2THgzo02zDAEAEcI4AAGQAgiMiCAiEGkRQQggAgBgiggIFCJGCCCFIAwIBIgQRqiBgDAAIYCQMUBwYyBhRBhBABIeCKSRkEwAJKgDCCgCCHPKAQEIYQIQBpxCQhhBCCGCIGIEEIAYAogRAgBGwJKAC4AAMAoYoQAwBBsBHDMGMAQAIAoARIkAQAEglCMDAQUAMcw4KARACgojFCCgCCAAMMBSQiwixAsgnBFAAYAAEYYAqBRAAAgigEGCAICcQEgBgZQAihBghABCKmKEUMYhJAgwRgglCDTOAEawEEYAIJBSmACBhBGEMUKBAA4AowCgxBgACEXGMCIBEEBDAYBQhADChAAOIOKMQkQQYBVwwhBEnVGKGWGgAAYYQZRBAAlBBaFACEsAWEAIQBBkyBgojBBAKCMQMo4IhYAQBBCBrCTCKICAA8QIJQwgTDGhAHMCMIKGIUgIZIkBwBKEAAHKGKAIBAAILJQCwGBloGDCAMWEEwAQAwFAACAmgBBCIGiUAYIIAbwRBigAFUBOEeQEsgoAA4wCjhGBIBAJGSaYMUggQRAgigAABAGCMQSYEAIgxoAAigAgDAEAAMAMU4YYA4UhAgAHCAECCEMABQIIYZwxQArFiDEAAIOEEQRKgAQQQglIAWXKGAHMAAICAIh0AHiAHBBECAUBIEIJggGiRgyjDAQGACQFIYAAopUQjEgDACAECEKcYMY4g4ggQCkDBEBeCYEQk0IAQZASQAFHBDCOKSgIoAA44QgQEhCgFCBCIAQAccQQ5KgAxABmhEOAIOGEEAIxAo0QiIAjnRACAgmpA4AAhABRgkFDBAGEEIAVEoQBpgAABxAlEJACCYWEI4IwQhxARABCDXJCACeQQUQIAQgRRDFBBHHQEUMEYwAohSEDggBBkGHKCWE8ApYIBTAQgigDqBUWYQGAI4AwhFQlAFHKjDGAIyIAMAQIAQ&meta=recordings%20releasegroups%20compress
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      Accept:
+      - "*/*"
+      User-Agent:
+      - rest-client/2.1.0 (darwin20.3.0 x86_64) ruby/2.7.1p83
+      Accept-Encoding:
+      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+      Host:
+      - api.acoustid.org
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Date:
+      - Mon, 14 Jun 2021 17:01:08 GMT
+      Content-Type:
+      - application/json; charset=UTF-8
+      Transfer-Encoding:
+      - chunked
+      Connection:
+      - keep-alive
+      Vary:
+      - Accept-Encoding
+      Access-Control-Allow-Origin:
+      - "*"
+      X-Envoy-Upstream-Service-Time:
+      - '115'
+      X-Envoy-Decorator-Operation:
+      - acoustid-server-api.acoustid.svc.cluster.local:3031/*
+      Strict-Transport-Security:
+      - max-age=15724800; includeSubDomains
+    body:
+      encoding: ASCII-8BIT
+      string: '{"results": [{"id": "3382ca2e-1685-49c9-b27f-00b8abe56b96", "recordings":
+        [{"artists": [{"id": "f82bcf78-5b69-4622-a5ef-73800768d9ac", "joinphrase":
+        " & ", "name": "Jay-Z"}, {"id": "164f0d73-1234-4e2c-8743-d77bf2191051", "name":
+        "Kanye West"}], "duration": 174, "id": "5493af9b-1c17-4746-a8c0-267d63e4902b",
+        "releasegroups": [{"id": "a96597aa-93b4-4e14-9e6e-03892ab24979", "title":
+        "Watch the Throne", "type": "Album"}], "title": "Welcome to the Jungle"},
+        {"artists": [{"id": "f82bcf78-5b69-4622-a5ef-73800768d9ac", "joinphrase":
+        " & ", "name": "Jay-Z"}, {"id": "164f0d73-1234-4e2c-8743-d77bf2191051", "name":
+        "Kanye West"}], "duration": 300, "id": "a3f72678-85a6-4c55-89a1-4c4c7c75daaa",
+        "releasegroups": [{"id": "a96597aa-93b4-4e14-9e6e-03892ab24979", "title":
+        "Watch the Throne", "type": "Album"}], "title": "Murder to Excellence"}, {"artists":
+        [{"id": "f82bcf78-5b69-4622-a5ef-73800768d9ac", "joinphrase": " & ", "name":
+        "Jay-Z"}, {"id": "164f0d73-1234-4e2c-8743-d77bf2191051", "joinphrase": " feat.
+        ", "name": "Kanye West"}, {"id": "4dca4bb2-23ba-4103-97e6-5810311db33a", "name":
+        "Curtis Mayfield"}], "duration": 317, "id": "dfa71d90-ca3a-4a4b-a329-1ab3f75c9274",
+        "releasegroups": [{"artists": [{"id": "f82bcf78-5b69-4622-a5ef-73800768d9ac",
+        "joinphrase": " & ", "name": "Jay-Z"}, {"id": "164f0d73-1234-4e2c-8743-d77bf2191051",
+        "name": "Kanye West"}], "id": "a96597aa-93b4-4e14-9e6e-03892ab24979", "title":
+        "Watch the Throne", "type": "Album"}], "title": "The Joy"}], "score": 0.976171}],
+        "status": "ok"}'
+    http_version:
+  recorded_at: Mon, 14 Jun 2021 17:01:08 GMT
+recorded_with: VCR 3.0.3

@@ -10,6 +10,8 @@ module Eivu
       SERVICE_LOOKUP_URL = 'https://api.acoustid.org/v2/lookup'
       SETTINGS = 'recordings+releasegroups+compress'
 
+      attr_reader :fingerprint, :duration, :raw_response, :response
+
       def self.identify(path_to_file = nil)
         instance = new
         instance.generate(path_to_file)
@@ -36,7 +38,7 @@ module Eivu
 
       def submit
         @raw_response = RestClient.get(fingerprint_url)
-        @response = Oj.load @raw_response
+        @response     = Oj.load @raw_response
       end
 
       def fingerprint_url

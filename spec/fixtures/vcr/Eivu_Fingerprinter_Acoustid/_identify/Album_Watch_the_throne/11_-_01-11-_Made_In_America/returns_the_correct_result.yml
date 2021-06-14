@@ -1,0 +1,64 @@
+---
+http_interactions:
+- request:
+    method: get
+    uri: https://api.acoustid.org/v2/lookup?client=<ACOUSTID_CLIENT_ID>&duration=292&fingerprint=AQADtEmUJIqSSImSQVuPQzt8PMHhB8cvWMcTGA-u4Tt8PAH8EC8OH2dgFccP_zjOwDqe48cPy8IHq8OFwybeCPBrQQ-MK4cfohfeoDL0wb_wwMcPwT8eyBosBo8RfIcvPLiQPsZrWL1wPLAKHfoHH28AH1ei4_CPB0caB8fVw8eZwjnCax7QHw1XPIeW48Ev_PCDf4WdQM-R4yNcRQGPTzBJvHNwHa7xLIeHhycuBeaOH3m0HeKR4wo_-DlxGy9z2MmHI1fhH_nh93iLV4Zd3DP8oh0boc9GhKGOH3oO5kNzPEe4VRYsPIczIXuI7wP1ruiLsAuaNBMeHz2eDduR-xAf9MKFnnB2_IQvXITIFU89HH6A8Al6OMdHwwh7_IKmH9uGPkf5osGP7-hHiLLwCeKJy8cPH-fxQHwUBIePd5rhH3d4HD5Rb8eLLAk068RDEicaRkWP7nBH_BBFjUMpLUZ4OOLR8siVQZWOMH_RtbgOpufgHz76oHKU4syL_A966Jss9NFB4VOk4YdvXMlh9JPRNYftox2L0PtAnahV_EeoDzt8fBp86CxOQ89kwTFOFrlx_MZhS3jRH_mhswgPk-g64sa340d41tByEu-xD4WPTxP8QPrRJ0F944e_49SOC7qkIpeN63B-VHSEF8zxB7aUC29y0MuM9B_-4LRh6hFuPEuxId8O5ynCi-hKKOtz9AgvCz_8wPpxHU-Ou4dvHfeO-8g__Ci-CY2mQKvS4xd6HqaI-sKDRkcfXKhj4lGGF2cM6kHY5Lgq_GhOTOdxot6D1DbOQXxwtNmhvbCObzgDM4I_6FmH46NhTcfRF1oVbPgPH-1ydId99EcfJYIojcZ35MMfwU6O5_CDfIce5LCDw8ePBy-sg1-Ow-dxGqZr5Do-GeKhE7ujwkf4BX2DaM_xB3qD9MXLwzzuHPxxEY4XivjwZqnwI3yPB1eh5eHA7Lh29DxM6bjg44oO_7iMWjz6gMmPqzgRSd-R_uiHnoHRbkF1KrABnxaOczAumXghvrh4vEh_fILVTiiJXB8K89CxjdGR4-nxkPDxHG-Q8kef4YF2wWIl9EEP8TxexN8Fn_gSnIdj4kphecdJvM0FPwOvEudhvog5QufhtEceFd_hcEd04VpgTT4ePDzyHf7h58EunOlhcseHL4HrIU2TPahVEnpRuUeYZ8fz4z_67Pg3PMOZI30uaGpxIWNzNC_65MgVVLfgCto_oUekHPGWC5-OJkerVEKfDy4OPyaqpkO3I-XyDOGJ6zgFLc-FH9aPH_exHVc26IPz4zuYSR501DpUKjsOpx6-DD-sZixuZiB8PEMeEo5xUSTug4epF7XI40PXIq1faM9a9DZMFi_EN9iVHP_g8zjOHJuOK8qh98MzrkhPHDcfw4wy4oOdHJdw3JGQM0df3IKOhlF44A_Sc4O7o8_x4-hzIYwtZjjBeCPSV0fX4zp-1BccB78Q7ceLH6Lz4T4-BU9z6DluZbhiHD7qPdAOp_mCZ4VV5viOL_APUSLR4Vo44cOeo5GUoz7OoM9gXNkM2zisozp-9D7SMcKPD_5x4jseHvtwLYd_bOvww4yOXsuN8_gXMJtYpCeuwha2B9qPdVPQI31eHH6PNgqqvsUNq_iidMSPU0T4EB-0H02WIbcHtAsalQ_eIxfDQctxK0d-XMcjIdQHzTODn8gUxiiZD_1gnai2cMMuDuWO9EdZVtB-mDqqlBeanOiFFs1zHM2D_jgpVNHRxDj06sHR-MMVw5mDOMcX-HHRC7-KB11fhOGhI28xfXi6VPiROjw0PkKOdlFG-MdvmEqPfjYuHsyNMD--hcfkHhaPRwpcfRG-4hu8C-F1nEUj9B8ieQos09CPnGj-4IvS4UfPg0qFLwGtZMcZC-E5Bm9wMYWW3OiP-0JfInVHvEh_vIlyWKOgsx4uZsctNFyWEjPxSdD8oklzfFtxC-mR8_CUh3ib4ClR-mgiJznkiceX5FLxO7iSPBCfHL9EnMGT0kj348ce5Abz4HqJ4zH65LhI40eDdkF_iO9xXjj8433xFOKD3MY1wh2-gD_8EFe444d3nIdH_PgSEZb24viGhM-PHJdCHv4l_MJhJ8dp5Cr8Iz9--GnxCu9hGWcK8zaedUipnBp66DqYR2jwnuh55D0sw2mOzCvOgzr6HjlbNGl2VGlxWuhhRkT044F4BT36EQ5-PCJhCzosCR8eGHmIwzhMGmF3vIemH94xXUfJwkef41vRQ1SPi4QPXfjhHx_ew1-gD7nhH29nHI5zAeawVSYwhqRiwiCrAGNCOIYAcsIyxRBDRhkBkEEACyGMUgAowZhhQknAkFPKCSuAERoQJpQBghmABDOaGacUEMYgapxQhDGmgGTCKACoIcBQgQg1gioCgEMCCIcsQgIzwAAxAjhgmAEGIEKpYkAoJQBgCGDhgBKGOAKE4MIICgQjFFghAAJCAccQE0QaxIyiWgCgBQJUCUMAAEIggZgySgABgCAEQMEQMsYBZgRjgjEjgQXMCQIAQk4AAAEwQAgCkBFCAqO8IAAhRgQBCDEDECBAIYaAAcgqAZAAgCjBAJIWMEIAY0aIIxlwCDghCDPAcgUkYsIwxAAGxEBDEDKCCWaAkQQxAMEVzlBFDGOAOAQZUEAIAIwBRAggAAJaUcEYACIBigQRBikkADNAIIIMEkgRAYR0RgChGJCEASMFYkAAZhQgghJFAGAAAGaMMQwgABgACBDigHDKSMYIUwgYIQgQDFAABCAAASGAAowBYKQBABBEgDBCMCoAAkoQwhQQhAgDgEIAQSSQgAxYwxAQUhlhHBGOCCAAMFYA4BgiCCDBgAUAGkYBQNAiwJBQQAjDhGFAKGeMEMoowYBBCDAgBFSIKcMEA04wIJEwCjAmkKPIAQCsIAJpIIRASAHFGAKAGWQERcowoAAAwBrlgKCKIKKAEUIYoJQRRAFhhAJKGAIABcACIZS0AjgCiQMYIIYEYkRIQAgFAhhBkGMAAMEYEwZBAIlAiFGAgGUCMMGEQEYoBARVAgAACKUACGCMYowpQIAgggFgkAAAAQecFAiYBxSQQiAgjFHCCKEAEgwAYABj0DElmbAMCECFEIYJq5gRVBELAFKAAQZEUUIIIowQxgAhiHFEMCqUM4pJ0ZSyUiAgKDBUEICE08ZIBBwTQFFhhDQA&meta=recordings%20releasegroups%20compress
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      Accept:
+      - "*/*"
+      User-Agent:
+      - rest-client/2.1.0 (darwin20.3.0 x86_64) ruby/2.7.1p83
+      Accept-Encoding:
+      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+      Host:
+      - api.acoustid.org
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Date:
+      - Mon, 14 Jun 2021 16:50:01 GMT
+      Content-Type:
+      - application/json; charset=UTF-8
+      Transfer-Encoding:
+      - chunked
+      Connection:
+      - keep-alive
+      Vary:
+      - Accept-Encoding
+      Access-Control-Allow-Origin:
+      - "*"
+      X-Envoy-Upstream-Service-Time:
+      - '109'
+      X-Envoy-Decorator-Operation:
+      - acoustid-server-api.acoustid.svc.cluster.local:3031/*
+      Strict-Transport-Security:
+      - max-age=15724800; includeSubDomains
+    body:
+      encoding: ASCII-8BIT
+      string: '{"results": [{"id": "aceb68bd-1447-4a6d-94b3-438772efbbdd", "recordings":
+        [{"artists": [{"id": "f82bcf78-5b69-4622-a5ef-73800768d9ac", "joinphrase":
+        " & ", "name": "Jay-Z"}, {"id": "164f0d73-1234-4e2c-8743-d77bf2191051", "joinphrase":
+        " feat. ", "name": "Kanye West"}, {"id": "e520459c-dff4-491d-a6e4-c97be35e0044",
+        "name": "Frank Ocean"}], "duration": 292, "id": "d75d6e31-9d60-4aeb-9530-31b7e8d333aa",
+        "releasegroups": [{"artists": [{"id": "f82bcf78-5b69-4622-a5ef-73800768d9ac",
+        "joinphrase": " & ", "name": "Jay-Z"}, {"id": "164f0d73-1234-4e2c-8743-d77bf2191051",
+        "name": "Kanye West"}], "id": "a96597aa-93b4-4e14-9e6e-03892ab24979", "title":
+        "Watch the Throne", "type": "Album"}], "title": "Made in America"}], "score":
+        0.982155}, {"id": "99c99bc6-77d4-4163-a9b1-cb4f67aee738", "recordings": [{"artists":
+        [{"id": "f82bcf78-5b69-4622-a5ef-73800768d9ac", "joinphrase": " & ", "name":
+        "Jay-Z"}, {"id": "164f0d73-1234-4e2c-8743-d77bf2191051", "joinphrase": " feat.
+        ", "name": "Kanye West"}, {"id": "e520459c-dff4-491d-a6e4-c97be35e0044", "name":
+        "Frank Ocean"}], "duration": 292, "id": "d75d6e31-9d60-4aeb-9530-31b7e8d333aa",
+        "releasegroups": [{"artists": [{"id": "f82bcf78-5b69-4622-a5ef-73800768d9ac",
+        "joinphrase": " & ", "name": "Jay-Z"}, {"id": "164f0d73-1234-4e2c-8743-d77bf2191051",
+        "name": "Kanye West"}], "id": "a96597aa-93b4-4e14-9e6e-03892ab24979", "title":
+        "Watch the Throne", "type": "Album"}], "title": "Made in America"}], "score":
+        0.97912}], "status": "ok"}'
+    http_version:
+  recorded_at: Mon, 14 Jun 2021 16:50:01 GMT
+recorded_with: VCR 3.0.3

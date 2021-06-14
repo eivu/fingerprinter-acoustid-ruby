@@ -6,6 +6,7 @@ require 'vcr'
 VCR.configure do |config|
   config.cassette_library_dir = 'spec/fixtures/vcr'
   config.default_cassette_options = { match_requests_on: %i[method uri body], record: :once }
+  config.filter_sensitive_data('<ACOUSTID_CLIENT_ID>') { ENV['ACOUSTID_CLIENT_ID'] }
   config.configure_rspec_metadata! # enables :vcr tag
   config.hook_into :webmock
 end

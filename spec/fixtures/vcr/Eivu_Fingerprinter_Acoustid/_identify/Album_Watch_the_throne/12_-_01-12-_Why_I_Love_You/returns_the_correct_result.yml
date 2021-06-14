@@ -1,0 +1,87 @@
+---
+http_interactions:
+- request:
+    method: get
+    uri: https://api.acoustid.org/v2/lookup?client=<ACOUSTID_CLIENT_ID>&duration=201&fingerprint=AQADtHMTJZqSBHl66It0hFYOHy_65riLKzuYOCh7dBfC8NBztH3gbkeaO2B8XLmwc8OPnzEaK1uHyVqOWCLON7hyCdWmUmiuQjqaMILmD_oDrWjCGx_OQB-O5kb_4soR6mgUORWu8Kh_mMcffCMyOcRpQeu64TjaPIGPM4dz4NmRd4SPe0ZK6YYu7jjyH0d_XMeLHpYfhD96Qcvs4fGFL0Zz9MToWkG9-WgeEv2I5hmP-LiJ78GnLE2Qa_JQH3rQnA4e0Xhy6EdsBj28Gz2e-MhpQ3uONH7xcDnahcOs40su4ZELj8dN3Ktw_IIz5cEzqUOe7tCJ5kVaRWKCXsRzosmiomQU9KTwVUHoQ4954UEW-URzEc_RPDu6HSGHhnxw5viDBj7CP-BVIo83oYl56ElupLGES1mORtlx8LiydEUjKUochI-O8mgivTg4ouFRJTv08QEPHzfqF80j5FdxbmiU4zvM8aj7DGeKLB4cHy30Bz88KTyOH9VhfMePy4c7WYd-C-mPHiv-wB0b7MVxhC4sH48uiC_6T8EVBX-OakW5HPmJ39jODX-OWyL-4D-uHH3aJEN-yNORPjNqZSOeI4dcBqGcGc1e4BROmYgtQyMRjY2joNeOH-dxZkalG40YdcgXCdIkkyh9uMojPIdeNFVy_NDTo9kUTejRw2mPR3oGceEy5Dg89WiTMMX14LzQB2HeddBzHLUy1GlwJsdzQ5eO5luN0JtM8Plw8UcjfyjZseA24kOz5aiOLj2aJVbxbnjQHH2OnEG5CT6TEX4GhXsUPDk8-TiLH-5uvLgWrmicJA8-HZMV_FGOcE_x3GAk6Udz4ku-BP_xFX_wagjzoic-pmAXHod2poLHfEF7PFqGKSk6XcHVo_mO_rhx5-gPS9GT4wiXJhcuHftx3OnwJ-iUH02aID9XnPgVVH4CK0xk8InA7biiNBBvZcIbhcg0hujpgP_xC02cBYzFD_g_xD-H8hB5op8snMrRH_5xB__xHw8eiDmuHC8JDZ8uHDf64aCqHo8OKsePV9CyQw9-NPxR-UGPD25gacN_hDp6Dc2v4tGH6w2aN6iOl8ep4IOJ42gq6TgNgsolhCsqCw904fjh8-iPSfsKj_jh08X049FxSkcuXrh0_FGM72hG5mCmPBFe_DzeHHl2aJS0BoeJ73B1aNJ8dOHRPMoB-UV5_HvhH1WTYUftw0scdM2PfBe-48nx5PhxPUL1RYE5lIqOXMcjrD0aRhfOJGEU4ZVCfKTQ_AnUV5mQJSj5EXc-vMGfC32O5seP_MR7dBdegQpP4pkalDxK6D8cpyrynniH33CVI_wFaDwJ0h4Obj9-QeTxHulx3Dg-5DscJsehbsPzBVSFx8MN_cIvxM-F5sYvPLmI3zHc48OPHx6DZ0EPPyYY486MZ8yEB6H1wHmUQ3twokwOf8g5eF2GH-kt_Hj0HLdG4k4W3CiP_Dh_1OLRPBbOJ_gfHPeSEw_RIxpPdCXeHD-063B2PIL3IscP_7h0_Bu8Izw0SjVEcp7haDsiXdHx03hv_EL7KPBW8EePfC0OfckVaNcDKk8Cq4kITdSPOyHC_kEzZriJOlfg8KjyKEc-HFqaE5cSF_ou_Lj7wNKiHMmVr8KP54eX7BqYP6g9BY6LF7EUrUPCZQ-6g2ye416IPQ2a0ORRNnTwHaUaF9EzH_qHIryP5j_O4kVT8-iPaT-a41IulAt-hNoyaD42e0doZSNKXmiuhHiiSEd1eMdvbFXmRPiSKYXHCOGPH3cOVbrQMDlxvEX4IH-xF1oe_MP1C8ok9fAeFy9yfmhIvAsqE9uRh4eno4cuPDzCI40J_8iHzc1Ri2wRqYe4KtWKd8ePVNPxw0atzOCRo_nBHPXRbMeTMNg5THmUGpVxR5OgL9kDejTCa4Ov9Pgm47BGPLrQV4vwI3uETtGh5Tly5JCiLURT5MplFP4LRHtyKD7SKD6YbXtwZQqu5ZiP6UfzLBP-43KDJzsq8WiUE_kFKbyQHtSPvgke5WjyBFOzHb-KiY-Rb3igH-nrozqLz-gLTzounML2Iw9z2IeLlvtw95jSE9pzDVcuNNeNkEwiHNXhXlijJB--aQ7OHX2Q09ATHpfyCQ1vlBeCFyciXYd_9Jh-4yKPbqOD-wj1oXEY3MedIpKbw5LSNKhYaPzRjDjR9_Be-BYqot-RKlJvpOQFjRceihrC6Ef9gxea3uhZnDg6IxP6B80UHlPD4x_KRjkU5TiNnEev4xYJXutxE_VxH78OPmuEIw80H2FO0EdOQ_ZyOBRyXEePPWmG5EcayUfX4WG1YD8-7fiHpkeoNAqSVzi-CT1cHX3wFOEHZWlyIT82PdzwF4fhA8SPv8gD0Sl44Rd8ORDxJT6u4j98I__xo-mO58db-GxwfCN-lBMaDscTUWi4Hezxww_i44k0fEmN33hH6PCHP_gNJ-bx40YzH28OHqWU5QiVR7jp4zeaPZuK-vg14rvxD1eVF33Q7MZzIksnGWcIMdbxC861opSOnDuOZj2u41F4xMkP54Lu42SM9hJ0J1mLR0f2Cz-ei-gdmDveEUIAdOIyAJByVDJADAIGGUeJgIIhYpBSRhGmGBEEAW6AAJYCARhpgAgtiNISAMeCBI4QRJVwgFhiHBLCGIA8YU4Qh4BRlAjlCDJGCCMEJMQYAQhCyACBgBJCQUQEQ9AqoAxCABKhADAOAeIcMgkYx0BgBDAAEUAEECeIEIIw5QAjFgrHmAEAKEKxkwRBp4QVRhFAlDKICScEIEIIiRBwQgJlDAQCCCOoIYQgoZA0jAlmHRBEQgIBEQIgxIgkQAEiCAKAIMkIo1IgAwBQRjjggQDGGGAMYUYgRQAzAggBoDaACoKdREwAwSgCABlgDZKEeEQcQIIw5YxCCikBFMEECWCAcEAYIQQCCAAkCLECIsIIsFooAwRljBCCiBAIDAKBF0AhgJRyQgHiQDCAEuYQMEwAoQFDEBACELEMOOEQIMIooQRrQgkngMIAEAVEMEIgSBxUChnADBSYSiOEAwYBAKggSgggoDSOKEYBEwQAgCghQhjCBWFIIKEcEMYY4RlABjDBgdDIKIOAckowSSwARCAgEGSMIIcIAUYAQqYyxgiGDECGQCCYgkQQaYx0iDqECEEGCs0EEAwYopiBTLIABCBGUAEY4YQw2IgwFAAgAEFKEACAQgoQwQQACAlDgAIIOCUIIoQggBwQBjBiubDACCYAYoQwoogASgIAiCCAEYuE4pwRCgQAkAkokTNmCSCWEk4gAIQgwDUgoAEGGA8EAQQwCQgRwAkEgFHEIKwIAgIYJZghyAHEjAVAWSAFJ4gABYAAACEADLWYAAKIIoIAqBgCDAgLDACIWASAIsQIIQhAADAJBAOCEcYMA4QKBIBwBBBBgCFQAmCMUc4rgIjyBhHACHCGOIbg1UYoAgQiyDDjlEAECGsEQQRABYCzDiEFtBAIeMQEYAJYYAhhSiAGjGESMWMIMEA4QxgTAAoAhEIMESWMYASRSpwRAlgCCQNOEACYUEoS&meta=recordings%20releasegroups%20compress
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      Accept:
+      - "*/*"
+      User-Agent:
+      - rest-client/2.1.0 (darwin20.3.0 x86_64) ruby/2.7.1p83
+      Accept-Encoding:
+      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+      Host:
+      - api.acoustid.org
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Date:
+      - Mon, 14 Jun 2021 16:51:28 GMT
+      Content-Type:
+      - application/json; charset=UTF-8
+      Transfer-Encoding:
+      - chunked
+      Connection:
+      - keep-alive
+      Vary:
+      - Accept-Encoding
+      Access-Control-Allow-Origin:
+      - "*"
+      X-Envoy-Upstream-Service-Time:
+      - '130'
+      X-Envoy-Decorator-Operation:
+      - acoustid-server-api.acoustid.svc.cluster.local:3031/*
+      Strict-Transport-Security:
+      - max-age=15724800; includeSubDomains
+    body:
+      encoding: ASCII-8BIT
+      string: '{"results": [{"id": "b78c0699-e46a-4e5b-9433-9fd854376057", "recordings":
+        [{"artists": [{"id": "37d0a847-32d3-480f-bd1e-101f50a3d332", "name": "Selena
+        Gomez & The Scene"}], "duration": 188, "id": "1a22c8ba-3f56-44a5-90fb-8eb150811b8f",
+        "releasegroups": [{"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "bb639632-ab64-4766-b4ab-2a2ad95a6190",
+        "secondarytypes": ["Compilation"], "title": "NOW That''s What I Call Music
+        Classics, Vol. 3", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "bf35d758-3824-4f82-846e-77667914a53f",
+        "secondarytypes": ["Compilation"], "title": "Promo Only: Mainstream Radio,
+        October 2011", "type": "Album"}, {"artists": [{"id": "e4bc69e2-a064-4f93-ada1-f7f209cc1cc3",
+        "name": "Selena Gomez"}], "id": "794ce738-1562-4dc8-be73-7923a8961618", "secondarytypes":
+        ["Compilation"], "title": "For You", "type": "Album"}, {"artists": [{"id":
+        "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}], "id":
+        "c161665e-e3ae-447e-84ba-3da00fa0ca68", "secondarytypes": ["Compilation"],
+        "title": "Now That\u2019s What I Call Music! 41", "type": "Album"}, {"artists":
+        [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}],
+        "id": "7e85c76c-4c56-4ffa-82a8-efcda1f1b127", "secondarytypes": ["Compilation"],
+        "title": "Supergeil! Lovesongs", "type": "Album"}, {"id": "4e5b294b-c166-4d24-81cf-4b6ee5af3e75",
+        "title": "When the Sun Goes Down", "type": "Album"}], "title": "Love You Like
+        a Love Song"}, {"artists": [{"id": "f8e8de78-2131-4e96-8829-ba3614f48a48",
+        "name": "Nico & Vinz"}], "duration": 204, "id": "696667fa-4e98-4391-8194-5d68e7a7ee55",
+        "releasegroups": [{"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "7b89ac04-8b5a-4576-aea8-fb53be56bac3",
+        "secondarytypes": ["Compilation"], "title": "Promo Only: Mainstream Radio,
+        October 2014", "type": "Album"}], "title": "In Your Arms"}, {"artists": [{"id":
+        "f82bcf78-5b69-4622-a5ef-73800768d9ac", "joinphrase": " & ", "name": "Jay-Z"},
+        {"id": "164f0d73-1234-4e2c-8743-d77bf2191051", "joinphrase": " feat. ", "name":
+        "Kanye West"}, {"id": "585fee48-98c7-45b4-a47c-78d629b773b8", "name": "Mr
+        Hudson"}], "duration": 199, "id": "7b0bb9f7-b634-48ae-9e82-270eae7af983",
+        "releasegroups": [{"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "bf35d758-3824-4f82-846e-77667914a53f",
+        "secondarytypes": ["Compilation"], "title": "Promo Only: Mainstream Radio,
+        October 2011", "type": "Album"}], "title": "Why I Love You (Promo Only clean
+        edit)"}, {"artists": [{"id": "f82bcf78-5b69-4622-a5ef-73800768d9ac", "joinphrase":
+        " & ", "name": "Jay-Z"}, {"id": "164f0d73-1234-4e2c-8743-d77bf2191051", "joinphrase":
+        " feat. ", "name": "Kanye West"}, {"id": "585fee48-98c7-45b4-a47c-78d629b773b8",
+        "name": "Mr Hudson"}], "duration": 201, "id": "ff740436-528d-41b7-b36f-71439d63f0ab",
+        "releasegroups": [{"artists": [{"id": "f82bcf78-5b69-4622-a5ef-73800768d9ac",
+        "joinphrase": " & ", "name": "Jay-Z"}, {"id": "164f0d73-1234-4e2c-8743-d77bf2191051",
+        "name": "Kanye West"}], "id": "a96597aa-93b4-4e14-9e6e-03892ab24979", "title":
+        "Watch the Throne", "type": "Album"}], "title": "Why I Love You"}], "score":
+        0.934335}], "status": "ok"}'
+    http_version:
+  recorded_at: Mon, 14 Jun 2021 16:51:28 GMT
+recorded_with: VCR 3.0.3

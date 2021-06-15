@@ -38,7 +38,7 @@ module Eivu
 
       def submit
         @raw_response = RestClient.get(fingerprint_url)
-        @response     = Oj.load @raw_response
+        @response     = Oj.load(@raw_response)&.deep_symbolize_keys
       end
 
       def fingerprint_url

@@ -40,5 +40,24 @@ describe Eivu::Objects::ReleaseGroup do
         end
       end
     end
+
+    context 'Album' do
+      let(:info) do
+        {
+          id: '9d8e1974',
+          title: 'Josh White Sings',
+          type: 'Album'
+        }
+      end
+
+      it 'parses the hash successfully' do
+        aggregate_failures do
+          expect(instance.artists).to be_empty
+          expect(instance.id).to eq('9d8e1974')
+          expect(instance.title).to eq('Josh White Sings')
+          expect(instance.type).to eq('Album')
+        end
+      end
+    end
   end
 end

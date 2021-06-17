@@ -6,7 +6,7 @@ module Eivu
     class ReleaseGroup
       attr_reader :id, :type, :title, :artists, :secondarytypes
 
-      def initialize(id:, type:, title:, artists:, secondarytypes:)
+      def initialize(id:, type:, title:, artists: [], secondarytypes: nil)
         @id             = id
         @type           = type
         @title          = title

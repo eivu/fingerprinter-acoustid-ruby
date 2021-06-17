@@ -1,5 +1,5 @@
 # frozen_string_literal: true
-require 'eivu/objects/artist'
+require 'eivu/eivu-objects'
 
 module Eivu
   module Objects

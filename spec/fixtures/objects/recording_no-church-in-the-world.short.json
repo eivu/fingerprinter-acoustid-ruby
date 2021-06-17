@@ -1,0 +1,56 @@
+{
+  "artists": [
+    {
+      "id": "f82bcf78",
+      "joinphrase": " & ",
+      "name": "Jay-Z"
+    },
+    {
+      "id": "164f0d73",
+      "joinphrase": " feat. ",
+      "name": "Kanye West"
+    },
+    {
+      "id": "e520459c",
+      "joinphrase": " & ",
+      "name": "Frank Ocean"
+    },
+    {
+      "id": "66a4b9d2",
+      "name": "The\u2010Dream"
+    }
+  ],
+  "duration": 272,
+  "id": "62851a84",
+  "releasegroups": [
+    {
+      "artists": [
+        {
+          "id": "f82bcf78",
+          "joinphrase": " & ",
+          "name": "Jay-Z"
+        },
+        {
+          "id": "164f0d73",
+          "name": "Kanye West"
+        }
+      ],
+      "id": "a96597aa",
+      "title": "Watch the Throne",
+      "type": "Album"
+    },
+    {
+      "artists": [
+        {
+          "id": "89ad4ac3",
+          "name": "Various Artists"
+        }
+      ],
+      "id": "77c0e563",
+      "secondarytypes": ["Soundtrack"],
+      "title": "Music from Baz Luhrmann\u2019s film The Great Gatsby",
+      "type": "Album"
+    }
+  ],
+  "title": "No Church in the Wild"
+}

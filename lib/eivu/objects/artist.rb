@@ -1,8 +1,10 @@
 # frozen_string_literal: true
 
+require 'eivu/objects/base_class'
+
 module Eivu
   module Objects
-    class Artist
+    class Artist < BaseClass
       attr_reader :id, :name, :joinphrase
 
       def initialize(id:, name:, joinphrase: nil)

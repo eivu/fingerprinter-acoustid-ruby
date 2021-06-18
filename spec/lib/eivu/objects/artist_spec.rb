@@ -1,12 +1,15 @@
 # frozen_string_literal: true
 
 require 'spec_helper'
-require 'eivu/objects/artist'
+require 'eivu/eivu-objects'
+# binding.pry
+# require 'spec/shared_examples/base_class_functionality_spec'
 
 describe Eivu::Objects::Artist do
-  subject(:instance) { described_class.new(**info) }
 
   describe '#new' do
+    subject(:instance) { described_class.new(**info) }
+
     context 'Single Artist' do
       let(:info) { { id: 'f82bcf78', name: 'Jay-Z' } }
 
@@ -29,5 +32,16 @@ describe Eivu::Objects::Artist do
         end
       end
     end
+  end
+
+  context 'inherited functions' do
+    let(:info) { { id: 'f82bcf78', name: 'Jay-Z' } }
+    let(:fail_all) { { id: 'xxxxxxxx', name: 'xxxxxxxx' } }
+    let(:fail_mutli) { { id: 'xxxxxxxx', name: 'Jay-Z' } }
+
+    let(:instance_a) { described_class.new(**info) }
+    let(:instance_b) { described_class.new(**info) }
+
+    # it_behaves_like 'an eivu object base class'
   end
 end

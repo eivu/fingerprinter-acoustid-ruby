@@ -2,6 +2,7 @@
 
 require_relative '../config/environment'
 require 'vcr'
+require 'support/shared_examples/base_class_functionality_spec'
 
 VCR.configure do |config|
   config.cassette_library_dir = 'spec/fixtures/vcr'
@@ -25,3 +26,6 @@ RSpec.configure do |config|
 
   config.shared_context_metadata_behavior = :apply_to_host_groups
 end
+# binding.pry
+# Dir['spec/support/**/*.rb'].sort.each { |file| require_relative file }
+# Dir['spec/lib/**/*.rb'].sort.each { |file| require file }

@@ -26,6 +26,3 @@ RSpec.configure do |config|
 
   config.shared_context_metadata_behavior = :apply_to_host_groups
 end
-# binding.pry
-# Dir['spec/support/**/*.rb'].sort.each { |file| require_relative file }
-# Dir['spec/lib/**/*.rb'].sort.each { |file| require file }

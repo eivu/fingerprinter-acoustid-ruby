@@ -1,0 +1,85 @@
+{
+  "results": [
+    {
+      "id": "34001c38-a098-44a6-8166-39e03475d18e",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "164f0d73-1234-4e2c-8743-d77bf2191051",
+              "joinphrase": " & ",
+              "name": "Kanye West"
+            },
+            {
+              "id": "f82bcf78-5b69-4622-a5ef-73800768d9ac",
+              "joinphrase": " feat. ",
+              "name": "JAY-Z"
+            },
+            {
+              "id": "859d0860-d480-4efd-970c-c05d5f1776b8",
+              "name": "Beyonc\u00e9"
+            }
+          ],
+          "duration": 266,
+          "id": "20399e8e-aecb-4475-9a34-09e0c3081a33",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "859d0860-d480-4efd-970c-c05d5f1776b8",
+                  "name": "Beyonc\u00e9"
+                }
+              ],
+              "id": "907ad09b-014d-47e3-9700-551598b8158b",
+              "secondarytypes": ["Compilation"],
+              "title": "Back to Bey-Sic",
+              "type": "Album"
+            }
+          ],
+          "title": "Lift Off"
+        },
+        {
+          "artists": [
+            {
+              "id": "f82bcf78-5b69-4622-a5ef-73800768d9ac",
+              "joinphrase": " & ",
+              "name": "Jay-Z"
+            },
+            {
+              "id": "164f0d73-1234-4e2c-8743-d77bf2191051",
+              "joinphrase": " feat. ",
+              "name": "Kanye West"
+            },
+            {
+              "id": "859d0860-d480-4efd-970c-c05d5f1776b8",
+              "name": "Beyonc\u00e9"
+            }
+          ],
+          "duration": 266,
+          "id": "f26027cf-73d9-4db6-8429-a7bd316713e1",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "f82bcf78-5b69-4622-a5ef-73800768d9ac",
+                  "joinphrase": " & ",
+                  "name": "Jay-Z"
+                },
+                {
+                  "id": "164f0d73-1234-4e2c-8743-d77bf2191051",
+                  "name": "Kanye West"
+                }
+              ],
+              "id": "a96597aa-93b4-4e14-9e6e-03892ab24979",
+              "title": "Watch the Throne",
+              "type": "Album"
+            }
+          ],
+          "title": "Lift Off"
+        }
+      ],
+      "score": 0.932028
+    }
+  ],
+  "status": "ok"
+}

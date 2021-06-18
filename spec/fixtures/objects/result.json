@@ -1,0 +1,221 @@
+{
+  "id": "94664ed5",
+  "recordings": [
+    {
+      "artists": [
+        { "id": "cc2c9c3c", "name": "Adele" }
+      ],
+      "duration": 285,
+      "id": "0731a828",
+      "releasegroups": [
+        {
+          "artists": [
+            {
+              "id": "89ad4ac3",
+              "name": "Various Artists"
+            }
+          ],
+          "id": "13be757e",
+          "secondarytypes": ["Compilation"],
+          "title": "Mastermix Classic Cuts, Volume 140: Modern Ballads",
+          "type": "Album"
+        }
+      ],
+      "title": "Skyfall"
+    },
+    {
+      "artists": [
+        { "id": "cc2c9c3c", "name": "Adele" }
+      ],
+      "id": "18f547ea",
+      "releasegroups": [
+        {
+          "id": "4307ecf9",
+          "secondarytypes": ["Soundtrack"],
+          "title": "Skyfall",
+          "type": "Single"
+        }
+      ],
+      "title": "Skyfall (Shahaf Moran Extended Remix)"
+    },
+    {
+      "artists": [
+        { "id": "cc2c9c3c", "name": "Adele" }
+      ],
+      "duration": 290,
+      "id": "228c547c",
+      "releasegroups": [
+        {
+          "artists": [
+            {
+              "id": "89ad4ac3",
+              "name": "Various Artists"
+            }
+          ],
+          "id": "47dca169",
+          "title": "James Bond Themes (2012)",
+          "type": "Album"
+        }
+      ],
+      "title": "Skyfall (2012)"
+    },
+    {
+      "artists": [
+        {
+          "id": "ecce4724",
+          "name": "Walt Ribeiro"
+        }
+      ],
+      "duration": 280,
+      "id": "31edae1a",
+      "releasegroups": [
+        {
+          "id": "0a5c30a0",
+          "secondarytypes": ["Compilation"],
+          "title": "Every Song!",
+          "type": "Album"
+        }
+      ],
+      "title": "Adele 'SkyFall'"
+    },
+    {
+      "artists": [
+        { "id": "cc2c9c3c", "name": "Adele" }
+      ],
+      "duration": 277,
+      "id": "4dd209b9",
+      "releasegroups": [
+        {
+          "artists": [
+            {
+              "id": "cc2c9c3c",
+              "name": "Adele"
+            }
+          ],
+          "id": "ad1343e8",
+          "secondarytypes": ["Compilation"],
+          "title": "Greatest Hits",
+          "type": "Album"
+        },
+        {
+          "id": "e4174758",
+          "title": "21",
+          "type": "Album"
+        }
+      ],
+      "title": "He Won\u2019t Go"
+    },
+    {
+      "artists": [
+        { "id": "cc2c9c3c", "name": "Adele" }
+      ],
+      "duration": 286,
+      "id": "70f45e42",
+      "releasegroups": [
+        {
+          "id": "971e8b55",
+          "secondarytypes": ["Mixtape/Street"],
+          "title": "Music Sounds Better Fundamentals",
+          "type": "Other"
+        }
+      ],
+      "title": "Skyfall"
+    },
+    {
+      "artists": [
+        { "id": "cc2c9c3c", "name": "Adele" }
+      ],
+      "id": "86e5539",
+      "releasegroups": [
+        {
+          "id": "c9ddd0ed",
+          "secondarytypes": ["Live"],
+          "title": "2011-04-08: Paradiso FM, Amsterdam, Netherlands",
+          "type": "Album"
+        }
+      ],
+      "title": "Hometown Glory"
+    },
+    {
+      "artists": [
+        { "id": "cc2c9c3c", "name": "Adele" }
+      ],
+      "id": "a89dc25d",
+      "releasegroups": [
+        {
+          "id": "c9ddd0ed",
+          "secondarytypes": ["Live"],
+          "title": "2011-04-08: Paradiso FM, Amsterdam, Netherlands",
+          "type": "Album"
+        }
+      ],
+      "title": "Right as Rain"
+    },
+    {
+      "artists": [
+        {
+          "id": "348f3a5f",
+          "name": "Thomas Newman"
+        }
+      ],
+      "duration": 152,
+      "id": "c676ea1b",
+      "releasegroups": [
+        {
+          "id": "8a42702f",
+          "secondarytypes": ["Soundtrack"],
+          "title": "Skyfall: Original Motion Picture Soundtrack",
+          "type": "Album"
+        }
+      ],
+      "title": "Skyfall"
+    },
+    {
+      "artists": [
+        { "id": "cc2c9c3c", "name": "Adele" }
+      ],
+      "duration": 286,
+      "id": "d74ce039",
+      "releasegroups": [
+        {
+          "artists": [
+            {
+              "id": "cc2c9c3c",
+              "name": "Adele"
+            }
+          ],
+          "id": "4307ecf9",
+          "secondarytypes": ["Soundtrack"],
+          "title": "Skyfall",
+          "type": "Single"
+        },
+        {
+          "artists": [
+            {
+              "id": "cc2c9c3c",
+              "name": "Adele"
+            }
+          ],
+          "id": "ad1343e8",
+          "secondarytypes": ["Compilation"],
+          "title": "Greatest Hits",
+          "type": "Album"
+        },
+        {
+          "artists": [
+            {
+              "id": "89ad4ac3",
+              "name": "Various Artists"
+            }
+          ],
+          "id": "d06b41a6-9d62",
+          "secondarytypes": ["Compilation", "Soundtrack"],
+          "title": "The Best of Bond\u2026 James Bond",
+          "type": "Album"
+        }
+      ],
+      "title": "Skyfall"
+    }
+  ],
+  "score": 0.92972
+}

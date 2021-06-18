@@ -6,7 +6,7 @@ module Eivu
     class Recording
       attr_reader :id, :duration, :release_groups, :title, :artists
 
-      def initialize(id:, duration:, title:, artists:, releasegroups: nil, release_groups: nil)
+      def initialize(id:, title:, artists:, duration: nil, releasegroups: nil, release_groups: nil)
         temp_rg = release_groups || releasegroups
         raise ArgumentError, 'releasegroups or release_groups must be passed in' if temp_rg.blank?
 

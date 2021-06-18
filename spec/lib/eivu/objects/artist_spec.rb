@@ -2,8 +2,6 @@
 
 require 'spec_helper'
 require 'eivu/eivu-objects'
-# binding.pry
-# require 'spec/shared_examples/base_class_functionality_spec'
 
 describe Eivu::Objects::Artist do
 

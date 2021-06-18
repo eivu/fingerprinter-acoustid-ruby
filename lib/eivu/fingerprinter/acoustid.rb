@@ -10,7 +10,7 @@ module Eivu
       SERVICE_LOOKUP_URL = 'https://api.acoustid.org/v2/lookup'
       SETTINGS = 'recordings+releasegroups+compress'
 
-      attr_reader :fingerprint, :duration, :raw_response, :response
+      attr_reader :fingerprint, :duration, :raw_response, :response, :calc_output
 
       def self.identify(path_to_file = nil)
         instance = new
@@ -24,11 +24,11 @@ module Eivu
 
       def generate(path_to_file)
         # call fingerprint calculator
-        output = execute_binary(path_to_file)
+        @calc_output = execute_binary(path_to_file)
         # output is in the format of:
         # DURATION=267
         # FINGERPRINT=AQADtHKTZFJG7LSwHxeJuGmhj4i6Bj
-        info = output.split("\n").each_with_object({}) do |line, hash|
+        info = @calc_output.split("\n").each_with_object({}) do |line, hash|
           key, value = line.strip.split('=')
           hash[key.downcase.to_sym] = value
         end

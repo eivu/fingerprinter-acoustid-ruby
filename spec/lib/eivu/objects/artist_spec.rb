@@ -42,6 +42,6 @@ describe Eivu::Objects::Artist do
     let(:instance_a) { described_class.new(**info) }
     let(:instance_b) { described_class.new(**info) }
 
-    # it_behaves_like 'an eivu object base class'
+    it_behaves_like 'an eivu object base class'
   end
 end

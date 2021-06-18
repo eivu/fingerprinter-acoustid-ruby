@@ -12,11 +12,12 @@ module Eivu
         fingerprinter.submit
         # setup variables
         base_dirname  = File.dirname(file).downcase.gsub(' ','_').gsub(/[^0-9A-Za-z.\-\/_]/, '')
-        base_filename = File.basename(file).gsub("'",'').gsub(/[^0-9A-Za-z.\-]/, '_').gsub('.mp3','').downcase
+        base_filename = File.basename(file).downcase.gsub("'",'').gsub(/[^0-9A-Za-z.\-]/, '_').gsub('.mp3','')
         # save fingerprint
         dirname = base_dirname.gsub('/source/', '/fingerprints/')
         FileUtils.mkdir_p dirname
         File.open("#{dirname}/#{base_filename}.txt", 'w') { |f| f.write(fingerprinter.calc_output) }
+        File.open("#{dirname}/#{base_filename}.url", 'w') { |f| f.write(fingerprinter.fingerprint_url) }
         # save acoustid response
         dirname = base_dirname.gsub('/source/', '/responses/acoustid/')
         FileUtils.mkdir_p dirname

@@ -1,0 +1,65 @@
+{
+  "results": [
+    {
+      "id": "75d9e6c8",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "5ffb73c0",
+              "joinphrase": " ",
+              "name": "YOKO KANNO"
+            },
+            {
+              "id": "b5fb0f1a",
+              "name": "SEATBELTS"
+            }
+          ],
+          "duration": 206,
+          "id": "72a74c8b",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "5ffb73c0",
+                  "joinphrase": " ",
+                  "name": "YOKO KANNO"
+                },
+                {
+                  "id": "b5fb0f1a",
+                  "name": "シートベルツ"
+                }
+              ],
+              "id": "3849056b",
+              "secondarytypes": ["Compilation"],
+              "title": "SPACE BIO CHARGE",
+              "type": "Album"
+            }
+          ],
+          "title": "Tank! (TV stretch)"
+        },
+        {
+          "artists": [
+            {
+              "id": "b5fb0f1a",
+              "name": "シートベルツ"
+            }
+          ],
+          "duration": 207,
+          "id": "9737ce56",
+          "releasegroups": [
+            {
+              "id": "ea45e38c",
+              "secondarytypes": ["Soundtrack"],
+              "title": "Cowboy Bebop: Tank! THE! BEST!",
+              "type": "Album"
+            }
+          ],
+          "title": "Tank! (TV stretch)"
+        }
+      ],
+      "score": 0.999934
+    }
+  ],
+  "status": "ok"
+}

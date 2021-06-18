@@ -1,1 +1,140 @@
-{"results":[{"id":"a1a27200-1541-4228-b015-3099f0f154fe","recordings":[{"artists":[{"id":"a9ee533f-8871-4f62-a6bb-91eb264abc90","name":"Fiona Apple"}],"duration":352,"id":"3b734bd5-6268-4936-a559-629fe38e5c1e","releasegroups":[{"artists":[{"id":"89ad4ac3-39f7-470e-963a-56509c546377","name":"Various Artists"}],"id":"32cd194b-0ca1-3e41-ad47-f5bb1554628b","secondarytypes":["Compilation"],"title":"Lilith Fair: A Compilation to Benefit Breast Cancer Awareness and Prevention","type":"Album"}],"title":"Pale September"},{"artists":[{"id":"a9ee533f-8871-4f62-a6bb-91eb264abc90","name":"Fiona Apple"}],"duration":350,"id":"494fcc95-9235-4d5c-bf6e-4b4281e239c1","releasegroups":[{"id":"2e552187-13b4-3c2b-8c63-207923fe8443","title":"Shadowboxer","type":"Single"}],"title":"Pale September"},{"id":"78fb3aca-6357-4c39-973d-acbf7d537724"},{"artists":[{"id":"a9ee533f-8871-4f62-a6bb-91eb264abc90","name":"Fiona Apple"}],"duration":350,"id":"7fddd1e8-e168-46b7-b93e-9355a7ff0427","releasegroups":[{"artists":[{"id":"a9ee533f-8871-4f62-a6bb-91eb264abc90","name":"Fiona Apple"}],"id":"b82bef40-53b7-4582-8561-8b660039dec9","secondarytypes":["Compilation"],"title":"Original Album Classics","type":"Album"},{"artists":[{"id":"a9ee533f-8871-4f62-a6bb-91eb264abc90","name":"Fiona Apple"}],"id":"82ba556e-99bf-380d-b9b5-5a97737f1cd1","title":"Tidal","type":"Album"},{"id":"a5699755-a6ac-4b27-9720-4c290689d1b3","secondarytypes":["Compilation"],"title":"Tidal / When the Pawn...","type":"Album"}],"title":"Pale September"},{"artists":[{"id":"a9ee533f-8871-4f62-a6bb-91eb264abc90","name":"Fiona Apple"}],"duration":352,"id":"85fb00f9-2505-48ff-9df5-ec9808336d31","releasegroups":[{"artists":[{"id":"89ad4ac3-39f7-470e-963a-56509c546377","name":"Various Artists"}],"id":"9cf6a168-2d3e-3cf4-b619-5cdebfd160a5","secondarytypes":["Compilation"],"title":"Fleetwood Mac Tour 97","type":"Album"}],"title":"Pale September"},{"artists":[{"id":"a9ee533f-8871-4f62-a6bb-91eb264abc90","name":"Fiona Apple"}],"duration":351,"id":"cb2f077f-98a3-4351-a991-d30f69cf9a02","releasegroups":[{"id":"3ae8693e-0a98-39f2-a169-dd4c21f61048","title":"Sleep to Dream","type":"Single"}],"title":"Pale September (live)"}],"score":0.939082}],"status":"ok"}
+{
+  "results": [
+    {
+      "id": "a1a27200-1541-4228-b015-3099f0f154fe",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "a9ee533f-8871-4f62-a6bb-91eb264abc90",
+              "name": "Fiona Apple"
+            }
+          ],
+          "duration": 352,
+          "id": "3b734bd5-6268-4936-a559-629fe38e5c1e",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "32cd194b-0ca1-3e41-ad47-f5bb1554628b",
+              "secondarytypes": ["Compilation"],
+              "title": "Lilith Fair: A Compilation to Benefit Breast Cancer Awareness and Prevention",
+              "type": "Album"
+            }
+          ],
+          "title": "Pale September"
+        },
+        {
+          "artists": [
+            {
+              "id": "a9ee533f-8871-4f62-a6bb-91eb264abc90",
+              "name": "Fiona Apple"
+            }
+          ],
+          "duration": 350,
+          "id": "494fcc95-9235-4d5c-bf6e-4b4281e239c1",
+          "releasegroups": [
+            {
+              "id": "2e552187-13b4-3c2b-8c63-207923fe8443",
+              "title": "Shadowboxer",
+              "type": "Single"
+            }
+          ],
+          "title": "Pale September"
+        },
+        { "id": "78fb3aca-6357-4c39-973d-acbf7d537724" },
+        {
+          "artists": [
+            {
+              "id": "a9ee533f-8871-4f62-a6bb-91eb264abc90",
+              "name": "Fiona Apple"
+            }
+          ],
+          "duration": 350,
+          "id": "7fddd1e8-e168-46b7-b93e-9355a7ff0427",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "a9ee533f-8871-4f62-a6bb-91eb264abc90",
+                  "name": "Fiona Apple"
+                }
+              ],
+              "id": "b82bef40-53b7-4582-8561-8b660039dec9",
+              "secondarytypes": ["Compilation"],
+              "title": "Original Album Classics",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "a9ee533f-8871-4f62-a6bb-91eb264abc90",
+                  "name": "Fiona Apple"
+                }
+              ],
+              "id": "82ba556e-99bf-380d-b9b5-5a97737f1cd1",
+              "title": "Tidal",
+              "type": "Album"
+            },
+            {
+              "id": "a5699755-a6ac-4b27-9720-4c290689d1b3",
+              "secondarytypes": ["Compilation"],
+              "title": "Tidal / When the Pawn...",
+              "type": "Album"
+            }
+          ],
+          "title": "Pale September"
+        },
+        {
+          "artists": [
+            {
+              "id": "a9ee533f-8871-4f62-a6bb-91eb264abc90",
+              "name": "Fiona Apple"
+            }
+          ],
+          "duration": 352,
+          "id": "85fb00f9-2505-48ff-9df5-ec9808336d31",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "9cf6a168-2d3e-3cf4-b619-5cdebfd160a5",
+              "secondarytypes": ["Compilation"],
+              "title": "Fleetwood Mac Tour 97",
+              "type": "Album"
+            }
+          ],
+          "title": "Pale September"
+        },
+        {
+          "artists": [
+            {
+              "id": "a9ee533f-8871-4f62-a6bb-91eb264abc90",
+              "name": "Fiona Apple"
+            }
+          ],
+          "duration": 351,
+          "id": "cb2f077f-98a3-4351-a991-d30f69cf9a02",
+          "releasegroups": [
+            {
+              "id": "3ae8693e-0a98-39f2-a169-dd4c21f61048",
+              "title": "Sleep to Dream",
+              "type": "Single"
+            }
+          ],
+          "title": "Pale September (live)"
+        }
+      ],
+      "score": 0.939082
+    }
+  ],
+  "status": "ok"
+}

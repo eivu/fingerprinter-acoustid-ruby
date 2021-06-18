@@ -1,0 +1,73 @@
+{
+  "results": [
+    {
+      "id": "25e332b2-d0d6-4601-baee-80dfabed2530",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+              "joinphrase": " \u0026 ",
+              "name": "Ella Fitzgerald"
+            },
+            {
+              "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+              "name": "Louis Armstrong"
+            }
+          ],
+          "duration": 201,
+          "id": "46cceaa7-9aa1-481d-98cd-98cfe80c6532",
+          "releasegroups": [
+            {
+              "id": "8a796362-8901-38d2-a271-b56a19d0395a",
+              "secondarytypes": ["Compilation"],
+              "title": "The Magic Duets",
+              "type": "Album"
+            }
+          ],
+          "title": "The Gypsy"
+        },
+        {
+          "artists": [
+            {
+              "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+              "name": "Louis Armstrong"
+            }
+          ],
+          "duration": 197,
+          "id": "5b0b8daa-edd4-4255-bd97-b37a1cbcdda7",
+          "releasegroups": [
+            {
+              "id": "9c9d527e-5e61-432d-a5cf-2d677bc80e8e",
+              "secondarytypes": ["Compilation"],
+              "title": "Cabaret",
+              "type": "Album"
+            }
+          ],
+          "title": "The Gipsy"
+        },
+        {
+          "artists": [
+            {
+              "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+              "name": "Louis Armstrong"
+            }
+          ],
+          "duration": 197,
+          "id": "999cae91-b28a-490a-b7ab-3ea9fa353e3d",
+          "releasegroups": [
+            {
+              "id": "d9d35ab3-9e03-3f44-8c05-4e9d6108c5c3",
+              "secondarytypes": ["Compilation"],
+              "title": "C'est si bon",
+              "type": "Album"
+            }
+          ],
+          "title": "The Gipsy"
+        }
+      ],
+      "score": 0.929852
+    }
+  ],
+  "status": "ok"
+}

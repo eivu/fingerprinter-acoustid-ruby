@@ -1,1 +1,40 @@
-{"results":[{"id":"d33d8696-9386-4c95-b800-2a5bf6052d3f","recordings":[{"artists":[{"id":"a9ee533f-8871-4f62-a6bb-91eb264abc90","name":"Fiona Apple"}],"duration":210,"id":"81a41e2b-b621-414f-8aa7-859bf456cc64","releasegroups":[{"artists":[{"id":"a9ee533f-8871-4f62-a6bb-91eb264abc90","name":"Fiona Apple"}],"id":"6086062c-f943-4b85-b1cb-43558425ec1c","title":"The Idler Wheel Is Wiser Than the Driver of the Screw and Whipping Cords Will Serve You More Than Ropes Will Ever Do","type":"Album"},{"id":"d46862ad-e25a-47bd-b7e1-14bef483fa8e","title":"Every Single Night","type":"Single"}],"title":"Every Single Night"}],"score":0.997758}],"status":"ok"}
+{
+  "results": [
+    {
+      "id": "d33d8696-9386-4c95-b800-2a5bf6052d3f",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "a9ee533f-8871-4f62-a6bb-91eb264abc90",
+              "name": "Fiona Apple"
+            }
+          ],
+          "duration": 210,
+          "id": "81a41e2b-b621-414f-8aa7-859bf456cc64",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "a9ee533f-8871-4f62-a6bb-91eb264abc90",
+                  "name": "Fiona Apple"
+                }
+              ],
+              "id": "6086062c-f943-4b85-b1cb-43558425ec1c",
+              "title": "The Idler Wheel Is Wiser Than the Driver of the Screw and Whipping Cords Will Serve You More Than Ropes Will Ever Do",
+              "type": "Album"
+            },
+            {
+              "id": "d46862ad-e25a-47bd-b7e1-14bef483fa8e",
+              "title": "Every Single Night",
+              "type": "Single"
+            }
+          ],
+          "title": "Every Single Night"
+        }
+      ],
+      "score": 0.997758
+    }
+  ],
+  "status": "ok"
+}

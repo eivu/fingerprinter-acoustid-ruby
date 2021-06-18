@@ -1,0 +1,85 @@
+{
+  "results": [
+    {
+      "id": "875bf0f5-7161-4012-9fb9-61ddbe9b6a40",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+              "joinphrase": " \u0026 ",
+              "name": "Ella Fitzgerald"
+            },
+            {
+              "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+              "name": "Louis Armstrong"
+            }
+          ],
+          "duration": 141,
+          "id": "57155fd8-d8e0-4ec8-a904-3132554fd955",
+          "releasegroups": [
+            {
+              "id": "8a796362-8901-38d2-a271-b56a19d0395a",
+              "secondarytypes": ["Compilation"],
+              "title": "The Magic Duets",
+              "type": "Album"
+            }
+          ],
+          "title": "Who Walks in When I Walk Out"
+        },
+        {
+          "artists": [
+            {
+              "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+              "name": "Louis Armstrong"
+            }
+          ],
+          "duration": 136,
+          "id": "94564267-ab95-4853-b726-56fbb0615945",
+          "releasegroups": [
+            {
+              "id": "2c3e750e-b21c-30f4-802a-64303a61eb42",
+              "secondarytypes": ["Compilation"],
+              "title": "Selection of Louis Armstrong",
+              "type": "Album"
+            }
+          ],
+          "title": "Who Walks in When I Walk Out"
+        },
+        {
+          "artists": [
+            {
+              "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+              "name": "Louis Armstrong"
+            }
+          ],
+          "duration": 139,
+          "id": "feb69fc0-5b81-43c1-bec0-a9d6baa43cc1",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "abbc75ef-239b-41c2-bba2-2eedd28aa0e4",
+              "secondarytypes": ["Compilation"],
+              "title": "The Best of Schmaltz, Vol. 2",
+              "type": "Album"
+            },
+            {
+              "id": "8d80301f-a239-4bbf-9959-0d3e5018f752",
+              "secondarytypes": ["Compilation"],
+              "title": "Louis Armstrong \u0026 Guests",
+              "type": "Album"
+            }
+          ],
+          "title": "Who Walks In When I Walk Out"
+        }
+      ],
+      "score": 0.929325
+    }
+  ],
+  "status": "ok"
+}

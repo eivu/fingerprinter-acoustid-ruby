@@ -1,1 +1,82 @@
-{"results":[{"id":"47715757-cf61-4c74-8596-8f487c195b5e","recordings":[{"id":"2555290f-6e92-468d-8dba-6efa73920e7f"},{"artists":[{"id":"b5fb0f1a-2cd4-4759-9d80-648643f70c43","name":"シートベルツ"}],"duration":304,"id":"42fafb94-afaa-4f03-8784-d0d3f0f232a8","releasegroups":[{"artists":[{"id":"b5fb0f1a-2cd4-4759-9d80-648643f70c43","name":"シートベルツ"}],"id":"0b654bae-a26c-3b7e-8ed0-acf3a97d4acf","secondarytypes":["Soundtrack"],"title":"COWBOY BEBOP BLUE","type":"Album"},{"artists":[{"id":"b5fb0f1a-2cd4-4759-9d80-648643f70c43","name":"シートベルツ"}],"id":"ea45e38c-6882-30e2-b58b-a85945c700b6","secondarytypes":["Soundtrack"],"title":"Cowboy Bebop: Tank! THE! BEST!","type":"Album"},{"id":"c9b5a2f0-78b3-3f07-aca4-9b3fd1f26de8","secondarytypes":["Soundtrack"],"title":"Cowboy Bebop: CD‐Box: Original Sound Track","type":"Album"}],"title":"BLUE"},{"artists":[{"id":"60c2af61-346e-4697-9926-f95d195ee02e","name":"山根麻以"}],"duration":308,"id":"6f685098-40a7-4cae-8f17-f19b8daf952a","releasegroups":[{"artists":[{"id":"5ffb73c0-b739-4231-ba22-f8d361be1d45","joinphrase":" ","name":"YOKO KANNO"},{"id":"b5fb0f1a-2cd4-4759-9d80-648643f70c43","name":"シートベルツ"}],"id":"3849056b-5b0a-450d-a082-a98fee7331fb","secondarytypes":["Compilation"],"title":"SPACE BIO CHARGE","type":"Album"}],"title":"BLUE"}],"score":0.999934}],"status":"ok"}
+{
+  "results": [
+    {
+      "id": "47715757-cf61-4c74-8596-8f487c195b5e",
+      "recordings": [
+        { "id": "2555290f-6e92-468d-8dba-6efa73920e7f" },
+        {
+          "artists": [
+            {
+              "id": "b5fb0f1a-2cd4-4759-9d80-648643f70c43",
+              "name": "シートベルツ"
+            }
+          ],
+          "duration": 304,
+          "id": "42fafb94-afaa-4f03-8784-d0d3f0f232a8",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "b5fb0f1a-2cd4-4759-9d80-648643f70c43",
+                  "name": "シートベルツ"
+                }
+              ],
+              "id": "0b654bae-a26c-3b7e-8ed0-acf3a97d4acf",
+              "secondarytypes": ["Soundtrack"],
+              "title": "COWBOY BEBOP BLUE",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "b5fb0f1a-2cd4-4759-9d80-648643f70c43",
+                  "name": "シートベルツ"
+                }
+              ],
+              "id": "ea45e38c-6882-30e2-b58b-a85945c700b6",
+              "secondarytypes": ["Soundtrack"],
+              "title": "Cowboy Bebop: Tank! THE! BEST!",
+              "type": "Album"
+            },
+            {
+              "id": "c9b5a2f0-78b3-3f07-aca4-9b3fd1f26de8",
+              "secondarytypes": ["Soundtrack"],
+              "title": "Cowboy Bebop: CD‐Box: Original Sound Track",
+              "type": "Album"
+            }
+          ],
+          "title": "BLUE"
+        },
+        {
+          "artists": [
+            { "id": "60c2af61-346e-4697-9926-f95d195ee02e", "name": "山根麻以" }
+          ],
+          "duration": 308,
+          "id": "6f685098-40a7-4cae-8f17-f19b8daf952a",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "5ffb73c0-b739-4231-ba22-f8d361be1d45",
+                  "joinphrase": " ",
+                  "name": "YOKO KANNO"
+                },
+                {
+                  "id": "b5fb0f1a-2cd4-4759-9d80-648643f70c43",
+                  "name": "シートベルツ"
+                }
+              ],
+              "id": "3849056b-5b0a-450d-a082-a98fee7331fb",
+              "secondarytypes": ["Compilation"],
+              "title": "SPACE BIO CHARGE",
+              "type": "Album"
+            }
+          ],
+          "title": "BLUE"
+        }
+      ],
+      "score": 0.999934
+    }
+  ],
+  "status": "ok"
+}

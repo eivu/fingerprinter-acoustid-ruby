@@ -1,1 +1,46 @@
-{"results":[{"id":"0de66200-f1d8-4a76-a1cc-e5e9b071aace","recordings":[{"artists":[{"id":"b5fb0f1a-2cd4-4759-9d80-648643f70c43","name":"シートベルツ"}],"duration":284,"id":"90dd5477-ecf4-4855-83dc-bd2f16aba8e1","releasegroups":[{"id":"ea45e38c-6882-30e2-b58b-a85945c700b6","secondarytypes":["Soundtrack"],"title":"Cowboy Bebop: Tank! THE! BEST!","type":"Album"}],"title":"PEARLS"},{"artists":[{"id":"c8ca9709-d333-45fd-b2bb-e2209568aeb2","name":"ILA"}],"duration":283,"id":"f4e6671f-0c36-447c-8c34-502e45b19172","releasegroups":[{"id":"03e91677-1f48-4b69-b463-6a856901c2ba","secondarytypes":["Compilation"],"title":"YOKO KANNO produce Cyber Bicci","type":"Album"}],"title":"PEARLS"}],"score":1.0}],"status":"ok"}
+{
+  "results": [
+    {
+      "id": "0de66200-f1d8-4a76-a1cc-e5e9b071aace",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "b5fb0f1a-2cd4-4759-9d80-648643f70c43",
+              "name": "シートベルツ"
+            }
+          ],
+          "duration": 284,
+          "id": "90dd5477-ecf4-4855-83dc-bd2f16aba8e1",
+          "releasegroups": [
+            {
+              "id": "ea45e38c-6882-30e2-b58b-a85945c700b6",
+              "secondarytypes": ["Soundtrack"],
+              "title": "Cowboy Bebop: Tank! THE! BEST!",
+              "type": "Album"
+            }
+          ],
+          "title": "PEARLS"
+        },
+        {
+          "artists": [
+            { "id": "c8ca9709-d333-45fd-b2bb-e2209568aeb2", "name": "ILA" }
+          ],
+          "duration": 283,
+          "id": "f4e6671f-0c36-447c-8c34-502e45b19172",
+          "releasegroups": [
+            {
+              "id": "03e91677-1f48-4b69-b463-6a856901c2ba",
+              "secondarytypes": ["Compilation"],
+              "title": "YOKO KANNO produce Cyber Bicci",
+              "type": "Album"
+            }
+          ],
+          "title": "PEARLS"
+        }
+      ],
+      "score": 1.0
+    }
+  ],
+  "status": "ok"
+}

@@ -1,0 +1,35 @@
+{
+  "results": [
+    {
+      "id": "cba4e351-4e20-4ca9-8baa-b4a1da67da8c",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+              "joinphrase": " \u0026 ",
+              "name": "Ella Fitzgerald"
+            },
+            {
+              "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+              "name": "Louis Armstrong"
+            }
+          ],
+          "duration": 196,
+          "id": "e2da92cb-d69d-4732-a1ce-5b7d6b74ba8a",
+          "releasegroups": [
+            {
+              "id": "8a796362-8901-38d2-a271-b56a19d0395a",
+              "secondarytypes": ["Compilation"],
+              "title": "The Magic Duets",
+              "type": "Album"
+            }
+          ],
+          "title": "Oops!"
+        }
+      ],
+      "score": 0.928336
+    }
+  ],
+  "status": "ok"
+}

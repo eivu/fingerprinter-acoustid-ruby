@@ -1,0 +1,35 @@
+{
+  "results": [
+    {
+      "id": "6208a617-caa8-427e-8f6f-78ab61a17ea7",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+              "joinphrase": " \u0026 ",
+              "name": "Ella Fitzgerald"
+            },
+            {
+              "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+              "name": "Louis Armstrong"
+            }
+          ],
+          "duration": 189,
+          "id": "dec7ab79-8a31-4d7e-ad02-d56c027a98e6",
+          "releasegroups": [
+            {
+              "id": "8a796362-8901-38d2-a271-b56a19d0395a",
+              "secondarytypes": ["Compilation"],
+              "title": "The Magic Duets",
+              "type": "Album"
+            }
+          ],
+          "title": "Basin Street Blues"
+        }
+      ],
+      "score": 0.93783
+    }
+  ],
+  "status": "ok"
+}

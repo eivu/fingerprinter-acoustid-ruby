@@ -30,4 +30,21 @@ describe Eivu::Objects::Result do
       end
     end
   end
+
+  context 'inherited functions' do
+    let(:info) { { id: 1231, recordings: [], score:0.912 } }
+
+    let(:fail_id) do
+      described_class.new(id: 'xxxxxx', recordings: [], score:0.912)
+    end
+
+    let(:fail_multi) do
+      described_class.new(id: 'xxxxxx', recordings: [], score: 0.2311)
+    end
+
+    let(:instance_a) { described_class.new(**info) }
+    let(:instance_b) { described_class.new(**info) }
+
+    it_behaves_like 'an eivu object base class'
+  end
 end

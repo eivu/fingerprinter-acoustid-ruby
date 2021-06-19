@@ -89,7 +89,7 @@ describe Eivu::Objects::ReleaseGroup do
       )
     end
 
-    let(:fail_multi) do 
+    let(:fail_multi) do
       described_class.new(
         artists: [{ id: 'af70e766', name: 'Saint A.' }],
         id: 'xxxxxx',

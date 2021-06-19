@@ -3,7 +3,7 @@ require 'eivu/eivu-objects'
 
 module Eivu
   module Objects
-    class Recording
+    class Recording < BaseClass
       attr_reader :id, :duration, :release_groups, :title, :artists
 
       def initialize(id:, title:, artists:, duration: nil, releasegroups: nil, release_groups: nil)

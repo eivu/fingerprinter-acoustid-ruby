@@ -28,6 +28,7 @@ RSpec.shared_examples 'an eivu object base class' do
         it 'knows when objects have same id but are different classes' do
           aggregate_failures do
             expect(instance_a).not_to eq(struct)
+            expect(instance_a.id).to eq(struct.id)
             expect { instance_a == struct }.not_to raise_error
           end
         end

@@ -4,9 +4,9 @@ require 'spec_helper'
 require 'eivu/eivu-objects'
 
 describe Eivu::Objects::Result do
-  subject(:instance) { described_class.new(**info) }
-
   describe '#new' do
+    subject(:instance) { described_class.new(**info) }
+
     let(:info) do
       Oj.load(File.read('spec/fixtures/objects/result.json'))
         .deep_symbolize_keys

@@ -4,9 +4,10 @@ require 'spec_helper'
 require 'eivu/objects/release_group'
 
 describe Eivu::Objects::ReleaseGroup do
-  subject(:instance) { described_class.new(**info) }
 
   describe '#new' do
+    subject(:instance) { described_class.new(**info) }
+
     context 'Audiobook' do
       let(:info) do
         {
@@ -59,5 +60,45 @@ describe Eivu::Objects::ReleaseGroup do
         end
       end
     end
+  end
+
+  context 'inherited functions' do
+    let(:info) do
+      {
+        artists: [
+          {
+            id: 'af70e766',
+            name: 'Saint A.'
+          }
+        ],
+        id: 'c04bec62',
+        title: 'The Confessions of Saint Augustine',
+        type: 'Other'
+      }
+    end
+
+    let(:fail_multi) { { described_class.new(
+      artists: [ { id: 'af70e766', name: 'Saint A.' }],
+        id: 'xxxxxxx',
+        title: 'The Confessions of Saint Augustine',
+        type: 'Other'
+    ) }
+    let(:fail_multi) { { described_class.new(
+      artists: [
+          {
+            id: 'af70e766',
+            name: 'Saint A.'
+          }
+        ],
+        id: 'xxxxxxx',
+        title: 'The Confessions of Saint Augustine',
+        type: 'Other'
+    ) }
+    let(:fail_id) { { described_class.new(id: 'xxxxxxxx', name: 'Jay-Z') }
+
+    let(:instance_a) { described_class.new(**info) }
+    let(:instance_b) { described_class.new(**info) }
+
+    it_behaves_like 'an eivu object base class'
   end
 end

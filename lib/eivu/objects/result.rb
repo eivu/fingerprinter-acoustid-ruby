@@ -3,12 +3,12 @@ require 'eivu/eivu-objects'
 
 module Eivu
   module Objects
-    class Result
+    class Result < BaseClass
       attr_reader :id, :recordings, :score
 
       def initialize(id:, recordings:, score:)
         @id             = id
-        @recordings     = recordings.collect { |a| Eivu::Objects::Recording.new(**a) }
+        @recordings     = recordings.collect { |r| Eivu::Objects::Recording.new(**r) }
         @score          = score
       end
     end

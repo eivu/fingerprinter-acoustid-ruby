@@ -3,7 +3,7 @@ require 'eivu/eivu-objects'
 
 module Eivu
   module Objects
-    class ReleaseGroup
+    class ReleaseGroup < BaseClass
       attr_reader :id, :type, :title, :artists, :secondarytypes
 
       def initialize(id:, type:, title:, artists: [], secondarytypes: nil)

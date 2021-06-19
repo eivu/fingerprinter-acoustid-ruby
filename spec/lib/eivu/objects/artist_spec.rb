@@ -4,7 +4,6 @@ require 'spec_helper'
 require 'eivu/eivu-objects'
 
 describe Eivu::Objects::Artist do
-
   describe '#new' do
     subject(:instance) { described_class.new(**info) }
 

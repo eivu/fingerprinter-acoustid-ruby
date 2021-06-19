@@ -101,7 +101,7 @@ describe Eivu::Objects::Recording do
             id: 'a96597aa',
             title: 'NYC 2021!!!',
             type: 'Album'
-          },
+          }
         ],
         title: 'Mayor of the City'
       }
@@ -127,7 +127,7 @@ describe Eivu::Objects::Recording do
               id: 'a96597aa',
               title: 'NYC 2021!!!',
               type: 'Album'
-            },
+            }
           ],
           title: 'Mayor of the City'
         )
@@ -144,7 +144,7 @@ describe Eivu::Objects::Recording do
               id: 'a96597aa',
               title: 'NYC 2021!!!',
               type: 'Album'
-            },
+            }
           ],
           title: 'xxxxxx'
         )

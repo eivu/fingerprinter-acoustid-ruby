@@ -9,7 +9,7 @@ module Eivu
       def initialize(id:, title:, artists:, releasegroups:, duration: nil)
         @id             = id
         @duration       = duration
-        @releasegroups  = temp_rg.collect { |rg| Eivu::Objects::ReleaseGroup.new(**rg) }
+        @releasegroups  = releasegroups.collect { |rg| Eivu::Objects::ReleaseGroup.new(**rg) }
         @title          = title
         @artists        = artists.collect { |a| Eivu::Objects::Artist.new(**a) }
       end

@@ -4,9 +4,10 @@ require 'spec_helper'
 require 'eivu/eivu-objects'
 
 describe Eivu::Objects::Recording do
-  subject(:instance) { described_class.new(**info) }
 
   describe '#new' do
+    subject(:instance) { described_class.new(**info) }
+
     context 'success' do
       context 'with duration' do
         let(:info) {
@@ -85,6 +86,74 @@ describe Eivu::Objects::Recording do
       it 'fails to parse the hash successfully' do
         expect { instance }.to raise_error(ArgumentError)
       end
+    end
+  end
+
+  context 'support' do
+    let(:info) do
+      {
+        artists: [{ id: '89a4b9d2', name: 'The Dream' }],
+        duration: 272,
+        id: '12351a84',
+        releasegroups: [
+          {
+            artists: [{ id: '89a4b9d2', name: 'The Dream' }],
+            id: 'a96597aa',
+            title: 'NYC 2021!!!',
+            type: 'Album'
+          },
+        ],
+        title: 'Mayor of the City'
+      }
+    end
+
+    context 'method aliases' do
+      subject(:instance) { described_class.new(**info) }
+
+      it 'has the function eql? which is ==' do
+        expect(instance.method(:release_groups)).to eq(instance.method(:releasegroups))
+      end
+    end
+
+    context 'inherited functions' do
+      let(:fail_id) do
+        described_class.new(
+          artists: [{ id: '89a4b9d2', name: 'The Dream' }],
+          duration: 272,
+          id: 'xxxxxx',
+          releasegroups: [
+            {
+              artists: [{ id: '89a4b9d2', name: 'The Dream' }],
+              id: 'a96597aa',
+              title: 'NYC 2021!!!',
+              type: 'Album'
+            },
+          ],
+          title: 'Mayor of the City'
+        )
+      end
+
+      let(:fail_multi) do 
+        described_class.new(
+          artists: [{ id: '89a4b9d2', name: 'The Dream' }],
+          duration: 272,
+          id: 'xxxxxx',
+          releasegroups: [
+            {
+              artists: [{ id: '89a4b9d2', name: 'The Dream' }],
+              id: 'a96597aa',
+              title: 'NYC 2021!!!',
+              type: 'Album'
+            },
+          ],
+          title: 'xxxxxx'
+        )
+      end
+
+      let(:instance_a) { described_class.new(**info) }
+      let(:instance_b) { described_class.new(**info) }
+
+      it_behaves_like 'an eivu object base class'
     end
   end
 end

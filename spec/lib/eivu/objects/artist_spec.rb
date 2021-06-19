@@ -34,9 +34,8 @@ describe Eivu::Objects::Artist do
 
   context 'inherited functions' do
     let(:info) { { id: 'f82bcf78', name: 'Jay-Z' } }
-    let(:fail_multi) { { id: 'xxxxxxxx', name: 'xxxxxxxx' } }
-    let(:fail_id) { { id: 'xxxxxxxx', name: 'Jay-Z' } }
-
+    let(:fail_multi) { described_class.new(id: 'xxxxxxxx', name: 'xxxxxxxx') }
+    let(:fail_id)    { described_class.new(id: 'xxxxxxxx', name: 'Jay-Z') }
     let(:instance_a) { described_class.new(**info) }
     let(:instance_b) { described_class.new(**info) }
 

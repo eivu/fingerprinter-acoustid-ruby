@@ -12,11 +12,17 @@ RSpec.shared_examples 'an eivu object base class' do
         let(:struct) { OpenStruct.new(id: instance_a.id) }
 
         it 'knows when objects differ only by id' do
-          expect(instance_a).not_to eq(fail_id)
+          aggregate_failures do
+            expect(instance_a).not_to eq(fail_id)
+            expect(instance_a.class).to eq(fail_id.class)
+          end
         end
 
         it 'knows when objects differ by multiple attributes' do
-          expect(instance_a).not_to eq(fail_multi)
+          aggregate_failures do
+            expect(instance_a).not_to eq(fail_multi)
+            expect(instance_a.class).to eq(fail_multi.class)
+          end
         end
 
         it 'knows when objects have same id but are different classes' do

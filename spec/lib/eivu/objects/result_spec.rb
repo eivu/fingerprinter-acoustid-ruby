@@ -32,10 +32,10 @@ describe Eivu::Objects::Result do
   end
 
   context 'inherited functions' do
-    let(:info) { { id: 1231, recordings: [], score:0.912 } }
+    let(:info) { { id: 1231, recordings: [], score: 0.912 } }
 
     let(:fail_id) do
-      described_class.new(id: 'xxxxxx', recordings: [], score:0.912)
+      described_class.new(id: 'xxxxxx', recordings: [], score: 0.912)
     end
 
     let(:fail_multi) do

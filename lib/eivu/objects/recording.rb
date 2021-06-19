@@ -4,18 +4,17 @@ require 'eivu/eivu-objects'
 module Eivu
   module Objects
     class Recording < BaseClass
-      attr_reader :id, :duration, :release_groups, :title, :artists
+      attr_reader :id, :duration, :releasegroups, :title, :artists
 
-      def initialize(id:, title:, artists:, duration: nil, releasegroups: nil, release_groups: nil)
-        temp_rg = release_groups || releasegroups
-        raise ArgumentError, 'releasegroups or release_groups must be passed in' if temp_rg.blank?
-
+      def initialize(id:, title:, artists:, releasegroups:, duration: nil)
         @id             = id
         @duration       = duration
-        @release_groups = temp_rg.collect { |rg| Eivu::Objects::ReleaseGroup.new(**rg) }
+        @releasegroups  = temp_rg.collect { |rg| Eivu::Objects::ReleaseGroup.new(**rg) }
         @title          = title
         @artists        = artists.collect { |a| Eivu::Objects::Artist.new(**a) }
       end
+
+      alias release_groups releasegroups
     end
   end
 end

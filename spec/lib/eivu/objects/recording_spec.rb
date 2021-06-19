@@ -65,10 +65,6 @@ describe Eivu::Objects::Recording do
           end
         end
       end
-
-
-
-
     end
 
     describe 'failure' do
@@ -87,7 +83,7 @@ describe Eivu::Objects::Recording do
       end
 
       it 'fails to parse the hash successfully' do
-        expect { instance }.to raise_error(ArgumentError, /releasegroups or release_groups must be passed in/)
+        expect { instance }.to raise_error(ArgumentError)
       end
     end
   end

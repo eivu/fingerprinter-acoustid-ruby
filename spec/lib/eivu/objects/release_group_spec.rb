@@ -62,39 +62,40 @@ describe Eivu::Objects::ReleaseGroup do
     end
   end
 
+  context 'method aliases' do
+    subject(:instance) { described_class.new(**info) }
+
+    let(:info) { { id: '9d8e1974', title: 'Josh White Sings', type: 'Album' } }
+
+    it 'has the function eql? which is ==' do
+      expect(instance.method(:secondary_types)).to eq(instance.method(:secondarytypes))
+    end
+  end
+
   context 'inherited functions' do
     let(:info) do
       {
-        artists: [
-          {
-            id: 'af70e766',
-            name: 'Saint A.'
-          }
-        ],
-        id: 'c04bec62',
-        title: 'The Confessions of Saint Augustine',
-        type: 'Other'
+        artists: [ { id: 'af70e766', name: 'Saint A.' } ],
+        id: 'af70e766',
+        title: 'The Confessions of Saint Augustine'
       }
     end
 
-    let(:fail_multi) { { described_class.new(
-      artists: [ { id: 'af70e766', name: 'Saint A.' }],
-        id: 'xxxxxxx',
-        title: 'The Confessions of Saint Augustine',
-        type: 'Other'
-    ) }
-    let(:fail_multi) { { described_class.new(
-      artists: [
-          {
-            id: 'af70e766',
-            name: 'Saint A.'
-          }
-        ],
-        id: 'xxxxxxx',
-        title: 'The Confessions of Saint Augustine',
-        type: 'Other'
-    ) }
-    let(:fail_id) { { described_class.new(id: 'xxxxxxxx', name: 'Jay-Z') }
+    let(:fail_id) do 
+      described_class.new(
+        artists: [{ id: 'af70e766', name: 'Saint A.' }],
+        id: 'xxxxxx',
+        title: 'The Confessions of Saint Augustine'
+      )
+    end
+
+    let(:fail_multi) do 
+      described_class.new(
+        artists: [{ id: 'af70e766', name: 'Saint A.' }],
+        id: 'xxxxxx',
+        title: 'xxxxxx'
+      )
+    end
 
     let(:instance_a) { described_class.new(**info) }
     let(:instance_b) { described_class.new(**info) }

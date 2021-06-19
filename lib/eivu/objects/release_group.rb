@@ -6,13 +6,15 @@ module Eivu
     class ReleaseGroup < BaseClass
       attr_reader :id, :type, :title, :artists, :secondarytypes
 
-      def initialize(id:, type:, title:, artists: [], secondarytypes: nil)
+      def initialize(id:, title: ,type: nil, artists: [], secondarytypes: nil)
         @id             = id
         @type           = type
         @title          = title
         @artists        = artists.collect { |a| Eivu::Objects::Artist.new(**a) }
         @secondarytypes = secondarytypes
       end
+
+      alias secondary_types secondarytypes
     end
   end
 end

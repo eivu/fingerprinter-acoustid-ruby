@@ -14,7 +14,7 @@ module Eivu
       end
 
       # def filter(duration:, release_name: nil, release_group_name: nil)
-      def filter(duration:, release_group_name: nil)
+      def best_recording(duration:, release_group_name: nil)
         filtered_recordings_via_duration = filter_recordings_via_duration(duration)
 
         # short circuit if we don't have release_group_name
@@ -29,7 +29,7 @@ module Eivu
         matcher = FuzzyMatch.new(filtered_albums)
         match   = matcher.find(release_group_name)
 
-        # return recording 
+        # return recording that matched the album found via fuzzy match
         filtered_recordings_via_duration.detect do |r|
           r.release_groups.collect(&:title).include? match
         end

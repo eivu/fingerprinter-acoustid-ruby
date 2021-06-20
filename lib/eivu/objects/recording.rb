@@ -6,7 +6,7 @@ module Eivu
     class Recording < BaseClass
       attr_reader :id, :duration, :releasegroups, :title, :artists
 
-      def initialize(id:, title:, artists:, releasegroups:, duration: nil)
+      def initialize(id:, title: nil, artists: [], releasegroups: [], duration: nil)
         @id             = id
         @duration       = duration
         @releasegroups  = releasegroups.collect { |rg| Eivu::Objects::ReleaseGroup.new(**rg) }

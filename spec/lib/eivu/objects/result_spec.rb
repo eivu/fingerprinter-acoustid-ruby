@@ -31,6 +31,32 @@ describe Eivu::Objects::Result do
     end
   end
 
+  describe '#filter' do
+    subject(:filtered_recording) do
+      # instance.filter(duration: duration, release_name: release_name, release_group_name: album)
+      instance.filter(duration: duration, release_group_name: album)
+    end
+
+    let(:instance) { described_class.new(**info) }
+    let(:duration) { 178 }
+    let(:album) { 'Watch The Throne (Deluxe Edition) [Explicit]' }
+    let(:release_name) { 'Otis [feat. Otis Redding] [Explicit]' }
+    let(:info) do
+      Oj.load(
+        File.read('spec/fixtures/objects/result_otis.json')
+      ).deep_symbolize_keys
+    end
+
+    it 'returns the best recording ' do
+      aggregate_failures do
+        expect(filtered_recording).to be_kind_of(Eivu::Objects::Recording)
+        expect(filtered_recording.artists.count).to eq(3)
+        expect(filtered_recording.release_groups.count).to eq(1)
+        expect(filtered_recording.id).to eq('e67985c1-4e31-4d7b-b2af-1f97931df3cc')
+      end
+    end
+  end
+
   context 'inherited functions' do
     let(:info) { { id: 1231, recordings: [], score: 0.912 } }
 

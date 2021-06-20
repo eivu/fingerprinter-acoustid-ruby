@@ -44,11 +44,13 @@ build-iPhoneSimulator/
 /vendor/bundle
 /lib/bundler/man/
 
-# eivu ignores
+# ignores media files for eivu
 *.mp3
 *.m4a
 *.MP3
 *.M4A
+*.pdf
+*.PDF
 
 # for a library or gem, you might want to ignore these files since the code is
 # intended to run in multiple environments; otherwise, check them in:

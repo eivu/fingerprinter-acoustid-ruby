@@ -8,7 +8,8 @@ describe Eivu::Misc do
 
   describe '.traverse' do
     it 'works', vcr: true do
-      # traversal
+      traversal
     end
   end
 end
+ 

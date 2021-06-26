@@ -37,6 +37,7 @@ module Eivu
             if rg.title == match
               return Eivu::Objects::Match.new(release_group: rg,
                         recording: r.shallow_clone,
+                        result_score: score,
                         original_release_group_name: release_group_name,
                         matched_release_group_name: match)
             end

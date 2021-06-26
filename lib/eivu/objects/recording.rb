@@ -9,9 +9,31 @@ module Eivu
       def initialize(id:, title: nil, artists: [], releasegroups: [], duration: nil)
         @id             = id
         @duration       = duration
-        @releasegroups  = releasegroups.collect { |rg| Eivu::Objects::ReleaseGroup.new(**rg) }
         @title          = title
-        @artists        = artists.collect { |a| Eivu::Objects::Artist.new(**a) }
+        @releasegroups  = releasegroups.collect do |rg|
+          case rg.class.name
+          when 'Hash'
+            Eivu::Objects::ReleaseGroup.new(**rg)
+          when 'Eivu::Objects::Artist'
+            rg
+          else
+            raise "Unknown Type: #{rg.class}"
+          end
+        end
+        @artists = artists.collect do |a|
+          case a.class.name
+          when 'Hash'
+            Eivu::Objects::Artist.new(**a)
+          when 'Eivu::Objects::Artist'
+            a
+          else
+            raise "Unknown Type: #{a.class}"
+          end
+        end
+      end
+
+      def shallow_clone
+        Eivu::Objects::Recording.new(id: id, title: title, artists: artists, releasegroups: [], duration: duration)
       end
 
       alias release_groups releasegroups

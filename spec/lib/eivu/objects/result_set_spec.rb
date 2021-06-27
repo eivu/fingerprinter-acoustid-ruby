@@ -43,7 +43,33 @@ describe Eivu::Objects::ResultSet do
 
       it 'parses the hash successfully' do
         aggregate_failures do
-          instance
+          expect(instance.results.count).to eq(2)
+          expect(instance.results[0].id).to eq('cecca08d')
+          expect(instance.results[1].id).to eq('de1ef7e2')
+        end
+      end
+    end
+  end
+
+  describe 'best match' do
+    context 'challenge #1 - Ella & Louis - Willow Weep' do
+      subject(:match) { instance.best_match(duration: duration, release_group_name: title) }
+
+      let(:instance) { described_class.new(**info) }
+      let(:duration) { -1 }
+      let(:title) { 'Willow Weep For Me' }
+      let(:info) do
+        Oj.load(File.read('spec/fixtures/objects/result_set_2-08_willow_weep_for_me.json'))
+          .deep_symbolize_keys
+      end
+
+      it 'parses the hash successfully' do
+        aggregate_failures do
+          expect(match.recording.id).to eq('4cde11be')
+          expect(match.type).to eq('Album')
+          expect(match.release_group.id).to eq('162346df')
+          expect(match.result_score).to eq(0.999934)
+          expect(match.duration).to eq(259)
         end
       end
     end

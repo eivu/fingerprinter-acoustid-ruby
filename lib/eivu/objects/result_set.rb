@@ -14,6 +14,15 @@ module Eivu
         @status  = status
       end
 
+      def best_match(duration:, release_group_name: nil)
+        raise(ArgumentError, 'ResultSet did not return OK') unless ok?
+
+        # generate array of matches
+        matches = results.collect {|r| r.generate_match(duration: duration, release_group_name: release_group_name) }
+        # prune nil results and return highest scoring match
+        matches.compact.max
+      end
+
       def ok?
         @status == OK_STATUS
       end

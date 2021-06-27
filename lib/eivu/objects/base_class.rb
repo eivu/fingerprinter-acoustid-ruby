@@ -22,6 +22,21 @@ module Eivu
 
       alias eql?   ==
       alias equal? ==
+
+      private
+
+      def instantiate_artists(artists)
+        artists.collect do |a|
+          case a.class.name
+          when 'Hash'
+            Eivu::Objects::Artist.new(**a)
+          when 'Eivu::Objects::Artist'
+            a
+          else
+            raise ArgumentError, "Mismatched Type: #{a.class} passed to create artist"
+          end
+        end
+      end
     end
   end
 end

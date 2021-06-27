@@ -6,57 +6,75 @@ require 'eivu/objects/release_group'
 describe Eivu::Objects::ReleaseGroup do
 
   describe '#new' do
-    subject(:instance) { described_class.new(**info) }
+    context 'with proper eivu objects as inputs' do
+      subject(:instance) { build(:release_group) }
 
-    context 'Audiobook' do
-      let(:info) do
-        {
-          artists: [
-            {
-              id: 'af70e766',
-              joinphrase: ' read by ',
-              name: 'Saint Aurelius Augustinus'
-            },
-            {
-              id: 'b238dee7',
-              name: 'Bernard Mayes'
-            }
-          ],
-          id: 'c04bec62',
-          secondarytypes: ['Audiobook'],
-          title: 'The Confessions of Saint Augustine',
-          type: 'Other'
-        }
-      end
-
-      it 'parses the hash successfully' do
-        aggregate_failures do
-          expect(instance.artists.count).to eq(2)
-          expect(instance.artists[0].id).to eq('af70e766')
-          expect(instance.artists[1].id).to eq('b238dee7')
-          expect(instance.id).to eq('c04bec62')
-          expect(instance.secondarytypes).to eq(['Audiobook'])
-          expect(instance.title).to eq('The Confessions of Saint Augustine')
-          expect(instance.type).to eq('Other')
-        end
+      it 'does not raise an error' do
+        expect { instance }.not_to raise_error
       end
     end
 
-    context 'Album' do
-      let(:info) do
-        {
-          id: '9d8e1974',
-          title: 'Josh White Sings',
-          type: 'Album'
-        }
+    context 'with improper objects as inputs' do
+      subject(:instance) { build(:release_group, artists: ['String']) }
+
+      it 'does not raise an error' do
+        expect { instance }.to raise_error(ArgumentError, /Mismatched Type:/)
+      end
+    end
+
+    context 'with hashes as inputs' do
+      subject(:instance) { described_class.new(**info) }
+
+      context 'Audiobook' do
+        let(:info) do
+          {
+            artists: [
+              {
+                id: 'af70e766',
+                joinphrase: ' read by ',
+                name: 'Saint Aurelius Augustinus'
+              },
+              {
+                id: 'b238dee7',
+                name: 'Bernard Mayes'
+              }
+            ],
+            id: 'c04bec62',
+            secondarytypes: ['Audiobook'],
+            title: 'The Confessions of Saint Augustine',
+            type: 'Other'
+          }
+        end
+
+        it 'parses the hash successfully' do
+          aggregate_failures do
+            expect(instance.artists.count).to eq(2)
+            expect(instance.artists[0].id).to eq('af70e766')
+            expect(instance.artists[1].id).to eq('b238dee7')
+            expect(instance.id).to eq('c04bec62')
+            expect(instance.secondarytypes).to eq(['Audiobook'])
+            expect(instance.title).to eq('The Confessions of Saint Augustine')
+            expect(instance.type).to eq('Other')
+          end
+        end
       end
 
-      it 'parses the hash successfully' do
-        aggregate_failures do
-          expect(instance.artists).to be_empty
-          expect(instance.id).to eq('9d8e1974')
-          expect(instance.title).to eq('Josh White Sings')
-          expect(instance.type).to eq('Album')
+      context 'Album' do
+        let(:info) do
+          {
+            id: '9d8e1974',
+            title: 'Josh White Sings',
+            type: 'Album'
+          }
+        end
+
+        it 'parses the hash successfully' do
+          aggregate_failures do
+            expect(instance.artists).to be_empty
+            expect(instance.id).to eq('9d8e1974')
+            expect(instance.title).to eq('Josh White Sings')
+            expect(instance.type).to eq('Album')
+          end
         end
       end
     end

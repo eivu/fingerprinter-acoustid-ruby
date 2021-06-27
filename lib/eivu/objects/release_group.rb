@@ -10,7 +10,7 @@ module Eivu
         @id             = id
         @type           = type
         @title          = title
-        @artists        = artists.collect { |a| Eivu::Objects::Artist.new(**a) }
+        @artists        = instantiate_artists(artists)
         @secondarytypes = secondarytypes
       end
 

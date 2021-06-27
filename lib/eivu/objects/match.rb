@@ -4,6 +4,8 @@ require 'eivu/eivu-objects'
 module Eivu
   module Objects
     class Match
+      include Comparable
+
       attr_reader :release_group, :recording, :result_score,
                   :original_release_group_name, :matched_release_group_name
 
@@ -20,6 +22,13 @@ module Eivu
         @result_score                = result_score
         @original_release_group_name = original_release_group_name
         @matched_release_group_name  = matched_release_group_name
+      end
+
+      # returns  1 if self > other
+      # returns  0 if self == other
+      # returns -1 if self < other
+      def <=> (other)
+        result_score <=> other.result_score
       end
 
       def print_artists

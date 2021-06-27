@@ -10,28 +10,20 @@ module Eivu
         @id             = id
         @duration       = duration
         @title          = title
+        @artists        = instantiate_artists(artists)
         @releasegroups  = releasegroups.collect do |rg|
           case rg.class.name
           when 'Hash'
             Eivu::Objects::ReleaseGroup.new(**rg)
-          when 'Eivu::Objects::Artist'
+          when 'Eivu::Objects::ReleaseGroup'
             rg
           else
-            raise "Unknown Type: #{rg.class}"
-          end
-        end
-        @artists = artists.collect do |a|
-          case a.class.name
-          when 'Hash'
-            Eivu::Objects::Artist.new(**a)
-          when 'Eivu::Objects::Artist'
-            a
-          else
-            raise "Unknown Type: #{a.class}"
+            raise ArgumentError, "Mismatched Type: #{rg.class} passed to create release group"
           end
         end
       end
 
+      # will delete before completion
       def shallow_clone
         Eivu::Objects::Recording.new(id: id, title: title, artists: artists, releasegroups: [], duration: duration)
       end

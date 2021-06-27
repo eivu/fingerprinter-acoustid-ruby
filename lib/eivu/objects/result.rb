@@ -32,11 +32,11 @@ module Eivu
         match   = matcher.find(release_group_name)
 
         # return recording that matched the album found via fuzzy match
-        filtered_recordings.each do |r|
-          r.release_groups.each do |rg|
+        filtered_recordings.each do |rec|
+          rec.release_groups.each do |rg|
             if rg.title == match
               return Eivu::Objects::Match.new(release_group: rg,
-                        recording: r.shallow_clone,
+                        recording: rec.shallow_clone,
                         result_score: score,
                         original_release_group_name: release_group_name,
                         matched_release_group_name: match)

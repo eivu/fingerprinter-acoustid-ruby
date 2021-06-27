@@ -6,7 +6,11 @@ module Eivu
     class Recording < BaseClass
       attr_reader :id, :duration, :releasegroups, :title, :artists
 
-      def initialize(id:, title: nil, artists: [], releasegroups: [], duration: nil)
+      def initialize(id:, title: nil, artists: [], release_groups: [], releasegroups: [], duration: nil)
+        if release_groups.present? && releasegroups.present?
+          raise ArgumentError, 'can not pass in both release_groups AND releasegroups to constructor'
+        end
+
         @id             = id
         @duration       = duration
         @title          = title

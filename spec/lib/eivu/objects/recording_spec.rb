@@ -32,6 +32,47 @@ describe Eivu::Objects::Recording do
       end
     end
 
+    context 'when passing in both release_groups and releasegroups' do
+      subject(:instance) { described_class.new(**info) }
+
+      let(:info) do
+        {
+          id: '111111', title: 'today', release_groups: ['X'],
+          releasegroups: ['X'], duration: 999
+        }
+      end
+
+      it 'raises an error' do
+        expect { instance }.to raise_error(ArgumentError, /can not pass in both/)
+      end
+    end
+
+    context 'when passing in release_groups and NOT releasegroups' do
+      subject(:instance) { described_class.new(**info) }
+
+      let(:release_group) { build(:release_group) }
+      let(:info) do
+        { id: '111111', title: 'today', duration: 999, release_groups: [release_group] }
+      end
+
+      it 'raises an error' do
+        expect { instance }.not_to raise_error
+      end
+    end
+
+    context 'when passing in releasegroups and NOT release_groups' do
+      subject(:instance) { described_class.new(**info) }
+
+      let(:releasegroup) { build(:releasegroup) }
+      let(:info) do
+        { id: '111111', title: 'today', duration: 999, releasegroups: [releasegroup] }
+      end
+
+      it 'raises an error' do
+        expect { instance }.not_to raise_error
+      end
+    end
+
     context 'with hashes as inputs' do
       subject(:instance) { described_class.new(**info) }
 

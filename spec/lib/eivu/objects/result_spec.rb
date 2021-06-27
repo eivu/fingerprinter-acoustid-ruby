@@ -45,10 +45,10 @@ describe Eivu::Objects::Result do
     end
   end
 
-  describe '#best_match' do
+  describe '#generate_match' do
     subject(:match) do
       # instance.filter(duration: duration, release_name: release_name, release_group_name: album)
-      instance.best_match(duration: duration, release_group_name: album)
+      instance.generate_match(duration: duration, release_group_name: album)
     end
 
     let(:instance) { described_class.new(**info) }

@@ -13,7 +13,7 @@ module Eivu
         @score          = score
       end
 
-      def best_match(duration:, release_group_name: nil)
+      def generate_match(duration:, release_group_name: nil)
         filtered_recordings = filter_empty_recordings(recordings)
 
         # filtered_recordings_via_duration = filter_recordings_via_duration(duration)
@@ -43,6 +43,14 @@ module Eivu
           end
         end
         nil
+      end
+
+      def recordings?
+        @has_recordings ||= recordings.present?
+      end
+
+      def no_recordings?
+        @no_recordings ||= !recordings?
       end
 
       private

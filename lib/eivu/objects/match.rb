@@ -11,8 +11,7 @@ module Eivu
 
       delegate :duration, to: :recording
       delegate :title, to: :recording
-      delegate :album, to: :release_group
-      delegate :album, to: :release_group
+      delegate :type, to: :release_group
       delegate :secondarytypes, to: :release_group
       delegate :secondary_types, to: :release_group
 

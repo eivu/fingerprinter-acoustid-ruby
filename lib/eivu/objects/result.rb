@@ -13,8 +13,7 @@ module Eivu
         @score          = score
       end
 
-      # def filter(duration:, release_name: nil, release_group_name: nil)
-      def best_recording(duration:, release_group_name: nil)
+      def best_match(duration:, release_group_name: nil)
         filtered_recordings = filter_empty_recordings(recordings)
 
         # filtered_recordings_via_duration = filter_recordings_via_duration(duration)

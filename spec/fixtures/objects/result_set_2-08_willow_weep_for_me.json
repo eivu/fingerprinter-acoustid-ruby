@@ -1,0 +1,283 @@
+{
+  "results": [
+    {
+      "id": "cecca08d-a3cb-4a0a-95c3-d24df11ae678",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+              "name": "Louis Armstrong"
+            }
+          ],
+          "duration": 260,
+          "id": "26c4d174-9d38-4e25-a757-0d593573fb07",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+                  "name": "Louis Armstrong"
+                }
+              ],
+              "id": "3767884a-81a1-37b5-867e-1a5dff17a8e6",
+              "secondarytypes": ["Compilation"],
+              "title": "Let's Do It: Best of the Verve Years",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+                  "name": "Louis Armstrong"
+                }
+              ],
+              "id": "22508933-dbbe-3167-904a-a66cecb085d5",
+              "secondarytypes": ["Compilation"],
+              "title": "Louis Armstrong at His Very Best",
+              "type": "Album"
+            },
+            {
+              "id": "dbb0d5bc-cfad-41dd-a38c-617802e6c407",
+              "secondarytypes": ["Compilation"],
+              "title": "“Satchmo” • I gioielli di un genio",
+              "type": "Album"
+            }
+          ],
+          "title": "Willow Weep for Me"
+        },
+        {
+          "artists": [
+            {
+              "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+              "name": "Louis Armstrong"
+            }
+          ],
+          "duration": 259,
+          "id": "4cde11be-7cb2-47a0-8b4d-4c49bbc5d958",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+                  "joinphrase": " \u0026 ",
+                  "name": "Ella Fitzgerald"
+                },
+                {
+                  "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+                  "name": "Louis Armstrong"
+                }
+              ],
+              "id": "7108712f-b350-310b-9419-232dceaaba00",
+              "title": "Ella and Louis Again",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+                  "name": "Ella Fitzgerald"
+                }
+              ],
+              "id": "3dcd39f2-5c4f-4043-9534-9581e7191a30",
+              "secondarytypes": ["Compilation"],
+              "title": "Six Classic Albums, Volume 3",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+                  "joinphrase": " \u0026 ",
+                  "name": "Ella Fitzgerald"
+                },
+                {
+                  "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+                  "name": "Louis Armstrong"
+                }
+              ],
+              "id": "0cbe776a-d90b-424c-bd31-a87a42025821",
+              "secondarytypes": ["Compilation"],
+              "title": "Ella and Louis: The Anthology",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+                  "joinphrase": " \u0026 ",
+                  "name": "Ella Fitzgerald"
+                },
+                {
+                  "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+                  "name": "Louis Armstrong"
+                }
+              ],
+              "id": "162346df-76e5-4cd7-9169-f047b61421d6",
+              "secondarytypes": ["Compilation"],
+              "title": "Ella \u0026 Louis",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+                  "joinphrase": " \u0026 ",
+                  "name": "Ella Fitzgerald"
+                },
+                {
+                  "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+                  "name": "Louis Armstrong"
+                }
+              ],
+              "id": "50fece99-77bf-455b-97ae-aabb9a848b8b",
+              "title": "Ella and Louis",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+                  "joinphrase": " \u0026 ",
+                  "name": "Ella Fitzgerald"
+                },
+                {
+                  "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+                  "name": "Louis Armstrong"
+                }
+              ],
+              "id": "c4d57285-84d5-4413-8118-b92f402ad1da",
+              "secondarytypes": ["Compilation"],
+              "title": "Cheek to Cheek: The Complete Duet Recordings",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+                  "joinphrase": " \u0026 ",
+                  "name": "Louis Armstrong"
+                },
+                {
+                  "id": "ed801bdd-f057-41c0-94fb-76cb5676cd59",
+                  "name": "Oscar Peterson"
+                }
+              ],
+              "id": "2cd03f5b-d935-326f-9368-f34583f46570",
+              "title": "Louis Armstrong Meets Oscar Peterson",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+                  "joinphrase": " \u0026 ",
+                  "name": "Ella Fitzgerald"
+                },
+                {
+                  "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+                  "name": "Louis Armstrong"
+                }
+              ],
+              "id": "37012d18-8647-3648-87e7-7a66423b863b",
+              "secondarytypes": ["Compilation"],
+              "title": "The Complete Ella and Louis on Verve",
+              "type": "Album"
+            }
+          ],
+          "title": "Willow Weep for Me"
+        },
+        {
+          "artists": [
+            {
+              "id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+              "joinphrase": " \u0026 ",
+              "name": "Ella"
+            },
+            { "id": "eea8a864-fcda-4602-9569-38ab446decd6", "name": "Louis" }
+          ],
+          "duration": 258,
+          "id": "b3f957b3-b4d8-4005-b474-c8e2b2f3129b",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+                  "joinphrase": " \u0026 ",
+                  "name": "Ella Fitzgerald"
+                },
+                {
+                  "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+                  "name": "Louis Armstrong"
+                }
+              ],
+              "id": "45aa0e31-ab75-4605-a3a3-f650d4fa4229",
+              "secondarytypes": ["Compilation"],
+              "title": "Ella \u0026 Louis: The Complete Anthology",
+              "type": "Album"
+            }
+          ],
+          "title": "Willow Weep for Me"
+        },
+        {
+          "artists": [
+            {
+              "id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+              "joinphrase": " \u0026 ",
+              "name": "Ella Fitzgerald"
+            },
+            {
+              "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+              "name": "Louis Armstrong"
+            }
+          ],
+          "duration": 257,
+          "id": "c3097a81-3515-4c2d-85c1-f16a87e67d92",
+          "releasegroups": [
+            {
+              "id": "24577902-0198-3733-b1cb-f10e8c2abb05",
+              "secondarytypes": ["Compilation"],
+              "title": "Ella \u0026 Louis Classic Album Collection",
+              "type": "Album"
+            }
+          ],
+          "title": "Willow Weep For Me"
+        },
+        {
+          "artists": [
+            {
+              "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+              "joinphrase": " with ",
+              "name": "Louis Armstrong"
+            },
+            {
+              "id": "ed801bdd-f057-41c0-94fb-76cb5676cd59",
+              "name": "Oscar Peterson"
+            }
+          ],
+          "duration": 261,
+          "id": "d3416b49-793f-4033-aafa-c07483230c2e",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+                  "name": "Louis Armstrong"
+                }
+              ],
+              "id": "d9dcdc12-a720-4f15-b59e-012ba87ad1aa",
+              "secondarytypes": ["Compilation"],
+              "title": "Essential Collection",
+              "type": "Album"
+            }
+          ],
+          "title": "Willow Weep for Me"
+        },
+        { "id": "dcdb3c23-e3ff-4216-bb99-d0affb516046" }
+      ],
+      "score": 0.999934
+    },
+    { "id": "de1ef7e2-f8e1-4884-ba6b-ab4f07ecb7e2", "score": 0.961762 }
+  ],
+  "status": "ok"
+}

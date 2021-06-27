@@ -34,6 +34,19 @@ describe Eivu::Objects::ResultSet do
         expect(instance.status).to eq('ok')
       end
     end
+
+    context 'challenge #1 - Ella & Louis - Willow Weep' do
+      let(:info) do
+        Oj.load(File.read('spec/fixtures/objects/result_set_2-08_willow_weep_for_me.json'))
+          .deep_symbolize_keys
+      end
+
+      it 'parses the hash successfully' do
+        aggregate_failures do
+          instance
+        end
+      end
+    end
   end
 
   describe 'ok?' do

@@ -7,7 +7,7 @@ module Eivu
       DURATION_ACCEPTANCE_RANGE = 15
       attr_reader :id, :recordings, :score
 
-      def initialize(id:, recordings:, score:)
+      def initialize(id:, recordings: [], score: nil)
         @id             = id
         @recordings     = recordings.collect { |r| Eivu::Objects::Recording.new(**r) }
         @score          = score

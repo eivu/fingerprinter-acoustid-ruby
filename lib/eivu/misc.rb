@@ -30,11 +30,11 @@ module Eivu
           tagger   = ID3Tag.read(mp3_file)
 
           Eivu::Objects::ResultSet.new(fingerprinter.response).results.each do |r|
-            puts '--------------'.light_blue
             match = r.best_recording(duration: fingerprinter.duration, release_group_name: tagger.album)
             puts "album: #{match.release_group.title}"
             puts "title: #{match.title}"
             match.print_artists
+            puts '--------------'.light_blue
           end
         end
       end

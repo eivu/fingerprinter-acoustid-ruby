@@ -1,0 +1,55 @@
+---
+http_interactions:
+- request:
+    method: get
+    uri: https://api.acoustid.org/v2/lookup?client=<ACOUSTID_CLIENT_ID>&duration=319&fingerprint=AQADtEqY5Mk2_OiTH82FH3kOLSpznEczOUvw3Pjx7DgzfBT-Qz1w4Rp-vNHBQ8_Q5Am63FCVPjh8KUc-4QTNj2iiI1QaQveHPDnQ80TzHHuQh8mRzJKUwF-CJrvQlTmH5nuEC18enIGfH_nxYNTq4D-0HJqTHjGfY7olNGdW4Tk-3MdD_QjrBAn3o9fxJDl-XPCsIJ8P5TmeIzv6IK2JVlEOnjx-zOSCimlu1NCZ4NLxJzmsMohvXDmeHOF5NI9wYp6EJ8sDTS_R6Lh1HM0PP0NJ6PFxHn2OHozQ6MHFB_rRzDrCJ0lwgcfFfMg1aEkR-niPHc159AtyHnqyJDrCa8evJEalvPD74sqD57iOXmLQ7MgxSsrSomnqQDvxfdAXIn8wtRccMxfq5ngyPBfuZ0j2HOmOdtnx5cef4CHSB3Jk2Yiu43qEnsjHEXahWQrWH8-uBLeOKzgeHxe6KjrCRN3xHFf04Q_CXEPP48Ic7YG-D84TvDx-FH7QjFFw_B5OHVJ-HI6OTpzxhgxUD76U45lwPHxGVLkhKRT65kOu4DiRnjkeQXmYIKYk6WiuBE8uCd6DKX-GJ_lx_IdfnD_iLQsepUZFMYa-ww4P3Wly5Ic5CTtRqsGZXHiOB8nqIcyPb8GTI__DQXsQpuoxT3h24nwQ5kQyqyuuCJeGqw-aH9WPUiKa5sZ0HV51hM9wE7JyPMkTVEd65Wid4z-uJHkQnmjOQFeGEim1D47uIXxCdOuhUD8ykYfHEj127TjCOFIKDblFXAreOng8eFHw5PjxYL-QIMx2lOGD98fT4I6MX3jy4VfBHeETTVGF7jGRT0cPZ1EuXPBpIXaWwUWPqcejB7mMU0X3Y0efozkRPpbxw95x2O7g0MRvVD-0o_mRZ0efw92QT3g_nIIeHR_yjAv-EYdflMVzIXxzeFw-PDjEnMMZBf7wncCHH2qP_tCb40eYs-h1XEK9Eumh6dmQP_hi3MfvIDyhRTrik8PBfTPuB-EmBjri5sQdEfTwG6eO4-gqywj5XPA76DhxHDcsnIGvQ5-OHN3xO7gOPzhH5BGFZlegKxduXMcVsMiP49pynDUe4gn6I_8MbVKOtB9uRuCP08aD4zIewT5y7ZA94vSRfvjwgM9jHNuOH2i8Io6WBZp4I3x6_MUTJQt69jCjZOiN5zglxcjl-FB4CvyEMMcPPzhOIX0etNkOXUHzGz2HHw-jSsiJanzxHJ5EPIR_3PiONFKCrjm-9cYTHM_x6NCy7kgfB_2H48WTJdmRRjaEPIyE88JP4WiSSkUoMQp0SXjQQzxyoiETPTgzPBKMf_iP7_B2_IgF3WPwx0HYoamPt0G35XCsJBZ6WuiP9EefoyS-H2EeB_-CH89GfEuCdIeOPFJwJzgfVPvQKFQQW9CVBPnRPOiPnkGY84cunIePS8MfPFUlI490VE0O7w8-4vCPl8glOAw68fiVGw-O6ygZiM8R5nOCByceZTy-JUG6Q8gZ4Y_wG9V2hFGc4I8OXcGP5g90pKwe1EuS41LwHt7xh0lwliilHE2DHKo-Bo-DnGhQ3zhzdE4uON9h8kc-PFuOJ4fH_HgQfk6EByceRSHCRJmCHslxKQnOD79RHWGSB3qCIw-aH0d6Mmiz5dCVo7_RHJcVIl-URXh1lNLxJtvxw-uOwxyJvIQbExWPp8GT48aD59DIII-PflZwnMGjJQgTZSK0I-_wNMJ54bNQ6QiTPNCX4woeND90Isyz4wtzPAqaH33wMzg_eHrxEz_-I96kONB-pFl1fDy-LIdzxUV_oSea88iV48lRdj_Sx-iv4HgW5MkSOKIoQ0fe4YyFHz-apBJCiUoKXcFzhA88Hn8Q5suPJ7gg3jL-43gYcTJOoxrtInWIS7nxwsfT4jqcENUy_MOTHDme_CilQ_xSpBf6OcLxZMO3JEO6Q8jDCBcd4TqqHY0qIVaTFLqCH30g_sgfNGSSHNeGFz7-489x7bBP5CeuQ_eIXIrRw6WCqj26LYFj7fhyFenRPsdzlMyPB2G-B1dw4lHGI9SWBM0OHbnDCOcW4clRHWGSOMEj6EqQP4F_IDwZNORyQd_xGz5uFd-WCHliCY90VE12XPCkDD_MkcNLpI1R8XiDXyTeHMdzaGSOB-HnJDhOPIpChNoUNDuEnEnwK3iOygiTxAkeFXpwPWh-6EivPGizJMcTBYcv_GGCL-tQ8kXTE8f1B_GqB32hH2m-41EOa0xyovoT9ITPI_SOJ0fJ_Eh_9I9wPMMVJUMTZUKPIDmT4DQVfKiCJqIS5EpU6EEeNGMu_Gi-PHhw5Qjz3OgHfcN_gYykI9R04Tiu48QfuMeVXPhvVNGHJ3mQQ8-RBwyZOXiPfg-OSxlyZQnEiMiFZwkuJjgftHzgyEZXBTEDHX_QH3qOsNWDKwvOwerxBz8jHJ6SvDiFHPom5OPhB8dTNImyKKjkHL0V-Dz84Mlx4TN-ot-DH3k2qFsSpDuOMwlYXcOjo3kHRqKMOM-hC3ke-ALyM_APPdFxCT5OXCdyLcmFa0fVHM_gKjtOAICYEMBAoSAwRglEGGEYACAQMYwAjIwQEghGjCDKUCEQQcYwBIRAwlIAhIKEGSGMEgZIoQQTBAghEDKIOSAIM8woCICQAjEHgFBEECYMQkQAA5BECADAABGEACMYEQgFAwCBHjBiFCFGEMMAQAhhqIQiAjlglBDQMEIEEoQQIyRwCCCihAGCCMQIZQgCYQghzAAEiCDECASEYQYQQogjBAhGCCEAGVcCcQI4AQRQCAEEHEFECEEIIkA4BJhwICFkkACAMEOIQYoIAQywQkhCAEFEEiEQAUQ4QIwARgHEhHCWA-EkMCABhoABVEigDCBQEEEgEcEwRZwiQCuBCIXEOSKIUIIAgBwC1AChjECIGSMUdcZAAMDwgCFIKBCAeA2AQMAAwwRQBgHFEBEAMwcAQMc6aAQwRhpgFEGGAUMUEIJJU4gwziGjmAFSAQW5U8oAoJxRQDlilRDIMAAUEgAA4akylHEEIADCACQMUI5ZwRARAECIiDEOEUKCEJIBYgxAGGgABFFGAKQIstAAAIwgUiFgHADIEWAFUFZSoggwigonBQCCOAiBEUQCQZAMyAkBBIDcIMQECUIARZkhhgBgAFLAYAGAEM4ABtSjCgAmBCCAGYSMAZSQIKS1xBgCAVIeGJQA0EIwQIRhACAARdMACmgQkoCQIKSkxBgFCCAgGCwEIAIIS4gRRjHikQIKEIQEEYRwAQxEBgBECAmCTEaMgQQhK6gQABgCgABWIAKYaUQxApkzxBhBCQlASUQcAUhZIKQAQEAigAGAKGIc8FBpIQxBACljABUABCGUNYw45YBBwCgANBOMACWYsQw7JIAwECFEKSFBKMoMIY4QBQwmQAAGiTDCKaIAEMIJgRwAhAsAkTFAAUJIIFISY4gHVAhgiAbAMUAAYohQ5iiARAAjFASOEGIFESQASylRgBAnDASCAEGcER4AwQlAIgklEEIGOUuIABYYbo0RAhBgEFRCAWEJhIAAQJSjkAA&meta=recordings%20releasegroups%20compress
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      Accept:
+      - "*/*"
+      User-Agent:
+      - rest-client/2.1.0 (darwin20.3.0 x86_64) ruby/2.7.1p83
+      Accept-Encoding:
+      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+      Host:
+      - api.acoustid.org
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Date:
+      - Tue, 29 Jun 2021 13:44:27 GMT
+      Content-Type:
+      - application/json; charset=UTF-8
+      Transfer-Encoding:
+      - chunked
+      Connection:
+      - keep-alive
+      Vary:
+      - Accept-Encoding
+      Access-Control-Allow-Origin:
+      - "*"
+      X-Envoy-Upstream-Service-Time:
+      - '135'
+      X-Envoy-Decorator-Operation:
+      - acoustid-server-api.acoustid.svc.cluster.local:3031/*
+      Strict-Transport-Security:
+      - max-age=15724800; includeSubDomains
+    body:
+      encoding: ASCII-8BIT
+      string: '{"results": [{"id": "338ef560-82ae-49eb-bede-ce738c504d16", "recordings":
+        [{"artists": [{"id": "9ddfc28e-9869-429e-8200-567dcf5ef008", "name": "High
+        Frequency Bandwidth"}], "duration": 317, "id": "b027f7e2-dee0-4e2f-9e22-16f432d8093c",
+        "releasegroups": [{"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "4a9ae90e-1488-482f-937a-8578d09c8bfc",
+        "secondarytypes": ["Compilation", "Soundtrack"], "title": "Vocal Pack", "type":
+        "Album"}, {"id": "6e99b843-94e4-4ead-aa69-4ef2c29b63f2", "secondarytypes":
+        ["Soundtrack"], "title": "HFB: PixelJunked - The Original Soundtrack to Shooter
+        1 + 2", "type": "Album"}], "title": "Hundred Forty Billion (Don''t Breath
+        / Explosive mix)"}], "score": 0.989392}], "status": "ok"}'
+    http_version:
+  recorded_at: Tue, 29 Jun 2021 13:44:27 GMT
+recorded_with: VCR 3.0.3

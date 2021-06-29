@@ -1,0 +1,55 @@
+---
+http_interactions:
+- request:
+    method: get
+    uri: https://api.acoustid.org/v2/lookup?client=<ACOUSTID_CLIENT_ID>&duration=229&fingerprint=AQADtJJCZ8mkoDcuhWhf4UfTVEY3h_jxI2EskciFuonQ-MSfog-a0NnRP0PjMMd_tD-aC3_Q6vCY_Ah_hDnKJRweHUcq8YOuI-4FL9GFM_iHPnCVHHZQHVdQShcq5TlONNaC_rhwXMqHOj0ifkciHncWRfAnnCKee6DKDNWjJviN83j0YxuTHe9TnEfnwIsuBZecwz_ysTgqBnM-4WQFOReaDCGfCk2foIzS4pJxrJVwNB--4zmaVEcvoZmc4j96NGMbPMRtHal2iUguPMFzDp-O6zguGt0DVzEshsFx5XBsI7wCXcgjYc4pnPzBj3CuFL_xC5V0UNvxFz8-B0bO4wgT9ngodDoeY8fhaUeF54jFTEh2XFc69PGCP7iiFJWuwp8u-LlwToNf4ywuyoDjwGeIC92UC_lFQbn8Ivxg_ThxHo904oLj7MgLsUdvB-GvIb0OVSPCSIzRVOiL68EjHK49_Mlx6kjcpDLyPEbXC1PiPPhxDn0aNJ-Ia7HxTTGa0Cm6Zgv-IK3yQ0-QK4OX0Tij48cxpUnwoslzhDyhhTryvfj24DyoSdnxGD_ClBAj9sgy8RYuWxFq3Wi2hMd13CEupWiYXUiqhXIRRqNyfMLzOIazhceJKy9eY3vT4YwuPNHRpBOF7kH_HI2jB0eYajmSMcssXD7-VHjgS8fDZsV-FV8Y9AWn5iGcMDtuE83pEJdwBc2FynkgVxa4H9eFWcryRLhS4T2q62hqFc8iHT--lNHwBaeCJlN0dJGiBw-aigjlRMmIQ3-EdLyGk6iOxyYmHVdxpuiPLLHxt4MmJQphVTqOH1-W45JepA9O4clhJfsREonWNkHzLEUP1D-8HBcp-DySrRxyhcfkZBEbeFoenDue41nCEQ5PJFd0-OExaaNDyGFGPMiZ49FxKQd_oh9yiJ0SByEXHaw-NM9RbZnx8EKFZKmKrEsO5vgvoe-xF38moUcYHck34ZnmBOfRhzhcBXtBnjucL8wx_aiPH3_Q_Mh74dmhCY0-7BNuZI7iEefRMUwIV9mHCfHTQZeP8H3QZD9ufuizHOaJfuhznFbRHiUPx6mMhHqE8ByHr8Jz9LPhwO9RtTmK5ttx4iEajUe_INmDZlKCyBneNPgM68qQR8GtQ__xKWnRnIfWCGfYofsRU8vRD2eO448KO7nwMbiP_vDxY3qWIzwlJEvoSMX540wVnImM48PnoH_hozr68DiuID-SqzsqMceP-WieoDquo7nQH68e_GiSE32CZxnuVEKD9g-S74gvDw8_VKSMh7jxC0-GJlWe44yQE8njRXhOTLIoDVby7CgZNsRr4Rt8hjhjIomeB2Em4qGGtiZOdB5uFl8eNGU3hM-RPAt-NJpSBs8Jn0eZHd6RfJqE7ETj4EFS_YiVPeBzdC-u-WjIC6WOnsT2JTqSd0IsLTuuS_h0JcWDZzqs6cj5QF8WIbJU4xdyyhAjKcuRbYe3JujRBab0DKU2LggvpUiWH7fw4suM_2B8JMuzIyf2puizovKHX8GP8D-S5bKCfhecNjue-HASRhV6T8H0HX6iBDzhB_uDZ7iZEV0-RNKOZtuhL8eJ1Md1_ASn45qo45rQK5EGJqd2_MInCskkFmEOnjjeBqZy4hyLF18xPTWHSyp-I9d8JORk3LgOpzZ-o1Z2VD98Huco2Ml4nHiIVA-0dTnyJErwNY1w50KkxIrQldCTyLhx7TKapwvKB9qRj8evJvjQE89x3kJD6RnK49jH4_jQ53BEI9nGCuEnWIxknIbPGl6H7ugr-ESPcxR6HheSKwrCKyv2BM9-3FLRxJEmMI-Od3izI1Zy6EfORfAT4h04UQqeLPLwHueP6MoM1VSRRypD-OFx93iT2fjRCGdCfMng7DJuH6HsQvaMUGtCoTlj_DCXHmeL-mjiLCVeEvmRLE-Uw3uOLgmPZzlu9MzR9PgvrJmUDWUmZYj9oj_0NaGGZ8d9pG2C7JIMPI-QXLrxPIFz3LjSFz-uKNnB5EdJCmGuI4k6tcff446EZj_6SCke5UHzV-hR8niYzIHrFDl05D56JcHDjHhyPESvH1N0PDvyH_scqLJSYQ_ENE-OPN4w5egaxmhHCk0eXMOPMHWQ7Jiyo71w60a_w4-PHvuJT-ERPoZ_aFZmfDp6fQjjRDmu4B8mPkZzC99Q6QF9NyiLx8RVwXUqxD0alSi1Q48ulDvCPGBlNFyOUrrQH990ZOmD5Esu4XrQPQX1EpWyHOeJoymVY-JiaF2UDk30CL8iXC-uD7aPl8Uj6QgzklD0NEG9E2G-I_cy3IfeKEXYB01xhngeoTmyPDmSR8KVV_iDvoNhPUXsnJCSqkeu5MR5XMrxKMaUP-jzEfmhZXOIdNkxPcfBWMwEX_gibPvR7_iHU7rQqx0aKUXexWhy_dC8Yk-Dkkd-EwwtnCca8UNF_riFPkiWI9cuob_givhzCj7-w-GGScVPVGIC_0h8yQhjS3guofvhH09YHD0evN3RPKio4xnCPOgTHedxVcWjHJoVCelzob_wHf-4oM7h4_kC58mRd0GqKUcvHidtPFfQKB1pVHROHBd6XJRwwfx6JJM95MUpakYre_hxHg51fMd7nCtOlbiJr0ioI3yY4Vkw6sZ9-FlxNiCnBL7xHc-eoEdTHlei4JEYCd2LJh_4IvmDfEcf3vg-7LSO6iuePKh3HY3H4oqkGTmSp8R1oUrkhLiikBLh7vgP5-htRMoZI9ktHH_QLlGOowc5nUVfI0yoQ32OfMnQKNKHJwoZAEAAcU4xAAFSSBAgiBBMAAocAcZQY8QARgkCAZIOGQYYgcglRgRAgCFljKBAEEIIAkARAAAycBAlGHAUICIgEc4ITYAAVDmBBIOOEoqYIQoQAABgSgCIkGHGGaSIYBRQQoEQAjijgBACMOAQYEQAIAgzTAkhIFAICEEEE044QQwxBAjCGFICEcYAIo4YqEgFRAGjjGAAUQkAAQQgY5gUWgBHIICKACKJQACYSAAwDBBmDCFAIMItEkQwAYAQADBCpGFIAq-IEkYJiRQDBABQhBFEUMWcQEAgIYEADggjBGEEIASoAo4ABoSUTCEnCLKEAAIIMBgA4gCQigAghLDMUIGEAEQAQQgSBjgABANAAMAFYEIRwxwhAgFBnDIEKQcUQMAJAAwBQAAGKHHEIEWAKEIAIYBBBJmihGACYaQUAcowEKQzwAFAiGNCIQKEAEIwQIQQQjLDDEDKASGMJEwoJBAjCAlAKAJUKEQIAwAYAwwUBghBGVHACAqkANYIYwgzwAAAiCCCCQCMMEQIAAgRkAAihWLAQYKAYwxRAQUABBgpFDiAGceIIIAAQIlkRigEIBDAEQEIIMYSgiABABAlqCCGCIsIMgMgJzwQIgjFiCHEEAIMEw4BJxEXEAACBAAAMEAoIwYBAAUiTCgAEICIASCIAgIARYAxRBAigGECCSCIQAQYAwAhhCoEGCCCQYDdE0IQBwIh3AkgJDJEEDAJRAogAAhSgBggAFBCSGEEdEQgIQCFRAmjkDHIEAgAQIggQRRlAhlkoGDEACUQAYgA5pQhyBkEDFMECQKIY4oRIohSSBAqKQEEMgYEEEIAAYgAAhFAFRAEKAMAJYIxZQwRBhAgFSYNEACZEoIhQhAgQggIAAYMCEAFAMQYQZYoDgCAiANWOaYEcAARQIRyAgCCDOHGCOggAA4IYYQBAAhAkEiMAOMQgAQoSAAgFgACmDIG&meta=recordings%20releasegroups%20compress
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      Accept:
+      - "*/*"
+      User-Agent:
+      - rest-client/2.1.0 (darwin20.3.0 x86_64) ruby/2.7.1p83
+      Accept-Encoding:
+      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+      Host:
+      - api.acoustid.org
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Date:
+      - Tue, 29 Jun 2021 13:48:17 GMT
+      Content-Type:
+      - application/json; charset=UTF-8
+      Transfer-Encoding:
+      - chunked
+      Connection:
+      - keep-alive
+      Vary:
+      - Accept-Encoding
+      Access-Control-Allow-Origin:
+      - "*"
+      X-Envoy-Upstream-Service-Time:
+      - '151'
+      X-Envoy-Decorator-Operation:
+      - acoustid-server-api.acoustid.svc.cluster.local:3031/*
+      Strict-Transport-Security:
+      - max-age=15724800; includeSubDomains
+    body:
+      encoding: ASCII-8BIT
+      string: '{"results": [{"id": "bd704c8d-49f8-48f0-ab06-88d7306563a2", "recordings":
+        [{"artists": [{"id": "04f5f62b-7c4d-4f5f-8dda-ff3bfb43db62", "name": "Aliotta
+        Haynes Jeremiah"}], "duration": 229, "id": "04d2b46d-be25-4bb9-91ee-0b7b6fc70a47",
+        "releasegroups": [{"artists": [{"id": "04f5f62b-7c4d-4f5f-8dda-ff3bfb43db62",
+        "name": "Aliotta Haynes Jeremiah"}], "id": "0c04eb25-f749-3ddb-b9d5-9427d2f2fe75",
+        "title": "Lake Shore Drive", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "7e836750-3cd3-4c71-aa9e-b5143bc56a2b",
+        "secondarytypes": ["Soundtrack"], "title": "Guardians of the Galaxy: Awesome
+        Mix, Vol. 2 (Original Motion Picture Soundtrack)", "type": "Album"}], "title":
+        "Lake Shore Drive"}], "score": 0.953059}], "status": "ok"}'
+    http_version:
+  recorded_at: Tue, 29 Jun 2021 13:48:17 GMT
+recorded_with: VCR 3.0.3

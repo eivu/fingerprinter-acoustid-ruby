@@ -1,0 +1,101 @@
+---
+http_interactions:
+- request:
+    method: get
+    uri: https://api.acoustid.org/v2/lookup?client=<ACOUSTID_CLIENT_ID>&duration=226&fingerprint=AQADtFEiJZLCSJEgH7YYcPTxHXsON0fP4_xR6TEa9YaWOAtqQU9y7DlyJ0JzK3CFfmAeR5ng4M1yhMx_SOuRP0StJMpi7EeZZ3gV5J1xMYHPHH-F5_hxrULTSdATI3x-7LvQ_OhLDc_8RGDUB-7RI8946Dx4xUuIX0PYZyuaKrh4_DkqGmGaC4fOjMaRK8e14xduHQ8b45IsTMV7-A9qZanwHEn_I_zRHN2eokmTq8JFBQ_yQ1uWE-EzyhgfB_0fpM-O_oS-MEc1HlUikQoenEPFJcmMZqvQaUdT5cd4B38Ofzx0xD-6o8lyPGge9JOAM8oRZx6uBbpy-BPy46fxRPxROUsmDU1y_PC74sd5fFGQ94I-HXH-BNePJz1O9IZ_onKWKnimG8_xIP2RHH_gNMyIRg2bopLO4HCXIckv5Hvxdqh4WPWMWgzeI2QfiBUF74if5Gg0Krh-pN2xB3_R_MX03MIJHZZyZGOuonki9DtuoS3H4tGJ2hE-NF_2IVTOQN3B20KeLBbRH83x42jiHOEhzx0RSRXhNix8tKPxoX_Q1D4e58b14SKaPQifD2r64EkWpN2OnF2gpznC30KTLEUliSnmTF2SwY9K9Mgz5dCQPiibJ_hSKfhxIxd-C31SFVrG44d640FzHPwd6IIpHTlx-A8-w805PMqQLSecCxrJEzvTjPiR90VLhJl-vGjSdtCUK8T1InqEF31wtZiePMONKnoOx0f4vNDzqPjaQBeaSTl6OkeTPuhy7BvaNEZT6ZDFg8m6o29OPEXITlpgHaGOEywLzUqOi6jEYXUufOTQ5EI_CD_6Dmk6Ic8xKT9qaNlxPcGHPkJzvMkPvQ--aBWe4eHBRBf6vDheLXhm9PBVomRwH8eh7bhhLjh--HnxHt5S9MlOtOPh6Pg0DSd-nDiP93ikCR5p9MeP5kQfvOhz-Mcd_BuuQIzR66gF_YMtvMN7PMGPi7gKH3cOfHC-4QfEH-_h4w9xwzmPVkGfPPDwHHgOZZNwHndxwRd--MZh3Djh4_ixH4dx-Dz84_iRwyewz4B5HM6PHMeBAz5wHD5-AMdeIDiOexqQ7rgvtDm0BXaOM8yh7BnRTniGJ0fPC1-U4yF8oQ-LdkvhSzmaiBlQK7PwJ-hCHs0ZtMtw4U1kEf2OcSR81LiyuGgPP7QKHROZyTiVo0ez4-JI6Mdz9Ie_G8_QFA-h3YIf-IcrLeh_1NLgH65y1EffQqyIHznRI8c3Hc-MLpJENGp4nFrRPMc3fWh-PMfbo-FqOFSOh2iu42GFhlOQjlmOyshFC_3xrMF_NFxIfCKeB911Ys_xRYJDoVZonD0ajsdDC8pRiemGS5nRnEefBdcu4YKuIMzxHH6PWiGuFs15pFUgT1JW-FGEXMkDn4b1ox-OMPyJ8YceHZGOBz-eJDnuF7lyXMqD80QzZob2SBl-4dkl9NIFc4EP8Rl6Fe2yw2eQRlJ2HNG-HF3R7PgKT8qgPU4KPVkldEFDEudY_BFyjYPPI9eF62gzpRp08DNO4j7aHz-0g1eiw0evHHrwQf9ivAcDl_CVhEV-Hc1zCccd5EdDQkrjVMQlDueH6EWfBblzNC8ermiXw5cM8USfCKOLhrmDwy_hJ0e-oPmOq9HRaOhp4aERksedQ6x-tMtxt0KfGZZxaOWFoyfBhFtUXFmO5iReHu-KixDjcOi0G3rGotYR41GQujF6XMd76DtyHjV_7CkzoR3DoNJJhJGP_9CFMCfKH69ynCf2HU_BeNHhyOKOXhcO7B9yXXjYE82xU4WPXDy8otPyobxFNN9x4iRCnUWynLg-bDMeOUNPh4EZJYdj5DkhxkfLoxv82oH4AuZy6Id1XInhK_CJMsOjD8-D5gitHO-DtxWaNSOiB86i4YEfnA_R8MepLJzR45U0Fa4K7YhNVFRO-MHnItUL54O-BQ0e5LiYHPlUNJqko7yPMNkQ_riYB7WyMEOjHv-hl6jR7Jh4NDrRfA60dkVfNN2Rbzpa_khD6fCNtxB_mMelHM7RB1ou412CZkzw5JlwoS-a48kR_Si5oxE9Df3RaAor9GgefFmQfYeGsPhi4cd3MKeM3HCNjjqe48Sh2UQf5sJ_hNYzwnGOP_ALHz5R_TjzoDnCM8GZRzgNfYTj8Phx5wm06MYV5EXlRFbQ7gnRPCPyHJqoCT4ptEvRB9Of4UK_Q_xS-Id_vIH_QnuIyvCLK4JfiMcX-HgCh9fQ8ujOwYeOPsen2tAzNBxxZzl8Y-tmXPATtFGPOzpyafiyEt1EB-7hN8epo3nWIf_xMIzQHy9cHdXZQJvXQ8uF-Wj3FGIlGZbW4tmJ5lXwLcaPnoZzonjRxIce6bCi48oD88edoXlPKI-EhqiVzKgOP4QFhV_gHv5QUqib44mCHpdkBer8oVz0I39u-Dy6Bl_o4AsxWTluNFzW40c-Ev_xSIV2-Ca-4PDG4jnOwg7R8ujh6OhRVjju7Ph64dFxpvBI9Bd6mCRaAl1z-Dlu_IYeuDquHuMh68Ml-Dhe8fhxAuAcAA4QwoAQhkiHBKFCCCAAccJBwQQFDDjBgGGCEAAEEAQAQ4QCCAImBJCCAEcRQgYZKJAAgFAkEAXCMIWdAI4oJ4wwABAGgCEUKiKMAUIIcBhXSCAjAKGKA4KIAEwphSQTCAkkgABGGEAEAkAhShFUyQHKACIMA0QkUIYYpI0AQgCulgFCUASoEIQCJAxGggGDoSEECCSoEMQgpiAQBiiDHFAGAkOEMkIbSigAjhqHACjGGGGIUwABB4gxRiNAkDBKACQMhAIYqQgEAijoKUXCYGKAgAIIgQwICAEACBCUAEFEYJoAIcG1jAAAhAJAOEYAMAQJxoihRAghDGDACISEQIIJxZBwCiiDhBGKAeCMAAIYRhgBjgmhnFLWeCcVcEIKJYwDjgwrXTCEMaecFcIDKhHxQFBEGFDMCAAEAwIIJxhAQgiBAICACCKIYhIJARxjAEAEBDCKCRCUUUYwQIAxQBAnhBAMGCYMMYwIJpgAwhjDgGOGACeEQEo4AhACCBgBDCIcEASEIQwKBoAwSBCCAAAGCKAFEkCAAJxBCBAnALGCCeSAYEA4oAFRRCgjkGACAAIAA8owoJgABhgngAAOAEQAAEQwAwQhEBBgnEACEECQQooZJpRBRBEDjFDACBUEMo4oY6gQQBgIkBBACWGAIEIABhBSTEiFFAHQAAIRUEIxIgVTwjDAACBACK2QMZgwCZASgggDjEQOAC6dEAgQIqRlSjBipABCANGAIooJAQU1xDErHBDUGIAdAIIYghgCIhBhABKEMCKIBwQiZYCCAAuCBBNCASQAEgABYQBj1AAlkEAAaQQQYMYoYIACBDAmDDHAAGCYQEgAgQhDDCABAADCQAAMdUwQAAAgAghiCCBAMAQE48owpohRhBtACGBGEKMMUMAIJJAgSAEGBKAG&meta=recordings%20releasegroups%20compress
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      Accept:
+      - "*/*"
+      User-Agent:
+      - rest-client/2.1.0 (darwin20.3.0 x86_64) ruby/2.7.1p83
+      Accept-Encoding:
+      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+      Host:
+      - api.acoustid.org
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Date:
+      - Tue, 29 Jun 2021 13:42:33 GMT
+      Content-Type:
+      - application/json; charset=UTF-8
+      Transfer-Encoding:
+      - chunked
+      Connection:
+      - keep-alive
+      Vary:
+      - Accept-Encoding
+      Access-Control-Allow-Origin:
+      - "*"
+      X-Envoy-Upstream-Service-Time:
+      - '129'
+      Strict-Transport-Security:
+      - max-age=15724800; includeSubDomains
+    body:
+      encoding: ASCII-8BIT
+      string: '{"results": [{"id": "67024bff-ecf6-4188-8811-b5843b27592d", "recordings":
+        [{"artists": [{"id": "8dd98bdc-80ec-4e93-8509-2f46bafc09a7", "joinphrase":
+        " feat. ", "name": "Calvin Harris"}, {"id": "a4a01f5d-18e7-4571-8c3a-76ec0e24e2d7",
+        "name": "Ne\u2010Yo"}], "duration": 226, "id": "90ef07dc-f45b-41bf-be1b-8ce95b4315d3",
+        "releasegroups": [{"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "93f3aa3b-93bf-4ce1-a2df-e131dd3d5512",
+        "secondarytypes": ["Compilation"], "title": "Now That\u2019s What I Call Music!
+        82", "type": "Album"}, {"artists": [{"id": "8dd98bdc-80ec-4e93-8509-2f46bafc09a7",
+        "joinphrase": " feat. ", "name": "Calvin Harris"}, {"id": "a4a01f5d-18e7-4571-8c3a-76ec0e24e2d7",
+        "name": "Ne\u2010Yo"}], "id": "f27a57d3-b928-4a67-a069-306930de83c2", "title":
+        "Let\u2019s Go", "type": "Single"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "6027d9d2-21b4-4058-bbd3-0f8439dc990f",
+        "secondarytypes": ["Compilation"], "title": "Absolute Summer Hits 2012", "type":
+        "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name":
+        "Various Artists"}], "id": "c1fe06d7-d958-466e-9c9a-bdbd183904e7", "secondarytypes":
+        ["Compilation"], "title": "So Fresh: The Hits of Winter 2012", "type": "Album"},
+        {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various
+        Artists"}], "id": "12ed7dab-cbc9-4737-b15c-4a7f018f1c7b", "secondarytypes":
+        ["Compilation"], "title": "Now That\u2019s What I Call Music! 43", "type":
+        "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name":
+        "Various Artists"}], "id": "68504e36-2e0c-4b31-b1d0-34da1c0e9725", "secondarytypes":
+        ["Compilation"], "title": "NOW That\u2019s What I Call Tailgate Anthems",
+        "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "c10459d1-603e-425b-8a29-6406f3a690f0",
+        "secondarytypes": ["Compilation"], "title": "Summer Eletrohits 9", "type":
+        "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name":
+        "Various Artists"}], "id": "f553d72d-f01a-456d-95fa-503f3ec1bddb", "secondarytypes":
+        ["Compilation"], "title": "Radio 538: Hitzone 62", "type": "Album"}, {"artists":
+        [{"id": "8dd98bdc-80ec-4e93-8509-2f46bafc09a7", "name": "Calvin Harris"}],
+        "id": "a1d5fec1-0e9f-4e16-a31a-c8603359b483", "title": "Let''s Go", "type":
+        "Single"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name":
+        "Various Artists"}], "id": "58ab470c-7f1d-40a3-9f8f-e8b7676e0620", "secondarytypes":
+        ["Compilation"], "title": "The Dome, Volume 62", "type": "Album"}], "title":
+        "Let\u2019s Go (radio edit)"}, {"artists": [{"id": "8dd98bdc-80ec-4e93-8509-2f46bafc09a7",
+        "name": "Calvin Harris"}], "duration": 225, "id": "9118fa58-cb0f-47ac-8cbe-a2a27de94207",
+        "releasegroups": [{"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "0422013b-8e48-45d5-b159-06c9ec7be52c",
+        "secondarytypes": ["Compilation"], "title": "Ultra 2013", "type": "Album"}],
+        "title": "Let''s Go (album version)"}, {"artists": [{"id": "d262ea27-3ffe-40f7-b922-85c42d625e67",
+        "joinphrase": " feat. ", "name": "Pitbull"}, {"id": "f0602f55-1770-483d-89bd-4bae0d0ac086",
+        "name": "Jennifer Lopez"}], "duration": 221, "id": "a7448aa1-61b0-4f12-a22b-13e654126856",
+        "releasegroups": [{"artists": [{"id": "d262ea27-3ffe-40f7-b922-85c42d625e67",
+        "name": "Pitbull"}], "id": "ff3d0e03-e51f-4cbb-b59b-52d96f478662", "title":
+        "Global Warming", "type": "Album"}], "title": "Hope We Meet Again"}, {"id":
+        "bfd39b04-4ae7-43d5-96c8-a15cd7c53d86"}, {"id": "c73d65a6-c48b-409b-828c-84af474865cf"},
+        {"artists": [{"id": "8dd98bdc-80ec-4e93-8509-2f46bafc09a7", "joinphrase":
+        " feat. ", "name": "Calvin Harris"}, {"id": "a4a01f5d-18e7-4571-8c3a-76ec0e24e2d7",
+        "name": "Ne\u2010Yo"}], "duration": 226, "id": "ebdde2e7-4060-4b6e-a61b-8f38f05dbc54",
+        "releasegroups": [{"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "09934634-7599-480e-9de8-2f101ac58522",
+        "secondarytypes": ["Compilation"], "title": "100x zomer 2013", "type": "Album"}],
+        "title": "Let''s Go"}, {"artists": [{"id": "8dd98bdc-80ec-4e93-8509-2f46bafc09a7",
+        "joinphrase": " feat. ", "name": "Calvin Harris"}, {"id": "a4a01f5d-18e7-4571-8c3a-76ec0e24e2d7",
+        "name": "Ne\u2010Yo"}], "duration": 225, "id": "fa609329-5a38-4e04-bb30-8366de67033c",
+        "releasegroups": [{"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "de814e0a-d6df-42c9-b790-1a836e3c458e",
+        "title": "R&B Club Collection", "type": "Album"}], "title": "Let\u2019s Go"}],
+        "score": 0.945477}], "status": "ok"}'
+    http_version:
+  recorded_at: Tue, 29 Jun 2021 13:42:33 GMT
+recorded_with: VCR 3.0.3

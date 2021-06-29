@@ -1,0 +1,140 @@
+---
+http_interactions:
+- request:
+    method: get
+    uri: https://api.acoustid.org/v2/lookup?client=<ACOUSTID_CLIENT_ID>&duration=202&fingerprint=AQADtMk0JY2UBEd5D-0N-OhRmMfx4_DxD8-hDukHDz-8H-8g8igf4uiDH1XKlLiO6_iD_mjsIH-hOnlQ5Qma5dCLR9jdBPx1iNGR6yze6GAexYUrHZ9xuMeGylmOPEfSF38wPyGahw-q78Gd40t24ArNGB5bIVYP7UKW8Ng1lOThH9c3_PDIol2Q84aeLEd8bvhzvMgPnR_6I8d3wnmCFyH3Q092Isd05nA-grpiTPtxfXgufAlc48uQG3q64HHgXXiOc9AdTD6aQ88kxI40KTg_dD9-HM5RDzt-I8-Q5KFxJ0K7LEXzZZhvXMV3TCmPaouCv8MfL2j4lOiPREV42tieBRcehjlMrkeJZ3rwRhFynDwhTwp-lNOO_8jzZLhg_8hf_BAP70MkvcgH8jcUUkdcHcfN4wwmGY_wIz94iNKPK4KPL8QJceTxTcJx4hAf4ZJg6XjAGa6g08eM43B-hCcp4T_u4HKOSyn-KvjxE2md48OBE7d1PD0mHX0EffhR0cfBHJmX48crpWjWzeiP_CFuooeWeTjeB6dyhOfgS-h5VNGP9Kgc_NBAfbg23IR3wyr0gUeDSwh7-MQj5Md7KIX_4zh-A81x6tBz_MjDzEI92jAfNDmuFOaY47twCT2jCUXOxfiKY0q2wCqhszinE96RS7hUUF-HWni14Yn0BfsV5N-gPcg7nManw_wYOBce8kiiR0Ro4WYPczngF-cR50TCwOdw7vhxKfCPj3ju4UAc7Uh6MD9a_vC-oFdK_Ic_PPj14GKSHEkz7sjRhwa_Ez82-8SVPCh5QVdy-NGDB2-X4xEJe4pwqYNc4TpGH3114cX74D--Q_zxwlfRH29wHl-UIznyrEN4QZcr5MfhH4dzHG-O-EPyHc-Owz0O7_iP50gO96gS8riC-mi-xIbOooe4LDfyg7_Qp8N5_EluJL30IEyFa4dLxUF__ChPMOEV4l1C1ITN40qQ9qh8nIIOnsgXfMOP_8Iu4o6E3_iNH3kWGc0_aCYREk2249sw6SzOCifEH99xNfBnHFU-0EflxcRJHLzx48d56Lh44UWNPlsGj8fE7MR9BMmLf8cTom9R5VkRPzf0Iy8-DQ2zBRNP5IF-ZN9xhcEv5NnB5vhjaGNq-ETN4zl6oflxXE7RZ8iRKn9gjik0MjiPyi9OJken4iL04NSIkMyHa8ejw9GHpwv8pUhHQ-tJ5MP1oGTI4InRjDvyHKqTMUL-orrhx3B__OrwGymeLTP6sbiO-Q8aPkUoVTlOZQwahTS-kIIj_ehzNG9x6cfZ4-hf_Bm-GM-MPsmP60gVCfojpPlh_pjsWNiDHo7kEM3x3sihG92PMOtQrYWPPNhX6HjwHUh-4ce9B493nIK5HD2DI8yFZF2Ip0fFyoIvUA9-JJ-I_McHKmJYHN2P4yeS6B_So-mP-Bae40mR_A2a3RLSM9B-5DnRo9k3nM_x4D--J1jxIs-QyJOM-oF_tHmCB9Zz3EHi5sgiE80z4V-CH_6O4zKLU0j2ZEYKesFh1NLxLUfTxqjSHNdxHPkP7TLCfAk-5nh6HLmQ7Af14-iPG2vu4acAzT5RXcePaypxhg1eCSGLBL0uPDmJH83IDWWe4MpxHmGeHPriIPxxFscT0UPfoE_RB2HCQ1fmIM8u4spyhD-aHTry7WiqDl1WHV94Ir9wGr9wHu-P6vB1XOvRQ-_Rrmh-HNOJzUJgIRL-o6pkQjxKSqGOHgo_eMhvoR5dXDSqw06PWrmLI49O6DwuPUIoqjv-E_ngrcZ_6JslnDz6F3qUYcf5w5KS7Di0COEaCTyuHleJJkcvPNWQ8LyQo3fRZCOeLAWzw8gP_eiLx9B0-EffGD9UfejRiJrx47tCVGi24F9wHs0ktC-eGX0U5FJxMsexST98TkMf4mJY9LCTI7R66MevHBfzontwhUH1ooV_ww_6ozeaZ4mOHzr2XEbjFGUH7Qv8oz-uCbKW47KCfgi94DP-40crFd6Fyj3GHN92vOnxHieiR-GH5InQPA96HW-ygc_x4yoSP7kRkRd-PAjhQz-e4D_2HxW3BRkpfNGH_XjwCsl7XHwiXBfxHaV2aHHaFPlxDLkXsFOSQ43GEHGxf3hQyofzHN1xJuZwRVbxo4-Q80IyJsePZ8rR5FUx-Qregz-O5FJSOYhGxcapE08v-HFw4-ixHeaYIRd0LioYtTl-4celFA3RoxIXODyLH36D8KVQWvAH5jlOHXfQovmPO0MOLfyCqCEPP8pRXcWfYyfeo8d_eM3QD0-RF78EstlxCmklBdeRO4L2Ujh_5FHhZ7gK3-CVeYHTE10SZcJ15Eg-Dc2TD_XxYkw4-MWeMPgl9MnxBenYQbuJ-0KzoxOyD3lC1BPEE58C_yj6hPAPMVSRzWHhSjq6xiOqKTy2qsdnmMiF3k3wHBehZ8Q9hL0PJzuuWHjCAyiEMsIUCJUEwlkJCICOQAMQUQYTKZRRAhhghUCAAQCMkI4AAxxFQgAFBAJECUOAEUIhorAQBigBCFRGGMWoIkIDAJASDABAADSGOKWgIMpBZQICzBDHkHNESCQlIsQIAwAQRACiiGBEuUCAOEYAwogwhoHCiCEGMAWBsCIBIh0ACBkGBKMEIMcUAAkwIQhEwDEDnDMSOFYRYAIrBZEBijAkCFWGESQYIEoIAAhADBBAhHUOOIMYAAg4kZQgxhEIAZCIOIUEYSIAQQghABiAhBEKEUScMgoQA5wQwhgGGAIAEKuQEkQ4xQQS4AEAFCABEAQBEkIBIUABBhClgGGEAASQFYhZJQRxADAlCXNWGBCsIERAo6yDECADIIgCUAE1EQZgAIgAQBBFEIDSASKRsoJwhkAAAAhLhCFEKECUAIwCZSAVlkhjjlOQACCAsQIZhxASBgQiCCOKSJKNARAJJA0gQBjFhDFEKEGAM0QBpIgShigggEdIIWQBswAwA4hwBCkAgEBGCcEAIcQYMABCUAEBAFECSADAuIJ4aghWhlMngCAECEAYEhoBRQUCSkBAmXEYOeEEQIYZKYQAiihkiRGAOiAAgIoBphhxlCBjHCCMOypEAkYxQ0EBwABgAKNeIEGsEgABLJACAhEjhBNIAGSZAAIZQxxhQAACEGKKGcSIAkopIKBCxABoAHDEOATgMAAAoCQgyCgAHCBCIGCAMAgoQhQgwgABHMMGSAYUIEworIQigGIBgAFOEmKQA8AhIRQRIDiBgZRAAyAcAdAYQbQQChCEiAGEEkWAAsIhAAhUyBGAjEEMCAiIBYABJRggwhGxiEKGKEMAcNJAIwUCiiBpGWHOEASKQR4ggqwyQjlAkVEIGAwAAQIh5RECQCiACQbSAOEEYcACQgBIRCBABDMGCSKMsAQgwJwAAgAhAFKAAUchEA4gpwgSRgHijAQCACCMAMh5gRBSAAgHFQA&meta=recordings%20releasegroups%20compress
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      Accept:
+      - "*/*"
+      User-Agent:
+      - rest-client/2.1.0 (darwin20.3.0 x86_64) ruby/2.7.1p83
+      Accept-Encoding:
+      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+      Host:
+      - api.acoustid.org
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Date:
+      - Tue, 29 Jun 2021 13:47:41 GMT
+      Content-Type:
+      - application/json; charset=UTF-8
+      Transfer-Encoding:
+      - chunked
+      Connection:
+      - keep-alive
+      Vary:
+      - Accept-Encoding
+      Access-Control-Allow-Origin:
+      - "*"
+      X-Envoy-Upstream-Service-Time:
+      - '844'
+      Strict-Transport-Security:
+      - max-age=15724800; includeSubDomains
+    body:
+      encoding: ASCII-8BIT
+      string: '{"results": [{"id": "7e2fe633-3300-4706-9143-fc5a874f9b4e", "recordings":
+        [{"artists": [{"id": "c5c2ea1c-4bde-4f4d-bd0b-47b200bf99d6", "name": "The
+        xx"}], "duration": 203, "id": "2777c67d-9fb8-4238-a0e8-18c111179ca1", "releasegroups":
+        [{"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various
+        Artists"}], "id": "becb2323-a596-4c51-95e7-59871082041e", "secondarytypes":
+        ["Compilation"], "title": "Les Inrockuptibles : 2000-2010 : Les 100 titres
+        incontournables", "type": "Album"}], "title": "Crystalized"}, {"artists":
+        [{"id": "c5c2ea1c-4bde-4f4d-bd0b-47b200bf99d6", "name": "The xx"}], "duration":
+        201, "id": "28565ecb-6f65-4f57-ab7f-1846d643c1d7", "releasegroups": [{"artists":
+        [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}],
+        "id": "8405d711-7ff2-41fa-9285-bf1d01aa9f18", "secondarytypes": ["Compilation"],
+        "title": "Bleep 100 Tracks, 2004\u20132014", "type": "Album"}, {"artists":
+        [{"id": "c5c2ea1c-4bde-4f4d-bd0b-47b200bf99d6", "name": "The xx"}], "id":
+        "23355caf-a543-4b5f-80fe-449101868fc1", "title": "xx", "type": "Album"}, {"artists":
+        [{"id": "c5c2ea1c-4bde-4f4d-bd0b-47b200bf99d6", "name": "The xx"}], "id":
+        "d587405b-c1a3-4475-a9cd-0102a8c8fced", "title": "Crystalised", "type": "Single"},
+        {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various
+        Artists"}], "id": "2b23e54c-dcc4-4f76-836c-e84da5bcce54", "secondarytypes":
+        ["Compilation"], "title": "Promo Only: Modern Rock Radio, December 2010",
+        "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "c41027f2-9784-4a0d-9d74-9d9910e5ac60",
+        "secondarytypes": ["Compilation"], "title": "L\u2019Anthologie des InRocKs
+        : 25 ans de musique", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "4bb32bff-b491-4cf2-8433-59c7d7d3149e",
+        "secondarytypes": ["Compilation"], "title": "Humo''s Top 2009", "type": "Album"},
+        {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various
+        Artists"}], "id": "dec46a34-af96-4a63-b059-f0c3fb1f66a0", "secondarytypes":
+        ["Compilation"], "title": "FM4 Soundselection: 21", "type": "Album"}, {"artists":
+        [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}],
+        "id": "09a5fff1-b579-4d8f-a39f-e55e7cf0b32f", "secondarytypes": ["Soundtrack"],
+        "title": "Pro Evolution Soccer 2011", "type": "Album"}, {"artists": [{"id":
+        "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}], "id":
+        "ea9621ee-08e2-4d63-9c38-10e1cfa46438", "secondarytypes": ["Compilation"],
+        "title": "Le Grand Journal : La Grande B.O., Volume 2", "type": "Album"},
+        {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various
+        Artists"}], "id": "703ef8cf-d224-4262-b5df-514978417802", "secondarytypes":
+        ["Compilation"], "title": "Festivalguide: The Compilation", "type": "Album"},
+        {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various
+        Artists"}], "id": "ed7ba40f-e08a-4468-ab34-282f026c3652", "secondarytypes":
+        ["Compilation"], "title": "Hooked on Colette", "type": "Album"}, {"artists":
+        [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}],
+        "id": "8bd309e5-972b-4727-a668-e9db9f5f7c9c", "secondarytypes": ["Compilation"],
+        "title": "10 (International Edition)", "type": "Album"}], "title": "Crystalised"},
+        {"artists": [{"id": "c5c2ea1c-4bde-4f4d-bd0b-47b200bf99d6", "name": "The xx"}],
+        "duration": 203, "id": "63371c50-87c0-4d25-a853-390ec9e2b65d", "releasegroups":
+        [{"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various
+        Artists"}], "id": "9301f19f-9228-4574-8786-8ce736925e83", "secondarytypes":
+        ["Compilation"], "title": "Les 30 ans des Inrockuptibles", "type": "Album"}],
+        "title": "Crystalised"}, {"id": "9a826d49-e314-4bbb-a45b-ae47148ac7f6"}, {"id":
+        "cd38dc25-9fcd-437a-b60c-a9232ba692d7"}], "score": 0.995715}, {"id": "b3cd6fbb-aba2-4c11-adbf-e706f1fb11eb",
+        "recordings": [{"artists": [{"id": "c5c2ea1c-4bde-4f4d-bd0b-47b200bf99d6",
+        "name": "The xx"}], "duration": 201, "id": "28565ecb-6f65-4f57-ab7f-1846d643c1d7",
+        "releasegroups": [{"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "8405d711-7ff2-41fa-9285-bf1d01aa9f18",
+        "secondarytypes": ["Compilation"], "title": "Bleep 100 Tracks, 2004\u20132014",
+        "type": "Album"}, {"artists": [{"id": "c5c2ea1c-4bde-4f4d-bd0b-47b200bf99d6",
+        "name": "The xx"}], "id": "23355caf-a543-4b5f-80fe-449101868fc1", "title":
+        "xx", "type": "Album"}, {"artists": [{"id": "c5c2ea1c-4bde-4f4d-bd0b-47b200bf99d6",
+        "name": "The xx"}], "id": "d587405b-c1a3-4475-a9cd-0102a8c8fced", "title":
+        "Crystalised", "type": "Single"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "2b23e54c-dcc4-4f76-836c-e84da5bcce54",
+        "secondarytypes": ["Compilation"], "title": "Promo Only: Modern Rock Radio,
+        December 2010", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "c41027f2-9784-4a0d-9d74-9d9910e5ac60",
+        "secondarytypes": ["Compilation"], "title": "L\u2019Anthologie des InRocKs
+        : 25 ans de musique", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "4bb32bff-b491-4cf2-8433-59c7d7d3149e",
+        "secondarytypes": ["Compilation"], "title": "Humo''s Top 2009", "type": "Album"},
+        {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various
+        Artists"}], "id": "dec46a34-af96-4a63-b059-f0c3fb1f66a0", "secondarytypes":
+        ["Compilation"], "title": "FM4 Soundselection: 21", "type": "Album"}, {"artists":
+        [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}],
+        "id": "09a5fff1-b579-4d8f-a39f-e55e7cf0b32f", "secondarytypes": ["Soundtrack"],
+        "title": "Pro Evolution Soccer 2011", "type": "Album"}, {"artists": [{"id":
+        "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}], "id":
+        "ea9621ee-08e2-4d63-9c38-10e1cfa46438", "secondarytypes": ["Compilation"],
+        "title": "Le Grand Journal : La Grande B.O., Volume 2", "type": "Album"},
+        {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various
+        Artists"}], "id": "703ef8cf-d224-4262-b5df-514978417802", "secondarytypes":
+        ["Compilation"], "title": "Festivalguide: The Compilation", "type": "Album"},
+        {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various
+        Artists"}], "id": "ed7ba40f-e08a-4468-ab34-282f026c3652", "secondarytypes":
+        ["Compilation"], "title": "Hooked on Colette", "type": "Album"}, {"artists":
+        [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}],
+        "id": "8bd309e5-972b-4727-a668-e9db9f5f7c9c", "secondarytypes": ["Compilation"],
+        "title": "10 (International Edition)", "type": "Album"}], "title": "Crystalised"},
+        {"artists": [{"id": "c5c2ea1c-4bde-4f4d-bd0b-47b200bf99d6", "name": "The xx"}],
+        "duration": 202, "id": "2e996d36-0394-428d-b2bd-4687fe59089f", "releasegroups":
+        [{"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various
+        Artists"}], "id": "a0a01d5a-74ef-41c0-8cf8-25c35b5ccfc1", "secondarytypes":
+        ["Compilation"], "title": "The Weather Channel Presents: The Sounds of Winter",
+        "type": "Album"}], "title": "Cystalised"}, {"artists": [{"id": "c5c2ea1c-4bde-4f4d-bd0b-47b200bf99d6",
+        "name": "The xx"}], "duration": 204, "id": "34f8e757-e242-4c60-a3c8-dad27284cf53",
+        "releasegroups": [{"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "0c5ce63a-958d-431f-a1b1-d862fe59fb65",
+        "secondarytypes": ["Compilation"], "title": "Best of 2009", "type": "Album"}],
+        "title": "Crystalised"}], "score": 0.969014}], "status": "ok"}'
+    http_version:
+  recorded_at: Tue, 29 Jun 2021 13:47:41 GMT
+recorded_with: VCR 3.0.3

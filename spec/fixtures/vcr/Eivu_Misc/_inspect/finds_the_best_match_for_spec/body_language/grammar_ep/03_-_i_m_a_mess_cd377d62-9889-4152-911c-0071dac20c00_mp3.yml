@@ -1,0 +1,51 @@
+---
+http_interactions:
+- request:
+    method: get
+    uri: https://api.acoustid.org/v2/lookup?client=<ACOUSTID_CLIENT_ID>&duration=182&fingerprint=AQADtIkSLUmnhEJaC7_x4zV-5Asq3tDWI7ZWhLyQ5NtxHU0TJgTzPcVvwmeOf3gvfCI-gom4I2x8cP_R_mge6HoROqCeHJ8wXcDxLVdwJQ-uHI3Ko6KDH3lz6NmJIyRpNBYtPBKaH7Uk48vR_EGVvvhzPEc5ND1-PMWVow_co8cfPDeJnMF1_Ch0-PCPHD-OZ8R5XMV1XHiCBznk7HgluPtRHTn6znCTB-4elM_xo8pTOPTxKMaU7zj4pLjMFFeSHD2m8ET_Icwu4RsPVduKVvzRaMLzoIJv5NmL53h5wTiOyTaeVAfH48h_KD7y5BLa44NP9DGeo3Fj4eWR5j803nhSHTW2t3C3HcxjHfqQPxXxesOZZcKOG79QyaIJszOe7EKuBXIf4hp-pM_xu7ii4z9-7EVzg1cm4fkxIiePQ38lfAp-VNMJ19mEPjuao2ToQ3OgpS_-I057TBdq7eC3G5ckbtgfnEdzvSi1ifhOeD2O-zjlFZW4_EjJo0PfQrzQZhdCGQ9-HPtuoflxBnwmw7UcIdeioikFReR2fAku4qiY1Ak8CdbTQ6Uo2ELt43FxihzRkFIDPTlyOcP24clRLYqSUnjCg0dPPB_CHmc-7BfaB_6OtDkuPEuLnIe4f8gP_8DGg7FIfAmmXEHlPHiXbEGPxsdP4svxHe2Y44kDOxk8aRdyZkUyMtFxfCGeB3sERonEo0mTYvgmHKeFHz-eILQPHT7MVFCLTz3EHz16XkhV4iZ-bC-YRkG5YMpX_HqC_KkGLfkRfjwe_MFnhFwYiHugJzOa2sEXnDqaJEf1vGhveDrq4MIbxvikB2KyRDri48NDeA9i81DT5Eir8Aue7biPZumKPw2a6kjyZEfIxBmloRm94GsSocyYh2imI_uh5WkQirZBNicQOzkeKKIu2GEoXIWOHOZz1Dr6wzWLmRPwx2B0VOnhJx_SIzRb_MOlIl5eNDruMqrgbkcdTQ2OXoKUvCbu4BemhFkenJKwQUR4psKThI1w-ejh_EWPcAevDCfTot0pfA9k40KTPRsiOfVwaSGNPhk8TC_-Bvfh_eC3x4jbo8ceHtpx4g-aoJa0EHWSdAqa8chz9AhzRcSZ6MkQZzccpg1ydviQs9WwK7vwpjpqojnOBPROXC-amJfQB_tJ7PXRhAqHh3CQJ0kOnfKQHSd4HU0WV8Kb4wjTF9rxhEPsI20PeTmepUV8HeY-_CnyaAmh_WhOIy-P-xSqjFEFN9sQ-eiDj6mQK8kcHGiOWpuPkxc-pvhvhPohygvK6cgT6fjRTR8chjp6CZiz4CceZJF7ommCK9CFcN0NT3jCHWktFtCtI1pOC8_hUJnhV-iLRzka9ai2HMlHhP_wYzujoT1-MBJTotFHXBjFI7wgVv1wZUf-CV-DG352OExa1CLOJMc0TUJZ_CCjPPiO6kHzLsQxa8zxFD98PClyH8l5XAl-9IaV56iT2Phy_CKa15hwGfzR9wr8FBOlRDg-_OhD5MumKbgPbXOMMsqLH6dopLZxZRauY1c-lAeb6Hie4Dm288FPHNeOy0GDFjmVB8kX9EcTSURzdKjoHM0WHjnyHV6XYt_xX-DxY1dylGtqNDweXDmOJNeRo6kf9OHRRnbhJMslcNws-DhTtMYp4gru7KhSRtiO_AxRbsKbjDF0H_GP60UlHfZR68Y7tB96Hcd3_PAudD627HiUB__wIE8mNIe-4jc0iWXQSEeeXEGzx0FFxkEuBc2hSTRyovMD18fDwxwPhzzKI_yH5gqhK0fIJTya_HhE8ei2DD6cnkJo6oLqLC-ynEZzHhePqLfg6BT068hlNMeD5okaBZc-4vrg0ME1NMrSCLUSTPuRX_A_dNsOPcGfG-YDfpEcPI2DI0cTsSaYhyKu47qHMGOUHI4PTRfChMrxJfvwRTTCaFRGqNUVpJXAJ8pxckbzo5KSDvkUaMnzILSOvjGoGv3xo8yYoz-POjGa6tiPK0cp53ATYjW8I80szNJz2IH4RDm-UId_IWw29LXRcFlk3EJ0Bd0TBtqH_EctHU0aCuc59IJDMTg1UQij6dCjKEsROC6eWeDRTGlQiyKaywmSD1ly4klwMVoyNJG1bWjxZpiyD_nwLUsM1aQ0WJeh9TkuKXtQh0HzlKilVdBXnOKFcDomNGp24Tx-pCNz6HkRPkHzDV_ygT4u5HwgprOQi8GzZejRTGLwJMUtJNwSFY_CDtyXIt3xA8elMMQjPUHD5ehx6fhx-jgq8aCoJAN_9OGRZ8w3aDoaBfF3MPnRN8eVDxvD_Xjl4NmPf0aY00j24cePCw2XGPWPkgzCHJ-h3UHzELcEbXmRhgonYaOCnsLx7EVzcziag8eF_kirHv_x9MiN3ph9BFr0IdRxYntY_PhBjcWdYJUr4laO_kGYGK8GfRFyC82FRzmaXzhj4mowPdKIJin-4-JwHZdTBT9efEQTOjnK4cpQkoF5cOKDH76UH5MbXHiOnEc5LYWWSchRmSGaZzZ-3Me2JQuJ78g_aHlyhNKSkWCOC-GP1UfC99jzoDqmdEtxozmPKiI7IlkmJRfCNxV-vGjWR0X1hDk-4ZOxjVmG5DnyXEQfhHnEYU_MCMkTPImyoxmLEudx0jl-fDnx5Hil4A9xYW2W43cERjvS8YJmZUFe4j9-XDue5LgoBVyaOTimK2i6WrjCzPiRc1EHHQuIY0gJhQSQhBBABFBIASSQUMAIAAAAQDFDACEGIeUkckgwZYATwiBglFGWCpMQoAYYQARCCiKLBAJIHcIoAlQy0gQwlAmEBOGIKAQcVYgwSIhRyAjgkCIGMaIcW4ZAIwhAwCmkGBMCECGUAAYgLYQhxjuigGEMUKCMIAgB5ayhQAFkiABAQAKFQAIAAJBwAiBEJCDEIEIVQQAQARBT1AqDAGFIGU6KUIwQLCRQCFDMhBSCGSCEIkwJAJxBQBCCBEhAEeWIk0AJCp2AkCBmKIIKSS0IQZgA4AggAAhAhAKGMOOEccRQA4CCDAGBRBFAAAWQIEIR4gA1ADFDjSMSEAGMFEYhgIgyigDCGAACEiQMgRoBYgFRiiBAhDACGIKAEMwoAYSRyihAgBBGCKCAIQIQIIQhRBhCOGlMEEAYo0AxIQxiRkEgAABCG4EIIMQQIABhQkBigCAODMSAEhAAKQBgwhgFGGIAMMmQMgIJQgkCgBDqECIGUYMIg4wAQggASgDgiAAgKAAQQwwDA7BCCiCGjJICIUaEYAwpRQQgACEhDHMAEWEwM4JAZiQnBAZBiCAQBAANQMAAJwQDhgjjCAPAMgWcQYgioAgEiAglLGEMIAQIIoQYA4xAAAAhACKEEKCcoYAoQ4gxEAAjCCAAAESkgEIAYAUhABDCGALAAAUEIIIQAIwxQBqKAACECCMAFoQAJxCRgimmigMIEacAAwIAAADwABEDACIIEQPAEoYpZQEQDEGCCLLAUCSAWQwAQYABEDBFCAOAAAEAIoABAiUTACIABCQMAMYJBNoAoAQiihhOAoKKAQKUcAACQ4AhUABgiWGEAWIMgswRAIAiTAENiESOCYIQEIEIBIQxBgABALGGEKAEAApYYohgBhKAFBEECiEYI8IahByACBEEADiEBIEA&meta=recordings%20releasegroups%20compress
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      Accept:
+      - "*/*"
+      User-Agent:
+      - rest-client/2.1.0 (darwin20.3.0 x86_64) ruby/2.7.1p83
+      Accept-Encoding:
+      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+      Host:
+      - api.acoustid.org
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Date:
+      - Tue, 29 Jun 2021 13:42:12 GMT
+      Content-Type:
+      - application/json; charset=UTF-8
+      Transfer-Encoding:
+      - chunked
+      Connection:
+      - keep-alive
+      Vary:
+      - Accept-Encoding
+      Access-Control-Allow-Origin:
+      - "*"
+      X-Envoy-Upstream-Service-Time:
+      - '834'
+      Strict-Transport-Security:
+      - max-age=15724800; includeSubDomains
+    body:
+      encoding: ASCII-8BIT
+      string: '{"results": [{"id": "7581feb8-4ddb-497f-9b7f-b3a6114a9a37", "recordings":
+        [{"artists": [{"id": "1a98f1f2-c2e1-4c3c-8ce5-c746979be489", "name": "Body
+        Language"}], "duration": 182, "id": "89c57c29-12b2-4f7f-9e88-b31a6a6494d7",
+        "releasegroups": [{"artists": [{"id": "1a98f1f2-c2e1-4c3c-8ce5-c746979be489",
+        "name": "Body Language"}], "id": "4a2a28c6-4314-4b2a-82c1-0becc1026748", "title":
+        "Grammar", "type": "EP"}, {"id": "a59688dc-b1d9-47ae-b2cf-305dba1d707a", "title":
+        "Grammar", "type": "Album"}], "title": "I''m a Mess"}], "score": 0.991825}],
+        "status": "ok"}'
+    http_version:
+  recorded_at: Tue, 29 Jun 2021 13:42:13 GMT
+recorded_with: VCR 3.0.3

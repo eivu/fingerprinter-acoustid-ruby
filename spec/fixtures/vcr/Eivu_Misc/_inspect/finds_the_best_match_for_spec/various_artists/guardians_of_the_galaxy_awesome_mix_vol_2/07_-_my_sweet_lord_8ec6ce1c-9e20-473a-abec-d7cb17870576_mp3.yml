@@ -1,0 +1,130 @@
+---
+http_interactions:
+- request:
+    method: get
+    uri: https://api.acoustid.org/v2/lookup?client=<ACOUSTID_CLIENT_ID>&duration=277&fingerprint=AQADtF-YSEuCkD7yC96CTzM-HffhC14So5SeCLlW9IeWB1ei48rR8EL44g2PFg65Dp8Ee8dx6RpOEz_hDn16nMzRjBKSIw8s5grMPPCZ4ji-5PATlDp-XB7yPeiNhjn-45F0VFc8iNZRS3jeIeTRlGpwEbUJ7xTaUzizo3zgIGUGHT_yaDl-_LiSwc2FC183pO9RX9CjSmh3OD9KTkc_Ep4SGs_hHw8rWPuDa0QuCc4-DV-Uw01Y1ETvwg_afMLToD6OhGQQ_7iINzv-wpGSoH9w9HBJlEuMT8FdXHyCvFOHqi2a-YKuHVrGKEbP4BGaqC-0Ds-P-vjxXMF7OPJRHw9P_LiP53Ab49OCD-GZFw-mL2lwNLHB2MMTNsd8-MHD4xkuH81C9PiWPXiO5lGQTAh-NOeN_vhR0YKVvBh1wT2YfzjmhEJyIo-OUe_w9AqmozmNHfXA5IuW4Ji4H826HD--ZniRUDm-CEeYhXNQ9sZxjoQ5nMGDJhQjBt2Nv_By_MGP5IthGhea66hqTtDDo_litBF1hGtOOGY0oySJo6kT9H0k5Dw-9UjGVWjCLRWeXMJJfBzuo5ky5Zg-fCQYamSCe0It8niP-UY1H82sFDkzJOgU8cO2fXhw-cd_-Ma-oaZw67jRl0GYqzi-5cPToX9hGaHwoDfM6PiSPMgdJGeE_9iXFHaL85Tx1kLzUfjRDek9JLs3dMaHPY9QUUouFBeDMpyOL9wy5Mly2MejPMEL_UijfMLzG8cj4jr6IO3JQLyOMkuZQ_-G8MrROMmPG5-FyofH_PiDRzOSSztS9DluG1WjJ4Z7HM9y1DKHfwnSC0-ISzeqd0hVHe34YNQ1HPwjXAd1Vkge5BlKKd_RLEnFBruioz-ah8HF4zvRaDv60PgshM-hhdsR92iefOht_MOP4w8zIuGPXDvOPcVzNNEptMT54M_RHCeJhjpi6SmeE8qZEXmDJ-QEJlWNzxqm3LiP73gchDcSl4mNH4djoz_6D8-EHvmhNllO3IG28THC8EcFN81xpTTOivCJ8MyR9Esa4fiPWcqJJ1GjGPtRXTijzGhxKfilo5uYIkz-bEhOtLjw8MOXNPAH_0avEz_i_PiDUtIR5sHRM4etw2-FZ34SxGaQkNzh6uiFB484_AnRJxeao3lSEpWJR5KCZ3kQ6psg3oOdzIiJCY2SodTxnsHDF9fBPSE6RzkSRjny8-iJK5aEayecKNyQM4KuI6SOKV9kXPEilFLQ4EfyREGoRbvwoytTfEMPwxmHeseXFyea50M__CiTTUS5HL-E6lHQJNeL_IfGPA18ycJ95Dku9Wi5aDiFZtdRNzlxJTFqEc3xjMdRL8rQPIirfNBxjQgffAuNH56U4xr65DiuXDj74OqDy0Zz1HgSHpc0acKPKsJOCWGa5EguHLO_4FMj1ElSuDcOLzc-Bc17_NGRdzm0TBzy4otoeMeP78aVDGaooOTx7Hga1BcaX0SebdC3oFQv5JmDb4GTfOiHK8eey_gDvzmuB9-HKVOYBLVJ5CcD7S2aWA-OPkejHUf4XWjI4OKP5g_640x0HOWYo3mRi0h6fMlENPxR8hPOUPhxuUdJHrDPIDeaZTyS-BrxK-BXDs2ZCtOfED6OU7gkHeGapSsS5kQfHMep4_GGU0epCxWu5ziVCM_R5xHMG32LSkeaMPSM5OPRo3nKoLjIKMQTHj9-JDeR5_jRL4erEN-K88SXPLiO6igZGj_hWsR_-NnRI6YOmUmGPj_CRHrQf8PzIp50aJmMvHiLpsqO_rhWPMqRPM-Qn3Ce47kWBc2PksenHD8qkcGbB9XeQUc75vCWDEeV5sIbBs9xhaZwaJQPc_jCMME_XN7xxHAo5Ety6D_yHx6zNOhzYUfzoLKEXoQV7kEmRsyKXsN1ojbyFGmVGdJ85CN4Bz_6EHtyHCfMMR9-5EIyecMzxdRgJsWZ4wk8l-g9PAljXBN8PKONH7F3iJpzPMSbJ7h0aJk29FKG_BgdfUE7HWkd6AmJ9MNrsLJF_HCVowp-oY8UgkmRH8kszsFz3CPcuOiH48yDKZNylPHxonLRiMXzBKeP_miqRDh5PCz2P4gPPQrynOiD4-OJH24U5cLE40cVJEu2RMiro99hC62F8sJR8ujTo-EynLrxZA_-dIUV8jiO8zC5I6d27Bakt4ibBKVgPhd-4T8-TnjBUIuOXEj6iahSPdjuDW181DJ-fD16IimVX4h7BY9OzMwePMTBR1FG9EiC6sJzI8-L8hdyqkgo5vjRGw9-_IPTGNeiI9SRLDeuZKnQ4xIfPIVRSqtyfFwmPEHCJ3SQ4wl8PDwuHj_64s4RWsPL4suhPUbqog9eBiEPUz50ZvAv5FGNLteRZ0Z_6Eg3o9P440EPi8UVhYd19FIQynD74AhzKRkeJcMjNC96XAsahJQNHWF-VDu-44_xHU0VXIF7hNeRPEoqXMenKRWuDD1xz0hDHRqnI8cqa0Ju5eD1DHo47DXCPAsq8cgP_RJq6oIf6RCvI5SPG5VQqy5eNLV1hH8InTny7Gnw_9gP5vnQhHqE6UaYQ091HHuO-DIiJemhkVmKHLhzPD3KRiecyMkCR6hlCU-OC2HGrGjHKPh_PL2GBtqP4D-a_egvnDneEX3QhA1O7TjfIy8AgQhDEADDiFLEEIEMFAIQgIkwxAABiCKGAQqMIYIxJZAAwAhhACAAKmOIIMACgJgyDhEHhAAECQGMcQgwIJQRRghAFEQFQAEQEIw0ZoABQhDmjBACMMqMMAgpgbQBzBAkhBdQAYeUoghpASQUjgAgjEXGcEEIUoQQIIQUFADhIDEAmcIBZgQARAQRBBRigGDGAWEMQgByhoTQRiEojBGEMQIEAIQYhRCBDAgqEGOKAAOQIAAIIQxGgCAhkCISMAcQg0IIAUASAAAjgEBCAOsYAgIiQgRAwlCGlEAKCeKAQsIgJBQHQAnBFDBGIQAFAQoIARAD4AgFlCDACUkMI0QUpAA2EjlADLBCOYawEIBpxQARDDhEkCIADEKAUAYRAgQABhAFnGMAAGQMAkJQJRwEAACjmCFSCGQEQUZZQBhARAAphBAIEIGAc4YIBCBBihGBjDBMImQMIAIwAJBClhgiBDCKAHAEEAAwgxiBDBEiDCBKKQCRQ8QIJgiwAABAgEAAOgIBYcxQBZQRDBBCFFDQAOGAAUIIYYiBSgCAAEBMEGEAcJQIwByBhjDgHVEGAAMgMURQwWQTjAknAAKQAMMEJMACIBQ0WEEJmBFEMUOMQIoBpgAgWhogmDAGUMWgIoAIRIwwDABBmFFECMKIIA0wxKAwUADAEACCECCAEMgCgBRCDBgHGFBIUKMAQ0whxAmBACgiDBFCAkMEUw4BIRBjCCHYABLKCSaYIIoBAKQwCIkjEBOCQCMEpOQAQgQxwAgwihFCOAAABUQIpBQExAlnjBJAGGMIRUABYYgSACkAFGiQYAEoMpwACgAAElSCCMOAAaocUEJAAAASACiBoACMC0eoAIFoppRCyiOikABGGYAQA0gQbIwAgHgCCIICAQAAg0IBBgAQBBgAhAGCGAOMc0IiiQAiQgEEgAFAIUIBQEIYBxgVAAAgAQ&meta=recordings%20releasegroups%20compress
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      Accept:
+      - "*/*"
+      User-Agent:
+      - rest-client/2.1.0 (darwin20.3.0 x86_64) ruby/2.7.1p83
+      Accept-Encoding:
+      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+      Host:
+      - api.acoustid.org
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Date:
+      - Tue, 29 Jun 2021 13:48:22 GMT
+      Content-Type:
+      - application/json; charset=UTF-8
+      Transfer-Encoding:
+      - chunked
+      Connection:
+      - keep-alive
+      Vary:
+      - Accept-Encoding
+      Access-Control-Allow-Origin:
+      - "*"
+      X-Envoy-Upstream-Service-Time:
+      - '129'
+      X-Envoy-Decorator-Operation:
+      - acoustid-server-api.acoustid.svc.cluster.local:3031/*
+      Strict-Transport-Security:
+      - max-age=15724800; includeSubDomains
+    body:
+      encoding: ASCII-8BIT
+      string: '{"results": [{"id": "ae66ebf8-f312-4763-8634-386dc27bda79", "recordings":
+        [{"id": "17407acb-4538-42f4-9527-74332682c0af"}, {"artists": [{"id": "42a8f507-8412-4611-854f-926571049fa0",
+        "name": "George Harrison"}], "duration": 279, "id": "7571a56b-994e-4829-ae8b-71abb84809be",
+        "releasegroups": [{"artists": [{"id": "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
+        "name": "The Beatles"}], "id": "c529a513-c088-4712-b39c-7cefb6f89eda", "secondarytypes":
+        ["Compilation"], "title": "Instant Karma!", "type": "Album"}, {"artists":
+        [{"id": "42a8f507-8412-4611-854f-926571049fa0", "name": "George Harrison"}],
+        "id": "e5a2bdb8-f42f-351f-afb7-d24ab35967e8", "title": "My Sweet Lord", "type":
+        "Single"}, {"artists": [{"id": "42a8f507-8412-4611-854f-926571049fa0", "name":
+        "George Harrison"}], "id": "23a581d7-d56c-3c92-a191-10fc9b4fd21d", "secondarytypes":
+        ["Compilation"], "title": "The Best of George Harrison", "type": "Album"},
+        {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various
+        Artists"}], "id": "23075ef5-2e00-4624-9982-e79c2a678194", "secondarytypes":
+        ["Compilation"], "title": "The Complete Apple Singles Collection, Volume 2:
+        1969-1971", "type": "Album"}, {"artists": [{"id": "42a8f507-8412-4611-854f-926571049fa0",
+        "name": "George Harrison"}], "id": "bea5dfc5-268c-4c97-b338-e6dc50d59eb1",
+        "secondarytypes": ["Compilation"], "title": "The Apple Years 1968\u201375",
+        "type": "Album"}, {"artists": [{"id": "42a8f507-8412-4611-854f-926571049fa0",
+        "name": "George Harrison"}], "id": "cdad74c7-3b31-4afb-a02e-6b9a9d27d908",
+        "secondarytypes": ["Compilation"], "title": "Let It Roll: Songs by George
+        Harrison", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "f6caf912-2b34-444e-85d0-5490243e8a86",
+        "secondarytypes": ["Compilation"], "title": "Mastermix Classic Cuts: 50 Years
+        of Pop", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "0741a19c-8663-431d-b7e7-c58e4dd8e649",
+        "secondarytypes": ["Compilation"], "title": "The No.1 DJ Collection: 70s (Digital
+        Collection)", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "a12469b7-1df0-401a-bc86-bd790e283832",
+        "secondarytypes": ["Compilation"], "title": "100 Hits Band on the Run", "type":
+        "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name":
+        "Various Artists"}], "id": "108fce0d-a411-31b8-bdef-9e98b0f875f1", "secondarytypes":
+        ["Compilation"], "title": "The No.1 DJ Collection: 70''s, Volume 1", "type":
+        "Album"}, {"artists": [{"id": "42a8f507-8412-4611-854f-926571049fa0", "name":
+        "George Harrison"}], "id": "d1488b2e-b9bb-408a-be11-0255041b3344", "secondarytypes":
+        ["Compilation"], "title": "Greatest Hits", "type": "Album"}, {"artists": [{"id":
+        "42a8f507-8412-4611-854f-926571049fa0", "name": "George Harrison"}], "id":
+        "d4b0f3e2-e3eb-3531-b305-ed8105cb5be4", "title": "All Things Must Pass", "type":
+        "Album"}, {"artists": [{"id": "618b6900-0618-4f1e-b835-bccb17f84294", "name":
+        "Eric Clapton"}], "id": "f4da62c2-5eed-478d-bcda-2ba7b72de0b9", "secondarytypes":
+        ["Compilation", "Soundtrack"], "title": "Life in 12 Bars", "type": "Album"},
+        {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various
+        Artists"}], "id": "193dab6a-2cae-4ba7-b087-104e1a3c57e4", "secondarytypes":
+        ["Compilation"], "title": "100 Hits She''s a Lady", "type": "Album"}, {"artists":
+        [{"id": "42a8f507-8412-4611-854f-926571049fa0", "name": "George Harrison"}],
+        "id": "dbf35e58-4765-3728-9be3-7ac29cd7cc12", "secondarytypes": ["Compilation"],
+        "title": "Pirate Songs", "type": "Album"}, {"artists": [{"id": "42a8f507-8412-4611-854f-926571049fa0",
+        "name": "George Harrison"}], "id": "2be1ec51-eaa0-4de2-b648-fae2acbd18e2",
+        "secondarytypes": ["Compilation"], "title": "Pirate Songs (Remastered Edition)",
+        "type": "Album"}, {"artists": [{"id": "42a8f507-8412-4611-854f-926571049fa0",
+        "name": "George Harrison"}], "id": "2bb5c04f-dbce-4eb9-b353-f7d24c0f162b",
+        "secondarytypes": ["Compilation"], "title": "The Gold Collection", "type":
+        "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name":
+        "Various Artists"}], "id": "752bc3c8-709a-4db3-87e3-38f2359f6c67", "secondarytypes":
+        ["Compilation"], "title": "Capitol Records 50th Anniversary 1942\u20131992",
+        "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "8d87803a-ae9e-3be3-ae88-8ec7d5799542",
+        "secondarytypes": ["Compilation"], "title": "The No.1 DJ Collection: 2000''s,
+        Volume 5", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "7e836750-3cd3-4c71-aa9e-b5143bc56a2b",
+        "secondarytypes": ["Soundtrack"], "title": "Guardians of the Galaxy: Awesome
+        Mix, Vol. 2 (Original Motion Picture Soundtrack)", "type": "Album"}, {"artists":
+        [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}],
+        "id": "ce01f030-ffc3-4cd0-8bdf-e8296c160de8", "secondarytypes": ["Compilation"],
+        "title": "The No.1 DJ Collection: 2000s (Digital Collection)", "type": "Album"},
+        {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various
+        Artists"}], "id": "5adae889-f485-4775-bbf2-bd9a2e590ba9", "secondarytypes":
+        ["Compilation"], "title": "Mastermix Presents the 100 Collection: The 70s",
+        "type": "Album"}], "title": "My Sweet Lord"}, {"artists": [{"id": "42a8f507-8412-4611-854f-926571049fa0",
+        "name": "George Harrison"}], "duration": 278, "id": "95d2d3f0-917d-4e6d-b3ad-8165922998d9",
+        "releasegroups": [{"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "9aad83cc-6d1d-4fde-89b6-d200b8ec32d4",
+        "secondarytypes": ["Compilation"], "title": "The Complete Apple Singles Collection
+        1968\u20131991", "type": "Album"}], "title": "My Sweet Lord"}, {"artists":
+        [{"id": "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d", "name": "The Beatles"}], "duration":
+        278, "id": "a5131506-3ff1-4a21-aba1-7158934c3175", "releasegroups": [{"id":
+        "dfc752a0-0b85-38c7-b95b-408fe7a8c4cf", "secondarytypes": ["Compilation"],
+        "title": "The Black Album", "type": "Album"}], "title": "George Harrison,
+        \u201cMy Sweet Lord\u201d"}, {"artists": [{"id": "42a8f507-8412-4611-854f-926571049fa0",
+        "name": "George Harrison"}], "duration": 278, "id": "c2264dc5-9c85-42b7-b946-9bafe5dcc6d5",
+        "releasegroups": [{"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "4a086b97-b747-4f41-a345-77464e2303be",
+        "secondarytypes": ["Compilation"], "title": "Classic Cuts Presents: 70s Night:
+        The Definitive DJ Collection: G to K", "type": "Album"}], "title": "My Sweet
+        Lord"}, {"id": "dde365d2-31d4-4605-ae61-ebb6b4bf39e3"}], "score": 0.939214}],
+        "status": "ok"}'
+    http_version:
+  recorded_at: Tue, 29 Jun 2021 13:48:22 GMT
+recorded_with: VCR 3.0.3

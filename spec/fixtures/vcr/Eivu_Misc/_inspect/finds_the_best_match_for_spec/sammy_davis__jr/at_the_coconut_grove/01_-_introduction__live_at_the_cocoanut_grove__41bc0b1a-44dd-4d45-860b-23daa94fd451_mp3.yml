@@ -1,0 +1,49 @@
+---
+http_interactions:
+- request:
+    method: get
+    uri: https://api.acoustid.org/v2/lookup?client=<ACOUSTID_CLIENT_ID>&duration=45&fingerprint=AQABVlKeJoqGW8Ez5Lnw45Jm6NHx479gFfpxBX6NHI8Mv7h1XMURXxB_5B3-whXx0sF9fDseonqQP0jy6fifofIMP0qDaSGNL0e5i3CV5EhOzUFumEepnMjXjTj8QM-RU8OFV0fsdMFTXJmgpTLRJ8ehjz5yxqj84Uwmoc9CXDmeOEj2RI2Q_ngXBk1F48wStMuJZiSHPAySLxT-4tYU3MQVOD_eRCEueUbrLrg2IYee5Mj_GN7x53C39Ph45MxRkl2MZlkQ6sOzR0EuDtqPMD6eI5dsaKki-Qj7otQG9-ilCuUTDk02EskZHblxXMmDU2g0KpLRH2ePGzut4fvQM0IzZh6-HcwiNHmPHM0YQruM4z24PFSCq4L2CfdGRB9-5NexsxB3hDou9OCMZzl6Bz_25Wi2zkOPi5rQ48elkEe7C3k0C_qPfBoqqoMT67hyNEuOD1daEX0FV-iRF7py5MfxUBuJK3qFP8clNFeOr7tQb8jZBDJdTOYOMT-uC7z24DwOuQhT9Xh_POswNnjQB82Pn5g6NGOKN3TB7HBo_IK_4Uh_6OqKa0ecnbilwm-Rt9Bx9cjLCa4rxA_2_JC7GPGPfhculMa27CNR8KPxH5G-wsevCf-OT8cFb_kGB70yQi5yojcOD3mgI-8U_IaxXVqGsOvx44f2DBeByxgv5MePasePXhK2cWgqpnhWIdIHjyeeHHcOMc0VXMLWEY-P6CJq_OfQ_0gV4Vtl6D32HLl6_MJ3_IfVBR6L8Hugo9H2CVUvHPsiQotD9ETPB-ehR0fcfLBYypj44MrRXwhzHUo76YidCM9FXAmuHDcqH418abi0HA8j48oxont6OA-YZjwuHT9-PES3oz7yQ6Z1IdciVNjOoXaK5_iDTcevIncNPVHw4zcu8BNqBc0fXMcl3NoeXAt6esgvOD86Gn8P4agiCCAkiATCQAIFkEIgBBVAgglCBRACCgcMIUAAiQwABxmTEBLSCGABYkMoJ4RBQACriJGEIMMQNIIxVpABAAMpiCKGMECQE5ZAJYQSAgFAiqEEAUMAERAogZQRxxDAEGGIAWEUEIAByAwwWJlkiDBIACAAFIogJhBjEAABAEKEGQCAQoQBRYADBBEjiGOUEAA8AcoQQ5RgABihhGCGAICEAAEwAxQpyhBhiCNGAyQFYwwoYJATyhiCBYGUOAYVcEgQQhABAAligAEOEQIgQsYAAgBBHiEBjFBECISEIFAQQBCgCACEICKECiZEAIY5QCQRCDkACAACKIQAZwACLwgAhBliiBAA&meta=recordings%20releasegroups%20compress
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      Accept:
+      - "*/*"
+      User-Agent:
+      - rest-client/2.1.0 (darwin20.3.0 x86_64) ruby/2.7.1p83
+      Accept-Encoding:
+      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+      Host:
+      - api.acoustid.org
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Date:
+      - Tue, 29 Jun 2021 13:46:34 GMT
+      Content-Type:
+      - application/json; charset=UTF-8
+      Transfer-Encoding:
+      - chunked
+      Connection:
+      - keep-alive
+      Vary:
+      - Accept-Encoding
+      Access-Control-Allow-Origin:
+      - "*"
+      X-Envoy-Upstream-Service-Time:
+      - '105'
+      Strict-Transport-Security:
+      - max-age=15724800; includeSubDomains
+    body:
+      encoding: ASCII-8BIT
+      string: '{"results": [{"id": "81ba8167-613b-473e-9b83-2d9d1a969339", "recordings":
+        [{"artists": [{"id": "4bc9e8c3-7eae-454f-a56c-bccf96f3926b", "name": "Sammy
+        Davis Jr."}], "duration": 45, "id": "bc70b386-5eb7-45e6-a6ae-36db82450114",
+        "releasegroups": [{"id": "6fac76ed-b861-3519-9df3-04355946ec58", "title":
+        "At the Cocoanut Grove"}], "title": "Introduction"}], "score": 0.995066}],
+        "status": "ok"}'
+    http_version:
+  recorded_at: Tue, 29 Jun 2021 13:46:35 GMT
+recorded_with: VCR 3.0.3

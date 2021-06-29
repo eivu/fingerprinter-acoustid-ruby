@@ -1,0 +1,221 @@
+---
+http_interactions:
+- request:
+    method: get
+    uri: https://api.acoustid.org/v2/lookup?client=<ACOUSTID_CLIENT_ID>&duration=258&fingerprint=AQADtFGiKEqaJEmUBOFyPA0q_WiQi0df6D8IH-eh6_iRH87B5_jRRci3IDmPCx_KmUbzTMd3vDxMiRbyDc0PIQyd48d1NFSDHtl_aCSRyjweHeUnHA_RHDFODe5x9DrOSsUXhTtOcsOlI7yO5rhqHM2OVrqGXjBMNYiuZEeyTMtxXDnxPEbVsIEfBbWGnMd36IlFPEbPhMdZNA9i-bhz_MoRO4d-tOqRjkWfnbjRH9Px4-KRc4R-xLyCRg2P_sON6kGYZ8cF7UfDZXFw9CemUMZ4SfgP1XHRONIx3UFuNEafpbi-oPwFF3UePHvx7wjXFlN-6PmQReoFc9VRHsmb49yT4EGZBsrUxIio40xBTWmOxzzmG_6P0JYWIclxB__x4jqa6zG-oAk_5PoRKRraozr-CDV1XDouKceJZ2mQKzNKShEa9_iN_fh2NPIR6sEXZUKWo7Hxozzh9-jT4VR2NEpQQkd--FHxDxeNZpGOw4-OnwizUZugR_lwISTDibB6FEdTSUF15egjoTlzXAyuBiVp-Ph05F0hlTHioSRTVfh2lLfQPDiPMDFRO8eP2h8sPTz8od9R8ThMHPph8Ib-4V7xQ4SrRKiOrhyRXmBe3D-aZwiPdholNM8sHLWIJjt-hDyaM8dFD2FQdg-0HyZ5lEf3wz_-4xkPjdLxZ_gHLU-GUkeoBV6PN4er7EF-iEPYCZdOPNnBa0KvDQ4_lDwu_MQZHlYeFz_4HF3Wo2HUFVcWHf8QHlqcJEf3oIlYDleOX0J5NP3xCJp0NF-GKVwWYbpwEzqXDUzC5KhPRG0Vhvhy_DF8PDmaKkenG827Bn2CqJCuEdGjpEH7YspfXMmDI59naGGEPsPVkMIL5rlwQjszHXmTg4ePZ8fRuGjJJgvOoxmLssejIk95aDyc5_D-gNk-XMlxfeghJWGTIcfbC80Dc1HRS4kW5IcWH-Gz4-tx_Xhu-IwY4calHDyPMJyU4YyOraygHbGWzPikJ2gyhP7wHU_wQ1l16FnRHMzxIwyXica0OUflGM344aWO33iyox1x3XjgH__gZckRSqoKbbyMtNLQr8FkHQ7KJSxK8UjPQo_S4y164tqHKz_6jYMvaA-Px57QDu5GtET8Hv0Mv8eZfEirQ8qJMyxyHV9_UGIqBddxhIe4Hy1Z5Lzg0-Al5DkaR-jD4rpxRTqcJuB9_NAeIQzX48OPPiumhMKJag-aMdER_Qns8PgkCM2K6aWC71CEN4iPK_iFw0dOQTyeHXmKW7gv8MJdfNlx1CfxMD2u-EJ_B2koHr2hxxyaGyEZHix5HE-U4Eeu4fUCcpxV9EiPejz-4YepcAcZhlNwlNLRPMNzfEi2Clf0IM_R_jh14czRuEH4QJWGP3jwKBG4ahGaQxOPR_SGM7iP_kbzE99T40Y56CoelCJ0vMk2ZIxU4xfR5Cwq57h4dNKRhg4S5bin4xZ1vNkK5nngHld6vHg7VFt2AbMeCc-L7zhPVDoaLsvxycg36HrQ6ArKIz9WLUeYzeiHUyl0HZdD8HgYaJJ2-Bo677gkBuHzg3qOH-1j_Ecc_BmeCDqH4Dm-LA2qH02yIyeeF_qF5gi9oSn6GmV5hLlxRWA3VoV4nBxyJQd1nC2ejEpRH0304eHxqDPCbD00KzneR3CPJ9CzJ_jhT8gv5Id_PFFUPDwaN-iP8xJRNPqJx4N-pG50PHPwEC6Fk0GjKTp6JF-W45UchMs3NNWRJ3gT_MjUHVfaED8y_SR-vEF_aBbYHlePK0wPhitOiKSSow-hpR6F4prxD82Ofscl6EVTMSfUw1vQTTzycGgiXaiTS0ce6D2yZLFR6Se-NzhTEn2OJj7eIU-iB5WYrNDipzjxaeB5XD7ksjmqPcb2wyXxHa6IsouhWh3xhYR-nKnwzJFxsYeVCb-khHjGEWFKGZOcxSt-9LnQTDbuNviUHQ6p4daRh7gOkdKDL8eVwbGUI84_7EczlHF23GiqHJO8Iz9GSRdEXse544-xPYM8-biFNkdz4syCzz_EfHgilOwhJYyOa2nwXPAD1UwDeok1dP_Q8EUu6cEPfxP-IA8aKdSN8s1wHqHEHM214avRLhfRvMOZyMEPX8OTiojpEA1PDf1TXB10B34s_DpupLaC_BcOu3GgT7hoPLC00IFOEhFf-DneiCsaxunRhxpO5XiOJu5RK8ePZnIQ9kdSHW85NKFSKYlhN7hRksGFI5cWTCn1wD9Rdri0ZHh3xJlxB-XRVOFx8jjM8XgihTUOP8fF4xvuI61yqOKD7jmaNg_e5PhyNFkMjVbwI8cVfciDS8mhJdEQ6sdxccalG_2Dpn7xMcWdIy-JO8txQj8Ofs6hJxSaH0yjsMLD4zb8EPoW40dJ6chN4FJ2vBau4jqafLxwnMHzEBcb4Q5-FU2uoxaJXIK-eAl-a_iLrlkmOFqOvmifQzxROV6Rq3jw6Agfwr2hNSLe3Ii1Ej1T-DnKD9Xe4TqeHz_65DiPHEkdKyj5BI1yEneOtwhDoceFXwJ7fMcTJejxI89H-EffHV92vGCi_OgT1rjQHMzCWMdF5NqhpYqQP_CDbpqG6wjlD00N_UEe9MuFH62SHBVHpCqPHvqG88V1hKmOfjjTCIyV48cZ9EmOHDryiBYuhQ2a5Eeoi4SuI7diuLYAYwQwRAABkFEEEaYUcIoKAphjABgmkEGIMISUIoQAxSgjgBJuHAFGACaMQFQaa4AxCQAojDTKgAEoEAYIIAxSTAAqpFmAKIIMEkA5A4BZAgzihBCESYEAIYwJABACRiBCEQACOQwMQUIAiRhAxhEiHEEGMOOQUAwxxoyQRiiACEPCSKcAAMArI6QhxArHgBDMiCAAYMAIIZUDAhkhoCDAAKIYdIAAYKlRUgiAgBBAC2okUAgYBaARRCAAiJBOKAMYUgIoQ4RywDCjDBNEMEQIQ4QwASBSBkFgEEQCCOMMM0ohIyAQwAggjBBBGCGIEgIQrhlgwEljhAECAGAIEooBgAQgSgiDgCDMAEogEQQ6AYCDYCGnTAbAKAUIUYIABhRjRhAkKAJQEAIAAAIIYQQBggAHiCJAEOI8ckQBYAgRCAkBBDMEmAOFAMAggQSQAiEjRWCIKQoEAcAIgBQRgAgBBALEMGCMEgowQQ0hFRhLEABOCCCIQUJQY41hggiEAACOMAGIMAQBoIEhQiigCLBCOQUQYEIJIRSARBlDAWJEKgMVAAYAQxUAgBDBgLKGAMMMMEoBgZxihCCipGDKKCEMUMAQBxhRCBEmkAIGGMEQIkwQaAQQQihKnDCOAEGMkoQIhgQRgAEgjGBQAKCYAAwhAAQAQikIkGCIEGAIAEQRQRBjyBggmBEICGaEgoIQg4AAwihrBRADAAKAAYhAQAQQkgGplDGECAMcIcYpQhiUxABAkDIAAGSIAFAgIYhaRAKMABEAIEGBVAgALRBFRAhAgLCUEaAAAAAhRgwjhgAhBEGOiAQQIUZZZIwAwAAFAEAGIAMgIgogIIAlgACFBACCWcQQEIAgJIAgAlkgAJAKCSCIAFIIhQRBwAhALEECGKaQAxQBpYAAQglhDNACAIQFIk4ZqYgQQAmAAAGCA6AkUgwSwYBxgRAjhCEC&meta=recordings%20releasegroups%20compress
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      Accept:
+      - "*/*"
+      User-Agent:
+      - rest-client/2.1.0 (darwin20.3.0 x86_64) ruby/2.7.1p83
+      Accept-Encoding:
+      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+      Host:
+      - api.acoustid.org
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Date:
+      - Tue, 29 Jun 2021 13:46:07 GMT
+      Content-Type:
+      - application/json; charset=UTF-8
+      Transfer-Encoding:
+      - chunked
+      Connection:
+      - keep-alive
+      Vary:
+      - Accept-Encoding
+      Access-Control-Allow-Origin:
+      - "*"
+      X-Envoy-Upstream-Service-Time:
+      - '131'
+      Strict-Transport-Security:
+      - max-age=15724800; includeSubDomains
+    body:
+      encoding: ASCII-8BIT
+      string: '{"results": [{"id": "fd522917-8f70-4c8c-95ab-9844397db7f3", "recordings":
+        [{"artists": [{"id": "97b226c8-7140-4da3-91ac-15e62e131a81", "joinphrase":
+        " feat. ", "name": "Macklemore & Ryan Lewis"}, {"id": "6c7f57c4-8f11-4c59-9d63-bca189f343c1",
+        "name": "Ray Dalton"}], "duration": 258, "id": "25a2c3cc-0383-461a-a813-d22318df4b0f",
+        "releasegroups": [{"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "c54b15a7-385f-43a1-a299-e0a5748dda3f",
+        "secondarytypes": ["Compilation"], "title": "De Maxx Long Player 27", "type":
+        "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name":
+        "Various Artists"}], "id": "7d72da8d-72cf-4a05-ab1d-eee593956cb8", "secondarytypes":
+        ["Compilation"], "title": "Europa FM 2014", "type": "Album"}, {"artists":
+        [{"id": "97b226c8-7140-4da3-91ac-15e62e131a81", "name": "Macklemore & Ryan
+        Lewis"}], "id": "22315cdd-4ed9-427c-9492-560cf4afed58", "title": "The Heist",
+        "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "3de20436-e665-4ff1-88ee-8a8bc28e3b5a",
+        "secondarytypes": ["Compilation"], "title": "538 Hitzone: Best of 2013", "type":
+        "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name":
+        "Various Artists"}], "id": "babbeaa7-e317-4e78-8ef0-4f06dce3fdb3", "secondarytypes":
+        ["Soundtrack"], "title": "Berlin Tag & Nacht 6", "type": "Album"}, {"artists":
+        [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}],
+        "id": "0ec51113-4792-4725-bbe3-a8dfab0678f9", "secondarytypes": ["Compilation"],
+        "title": "100x zomer 2015", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "9fe1953b-571e-4c4e-9ae6-24e9a4257369",
+        "secondarytypes": ["Compilation"], "title": "100% Hits: Best of 2013", "type":
+        "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name":
+        "Various Artists"}], "id": "831e774a-ec50-4cf0-980a-164847a56c1a", "secondarytypes":
+        ["Compilation"], "title": "NRJ Summer Hits Only 2013", "type": "Album"}, {"artists":
+        [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}],
+        "id": "56e2e78f-45b9-476e-afc6-23647a8c915b", "secondarytypes": ["Compilation"],
+        "title": "Radio 538: Hitzone 66", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "dd6cb541-7266-4173-8f14-ad2adecd72f9",
+        "secondarytypes": ["Compilation"], "title": "Het beste uit de Top 500 van
+        de zomer (2016)", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "d41ed195-2589-4390-8fc7-69f7b090ae58",
+        "secondarytypes": ["Compilation"], "title": "Krone Hit Vol. 19", "type": "Album"},
+        {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various
+        Artists"}], "id": "eb689fbe-c13c-4e78-844d-1b9b2c87877d", "secondarytypes":
+        ["Compilation"], "title": "More Music 2013", "type": "Album"}, {"artists":
+        [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}],
+        "id": "2cb4b6be-8263-497d-9936-d980a43122e1", "secondarytypes": ["Soundtrack"],
+        "title": "NBA2K14"}, {"artists": [{"id": "97b226c8-7140-4da3-91ac-15e62e131a81",
+        "name": "Macklemore & Ryan Lewis"}], "id": "541e3876-2cbc-49c3-b62a-ea7bea19c011",
+        "title": "Can''t Hold Us", "type": "Single"}], "title": "Can\u2019t Hold Us"},
+        {"id": "598d8460-6c09-4591-95d1-ae5fd7c99a2d"}, {"artists": [{"id": "97b226c8-7140-4da3-91ac-15e62e131a81",
+        "name": "Macklemore & Ryan Lewis"}], "duration": 264, "id": "c07f34d5-7a0f-46a5-bebf-0891ec955fb6",
+        "releasegroups": [{"id": "541e3876-2cbc-49c3-b62a-ea7bea19c011", "title":
+        "Can''t Hold Us", "type": "Single"}], "title": "Can''t Hold Us (instrumental)"}],
+        "score": 0.956092}, {"id": "31e01260-e15d-4bfa-8b09-c27680c0cd2b", "recordings":
+        [{"artists": [{"id": "97b226c8-7140-4da3-91ac-15e62e131a81", "joinphrase":
+        " feat. ", "name": "Macklemore & Ryan Lewis"}, {"id": "6c7f57c4-8f11-4c59-9d63-bca189f343c1",
+        "name": "Ray Dalton"}], "duration": 258, "id": "25a2c3cc-0383-461a-a813-d22318df4b0f",
+        "releasegroups": [{"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "c54b15a7-385f-43a1-a299-e0a5748dda3f",
+        "secondarytypes": ["Compilation"], "title": "De Maxx Long Player 27", "type":
+        "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name":
+        "Various Artists"}], "id": "7d72da8d-72cf-4a05-ab1d-eee593956cb8", "secondarytypes":
+        ["Compilation"], "title": "Europa FM 2014", "type": "Album"}, {"artists":
+        [{"id": "97b226c8-7140-4da3-91ac-15e62e131a81", "name": "Macklemore & Ryan
+        Lewis"}], "id": "22315cdd-4ed9-427c-9492-560cf4afed58", "title": "The Heist",
+        "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "3de20436-e665-4ff1-88ee-8a8bc28e3b5a",
+        "secondarytypes": ["Compilation"], "title": "538 Hitzone: Best of 2013", "type":
+        "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name":
+        "Various Artists"}], "id": "babbeaa7-e317-4e78-8ef0-4f06dce3fdb3", "secondarytypes":
+        ["Soundtrack"], "title": "Berlin Tag & Nacht 6", "type": "Album"}, {"artists":
+        [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}],
+        "id": "0ec51113-4792-4725-bbe3-a8dfab0678f9", "secondarytypes": ["Compilation"],
+        "title": "100x zomer 2015", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "9fe1953b-571e-4c4e-9ae6-24e9a4257369",
+        "secondarytypes": ["Compilation"], "title": "100% Hits: Best of 2013", "type":
+        "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name":
+        "Various Artists"}], "id": "831e774a-ec50-4cf0-980a-164847a56c1a", "secondarytypes":
+        ["Compilation"], "title": "NRJ Summer Hits Only 2013", "type": "Album"}, {"artists":
+        [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}],
+        "id": "56e2e78f-45b9-476e-afc6-23647a8c915b", "secondarytypes": ["Compilation"],
+        "title": "Radio 538: Hitzone 66", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "dd6cb541-7266-4173-8f14-ad2adecd72f9",
+        "secondarytypes": ["Compilation"], "title": "Het beste uit de Top 500 van
+        de zomer (2016)", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "d41ed195-2589-4390-8fc7-69f7b090ae58",
+        "secondarytypes": ["Compilation"], "title": "Krone Hit Vol. 19", "type": "Album"},
+        {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various
+        Artists"}], "id": "eb689fbe-c13c-4e78-844d-1b9b2c87877d", "secondarytypes":
+        ["Compilation"], "title": "More Music 2013", "type": "Album"}, {"artists":
+        [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}],
+        "id": "2cb4b6be-8263-497d-9936-d980a43122e1", "secondarytypes": ["Soundtrack"],
+        "title": "NBA2K14"}, {"artists": [{"id": "97b226c8-7140-4da3-91ac-15e62e131a81",
+        "name": "Macklemore & Ryan Lewis"}], "id": "541e3876-2cbc-49c3-b62a-ea7bea19c011",
+        "title": "Can''t Hold Us", "type": "Single"}], "title": "Can\u2019t Hold Us"},
+        {"id": "598d8460-6c09-4591-95d1-ae5fd7c99a2d"}, {"artists": [{"id": "97b226c8-7140-4da3-91ac-15e62e131a81",
+        "name": "Macklemore & Ryan Lewis"}], "duration": 264, "id": "c07f34d5-7a0f-46a5-bebf-0891ec955fb6",
+        "releasegroups": [{"id": "541e3876-2cbc-49c3-b62a-ea7bea19c011", "title":
+        "Can''t Hold Us", "type": "Single"}], "title": "Can''t Hold Us (instrumental)"}],
+        "score": 0.949697}, {"id": "e7bc2f2a-a74a-4020-93b5-32c66c2a8378", "recordings":
+        [{"artists": [{"id": "97b226c8-7140-4da3-91ac-15e62e131a81", "joinphrase":
+        " feat. ", "name": "Macklemore & Ryan Lewis"}, {"id": "6c7f57c4-8f11-4c59-9d63-bca189f343c1",
+        "name": "Ray Dalton"}], "duration": 258, "id": "25a2c3cc-0383-461a-a813-d22318df4b0f",
+        "releasegroups": [{"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "c54b15a7-385f-43a1-a299-e0a5748dda3f",
+        "secondarytypes": ["Compilation"], "title": "De Maxx Long Player 27", "type":
+        "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name":
+        "Various Artists"}], "id": "7d72da8d-72cf-4a05-ab1d-eee593956cb8", "secondarytypes":
+        ["Compilation"], "title": "Europa FM 2014", "type": "Album"}, {"artists":
+        [{"id": "97b226c8-7140-4da3-91ac-15e62e131a81", "name": "Macklemore & Ryan
+        Lewis"}], "id": "22315cdd-4ed9-427c-9492-560cf4afed58", "title": "The Heist",
+        "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "3de20436-e665-4ff1-88ee-8a8bc28e3b5a",
+        "secondarytypes": ["Compilation"], "title": "538 Hitzone: Best of 2013", "type":
+        "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name":
+        "Various Artists"}], "id": "babbeaa7-e317-4e78-8ef0-4f06dce3fdb3", "secondarytypes":
+        ["Soundtrack"], "title": "Berlin Tag & Nacht 6", "type": "Album"}, {"artists":
+        [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}],
+        "id": "0ec51113-4792-4725-bbe3-a8dfab0678f9", "secondarytypes": ["Compilation"],
+        "title": "100x zomer 2015", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "9fe1953b-571e-4c4e-9ae6-24e9a4257369",
+        "secondarytypes": ["Compilation"], "title": "100% Hits: Best of 2013", "type":
+        "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name":
+        "Various Artists"}], "id": "831e774a-ec50-4cf0-980a-164847a56c1a", "secondarytypes":
+        ["Compilation"], "title": "NRJ Summer Hits Only 2013", "type": "Album"}, {"artists":
+        [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}],
+        "id": "56e2e78f-45b9-476e-afc6-23647a8c915b", "secondarytypes": ["Compilation"],
+        "title": "Radio 538: Hitzone 66", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "dd6cb541-7266-4173-8f14-ad2adecd72f9",
+        "secondarytypes": ["Compilation"], "title": "Het beste uit de Top 500 van
+        de zomer (2016)", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "d41ed195-2589-4390-8fc7-69f7b090ae58",
+        "secondarytypes": ["Compilation"], "title": "Krone Hit Vol. 19", "type": "Album"},
+        {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various
+        Artists"}], "id": "eb689fbe-c13c-4e78-844d-1b9b2c87877d", "secondarytypes":
+        ["Compilation"], "title": "More Music 2013", "type": "Album"}, {"artists":
+        [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}],
+        "id": "2cb4b6be-8263-497d-9936-d980a43122e1", "secondarytypes": ["Soundtrack"],
+        "title": "NBA2K14"}, {"artists": [{"id": "97b226c8-7140-4da3-91ac-15e62e131a81",
+        "name": "Macklemore & Ryan Lewis"}], "id": "541e3876-2cbc-49c3-b62a-ea7bea19c011",
+        "title": "Can''t Hold Us", "type": "Single"}], "title": "Can\u2019t Hold Us"}],
+        "score": 0.573649}, {"id": "c53c4f21-8b53-4d80-8c3d-9b127e14a415", "recordings":
+        [{"artists": [{"id": "97b226c8-7140-4da3-91ac-15e62e131a81", "joinphrase":
+        " feat. ", "name": "Macklemore & Ryan Lewis"}, {"id": "6c7f57c4-8f11-4c59-9d63-bca189f343c1",
+        "name": "Ray Dalton"}], "duration": 258, "id": "25a2c3cc-0383-461a-a813-d22318df4b0f",
+        "releasegroups": [{"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "c54b15a7-385f-43a1-a299-e0a5748dda3f",
+        "secondarytypes": ["Compilation"], "title": "De Maxx Long Player 27", "type":
+        "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name":
+        "Various Artists"}], "id": "7d72da8d-72cf-4a05-ab1d-eee593956cb8", "secondarytypes":
+        ["Compilation"], "title": "Europa FM 2014", "type": "Album"}, {"artists":
+        [{"id": "97b226c8-7140-4da3-91ac-15e62e131a81", "name": "Macklemore & Ryan
+        Lewis"}], "id": "22315cdd-4ed9-427c-9492-560cf4afed58", "title": "The Heist",
+        "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "3de20436-e665-4ff1-88ee-8a8bc28e3b5a",
+        "secondarytypes": ["Compilation"], "title": "538 Hitzone: Best of 2013", "type":
+        "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name":
+        "Various Artists"}], "id": "babbeaa7-e317-4e78-8ef0-4f06dce3fdb3", "secondarytypes":
+        ["Soundtrack"], "title": "Berlin Tag & Nacht 6", "type": "Album"}, {"artists":
+        [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}],
+        "id": "0ec51113-4792-4725-bbe3-a8dfab0678f9", "secondarytypes": ["Compilation"],
+        "title": "100x zomer 2015", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "9fe1953b-571e-4c4e-9ae6-24e9a4257369",
+        "secondarytypes": ["Compilation"], "title": "100% Hits: Best of 2013", "type":
+        "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name":
+        "Various Artists"}], "id": "831e774a-ec50-4cf0-980a-164847a56c1a", "secondarytypes":
+        ["Compilation"], "title": "NRJ Summer Hits Only 2013", "type": "Album"}, {"artists":
+        [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}],
+        "id": "56e2e78f-45b9-476e-afc6-23647a8c915b", "secondarytypes": ["Compilation"],
+        "title": "Radio 538: Hitzone 66", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "dd6cb541-7266-4173-8f14-ad2adecd72f9",
+        "secondarytypes": ["Compilation"], "title": "Het beste uit de Top 500 van
+        de zomer (2016)", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "d41ed195-2589-4390-8fc7-69f7b090ae58",
+        "secondarytypes": ["Compilation"], "title": "Krone Hit Vol. 19", "type": "Album"},
+        {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various
+        Artists"}], "id": "eb689fbe-c13c-4e78-844d-1b9b2c87877d", "secondarytypes":
+        ["Compilation"], "title": "More Music 2013", "type": "Album"}, {"artists":
+        [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}],
+        "id": "2cb4b6be-8263-497d-9936-d980a43122e1", "secondarytypes": ["Soundtrack"],
+        "title": "NBA2K14"}, {"artists": [{"id": "97b226c8-7140-4da3-91ac-15e62e131a81",
+        "name": "Macklemore & Ryan Lewis"}], "id": "541e3876-2cbc-49c3-b62a-ea7bea19c011",
+        "title": "Can''t Hold Us", "type": "Single"}], "title": "Can\u2019t Hold Us"}],
+        "score": 0.47205}, {"id": "4bc62730-07f1-438e-85be-27ac486ba57c", "score":
+        0.445543}], "status": "ok"}'
+    http_version:
+  recorded_at: Tue, 29 Jun 2021 13:46:07 GMT
+recorded_with: VCR 3.0.3

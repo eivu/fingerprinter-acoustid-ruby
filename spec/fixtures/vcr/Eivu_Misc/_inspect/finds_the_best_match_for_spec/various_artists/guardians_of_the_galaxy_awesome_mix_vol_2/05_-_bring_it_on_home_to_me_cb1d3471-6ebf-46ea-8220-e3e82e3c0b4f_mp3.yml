@@ -1,0 +1,119 @@
+---
+http_interactions:
+- request:
+    method: get
+    uri: https://api.acoustid.org/v2/lookup?client=<ACOUSTID_CLIENT_ID>&duration=163&fingerprint=AQADtIuSRNKl4KTxpA_6CKl-SF6WHnlCbEU_3A_cU_gX4qKCwzfOH1eOy6UQUjq06EmC64h_xdiVB88nlEPzgj_y5FB_5FRyNHCUHMnYID-YPEedGiP3FMHzGOJnIxfxJItx0mjX4YvQ5EoyfDl-CFM4SeichODEY8-TFD9-wjh0ibiE7mimJcIvHO-DH0n-I0wWJQq6Dpfv4XrAC1eOM0-R_GAS5-i0L1CIywnSMMlwHX9-HKdwHR-qBw3yS0TSJ7nwBHOigOWP-9hyNcFX44kG_Xj-EA_uPOFQ04If9MfjpBl-Q7lS_Cizg0nUC5_YBC9c4jL4yWiWEyXpo9_BuUWoLNAd5PjxZLgt4dwwpZlCVNTx40O4S0gi_fgzge3xeIyAZs_Qjha-5PiFP0eaJCMlnGyioPlI1CLyKAp2JUCvDG-M8MN_6F-EfBUKv8fRS7pwZsGTPAlibhYUJfkeIXR8CqdePA8-9D0YK8tIvEeyhEOonGiqSUef40m0o3yCJk-RXCTyCSU7ONEuTJKiJUsiodaxPQ-eg5o2Y3KaxsJxGX6ymHiaCE11JGPkIz8emUSzPkK_4kU_hYerbIEfPEcoHc9CG9cR-D2ehVUQUU_wTDGkmFSgRVl2RE6WqzipJDgcXAqeJJeIPGmCZFdi-CHK49nxpzluCmnyH8mD53iWpvCL75h8GWGaHOoLy2Vwaviago8fXPKGMMepwHksPOaHk0RT73hofJfx405yQWYy_MNPoXzgoz-mkDtRE_EDLWp6qD6MMEsUNsQJ52vwKcePt0i4xEF8BY_04GGOsYfLB7lEJD96ouHyxOinoGmKZ8Tl40KmOERiPLF0nE9UVCd-WP3Rr8elFM8epHqDL8jxX3ArC58u4guNPjeshBzSQDtyRUmY4Ip0NOHRJStiMReS5xGaZhv-4YfH4_qNZElP5NmDO8_hKonCgdeHq8cjnA-FJxcY7YEULwI7Hs819IKbo8fj4_KPxwl8Jfg7_HAlUXhWDf_w5ESZCMmS5EOew7GEO1XwZEcTTHOO0VyOV8dHfEEeaGSOMEmi4zz4wZdyPBKeckMz5Ucf5pgsGo-PitJx_EFuQSxK7QhDfbhu_EM_D_6OmYk2lAePJN-F3B2cnMTDsPjw6DiT4_eGN8d1pF-g80ibaxKu40qOJh-6aEPM5An03MKPtGfwJD_2rwh5MOGH-VPww4fqHzeS_fC1oRTx5Cm2Hz_O4MgDbXDuHMwZEj8Vg75xBc20maiUPNCjdArxg8-G5gpCkg-eZKyKLw8uwXlwKnhSF5feBO0dJNcCXwj_I442vYj14P3h45Vx0ejzoHmOS6Tw6Dx0Z8IznA6eOEnBpsIp5sJ1NLWHh0ukCLGOxDf-ox6e5rgu4fE2NKcGRvSRZ_mQPMqF68GPO_lAWSMxp22QO5-QmPCP-rgZZgilQGOPMI2jLMOPo9mD8Eqh_kEeyRSmfEHVCr-DOxOewT9uRUXtEE0jHnfAPwhzJUgiXfiGR2Vy9I0CH9eKfjxO_XiW4GcRLuSDnHlwcUfzHc_xh0gmKTni6Nnh3eiP73im40n04NJ4Qz6aHH2OPRH2PMFfeEnyBd9c3EjOHLlx4nwSo07CwvFR5clx4lmL5EmMXPg19I-KZguD3miexDhlHD_uo0yUH96O2sV73FnwC8mZH3mOn3hy1OIT44_hpEek50HyDA8-4kqOK0_Q3DoqjsG5HA3jHKE-D9md4EyCPUFTSUF4qsOpzAlkhiFxHuHrog_w5sbGywm-FxyT5-h7NF-wJ0BOVYGeZDlyY_qO5sOd6AGbXcPTh2CQ8BzyxDEmR8cvXGmEH81SpUg1JHPwws-FK8VdPBzRHX2RcztUykWeornDol8yInaCGx8b6MHRB82Dbx8U6qCXHCeD7D2uoxcu62iW5_ikh3hERWiOSWaG5FWE_MalTxoaB8eb1ng3_CGuI9UU9MEc5dAZ4hAfXJDz5MFTpcI_B9oPW8tR_sgjfBxxZkh2GN-cGEzS5UdyEZ_wLEZ5DX6E9_jGE-fRX0ge5EP1H00e_MedoGt2NH9wJBOZIZ2iCDueJ6hO4kZTHxWTcB1yFjpCNJGPL8c6PXj3wL1k_MdT-Hgm5riYULCTBxePKwb3IFWJJF9w6sJzBdUpD7BCBv3Z4FbwCdcPyzu-K8KP6zATBUdvHmoefDfK4zGDv0Sz6SgT50L0REjqHb8s_FGMPSRqEw2TkfjiIOlf5Odxk_iDZyfhqnhejHnwMIK6WMKzFjwOx2Y0JI-yBBkn4grx1PDNVEg-K8ifYeh6OEpYqfh41FuPv8efAbGD5BLzo9V0NJOyE-8SXD_yD4oeDSGZ4fnwBc-PSjyapQoz_JnwDmF2MAyf4LiKxslQn8SeMbgF-TgV5Mf14E8w9fAoHteJi0IrLRUyLx_0R0UkdkNTfKlynEel8zB54l_wIyySaJFhR0kw6TmuE-WD50GY00FSbkGd8mjkiMiVY8rCJ8HEp4Fy5BO3Drwx5RER_kgu_fCS41sk4dPxPDH8ODiePPiWIlwlTHmyQZqLHY--4cwc9BwOLTGP40EYpWkkocyTIMmRHc8F7kVTG-XxvMIJzVTRMEyyYSe-BjdRK44C_-jmDBHbQ9eH8EkemD3c4T9q9GGIKRzTHD9GIdkmmgifPMGDbwrBb9dwND-6hIuUHD8-_D_O40qOPFFeaFwQZnqMKvfhmEGf449wBg2TFS-MJg_yE2KOPHmWDRcT4Ts847uC7HPwKQ-2MCduPMijCfmkB5qVw81z5MVz-M_RB84nfMqC5EqOfBEuCefhH1eOMzrOJCuRAoMQEMARYwQxyhBKCQLIGAGgA0AIIhTByiEADIMEOQIEMYhgJzQCRhCEgRXAICBIIcwAAIFQxCmDCNAEECYEEEAEhRAFQBAkACVCIKSIAAIIIyghjiAHgAAOIUEAcRKIYpADDBhlGEKCKISBAUQZIylBDhhjiJCCEIIMAIhAQYZQDgiBAHKGSCEAIh41A4wA0ACDAMEUOMIEUMQ5JBgrREghFCHAAAQMYIgw4IASiAAACKUICGYoIVACAABSDjEhhDAECcEEcAYI4IQDRBBoJIBIAGQIEYgAhAw1CghBCBDEGAUcYcAJpAgBAAABiCAKAUQMUAA5gxkDFgBhICEUMaQU0IogRIQxQCKEEGAYEEaEYABAKidwCBFBgQFMYmEQoaIwggCBRhmBBGDCAUEAs8AgAowwTliCBBBGGaQUYIJYBIQgAhBGhDBMCIEYQYoAgCARBDgECFFIEAAJEYAwBgBQgmgEkFKGCIIcYIIABxwSAgmrBEKGCgEIkEQgKQhkFAEhBAIKCmIIAAgZQQQAijiBnAJCCOMAFQQB4ISBzgGCAILIQJKEZEIUIogTxgAmHwGICCAI4IIAwAgDCgFgBAWAGgKQIEA4ABgiCiCDiEBAAAMMAUYRZwwxQBhBgETIMCIEIBhCIogwRFBEqBAMaEEEYIIAApAQSALCiKAACcGUNQBUCAABQAAkIDHEJCCYIMIKIgA1AjIHEJAKAcSAIpEAKoyywhgCjKEAUMYAQshBgYBAxhAAFGBAAASFBEgIAoBjCChggADAOAYAMAZIgAQDkCIFFSFAAWIIMEAQQQAARAgmBAOKEAScUEgxTEBSCiiAAHGOOOMAAQQpgYQASDgHgERCEgWMIoRZ4AQSRAhEhHFCOWSQoAQRgpaCyBNKgFSISwIEEUARIJQgQhAlhCSAYGAAEQIAIJxjRAFFgEBEIiIBskYgCgAiAhEDJhEEAcUIEQAJARSm1iCFhJAI&meta=recordings%20releasegroups%20compress
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      Accept:
+      - "*/*"
+      User-Agent:
+      - rest-client/2.1.0 (darwin20.3.0 x86_64) ruby/2.7.1p83
+      Accept-Encoding:
+      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+      Host:
+      - api.acoustid.org
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Date:
+      - Tue, 29 Jun 2021 13:48:20 GMT
+      Content-Type:
+      - application/json; charset=UTF-8
+      Transfer-Encoding:
+      - chunked
+      Connection:
+      - keep-alive
+      Vary:
+      - Accept-Encoding
+      Access-Control-Allow-Origin:
+      - "*"
+      X-Envoy-Upstream-Service-Time:
+      - '110'
+      X-Envoy-Decorator-Operation:
+      - acoustid-server-api.acoustid.svc.cluster.local:3031/*
+      Strict-Transport-Security:
+      - max-age=15724800; includeSubDomains
+    body:
+      encoding: ASCII-8BIT
+      string: '{"results": [{"id": "e564cb5b-a0c5-4514-9c48-2451d08bedc2", "recordings":
+        [{"artists": [{"id": "6c8fd0be-d961-454c-aee0-4366a6dbc993", "name": "Sam
+        Cooke"}], "duration": 163, "id": "57dd9098-baab-4157-a27b-fbdcf94ad02e", "releasegroups":
+        [{"artists": [{"id": "6c8fd0be-d961-454c-aee0-4366a6dbc993", "name": "Sam
+        Cooke"}], "id": "8511a16a-958e-37b6-8d58-10ac3a459055", "secondarytypes":
+        ["Compilation"], "title": "The Great Sam Cooke", "type": "Album"}, {"artists":
+        [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}],
+        "id": "29b6e269-9ca8-4fc1-9181-f9ad2e796200", "secondarytypes": ["Compilation"],
+        "title": "Sam Cooke: The Songwriter", "type": "Album"}, {"artists": [{"id":
+        "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}], "id":
+        "e12ec9f7-7230-3a68-949e-241bd8df6695", "secondarytypes": ["Compilation"],
+        "title": "Soul Ballades", "type": "Album"}, {"artists": [{"id": "6c8fd0be-d961-454c-aee0-4366a6dbc993",
+        "name": "Sam Cooke"}], "id": "0cdc3afd-a351-4dd6-bbd5-61ecd1544ca9", "secondarytypes":
+        ["Compilation"], "title": "The Wonderful World of Sam Cooke", "type": "Album"},
+        {"artists": [{"id": "6c8fd0be-d961-454c-aee0-4366a6dbc993", "name": "Sam Cooke"}],
+        "id": "5b0479b0-4482-38b3-840d-a2d8690d82dc", "title": "Bring It On Home to
+        Me / Having a Party", "type": "Single"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "9dbe7e12-9a41-3f8a-a59f-371b6ca648c0",
+        "secondarytypes": ["Compilation"], "title": "A Little Tenderness: 20 Soul
+        Ballads", "type": "Album"}, {"artists": [{"id": "6c8fd0be-d961-454c-aee0-4366a6dbc993",
+        "name": "Sam Cooke"}], "id": "2eef1259-124c-4d08-b9d9-4a60d1b95005", "secondarytypes":
+        ["Compilation"], "title": "Forever: 32 Hits", "type": "Album"}, {"artists":
+        [{"id": "6c8fd0be-d961-454c-aee0-4366a6dbc993", "name": "Sam Cooke"}], "id":
+        "7d6a308c-169f-3eef-b29d-cba196f94844", "secondarytypes": ["Compilation"],
+        "title": "Greatest Hits", "type": "Album"}, {"artists": [{"id": "6c8fd0be-d961-454c-aee0-4366a6dbc993",
+        "name": "Sam Cooke"}], "id": "e7ffd528-cb7d-3693-baae-71ea3da07563", "secondarytypes":
+        ["Compilation"], "title": "20 Greatest Hits", "type": "Album"}, {"artists":
+        [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}],
+        "id": "5530e99b-90a7-4554-9f17-bad7d4d8dc02", "secondarytypes": ["Soundtrack"],
+        "title": "Mafia III Soundtrack", "type": "Album"}, {"artists": [{"id": "6c8fd0be-d961-454c-aee0-4366a6dbc993",
+        "name": "Sam Cooke"}], "id": "28358980-5b85-3dc5-bdf6-f68b9e25549c", "secondarytypes":
+        ["Compilation"], "title": "The Wonderful World of Sam Cooke", "type": "Album"},
+        {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various
+        Artists"}], "id": "a475bec4-2a21-4da5-ad31-95449b44c7fb", "secondarytypes":
+        ["Soundtrack"], "title": "Adventures in Babysitting", "type": "Album"}, {"artists":
+        [{"id": "6c8fd0be-d961-454c-aee0-4366a6dbc993", "name": "Sam Cooke"}], "id":
+        "21e58774-0924-3092-9a12-b3c557979c57", "secondarytypes": ["Compilation"],
+        "title": "All Hits", "type": "Album"}, {"artists": [{"id": "6c8fd0be-d961-454c-aee0-4366a6dbc993",
+        "name": "Sam Cooke"}], "id": "4291fa97-0573-4c9b-8688-674827ff8247", "secondarytypes":
+        ["Compilation"], "title": "16 Most Requested Songs", "type": "Album"}, {"artists":
+        [{"id": "6c8fd0be-d961-454c-aee0-4366a6dbc993", "name": "Sam Cooke"}], "id":
+        "1d127eb8-b13a-3c70-a958-00d0ea6b8e51", "secondarytypes": ["Compilation"],
+        "title": "Hits!", "type": "Album"}, {"artists": [{"id": "6c8fd0be-d961-454c-aee0-4366a6dbc993",
+        "name": "Sam Cooke"}], "id": "113dbc03-2015-3e7b-96d7-6e8fdb5440e6", "secondarytypes":
+        ["Compilation"], "title": "Greatest", "type": "Album"}, {"artists": [{"id":
+        "6c8fd0be-d961-454c-aee0-4366a6dbc993", "name": "Sam Cooke"}], "id": "0c602af0-c1dd-3968-a7b9-1e4f6268d9af",
+        "secondarytypes": ["Compilation"], "title": "The Man and His Music", "type":
+        "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name":
+        "Various Artists"}], "id": "54f624d9-28b3-47c4-b2dc-d54a227c62bd", "secondarytypes":
+        ["Compilation"], "title": "Starbucks 40: A 40th Anniversary Collection", "type":
+        "Album"}, {"artists": [{"id": "6c8fd0be-d961-454c-aee0-4366a6dbc993", "name":
+        "Sam Cooke"}], "id": "38d697fd-bdf6-3800-bbff-2078456d4c4c", "secondarytypes":
+        ["Compilation"], "title": "Portrait of a Legend 1951\u20131964", "type": "Album"},
+        {"artists": [{"id": "6c8fd0be-d961-454c-aee0-4366a6dbc993", "name": "Sam Cooke"}],
+        "id": "6f8e5e01-b08e-3f57-85ac-a4f56230859a", "secondarytypes": ["Compilation"],
+        "title": "The Man Who Invented Soul", "type": "Album"}, {"artists": [{"id":
+        "6c8fd0be-d961-454c-aee0-4366a6dbc993", "name": "Sam Cooke"}], "id": "612c99ab-ece4-39c5-8661-4a972d12f56e",
+        "secondarytypes": ["Compilation"], "title": "The Best of Sam Cooke", "type":
+        "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name":
+        "Various Artists"}], "id": "7e836750-3cd3-4c71-aa9e-b5143bc56a2b", "secondarytypes":
+        ["Soundtrack"], "title": "Guardians of the Galaxy: Awesome Mix, Vol. 2 (Original
+        Motion Picture Soundtrack)", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "ee3c552b-2443-38d9-afa8-8335842ec8b8",
+        "secondarytypes": ["Compilation"], "title": "The Rock \u2019n\u2019 Roll Era:
+        1962 Still Rockin\u2019", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "887b18ee-6d51-3139-a903-61cbd67bd326",
+        "secondarytypes": ["Compilation"], "title": "Compact Disc Club: Black Velvet",
+        "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "8a05e050-0cdb-4a0c-b4ef-81ade98f598b",
+        "secondarytypes": ["Compilation"], "title": "Halfway to Paradise", "type":
+        "Album"}, {"id": "74e78b3d-20f8-4997-ab03-c34d01e25c81", "secondarytypes":
+        ["Compilation"], "title": "Playlist: The Very Best of Sam Cooke", "type":
+        "Album"}], "title": "Bring It On Home to Me"}], "score": 0.943104}], "status":
+        "ok"}'
+    http_version:
+  recorded_at: Tue, 29 Jun 2021 13:48:20 GMT
+recorded_with: VCR 3.0.3

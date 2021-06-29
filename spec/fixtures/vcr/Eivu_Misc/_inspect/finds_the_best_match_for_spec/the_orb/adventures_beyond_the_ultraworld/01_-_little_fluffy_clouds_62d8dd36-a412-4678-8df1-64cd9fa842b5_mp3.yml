@@ -1,0 +1,105 @@
+---
+http_interactions:
+- request:
+    method: get
+    uri: https://api.acoustid.org/v2/lookup?client=<ACOUSTID_CLIENT_ID>&duration=267&fingerprint=AQADtEskZlOYBeQoK0YqSodTQet05NKPt-hRJr0iXFGeYD9QmTr64YmPXGmKO3mIXviXwjtC5sJz7A-YIz8OTUoENVkdZKey47i-Ht2PJlt4PHkSPEdzEeGhXgniVDf4EP0QXbygXeOHetGPP8SD_0Mj5YbahJ2RB_3Q8A7uG2O08GCyo6Z0RI8ELQ9CJWGOP8EdTvCPK4u24dmDX0iY6EmRz8aFpke_B38T3PrRRFYQPolwmTlG6cJjHTYuDj96NA_xfNA7SUGY50OHf2guNehngT9KHc2PP0N4akMt5oae45mzEvEPhk9UwcTF4sae4vB05A9RxcsYqEc-oZmcSOiPa-gvOMeYSiT-BP_gKcly1JvBG9iOKznx2B-cJxou9B_CSA-Sqpdw9MGewzdx7XiYgFHCxhj_4PCDPDmSkUxgnnCuo-O14nRwh4F1mbiDJJ-RqfPxJai1qGh-PDmPR_lwRsrQ8DjVIe-gD7kXHOwKJ71QVRdKdvDx5kVIZkjkSGj2HH2Oiyf6HG6LPkeyLAjZ48IvXF-C-vCYS2A6FsmfCTmPS7uILFEfJFMH9Mft4Bf8oT_-EycuI0wmLQyhnUfwhkRh9Qfv41-EZ-h6MMITwpMCHj76BbeGOAsqPg60PBeaoyQUUTuaHNeDvwvcKRm-o5kHsSJ6LcWlB-ZTYWbG4YdDJQr0MISnXnh16H8Q8Sx-vIbP4Q_e0_CH77jGEY0U9ZgSHc9wHXzybegP33iP0A7ekMYV5ZjsQMuHsaiV4wef3chXuMqG_ogf9MejqOgPrSeinTkmKzO-4zk69UETKsuxhyaSH-mzpDiPPTkajjnK7qiPRwFzHufx4kuIhizsEOEz6DTRfEG8ozmPg3kQRiKNo3YcqEfPBYeW92hRiUejjcaLssthVl0QZs9xvrCbD2d2VGaOKdIv3NID78mOH6V2NO9w_BgRpym0H0yeYNcSFXVMQefxjMIvnDNioVvCI1eko3KG5piZPPgg_UN13Mjx1njC48p1-EefA5dyPHh0DSUzVWiuHN8e_PjTY_pwxFqySPCh6cezoFGPnhL0Cj3MQ4f34M0Fn8HVHMc-xtCF9zB5fA16PkI_uCo0UYmCpzpuFbk9TM8Hn8cZ5_CzoQ-DygnMf-iZ4llwzkLOFn0sOA6UFz70xHgq4QtUZzl0Il-QWjteBs-xljnCJ0P05YEWPcc079CD5tCzwyqDa1mgH34OUS1OyYR-iFw5PESqHx_ORPCPD9dSIX-JE79SQYeu48-N9BH6Y7wRjmEOZ8QLnT7S45_QjizxBKOOnheaP8gzJsehaTv8-MgJ-8GzHHkhRgstPHkRvuhD40dvnLgu9FvhX6i0FLeCTwg1DpcVCOmD6aicFf_hVETOYRdHiD3C4wu-D32OJtVMPB12hPNhF_4C9fB5xA6MThLxHxU3-BV6XHmAssglQf-R5uh0HH0Pc7kQHicPjUuIRj8e6egjNFEXnAePb4G-KAZfhC9jOM5ydLxw6_hizNPR10Zz4s5hHddyfDn6JWjGBUdP4dxMhI8efHmGqVwu6DR-RPuMdox0XLkw6YGrI41DQtEk5DqqY8qn4seTC9eJ8IsKMRPyMfiUPcUjnD4uhcdD2JWJPsh1_NAHjT0eHp-OHufRXC_6vFB99PFR_ciLcsmKfMzh57h61Dq0bMlytBHxB12eo4mz4xfoCFce6AnRF9RDxghl4sIVCdWJXYfHozoeHlYWHqeOk2g-oUQRc0OfiRmeCzNnouchcpfxHnlmoV0W4v7QPOhzhIkLbdKRH9UdNA9-fAmuC9d2JMsRigrOqvgr9Jk3XMWTJYN_1Mpx5Dq0t_CKPNlhFeGLMyT8Tngi3EX_EHk1lMzRh0e-LPB4vKj1QcuWLOj0B6x0NHnQE7_wHW8O7SkD_niyIkxM_Ogz_JjYoz-aHL14NMqPU8IHP0pC5OiJUzn6ZA9-YuLHoPl0yOJxhG8YtEfVfEFzPEGoH1ok5Yj5oE8jNBc-fAl-hNeiQ8x75MrQlVHx48y8oT5xLTEa5EoM-ckR9NqD93iyBz2yX-gbaKnI40eu-aCnC3GNC90cCuYIPcdxHifEvbjB5MMXMcaJ5jmUU4GfoT-mVDn6EDEfMM-OP9iqnDj6SCi7oPmoDD-Os2h-9MSRSxfmHR9qRckEn0f_4JPwLegP8YeeUHAbdDq0k2jyQMcjPdDz40fICdZRStmL8_iK7_jR82i24TryJ8eP6tlx6OFRqwafo97RXIQONtlJXDLeRriObg5hLoN-HGd4-NCPG0y4DKdjnGieQ_miwD-KKVWOPjxiHsy84wx25YSHPhLKLkfzUcGP4yyaHz2RP7iOeceLWpHgH_2DT8K3oOch3tATommD69ByZtB0HI-SB_qPH-EFK_JR9sWPr_iOWj7sosQlEfmN7yhLPDy-5NCEf0WfEj4m8rgU4UzxHE3G4cMYJjs--PAj7MV3pHti-EGs83izEOaI-xDX4zU85sY94RnMSenQ50LPHVZ4qGIPX3iOME-OEx-aM-iDHCeF6jrER8Ee_IGtHbkX_PDxMCry42nxQjaNtNjHHT2PV0XlCedhSsiPH8_hPIXSEpdUweeFQ-7xFw9TACIEAswAIqQQhBAhgAEAAgoQUoxYACgAAAiAjFFEAKGtEEAIYAADQjDFATBIMIMMYQAJhAgAgDEDDEACEICAAkY7giVhAAEiBTAKAOeIAIYAQQFDThkhLAECEYEINM4RAZwAACgCiFhGAsaIEbIiApggAAAABBEMCGKEwEBQY4WwSkCgABIAEWAsUkoIB4RAgChEEFGACQMQEAIAgYRAQlrjICFACAWQcMAYBIgCzBggkAAAIKAUggQQZIATFAFAFEHEAGGEYYoIIpgxxhFFAGCCEQMIMYAJgwBUTCCJPFFIQCFMN0mZAAgAgjBgCEBAAAEQJAQY4oUBAhFGgAFGAGIYANYVRBAQQAhIqDKCGGGUJUIQkIxgjAAhlBACAEmBYU4RAYhwAAkBCAMAACSYAcoIJxlADAiGBDCAIAUBEgISwAQ0jACnAHIKECcAOwYYIAQyAiFgEVBOACEAABcBpZiQgCBhhCIKEEAENwALQogAyjABCEVGEACIYEAhQZARyDphDCKOKEMIYQQJIYAB0lEBALJAIUHYAEIQApCQgiAimTEUGMkcMoQIQJkgghEjqECEKIGEIwgIgARBABAADDESOCOQItABw4AwgAgEGiBAQSCUIcQIpACgQhmjDJLGIKUMJYIIpIgBFAIhjHCAaWKAAIAoxABQRhBoEBLAISakAEgIaoEQAjggBCAAMGMAIyIAQBkSBCnCDHIAIGAoIEAZAYQghBhgiAAACCIcQpQwJ4QAChgBFLGACSaII8AohphiAgzCQBACOSQQIsYJIw5BQAAkBQPgCSSEQgIIwAwQBCChHFKAASeQokRIIARQwAjALBCMMeEAMoohpphQhDDGgRLIIQGcEQ4YcwgSAiAAEAXgCYMoYMAg4pgQihgmgSUGAeIIAAIIJQwQgAFDAFJEKSOoA0I6IoCjDACGEFNGOWEEUU5RRQGTxgDgDAAK&meta=recordings%20releasegroups%20compress
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      Accept:
+      - "*/*"
+      User-Agent:
+      - rest-client/2.1.0 (darwin20.3.0 x86_64) ruby/2.7.1p83
+      Accept-Encoding:
+      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+      Host:
+      - api.acoustid.org
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Date:
+      - Tue, 29 Jun 2021 13:47:32 GMT
+      Content-Type:
+      - application/json; charset=UTF-8
+      Transfer-Encoding:
+      - chunked
+      Connection:
+      - keep-alive
+      Vary:
+      - Accept-Encoding
+      Access-Control-Allow-Origin:
+      - "*"
+      X-Envoy-Upstream-Service-Time:
+      - '895'
+      Strict-Transport-Security:
+      - max-age=15724800; includeSubDomains
+    body:
+      encoding: ASCII-8BIT
+      string: '{"results": [{"id": "f2f82f0c-33e4-4101-8cfd-58bc7c6d40c6", "recordings":
+        [{"artists": [{"id": "42c14c80-bd17-47e4-9bb2-a35897638c4d", "name": "The
+        Orb"}], "duration": 267, "id": "96e8c97e-90f6-4db2-93d9-2a32b03817e3", "releasegroups":
+        [{"artists": [{"id": "42c14c80-bd17-47e4-9bb2-a35897638c4d", "name": "The
+        Orb"}], "id": "27b682b2-dd29-3e15-8ef2-f6475f4d262f", "title": "The Orb\u2019s
+        Adventures Beyond the Ultraworld", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "bf9f6145-f4d0-4954-bb07-6b3ad8f54a19",
+        "secondarytypes": ["Compilation"], "title": "Relax", "type": "Album"}, {"artists":
+        [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}],
+        "id": "e04c075d-4b58-3116-97f7-adc3018860e0", "secondarytypes": ["Compilation"],
+        "title": "My Songs", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "c0fec5c4-b450-4524-8eee-50f5645f4b05",
+        "secondarytypes": ["Compilation"], "title": "Moods: A World of Emotions",
+        "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "d8bf8e5f-532f-43a1-ba83-2eb97a64ead6",
+        "secondarytypes": ["Compilation"], "title": "No Stress III", "type": "Album"},
+        {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various
+        Artists"}], "id": "d4064204-9620-47f4-8dba-d5c4975cab9c", "secondarytypes":
+        ["Compilation"], "title": "Rave: 1", "type": "Album"}], "title": "Little Fluffy
+        Clouds"}, {"artists": [{"id": "42c14c80-bd17-47e4-9bb2-a35897638c4d", "name":
+        "The Orb"}], "duration": 275, "id": "ffc0b14a-9a49-463f-b1f6-13f2976865c6",
+        "releasegroups": [{"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "f947efd4-8d95-4cd4-be75-24b91b95d5a2",
+        "secondarytypes": ["Compilation"], "title": "Comfort zone", "type": "Album"}],
+        "title": "Little Fluffy Clouds"}], "score": 0.948972}, {"id": "8bbf7d47-b072-4399-bd19-9f8ffc1b8887",
+        "recordings": [{"id": "0549a8c4-e08d-4d4b-b575-a41349ec210e"}, {"artists":
+        [{"id": "42c14c80-bd17-47e4-9bb2-a35897638c4d", "name": "The Orb"}], "duration":
+        261, "id": "0736a7c3-12e2-447b-9c1c-0f79d7ca0507", "releasegroups": [{"artists":
+        [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}],
+        "id": "d1e12d7b-f69a-3861-82ce-7f286d51b801", "secondarytypes": ["Compilation"],
+        "title": "David Mancuso Presents: The Loft - Volume 2", "type": "Album"}],
+        "title": "Little Fluffy Clouds"}, {"id": "4124c538-a325-4993-b3f0-1dbb988e3aa0"},
+        {"artists": [{"id": "42c14c80-bd17-47e4-9bb2-a35897638c4d", "name": "The Orb"}],
+        "duration": 263, "id": "69bb33ee-d6b1-4ef1-a92a-78bd5e50773a", "releasegroups":
+        [{"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various
+        Artists"}], "id": "4407fc17-67e0-4331-b049-fe4aa1d66c1a", "secondarytypes":
+        ["Compilation"], "title": "Full Moon", "type": "Album"}], "title": "Little
+        Fluffy Clouds"}, {"artists": [{"id": "42c14c80-bd17-47e4-9bb2-a35897638c4d",
+        "name": "The Orb"}], "duration": 267, "id": "96e8c97e-90f6-4db2-93d9-2a32b03817e3",
+        "releasegroups": [{"artists": [{"id": "42c14c80-bd17-47e4-9bb2-a35897638c4d",
+        "name": "The Orb"}], "id": "27b682b2-dd29-3e15-8ef2-f6475f4d262f", "title":
+        "The Orb\u2019s Adventures Beyond the Ultraworld", "type": "Album"}, {"artists":
+        [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}],
+        "id": "bf9f6145-f4d0-4954-bb07-6b3ad8f54a19", "secondarytypes": ["Compilation"],
+        "title": "Relax", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "e04c075d-4b58-3116-97f7-adc3018860e0",
+        "secondarytypes": ["Compilation"], "title": "My Songs", "type": "Album"},
+        {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various
+        Artists"}], "id": "c0fec5c4-b450-4524-8eee-50f5645f4b05", "secondarytypes":
+        ["Compilation"], "title": "Moods: A World of Emotions", "type": "Album"},
+        {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various
+        Artists"}], "id": "d8bf8e5f-532f-43a1-ba83-2eb97a64ead6", "secondarytypes":
+        ["Compilation"], "title": "No Stress III", "type": "Album"}, {"artists": [{"id":
+        "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}], "id":
+        "d4064204-9620-47f4-8dba-d5c4975cab9c", "secondarytypes": ["Compilation"],
+        "title": "Rave: 1", "type": "Album"}], "title": "Little Fluffy Clouds"}, {"artists":
+        [{"id": "42c14c80-bd17-47e4-9bb2-a35897638c4d", "name": "The Orb"}], "duration":
+        269, "id": "ca50e2d6-ed7e-46da-b381-2ac0ca5ead1d", "releasegroups": [{"id":
+        "1a4dae85-8f19-3051-94f6-92be918f0ef9", "secondarytypes": ["Remix"], "title":
+        "Little Fluffy Clouds", "type": "Single"}], "title": "Little Fluffy Clouds
+        (ambient Mk 1)"}, {"id": "f1b90f94-636c-427e-a17e-2c9de3276357"}, {"id": "f3cf8886-d108-480b-8139-6bac20963f6f"}],
+        "score": 0.919765}], "status": "ok"}'
+    http_version:
+  recorded_at: Tue, 29 Jun 2021 13:47:32 GMT
+recorded_with: VCR 3.0.3

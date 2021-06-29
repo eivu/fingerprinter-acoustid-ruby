@@ -1,0 +1,79 @@
+---
+http_interactions:
+- request:
+    method: get
+    uri: https://api.acoustid.org/v2/lookup?client=<ACOUSTID_CLIENT_ID>&duration=345&fingerprint=AQADtNkSKkqSZNBDD4eP4znuoLOSQ_yHatOho2hefAwunfAHPcfz4yb07Cia48V3nCEamR96fNPxozmDfvhUVNSOZtCPxw_-4Wge9PiR49FCNIxjoT_y4_CLV3h0VOLxL4d4ofyEfHgPH4_w40Nz9Dzi7Ti6SEejTMRxND3KH3-O48rRE80X_PjxQ7v0oPmJ7ziamCH6QT9Ro9GD53iQ78PRHMWDq0c4bwwhPhYqH0eNhgtxqD486dBzPNbx4DyK5niP4y7CfLEQNsZ5HM159MG1o8WrDM-hZUe-xRN-NNTRyvhxoUfz4NnxPbiQmsG5DEepQwue8viD74MOHz--4zJR_fBz9HgO7USTccF3_IQrPMf_4Q_0DA3qHziFozNF-B_q4z16Bg0Z4ag1Es2H59CP57iO5kSPHw_6FWa2HD3OoxeasYc-tINHiFcCny-0hTp-hDqaEzdxHReaB9WXI5cn_NA6NA8N_cIrnEKtHr5OVE0QHpsb1OLxp-iP9UFEZzn8QzseNGeM6ju-55g2XmieDLck6MJnEZF-wfhO7BfiH76gu0Mf5cGPH82kovJxQy5ucWiqE5UThMd21GKMp7iP7jliM_BzaMeDnjGa7_h-rJMswQ8eioIuHdeJ_sSO1MYnRPvxUcZxHjUftEITbsE3nIdmJYfzB0-Ob_lw6RA2Ht1OjOhz_Lh0aKmOa0efVWgevDrxHY36oTq-DHpyXDpCqmje4zj-IJQOTzq0E0fjhEePH5VhPfBz_IFY5Yg_-OgnXMOP8LogrnwRNnqAckdz4XiOUkqOuyvCLlCQd0F1nOiJ7-iP7ah13MjDFMqLXFmGHts-fCU8SUOohscP5Tgr2A2eyUJ0BI3ao3-CBwon-CF-7EKfw3mgnTmOi8f1oDmDfkO85fiJ_giTGj8eXoF2oamK48eNzlshnjmq5cUxWvBxCbvmET96BY3C7LgP_cNWMXgSHTt-NBEPzZM4PHyQ44gULkP3DN8x_ITP4GH24HqAhsyI8vhxaD8a5Q8u6EfZw5ODsFzx4A-aByX74ceVXEGYB9pTfDv0QwuX4NSO_6iP48vRXEP1Q1fS40LlxRuaZ4F8VE7QcDzu4DrKHv6hiT8efsiv4EPzREEvfBeO8BBf9IiP5jlqlcDRPCXyGNoTBfnRpfB4tAcqCX4u-EJ-wYzyQftRHv7RQ5WU4zk6cUaY7zhy5eh5aDlTXIKuQxfRVCH6C7J8_BKah0cb4jiOht3RF9fRR4c56Yd2hnh44NkCj1KG7yFuvMmO5gxaHZWhH1Zk_Dn6GT9awvxRHz8uNF9S9Bmeo68E8cvR_TgeoOfgm1B_fC9cCrGzoDz64bXQKE865BsOdURz9LFxXTiuHM5T6MJ1YdqUw6-Fsh_e4yemkzC5jOgmfVCuBx8NvxgPfQ86w-eDPsSPR9jRfEc4fQqO4WqQUsf4QM-L8D4aLsd1RDT6B_8h8pg-HE2P9tBz7EcpBc2Z45SOH2FIHdOLY8rxI-1h_tB6I7dKTN3RhOpxEqOPozmPesvxBz9iDg1XFLcO_Ub3o6lzHN-LskfzzIPsxER-nHge5OuDw7eI98Klo4kcCl1PaP6hJa6RH6OCJ-jmGM2FXVlxInmGSwpyG81z9Dn2BOeSHJEWQ-yRN9hiPkWPT-qEC42cpegjH9EPHfEiZvg0LujRpD9OXEkQZi6hrUeN9Df6fPjxBKWoo3lyvCoCnfhI5NrRo3FzXDpyRg6040cf9rieI8d11MrRvBze4cVrxGIGPWM6PPuKPPkC_7hynEHO5ND0XAj3B_eF4_owJSa6K9iTMEQOVfmK_DkuFn1ONA8eBf8R_lCvomOYoz9-9Dn2HD2D5hqUJ8GR78FLfEcfoRk-cfiCPipC1M4W_CnkH3dwNJ9w5BfOHHmc4tPe4fDxlLgk5NGFJj8-0fi0oIlz7Hpw6QqeIcwVYlqVB7pwHXkiBt_QH82R4zk0iQryEzeedmhzHP0xZQ-eHFErvFCViEe-Br_hYxee8kJIJkGTcMXR5Df65sM_fEdWpDnBJxfkp4iOK1F2fE3xI_1wHroUCX0inIJ6hJv6EMcv7Dn84ip2xcKRn5AThTlebQ624ztyhkMpKZliIcyT4z7krNGRuh7u48cjeMefHNFlIsGzLMcjH69ONEd_vHGRJ0EpqajwOTfUH9eHH3uOJryGSA-uHMeVp0JOHofY4VmQN0fZBOGhPsjLp_jxC5eE5uiLRxaSI090XM-I9-gfTBHz4dLxPDnMJcgvaH0OZzFC-cRzlGj04euKUcaj4wvx7sgPLVcclDe-HY91VIeoH783eNzRXzhm-CT-4sf-opGVoOeKH4rKo-nx48d0NJ8FlWI6IJ-O76i3HM1TPEdeVFt2QstzXMd3dA-akccH4RQ01gFEDAGAAACBEAQKowyCUmBgEAPECAmEMcghZTBzQgorAjESAICIAoAphRjjBDAylGFCECHIYEoga5BQBAAFFCLCCArIAUYZJ5AyEiAIBBEHKOO4E0SiABSBhCILAGAMIYOYABAZxQSABgGhoENAIACUOE4wJhQFghAhBUCGBMaMEUxQoJQzwglisFMCE0IJEQAgZKxwCDADgEIOECIMAEADAAQRADBjACAGCGEoQgIJYJRQghBgnGOAGKKRA0QIoIwRggBDkCRGCQHAIACYRwgSAhggBRCIGCAMNE4QYwQCBEGAPDIEAGSAkIQBETwiAhGmEMWCMCCIQEaRhQEAQhNkgUMGIXAUo0RQwIwBxBiglBCICKGFQAgQwQBBRgJDDCQACKKUEYQaBZBQCgBlgFCgEyaEAEIQpiFhhBAAhjKMQCCEAAgAYiwBTBjhmDEACEJAkAIxQgwDQBiDADCGIA04EIQJghxCAhggABCMCKMJBcCIQ4QCnkguDGMEAOZE4AgIAoAQiAlmAAFKQSKEYEgAxggIwkAjAHHMMQOMAR4oAMQSiChHDDdMAEEYAwIZAgBDAhAFiUEEEIYcRQIAiBARwggmGBMIKAIEIcgIQYJDSAgIpODIAwcMlAw4hQgBzBAklAIECKAEQ8gogpBRxHgAEFBAOeAIEhoQQZQBxAzkkFEAGOOUMEAAIAwVzAkDJCACCBGQAVBCAAwigECghDSICGAMMcCQIARAQlhHACJUMIKcAgowQQwniCAAmAGUAAMIYE4QQAigVCEFhBMEAQMYI4IDITRQmDoJFFmKFCOg4EAw4bwC3gggEDIIEQE0AMQBxxwCRApDnDGAGSQQABgZBRxgCCgCDQFAGCIEAAAop5QAhhhDIJGAMCIAEAA0KYwBgiljgDKMCQGEIgIRpgQQigBEnDPMIEeMIkQYxIgxwAAiCBMMIWeEAkABh4xDAiAkhGEIDCSARIYAAA&meta=recordings%20releasegroups%20compress
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      Accept:
+      - "*/*"
+      User-Agent:
+      - rest-client/2.1.0 (darwin20.3.0 x86_64) ruby/2.7.1p83
+      Accept-Encoding:
+      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+      Host:
+      - api.acoustid.org
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Date:
+      - Tue, 29 Jun 2021 13:43:55 GMT
+      Content-Type:
+      - application/json; charset=UTF-8
+      Transfer-Encoding:
+      - chunked
+      Connection:
+      - keep-alive
+      Vary:
+      - Accept-Encoding
+      Access-Control-Allow-Origin:
+      - "*"
+      X-Envoy-Upstream-Service-Time:
+      - '135'
+      X-Envoy-Decorator-Operation:
+      - acoustid-server-api.acoustid.svc.cluster.local:3031/*
+      Strict-Transport-Security:
+      - max-age=15724800; includeSubDomains
+    body:
+      encoding: ASCII-8BIT
+      string: '{"results": [{"id": "25738e41-ea74-4aba-8378-999568ef3706", "recordings":
+        [{"id": "183b336f-f568-4465-9b38-2bf2e09d96de"}, {"id": "48d37eb7-3bca-4c48-9fc2-4e037be065c7"},
+        {"artists": [{"id": "3c3d3ad8-3935-4c00-affb-768563916f36", "name": "Fluke"}],
+        "duration": 341, "id": "4c17f7da-eedc-45dd-80de-1c02c77e9a18", "releasegroups":
+        [{"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various
+        Artists"}], "id": "04d9ffe3-5f89-368b-9bff-7c66384d7ad2", "secondarytypes":
+        ["Compilation"], "title": "Future: A Journey Through the Electronic Underground",
+        "type": "Album"}, {"artists": [{"id": "3c3d3ad8-3935-4c00-affb-768563916f36",
+        "name": "Fluke"}], "id": "49d98d7f-16b4-31ea-8d60-6488dcefcd84", "secondarytypes":
+        ["Compilation"], "title": "Progressive History X", "type": "Album"}, {"id":
+        "618a36c9-0035-4b31-99de-eaf02dd6fbe6", "title": "Atom Bomb", "type": "Single"}],
+        "title": "Atom Bomb (Atomix 1)"}, {"artists": [{"id": "3c3d3ad8-3935-4c00-affb-768563916f36",
+        "name": "Fluke"}], "duration": 345, "id": "cfc3ee1b-4d1d-4aeb-b9f1-a177c8586dcc",
+        "releasegroups": [{"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "33510d6c-e01d-3b99-af09-f42b76d3c0ad",
+        "secondarytypes": ["Compilation"], "title": "Keinijg 2", "type": "Album"},
+        {"artists": [{"id": "3c3d3ad8-3935-4c00-affb-768563916f36", "name": "Fluke"}],
+        "id": "50615933-ee44-33a2-b6e1-75f9dd35b937", "title": "Risotto", "type":
+        "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name":
+        "Various Artists"}], "id": "2736916e-8fac-3184-8bea-e6ae698ad6f3", "secondarytypes":
+        ["Soundtrack"], "title": "The Sound of Gran Turismo: The Real Driving Simulator",
+        "type": "Album"}], "title": "Atom Bomb"}], "score": 0.96759}, {"id": "96a025ff-c542-4e98-84b9-53ca7844cf81",
+        "recordings": [{"id": "183b336f-f568-4465-9b38-2bf2e09d96de"}, {"artists":
+        [{"id": "3c3d3ad8-3935-4c00-affb-768563916f36", "name": "Fluke"}], "duration":
+        345, "id": "cfc3ee1b-4d1d-4aeb-b9f1-a177c8586dcc", "releasegroups": [{"artists":
+        [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}],
+        "id": "33510d6c-e01d-3b99-af09-f42b76d3c0ad", "secondarytypes": ["Compilation"],
+        "title": "Keinijg 2", "type": "Album"}, {"artists": [{"id": "3c3d3ad8-3935-4c00-affb-768563916f36",
+        "name": "Fluke"}], "id": "50615933-ee44-33a2-b6e1-75f9dd35b937", "title":
+        "Risotto", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "2736916e-8fac-3184-8bea-e6ae698ad6f3",
+        "secondarytypes": ["Soundtrack"], "title": "The Sound of Gran Turismo: The
+        Real Driving Simulator", "type": "Album"}], "title": "Atom Bomb"}], "score":
+        0.83283}], "status": "ok"}'
+    http_version:
+  recorded_at: Tue, 29 Jun 2021 13:43:55 GMT
+recorded_with: VCR 3.0.3

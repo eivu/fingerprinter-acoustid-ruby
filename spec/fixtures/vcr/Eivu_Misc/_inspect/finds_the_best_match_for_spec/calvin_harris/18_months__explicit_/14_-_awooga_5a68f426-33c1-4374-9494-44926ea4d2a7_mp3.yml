@@ -1,0 +1,49 @@
+---
+http_interactions:
+- request:
+    method: get
+    uri: https://api.acoustid.org/v2/lookup?client=<ACOUSTID_CLIENT_ID>&duration=231&fingerprint=AQADtFmWZkmmSHCeVVCk-MIV4kloofmOEM-DvArU60IjtEuMT9CX4NER_oR5_INFEUdMqkHy7cQN_KiPH88e_DiFHDqLXkeqEu6CD-81OEeFB-dbnOjDw4drHwwXXEqN_GigabWE7_hyfD006mj-4c8QX0S9VbAvId-Bf0QPXdxxXGoFLZYKFwd-mMSP77ghdjkOywdM4jfcCN8J8YK_I_xxhniMn6izwAoz_OiRE8ej48rxg8l3wIeOHyd-5IpgPDsoWTlOwTyuGN5yhNbRJ4EW_chxP8FJoR6pw40c4Ug_-NDkHzcuB31yQezhH_hxGv7xQ5eE74YfnKAO6sfx3BCn6PCP80h_9DxOHueDnpdgTayQy_hRdioOXAF_1FPgG_qFF__h4xxr5IctCv3xHzl0hD-cT-iT4Md1VLpChFkGHdQV5M2DNFU-sJqz48mgIkx99MKHNytOPUJy5chvnOOEJgkvXPikaEGvHXmpQc-H_AqaZ0aVHl9x6vio4y7-DJVCRwiTH9pJuPFx82iO50qhC1ce5FHq49zR7EHIF_qGHA_xPAmeKfPB6BfCdAePHyXR4DnUXDhySrjwPXieoImyCz1yiE8ifHlgP8mhKlEuPDh92CnyBDkLXR7yHqfwZUQliSmclBXyHbUipdDlFT-uB7-C9Nvx4lxw5fgUG7-EZ1fgMUdyNE2I2tHRH80v6E_xr0E-KscZ_fgJ7zHyCDpzBHyOO0-KKhqP5ieOIwzaEf-hJuSR5RE-oU-i4nlw6ig_ZEmiF_rRVFKGB_bMoH8SQ89x7QijB__xHcwT5NuhH7mETwmZoUlAzVmRc2AySpygB7-OSwizhTkqB92HPjk-4scvocmWDyWvIBRFQrQv3ISPPtfxJ9Cf45mQbxvCZB965dCjDS_qDzmPaoyMLMrh8wODGz2cjRbk9LiJXOiFT8edB-fRJLqCkFIOHU2VJMGN5sk3fHoSfDu0ZT2aF3eC44YePThTfCQqLVnw_Cr4BX4e9MJ__If2GM06ojpuITyDU3LxXmj3INN4PDNcFU8y5IfXHy1znPRxUlHxJXlw82D4o-GDfBkS4Q3a6Am2pJmFqkfObCZ-aHxw4tpx4ymss_gNdzB69PBDfMePKz6-wTeKFr4C3DEu4hmaB0dznPDhVviGo7kFNNVwZXB9-Pjgo-jhE__x4-XxKENzHC18BbhjXBl8BkUPV7gC44eZwcdxNI-O_vihD48E90dr9BC_w8cDc6FxwsJzuMIbwIc__DABP4vxwvxx3AvwH66DFzDEZ7gK8yh6iA98wCesI2xRO3Ccw--FwzzyHA6P7tCeH84WXIb_ww8BPzgcDuKD93jgDj569PDx5jg-53gGH-2NwleAO8aJK0NzoDnOw3gFdzt-NMeP5ngUuIZvfPBR9PBDvMOPl3iUoTmOFr4C3DGuDCeao_AnPDTc4xAPFz0KP8qh4zFwwjgOf4GP5_ADV8xR9Ilh9Dx6XDgO8_jgh_B5HObhjujxC83RC4W1ww8uNMfR4Af8WXCO-_DxIx0PO6Hxe3COO_DzoD_yHLqUB3mOo9GOek-RS3i249qhWdEHH4_hKseLBj18vJEOHDcsXSh6mIuC4w7-4xt8FM1xHn7wwM_w8WiOo-HwKHDhB9_hoyj84D0ufD6ewUdvtPAV4I5xEc_QHIU_4SFc-PgGH71R-NnRL6hvCIeL1kcPfQeewD--LLDww9qNH_DhDz9M4Izh5zCP48Txwz3e4zDEE1cIoz0K8TA--Dz8oxPC5_hxKTwO5y3-HH6OkD_kJC-eBzeeHf7xXvh-3Bp0oXl0dDu6-XBHC0eDwi8ewvrh4zh8HK5CWBrxwK9xBc2B5jjhwxf6DD1hCRfe4ouCwz8-wkfRww9hFfB19GiIHvVhbQtM44ar0HjRHEdznDDcCt-OHw1uNB--DD7cW_jgoyhMHhZ-WD0eHhZ-WMcJ4zfcHUdzHM2hB-LxwJ0EH8fhE7_gGxZO-Dh8fDAO8bGh92iA5sMDHz-cG7ahNTjaJTpcHU_RGz-Lhj86QX-O6MOHC2ekB1eO60G67Cp09Gie5KiXB00YWcnxZBd0hKKPxsETXMepbci1QxfyKEuELmQD_ziVoY_WGLkyDfqOPwjJK2ji7DjRL0R35bhynJ_w7coQZowFYKABQCFiAEcOAgAcEQNBYgwzDABECEDEE2WNMEABIYgiTCBBDECCSAeMBIAgQIlzxghkFGKJQETAAoQxkgw3VDJjFEFOEMUuMkgJByABCDkCmAiKAbcQAZAAAoUywgmFgBBAkCGoO4Ao5wgzxDCDDADMAYYEcwoaAIwIQDQBABKGEUGERUZpYgQQAgKIiCCEEEAgEgwBJRSwSgFBHHEQCIeIZIBDAAgwgCh1lAEAEYUWY9RABBESTlBJkDEACAAVZMJg4wAj0hiiBAICAsEMEQItKgRAhggAACEEASkcQIAYBZwCwEGlDEPAKAaYFAQwQAgAFAIkhDIWMGiU4A4gIJwiDgCEpAAAEiAAAogZRRYSWAilCHBICYCIQQKSIIgAQgEgqSHEAAAIMIYYYxRQggJAEEEMKUIAIQIIBKADjGnjiAWOKAEMEYYxwIwwgiAlEGKIKqcRVQgopJgQwiAgiFFiIAQQQsAaC4xACCAGBBPAUEaFQAJBIACwgghCAJICKEEMENYxBAwCgCEAgKBAAqqUAkJJIQwSAjGklBOIGKCMA0whxYBAQBglBkJMAcasYAAg6iwShgogEBFMPCsEAIQKRYEiDCAlnSFAIWyJRUAKQpQQDBAkLCFaSAGApoYxIIQVjjEkCEBKOWEoMMRahpBRQDApiEFMIMQUYAohBogAzjAFJECGEuAMEggyYIB1lAhAFAVICigQIgowRJhIABhihFCMAAqQIgQ4AAkAFFjAhFHOaDEBUsppI4QYBiGAFANGEM4QQ1Q5RAywwCCAFDRCMmGRdAgoawxAyiBqhZDKgYucBggBprQAEjDEAAACCCagFAIh4IRWBBghBIBMAiQMJwAh4QAzSjgBAECKACAA&meta=recordings%20releasegroups%20compress
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      Accept:
+      - "*/*"
+      User-Agent:
+      - rest-client/2.1.0 (darwin20.3.0 x86_64) ruby/2.7.1p83
+      Accept-Encoding:
+      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+      Host:
+      - api.acoustid.org
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Date:
+      - Tue, 29 Jun 2021 13:42:34 GMT
+      Content-Type:
+      - application/json; charset=UTF-8
+      Transfer-Encoding:
+      - chunked
+      Connection:
+      - keep-alive
+      Vary:
+      - Accept-Encoding
+      Access-Control-Allow-Origin:
+      - "*"
+      X-Envoy-Upstream-Service-Time:
+      - '85'
+      Strict-Transport-Security:
+      - max-age=15724800; includeSubDomains
+    body:
+      encoding: ASCII-8BIT
+      string: '{"results": [{"id": "7237316a-ce5d-419a-baf8-ab0062205ae4", "recordings":
+        [{"artists": [{"id": "8dd98bdc-80ec-4e93-8509-2f46bafc09a7", "name": "Calvin
+        Harris"}], "duration": 231, "id": "5bdecf1b-c440-45ee-a858-8cf3948b8e8f",
+        "releasegroups": [{"id": "98432828-5764-4892-9e3f-9c674cf70acb", "title":
+        "18 Months", "type": "Album"}], "title": "Awooga"}], "score": 0.93495}], "status":
+        "ok"}'
+    http_version:
+  recorded_at: Tue, 29 Jun 2021 13:42:34 GMT
+recorded_with: VCR 3.0.3

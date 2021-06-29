@@ -1,0 +1,153 @@
+---
+http_interactions:
+- request:
+    method: get
+    uri: https://api.acoustid.org/v2/lookup?client=<ACOUSTID_CLIENT_ID>&duration=281&fingerprint=AQADtJmSSEmohETt48GFE32D4weORm3RHyrqG-mP3sgNJR-ma0eYDz96yfB7ONeFimLwHT-S5whPXDfwE5-QcCfC49FxpTiOE38aJNuNMHhcXMHxKMPn5qgPH_0oIz-i8B9maXii41aKO0SPMF8hlzmuK0UfGg25HPtJkHqww38OnA5eONSFO0Lz5dDK42he9AG0sDq6ow_S6_jh4zh-HP2QHDn-4ssa9FvgG_ghvwmeF203Gn9xH8f5oDm057iTHD9OPAvR7of34ztyV8X_BOF9_Cn2JPLBHs-D7cOPPguuB8meIR_rYG0OvuixnjhL9NRw4UiWo_-Rz-hFozmuncVXDvnQNxC7I7_w3RGO73CzHT_84z5OpEyM5CzR7CR2DvyJ_biUo0pSpWi-S_iFvEj-o0wON8mjoUpl4ddx5NuHJD8eNEdP41lOVByP_Sj54Uf-HMmyV0FP1EmO63gT9MLjY6ZELFc_Iv5xQvsPn8h1dC--F8eDD99R-kg1d-gPHX_woxd85IWbHqWOo3vQ5EeSP0ceXWh6lPrB7sClx3Cyh4hVJIfPHFfw5cIT4WTI4cGzXBDDJ8L-4cE9HX7C4pdxy4KTuR0eHT90OMKT1Pj2BE9UnBQeH-exLzquHYnCHNEZXBSPP7iOMMd__Mh7PFuOqjWap1HwHq-Oo8sN5zt6XMP9Ccd3nMGfw-V2_HheHEm47EHYH82eGj9-dGWOphidKHimQD--5eg59E2DHk2U5Xj841KCPEdyCe1ZNJOu4MmP6_hyYZQFPkeeIXnyoz8o7kL4EcmP64ieZniU43oe6DLy45qO1DuS40dDJVETuGImlGqCS4go5ZAf4zPRuS6MKvrx-LiNY8pjhJ6CUjn848-C5yjv41dCXLqF_2j-QfvxXDj14LiOb0pwJPcRPPAv4sHTGld4PDvSHUl3-EGtL2iU4eTx6ccXXMh1JMveo8w-IXnxF9-JZPIHHz6H2sfD4srRH7p49BoefA-aZzpqTvgTGUFyoksYpURTKXmQf4LqI9-HnvhpwUtG0fjxi8SPUCaLxMd4sDZObccs2sQRPQ3BH5N3IYfrVLh3oaKLmzh-PGuINgx8hLZ2XIKeJ_hOmGuhH83DItLxM3gn4_jxxiQe1Ec__AjZSoGYOwGXw_0RUkmG7zl-THmOPjJ-BjfxpBk85vgRH-J4fBmuJKygm2hy9EceHTv45JjyFj2ehMRWMUieI8wjVMeJJ_pR5wMT5EfyvPiTCjyXI70D9UuCnJ3whUGl49pyUPmRrFFiIWcW44siDfjxL6gaL2jIvWCXH7va4PTh4lGPS1maovmLULkYqNeQH0-I_ugX_JLQRTGacJeK48QfxCQSR-HxLcGPPg6aH1dQNfzRJDqD_0j2SUf6EO6NnnhqCf-joSJ1NDLxIAmPMNvRP6iVSgKfYLpyPD7O47mM9E8hfMFzylBvIk-Ca0fDoxcehsVFPC-mr7gRXVFliE-O3Ue6RAH70NgNf8OJikqW4QuF3woeE-h1uOHx63jSo1XTZDhxIYwL3QgTUVbxaDnqHm4UBe1xPDueHV-i40f4Iz0DP8ee8GjKINcFvQuiH3-YBM8VVD6aLziP_MSPJ0oVnAs3_Ohfwj865WvwSMcp4--RK3B_HL_Q_hmaR3lwZ7hyHD9y6DxSjQ-u42gy9ejr4B2FpskR_khO5fiN8miSpSTOFz2ZEM14_EEyrgiT42mOzw-KhstyPJQY_Bquy2hi1FuQPNmR47jwHH-OhjkxXWiSIdSRvOAzcejlZdgjBj3uI2mUJEe8Hf4lvB5-nDkeDqdy6Cx8XPiDKoe5RIW_Hr143D2eBMluCWmiv5j24gZNnA8aMTKFScuPMKehscrxZ_iF6oeYRMhDtPk0nMdP5EfS48G1Co2nNKhovPiP5HKKXEmPUqKP9BaSnVzwPDhOIV-SQ6ePPItD3FmC4-LRnBx6XsiR9MGz41Uc9NlH5EXyPvgO9w2e7cCbHb2WIddx5Hli_IK_42py4vnR8A1RXsiPJA911E_RzE9yfFNGPKjMHO9RHM_RnEFP9IMfFNeOKtoFR5ueCHxDobFuXEmsQkdzofJ1PBuNZzS-w_jB_-gPxfrQEj-aO0R_9MnRlFB74TlOPDuakcfxC_LRusTH48R1_EE5XUajI36O6_ij4WNgfrgTIp8I_0IeK4d4GXk-Tdhz_OCP6-iNH9cP5-SRaMiP_fiPX3gY9Mxy3MiVQj_yHNeR72hCsYP2BS8iHHyQfdFxaEd0PKJxLj16_Gh_NCeJM8Iv_PDKHccXBueOUbLxNER-JDuY7Ef74FKUPPgoCvfhD1nIIHmOnvAPjtvRiD9GPsGv4zuRLDvCZ8f9CFceNGJJ9CGuD8-xNhf4H5H0Q8-YI13RD28iEv96HDd-Er9UPImPphvCE8KP_MOp4xeW5DzqEXuC4_jx4HM-5Dk0XQjzF8ePH0_qoekdlDeSB2H2Cp1qBRfT4OFxYRdypoyQrG2EZpyIMW9wnRGehEZ9NP_xHD1NhEGcpZmG0xU85sKDJ_nxHft2PMzB8QBAEQOIKSoMAExJIJgFRgAniDNMICWQMdIq6gQjzBBBHCOGCMiJUoAZRKgUgBighGIWCACUoQJYpzAx2DAqkHUCQiIAE4ZRRww0wADBDKEKCQERZ0I4gQwSBhhEABCOGUqVIFgRgAWxCpEqkGAGC8IYQ8gJYBEBTikgCFACGyAcsAIwAwEBiAChGDFKgC0AY1YgEggQQhBkqCAIAEPAQIARyhBi1TmBACESCGgUBUoQQ4QCggCDqCEAAsIVYIQApDBgCgApAKJMoSIIpQAhRAChyCCiEGIkOCGQkAYRg4AxQxCFiICBEgEAIowBNgERDAEJCBAIOGGBAARJAJRQRCDmAFKEGKKAIUhRIwABQkGnkDCIKCigAQQhBBFCBgBAhTCIEEWQEgAyAgxpCFgiQDAGQsOUVEAAxABAyhgDAAZAAAYpYRAgBhigRAEBBAAICSMUMQoh4Q3lhmhikFGLYJOcEIYTBRhCCiIBDHUAPGWAIAAZA4hDihCDEKBKIicIEogJgwBQBhFKDgCIOAEcAYAJJYwgwBCAEBDKCCEYII4AgxiS0AoBBDGEEgKYUYggAQQhAAAiCCEACGuEMMgoAABESBAHiDCIOcMAUIYJoIgiEDEBjBNKAOEAIKYAAwBlDligCCcIACiMUwAgIhCigikDqGBECiOQAEoYQwACxAsGgACESG6YM8AgYY4gxBhgDDIAEGuEEwIApwATxBhDGkOGCQG8JUJRJAADgnmDAAAIaRCkAcQYJJAAwAAAgFBCAgeEQYABIAEWDAkAECEGKMEERwgAIBRITAgjDkNCAAqQUUAIZoBRZhEBiQAIASCcFEQQAIBgFHAmgSCIMAEIQVwJAQgByhpgKADEIQIMYoR5QRRyBEBCEWOGEAMUQcoJyhQwhABAjATAQsUMQ4IAQCgCSAlIGALUGKCoYRAQAwIAmDKEgBIQAgGQI8w4IBxVQhOhgBCACgCFEo4IRBwwQigDDBICCmgQUMIAAKwCwLjhABEEKCoAJEQC4AB1TEkhDAPEMAedMkAgQphQQgBgDBBEECcAIE4ASIQAWAE&meta=recordings%20releasegroups%20compress
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      Accept:
+      - "*/*"
+      User-Agent:
+      - rest-client/2.1.0 (darwin20.3.0 x86_64) ruby/2.7.1p83
+      Accept-Encoding:
+      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+      Host:
+      - api.acoustid.org
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Date:
+      - Tue, 29 Jun 2021 13:45:53 GMT
+      Content-Type:
+      - application/json; charset=UTF-8
+      Transfer-Encoding:
+      - chunked
+      Connection:
+      - keep-alive
+      Vary:
+      - Accept-Encoding
+      Access-Control-Allow-Origin:
+      - "*"
+      X-Envoy-Upstream-Service-Time:
+      - '114'
+      X-Envoy-Decorator-Operation:
+      - acoustid-server-api.acoustid.svc.cluster.local:3031/*
+      Strict-Transport-Security:
+      - max-age=15724800; includeSubDomains
+    body:
+      encoding: ASCII-8BIT
+      string: '{"results": [{"id": "cf80bd75-ec2e-47c0-b34a-b57804a460fc", "recordings":
+        [{"artists": [{"id": "b7539c32-53e7-4908-bda3-81449c367da6", "name": "Lana
+        Del Rey"}], "duration": 281, "id": "b9d06b81-b582-46d4-ad41-be47a6961892",
+        "releasegroups": [{"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "ec557011-2aec-4d23-b39e-37dd7d8bee1a",
+        "secondarytypes": ["Compilation", "Live"], "title": "This Is Acoustic", "type":
+        "Album"}, {"artists": [{"id": "b7539c32-53e7-4908-bda3-81449c367da6", "name":
+        "Lana Del Rey"}], "id": "c6c0ec90-3088-4bd2-8d05-d171adec6102", "secondarytypes":
+        ["Compilation"], "title": "Greatest Hits", "type": "Album"}, {"artists": [{"id":
+        "b7539c32-53e7-4908-bda3-81449c367da6", "name": "Lana Del Rey"}], "id": "4b16a1bc-8644-48ae-9b3e-8ae36aa30cfc",
+        "title": "Born to Die", "type": "Album"}, {"artists": [{"id": "b7539c32-53e7-4908-bda3-81449c367da6",
+        "name": "Lana Del Rey"}], "id": "c9ff68d9-af4f-4791-9e62-69170af0a71e", "title":
+        "Lana Del Rey EP", "type": "EP"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "13be757e-9973-439c-b53b-e681cd213fb0",
+        "secondarytypes": ["Compilation"], "title": "Mastermix Classic Cuts, Volume
+        140: Modern Ballads", "type": "Album"}, {"artists": [{"id": "b7539c32-53e7-4908-bda3-81449c367da6",
+        "name": "Lana Del Rey"}], "id": "968fa2f6-1b7e-428e-86ea-6d9dd2e6e204", "secondarytypes":
+        ["Compilation"], "title": "Greatest Songs", "type": "Album"}, {"artists":
+        [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}],
+        "id": "c9995be2-408c-41cd-b562-c6117b4bd8dc", "secondarytypes": ["Compilation"],
+        "title": "The #1 Acoustic Album", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "ecdf6208-7b51-4c4e-ae22-9ad5ddd2a67f",
+        "secondarytypes": ["Compilation"], "title": "The Chillout Session", "type":
+        "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name":
+        "Various Artists"}], "id": "aca92f9a-f1c5-4197-b422-1ded76350b6f", "secondarytypes":
+        ["Compilation", "Soundtrack"], "title": "Le Grand Journal : La Grande B.O,
+        Volume 3", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "8cd3ea59-8d45-4ca5-a436-4ddfd1abcd0e",
+        "secondarytypes": ["Compilation"], "title": "Triple J: Hottest 100", "type":
+        "Album"}, {"artists": [{"id": "b7539c32-53e7-4908-bda3-81449c367da6", "name":
+        "Lana Del Rey"}], "id": "153a4039-dbef-44f2-ab4a-3135c3b3d9b0", "secondarytypes":
+        ["Compilation"], "title": "Greatest Hits", "type": "Album"}, {"artists": [{"id":
+        "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}], "id":
+        "0080ac0c-fac6-4c0e-a92f-73231b4e5ab4", "secondarytypes": ["Compilation"],
+        "title": "\u05d2\u05dc\u05d2\u05dc\u05e6 / \u05e1\u05d5\u05e3 \u05e9\u05d1\u05d5\u05e2
+        \u05e8\u05d2\u05d5\u05e2", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "20007d0b-3438-4b7d-9a97-b404e43d122c",
+        "secondarytypes": ["Compilation"], "title": "Chillsville: Population You",
+        "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "bb91285a-a5e5-41f4-b8e7-19f4d8418474",
+        "secondarytypes": ["Compilation"], "title": "The Singer Songwriter", "type":
+        "Album"}], "title": "Video Games"}, {"artists": [{"id": "b7539c32-53e7-4908-bda3-81449c367da6",
+        "name": "Lana Del Rey"}], "duration": 276, "id": "b9fa0680-600f-4119-bf48-65ba918f46b7",
+        "releasegroups": [{"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "7a65ec6a-a912-44dc-8b7c-ab6105358f88",
+        "secondarytypes": ["Compilation", "DJ-mix"], "title": "Ministry of Sound:
+        Chillout Sessions Classics", "type": "Album"}], "title": "Video Games"}],
+        "score": 0.994989}, {"id": "240d28b4-07b6-45b0-9803-3a3c04921d31", "recordings":
+        [{"artists": [{"id": "b7539c32-53e7-4908-bda3-81449c367da6", "name": "Lana
+        Del Rey"}], "duration": 284, "id": "6cba33be-dc83-4f80-ae90-53103d865702",
+        "releasegroups": [{"artists": [{"id": "b7539c32-53e7-4908-bda3-81449c367da6",
+        "name": "Lana Del Rey"}], "id": "39b93682-5353-494c-8628-180f1db2d323", "secondarytypes":
+        ["Compilation"], "title": "Video Games / Blue Jeans", "type": "Single"}, {"artists":
+        [{"id": "b7539c32-53e7-4908-bda3-81449c367da6", "name": "Lana Del Rey"}],
+        "id": "868eb27c-853a-435f-88ab-7eea967f0064", "secondarytypes": ["Compilation"],
+        "title": "The Singles", "type": "Single"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "70bb0973-3c1d-4825-9bbe-56e1dce44197",
+        "secondarytypes": ["Compilation"], "title": "BRIT Awards 2012", "type": "Album"},
+        {"id": "266aec45-baed-4152-bfdf-75a908cb3e51", "title": "Video Games", "type":
+        "Single"}], "title": "Video Games"}, {"id": "8811ac0f-1f5f-452d-a844-c6188b677d14"},
+        {"artists": [{"id": "b7539c32-53e7-4908-bda3-81449c367da6", "name": "Lana
+        Del Rey"}], "duration": 281, "id": "b9d06b81-b582-46d4-ad41-be47a6961892",
+        "releasegroups": [{"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "ec557011-2aec-4d23-b39e-37dd7d8bee1a",
+        "secondarytypes": ["Compilation", "Live"], "title": "This Is Acoustic", "type":
+        "Album"}, {"artists": [{"id": "b7539c32-53e7-4908-bda3-81449c367da6", "name":
+        "Lana Del Rey"}], "id": "c6c0ec90-3088-4bd2-8d05-d171adec6102", "secondarytypes":
+        ["Compilation"], "title": "Greatest Hits", "type": "Album"}, {"artists": [{"id":
+        "b7539c32-53e7-4908-bda3-81449c367da6", "name": "Lana Del Rey"}], "id": "4b16a1bc-8644-48ae-9b3e-8ae36aa30cfc",
+        "title": "Born to Die", "type": "Album"}, {"artists": [{"id": "b7539c32-53e7-4908-bda3-81449c367da6",
+        "name": "Lana Del Rey"}], "id": "c9ff68d9-af4f-4791-9e62-69170af0a71e", "title":
+        "Lana Del Rey EP", "type": "EP"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "13be757e-9973-439c-b53b-e681cd213fb0",
+        "secondarytypes": ["Compilation"], "title": "Mastermix Classic Cuts, Volume
+        140: Modern Ballads", "type": "Album"}, {"artists": [{"id": "b7539c32-53e7-4908-bda3-81449c367da6",
+        "name": "Lana Del Rey"}], "id": "968fa2f6-1b7e-428e-86ea-6d9dd2e6e204", "secondarytypes":
+        ["Compilation"], "title": "Greatest Songs", "type": "Album"}, {"artists":
+        [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}],
+        "id": "c9995be2-408c-41cd-b562-c6117b4bd8dc", "secondarytypes": ["Compilation"],
+        "title": "The #1 Acoustic Album", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "ecdf6208-7b51-4c4e-ae22-9ad5ddd2a67f",
+        "secondarytypes": ["Compilation"], "title": "The Chillout Session", "type":
+        "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name":
+        "Various Artists"}], "id": "aca92f9a-f1c5-4197-b422-1ded76350b6f", "secondarytypes":
+        ["Compilation", "Soundtrack"], "title": "Le Grand Journal : La Grande B.O,
+        Volume 3", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "8cd3ea59-8d45-4ca5-a436-4ddfd1abcd0e",
+        "secondarytypes": ["Compilation"], "title": "Triple J: Hottest 100", "type":
+        "Album"}, {"artists": [{"id": "b7539c32-53e7-4908-bda3-81449c367da6", "name":
+        "Lana Del Rey"}], "id": "153a4039-dbef-44f2-ab4a-3135c3b3d9b0", "secondarytypes":
+        ["Compilation"], "title": "Greatest Hits", "type": "Album"}, {"artists": [{"id":
+        "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}], "id":
+        "0080ac0c-fac6-4c0e-a92f-73231b4e5ab4", "secondarytypes": ["Compilation"],
+        "title": "\u05d2\u05dc\u05d2\u05dc\u05e6 / \u05e1\u05d5\u05e3 \u05e9\u05d1\u05d5\u05e2
+        \u05e8\u05d2\u05d5\u05e2", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "20007d0b-3438-4b7d-9a97-b404e43d122c",
+        "secondarytypes": ["Compilation"], "title": "Chillsville: Population You",
+        "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "bb91285a-a5e5-41f4-b8e7-19f4d8418474",
+        "secondarytypes": ["Compilation"], "title": "The Singer Songwriter", "type":
+        "Album"}], "title": "Video Games"}, {"id": "d0293457-9e9e-4377-956a-b5713b6888cd"},
+        {"artists": [{"id": "b7539c32-53e7-4908-bda3-81449c367da6", "name": "Lana
+        Del Rey"}], "duration": 279, "id": "e5613219-9dc5-4f58-ac1d-c5989eac118e",
+        "releasegroups": [{"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "6f0d2cde-2b1f-4342-9797-8c70a3e5c090",
+        "secondarytypes": ["Compilation"], "title": "Promo Only: Modern Rock Radio,
+        January 2012", "type": "Album"}], "title": "Video Games"}, {"id": "efe08fae-5de7-404a-9720-45495bfd36b6"}],
+        "score": 0.939148}], "status": "ok"}'
+    http_version:
+  recorded_at: Tue, 29 Jun 2021 13:45:54 GMT
+recorded_with: VCR 3.0.3

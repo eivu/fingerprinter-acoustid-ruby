@@ -1,0 +1,49 @@
+---
+http_interactions:
+- request:
+    method: get
+    uri: https://api.acoustid.org/v2/lookup?client=<ACOUSTID_CLIENT_ID>&duration=195&fingerprint=AQADtFmSLo8IcVRwvrgUH_WD_PAa4VdyRCoPq_IERT9KOWia4kKjlBV0BR9HBlcahNaD-_AXxBGVY_ohXl6CHZeDpglxyWgURgl0HR9HBleaIqT04IIfCfGIKfIFXZ6wH55i1EKvxLDCLND14AqXEX2N_MEbBY4X5MsxRb4GXQ92eDN6TE-UwuMCuXowKlxGhE6NXQ_KRmjyBfmio9E1KPqDHt6MHl0TpbDyHLL64NI4hM6DH44a4UoQnRca9YWiP-gHbw16oQuzFOJzfDWDKyLqBzkPf4jHBfsFLf-C6Qh_NHlw6WgsvrhQatmO58ctWsJJhH0UJIfP4y-uC0-OyzKqdDh-5DeS5-jDSfAf_EWTHJ-U4HngJ8gv4c_wJxTOBFd8WPhxBePOQONz5MGP6krx5BjFyEev4_nhHk-FnIm4YVu2oymeZcMDnfnBVxm0PKh7rDziRZLxUBHcH9GjJ6isHVr04HhO4nuQ88UvGTVFZMnIHF8-HE2yT0bVHUfNDmGeB894vPAjPFtkxFXyQBcz5MezM3gI_8IePDP-4E_xHy3yG3qi412OhvnwSLLwZ4ay5BliZwfLHZeOPVOD_8fDH3-kIM-hZflRSsWz44UfPBt-aNnzI5QSJevw476we8ZL1EfahCSklgj7oTltoVeCKzNq-XDEwEL8WOCdBq-Oi8HBeIf2VMY1mDnyGPQtwIw9hFcUo6Ig6iO-F3_w6RDr4z_MiByuHd8D7oZ_9LgYo2eM83C-HTKZMEb-YWVo_IH5YfqqCOVhf8ilSEfCk7jBKBpjHJd0o992NH9wEaH0wNIFR8hRPjl6qfCPVg8q6xka7YjOHdoToemDqM6HSmuG9DL60EKvGOJR8sOj4vthhVmgP8KjC5UWPIGeKIPjJ6g_dCGPJlOyDJFVNGeD8OHxPBPKx3BMYmNG9MZ3VNwOS8_hHKcy-NQG3Rf8RKkQkkR5mAt2OoXHOBL2HOlD-Dz6Qz8eVKThnfCX4ziB4zo--Lh0GMfx48KPkTuOfBQO18aPH_1wPXhy4z-eBacQvtBy5NKDp1o0nB86MviRqjl0C_nxH12441nSCf2RLDlV5CxQdoe5EOWpodeJ9EG5Hr-xH20tqCyJ48ApAYdxHJcAl8fv4HC4S8gPPMdhH_wGj2cGhvmA49mPZivySMqJHxeUncTvDTlhbVmPciEnRDwuNMxm_CmuZygp9KmQKzqubEGbhMaZF82FylkOsk-Q9BfyXLgUGg-Hq0fXwzFzhP8EPdGRq9TxghqLI28eqH-QpwuuJfgS4UxR_XDyIHx06BqRKy-euvCLH3mTK1B5BXl2XNTxnLiProfzZUhmSQ-eB_lbNMuC6T2Rp4KeBzGP6zueBT8cP_hy5JGQ2HlxHmX2HP4zVF9UfDiJ5EH06MIVh8GzBZfRHc5TIdkv5IkaCRdapxaakUHsHInvJKgzVPzwLMZFpuiaOUKaC9qVINfxPXjiw9FxD9yJ5Mizg9eOpyKuo7vh_ET43dCTCzkrPGjGHuEPhdaD_MEffFyOB_3RdDkeIT90hIwPK1oeo6q2KTg-HjkeDGyh-ZHgX7i4wxd-_PhxGDDO4OBxhcJpC_wQc4c_HB_h7bht-MePSnnxHCc_9EfdEEWYUaJAH9ceoUn645QiXDX8g9o9dF1y3DlCvkhPo12UQL_wI3xusEefpegf-EQ_NM-HkDhf6I9Q8cHhS8F3_Icf_DiB4x_u4dWD46MD5MdxXBfeIVO-40TV6AH-IgxVC28Uw8XzwD_SUFFCdEweQRct4UcYLgt68Hoi5GoOLXF2nKKEPBfhKw9OKSt6Id6y48xEaJmfENqRM8Tnoz8cSceTXA6ur8Fz4T74NCGS80dK7tiZSXiGH00yCk8ioXyDMA_0G1deXLI46NGDbgqsHOEx6kLeDxp5PMsk9Bpx_wiVhNjGhfjxFK6NnEHOfHiKMA3T4BRDPMb34BUihdmHfgf54F5MMFXi6HAdB33moTLC6JA2JzuyMh9qHf0T49pReN6KdvmIXDw0hdSENFSOHrkOLXs6tCPyHlsoCSeT4qQVBHpOIu_R1Ecf-sKPZwv6Hf0R-Q_0IxKZwU-PHlcrPB9CbR8URQ9ideBvXDr27MFz_MPjSxnyQ1w-6EpCXMRz-NCDKnGCMIzCScbDC-OFFyh_GD_CHD_OGPojMG8KRz_84ceH4_gKX4B5PDguCW8tXOCOIz888Mc3C8f1kDiu45HxIzR1PLiaQTsTg5ouwYnxKkcaHX2QGxUdUFYgakasp0Pr44mJkDyautCTMkV4WoT3CY8n8LiD8CFeB9chha4CH18Okzh-_Lhw-AJ4-ILlHT_OwsU_XMh_XMYj48d24qii43hwHX-G_0d-VFSuQ8t55NIqPMctTNYThHEExkpEaImOn4Oco_IrpN2FK1NUtNzxS_A5gw9-IfmDOMs7vMQz6Ti6w7kRfkiuxJpwGk8IJzluPA-SR8iuzHgSZXgk4WYqVGkO_wifKCqSa3iSC_cFf_jT4U5JJHWOPCxOPMf5oYdzI9yiQ6X0IGDjw_sR3TH05SHyHH90PMtwNH9QEzEjHclzPDzK7Dn8Z6id48dJJA_yXdin45lE4kKVT_BPJHvEBbl2_EerCWIAAEoZAAAhiCFADBFCEAIQYcgAYhggCCGBDADKEIIAIkgIIwwghBlCBBAGIGYcIMIQIowARAkjEAGCKGeIIQgAAYEzAAArFCEYiCiEAVIAAyAgBEgGKCECICUgRAJwZ4QARhhECKYCAAYQcEJgBoggQgCCkECCCWEEAUQiQARBABAhiWAUCAAENEQIIRAjQCEmiALACAMAEAAAphBQzCkEgAACKAWE8FAASAwBxiBwlFISAAEQQgQAQgRgAjlBCAJEAEAcMIYQJACgGhgAhICCaQCEIAoYA5ASCBhrGAAGGQYoMEoAAYABShECAEVACMAMYQAIQBTyECBrjBQOOQGRMMpYRIxygEkHJBECAIWsFIg4wIxh1AhgDFEIKSEAQMIJYCkz1pHHhFGGCuMIAkIBAAARDoEDgAQSCAOYMgISgAARwghEADCKACKEMAAQAQwyDBhCCBGIACABIIgQQgAwCgBkBBDAEYQAMYQphYQRxBggEECME4EI8IYYQ4gABAhihAKEEEG5AcAQIAgSBBBhCCBQICOIMUwwgSBQgFgHFCEEAYGscEpY66gRwhhkEkMCMGIEBQBYR4QgxAAkACAGMMGQIEIIxAgCBgBGSHCEAIIoMNQCYQhASCFDnAVCMAKIE8gQAIwFhghBEBGAWMGIVQ4AZQBggAEEABKAGBAgEVQBCIAhEC0CGDPAEAiQEoYAYZSFgBAgBBFCAISAEM4QZYRAAgAglAAAACAIEwIIh4AmyAiiADACEMMQAEoBgKhDSiCpGDAIKEIIMgIAKxBiRgjpkFAUEesEUghAQAGRgkJgDBBWCsEQEYoRBAhSkAFrJMBSCEcIAgIAUwQgiBlEAEDEUQGEEIAIAJAggiJmAACGAOIAc4QJgQghECmiCAGMaIQMMIgIQggxAhhBDCKSAIEAMAQwIgwhAhEyEFBCGAMEAoAzjoQwBCgliAGECQ&meta=recordings%20releasegroups%20compress
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      Accept:
+      - "*/*"
+      User-Agent:
+      - rest-client/2.1.0 (darwin20.3.0 x86_64) ruby/2.7.1p83
+      Accept-Encoding:
+      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+      Host:
+      - api.acoustid.org
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Date:
+      - Tue, 29 Jun 2021 13:42:47 GMT
+      Content-Type:
+      - application/json; charset=UTF-8
+      Transfer-Encoding:
+      - chunked
+      Connection:
+      - keep-alive
+      Vary:
+      - Accept-Encoding
+      Access-Control-Allow-Origin:
+      - "*"
+      X-Envoy-Upstream-Service-Time:
+      - '85'
+      Strict-Transport-Security:
+      - max-age=15724800; includeSubDomains
+    body:
+      encoding: ASCII-8BIT
+      string: '{"results": [{"id": "ed6dacf5-52bc-439c-a165-6a5b925e419b", "recordings":
+        [{"artists": [{"id": "7fb57fba-a6ef-44c2-abab-2fa3bdee607e", "name": "Childish
+        Gambino"}], "duration": 195, "id": "6352f515-eff3-4989-994d-74581f46082b",
+        "releasegroups": [{"id": "5253c012-f7d3-440e-919b-5bac6d91ae7e", "title":
+        "Camp", "type": "Album"}], "title": "You See Me"}, {"id": "8f6ec96f-0dbc-47c2-8d68-834b73b93675"}],
+        "score": 0.976925}], "status": "ok"}'
+    http_version:
+  recorded_at: Tue, 29 Jun 2021 13:42:47 GMT
+recorded_with: VCR 3.0.3

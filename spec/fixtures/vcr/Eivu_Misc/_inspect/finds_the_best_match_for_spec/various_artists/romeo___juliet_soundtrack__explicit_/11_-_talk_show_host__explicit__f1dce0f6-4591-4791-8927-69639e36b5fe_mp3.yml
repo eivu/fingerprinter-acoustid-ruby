@@ -1,0 +1,127 @@
+---
+http_interactions:
+- request:
+    method: get
+    uri: https://api.acoustid.org/v2/lookup?client=<ACOUSTID_CLIENT_ID>&duration=257&fingerprint=AQADtFG0pEySJUEInwXLPPg3jLB6vAmPhLF05GMK5znKHCeOH80RHspl6ogbOijZw0fz4w6eIvwg_rhwFA94IB9uHDiBY0eQ9A-aJMqU48nxnEMfBe_w48yJbkOTI36OpHGUYQeb48WUU7iwoflT8EiuH3HDTMGUSdJxNB1-IIyhX3gz4KiH44dqhAc-HDV2_MQNMkfzjJHQ58h5JGQ2PFlCC39wKniSpsc9CS7iPzjDGE144UeeXQN1FH0e4XrwL8PFhELORDlqQcd__OGhk0d5Fj766HjBsUIzZidkbfEQJnoT7ImO6-iPZk9CPFaJK-jR5A_xNJyOPDoJfTZc58EJ_QifRQweReXQeAk-XGwCbc0yGE3w7MaZBz-eHJpFNA-OZ5mIJ8iVJGE0JG0-eD7e4e9x-MeFsHGMZNJCH1ciHF_wBJqkHJbiHBezB0X4HclyKXiIczlh5bhz7HhYacE9JUjuI0fxD03CBZdxlEEzMk0Gfl7QI81zCtqOvDTuhsnRbOmDssctNJ6C8MYPqUymCd8-HKKe49xwoRmZ4xfC_PiFP-iFfnqKJy-q4wlzFe2b4FwyCldeRKeR7LgS-XipBk5GLWj24dnxC27yBHfwH01ylNlx5kHoHcmnDK7RE9exX0pwH3puNDt6z8SlRMfhR4mPh7zQ10LC7BHCdNNxBb-O-7CnxPjQz3CWC3VynGEDJhemB8mzIPaSC6eEUxeafCF67ngS7bh0_MRFHvp4PCeeZRZqHT9yIfHRPArxBT-OL8cvTD_C9LgFvTgp4UcN_7iFG1Zz-OERN8cPfviOEzzuD7uRH8lREU969IeP_vhx57iUX0j-KYjNHI8UFmWiDM-JEzeN5AjzDM9y3LhzRBcFLbWLcO-CK1eCrz8-onFCo0hKH3lznMeVo_nx0ejLI8k_5Dn-DucSF8cf5ImuFMlz44eTh8dz7E-Cxz-orUFeqN0xRTMP7cJDNAqFWDmJ8xJ-CZV39EfuycjDbBKR88izHNuOb0FzIZTYonkOXUfWo4nXBT_-w_WJdD1-hMlwHU_Q_zDFeCglKSeOJs4DbaeEK2NIXDvxHUw6Hb1mXPqR81A1jQjNEVOO2LnQfD787NCYXccv4rSJXhHC6NglXAmF8hQalTzYH02Onj1yEj50-Sh5NHlwDbUP6ktCQdWPbzpKMkfi5seuGlULTz9avMmwO5NwHWn6QW6O2EczvfjorGj2IIeO6-HwOMck64KWx4gulA-aJV5EoHrQiKVxNjpYZpkiop10hDlaeTqa4xtNqJaEaMePHyfOYdeOWjsyPdmRMDq6ZMVZ3EQkizd8BhqJK6kk47JyyE-HaLFw5rg-hJluI9lzouwKL1Hxk0bHD9-Ra0HyrMU3PGMj4fnxo0fCZznC88SF-6i-BmH8I_llvGFWlPzQPFGOLwqO_kgbsRCfIJRzEdM0CU2MG3vROImwO8eP9ohFXUi8JjumS-PQbHmNbzlqB02caeh6RMrDnNC_4AqOO4EcJjp-VHwS-EKl_MPXHB2D30VvBbOtBF-OehxxHf1ROcshqcaJnLCFbS_6YY9e1FqJdI0eJFI2dOHxfbiPyT_CXMIjBfoTDr9eaNFROT_0nAgzUSnaZcc2LviWHt_x57hQixlMDltkHeHKPISO8QjTC16SMMc7-HtQXRb6vKh9XJFwqZMHJnlQdA-mRKSPtjpcpwgvEZp1pCwd1Djx6sUVo9kxHlQuox9-JFuYckKYZcwWvAFnHk2dYjryqkjORDma7-iFP6j-wHoqogzC80iW_rjZJHiJyt_QxnlwScAe9bCm4wJfVEb-EDoiY4eP6tLBTDyuI2YSHtpbfIeOpiWHOj3UB-8mRNNxPMe3o9QW-Dxu9AyPB_kN7UkeIXU-CY6YoT_RpWRmnId9IhcP8UuQnkU74siPHdoRpvQy_AEbyccR_oJ8IT06dsOPZw8q8Qrhr-hDZP8KPX2RH31x_GijfAkSL0d8Es0Tok9k8FeC60i4E7nxotbRI-eDZNc3NIoSUXgeCr_Bo1eG5lKPK1GmINaFKZKyC7fwakfzUTiTQ0fD9cGH9MHHCO6PHn0HqzwcyUaf48zR1EaZoHG0GxUevziZBHkGPbmQo08e7KbQG0cWrvhy7PjhH8GPXDjkNXgGHdaR87jx7nh8HN_hHzV-4Xhy3FrRLLrwBF8o-DhctcefB103fFXwE-ET6EqyI7Sk4GaIKzm2rwneMOdwRSiZZUWTWziOmsrRqFGGUBa0LOeQP8QvoQ-aXBTe63gUCiV7UGT2wBeP9vgVhOJ2KMqBsDH8wyv6HVdVIVJWHY-mg8n04w76FvkxnSkHj7iyVEQ-joSmEmGm5XiO_YerCg_CJDrKLk5E6CbxQz_C6MnRJyJRJ8cUvknwCUek3RCPWxE-WsGXnQN1fmi-EMKrKC2a85h0aD0c4-rhD9N2vIaWQ4wohP2OS2FDfEGPi4phjkeJZMnHhUO4ncGVSWCPfj-aR3Fw4zeS63gRMvuI6Az8DuKzINpRJvjyBHsWuMYzxE2S5MQjR6j1aYMfnLh6fOJxH-0K5fdxNDlxRjmsPDghPUtxaBRJfMmRH5dSNB9q5QKfZhP-FKFyQssZB1d-_IdoF3mUo78Ed1FRhstR8kuCHUnOHKGcCddx5Zil5By6J8zRnEVyBjG_4UwyD70mEs1bITnyMvio4-Pw5HhuIVkQyZoOIBXBAAEABSLUMqUEYEQJpygwmEkEACtMGaKIYEY5CoESwzlHKEWCE0OcZwIZ5JhAGlpuKJhIGuEUcQAIAoQwRAilhUNKCSIcWkARIQQQgAgmiFHIGuMIEgQAQohRDAICNCKGIOQUQYyJAxRTAAglEEGWMSYAIBAgoAhwhiCDFAAMHWEAAQAAyhAywJCCAFWOKOaMUhYQCUAAgCClBAKAEeYIQcAopwgSxjkhDFBIOCAEEUAAABQEgCAiCLAEEUCQIEwAZhhzDCgCBCFGEUOQgUAioAgGCgAmhXAKAGCYEYQIZIDwAFJlhEWEKEOEAQAgIJQAACRiCWJEIAKEcAAAAgAD2AkggLFQEOOMEcIAQwAjxhgBuBCIAQQUIQoiYIQCQiDDBBTKCUAEYQ4ZZQwAqhBAgFJAEAMIYQQQIYQgBBhinQDEAQIEEoBRBYACQAICBGBEQGKkA0YoBgQhAmBhGBACGIGNRI5QAwAw0gEADBCCUCOAcMAgZYyyRCiCHABACA4QEEARoIAz1BmMiBCIOCeAAYBQQJAA0SAmEASGACYIIwIYocQyhAhhHAAOKEYAAIJQIgxgiChCGDBCgGIJAUAIIACRRACgGCBCICGgoUZIQAATThpAhAACOAKgAcYrZqAaBCmEgGAACsCsoQAgAKggzBkBAAMMECOggBAiyxQgSjGFNEFICACIAEMQYIEQRhACgjDAMGMIIQAYagBBzhgABUNQWAOAEM0ARSwAhEmDFCAGkqCMMMJQAUqSVgFAHELIQQqAV1AABQ5QAgABiLHAGCQEAMIgAIAQyCghiGAAEMAEYAAoIBQBEhAgFBIAGKOIAkwRpZgQRjBgyYJOECIEAoBZAJRWTghEmCYEAGAEIIIygCgxAgFAiAHAAcQAFA4QAAAyBkhGJJDMMEEAIAQgQohgCgAAgDaGWGOIEAAIIIBSAgBFlAAA&meta=recordings%20releasegroups%20compress
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      Accept:
+      - "*/*"
+      User-Agent:
+      - rest-client/2.1.0 (darwin20.3.0 x86_64) ruby/2.7.1p83
+      Accept-Encoding:
+      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+      Host:
+      - api.acoustid.org
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Date:
+      - Tue, 29 Jun 2021 13:48:42 GMT
+      Content-Type:
+      - application/json; charset=UTF-8
+      Transfer-Encoding:
+      - chunked
+      Connection:
+      - keep-alive
+      Vary:
+      - Accept-Encoding
+      Access-Control-Allow-Origin:
+      - "*"
+      X-Envoy-Upstream-Service-Time:
+      - '160'
+      X-Envoy-Decorator-Operation:
+      - acoustid-server-api.acoustid.svc.cluster.local:3031/*
+      Strict-Transport-Security:
+      - max-age=15724800; includeSubDomains
+    body:
+      encoding: ASCII-8BIT
+      string: '{"results": [{"id": "37f9bb08-7ffe-4e74-bfcb-51ee8d4cfa25", "recordings":
+        [{"artists": [{"id": "a74b1b7f-71a5-4011-9441-d0b5e4122711", "name": "Radiohead"}],
+        "duration": 251, "id": "0092d01a-1461-4841-9191-36b484ef4783", "releasegroups":
+        [{"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various
+        Artists"}], "id": "c31400a5-9982-38cd-a840-e06758fbe42f", "secondarytypes":
+        ["Compilation"], "title": "Screenadelica: Hot Sounds From Cool Movies", "type":
+        "Album"}], "title": "Talk Show Host"}, {"artists": [{"id": "a74b1b7f-71a5-4011-9441-d0b5e4122711",
+        "name": "Radiohead"}], "duration": 254, "id": "0a51bb42-6a12-4cb8-8d64-a10b8e7a9df2",
+        "releasegroups": [{"artists": [{"id": "a74b1b7f-71a5-4011-9441-d0b5e4122711",
+        "name": "Radiohead"}], "id": "6c70ab0d-2559-31d6-b4c5-15cf513aa076", "secondarytypes":
+        ["Compilation"], "title": "Oxford Devils", "type": "Album"}, {"id": "e449d0a3-5661-338c-a51e-a9910f725fa5",
+        "secondarytypes": ["Compilation"], "title": "Towering Above the Rest", "type":
+        "Album"}], "title": "Talk Show Host (Nellee Hooper remix)"}, {"artists": [{"id":
+        "a74b1b7f-71a5-4011-9441-d0b5e4122711", "name": "Radiohead"}], "duration":
+        254, "id": "0be131dc-466e-4191-a4b0-d21ac1b91415", "releasegroups": [{"id":
+        "f720c4d7-a80d-4466-b92d-9d1de99ddba7", "secondarytypes": ["Compilation"],
+        "title": "World Ballads Collection", "type": "Album"}], "title": "Talk Show
+        Host"}, {"artists": [{"id": "a74b1b7f-71a5-4011-9441-d0b5e4122711", "name":
+        "Radiohead"}], "duration": 256, "id": "1027e4c7-c26d-4aeb-9374-15f25cd543c8",
+        "releasegroups": [{"artists": [{"id": "a74b1b7f-71a5-4011-9441-d0b5e4122711",
+        "name": "Radiohead"}], "id": "77382869-e555-3c04-8ab5-acbeedcd61c0", "secondarytypes":
+        ["Compilation"], "title": "Raretrax 2", "type": "Album"}, {"artists": [{"id":
+        "a74b1b7f-71a5-4011-9441-d0b5e4122711", "name": "Radiohead"}], "id": "46479293-ce6d-3a4d-8fe9-73ebb5ee5881",
+        "secondarytypes": ["Compilation"], "title": "B-Sides", "type": "Album"}, {"artists":
+        [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}],
+        "id": "5460bcce-dd28-3dd6-a2df-ffd476ff88ef", "secondarytypes": ["Compilation"],
+        "title": "See Hollywood and Vine", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "650ebbf1-e25c-3f13-ac2b-d98010c1c5ee",
+        "secondarytypes": ["Soundtrack"], "title": "William Shakespeare\u2019s Romeo
+        + Juliet: Music From the Motion Picture", "type": "Album"}], "title": "Talk
+        Show Host"}, {"id": "10307afa-3774-4544-bd5a-decb80cc8190"}, {"artists": [{"id":
+        "a74b1b7f-71a5-4011-9441-d0b5e4122711", "name": "Radiohead"}], "duration":
+        255, "id": "1460310e-7a18-42b6-8ac0-a4195b035aa0", "releasegroups": [{"id":
+        "f4302994-a6fa-4a4a-9605-355a750468e6", "secondarytypes": ["Compilation"],
+        "title": "Looking Back at...", "type": "Album"}], "title": "Talk Show Host
+        (remix)"}, {"id": "1be786f0-c1df-4c6c-ae01-803e04a7f3bf"}, {"artists": [{"id":
+        "a74b1b7f-71a5-4011-9441-d0b5e4122711", "name": "Radiohead"}], "duration":
+        255, "id": "212da394-7e9c-4178-af14-e2f24abaf2f8", "releasegroups": [{"artists":
+        [{"id": "a74b1b7f-71a5-4011-9441-d0b5e4122711", "name": "Radiohead"}], "id":
+        "39baf9d2-f625-4bae-bec8-5505d81c80fd", "secondarytypes": ["Compilation"],
+        "title": "Every Last Crumb", "type": "Album"}, {"id": "720f8fde-f44c-4c00-a50a-4f9fd2a5a17d",
+        "title": "Talk Show Host (Nellee Hooper mix)", "type": "Single"}], "title":
+        "Talk Show Host (Nellee Hooper mix)"}, {"artists": [{"id": "a74b1b7f-71a5-4011-9441-d0b5e4122711",
+        "name": "Radiohead"}], "duration": 282, "id": "3c9ab94b-6c48-4123-8a5d-2538df76b35d",
+        "releasegroups": [{"id": "37410f3e-b7a0-40e3-8bcd-ba3aabc339ce", "secondarytypes":
+        ["Compilation"], "title": "B\u2010Sides, Vol. 1", "type": "Album"}], "title":
+        "Talk Show Host"}, {"artists": [{"id": "a74b1b7f-71a5-4011-9441-d0b5e4122711",
+        "name": "Radiohead"}], "duration": 253, "id": "3e6fb1db-7fb8-4f76-92fb-0555a7fecd0d",
+        "releasegroups": [{"artists": [{"id": "a74b1b7f-71a5-4011-9441-d0b5e4122711",
+        "name": "Radiohead"}], "id": "dcfaca33-c71d-3f2d-b8ce-0194ff7fce43", "secondarytypes":
+        ["Compilation"], "title": "Fucking Rarities", "type": "Album"}, {"artists":
+        [{"id": "a74b1b7f-71a5-4011-9441-d0b5e4122711", "name": "Radiohead"}], "id":
+        "b8048f24-c026-3398-b23a-b5e50716cbc7", "title": "The Bends", "type": "Album"},
+        {"artists": [{"id": "a74b1b7f-71a5-4011-9441-d0b5e4122711", "name": "Radiohead"}],
+        "id": "60b9bffe-5959-3de1-ac79-63581b541323", "secondarytypes": ["Compilation"],
+        "title": "Leftover Computer", "type": "Album"}, {"id": "c2ac2c8d-51c5-3abf-aafa-3f0e93795151",
+        "secondarytypes": ["Compilation"], "title": "Lost Treasures 1993\u20131997",
+        "type": "Album"}], "title": "Talk Show Host"}, {"artists": [{"id": "a74b1b7f-71a5-4011-9441-d0b5e4122711",
+        "name": "Radiohead"}], "duration": 257, "id": "52058b05-06e1-43db-8634-d66bdd1df6b9",
+        "releasegroups": [{"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "650ebbf1-e25c-3f13-ac2b-d98010c1c5ee",
+        "secondarytypes": ["Soundtrack"], "title": "William Shakespeare\u2019s Romeo
+        + Juliet: Music From the Motion Picture", "type": "Album"}], "title": "Talk
+        Show Host"}, {"artists": [{"id": "a74b1b7f-71a5-4011-9441-d0b5e4122711", "name":
+        "Radiohead"}], "duration": 280, "id": "5f045f1c-aaf6-47ed-a129-ccf1233dc273",
+        "releasegroups": [{"artists": [{"id": "a74b1b7f-71a5-4011-9441-d0b5e4122711",
+        "name": "Radiohead"}], "id": "88477b42-055d-3d1c-9e5c-7e1de8f35243", "title":
+        "Street Spirit (Fade Out)", "type": "Single"}, {"artists": [{"id": "a74b1b7f-71a5-4011-9441-d0b5e4122711",
+        "name": "Radiohead"}], "id": "b8048f24-c026-3398-b23a-b5e50716cbc7", "title":
+        "The Bends", "type": "Album"}, {"id": "80975c59-4094-30d5-bb58-365e8b061274",
+        "secondarytypes": ["Compilation"], "title": "The Best Of", "type": "Album"}],
+        "title": "Talk Show Host"}, {"artists": [{"id": "a74b1b7f-71a5-4011-9441-d0b5e4122711",
+        "name": "Radiohead"}], "id": "d97860c6-441c-4909-8242-e411f2c65e94", "releasegroups":
+        [{"id": "33d7473f-98cb-42b8-ae4f-8d1d52f42639", "secondarytypes": ["Live"],
+        "title": "2008\u201010\u201008: International Forum, Tokyo, Japan", "type":
+        "Album"}], "title": "Talk Show Host"}, {"artists": [{"id": "a74b1b7f-71a5-4011-9441-d0b5e4122711",
+        "name": "Radiohead"}], "duration": 343, "id": "ee02f13b-3fe6-43ec-818f-ebab40cb409a",
+        "releasegroups": [{"id": "802b7f93-111d-4264-9ca4-7c1d1c26589e", "secondarytypes":
+        ["Live"], "title": "1997-12-19: MTV''s Live at the 10 Spot, Hammerstein Ballroom,
+        New York City, NY, USA", "type": "Album"}], "title": "Talk Show Host"}], "score":
+        0.993869}, {"id": "074003f3-67e1-4195-b3b6-05ba19f9e0e1", "score": 0.693368}],
+        "status": "ok"}'
+    http_version:
+  recorded_at: Tue, 29 Jun 2021 13:48:42 GMT
+recorded_with: VCR 3.0.3

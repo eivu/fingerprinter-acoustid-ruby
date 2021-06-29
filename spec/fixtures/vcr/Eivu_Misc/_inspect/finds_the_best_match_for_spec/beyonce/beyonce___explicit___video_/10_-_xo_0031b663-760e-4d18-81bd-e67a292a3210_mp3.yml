@@ -1,0 +1,68 @@
+---
+http_interactions:
+- request:
+    method: get
+    uri: https://api.acoustid.org/v2/lookup?client=<ACOUSTID_CLIENT_ID>&duration=215&fingerprint=AQADtErCRMoiRkK7HEdOBRehJw-eFz_iiWii--hjfMuF80bjI7SN99DyI3xOJK-OfBE-gr_Qm6CY6LjGDs154Uei5UL8HA9zlNINN2EavMN1CS3-tDi-XIh5GeIY8sjBJ0fzHj--HQ71IU4tiL_wDfoOHg1THJ9EXDSmdoeWEz_OhGi0D5qwM8rRkHtQ8EfjQ_PwU-gVNEeu4XqEhk8QShKJXhSacLihZQ_RcgbbJ_iD_tCS481xJTrOKSm-RCNu4U3xQF5n5CH64yeaXMGe4Zdx2GmQQ8sRWgz-4jrcePjxY0seHr_Q50FTEXwCVziH5lFQPNpCtA-aSB6DM8l2uMhp_BB3xMt2PB6-o1eSUPB3PMSP8Dp0hMrQxA--FM8k_MbTgMlv9Ed-PEdzpuiBJgom_MUlNJaCcwuMV8GOL4e_w6VwNcXBXziKe0qQ93gnfDcqH_7R40Y-F3ouhH8C6iGqPBh9PMvx0DPy4Oh_9Cy-HGqID36OFzvaMYW_Y3PRcsE_XMQ3Djf-oPqRnkFPH_mO6TVyB77x5DEuwRwPfocbG_VxfEeyPBrC4s5h5Ql-JbiEUlMytFKK88J74ReSSfoQ5j_wp4ZzH2RzNGmDPhuD-7gUoR7CnMG1C83RM8cZoXDO48rw41Q2-PhCfHrw4yEeYfOFXkLtpHCcHH-O48thU0VFJccOfUzR_JicELVziGQxfcSt5Mi541EOazrusDjy6cLBnEkgVkSfhzi-o8mhrQmaHsw9_BG-FT6O7z784EeYlSW64jyqCw0ZZbh4NHkQfuh5NF9wnLC0KAEasdAeK_iRPrhC4yoakptQU-qG82gqpkIy_QivpWgefMeTHQ06LZoY_MKLlxUaHT2J3Dp05Iefx_hTXOEB58bDIGeUw8_wHmc2aCF39Cma_eiDvvAutFSCC43KGz1zHM1zaKqGT7BT5EGoo2GmJC5WXJQKsWKOHH3zwA5ObNeIWAwsmUNJPviCH56Fh8ZVWOFTnIc2NEDZoyF3QOPRfDmeA-3h_LgSiCNxFraN8MzxHc2VInx29GgmBzruHKm-Rnh0uFSOT_gYNGBeHnk2_OhyNI-hPZGOxiFyBmV1hImPo4l7SPkRpg7KDkf2HFYTOehjoWkiBU90_Gjeo96Rn7gu4nOO5gzqDcwPR40Ofzn6o33QnBbaJYdfhOJ0JE31CVOe5ej5oY0zodmPv7jQhMpyhEoHjdGPMPskHD2ahzjynMLFKCXakbBSaM_RdcJ_VGOQH82PyWKKj8vh78hH6FQQqmHgWWgedrgmGs1ptMcZm-jDC82s4Ec_hPkSFdcu6DuaPEd44jl6NHEdobOE5jNyqEeYZzneioXVycF3I_2EXsqh_EafE-aYCf3xE2-Woh0Hj0evHOd-VJZyiFyGUDZW409xUgcTJ0dP_MWPfscjRvmhGjzcNCHRB0cvNOFc_CFOIzyP5sJD3EW_oPeFXwLHqfCY6NCPH32zoakuHGE-1EM5_miiDKccnAnRBw1yodG0gz--JA-cHT9MEl8ILRdOMcWXQIvOo9KDR8cfNE-hPTv-4WHQrMN3uCJEMiPyHBW-Bz1bREqqpYJO5JXQKy_-oWeCHHIf5DeqF_7hHOkxfdGh4jqkfMkRxhp-ND_qXTiY_AjnQ0uP8E7xHWGOPpCVIX9wiSK-ox0NpBWDPjPO_civgck1VP_QHH1TIT-0hPsRHt8PJt_RJzhFopzRqDnyCJU8iD2mC42Zo5RjtEdTKinip2ioWggXbTl-NEKpqsHHYzzEjToObbGCMEero8mDox-aR8E_Hf0R5oN-dAqauMiJ_miq4sGl7Wh0pciiLcKJhz60Zleh74CzGKGSLvhRfmichsh3nIF-PPURzy_-oG88YjuPc4olIlRaHPrxH6Ed4ceXGGGyOMUO9IGrQC-a7PiIvkYTPIqOvmgcHs-HWgz8RB_Iw3kMKfbxZD6asQ80SxKeNWByXDIXNPrxPRNevEO6pZHwHG-R_viRJ0qDZs-OH37QMdnRr0fzzMFPBeGhZQv6PEgnjyhyh0RnHq4gO4P9Iyxp9PCHyjmeosn1HHWZ4fnQ5EWtH_2C5sdzhE9KNI8e9CnC7IgVHfIX5IRjHycTXL2Eh8txCcfnoykYHleO8Awa92B0iHzQD9fh40Gow-fx4kdKRrGgI__h5-h3oYczLj1OpM-RRKeF_8EHXBt-8eiroDnj4MmP48p-WOlyfPjRRDqS9Uesd3gW7M_xWDmuHWiO6viHSwgfiD--INdzHG8NH_1xccd_hHGYo5egH-6ES8yNV0Zz5kPJzDi652iO6tByXAv6HI0uHM3RB2p79EeTBz8akkeX4wiTiwgZacGP8Ohj5Bk-6FaFJnvRhTkeNGeOfipOHVq4oU-M8zj-oBkPHelhK6jE4TlOCY10D32GPvSQLDbyDM3Rz_jx1vCFXFpS9FeCpgquHK9R6RcsrT3EyJLwtEWYbcrxE--Mh2nQHH1wZ8fNRGi2Hb1yNM8e3IP5G6VXhI8DLWnwSkHO7DBxxouQhz56RseVQ7MS40WPxjzuHH-OhofGpdWRN3nQoCdu9OzQPAgfaNG0A0YMQgYoAgRQQgAoHLCACCIEIoYhApBTgCBiDGEGCDgQMqAII5AhkgBDGWBOKYGAUQYIAIAywAjGgAOWEKaEVEISBwwQ5AjAgDDMIAYoQMpJIAlgRiBhBIPCMAGJY0QJ4hRTgCHjCFEQMEIEJBwoYRAwzhEBDDIANUOAAEIQQQkiSgAiETCSEQIUUEYZp4UAEiokICBACGOAIY5wBYmCDAkgHJAMWAKEAwAJA4wwAhEGFLACKAAEMEg4BQyjjggjiKCIGCeEARYIIhBSQBSHgDBSEwSII4A4AAhihgjDgCGCCNkUAMgZwgADlEBGoCACEuGEUoAA44xRgiEiBWDACAEdEMohZ5gBQAKAAXCMMYYcMEQIIYAz0BHgDCKCKAUIYFARQ4ikBiKBlGSQEYKaQEQQroRBBAJBADFGECEBUIAgAAQSACkIjCHiApAEQIIIphwCAAgCBADAECCEiEABoYwTzChBDhAAACEAcQIoBphQABECEJCMAIEcpMIAAIBFTTEkoDFKAiEAkQg54EAhADHhDBaECOYIAYgQQQwzSAjGlDESCKYEMQQAwJQUCCCkhDJKAOMUIEAJpIBQSCEGkRHCACgAIAAoRAgTAAhiCSVKAGAZlIB4ABIy1AoAABJEKUGoAgAgBYxSzipCHANAGKMAEAAMQQRghoBlABJGCMIMANQIJQBTgEAADHWEIcMEEgZQJIQxRlghiCBCUKIEAEIgYYiQCiABlECKKgcAcQxEAIUTBABiFJEAAGEAUgggRYAiBAkBAIECCMOAIoIEQYRTzAFFmFBCACWUUIgpY5wDwAHFgCDECSCUIcAAAYpDUgGChCMKKGZIQFIcQhlBIACjgCBECOEMkEaSSqAQQAEiAiCCAAiUAEQKg4jiEiggjAKACoCEEAQBARAVGglDhJMACEKBVQY&meta=recordings%20releasegroups%20compress
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      Accept:
+      - "*/*"
+      User-Agent:
+      - rest-client/2.1.0 (darwin20.3.0 x86_64) ruby/2.7.1p83
+      Accept-Encoding:
+      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+      Host:
+      - api.acoustid.org
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Date:
+      - Tue, 29 Jun 2021 13:42:04 GMT
+      Content-Type:
+      - application/json; charset=UTF-8
+      Transfer-Encoding:
+      - chunked
+      Connection:
+      - keep-alive
+      Vary:
+      - Accept-Encoding
+      Access-Control-Allow-Origin:
+      - "*"
+      X-Envoy-Upstream-Service-Time:
+      - '123'
+      Strict-Transport-Security:
+      - max-age=15724800; includeSubDomains
+    body:
+      encoding: ASCII-8BIT
+      string: '{"results": [{"id": "36320d98-5c30-4e72-a70d-cec26dba3469", "recordings":
+        [{"artists": [{"id": "859d0860-d480-4efd-970c-c05d5f1776b8", "name": "Beyonc\u00e9"}],
+        "duration": 215, "id": "d6aba709-74bd-43ae-b01c-3169c3668acd", "releasegroups":
+        [{"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various
+        Artists"}], "id": "9d8271f2-f9bb-4bc3-a5a9-9aaebd490829", "secondarytypes":
+        ["Compilation"], "title": "Knuffelrock 2016", "type": "Album"}, {"artists":
+        [{"id": "859d0860-d480-4efd-970c-c05d5f1776b8", "name": "Beyonc\u00e9"}],
+        "id": "3e1387d0-c3c0-4b02-8abe-b6bb40b409b6", "title": "XO/Drunk in Love",
+        "type": "Single"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "2c9987c4-aea9-42bb-b0fd-d4680a63957b",
+        "secondarytypes": ["Compilation"], "title": "Kuschelrock 29", "type": "Album"},
+        {"id": "8596171e-23b2-4bdd-8f1c-11960df0ecbe", "title": "BEYONC\u00c9", "type":
+        "Album"}], "title": "XO"}], "score": 0.99644}, {"id": "b45cf941-4247-4e4e-8e48-f842717d2424",
+        "recordings": [{"artists": [{"id": "859d0860-d480-4efd-970c-c05d5f1776b8",
+        "name": "Beyonc\u00e9"}], "duration": 215, "id": "d6aba709-74bd-43ae-b01c-3169c3668acd",
+        "releasegroups": [{"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "9d8271f2-f9bb-4bc3-a5a9-9aaebd490829",
+        "secondarytypes": ["Compilation"], "title": "Knuffelrock 2016", "type": "Album"},
+        {"artists": [{"id": "859d0860-d480-4efd-970c-c05d5f1776b8", "name": "Beyonc\u00e9"}],
+        "id": "3e1387d0-c3c0-4b02-8abe-b6bb40b409b6", "title": "XO/Drunk in Love",
+        "type": "Single"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "2c9987c4-aea9-42bb-b0fd-d4680a63957b",
+        "secondarytypes": ["Compilation"], "title": "Kuschelrock 29", "type": "Album"},
+        {"id": "8596171e-23b2-4bdd-8f1c-11960df0ecbe", "title": "BEYONC\u00c9", "type":
+        "Album"}], "title": "XO"}], "score": 0.943895}], "status": "ok"}'
+    http_version:
+  recorded_at: Tue, 29 Jun 2021 13:42:05 GMT
+recorded_with: VCR 3.0.3

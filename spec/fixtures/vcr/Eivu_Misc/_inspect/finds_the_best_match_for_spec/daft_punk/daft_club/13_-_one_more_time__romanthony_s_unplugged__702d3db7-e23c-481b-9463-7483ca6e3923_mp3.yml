@@ -1,0 +1,60 @@
+---
+http_interactions:
+- request:
+    method: get
+    uri: https://api.acoustid.org/v2/lookup?client=<ACOUSTID_CLIENT_ID>&duration=219&fingerprint=AQADtNEoiUqCB8l4_Ch_PD58i_iDH0c_NL_BD9dxBt_RBzl1OM8BmvCD4_iD3AfxA_Af_A8C4Ui1Cp90nAb9BD8upB_8Q809xDdcVA3-B8_xJsOlYsryo3_wE8mDfDwu_Hi4oJK2Bz_04_DxHbvxC_2GH1-DZEyMMPiDPscxHSclPMQb1J_wH9_h4-iO-NB8oceFWI4ePEqOT8fN4caDH33QhD6ehHii48d1RJcedDt05EzhA8eD54gP8-gf6ENP_HiK_3jawyva4T2ObayLPCcO58cdPA_xHed7_Kjc8PAf_EBo50hOjB1-8MdzHLUWHJ92bB1y-NDh0_hR7_iCSYeTElq25ng-8A_CP2gufDiXIE8PVNchd0nR5MfzIMePf4HX6MGT48eP5kW5IR_O5TGeitD1QBO1oFGIzMd74S_85PhxNBO3Ill_ROJqNM_Ri7A8hBf0uPiiBrmP6RYP302Qa0ioozdeLQNjI1LyHK8e6MqDPFEenDSaHz193IfDd8gD5zye4vgU4VHQHyfxB__h5-gv47ikCzlV-BRGJKKOSPoThDlR_zA54o0hPhKi90Fjpkc2eVBuCnFC_CgPOwx6igp-4VkWxA-gH-GP22i6HWce4b3w4w_CH-KUCHmwjTneDs0fXD-OCzlZUH1xXRgz6oEWPriuI0z3IDdRH8qK_zka8StiOmC-I0x1KOwRZ8epowyT4DmKo2l-TN6RLHmsocqH9Olxgsce9D7C4wp2gvngG94Jpju-Y-LCHK6IHqqOfOiewxIfeMonvPCP6ixuHt-NXIGiB3lV-EeXngG9_fiFKx18vGuLPNnxQLsLPxe6pjgf6NCTnMiVDuUD_6B_vMea433xFrmR7MeP5zoe1MrR2MfFG9_RTB1RhcdI6ngWJ8WRQz-yhwkT-PnwXXjWBCcf7AmahVfQ_chT6Doa7wh3nbi6HPWFmTz8I4M7Qke0iUf1Gk95_Ch9Ec3zBLWwOUGZqD5KJgfPHBVfTM-SF82DpBTyaj5aRmkUNLyFFzi5w48eXEZO6ZCVLfiP6HTQREx29EuO60PM40fV5DnC7LlwRcnxHjx1vEel40ngH_1xFRd-tNdQajvyE-wFTU1Y-DpCMj9O5sTFHH9yPMH7YzqN5jw-5sV1hHwSNPyhSsLDCw9-aHl4VMZ_POaDUxeOF9MpUD-cOcF_qMcRHMePQJfhH6GFhz-uH3_hbbge40uNnDS0H1l-XFlg77iCJw_uHNGjQw-EJs7Q98fp4z_U6pj42Zhy5rh6EUdtiNFjhIpxHn16TJmuIJAuROuOM9eC7lnQfMIR6hD7bch_1Cfu4MXNHbsR6msMKUmOz7ixB3-htxSeO0ifBz-eBbUWhP9x_WjyKEUXUi7Gy0O-B0wwoVREnDvi-EgOjz3q40vqBNeSozKaOsfrBMka5duQ7niawpG2LeiMm8KH69gz8HtwURT2w88xK8eX46F9RIdfCGIfRN9xTXhSpWj0J8aFSsoxLnaM9yi045mCHxcf7JseXAefCE9-7EqF3IEmJ0oohPmOqzq-4DrRiC9CEk_G8YgeNDp4TMl9_Aye4-FRPsEvpIe2DfHxRvgCR1mIUdKFoy8a-cH3Y_uhJzeuhSoeHO9x5Wj0oDeN78iPJ3jSoWdh_ih56EI-TCs_vLxR7fiL9xv8HzuPR4JnIz_0Iz-T4PPRPCiP4yePJ0-YCo8azCfMMTiap-iz45GO9kdy8fiROzhu6dj6o4-ECHqR2rj2CN_R5Qd5w3GCOtmJXNARa8eTRDl4Hc_RfDL6s3iWF7kEtZoQJjGJPlxIPDgO_Ak-yUgfEz9U7NmJ_tgu6DHSH_2DHw-Pzz76oImL7Eps6Bqe48eP6jO-HBQm68KPm-nRVMmDoxk1PAtOJD2eJ0R_w8839Dju4zvuQ_Zx_MEP5A_0SBXCXB-OhrnxHvuJLJ8hhkf44cejg8klhygrIZeOnkHzPfiiJ0SOOzyao8-Qj4S-I0-I6wl6BU_Qo0eyHPkc_MEjMkbzB5mOZOjR_Phx4keyMxfSvDgH8rhh8jie4w1-4_gRWRD_I25Tw2J4NDnVMPjx47hFvDuSZdGOHwnbBH-K04azB05KH48ON3nQRpFw5DH0MMi14yb-oN_RTHiS4OLxHuOP5-DT42Iioj98Fjqc41FSY-ue4syOv5j841F3XHuNK0OPpkKYI5kabSJxPuA8zImSo7xS3Dhx42Km40-GJsmRZw_-Gboz9GiWCXt0sB-0K5zhKruEH3qOP0X_4Eo4NA-J6tNxnD94I9WN4T_-AWdw3EMXvSjD2egPp03RO4lR77jQJ8eHK_nwPMOtI9kR5gS-ZcaZMEZfOF4eTE8W4cUhJTzK-8JVD30uw-HBRGyy4Q1OJclxf9B3PPnhlziDHz6PZzqqgsmJE0fERIemx0TDpMh5hNmJ_vjhnMOT5MGXB38H49h3fHiO4vdg9Th-Hj-I5wDymHSAAuQQw5QBYZgkxmgFDEDUCGoEEgoIAkRgECpMBGPGCGAgAQRAYQQihjEEgDAQOBEQIQIIiAgzgqANhFGEMCeYnNICBggSxoImxBaIOSSAA8ZBhsiZAkFEhCCAAUEAw8IogpARkDgBADCOCCcIQ0AaIixJQLgNBBVECUAYUAwAR4QQACAChRQACAGBREwRIqghgBAKEJCAAkGFAQABIwAQ0gJBhAFGEKaQIIIBAxiDghhBhARAISCMKYIoKIgyRklgiEBMCwsAEIAxpgASBgimECGIEYKMUIQIRQQAihAEARCCEIYQJI4ijAA1BBEGBEEKWmuIQAYQwAgxCCEBiABCEIMEAIIwCAgQYCECMELEQUEEA8ABxYxQAAMIwAQEGaUEAwcyAYgygCBNCJIEOSIAYIICQxEAEghggCAAAgAEAAQoAMAgAgIjBGAKCEiAAIYQBJglEBAirITEMUKBJYAIIZBwBDiBgBBAGOYcA4yAUIBBgAGABCNOKGGEhU4UwowBSAAgjCDOCIEIQYopBBAwXAAAiACGACCMgAIJAJQyADDgBEDGGEwQIAAw6JEDBCABDQMIIASAIAgY4gAEQihFJAKQACIMMgggAYAAZgECiSAABEJEUIgIAJhhiBghgRHEEQMI8EAJgwAiBEIgFQgKCSGBAMIow0AqCHAonKDGCQKA4-QQgA0jACAhBCMASCMcQZoDIIBwgiABhAECIGYoFAAIIIoBXgADHGtAEQGFEoQgAUiCBBhArEGGGkmEEsQRIwQhgDgMnANOSUEAEZKgAIgSgGhZgQNUQMoMFMYhQAgg0CACCKNCAcWEEMB4gKgFzgDgrFSGMmAAMYAB4wwxTABkJEXSCW2BAAYgYQBTyDJEAFGICsIIA4YSIxiTwDgDnLAAUQEEMURYBAhxFgBBCAGYCUGUw8whAqARihGiDFAGMAMAEcIgIwQzRDiIgKIEQaEAVggSSAERDkBEADNMUIIEQAIACAgSQBNCFHZSICAUkgo4AASCAgBDDAKISEQYQEwCAAC1Cg&meta=recordings%20releasegroups%20compress
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      Accept:
+      - "*/*"
+      User-Agent:
+      - rest-client/2.1.0 (darwin20.3.0 x86_64) ruby/2.7.1p83
+      Accept-Encoding:
+      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+      Host:
+      - api.acoustid.org
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Date:
+      - Tue, 29 Jun 2021 13:43:21 GMT
+      Content-Type:
+      - application/json; charset=UTF-8
+      Transfer-Encoding:
+      - chunked
+      Connection:
+      - keep-alive
+      Vary:
+      - Accept-Encoding
+      Access-Control-Allow-Origin:
+      - "*"
+      X-Envoy-Upstream-Service-Time:
+      - '106'
+      Strict-Transport-Security:
+      - max-age=15724800; includeSubDomains
+    body:
+      encoding: ASCII-8BIT
+      string: '{"results": [{"id": "e21478ce-bb8d-487e-9087-14911906e073", "recordings":
+        [{"artists": [{"id": "056e4f3e-d505-4dad-8ec1-d04f521cbb56", "name": "Daft
+        Punk"}], "duration": 220, "id": "417bbfdb-9f5e-47e6-a14e-9f2ac50b3548", "releasegroups":
+        [{"artists": [{"id": "056e4f3e-d505-4dad-8ec1-d04f521cbb56", "name": "Daft
+        Punk"}], "id": "93341465-cd7e-4558-aeeb-05676210acb8", "title": "Daft Club
+        Net Songs", "type": "Other"}, {"id": "1fd2e0fe-90f6-35ca-92c0-d816ab3bb79c",
+        "secondarytypes": ["Remix"], "title": "Daft Club", "type": "Album"}], "title":
+        "One More Time (Romanthony''s unplugged)"}, {"artists": [{"id": "056e4f3e-d505-4dad-8ec1-d04f521cbb56",
+        "joinphrase": " / ", "name": "Daft Punk"}, {"id": "d55fe7ec-3c7f-44e7-b9cc-b025c4351f70",
+        "name": "Gabrielle"}], "duration": 211, "id": "8817c141-7a06-45a9-b6de-ccb8190cf513",
+        "releasegroups": [{"artists": [{"id": "056e4f3e-d505-4dad-8ec1-d04f521cbb56",
+        "name": "Daft Punk"}], "id": "ec8e9600-b802-48ff-a387-ace28cb90642", "secondarytypes":
+        ["Live"], "title": "Alive 2007 / Alive 1997", "type": "Album"}, {"artists":
+        [{"id": "056e4f3e-d505-4dad-8ec1-d04f521cbb56", "name": "Daft Punk"}], "id":
+        "4bac3d70-deea-3d80-85c4-8be9f90558e6", "secondarytypes": ["Live"], "title":
+        "Alive 2007", "type": "Album"}], "title": "Aerodynamic Beats / Forget About
+        the World"}], "score": 0.921479}], "status": "ok"}'
+    http_version:
+  recorded_at: Tue, 29 Jun 2021 13:43:21 GMT
+recorded_with: VCR 3.0.3

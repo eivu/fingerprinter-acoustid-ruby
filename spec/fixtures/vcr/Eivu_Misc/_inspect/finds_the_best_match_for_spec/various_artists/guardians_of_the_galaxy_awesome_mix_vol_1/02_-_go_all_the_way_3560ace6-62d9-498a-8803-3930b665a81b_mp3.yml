@@ -1,0 +1,469 @@
+---
+http_interactions:
+- request:
+    method: get
+    uri: https://api.acoustid.org/v2/lookup?client=<ACOUSTID_CLIENT_ID>&duration=201&fingerprint=AQADtEnCZFFShcF5TNJ6NNWRR8TjBw3XY6IeHPWoHExUnDmi7-gihRBj9D5yHa80NLxwnMeV4_oR6sJDqNuJ6KiVOccP_6i2PUT0RT60DpEiBleOHw2PXpKDqNGu4lkHzY7QjPioHN-R7-hYuA6cLccP9wt-fMkO_-gVEjn06Yj-o8lxfIefcLhQVAiNoxcH-fgxC89w_MfnI-yG6-gHC36No3mNlwgtQcuHe0akrEEbHbkfPF-h7DtyJjh-hI0PLWeFazT-CjnR70Hz4uSMcNYFw9uUo58HdXpjhMRWKsWH8egfPDnOoz-aHbkg6xER6nqChhot_MizwOfxE88fIrwWbWjy412OZ-lQLjoaItbyBeKHWD-eFK1yNJqHP2nwK5hyHdOiCp-Oc9SMtGIO_Qh-oso3KUGzqnhE1EfzLDgpGc8yR5gyFjWLJzouMcWUKHwQboeKnD1-PD8abgl2XPpx4hHxY00i6bDyHAlv5LBulA-6Jg-aNJtxG3kGccxwvHMSvIWW-OgTXsiv4zrCH4ceHqGL58OZw2dyPPtxDj2cjWnh80QyMvMQPTgz41SDq0LbXGgUgvuPpmKE_jLmMgzKxEeDi3iy7MiPZLmMyjr-D9UJ10d5HD_6o7_xP0RzHuHz4TGh10RahfjxE6FIQYvzIA-f4KMmNJXQPcePvmiKJ6oUofeCBk-i49GKk7A-JKeRE9cn7MmES-PxZD94LwgfaOmR58c19FnQ8AOfE704bNEvpA-hrdJRH42lISaPPzhDId9x4fKD_MR13FnQ_UWTK8ezRMelG9HrHLoYhPnhKuhN4YmXoKLxPEfJgM_xfuhDZLouXMWeH7lyY_-K87hQfTiuTMfzCRkbST16TMm6FYcuaUdDaUcuKccPn-HQ77gSPL-QtCXCFP16vHiiVDh3PJFWoQ585uiJXIEeIy9RTkeZcceH5nzRWwyeI3miI1WYGac04xquLxl-4cOsLcFrHc6eII9UQWIkPFMQ8sKU48djBR9z9EgdQzmPTMuD_Sxu4oePnvgtJD9yLTJ-NJcevMmLOB90BbnQ5_hxFceR9CPCSWEOR-3Qe0b_wRfRG5fUMbh-VFvQzL6QB7oSFf4DPcQeVkgPLg_u4KFgG5e0IHlGIveDHz2-w8uu4AN19AveSCLCJEd5hNqk4zOD48fxY3QZGK4QfsW1FEfucUFzpQpO6Xi0F1-ChMvkIeTRL1zQvMeP7_iyNfCOI7n0IFeMkkLTCI8l48KRPxm07JSRR9txwftxGWHCp9CHHFa44wrH4ekTnDreHPeHHk2X4cuJH79ZTMuFhiPBH9F_JA8fvHrQ68SpIxLnQmqO6EfzE-9z-D18lB2-DzcuKUSTcE9QT-OC_vCR_A_ywsxVo1wv_HjCXKg-mDPCjDn0GDmNcloehMniU1CTIifxB6V4IUxzPIPyBL_BKE-GKXsDXSmFTy7CUxHRzLgUXK8Rm03QHzpcZUcuUcN_tD2-u7hznIV_fHoQepnRfJOQ62j0o_zwJDn-DBe2Kok4PBKL7zgSLnyQM0uL_-CPM8EVJQd-HT-TwMtxJsiNPhCRZRW-Hd9xKdGPdk_hozzOLDke_PiRKJZI5Ki-Ypo4TImZ4iQ5PMnSCHmQHO2Y4xdRb1QIPhV-4-mOI_tRsTEaNQt0NDneE3pS4RLSC_7xYzu6ZcMr_FOIUw_8HLncHXoiJUVzhAyT5Cgvimi-4CvuKcd_5Dk8Qf6RT8aTpAouooxquENP4KeQfGaMfB-eKJPxt7h9NEfH4wkvhJKMZPlzPDk-CRefDMfRZ2hCmcLzBPNyHXkeo2FESZDCInpOHI-foHkeXAu2JyyykESyZtgmnYLvoEd_NOeB3CdeItTCoxG1UTivESee48el5PiF5MhPPGEWVIse_JJwG7az4nD4okr4GMczI8wOzdKO8GvQWMETPKMw8UGTM8GPJzvCVJqOsDue45mKvxGa6kEfopxThFlu4T9UB93Kwcd_sIT4HdGP7xj_wMd9oifO4AriTRe-7IOWXRuy2BaeHGeiYGKaEM2FJx-ahxx6XHmM3-iP5juS_8iX4FVylJJkwUx0_MSFI117JP8MW0dJ4lKO_NBupL8IhyilXPjoRLiHUuIROycehE-ObmoshPGDF4olEmGfEEzW49iHN0coNcuhH9FO0GjeYuYn9Md_-EOvIeehH6d0fFEUMYGWJMo-hM9x_MjlQD9l5MOPd5LxXEF1C17UwU8YhCSNa8f3R0EX8kYT4Qku4lFy-MOFPUsFThLFJNiU6INOEV9ShH_Q-3iOUy8a6rgb4o8FxzPSH9OZQU5D49PAozy-QAq5jPhRSYEf9Lh-PM6HL4mOrpCS4zfma2gWJcN5VB_OQyOjI69E4cRtw89E9DiOfzn2omQk_CFCUoK-IxfRoxGL48KVHeUOdxj840Gso80hn0Wo58YVHj9-vO3hqBtCRgqUH1-IoiweJ4QmMXOCRlyN-8SjJET5ozmOc_gSSNdy9Md_MA9TGW3EQz9c8eiDdvoFQ-9iOPqR4ccz7D3qP_jy4HhO1D-Se0gjZtFR2dLxPXg-XDnRtYd_pHuR7MeTB3uO70guDfGFL8KzgkcvxDcS6ihtXBqu3MiDH1qsDeGXgs6DnmjW5Tg3nMKP6IGeC1eGFw3aBW8OLeEROo7xFM3RLscPJASGgiCnCAHAAKAQYUQLJZAgRigDECBICIEIBUwQ5YRRRilmjASEKUdUIAYBwZBBwCnilAMJACcYIcIMAoQRRBkhEBEQCGSEIgAQAAhwRAniiAFKSAAEcQooYggAQCihGDEEEGaIYIZAJQwgjCmgCGBEGUKEEI4oBCQAgkxBiQAUFGGINIQpAABQRBHDEGBIIACYAAIIwAkQBAAECEGKGASJEEAQT5ElRAEEBFBAMcMEIUoQAgGQwggIEFAYBAQIYQAwrBAwRAAGlBAAMkERIZQUgQAygBgBCCGGACKUUEQAYwREQAAggBAOOMABI9AAIAgAQAAuACHcKECAYMQQIZT3DAoLhEAQWKCQkIAp4AgVxFAJjDIICEKREUMRKBBxAAAiiBMEMXJCAEQgBIAAgkiCkCRaUUYAIEBqRATBBEnkkEKaFAgQCAQIBJgkAiFOFNACCWgAaMYYgYiizpgAFECCOCMEIUgAQ4AgiAhCiAFAASMFUQAooIxEQCBCAQAKEKYAEAIqIIQBTDPHDESAEUEAEUgoAoQgAiACDDFAISMYMUhRJRwjAiDGFFICKUCMBkYxgxgQxAhBiEtEOTcYIiIQIYghwjKIBAGCKGGABAgYQoASgFgnJFICSCCQA8wRBSQRiACEAHbEAAMUsQiAQpgBBggkEBGCAGSQIBIYI4gASjJiHBGKiWMAIYQ6pxxjiFAGmYAKKSEcA4YIwARSQCghgCEEGCWIQEQYQJAgFDEgACOCEqGIUEwYRQyYhRCCAfCAGGKUImAgo4GCGglikACIEAUYB0oRQCAQAjFMHBHCSAKAQkQAAYQhTAlmKGGECCEkEBARgYQwhDrkgACAGEGEqYAwKJgwhCgAWAMAKCOIMQyKoCgC1AkBkBHEASoIY8gAwQRghhIgICECCGGQUQIAgQxmhgCgBHcCASQAMsogBACzBBFAsHAEEGIkggYCbxhhTgAigTEIMQYIUIgC&meta=recordings%20releasegroups%20compress
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      Accept:
+      - "*/*"
+      User-Agent:
+      - rest-client/2.1.0 (darwin20.3.0 x86_64) ruby/2.7.1p83
+      Accept-Encoding:
+      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+      Host:
+      - api.acoustid.org
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Date:
+      - Tue, 29 Jun 2021 13:47:59 GMT
+      Content-Type:
+      - application/json; charset=UTF-8
+      Transfer-Encoding:
+      - chunked
+      Connection:
+      - keep-alive
+      Vary:
+      - Accept-Encoding
+      Access-Control-Allow-Origin:
+      - "*"
+      X-Envoy-Upstream-Service-Time:
+      - '174'
+      Strict-Transport-Security:
+      - max-age=15724800; includeSubDomains
+    body:
+      encoding: ASCII-8BIT
+      string: '{"results": [{"id": "93e669f1-5c88-49cb-99c6-58042e6236d0", "recordings":
+        [{"artists": [{"id": "ee06187e-f6db-46e0-8164-be626127673d", "name": "The
+        Main Ingredient"}], "duration": 200, "id": "0cacba89-2154-41e5-8667-71dbe28f7dd0",
+        "releasegroups": [{"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "79e49fee-8b0d-38a5-ad4b-5a7e0c64b9c1",
+        "secondarytypes": ["Compilation"], "title": "Suddenly \u201970s", "type":
+        "Album"}], "title": "Everybody Plays the Fool"}, {"id": "0fb71c8f-5ce5-40dc-a8f7-f6bcc06a5009"},
+        {"artists": [{"id": "01b405ae-8ca2-4dbe-8a30-0587b597f598", "name": "The Raspberries"}],
+        "duration": 201, "id": "16595fb3-4eb5-4b3c-8007-a670f3ec1535", "releasegroups":
+        [{"id": "9ff62198-f7e6-419a-b2f4-2f8517c1afed", "secondarytypes": ["Compilation"],
+        "title": "Greatest Hits", "type": "Album"}], "title": "Go All the Way"}, {"artists":
+        [{"id": "01b405ae-8ca2-4dbe-8a30-0587b597f598", "name": "The Raspberries"}],
+        "duration": 203, "id": "1794a3c2-779f-4358-bd12-e3c1ea2a8c22", "releasegroups":
+        [{"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various
+        Artists"}], "id": "bcceb6f4-2508-3e0e-9187-624fb2ae10a9", "secondarytypes":
+        ["Compilation"], "title": "Suddenly ''70s", "type": "Album"}], "title": "Go
+        All the Way"}, {"artists": [{"id": "01b405ae-8ca2-4dbe-8a30-0587b597f598",
+        "name": "Raspberries"}], "duration": 201, "id": "20b4c281-8820-47b9-a018-af3f98faad4b",
+        "releasegroups": [{"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "e4230957-024f-3d24-8032-258d719f314c",
+        "secondarytypes": ["Compilation"], "title": "The Ultimate Jukebox Hits of
+        the 70s", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "8e712bfc-9059-43ef-aed2-9b0f751d001f",
+        "secondarytypes": ["Compilation"], "title": "Rock & Roll''s Greatest Hits
+        of the 70''s Volume 1"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "9cb4d0a6-880b-455a-908f-49cb4ae42b8e",
+        "secondarytypes": ["Compilation"], "title": "Lost and Found in the Seventies:
+        Songs You Never Forget", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "89684c27-0765-4372-bac8-a62a9a498e81",
+        "secondarytypes": ["Compilation"], "title": "Ultimate Power of the 70s, Vol
+        2", "type": "Album"}], "title": "Go All the Way"}, {"id": "2f6fc5b3-f70b-4810-b1fa-e2af72e3131f"},
+        {"artists": [{"id": "01b405ae-8ca2-4dbe-8a30-0587b597f598", "name": "The Raspberries"}],
+        "duration": 201, "id": "31a8a5c0-7427-45ed-961b-605039d8fc0c", "releasegroups":
+        [{"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various
+        Artists"}], "id": "8e6cf73d-5d3e-3395-84d4-6c928c4719c4", "secondarytypes":
+        ["Compilation"], "title": "Ultimate Power of Supergroups", "type": "Album"}],
+        "title": "Go All the Way"}, {"artists": [{"id": "01b405ae-8ca2-4dbe-8a30-0587b597f598",
+        "name": "Raspberries"}], "duration": 198, "id": "37834107-2bb0-4cfa-953d-92255e91c9e6",
+        "releasegroups": [{"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "161e368f-66d0-4163-9974-9c6da4b11c3e",
+        "secondarytypes": ["Compilation"], "title": "101 70s Rock Anthems", "type":
+        "Album"}], "title": "Go All the Way"}, {"artists": [{"id": "01b405ae-8ca2-4dbe-8a30-0587b597f598",
+        "name": "The Raspberries"}], "duration": 202, "id": "3cc16243-33f0-4738-a525-604228dc384b",
+        "releasegroups": [{"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "9c6a986f-1e94-4859-9020-6af80cb9eeb3",
+        "secondarytypes": ["Compilation"], "title": "Guitar Rock: Power Rock", "type":
+        "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name":
+        "Various Artists"}], "id": "57008478-5bbe-3483-b887-add1fae1a774", "secondarytypes":
+        ["Compilation"], "title": "Guitar Rock: Greatest Hits, Volume 2", "type":
+        "Album"}], "title": "Go All the Way"}, {"artists": [{"id": "01b405ae-8ca2-4dbe-8a30-0587b597f598",
+        "name": "The Raspberries"}], "duration": 202, "id": "40f459de-d82b-40bf-9807-d32926ad82c5",
+        "releasegroups": [{"id": "cd536afc-8432-3a9e-8ab3-ae89791b40fd", "secondarytypes":
+        ["Compilation"], "title": "Overnight Sensation: The Very Best of the Raspberries",
+        "type": "Album"}], "title": "Go All the Way"}, {"artists": [{"id": "01b405ae-8ca2-4dbe-8a30-0587b597f598",
+        "name": "The Raspberries"}], "duration": 200, "id": "47048677-c15b-4b7a-9c51-fc3443b38a86",
+        "releasegroups": [{"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "813bf728-a84c-389b-aa2b-dda071f7d77e",
+        "secondarytypes": ["Compilation"], "title": "Power Pop Anthems", "type": "Album"}],
+        "title": "Go All the Way"}, {"artists": [{"id": "01b405ae-8ca2-4dbe-8a30-0587b597f598",
+        "name": "The Raspberries"}], "duration": 199, "id": "5109db2b-e7a5-43fe-b507-66bfcecd293e",
+        "releasegroups": [{"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "49434a6a-c600-4391-85b7-3299eeeebcc9",
+        "secondarytypes": ["Compilation"], "title": "1000 Original Hits: 1972", "type":
+        "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name":
+        "Various Artists"}], "id": "448e17f6-8c7c-4100-ad10-710b0d8acbc7", "secondarytypes":
+        ["Compilation"], "title": "101 One Hit Wonders", "type": "Album"}], "title":
+        "Go All the Way"}, {"artists": [{"id": "01b405ae-8ca2-4dbe-8a30-0587b597f598",
+        "name": "The Raspberries"}], "duration": 202, "id": "573069c2-3b6e-4af6-86e9-e37c01a80998",
+        "releasegroups": [{"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "907282e3-4eaa-30ed-9669-42f50a68a0d0",
+        "secondarytypes": ["Compilation"], "title": "Legends: Ultimate Rock Collection:
+        Gimme Some Lovin''", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "b966668b-fc98-34b9-aee4-d052ee019f4a",
+        "secondarytypes": ["Compilation"], "title": "Guitar Rock: The Early ''70s",
+        "type": "Album"}], "title": "Go All the Way"}, {"artists": [{"id": "01b405ae-8ca2-4dbe-8a30-0587b597f598",
+        "name": "Raspberries"}], "duration": 201, "id": "6de5f61a-15e1-4d95-83e6-b063cfacf79c",
+        "releasegroups": [{"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "c394ca77-1697-3054-af39-2f8b8315eaba",
+        "secondarytypes": ["Compilation"], "title": "Big Hits of the 70s", "type":
+        "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name":
+        "Various Artists"}], "id": "950092d6-45f6-4269-87da-99a9ff2fcc52", "secondarytypes":
+        ["Compilation", "Soundtrack"], "title": "Guardians of the Galaxy: Awesome
+        Mix, Vol. 1: Original Motion Picture Soundtrack", "type": "Album"}, {"artists":
+        [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}],
+        "id": "cb4e034d-faa9-431b-93dd-70dee94241f4", "secondarytypes": ["Compilation"],
+        "title": "Ultimate Seventies: 1972", "type": "Album"}, {"artists": [{"id":
+        "03cfec4a-9885-444c-9e74-5fbab5861106", "name": "Tyler Bates"}], "id": "e974e9ae-1933-45a5-8f3e-230ccb1759c8",
+        "secondarytypes": ["Compilation", "Soundtrack"], "title": "Guardians of the
+        Galaxy: Deluxe", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "e45566a7-9d5d-4bd6-9c90-5ae532d97a90",
+        "secondarytypes": ["Compilation"], "title": "Rock of the Seventies", "type":
+        "Album"}, {"artists": [{"id": "4e6daf86-a5c9-42ea-9bd2-9482a71c38d4", "name":
+        "Eric Carmen"}], "id": "d90cd01c-3cee-3553-9706-08ffdd9ab90a", "secondarytypes":
+        ["Compilation"], "title": "The Definitive Collection", "type": "Album"}, {"artists":
+        [{"id": "01b405ae-8ca2-4dbe-8a30-0587b597f598", "name": "The Raspberries"}],
+        "id": "b14167e2-6365-39a6-a06d-051408e6cfa3", "secondarytypes": ["Compilation"],
+        "title": "Raspberries Greatest", "type": "Album"}, {"artists": [{"id": "01b405ae-8ca2-4dbe-8a30-0587b597f598",
+        "name": "The Raspberries"}], "id": "4c7f72ad-7da6-32da-918f-737ea0adf6cb",
+        "secondarytypes": ["Compilation"], "title": "Power Pop, Volume One: Raspberries
+        / Fresh Raspberries", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "351acce2-ce5e-3966-a98e-9e77b070d1c3",
+        "secondarytypes": ["Compilation"], "title": "Allstar Contact: The Ultimate
+        Hockey Album", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "30c3fe20-331a-3e54-824f-1c412532ea52",
+        "secondarytypes": ["Compilation"], "title": "Poptopia! Power Pop Classics
+        of the \u201970s", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "7328f513-6a5e-49b7-bb25-e6b2f9927fb9",
+        "secondarytypes": ["Compilation"], "title": "Vintage Pop", "type": "Album"},
+        {"artists": [{"id": "01b405ae-8ca2-4dbe-8a30-0587b597f598", "name": "Raspberries"}],
+        "id": "568336bc-1bd0-4dbe-9e0c-14c300caf0bb", "secondarytypes": ["Compilation"],
+        "title": "Classic Album Set", "type": "Album"}, {"artists": [{"id": "4e6daf86-a5c9-42ea-9bd2-9482a71c38d4",
+        "name": "Eric Carmen"}], "id": "56f4292a-567e-4040-9c10-21a98a08ae7c", "secondarytypes":
+        ["Compilation"], "title": "The Essential Eric Carmen", "type": "Album"}, {"artists":
+        [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}],
+        "id": "ff265fb6-8119-3aa4-83e5-e6558e6f70ef", "secondarytypes": ["Compilation"],
+        "title": "The Number Ones: The 70''s", "type": "Album"}, {"artists": [{"id":
+        "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}], "id":
+        "a167be07-7468-39ca-bcf4-4f39ef252c96", "secondarytypes": ["Compilation"],
+        "title": "101 Driving Songs", "type": "Album"}, {"artists": [{"id": "01b405ae-8ca2-4dbe-8a30-0587b597f598",
+        "name": "Raspberries"}], "id": "141a2627-4be0-3478-b0a0-2f4a5c925fbb", "title":
+        "Raspberries", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "b9b3fff3-e0ff-3bc2-adeb-68f4e754aa95",
+        "secondarytypes": ["Compilation"], "title": "Rock of the Seventies, Volume
+        3", "type": "Album"}, {"artists": [{"id": "01b405ae-8ca2-4dbe-8a30-0587b597f598",
+        "name": "The Raspberries"}], "id": "7b0b0715-0c9c-3ad2-adb6-2f95f36d0a3b",
+        "secondarytypes": ["Compilation"], "title": "Capitol Collectors Series", "type":
+        "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name":
+        "Various Artists"}], "id": "d3f71706-e95a-310d-949b-024c5bdaac8d", "secondarytypes":
+        ["Compilation"], "title": "Sounds of the Seventies: 1972", "type": "Album"},
+        {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various
+        Artists"}], "id": "0ae4fca3-a1f5-492f-ac4d-db1406a05684", "secondarytypes":
+        ["Compilation"], "title": "Pop Goes the 70''s: Magic", "type": "Album"}, {"artists":
+        [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}],
+        "id": "5a1e0e6e-5e01-4003-8728-ece06e84b576", "secondarytypes": ["Compilation"],
+        "title": "70s Pop Anthems", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "181ea0eb-ac98-303b-9c30-42032061859e",
+        "secondarytypes": ["Compilation"], "title": "AM Gold: Teen Idols of the ''70s",
+        "type": "Album"}], "title": "Go All the Way"}, {"artists": [{"id": "01b405ae-8ca2-4dbe-8a30-0587b597f598",
+        "name": "The Raspberries"}], "duration": 202, "id": "7db07f0f-140b-4b63-bbd9-c2e8d9de3ace",
+        "releasegroups": [{"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "d8316e01-88ee-3d7d-b760-07f7b8054fcd",
+        "secondarytypes": ["Compilation"], "title": "70s Music Explosion: Magic",
+        "type": "Album"}], "title": "Go All the Way"}, {"artists": [{"id": "01b405ae-8ca2-4dbe-8a30-0587b597f598",
+        "name": "The Raspberries"}], "duration": 202, "id": "81950f60-8436-40d8-93ec-7f5ba0073b44",
+        "releasegroups": [{"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "03a8e51a-57fd-48a6-811c-923ccd760f71",
+        "secondarytypes": ["Compilation"], "title": "100 Hits: Driving Rock", "type":
+        "Album"}], "title": "Go All the Way"}, {"artists": [{"id": "01b405ae-8ca2-4dbe-8a30-0587b597f598",
+        "name": "The Raspberries"}], "duration": 202, "id": "9235ad43-4483-4e3b-a232-f094fe80fd14",
+        "releasegroups": [{"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "99b17c42-32e4-485c-9a84-762b7d8e4f42",
+        "secondarytypes": ["Compilation"], "title": "Sounds of the Seventies: Super
+        70s", "type": "Album"}], "title": "Go All the Way"}, {"artists": [{"id": "4e6daf86-a5c9-42ea-9bd2-9482a71c38d4",
+        "name": "Eric Carmen"}], "duration": 195, "id": "9a64a6c0-6a91-422f-b7aa-245504b39a74",
+        "releasegroups": [{"artists": [{"id": "4e6daf86-a5c9-42ea-9bd2-9482a71c38d4",
+        "name": "Eric Carmen"}], "id": "d90cd01c-3cee-3553-9706-08ffdd9ab90a", "secondarytypes":
+        ["Compilation"], "title": "The Definitive Collection", "type": "Album"}, {"id":
+        "56f4292a-567e-4040-9c10-21a98a08ae7c", "secondarytypes": ["Compilation"],
+        "title": "The Essential Eric Carmen", "type": "Album"}], "title": "The Way
+        We Used to Be"}, {"artists": [{"id": "01b405ae-8ca2-4dbe-8a30-0587b597f598",
+        "name": "The Raspberries"}], "duration": 190, "id": "9f11b7e3-bbfa-40e9-bbfd-c388213d64c0",
+        "releasegroups": [{"id": "ddf639d9-0f04-367d-bffd-055ae57d7eb9", "title":
+        "Go All the Way / With You in My Life", "type": "Single"}], "title": "Go All
+        the Way"}, {"artists": [{"id": "01b405ae-8ca2-4dbe-8a30-0587b597f598", "name":
+        "The Raspberries"}], "duration": 202, "id": "ae50a22d-df78-4bdb-8d97-e98441bb90fd",
+        "releasegroups": [{"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "f2e33290-c073-3879-b693-146504b88092",
+        "secondarytypes": ["Compilation"], "title": "I Love Rock & Roll: Hits of the
+        70''s, Volume 3", "type": "Album"}], "title": "Go All the Way"}, {"artists":
+        [{"id": "01b405ae-8ca2-4dbe-8a30-0587b597f598", "name": "The Raspberries"}],
+        "duration": 202, "id": "bce50984-b568-433a-b2c0-430c4cdbc524", "releasegroups":
+        [{"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various
+        Artists"}], "id": "79e49fee-8b0d-38a5-ad4b-5a7e0c64b9c1", "secondarytypes":
+        ["Compilation"], "title": "Suddenly \u201970s", "type": "Album"}], "title":
+        "(Hey Baby) Go All the Way"}, {"artists": [{"id": "01b405ae-8ca2-4dbe-8a30-0587b597f598",
+        "name": "The Raspberries"}], "duration": 201, "id": "c2969e78-4e3d-4471-81db-c4ea25561093",
+        "releasegroups": [{"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "0e082612-8e82-4ee1-a483-426ffe968bea",
+        "secondarytypes": ["Compilation"], "title": "The Complete Classic Rock Collection",
+        "type": "Album"}], "title": "Go All the Way"}, {"artists": [{"id": "01b405ae-8ca2-4dbe-8a30-0587b597f598",
+        "name": "The Raspberries"}], "duration": 201, "id": "c9dee31d-1983-4cda-a78a-0d3c95bb6127",
+        "releasegroups": [{"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "097f53b6-63c6-473d-8104-3f8e768d2cc0",
+        "secondarytypes": ["Compilation"], "title": "Entertainment Weekly: The Greatest
+        Hits 1972", "type": "Album"}], "title": "Go All the Way"}, {"id": "d38d2218-2d0d-46cd-8cfb-f9e961c5fcbf"},
+        {"artists": [{"id": "01b405ae-8ca2-4dbe-8a30-0587b597f598", "name": "The Raspberries"}],
+        "duration": 199, "id": "ea5405b1-212b-4a66-90fe-c677e763ac24", "releasegroups":
+        [{"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various
+        Artists"}], "id": "a23a7c6f-961b-32c3-9e7f-f84bc01fa854", "secondarytypes":
+        ["Compilation"], "title": "Arrow 97.9 All Rock & Roll Oldies, Volume 1", "type":
+        "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name":
+        "Various Artists"}], "id": "79c07f2c-4429-3649-b635-ea4e2e558c72", "secondarytypes":
+        ["Compilation"], "title": "70s Flashback", "type": "Album"}], "title": "Go
+        All the Way"}, {"artists": [{"id": "01b405ae-8ca2-4dbe-8a30-0587b597f598",
+        "name": "The Raspberries"}], "duration": 202, "id": "fd3aa754-c669-4d51-8baf-4f2ef3800a23",
+        "releasegroups": [{"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "752bc3c8-709a-4db3-87e3-38f2359f6c67",
+        "secondarytypes": ["Compilation"], "title": "Capitol Records 50th Anniversary
+        1942\u20131992", "type": "Album"}], "title": "Go All the Way"}], "score":
+        0.997495}, {"id": "ac913e53-a5ee-46d5-922c-0fde965d7142", "recordings": [{"artists":
+        [{"id": "e57f0cac-4f56-473c-8d7e-d93f753fd586", "name": "Steve Miller Band"}],
+        "duration": 216, "id": "2e107123-00c5-4f36-ba17-881410f3a2e0", "releasegroups":
+        [{"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various
+        Artists"}], "id": "e92d9093-7eb8-3db6-876d-87cbcd132e23", "secondarytypes":
+        ["Compilation"], "title": "Capital Gold: Platinum Legends", "type": "Album"},
+        {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various
+        Artists"}], "id": "6564dee4-f90c-3e8b-b127-7bcd17d3f4a6", "secondarytypes":
+        ["Compilation"], "title": "Sounds of the Seventies: 1974, Take Two", "type":
+        "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name":
+        "Various Artists"}], "id": "6080f7bc-77d4-3a8d-a100-0286b89b9896", "secondarytypes":
+        ["Compilation"], "title": "Now That\u2019s What I Call Music Years", "type":
+        "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name":
+        "Various Artists"}], "id": "16240b61-b46e-45ce-b3da-c05da1719576", "secondarytypes":
+        ["Compilation"], "title": "Now That\u2019s What I Call the 90s", "type": "Album"},
+        {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various
+        Artists"}], "id": "8bb475f3-062e-3d15-85bf-3afc0016fcc4", "secondarytypes":
+        ["Compilation"], "title": "#1s: 38 of the Greatest #1 Singles of All Time",
+        "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "516245eb-a9ed-30a3-b4a2-af52d10b6692",
+        "secondarytypes": ["Compilation"], "title": "Billboard Top Rock\u2019n\u2019Roll
+        Hits: 1974", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "800d79b5-87fc-3522-bd09-1b243902ce0e",
+        "secondarytypes": ["Compilation"], "title": "The Ultimate Rock Collection:
+        Gold and Platinum", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "a11ae550-b8c6-3313-a81e-5fe1aac716df",
+        "secondarytypes": ["Compilation"], "title": "101 Jukebox Classics", "type":
+        "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name":
+        "Various Artists"}], "id": "0c16e2fa-e8c7-453d-afc6-e49de0ad034d", "secondarytypes":
+        ["Compilation"], "title": "The Rock Album", "type": "Album"}, {"artists":
+        [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}],
+        "id": "3ff8e329-424a-4c5a-8ae2-7a3709f5d827", "secondarytypes": ["Compilation"],
+        "title": "Dad Rocks!", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "b9ad786e-fc32-35de-87ff-641a6a48c7b7",
+        "secondarytypes": ["Compilation"], "title": "The Best No. 1 Singles in the
+        World \u2026Ever!", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "d758e95b-d1f0-3a2e-ada6-9558ec0f99ad",
+        "secondarytypes": ["Compilation"], "title": "Check This Out 4", "type": "Album"},
+        {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various
+        Artists"}], "id": "c14385ac-0d33-479c-a36d-211a1d07aaa5", "secondarytypes":
+        ["Compilation"], "title": "Classic Road Trip", "type": "Album"}, {"artists":
+        [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}],
+        "id": "e8ebfcd2-9d32-3324-ab1a-c3d290a6b723", "secondarytypes": ["Compilation"],
+        "title": "BBC Radio 2 Presents the Playlist", "type": "Album"}, {"artists":
+        [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}],
+        "id": "bc87164c-abb0-392f-9e9a-04f3031d3971", "secondarytypes": ["Compilation"],
+        "title": "Het beste uit de Top 40 van ''90", "type": "Album"}, {"artists":
+        [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}],
+        "id": "be2ba4bb-3235-45c3-a4db-8e173cd9eaec", "secondarytypes": ["Compilation"],
+        "title": "NOW 100 Hits: Classic Rock", "type": "Album"}, {"artists": [{"id":
+        "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}], "id":
+        "48d6e332-8a9a-332a-a54e-de2d6171cf57", "secondarytypes": ["Compilation"],
+        "title": "The No.1 DJ Collection: 90''s, Volume 1", "type": "Album"}, {"artists":
+        [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}],
+        "id": "defb35ac-d050-4364-997d-7220993325cb", "secondarytypes": ["Compilation"],
+        "title": "DIY Songs", "type": "Album"}, {"artists": [{"id": "e57f0cac-4f56-473c-8d7e-d93f753fd586",
+        "name": "Steve Miller Band"}], "id": "12a6deb4-9158-4d1d-b74d-6a53435f860f",
+        "title": "The Joker", "type": "Single"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "d82989aa-ee17-3f60-ae4d-2b887222f09f",
+        "secondarytypes": ["Compilation"], "title": "Drive Time USA", "type": "Album"},
+        {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various
+        Artists"}], "id": "977377ba-ca15-3f4a-9234-075d2f89da45", "secondarytypes":
+        ["Compilation"], "title": "School Reunion: The Party", "type": "Album"}, {"artists":
+        [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}],
+        "id": "fda2bc89-ffa1-315c-854b-4ff76b9d858e", "secondarytypes": ["Compilation"],
+        "title": "Absolute Seventies", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "4c2146cf-f296-386e-a834-d1938488e5bd",
+        "secondarytypes": ["Compilation"], "title": "Dad Rocks!", "type": "Album"},
+        {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various
+        Artists"}], "id": "55dd5630-b1ea-3e80-891e-feb71b282617", "secondarytypes":
+        ["Compilation"], "title": "Soft Rock Ballads", "type": "Album"}, {"artists":
+        [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}],
+        "id": "bdbe585b-e15a-4b38-97bb-34fd1c5ad9e3", "secondarytypes": ["Compilation"],
+        "title": "After Midnight: 34 Laidback Tracks", "type": "Album"}, {"artists":
+        [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}],
+        "id": "516954f6-8d17-34de-92b4-023c66e8480b", "secondarytypes": ["Compilation"],
+        "title": "Now That\u2019s What I Call Music! 18", "type": "Album"}, {"artists":
+        [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}],
+        "id": "8f901a2c-3841-3b87-b423-8d6573698fa7", "secondarytypes": ["Compilation"],
+        "title": "The Original: Songs From Levi''s Commercials", "type": "Album"},
+        {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various
+        Artists"}], "id": "5cc80fce-03ce-4e46-a997-82a74858545d", "secondarytypes":
+        ["Compilation"], "title": "The No.1 DJ Collection: 90s (Digital Collection)",
+        "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "c5c1d47a-f5c0-301c-ad94-68c77d286ba3",
+        "secondarytypes": ["Compilation"], "title": "101 Number Ones", "type": "Album"},
+        {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various
+        Artists"}], "id": "00d1986c-9a61-4092-8187-896be48e3309", "secondarytypes":
+        ["Compilation"], "title": "Songs 2: Best of Westcoast", "type": "Album"},
+        {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various
+        Artists"}], "id": "378220aa-dca9-41a8-b3ac-fe645bd3f490", "secondarytypes":
+        ["Compilation"], "title": "Casey Kasem Presents America\u2019s Top Ten 1970s:
+        Rock\u2019s Greatest Hits", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "a167be07-7468-39ca-bcf4-4f39ef252c96",
+        "secondarytypes": ["Compilation"], "title": "101 Driving Songs", "type": "Album"},
+        {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various
+        Artists"}], "id": "cc98d88a-660c-44cb-88bf-b328d2439d16", "secondarytypes":
+        ["Compilation"], "title": "Legends: Ultimate Rock Collection: Do It Again",
+        "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "33948082-5bde-4673-9cc5-ba924fdc62e4",
+        "secondarytypes": ["Compilation"], "title": "Now That\u2019s What I Call Classic
+        Rock", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "67043275-075f-3156-80ff-fe1a0a0fba96",
+        "secondarytypes": ["Compilation"], "title": "Absolute Rock Classics", "type":
+        "Album"}, {"artists": [{"id": "e57f0cac-4f56-473c-8d7e-d93f753fd586", "name":
+        "Steve Miller Band"}], "id": "40707324-55f5-337e-adc5-c3f90bb9005a", "title":
+        "The Joker", "type": "Single"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "25366f4a-af98-3b15-b154-1ce1cef5ae44",
+        "secondarytypes": ["Compilation"], "title": "I \u2665 TV ADs: The Cool Sounds
+        of TV Advertising", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "5b689802-0aab-4331-b098-4d5231c8cd74",
+        "secondarytypes": ["Compilation"], "title": "They Sold a Million", "type":
+        "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name":
+        "Various Artists"}], "id": "cfde33a1-2402-3643-8efb-e489662f1550", "secondarytypes":
+        ["Compilation"], "title": "While My Guitar Gently Weeps, Volume 2", "type":
+        "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name":
+        "Various Artists"}], "id": "bdb4e2d8-fdc1-4afd-915f-d224bc6e55d5", "secondarytypes":
+        ["Compilation"], "title": "Weekend Magic", "type": "Album"}, {"artists": [{"id":
+        "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}], "id":
+        "fd428407-0e7d-4c12-89c8-f1f0c8fdf39a", "secondarytypes": ["Compilation"],
+        "title": "The Best Rock Anthems ...Ever!", "type": "Album"}, {"artists": [{"id":
+        "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}], "id":
+        "8db3b1c7-cb24-3e38-ac06-35a31d559a46", "secondarytypes": ["Compilation"],
+        "title": "I Love Dad", "type": "Album"}, {"artists": [{"id": "e57f0cac-4f56-473c-8d7e-d93f753fd586",
+        "name": "The Steve Miller Band"}], "id": "3f14d1a9-74c6-3b35-a2f1-211d67e1ff19",
+        "secondarytypes": ["Compilation"], "title": "Greatest Hits 1974\u201378",
+        "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "38921aef-bc0e-3b4e-8534-4fddc73587ec",
+        "secondarytypes": ["Compilation"], "title": "Millennium Gold", "type": "Album"},
+        {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various
+        Artists"}], "id": "ce228e20-eb42-3479-aaf6-e09c189dabb4", "secondarytypes":
+        ["Compilation"], "title": "Take It Easy", "type": "Album"}, {"artists": [{"id":
+        "e57f0cac-4f56-473c-8d7e-d93f753fd586", "name": "Steve Miller Band"}], "id":
+        "9bd05e97-d2b6-3578-a7a6-87a0c60d2f83", "secondarytypes": ["Compilation"],
+        "title": "Greatest Hits", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "49c0f316-fa76-38c2-9e65-64d140a398d9",
+        "secondarytypes": ["Compilation"], "title": "Driving Rock Ballads", "type":
+        "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name":
+        "Various Artists"}], "id": "46db1fd8-a1c9-3273-a5f2-8274ba21011c", "secondarytypes":
+        ["Compilation"], "title": "Power and the Glory", "type": "Album"}], "title":
+        "The Joker"}, {"artists": [{"id": "01b405ae-8ca2-4dbe-8a30-0587b597f598",
+        "name": "The Raspberries"}], "duration": 202, "id": "573069c2-3b6e-4af6-86e9-e37c01a80998",
+        "releasegroups": [{"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "907282e3-4eaa-30ed-9669-42f50a68a0d0",
+        "secondarytypes": ["Compilation"], "title": "Legends: Ultimate Rock Collection:
+        Gimme Some Lovin''", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "b966668b-fc98-34b9-aee4-d052ee019f4a",
+        "secondarytypes": ["Compilation"], "title": "Guitar Rock: The Early ''70s",
+        "type": "Album"}], "title": "Go All the Way"}, {"artists": [{"id": "01b405ae-8ca2-4dbe-8a30-0587b597f598",
+        "name": "Raspberries"}], "duration": 201, "id": "6de5f61a-15e1-4d95-83e6-b063cfacf79c",
+        "releasegroups": [{"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "c394ca77-1697-3054-af39-2f8b8315eaba",
+        "secondarytypes": ["Compilation"], "title": "Big Hits of the 70s", "type":
+        "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name":
+        "Various Artists"}], "id": "950092d6-45f6-4269-87da-99a9ff2fcc52", "secondarytypes":
+        ["Compilation", "Soundtrack"], "title": "Guardians of the Galaxy: Awesome
+        Mix, Vol. 1: Original Motion Picture Soundtrack", "type": "Album"}, {"artists":
+        [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}],
+        "id": "cb4e034d-faa9-431b-93dd-70dee94241f4", "secondarytypes": ["Compilation"],
+        "title": "Ultimate Seventies: 1972", "type": "Album"}, {"artists": [{"id":
+        "03cfec4a-9885-444c-9e74-5fbab5861106", "name": "Tyler Bates"}], "id": "e974e9ae-1933-45a5-8f3e-230ccb1759c8",
+        "secondarytypes": ["Compilation", "Soundtrack"], "title": "Guardians of the
+        Galaxy: Deluxe", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "e45566a7-9d5d-4bd6-9c90-5ae532d97a90",
+        "secondarytypes": ["Compilation"], "title": "Rock of the Seventies", "type":
+        "Album"}, {"artists": [{"id": "4e6daf86-a5c9-42ea-9bd2-9482a71c38d4", "name":
+        "Eric Carmen"}], "id": "d90cd01c-3cee-3553-9706-08ffdd9ab90a", "secondarytypes":
+        ["Compilation"], "title": "The Definitive Collection", "type": "Album"}, {"artists":
+        [{"id": "01b405ae-8ca2-4dbe-8a30-0587b597f598", "name": "The Raspberries"}],
+        "id": "b14167e2-6365-39a6-a06d-051408e6cfa3", "secondarytypes": ["Compilation"],
+        "title": "Raspberries Greatest", "type": "Album"}, {"artists": [{"id": "01b405ae-8ca2-4dbe-8a30-0587b597f598",
+        "name": "The Raspberries"}], "id": "4c7f72ad-7da6-32da-918f-737ea0adf6cb",
+        "secondarytypes": ["Compilation"], "title": "Power Pop, Volume One: Raspberries
+        / Fresh Raspberries", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "351acce2-ce5e-3966-a98e-9e77b070d1c3",
+        "secondarytypes": ["Compilation"], "title": "Allstar Contact: The Ultimate
+        Hockey Album", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "30c3fe20-331a-3e54-824f-1c412532ea52",
+        "secondarytypes": ["Compilation"], "title": "Poptopia! Power Pop Classics
+        of the \u201970s", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "7328f513-6a5e-49b7-bb25-e6b2f9927fb9",
+        "secondarytypes": ["Compilation"], "title": "Vintage Pop", "type": "Album"},
+        {"artists": [{"id": "01b405ae-8ca2-4dbe-8a30-0587b597f598", "name": "Raspberries"}],
+        "id": "568336bc-1bd0-4dbe-9e0c-14c300caf0bb", "secondarytypes": ["Compilation"],
+        "title": "Classic Album Set", "type": "Album"}, {"artists": [{"id": "4e6daf86-a5c9-42ea-9bd2-9482a71c38d4",
+        "name": "Eric Carmen"}], "id": "56f4292a-567e-4040-9c10-21a98a08ae7c", "secondarytypes":
+        ["Compilation"], "title": "The Essential Eric Carmen", "type": "Album"}, {"artists":
+        [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}],
+        "id": "ff265fb6-8119-3aa4-83e5-e6558e6f70ef", "secondarytypes": ["Compilation"],
+        "title": "The Number Ones: The 70''s", "type": "Album"}, {"artists": [{"id":
+        "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}], "id":
+        "a167be07-7468-39ca-bcf4-4f39ef252c96", "secondarytypes": ["Compilation"],
+        "title": "101 Driving Songs", "type": "Album"}, {"artists": [{"id": "01b405ae-8ca2-4dbe-8a30-0587b597f598",
+        "name": "Raspberries"}], "id": "141a2627-4be0-3478-b0a0-2f4a5c925fbb", "title":
+        "Raspberries", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "b9b3fff3-e0ff-3bc2-adeb-68f4e754aa95",
+        "secondarytypes": ["Compilation"], "title": "Rock of the Seventies, Volume
+        3", "type": "Album"}, {"artists": [{"id": "01b405ae-8ca2-4dbe-8a30-0587b597f598",
+        "name": "The Raspberries"}], "id": "7b0b0715-0c9c-3ad2-adb6-2f95f36d0a3b",
+        "secondarytypes": ["Compilation"], "title": "Capitol Collectors Series", "type":
+        "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name":
+        "Various Artists"}], "id": "d3f71706-e95a-310d-949b-024c5bdaac8d", "secondarytypes":
+        ["Compilation"], "title": "Sounds of the Seventies: 1972", "type": "Album"},
+        {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various
+        Artists"}], "id": "0ae4fca3-a1f5-492f-ac4d-db1406a05684", "secondarytypes":
+        ["Compilation"], "title": "Pop Goes the 70''s: Magic", "type": "Album"}, {"artists":
+        [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}],
+        "id": "5a1e0e6e-5e01-4003-8728-ece06e84b576", "secondarytypes": ["Compilation"],
+        "title": "70s Pop Anthems", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "181ea0eb-ac98-303b-9c30-42032061859e",
+        "secondarytypes": ["Compilation"], "title": "AM Gold: Teen Idols of the ''70s",
+        "type": "Album"}], "title": "Go All the Way"}, {"artists": [{"id": "fcc0e623-435b-4a46-b9b3-73823e22e1ec",
+        "name": "Dr. Feelgood"}], "duration": 197, "id": "8a0e85bf-3a83-4b43-9303-513eb6674db0",
+        "releasegroups": [{"artists": [{"id": "fcc0e623-435b-4a46-b9b3-73823e22e1ec",
+        "name": "Dr. Feelgood"}], "id": "adf41a71-a86b-333f-bd4d-9438162e682d", "secondarytypes":
+        ["Compilation"], "title": "Looking Back", "type": "Album"}, {"artists": [{"id":
+        "fcc0e623-435b-4a46-b9b3-73823e22e1ec", "name": "Dr. Feelgood"}], "id": "326bfd10-93e1-3064-88ca-dff49a2f5da7",
+        "secondarytypes": ["Compilation"], "title": "Singles", "type": "Album"}, {"id":
+        "aa5259f2-3a64-4b66-ac07-a7aac4a1cb8d", "secondarytypes": ["Compilation"],
+        "title": "Singled Out", "type": "Album"}], "title": "As Long as the Price
+        Is Right"}, {"artists": [{"id": "01b405ae-8ca2-4dbe-8a30-0587b597f598", "name":
+        "The Raspberries"}], "duration": 201, "id": "c2969e78-4e3d-4471-81db-c4ea25561093",
+        "releasegroups": [{"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "0e082612-8e82-4ee1-a483-426ffe968bea",
+        "secondarytypes": ["Compilation"], "title": "The Complete Classic Rock Collection",
+        "type": "Album"}], "title": "Go All the Way"}], "score": 0.990902}], "status":
+        "ok"}'
+    http_version:
+  recorded_at: Tue, 29 Jun 2021 13:47:59 GMT
+recorded_with: VCR 3.0.3

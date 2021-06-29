@@ -1,0 +1,51 @@
+---
+http_interactions:
+- request:
+    method: get
+    uri: https://api.acoustid.org/v2/lookup?client=<ACOUSTID_CLIENT_ID>&duration=257&fingerprint=AQADtIn0TEuSRMh9fMMpyUWjUhoqaiquHb0g1gk8fkSZPMZx8ZjmRUFTHnyO_NC4DxYZ4lHwC1ly9HWwPbis4TquC1e0OfCH-2iqEL_w8Eg6HSGfEf6jEC6toD_C_NCkPMjDPfglnC6quhG8U0KPnEjMDNVGF__wH7l-JLmqrXg-bFlvlA_uH1fRbUTSZjnSH-Vz_A--BKckI7wSIllU_HhyMfiJSm_gEz9OBcfTCT6PuBeebWie4T9OLRrCjnAn5OeGhwmPXyW0OCRxH0f4HM1zXOLxF41KHrfioHl6XEd3-D18Bj2edchj6Ecf5HiOJ8qOPjXq40R6aNRxSUceHb8Ev8OJTzLi1vjxQ_vhxzi2KxZ-fMjxwXrgscO-wz9eXBKuCLkO_eiPvMI5lEnSFXmgzSrCH03cE__xcPjRVETP1Xho4Me14B9O4-jKwB_y4zrkD7mPF_7xbDg-P8OP84ZzaI-OK3jwZJSLM5ic4B78oPNxPMVHIedy9IdbXLhwyA9y-IvxZTv-42mMD7sK5xn64IecLnj2o86Pz4fPHP1xHW-MZ8cj6Qi7BT5xHb_w1khunCH88LiKh8d_vHC443FQfciR-MEz_MHI5GCuPPhgnPiD3_iRM_iP83gaCD6DPMMFZ5NwePLxCLzxIDqSnTiD_sL144HDLSd6nDp-XBHyBNqSDzkpD4czHj96_Kht_AlCZkfyGz-Pjz3OfPgvNEtPlDtqMcWnRvg3-Mee5fBJlBLi57gDLcSRwxGOvYJd9Dj-48txRTi14N9wkUb7Iz2SH9_R2DcOv_iPJwvyJFCVHtqOH7F5vCz848dRlsaPHBp55C-Oo-LxMriJH32CdKdwScF29HhwDSp7dLlwfIO-48fhHy_e4HqgQ05hvA5y2D0uHUUlHdGeo2qI50TPEmGUNccTRRaO-gizHPpy5MqDfoMfXFFO9BG6mUKYt8ezREvwC80yIZKHOpnQPERJPTB5KShl3Edy40yO_BQa7ugjhUK4EeKO9EzRSwoeKcrxolk1or_wGckppUKeCz2sCjuZFOfRG3mgf0FYB03v4E1SBRePdFKhe8hDuByHL8J9NGeEvkLiXkKOH490rD06HlNOBjeOTw-SaleQB3eGrnTQpEyG03iioxlqHW8mRJJneIe2ZBfy5JhEG35a_NiLZvoQNxqernA4GrqIN0euo-lyETlRShX0Gxd35DmaWBv6Hz_K57DDIxQHbWVshKkbYRcuXUTPwE_Qf0huNsR35EcTU0d39IkMm0cyKdmDMJFRK8dPNH1xp_iFcII8PxnyZsQUBr0ORs6ewMWOKwmHw49ReQneV3iDR_Ce4quIPcj-QPHROEyFmiJy9Cma_cUZIydL1OmDhmM0Qb4QH222oPHU4DrRH346eFYRylES3CYO6zL04wgf-HiD72jWK0OeCxe0aD_64DiDSxdaHU0oZgwuHvnR-ESfpbjIozlRUsKjxHC2XHgo6UIeRhB_5Aoehqg9NEdXEk114ooe5NMOcZR85MuyBcdz9Mzxb0O_i7gt2MmPH8-CPPFU3BXOtmiPt7DE4_gFfUQ-vPB9PMOPn8F7wfXxHNpzXMGLhz3OY9oSPIW_Dz0u_EWOi8vRC9aPHyd-JA_8DP9xaTx-2A2-48f0JMFfQA95XPrRH66PM0e94z9ufPnwIwyf48QBHeHRsS9c_Mc_XAye8Mdz-Az6HfmRHG8wS0e56OC3HD5w_MUX5Ide3EeOA37wD6ekw89ynPAkBnUE5h7SL1CmIj-6MEvR33iOU4S_HJXxXXiMJ8OlI-Rz-MWN-MeRzD7Ch_CPR8H14_dx6hm-XfChfced5Dj-5HiyY3LwFP4-FMfxI6fQOoePtgC0GelxHh9x-YWdGt-Oo7ty7EkOJP-RJ8rSo-Ph-jjzo8f14z6eHJ929PBxFjdyD8maoyP8XCiFHtePh8GVww-6MsiH5HgcXMO6TAbD5_BxAS9eWAqOfMGh48BHOIygc8h8-MG1gT9-XCnGPEcT7shznDeUo4kyHY3CHCpDNghNCs1TXPmDh_qQJ6khhniM-NnwI4-UM8YcZYcW3Qg_4zfmJcez4xf8IDoFNanQfkPzSlA-5rijDmFuVOuGN8_QJPyCPiOOh0fIHc2fGPqW4zlJXFmOXNcw5fnRu8dxZSkxLYsOP4ikHz8uqCOaHaGUX8blYFcEKwuPPyue7GgeH_2Ri4ecJTqaJX2gZ0afjPiRSw8mqRecJKpahC90Il8StMfVMYIfC5X04uJV9MnRvNPxB2NhTsqKM8PvGWH-QBunhMh7XFlyXPrQ4FFiVBRF5Jn64tmFWjki5cebHGuU6LiyHLhBnfmRH4qZUgiZfUfTlMKD_2gelEcupdCJ8-h0nLCE87ih2Uf4w-7xSDUe4hu-w00_4Q-SPUO-fLhwBmePT8f0MMV3GP1xBzdy4zyYSMfx4CR0pK-Fg1t8vMRvuNHw4QqmKy-O_9CzLAVihAKKGaMAMoAQZoxhCAogEFBIKCIcEAgJIZxABgDgABCEMAEIAAIIJogAwECABAEGAAKMY0I4YYQESC4ACFCOAEIAAEAQgohAAAhDCQECEYCIUEwqJbQwRADCBBMAOEYcQwQZBhhCBlBDpEQEIAiUAEggoQAwhBAiCBNEUacIQkAAIgUwQClmiECKAoeIYVQQiiCjQgAmHHRECqCIIAhpYKghRgAjEHAEIquYEEQIAYkgAjBEIAJOUQoUYQwZIxwgwgBhFTCGEQMUcgAxigQjBCGgjAJKYaakIJQQyzBxTCEgCAJCAAIAc44AYgAQQFDQomXMAEcUEAAAwoBHTlDAEFCMMEKFE4R4Q6FBRBLWBCAGC6Qhs8ooo4A14hDGlDEQCCIQIs4IQBhwABjkEAIAAEacJEApQgRgTCigiKHAOCCcRoA6gQAAAkEvDFNOGCIIEUogkAQSgBGDlDDIIAeYE0QBCYQUABAAiQAMCYAIIIIQAhBkQBhBEFECCKIAEgYAgoYQxAhiCGJKCWCMUAQhJRBDACFQgGKECKWAEawggJAQTgkEGCMCSCCNokIJAAEBgwoHAAEIAOoYIgAIYyEhTClgCEhMKUEJIYwRRBQVhCOAHACIEEAQQxAYQABCDBFKCDSAECMAQMwhAYVCggAgDCSKGACIRggAhgABSkmBBBCIEWIUQsJAhAAAAAimhBBCIQWEE5YqZAADQiAXgGIGEISAEAYpZIgAlAhEEBWEWQEFUMoJQwAiIADEgDBCAMQAIMgIJZgQRiBHJEOIISQUopZBSoQQyBLGhJlCOESEQBAKAZBFgguEAABCGGlAAIAQAwwiBhLkDAIOOEKAokQhAwgDBBDBACGAiICQgRABBwARQBBiDGHOECAQAsAYwJCARAAhAAHCMAKIIEgASQwDgBiDBBIGGAoAUEwAygwAkDhgIHOCCKGcIGZQQgFRADKDhAKOCImoYEAYCRBwiiAAIhFQEAMA&meta=recordings%20releasegroups%20compress
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      Accept:
+      - "*/*"
+      User-Agent:
+      - rest-client/2.1.0 (darwin20.3.0 x86_64) ruby/2.7.1p83
+      Accept-Encoding:
+      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+      Host:
+      - api.acoustid.org
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Date:
+      - Tue, 29 Jun 2021 13:46:22 GMT
+      Content-Type:
+      - application/json; charset=UTF-8
+      Transfer-Encoding:
+      - chunked
+      Connection:
+      - keep-alive
+      Vary:
+      - Accept-Encoding
+      Access-Control-Allow-Origin:
+      - "*"
+      X-Envoy-Upstream-Service-Time:
+      - '136'
+      X-Envoy-Decorator-Operation:
+      - acoustid-server-api.acoustid.svc.cluster.local:3031/*
+      Strict-Transport-Security:
+      - max-age=15724800; includeSubDomains
+    body:
+      encoding: ASCII-8BIT
+      string: '{"results": [{"id": "17a063ec-0b08-4ec6-b63f-9a8dc934c425", "recordings":
+        [{"artists": [{"id": "97b226c8-7140-4da3-91ac-15e62e131a81", "name": "Macklemore
+        & Ryan Lewis"}], "duration": 257, "id": "b72d633e-c240-4041-9d0c-5c60cbeb1c39",
+        "releasegroups": [{"id": "22315cdd-4ed9-427c-9492-560cf4afed58", "title":
+        "The Heist", "type": "Album"}], "title": "Cowboy Boots"}], "score": 0.965176}],
+        "status": "ok"}'
+    http_version:
+  recorded_at: Tue, 29 Jun 2021 13:46:22 GMT
+recorded_with: VCR 3.0.3

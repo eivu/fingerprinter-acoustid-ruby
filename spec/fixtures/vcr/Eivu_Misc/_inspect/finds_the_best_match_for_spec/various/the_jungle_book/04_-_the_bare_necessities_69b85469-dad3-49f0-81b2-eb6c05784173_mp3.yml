@@ -1,0 +1,213 @@
+---
+http_interactions:
+- request:
+    method: get
+    uri: https://api.acoustid.org/v2/lookup?client=<ACOUSTID_CLIENT_ID>&duration=291&fingerprint=AQADtIkuZkqKRxbC7IlRKx6JB65zfMIPX1k6_Mc-5MkT9NnR5NAv7DW69kiF4ji-ZMeT4c-UHBV8DV989BTu4z7yW8cfD7qRJ3lxmsZuoj-a__gSgtOPRx7CBvcS45IO8T2Yzzr0IB-OHc2zCh9-wUDq7dB-5AwupkF_NHnw4cQe_Gh-lHzx8AL7GM2L4sdjpEeSX8afBI923ELDMSiZ4zjODnl0JFenFMdz47mLMD-SeXg-fD7eovlR7FIeNGN2tM7whpFQDq5C4oelW-hp4QreffCt4GGCJ7nQo7kDnmGK56jzElN6XM_wJMdl4kfMrYH1bMXVG8flVNAlHXsUHlk7Y39GvF1wHn1TNNWN9_iJN8d_nCd-_MFeIfTBHz5G41qCL5ewh0e9pWBgHT0UodGDH_3wD-5E6LDuBOXxvSjlDzZ047WO3sTn48MxfbAO6bgkCgp1C-p03JDfoEcPTzq-oWeOH3VOwzkm27hTPMe-G08CP3qQt0YaZYfyJrhTHM2P4pCTpjKeCKGPw0p__MJ2oj-O5ujl4DRqpGOQ8GiP_UEXXWiUo8epBOWPO8Ep5cGJRuHB2A4efHkQnhAPXTLCL8aOFz-eH-8T_Bcuo2mD6mtwGnnCI7kSOnDo4PAVTfhzFE3j48eD5Dzq3MGV5Rid5PB_MPzx7MYeKtDh58QDXMlhZy_yo1F0tDt-opQOWyM-x8KmAjz2MEoI40dZPEnq4FuKH40f9LgY5DmSPIXrZPgj4Y9QujWYtMKjZ7iUCNt-IL-IWS-YM0WOHR8-_AjE9cSzB-mFOw3sFPWOw9WCnfiRJ8L7oamPUzTEIgtfTHmMakT-QmuiGWG-4g76FE1PPDnyQ2eGMOeIXmfxJkmC9XiHiArX4OKVBElW53guoDuF5opVvDkYE43TY3Two9dSojn6WEazZSGeD3l6JD_6REFDhTjxiMekXyrmJcvxRYbXIPyR7KHQZBPxRQ8qt_C2o092_AjTI9mf4jeq5A_2lATTVAuu6ELyIlJ-os_xP_gaPFP04enRLMsTTLyMPwiaC9qToAnCRY_wJMnxM3ivoHmOXnuQL5KhSw_SMTkeV0fsL0g-ONaDH_fxkBpc6UpxH0mlIxePS2_RmOFRPsZ14WeG9ERSrUEVHs2N-miOHSGS5SqaR8mDSjlmSRa6o3Hzg9-R7BtyYir54VdxJejxI5k2UkFI5oKPWseTRUvwd5hNoX9g-qgWjsGZHGFCkejjQMszOQjLRcPhqkee6CV6dWh-6FnWgPf24MYp2Mlx400oRNJ1NLqEH6XUB1MW6cj1gEctKXrQOBF-9I-Gp1KK-Dke5klA7Ud4Ho-xi8Ofo1H8oJqz4lviFGcG2S3yw2dUXFJ2fE-G96gUeUQYbYd8H9EToYmZMSjx7HgSTClzIzySH_cb4pFyvKgWR2h2xM6RXMee48d94lkmRvgzEaGO5ssIPT50H1tEPcOdJFGE_ggT0Vvw6EUeKU8F-fCD_Aqe4FwWNJ_xJQ_SCYp0mwiVa8Rx6UIZJUfNww_CKw_U9MKZ5EaeXGh2HpVzjKmJHw-PJ1SIM3vQXwhz6MvxQ8sjI9IlSxIu3UG3HE0UsA-eOcQT5sP5QfCcJ8JDShMe_JnQPEtVTKfxM_iQNDPuREFL9Sj9BPrSFaeKuBmqjJKEME8DnekR_cAVOKmU4uTQjHkOZg9CPRsaKsuR5MrR7OhbXNnRRCM6BX9E1D5SI6Ei58WV5fCfETsu5oW3vigTPkJzBpVzcHnDIDop4lkOPTt-5AoqPoGPHk-FkedgKklxjUvAyMmzonmOPMxwHsmTH8_aYsoZ9EHfGE30EGtzhNaPJEp-XJlwRQ_x5vDxo8-c4HqKeuiDZAm1GHmeICc2mRw-D4q_ILSOWlFydEcTjSe-XMEzmM-F5EuO_An2C3cUpM-RJ1FOvAefJ0GymAnRZ8h5gc2DN0If5miOZ9GFZ3mEJDrC9MfxPEF52EwelMeJqLmQ_IFD411wZcclK8GbXEEOLRERVoqFWXqCrhmaK8lwPLwSuMmH0D3kcEJY4qK84DlchRyuHhcP7wpOCdGpQ6eOZ0cs6QrC82jEJrgvZBXaH9591C9-nH2RJ8pTuB_U8DgZwX_A5kOYI2QuHGKVrMW7cMGno8mJ9uibQktlH_0ThKmYBs8oXPGF5stQ_oiJ63jRZGo-uF_QhwV_ND8oZkOpMLgJLXkUoeQZqFGUE1d-PEs-iBVxHQpwpE2S4Xke7PCk4_mRhykeND7R4-Vl6BrxMOUQZsyC2uJxMG_BK0FPFaFID1qRh1FQJaSMpkkO_mB-NJcyHY_AH81Ri-lxDs_RS8ngcvCfEF6e4MyRXh40kUnGIBwjNMuC6zmOUpJy-PvQ7pj4IsxxfVB-o3EaBj16w9VhxQ_oJ5jyHDeDKznx7EHPHGcU49eh5aGCT1oj5GFELTgRZj-6ZHmlYPQDCRFd9A4apceXBBHXVdClIF8YEd-9gll0_FEwWVGQXEdkPxvMRQ6-HCenC36RH8mD_8f9oqlyVJ1y5EaSHlf2BZdSovFRysczZouwyxkcSwdxRbQxVhf2Emic_GA-_MjTC1qiCvmHLTzKJImJ8yyqw7F2JOeQTuGxRzZmRjm2j8J__EZ-QU9o9EeO_tKG5nHw40ui7XCUSMqMrLeMV9DyLBXCcydqNE4i414SRQQT5RK6Zrnxckb0Q0uvoz_-4YbYvIi94-aY4ZkOT8dz7OJRbg-R6vmhnkEzicE_0viTCOER5vgToZQHLUx04w92Hc1YhBJzPD_2BzmjEOZx57j0ZADhgDKOKsKEAMYIYgAkjEIEBBFAIQSQIIgAQAQyBDFjgDBOACQAA4YApNkAKBmkIEJGGIc0MwIxI4RyhFIlmGGCWKSQEogMQQQAhBLGkDJACCKFQAAgiphAhCHimIGAKE0AMQQBIgAgDABBGDNGAEGJERQ5AhiCGhgCIKbIEUiYkUAgCAARApRiHAIIKg2ME0hYAZBCgkAhhHBICcEZIIEwhIWBwzAAEDFKGScoAcZQZKRBBBHjDCLEAECYYIAABqAACCGGGEAAEQAIIMBBAEhywEHHGHICKawEQo4ppIBggDgEmCCEMcG0U0ghoiCS1isnCBGCGMMI1cYAZQAQAigGBECWAAEAFAApRgghUmBghBBMCmEAFIoZJxRAwBkCGEBCAiEEIkAIZwEQhFAGhAFAGECMIQBIIygwTCiAAAHCCCYcAEgphQoAkAAAjBUICQKJQ2IppAgigipAlBGEAAQAZIIiARCwgBjDDHJGAGKIcEQBJAAUAgGCACBKEKKEMcQhYCQAQAAFAhKKWMYAIQILgogRQAlEADFAGRCAMQBaQoAwBhhghCGCQIcgIUIYEAg1RAAhGUMIAUAAYEAgQYAACiEhGENMCAKEkEIgQBABgAAjESCACSUUUIgioqhgAAEEAJBCEAaEkEIgoyBAQiBCABBKCeWUIQQYwAAAwChjABIAECKIEIIJABABwggAiFEOCKMMIgAjQCgRhABDAHJACKIAcUAZIoQAEjAhhJJECOIEIMJQBYIQmjEAGGNACGeAAEQoo4AFAhGgmFCQA0C8IQAgxgwATAExAJAAKAWAYAhwQJ0ASDBCEFEAHCGYVIwZQ4AR0AiABCJCECAgEAYSABCBBggAHADIGIKAYcCBYQAAjiBDASEEECSEgEIw5IQCQBFjAGKAKCiIM8YQYhQBCghBBAYCACUAgQAJQxRSQBCjQCDAAEAUAAxRKIiAAgGFkBCKAECIAQ&meta=recordings%20releasegroups%20compress
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      Accept:
+      - "*/*"
+      User-Agent:
+      - rest-client/2.1.0 (darwin20.3.0 x86_64) ruby/2.7.1p83
+      Accept-Encoding:
+      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+      Host:
+      - api.acoustid.org
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Date:
+      - Tue, 29 Jun 2021 13:48:53 GMT
+      Content-Type:
+      - application/json; charset=UTF-8
+      Transfer-Encoding:
+      - chunked
+      Connection:
+      - keep-alive
+      Vary:
+      - Accept-Encoding
+      Access-Control-Allow-Origin:
+      - "*"
+      X-Envoy-Upstream-Service-Time:
+      - '151'
+      Strict-Transport-Security:
+      - max-age=15724800; includeSubDomains
+    body:
+      encoding: ASCII-8BIT
+      string: '{"results": [{"id": "4860cf81-bced-4dbe-a405-91d1d75cd3f2", "recordings":
+        [{"artists": [{"id": "d10253ac-e1c5-47f3-846f-65cce388b7fb", "joinphrase":
+        " and ", "name": "Phil Harris"}, {"id": "402107aa-56fc-4d06-831d-8150a95a9c84",
+        "name": "Bruce Reitherman"}], "duration": 291, "id": "2d253179-3974-4fba-bf19-7a6e0cbe4211",
+        "releasegroups": [{"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "b316f16e-9e5a-30dc-b615-507cd19f6b36",
+        "secondarytypes": ["Compilation"], "title": "The Magic of Disney: 20 Superstar
+        Hits", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "7fb389d2-ed5d-3a19-bce4-2338b071fc85",
+        "secondarytypes": ["Compilation", "Soundtrack"], "title": "Classic Disney,
+        Volume II: 60 Years of Musical Magic", "type": "Album"}, {"artists": [{"id":
+        "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}], "id":
+        "7af162c3-2c5c-3675-80ff-abb4073661e1", "secondarytypes": ["Compilation"],
+        "title": "Mastermix Classic Cuts 18: Novelty", "type": "Album"}, {"artists":
+        [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}],
+        "id": "400ca36a-1d60-4081-a3e8-87fd88d2411c", "secondarytypes": ["Compilation"],
+        "title": "Absolute Disney: Volume 1", "type": "Album"}, {"artists": [{"id":
+        "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}], "id":
+        "ae61c887-c92a-3986-9457-cfb065e65fd9", "secondarytypes": ["Compilation"],
+        "title": "101 Songs From the Musicals", "type": "Album"}, {"artists": [{"id":
+        "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}], "id":
+        "b8e8a18b-ee83-3a8a-b022-4f5512e0da7c", "secondarytypes": ["Compilation"],
+        "title": "Disney''s Greatest, Volume 2", "type": "Album"}, {"artists": [{"id":
+        "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}], "id":
+        "f0f8df11-cb90-3c90-bcaf-646fa2888818", "secondarytypes": ["Soundtrack"],
+        "title": "The Greatest Hits of Walt Disney", "type": "Album"}, {"artists":
+        [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}],
+        "id": "ac1160c1-df5e-3e49-956a-71230ffe6db2", "secondarytypes": ["Compilation"],
+        "title": "Disney: Greatest Musicals", "type": "Album"}, {"artists": [{"id":
+        "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}], "id":
+        "4744e12b-1720-3878-bc87-09e6c0e6636c", "secondarytypes": ["Compilation"],
+        "title": "The Best Disney Album in the World ...Ever", "type": "Album"}, {"artists":
+        [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}],
+        "id": "66e96f87-dd7e-4c36-89ef-20e4d538063a", "title": "Disney''s Musical
+        Fantasy", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "53961402-3c8a-3189-85f0-da4cce5da00b",
+        "secondarytypes": ["Compilation"], "title": "The Music of Disney: A Legacy
+        in Song", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "f309ccdd-0be3-442a-9db6-cd7217b4fe19",
+        "secondarytypes": ["Compilation"], "title": "Now That\u2019s What I Call Disney!",
+        "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "a27eb861-ef50-4600-80ab-873dac5a11f8",
+        "secondarytypes": ["Compilation"], "title": "Die gr\u00f6\u00dften Disney
+        Filmhits", "type": "Album"}, {"artists": [{"id": "16bdc7b3-6bfc-4f1c-89ad-d0756af40327",
+        "name": "Julie Andrews"}], "id": "dc2f1e47-8788-3e32-b15b-61d3e58a00c9", "secondarytypes":
+        ["Compilation"], "title": "Julie Andrews Selects Her Favorite Disney Songs",
+        "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "7f55ac10-0b6a-387c-9794-da94a96978ff",
+        "secondarytypes": ["Compilation"], "title": "Disney''s Magical Tunes", "type":
+        "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name":
+        "Various Artists"}], "id": "2018d2d8-1800-4fd1-a483-bc736c216dc8", "secondarytypes":
+        ["Compilation"], "title": "Disney Sing Your Heart Out", "type": "Album"},
+        {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various
+        Artists"}], "id": "a6ed387c-9af4-4342-bc67-80ca36c14616", "secondarytypes":
+        ["Compilation", "Soundtrack"], "title": "Disney Classics Box Set", "type":
+        "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name":
+        "Various Artists"}], "id": "1220b27a-6895-43d1-825b-2319d2e3320e", "secondarytypes":
+        ["Compilation"], "title": "Walt Disney Records Presents Classics 2: 20 Original
+        American Songs", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "39c7db57-2460-3b59-a761-35177704d057",
+        "secondarytypes": ["Compilation"], "title": "Disney Magic", "type": "Album"},
+        {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various
+        Artists"}], "id": "0c149bfc-75ea-3d7d-ae60-44f308144845", "secondarytypes":
+        ["Compilation"], "title": "Disney''s Original Classics", "type": "Album"},
+        {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various
+        Artists"}], "id": "1f12554b-d535-4fc7-8958-1be83d3be0f5", "secondarytypes":
+        ["Compilation"], "title": "Ultimate Disney", "type": "Album"}, {"artists":
+        [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}],
+        "id": "fa1821a3-cb45-3c55-be75-b73314862a63", "secondarytypes": ["Compilation"],
+        "title": "Disney''s Greatest Hits", "type": "Album"}, {"artists": [{"id":
+        "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}], "id":
+        "5e168738-6347-399d-826b-4d644d7ecb27", "secondarytypes": ["Compilation"],
+        "title": "Hello Children Everywhere", "type": "Album"}, {"artists": [{"id":
+        "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}], "id":
+        "cc47e837-4dca-478a-b63d-1c66a82e2cb1", "secondarytypes": ["Compilation"],
+        "title": "Classic Disney", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "21e1cb4a-003d-379d-ae09-38ec58b73974",
+        "secondarytypes": ["Compilation"], "title": "Ultimate Disney", "type": "Album"},
+        {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various
+        Artists"}], "id": "093a32bb-8c97-401f-95b5-fec0aecf3c9d", "secondarytypes":
+        ["Soundtrack"], "title": "\u30de\u30a4\u30fb\u30d5\u30a1\u30fc\u30b9\u30c8\u30fb\u30c7\u30a3\u30ba\u30cb\u30fc
+        \u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af\u30fb\u30d9\u30b9\u30c8",
+        "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "4d2bb0c9-710b-343f-b61c-8af43fa571f4",
+        "secondarytypes": ["Compilation"], "title": "Disney''s Greatest Hits", "type":
+        "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name":
+        "Various Artists"}], "id": "fba75f72-bfaa-3fa2-8559-1fb4b9733354", "secondarytypes":
+        ["Compilation"], "title": "Absolutely Disney", "type": "Album"}, {"artists":
+        [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}],
+        "id": "c34c211f-2b9e-40e7-b9ca-ad744847b645", "secondarytypes": ["Compilation"],
+        "title": "The Greatests Hits of Walt Disney", "type": "Album"}, {"artists":
+        [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}],
+        "id": "25cbc18f-1b36-3fa1-8da7-ff8fdb3df73e", "secondarytypes": ["Compilation"],
+        "title": "Best of Disney", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "3a3ec699-49ab-49e8-bfd5-951194ec61e0",
+        "secondarytypes": ["Compilation"], "title": "La Magia Disney", "type": "Album"},
+        {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various
+        Artists"}], "id": "6dbf6e3f-58b4-34a3-839b-1adc41182ac6", "secondarytypes":
+        ["Compilation"], "title": "Les Plus Grandes Chansons des films Disney", "type":
+        "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name":
+        "Various Artists"}], "id": "a3199c31-fbb7-462f-aba1-d5a8380986e8", "secondarytypes":
+        ["Compilation"], "title": "Songs and Story: The Jungle Book", "type": "EP"},
+        {"artists": [{"id": "4204e06b-d2e4-4823-b6f3-47f7593518cb", "joinphrase":
+        ", ", "name": "George Bruns"}, {"id": "c47026a1-3300-4cf7-80df-8b9462a884e4",
+        "joinphrase": " & ", "name": "Richard M. Sherman"}, {"id": "d378dedb-444f-48f5-a6e6-3e8e31ef6c14",
+        "joinphrase": ", ", "name": "Robert B. Sherman"}, {"id": "0a8df504-df94-4d77-a3c5-2b9e5c9727e2",
+        "name": "Terry Gilkyson"}], "id": "1257fcdf-743f-3dff-9894-107b398fb777",
+        "secondarytypes": ["Soundtrack"], "title": "The Jungle Book: Original Cast
+        Soundtrack", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "ab70986e-7906-3b06-a9f6-6d06685f2bab",
+        "secondarytypes": ["Compilation"], "title": "Driving With Disney", "type":
+        "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name":
+        "Various Artists"}], "id": "12253802-c8e5-487d-abb6-d4feec4f341e", "secondarytypes":
+        ["Compilation"], "title": "Disney Icon Volume 2", "type": "Album"}, {"artists":
+        [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}],
+        "id": "b9001676-3be2-330a-ac70-bc46b508e2ee", "secondarytypes": ["Compilation"],
+        "title": "The Disney Experience", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "c2f68ff1-b1d7-482c-a161-aca3ca8a1210",
+        "secondarytypes": ["Compilation"], "title": "Super Friendship! \u301c Disney
+        Music Collection", "type": "Album"}], "title": "The Bare Necessities"}, {"artists":
+        [{"id": "d10253ac-e1c5-47f3-846f-65cce388b7fb", "joinphrase": " and ", "name":
+        "Phil Harris"}, {"id": "af2eb4da-3d69-45f0-9591-3b0f9a8b7379", "name": "Sebastian
+        Cabot"}], "duration": 57, "id": "3c37b323-8999-49f9-a1a8-5564e106f51f", "releasegroups":
+        [{"artists": [{"id": "4204e06b-d2e4-4823-b6f3-47f7593518cb", "joinphrase":
+        ", ", "name": "George Bruns"}, {"id": "c47026a1-3300-4cf7-80df-8b9462a884e4",
+        "joinphrase": " & ", "name": "Richard M. Sherman"}, {"id": "d378dedb-444f-48f5-a6e6-3e8e31ef6c14",
+        "joinphrase": ", ", "name": "Robert B. Sherman"}, {"id": "0a8df504-df94-4d77-a3c5-2b9e5c9727e2",
+        "name": "Terry Gilkyson"}], "id": "1257fcdf-743f-3dff-9894-107b398fb777",
+        "secondarytypes": ["Soundtrack"], "title": "The Jungle Book: Original Cast
+        Soundtrack", "type": "Album"}], "title": "The Bare Necessities (reprise)"},
+        {"artists": [{"id": "0a8df504-df94-4d77-a3c5-2b9e5c9727e2", "joinphrase":
+        " feat. ", "name": "Terry Gilkyson"}, {"id": "d10253ac-e1c5-47f3-846f-65cce388b7fb",
+        "name": "Phil Harris"}], "duration": 288, "id": "5baa45b1-9673-4964-80bd-4c8abe366394",
+        "releasegroups": [{"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "321052e7-c31f-32c7-9ef9-dc7b5fbde2cf",
+        "secondarytypes": ["Compilation"], "title": "Disney''s Jungle Boogie: 14 Favorite
+        Songs From Jungle Book, the Lion King, Jungle Cubs, Timon & Pumbaa", "type":
+        "Album"}], "title": "The Bare Necessities (The Jungle Book)"}, {"artists":
+        [{"id": "0a8df504-df94-4d77-a3c5-2b9e5c9727e2", "joinphrase": " feat. ", "name":
+        "Terry Gilkyson"}, {"id": "d10253ac-e1c5-47f3-846f-65cce388b7fb", "name":
+        "Phil Harris"}], "duration": 292, "id": "7385dc49-8f1e-4793-9ee2-dc116d46ef88",
+        "releasegroups": [{"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "314ab028-2cae-3d88-bcd9-02ae297dd425",
+        "secondarytypes": ["Compilation"], "title": "And the Winner Is\u2026 A Collection
+        of Honored Disney Classic Songs", "type": "Album"}], "title": "The Bare Necessities
+        (The Jungle Book)"}, {"artists": [{"id": "d10253ac-e1c5-47f3-846f-65cce388b7fb",
+        "joinphrase": " and ", "name": "Phil Harris"}, {"id": "402107aa-56fc-4d06-831d-8150a95a9c84",
+        "name": "Bruce Reitherman"}], "duration": 290, "id": "8da54e49-4e72-4cc5-af48-95c7ff860632",
+        "releasegroups": [{"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "41bf43f6-351d-464c-9299-60bc1f5b3a92",
+        "secondarytypes": ["Compilation"], "title": "Disney Soundtracks Collection",
+        "type": "Album"}], "title": "The Bare Necessities"}, {"artists": [{"id": "d10253ac-e1c5-47f3-846f-65cce388b7fb",
+        "name": "Phil Harris"}], "duration": 290, "id": "a0558f84-395e-4385-a4e7-1102e631eb12",
+        "releasegroups": [{"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "ca5349b9-2597-4fc8-aabb-31f7a00a7478",
+        "title": "Disney Ultimate Buddy Collection", "type": "Album"}], "title": "The
+        Bare Necessitites"}], "score": 0.950752}, {"id": "56147e02-4195-4b67-b20e-41875cb547a6",
+        "recordings": [{"artists": [{"id": "0a8df504-df94-4d77-a3c5-2b9e5c9727e2",
+        "name": "Terry Gilkyson"}], "duration": 250, "id": "9cb50072-3a9f-41d6-acf5-4125e9b99eff",
+        "releasegroups": [{"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "7ee01bdb-e063-3219-a639-1e8846a71c5f",
+        "secondarytypes": ["Compilation"], "title": "The Disney Collection, Volume
+        2", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "2018d2d8-1800-4fd1-a483-bc736c216dc8",
+        "secondarytypes": ["Compilation"], "title": "Disney Sing Your Heart Out",
+        "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "1b29d47f-b79f-3032-b9fa-09360887e468",
+        "secondarytypes": ["Compilation"], "title": "The Very Best of Disney", "type":
+        "Album"}], "title": "The Bare Necessities (feat. Phil Harris)"}], "score":
+        0.565071}], "status": "ok"}'
+    http_version:
+  recorded_at: Tue, 29 Jun 2021 13:48:53 GMT
+recorded_with: VCR 3.0.3

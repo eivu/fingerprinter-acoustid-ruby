@@ -1,0 +1,166 @@
+---
+http_interactions:
+- request:
+    method: get
+    uri: https://api.acoustid.org/v2/lookup?client=<ACOUSTID_CLIENT_ID>&duration=281&fingerprint=AQADtIu9lElQK0Tj2MJzXDnCL0iWOMGORk12lEq-YGIyPYHRa8geJPnRlA_6Jca37MhvPIeoc8gVHPdy5CeQS_rwP2gro7kmnAtOh8jpIeGOn3iI10ajo6fwJIoCVfmOr5nw7fgPPw_OHBc-I02nQBcl5MzxuCv6FA539Fmm4Fty_HiO3DKSNg_ekEGTo5ZwCU8uXAnD4RJ__IoQovkqqPlROTmuHa1yhHzU4Ed__JHQiEPlfLi-4xeeo_KGRq3xqMIR5tmh64uEMD8-JfgJO51wxDt-YT_ySEcbZYmx_YE5fIsa4T823-jxI8dJQrNz-DmuDxULmdrRlArCB7c-7EmTwBfuELmg_chnp2jSJAouE9-DZmUH6-iRJ9mxc_DxLDke0sGxP-hrFY1z4RqN6TP04yKDTFqS4XqCC9VVVFuUdDAnFnUakNuO_IKKvkekVDnx7sOnRcSdKEd-PHGCZksO7UnwHbkSschV4dFRoal4HF1-iFl06RAfo2fw5MKJGy0PLSfypcKFJsvRNTP6F83xRUcrHU135MIlKU-gh9lQaTkaZg_yU0ZPwRGzHJbCBJV1PGsSXM0THEi_Ew-TI5dMI8eFTheeHH90eDq0o1zCHJ-Of0nQOMxxBZd1_AxCZldwuC2DnhXuJ7gQRkIyiWWwP2j6Fb1OND9KTsF7xE1aaMuD-McZC3aI_GA-_FB54mmO_Nhz_MefYB9KGX4keJSqFaFygsOTi7iM5sXEpzhxSjeeoCkJN6lYhOzxH02y8UHJa3hchHEN7cGPPMGOJ6mCm0IpLamQ4w_EB5eE_InhmB58_MjfwJMoCn0E7d0QJ-IKU8mI8-gD5qSQPkf5GIpOCumDSjzxzMdPD9-P_7hPfApmhilwPgMXfhmuR0OJ5pmxMw1yHU-gH_cVPKcRa4nEIJ-EJvaDyjmeDr-D0EdjDcfwJEK2hB_0KKOQ5YPP48pyHP7RRyp6DulIaMyyMEOeoYevBNyF88SlH98RbQxxPIarrIEeuOoRzsePf8dunMejGEwupUd_bZjCC7UenEb8EaLyFvGd4xSejEEz5ngeo4m4OMgrRVAR_mjqRsGTHiFfbGMLfUJ-MMKXBCMlHTkUlxxyPBsYtYcV7fgHTx_y5YJ-vAgv4frR1sI_-MeZhah8JD_CPDVK8nhOnEcjHrXD467wxEgU-kLY4GKFHzdo5IPKIxwL50FoHVp4B5FIfJeEvuHR5HiWxXjIHRH9HMmXsMEjkQCPLwsqIZ9TKGSSHT60Hw9y8ei1o6mY40eL6DzOgx-PF16P6_DTY9-FMD-uB0-Ow8_xDsEP5QtHVMl4OLdQPmg4QrOyHD18ScYZuEqgh8OzXIPzQkweIS_hisFEAv50XMnR7EGZo3-EZx_6IN-ElyN-Df8hP7i1EuGJ5jteND169IIRioKaG9_xzEGfLEVzoUeYiulwOkGV52jyEdePfMzROBQFnaeC9MlxB-d0PBd6opnRIqdEuMryQN9xIWcJn3gS4V3xq3j2I8eh60X4SDmcNBMmScfDHUcu4oJdCeoV6MrBC7m6glnhLxYuDXuCdD9U7kjPVOhpPEX5oFZ0XMe58PDx4xcmb4c3Pcpww3B45igXH0OuLIeWkUPFC-EPX0ev5Lj84HzxLaHwX2h6hFoHLWqOSjzyH80Vo1Vt4ciRHKcTNKGSF3UoXKh8NM_xB2dG5D9UaeGQH9Mk3rgkxtie4RXORPjx-Ki06LhSBk8Q5oTSMLmQ_gJDORWeHpVzeCTC50i6_qh1MGEi4ZozHFPIozj54gqPcNyJZlKU4NOhM59xpgl6Q1RkVIp0HPqN5jlqHdcRcp_QZFHwVmh7NAqj4zrc49rx5Ar-pAgtUrA1aI-Ca8-QH88f_MN_PGWKH_2RPgt6_DmeWPgLRUmEiie02Id2nGSQXUyPcsmG9KhlRqgepWjOC9fxOSFCHj_cg5Vy3LuQj0icuUIlkniNHs2jCz-uo9J0Ir-h78HhjAcrHDomncfTHn-RK3ikXJgo--jxBV-M70F20sPDN9BdTH3Q7EJsF5-QM3uKprkIzZcQZg96STGOKlN2ohmZMciVQByZ4sfxBOehJtfxqcmQH5OPnD3Eo9o2CvlD_MbRXxG8I_zx4JxQ5QsLdceNMzG8DhcPnjF85OHgiPwxKco5zHvxz7gGhofZ44yioqmkYH-HWLqCH4WWE1eXKcOJM4cvB4e5KxTuGGdC1eh0NBH5BD8R8miW48LYZMSdI__x7NAzpsg58MrR2MW1wzyqpEq24EYYaNRO3I3wC66WGneWgDx-H0wf-DnMa8S-OLh06DmafDmeshzyF3_xp8b14cKUKkpQXhqY7KjIL8aXxNoQPRA_5Me_JkevHE33BecTNJyO8riOH03UNkWoTJkHfUeY95hsvDgzHD_IOYg1Xqj7BM2Zgc84xNLRJFIYTN-FIz_-B9rTIdqjwxxz_DI69CGaD_mOZPlRMg-Ob3nRa0RjHeOP3FFkqNeJZj5--Dm8bkYvPDo0fUeTpMRn_NCO_ArRxt-wB6ce-KLx7METCok95MKf4DrAl2iiSmg73KicBz7-HI56oWeOHieyXBv07viC0GoFJ2EWwtGHB26T4t4RKSfwx4KejkITKsuEUAmPI0c9XGmMJ19RsU-gRQ1RWfgVonaYo3l0_MMf7D6a7uhxFYwcMhB1bGF4hI1K3PjRMxX6J8ST4MpEtEezRwli5zsuWXhyXNYR_REAY6ERLBggCMACICIMUUgjAZwRQhBggFMSGMaIUAQQBCQBADFEERHMAEWMIsgxo4QhEhgCAAPAIEIYElQIBJAgABjGDANAEIAEYEAQCZBBBCBEBEAMI0YQQEwIAQwjQCEAEHBUGCYMEQIIBwghSAKCwFACCsQAEgBIQyxFxEDFhBlAAAGYwVYxBIFQJBhDFCAIEGEoEMwAIoQCBgNGAQCCWWEEQcAhQIhwBBCCDABGECMooIwhCQoAUEgjGQFIEYAQIIoYIkQBCgFDLTPIASCJAAAIQAQRQgGtBCBCAAWgAcQAZBARBhBDEDDOSWaIMAQQRIVRahEhAEKAACQkuEIIAIQw1lPjICOEEI0IAwQApgwgBiCJDAKCIgCVIkIobwACEhACoCVACCIRIIgwJJgCDgAAgUKQFGuMQAYQQwQhAhhmABGCUIOAEwQoxQgAyiCABDIKIKUkQogYKIiAQiNmGMAOAYWYQgIxoiQxAAgkgBLARHGJMhAgzQgBiADCAABCAQMgk0BAAJQSQBIEhDQAIEMAk0gQQYUwTBADBIPGMEAUoAYJgQAgBhmgiCACEIEQMEAhJZwgiGQmoADEMCYEUQ4AIAljRggkkQAIKaaAEIixQQBCwhhAmLGgAAAVBIQJwYRQkBAiCAJOEAGYcgQAJKUAAgHGGBCAICAwAIIYIBwBCAiiMADMMUQAVYAwsIwAjgqjCMHMGQKAIEJZIRARCghCDWhMAAGEY0IIQIBBwDhFGAGANEQIlQIghgB6hBChBAIANIAIQAAJpgRDiAFgGAECCKIYBcowAIARACCAiDEYAIAYEQYYwoQDwiHhAAAGCEIEQZIZwBBgBAIDBCCOAKeUAUABBYBQAjCFBEBAQWMAAEQxBCxFQBnClHDCAIKIUZ4RhgQ1SBACBFJUGMMgIgIwQhShhglgkBBCAkgIEJwEBKkSAhnEBBBMCiAAAA&meta=recordings%20releasegroups%20compress
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      Accept:
+      - "*/*"
+      User-Agent:
+      - rest-client/2.1.0 (darwin20.3.0 x86_64) ruby/2.7.1p83
+      Accept-Encoding:
+      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+      Host:
+      - api.acoustid.org
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Date:
+      - Tue, 29 Jun 2021 13:48:02 GMT
+      Content-Type:
+      - application/json; charset=UTF-8
+      Transfer-Encoding:
+      - chunked
+      Connection:
+      - keep-alive
+      Vary:
+      - Accept-Encoding
+      Access-Control-Allow-Origin:
+      - "*"
+      X-Envoy-Upstream-Service-Time:
+      - '149'
+      Strict-Transport-Security:
+      - max-age=15724800; includeSubDomains
+    body:
+      encoding: ASCII-8BIT
+      string: '{"results": [{"id": "7df5fc5f-4ff1-4535-b0d9-2612d4259cf7", "recordings":
+        [{"artists": [{"id": "5441c29d-3602-4898-b1a1-b77fa23b8e50", "name": "David
+        Bowie"}], "duration": 278, "id": "3d820676-4c94-47be-9ffb-db2ce0e226d5", "releasegroups":
+        [{"id": "6c9ae3dd-32ad-472c-96be-69d0a3536261", "title": "The Rise and Fall
+        of Ziggy Stardust and the Spiders From Mars", "type": "Album"}], "title":
+        "Moonage Daydream"}, {"artists": [{"id": "5441c29d-3602-4898-b1a1-b77fa23b8e50",
+        "name": "David Bowie"}], "duration": 279, "id": "c0f27bed-7986-4c88-a9c6-1d16ebc9817b",
+        "releasegroups": [{"artists": [{"id": "5441c29d-3602-4898-b1a1-b77fa23b8e50",
+        "name": "David Bowie"}], "id": "058d1324-14c5-4d9d-b436-652df5a5b925", "secondarytypes":
+        ["Compilation"], "title": "Nothing has changed.", "type": "Album"}, {"artists":
+        [{"id": "5441c29d-3602-4898-b1a1-b77fa23b8e50", "name": "David Bowie"}], "id":
+        "45c62f0b-d044-374a-8a61-759b884bcdab", "secondarytypes": ["Compilation"],
+        "title": "Sound + Vision", "type": "Album"}, {"artists": [{"id": "5441c29d-3602-4898-b1a1-b77fa23b8e50",
+        "name": "David Bowie"}], "id": "67186a57-2e0d-46d1-b254-256a82cf3e85", "secondarytypes":
+        ["Compilation"], "title": "The 24K Gold Collection \u2013 Golden Years", "type":
+        "Album"}, {"artists": [{"id": "5441c29d-3602-4898-b1a1-b77fa23b8e50", "name":
+        "David Bowie"}], "id": "cd954158-d8aa-45c0-b126-5a3542db2643", "secondarytypes":
+        ["Compilation"], "title": "Five Years 1969\u20131973", "type": "Album"}, {"artists":
+        [{"id": "5441c29d-3602-4898-b1a1-b77fa23b8e50", "name": "David Bowie"}], "id":
+        "6c9ae3dd-32ad-472c-96be-69d0a3536261", "title": "The Rise and Fall of Ziggy
+        Stardust and the Spiders From Mars", "type": "Album"}, {"artists": [{"id":
+        "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}], "id":
+        "950092d6-45f6-4269-87da-99a9ff2fcc52", "secondarytypes": ["Compilation",
+        "Soundtrack"], "title": "Guardians of the Galaxy: Awesome Mix, Vol. 1: Original
+        Motion Picture Soundtrack", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "15ea7f45-f522-3c37-9c44-b3e67d6d92e1",
+        "secondarytypes": ["Compilation"], "title": "The Best Album Tracks... Ever!",
+        "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "fc0a98ba-ead1-39ea-83c2-fc91102eb560",
+        "secondarytypes": ["Compilation"], "title": "The Best Bands... Ever! 2004",
+        "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "818a8c81-b30a-47ce-a403-8f9e10ef3f4b",
+        "secondarytypes": ["Soundtrack"], "title": "Les Petits Mouchoirs", "type":
+        "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name":
+        "Various Artists"}], "id": "c94d0c78-ae11-4c9c-a25a-0b1a3aa65e96", "secondarytypes":
+        ["Compilation", "Soundtrack"], "title": "Beside Bowie: The Mick Ronson Story:
+        The Soundtrack", "type": "Album"}, {"artists": [{"id": "03cfec4a-9885-444c-9e74-5fbab5861106",
+        "name": "Tyler Bates"}], "id": "e974e9ae-1933-45a5-8f3e-230ccb1759c8", "secondarytypes":
+        ["Compilation", "Soundtrack"], "title": "Guardians of the Galaxy: Deluxe",
+        "type": "Album"}, {"id": "cd4c2cc6-fb5f-35db-8a48-2215edf499f7", "secondarytypes":
+        ["Compilation"], "title": "Best of Bowie", "type": "Album"}], "title": "Moonage
+        Daydream"}], "score": 0.988924}, {"id": "6691919a-f1a5-4e2a-9ea6-3d9dddfea9cd",
+        "recordings": [{"artists": [{"id": "5441c29d-3602-4898-b1a1-b77fa23b8e50",
+        "name": "David Bowie"}], "duration": 278, "id": "0015d061-9e29-49a2-93bc-d242f506a188",
+        "releasegroups": [{"artists": [{"id": "5441c29d-3602-4898-b1a1-b77fa23b8e50",
+        "name": "David Bowie"}], "id": "3fec9208-2404-46c5-878d-77478228d40b", "secondarytypes":
+        ["Compilation", "Live"], "title": "Ziggy Stardust", "type": "Album"}, {"artists":
+        [{"id": "5441c29d-3602-4898-b1a1-b77fa23b8e50", "name": "David Bowie"}], "id":
+        "1d2c03b3-19bb-38fb-b44a-35266602e6d3", "secondarytypes": ["Live"], "title":
+        "Live Santa Monica \u201972", "type": "Album"}, {"id": "cd954158-d8aa-45c0-b126-5a3542db2643",
+        "secondarytypes": ["Compilation"], "title": "Five Years 1969\u20131973", "type":
+        "Album"}], "title": "Moonage Daydream"}, {"artists": [{"id": "5441c29d-3602-4898-b1a1-b77fa23b8e50",
+        "name": "David Bowie"}], "duration": 280, "id": "0c9b392f-82fd-421b-a0ec-b7723923eb4f",
+        "releasegroups": [{"id": "6c9ae3dd-32ad-472c-96be-69d0a3536261", "title":
+        "The Rise and Fall of Ziggy Stardust and the Spiders From Mars", "type": "Album"}],
+        "title": "Moonage Daydream"}, {"artists": [{"id": "5441c29d-3602-4898-b1a1-b77fa23b8e50",
+        "name": "David Bowie"}], "duration": 279, "id": "32c7ba02-1c02-445b-a881-8b664da9904b",
+        "releasegroups": [{"id": "25042ba4-198e-463d-a4a2-8bca21a4e447", "secondarytypes":
+        ["Compilation"], "title": "Legacy", "type": "Album"}], "title": "Moonage Daydream"},
+        {"artists": [{"id": "5441c29d-3602-4898-b1a1-b77fa23b8e50", "name": "David
+        Bowie"}], "duration": 395, "id": "3a721955-5c2e-42d1-8016-0b56a3e38a2b", "releasegroups":
+        [{"artists": [{"id": "5441c29d-3602-4898-b1a1-b77fa23b8e50", "name": "David
+        Bowie"}], "id": "709747e2-6b33-340d-bf99-bb060d13dcab", "secondarytypes":
+        ["Live"], "title": "1973\u201004\u201011: Ziggy Goes to East: Kosei Nenkin\u2010Kaikan,
+        Tokyo, Japan", "type": "Album"}, {"id": "0990b7f5-077f-438c-9f7b-8a19bc92db09",
+        "secondarytypes": ["Live"], "title": "Live in Japan", "type": "Album"}], "title":
+        "Moonage Daydream"}, {"artists": [{"id": "5441c29d-3602-4898-b1a1-b77fa23b8e50",
+        "name": "David Bowie"}], "duration": 278, "id": "3d820676-4c94-47be-9ffb-db2ce0e226d5",
+        "releasegroups": [{"id": "6c9ae3dd-32ad-472c-96be-69d0a3536261", "title":
+        "The Rise and Fall of Ziggy Stardust and the Spiders From Mars", "type": "Album"}],
+        "title": "Moonage Daydream"}, {"artists": [{"id": "5441c29d-3602-4898-b1a1-b77fa23b8e50",
+        "joinphrase": " & the ", "name": "David Bowie"}, {"id": "739310bb-b18d-417c-bbc8-481bf0ec0570",
+        "name": "Spiders From Mars"}], "duration": 276, "id": "55cfa24f-319b-48c1-8578-c9056f3832d5",
+        "releasegroups": [{"artists": [{"id": "5441c29d-3602-4898-b1a1-b77fa23b8e50",
+        "name": "David Bowie"}], "id": "6a6382f5-4cf4-3181-90f9-eeda5a092299", "secondarytypes":
+        ["Compilation"], "title": "The Legendary Lost Tapes", "type": "Album"}], "title":
+        "Moonage Daydream"}, {"artists": [{"id": "5441c29d-3602-4898-b1a1-b77fa23b8e50",
+        "name": "David Bowie"}], "duration": 280, "id": "5e62613c-2c91-493d-b048-fe9633ccf9a4",
+        "releasegroups": [{"id": "6c9ae3dd-32ad-472c-96be-69d0a3536261", "title":
+        "The Rise and Fall of Ziggy Stardust and the Spiders From Mars", "type": "Album"}],
+        "title": "Moonage Daydream"}, {"id": "62c28590-740a-4d0f-bd6d-26c44d3581d7"},
+        {"artists": [{"id": "5441c29d-3602-4898-b1a1-b77fa23b8e50", "name": "David
+        Bowie"}], "duration": 279, "id": "c0f27bed-7986-4c88-a9c6-1d16ebc9817b", "releasegroups":
+        [{"artists": [{"id": "5441c29d-3602-4898-b1a1-b77fa23b8e50", "name": "David
+        Bowie"}], "id": "058d1324-14c5-4d9d-b436-652df5a5b925", "secondarytypes":
+        ["Compilation"], "title": "Nothing has changed.", "type": "Album"}, {"artists":
+        [{"id": "5441c29d-3602-4898-b1a1-b77fa23b8e50", "name": "David Bowie"}], "id":
+        "45c62f0b-d044-374a-8a61-759b884bcdab", "secondarytypes": ["Compilation"],
+        "title": "Sound + Vision", "type": "Album"}, {"artists": [{"id": "5441c29d-3602-4898-b1a1-b77fa23b8e50",
+        "name": "David Bowie"}], "id": "67186a57-2e0d-46d1-b254-256a82cf3e85", "secondarytypes":
+        ["Compilation"], "title": "The 24K Gold Collection \u2013 Golden Years", "type":
+        "Album"}, {"artists": [{"id": "5441c29d-3602-4898-b1a1-b77fa23b8e50", "name":
+        "David Bowie"}], "id": "cd954158-d8aa-45c0-b126-5a3542db2643", "secondarytypes":
+        ["Compilation"], "title": "Five Years 1969\u20131973", "type": "Album"}, {"artists":
+        [{"id": "5441c29d-3602-4898-b1a1-b77fa23b8e50", "name": "David Bowie"}], "id":
+        "6c9ae3dd-32ad-472c-96be-69d0a3536261", "title": "The Rise and Fall of Ziggy
+        Stardust and the Spiders From Mars", "type": "Album"}, {"artists": [{"id":
+        "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}], "id":
+        "950092d6-45f6-4269-87da-99a9ff2fcc52", "secondarytypes": ["Compilation",
+        "Soundtrack"], "title": "Guardians of the Galaxy: Awesome Mix, Vol. 1: Original
+        Motion Picture Soundtrack", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "15ea7f45-f522-3c37-9c44-b3e67d6d92e1",
+        "secondarytypes": ["Compilation"], "title": "The Best Album Tracks... Ever!",
+        "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "fc0a98ba-ead1-39ea-83c2-fc91102eb560",
+        "secondarytypes": ["Compilation"], "title": "The Best Bands... Ever! 2004",
+        "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "818a8c81-b30a-47ce-a403-8f9e10ef3f4b",
+        "secondarytypes": ["Soundtrack"], "title": "Les Petits Mouchoirs", "type":
+        "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name":
+        "Various Artists"}], "id": "c94d0c78-ae11-4c9c-a25a-0b1a3aa65e96", "secondarytypes":
+        ["Compilation", "Soundtrack"], "title": "Beside Bowie: The Mick Ronson Story:
+        The Soundtrack", "type": "Album"}, {"artists": [{"id": "03cfec4a-9885-444c-9e74-5fbab5861106",
+        "name": "Tyler Bates"}], "id": "e974e9ae-1933-45a5-8f3e-230ccb1759c8", "secondarytypes":
+        ["Compilation", "Soundtrack"], "title": "Guardians of the Galaxy: Deluxe",
+        "type": "Album"}, {"id": "cd4c2cc6-fb5f-35db-8a48-2215edf499f7", "secondarytypes":
+        ["Compilation"], "title": "Best of Bowie", "type": "Album"}], "title": "Moonage
+        Daydream"}, {"artists": [{"id": "115eda90-a9f4-4437-9e4d-513daa0d5f35", "name":
+        "Murder by Death"}], "duration": 286, "id": "f4198c30-1cfc-4531-800e-6dcdcb84baf3",
+        "releasegroups": [{"id": "7e4f19a4-33c5-4306-90aa-0ba5bcfae638", "secondarytypes":
+        ["Compilation"], "title": "As You Wish: Kickstarter Covers Vol. 2", "type":
+        "Album"}], "title": "Moonage Daydream by David Bowie"}], "score": 0.959322}],
+        "status": "ok"}'
+    http_version:
+  recorded_at: Tue, 29 Jun 2021 13:48:02 GMT
+recorded_with: VCR 3.0.3

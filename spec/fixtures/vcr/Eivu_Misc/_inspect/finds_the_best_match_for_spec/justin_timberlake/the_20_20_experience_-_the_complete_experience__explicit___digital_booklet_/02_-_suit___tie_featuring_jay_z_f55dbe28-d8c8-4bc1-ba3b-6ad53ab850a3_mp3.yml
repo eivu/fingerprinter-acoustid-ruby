@@ -1,0 +1,56 @@
+---
+http_interactions:
+- request:
+    method: get
+    uri: https://api.acoustid.org/v2/lookup?client=<ACOUSTID_CLIENT_ID>&duration=326&fingerprint=AQADtFGSTPkS45LhG30SQQuP74ifgFJ12HmRyxdeiD-OWOEFnzf-oKdwEc9k5HliKD6RR3BinIxw6sIVPBGSpwp-J8aDWEkOJyNyabgSQ7l4XCuF7_hTND66-bhzKGIiibBZ6J0Il6hVB_9w7QiVymhe_Hh6PMcdpMd3aNcEqzmH1_hEnByuBeJf_DluWEnGQ1NtXCjJB6Y2_IM_KJKTDV-F6_gdNDYm8YIusWi4BOGPxoqMHnmgJ2uGUzbCHc2P4-_xRUf4yGj2H0cz1kJ_FleK7jglorly5PiJWjyuo8rE4D-OmsgPM-KhXcJ96Lgk4nrxHOeFMF-KHnn0IRfxxS1-_KgOK6WQC-WSrLinA3qWHD96RHNiY5TwqId_oc-CA3miQz9iPRWa8-hS3JFx_ajVw8_xGR_c5biDMPI-fBf0IMwopeizHTcrPEd-_NKgI8zXER9K5riO-JHxHepRMoQd7fDxkcLjBoKzZbnwH8-OEzeh5VmKHz8uPJGEXclR6YeusMLFClrSYz-eMMUnNKYPHz80sltwjRpyHVUuNNHxHDkT48uOPtBy5fjRuKrQH6qY40eowY-DUsMVBz-FyhfCeYcQ_7jyoKlFlI1yfGI65MYO_UJtFWGEWMwsoWE-PCyUTUo-9IdOxcGTeYip44Hz4heeGz9CMorhC7pOhLmDL9bxhcd_hBGzB5p-5Mlx9DxsH_-Oz8azI16GPkyh_0LFw5fwKTTxEE10PPih5Ub4MHhy_D8uPJaEH92D5kf4xsQTNcOJ1sFf_NDeHVaY4z7yLTjM45Mc5NKF6Tl-yJUmhFkevIoDO0wk-Ec3HpwzC6V4mFOO8Br-4mnwQ6uERmUu6MZ1XLpx6eguQ8_RRXuQLzuY_mjO4w2-g71ChFYCOxI0Cn9w_fgJhU6WB74i5DsuxSF65GyONm6hn7i0Y9NzgVOzTBA_Yh-j4edRJxkOLXvGbPiD90EzOQ-6RLgg88Yf4rOG5of4oxRxFp_Q6DmqJkfJEU014TnKO7hhTTkx6dAu-EF_tCM-DuIZ_HCcDd2D0DBHxA6P__B5iFWGl4lxwtJiQsdbHZGuxMHR7jCX48GPc_AV5ISzZejToumhnR7CRzl8RcIpomvW4D0T9AjjHA_2sUE_eGQO8cYzZdAfZTicLXswvegFVzxURzlu5DUc5_jxIt9RH7rQLkMz1oHKBo_xEIU55qiOpiq0c0Yf5fArnCLRJ13wP9CSB32OB0dDoj9KHU3eBfmPcA82jrgiHY4eocedHH02eBIRdmmJ_tjEHi0XhNSNH2KcT-gDXMqOVmGgrGwk3EOuJFmO48H7Ia_go5SyHM8etPnQTD9uHX8wUWheGV9QEVqsBc8xJWehjYqCx4f3ID_-CCH1D02a4Nqh3whzVFqe4sNx4gjNY2IPTW0UwZLxxBsckegvXNFRSZ_QHG9K4RcaPod24jnq44Gy80HuwHE6oiuDfoEzBw_hSQySfUfsbGjqDF16fDpONEf4ZCl2HS3MBX0J9UO3ffAjIoa5Dg9-NOOC8Nko_JMgKiQq58itBs2LPsdOFkcYRsFZ6EaTMNnxRsHEwzGPLxDroz9UZ0ePVBPRJ8V_NA96jUBonfCzQ-uDH1V8NFMlVJ8gUiH6hEUvo5mUGd8RSqdgNQsqysSL8EZz6MkOtFGOnelwEqpT4rlSBGZEVA6PkKqEpspwH71whisalUJ-TMlRnQ7C5sZD-NOhvcfxZDl-KPJxSccTJchNeE9QPccR5hlqZcYblfgRJvmKsjp-HM2PPujDwauRXzD7QfmNK8F7eJeQU8Opd0iTekfIE99x-UUfo_mHZ3iCZyzyQpeKH6HMw1Uy4fCF_kGfdGhCkUTeFGqPPhSaG3lyHM8zhA-u6FCNX8EPZ-PREz08iUGfI9S1CY0iMcedC3-R_vgOPVeEUoKf40el45sGPRXRPENOHm8Ww4XPXCiZoT3CPMOjRHiXw3kkYMdPlIYYh-iPLoetjCjKNRDjDK4-hLzxBz-aB-G27VB7AWG4uij7BXtw4SF-5MGnDJo-wUT4ZKh1pNeOklGO6haakRnUTKnxOug7NE7xELfxBT1ziF_gOEXoD92Jj0fzUMYRkoWfCzk8qRPaZc3wS0Nz9EOepzgP7UHz5DiureijC1o8S-iPVFlC1ETzIPyOn4XzHFdyPNzRXBPa45Jy_DhchcezD5rQbIlk_ESjQ1-WHM6iHCGt4N8RHp4etBI7KP0RX2ioxiiZ2bjQM_Az-EdoHWeUHJrCw9mDvhbKNUTz6ND1DBpv-EFFmXhuod_R3NhDvA1awlUJj7jTFc-NtEfYMRvuSMeU_Qj_EG-Sow88HteCqlWD5qiVJUW8sTE08sMUNcePH28W9OEUiLj0IFUYJYN91C_-I75QG82ZDnJzfD-aQ7Pi4DvQxF1RK0J_NORC4T8qS0Uzhsd3dDuaZ8eP76joXIIWJx7OC_lxxqiqGf_gh0QR_3iNP2joQ3UkeOSD6dBzoYlO6BwuJQ_-RBqa4y90LkXtw1yOfgnxR6gViCMjMThS6cYjdYEjcuiP50IvGR47opqSHTsaoR2zIZcyG9rRfMeDX8cpElqoZCl6CflROVE2PMtxqkWe44P3mKiVRcM99EWYRDeuCD-aB71i_PgFfxF-HXkAABRgThCBBGNIEQIIYgAxIZQGSBECiWCAQUGAQURAASRQiCAKkBGKAAKBAwwwAhQRAgAKiANEKCIUQI6BAxxiEAFiBBACUAKMBAIpSIRSwAKMDCDEeGAIQAQJo4AjDjJkQADAMIOBFAQxQggTCCCDhAFGGmAJYAgY4AyQjHihiCTAIAMQE0ABxARBgAloJABAQIKQE8AIAYUyChCjKFGCABCEIoIQiJBhgCAjgDAGCaUQIEoJw4QBEFJGFAHGAQGFQQrJARwAQjgAABCICMWJMwgwBAggjFFAhAWMEOIMMAI4YhpRQBBgAREIEQCooEACyIgCBAOIDHCACIGBAYYhIxQBjgEghjEAGGAEQEIYAaggiiIgkRICOEAEYYQAoLAixgGmCCBEAAEICIAggawUQAEAhAAKAMAYAwQAAIQEghGgAKJAMSE8EwAIARQAggADGENMKCCIUEgIAYwCDCjGECMKAIEoMRAJBQgAAigFjATGGMEMYEAII5wyyDxmkBIGCQAEoAAIZhADwCgmhAIKIyCQIAIxCwRAxCgBDCgIKAAMEQAwAIhAgAAAiBEOMCaEYsAAY4ggAiBDiLNACQGEQgoxoBBRBgACEjDMAKWQUAoBAoBgxggGhBDGEKCAYRQIZaSwhBgEkEIIOYOUA8IgKIgQRghADFHASASAsIoi6IQRADhkBDDIGIEgIgAYjIwiBDEgAEICAAGMYgwZIQBQBgAEjBNEEaKIEAhRooBAiAhgDEBACMWAYkgLghghgBgAgEjKQCQAQYAAJAgwBAgADBDEKCAIAUIYAQBRRGgiLUBWAEYQAMA4YIABignAgBGCMAAAMwAAgoBnlABhiHBECCQEEgYYpIwAShAABBOGCQOI4IJRYgSABAgDFOMAOIEIBQg5woQBwAA&meta=recordings%20releasegroups%20compress
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      Accept:
+      - "*/*"
+      User-Agent:
+      - rest-client/2.1.0 (darwin20.3.0 x86_64) ruby/2.7.1p83
+      Accept-Encoding:
+      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+      Host:
+      - api.acoustid.org
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Date:
+      - Tue, 29 Jun 2021 13:45:13 GMT
+      Content-Type:
+      - application/json; charset=UTF-8
+      Transfer-Encoding:
+      - chunked
+      Connection:
+      - keep-alive
+      Vary:
+      - Accept-Encoding
+      Access-Control-Allow-Origin:
+      - "*"
+      X-Envoy-Upstream-Service-Time:
+      - '108'
+      Strict-Transport-Security:
+      - max-age=15724800; includeSubDomains
+    body:
+      encoding: ASCII-8BIT
+      string: '{"results": [{"id": "78dafd27-4c1f-4f99-9049-059bf39f666f", "recordings":
+        [{"artists": [{"id": "596ffa74-3d08-44ef-b113-765d43d12738", "joinphrase":
+        " feat. ", "name": "Justin Timberlake"}, {"id": "f82bcf78-5b69-4622-a5ef-73800768d9ac",
+        "name": "Jay-Z"}], "duration": 326, "id": "70003461-a6b3-4780-98e2-e1897cee0a7a",
+        "releasegroups": [{"artists": [{"id": "596ffa74-3d08-44ef-b113-765d43d12738",
+        "name": "Justin Timberlake"}], "id": "deae6fc2-a675-4f35-9565-d2aaea4872c7",
+        "title": "The 20/20 Experience", "type": "Album"}, {"artists": [{"id": "596ffa74-3d08-44ef-b113-765d43d12738",
+        "name": "Justin Timberlake"}], "id": "fe51b20f-83e4-49dd-9a36-b8d4da138325",
+        "secondarytypes": ["Compilation"], "title": "The Complete 20/20 Experience",
+        "type": "Album"}, {"id": "8f24e37b-5035-4383-89ff-818417f143e8", "title":
+        "Suit & Tie", "type": "Single"}], "title": "Suit & Tie"}, {"id": "89408e9d-7dc4-4b64-90fa-500109c81042"},
+        {"id": "c8569ec2-8e9b-4729-a081-dd010e5aaec4"}], "score": 0.938908}], "status":
+        "ok"}'
+    http_version:
+  recorded_at: Tue, 29 Jun 2021 13:45:13 GMT
+recorded_with: VCR 3.0.3

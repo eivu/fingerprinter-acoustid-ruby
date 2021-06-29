@@ -1,0 +1,50 @@
+---
+http_interactions:
+- request:
+    method: get
+    uri: https://api.acoustid.org/v2/lookup?client=<ACOUSTID_CLIENT_ID>&duration=299&fingerprint=AQADtFG0OEoSJYrwiHgOBiIrC1eUPHgOf8IX4b9hQ3Uyg-yF8Jnw4-j0I8wX6LmQ59hZtDx-4ybxCNuP_iz-EF_yFU3toKe24CfwOMTFIT_-gLGi4Izx44LzT_h-mFuCH3KXQ54D8Ye_BHd0HL5mHH4OXTr-ANeEG49yPMtx-MuRjwriMYY5Bo9yQczRB4w4HU4PUpHmCDwuxZAxHjeFXAlxivCFMzx6HblZJPfxB-8xpf7QHpyPKzveHsmzhCJyTJGU8Jh8Ib9w8UiWSUyFXnPALfzwHL2OK_yQbMwl5LODk8GTo8LNw9eDWlEyDXviRUJ-JD8qMY5gTdOGZ9KGH3-2oGsmHfeRS5WCloGW9cjxo4myJUeXe6hIPUZjZcjZEToaPkV5NE0TQbNY40dz1kKV-MJfKJaWHHxy-IxDfHpx54OfQE14IT8qPQcdiRv-4VeFe0FMHXqUw9MYInt0fMV2wXFGhErk7MJ1XHsGPcYv4UfI3mjChAl-5IUfS1CPSlI-pFRRssXpBn-Rhlt2PDn0xGgWTkeJv8YzKkJ1NOuJODqe4Mrx5UMv2Wge7DmeCNcEzrhfxF_QK8EzHeIPTd9GdBrE5_gKi8nxg7qOH5WXjOiTHT7-ZLh3WM-hM_jhL0T-GJly3MGzGOJXfBA5PMeVwKeKOA38oe8R_0QvZYP4ED1jfEfzDNWF09CiRsc_IUUeDZ8s-DO-4GEFczzxOcdrPMKr4D8-XCthcgivBv_R5_gi9HkQ6xMafigZ4UPPDH9QcnjwfSgfqA43-BJ6Bf-OcpMEUWVwuDocOvigN7hI-AmqOYYmJ8vhLOpwIj06X3iLqodjIW2T4he0HE8J_gGPagoDT8OlFCp7-Av05cN3iLoi4hSxK3DoQGl5-ET1HJUz5MnxOSHiQ8uV4wqy5KhxNkF_DmmP6scv4_gF5jpRKxfyREJYtRCPXmbx7Iaz4z1CK8vg88KRHk9AJdlTtEGlpxCfHv10HCwuVjiTp3iQH496XMwjhM_R1JFxD9fy42i4RKngRVJQq0f4w0-OkqSGZ6sQJmKOjh6eF3o8MLnioceHH1KPnkaYPKBz_GhmHaWqgfmFMD8-JUo2_NDyHTmz4jxxL9jcOIY74VVCPDuuBK5zlF2GK9yLP1wRHmLCJEfPB8EvPNxgx0OehITeonlmhBLD40kiWsjzQM-J9Dse_MaTHBWdqHDSfPBJocET6Kmw7fgxxdqDKnOW4zl-NOqRbD-RJzlOND_KG99yPEuItxxi6VCkMA_yXcI2VrrQvpiPb-HQXGQQqjwSTzn6Dz1-nCMDN0xifEqORDvyJUQzZsT0JUbF3LAiyfiWE3n4QEeYMc_xCeePOM4hujny3MF5PEfzJEX4vThFaM-CUPJF5FeClyoa7gifIIe6p2is6ES4VRX-4ByPS02I65hEMVSRLGoiEjkYonl5nF2CqSJqLsePEFrOID_yfIKu409iIn2Mv6iy5WimfHheTP-G9FdwuJyLSEwyHJ6xkzseJkmoCD6mRmi2Yt9SHGH-HZrxdMS56niTvfgTKvgeQtoVo3kQSnGoFNkSOcXz4b2hPXPQ5Enx5Mej6IXCJ_B1I8fzBFf2IcdRx9BS6UGOU8kOv0KVPtij43TACwnyUMmGi2zgGlWihCwe6sGPHekLPcfMHBz1QJHCI0zF4zmeEx_-GfmDQQtC7vhZCufx4A_C-YQY80gf5ai140yOZ8fp5MZDC432ItwWS7h3JPqGnyh1XEFa5QdzPVDnRBHyMDm-5A6uo5_RKMyO54iescgT5viUfCizOUjHZ6ibrMgpoeoxbhlCnkPnGX6KIF3N4Dq-QMxOoWc2VCb8CGfgX-g1aIcTkYfewNXx0IaX-EadIM_SBL2xPXiyC81z5IqOK3kWiHpwK3gePKKgJ0ksB7kuHc2DXkKeZfnxP1COKOry4CYe-nA3fLjxw69G5PFSqMQlJbtwWsLxOUcTKa0ihAyP48eb_LguzMmq48mF1F8SJO3xzImOZn8iTMyO5_jRJM3R88h5JA_x4CneoJTooOERfYDkJRmN6MeZIRQvHWJyoj9yFD4q6kTHXcbZGEd54YedLDRyLgue_Kh2oRklHg_yZ4GXPLiM549QHel4Bcm0G5-Y7DhO5UrQPBpKGU8QSz-hB2EXBaeGUNegMVEiB2GmZDme4DyafM5RK6yFR0koPHjyYrqyg8mPPcKXCdfDIEdCGz-OP3mOHyF_-If2FOWh48WhPRl6AWd25BqNa4ZD5TJ64egL_ygZou6Bo7qCpzneBw_C2LiaHFp-5Ec7Bk0z4Up9_MGFZDlCBrMU4gTzB3uOSgySveeQSscOrz96HMyN_ylqHjuT48yO50hGOcmRvvBRxTuafEE_Had8_NFw4fFxHj2PRhGRZxd6JxCrF-Ed48Y9NH4qVJS8BP_hH2cWBndKOIx-nEeuHUnP4bmmCNfxo-mL_ugHR0ymEFWSyA6eH_Xx1ujx4-nhZ2vw2viHn0jIHHnSEz_2i2BpBs_BG9WFdTycQw87_OiL3zjOG-9HXHhCSUL4Q9knZKETGV_UGmOinDiSf0eeo-lRKs1x3NdwH2FiaUj2HSdx5cWvLeizo7m1CX-c4j0qKh8j-F6E53BMHSXOyHj2HM2PZETOH1eMH_s0geOJJ5fA-qjSdwjzNTl2MYUuI6XwI7XYAN-h5w2qI1WYfLCz4_DxIy58_AiM6vjx4ejh44iR3PiO68GDV8gLPfh0_AHDEFIAUEAEgIBAJhwQjFEjEVNGMAEEAYgYwRBCkDCAJQAAIGeAUEAABBwSSACAABNMiAAAA0QRZRhABCAiBAAEKEMIkAoBAJASlBGAgBBAGAQEIMIwQICQgAtkJBEIIAEU0kAAAwAITgjjhECAEEOQYIYAAoEQBliCoAjGEsGJ0IAIYISCwgnhJAIIMJIYhMAQgwhgRhBnGABIAGKIsMYAAAAWQgBBkDMAEGAYgMxAoAggQgjBACDMAMGYYAwAwZgBwFAmCBEEMEGIYExYagQABgDgmDMIAEaNIAIoBhhjRACDDAAAcCMMEoYIRxgABlBhKFBCCIUBAIoQgBRgwiFBFDJEKGEMAEQQAYBhQSAgDFFGCeOYgcIoJ4AiCAAhBFLGAMMUIcAIIp0ghjGFoAAGQSCIK44IASCQCAJAEOHWAKMAQdIoZpQyQDCDCCNCWAKOoJIIBJACggALhDFAAGKYIAQwIYADQkgAqDAEKOeGQAoAZoARjBAgAAKECGMEUdkAggUXQBBCgBEEGYAUQUYQgowAhAiFkCCiC2-EQsIAIwABUCAAMDGMOAeNRQgJZgBRHkhABGCEEgWAYsAIZIQhwAAgBUCCAMKMQQIgwQSCyBkBmDACM24YUYIwhIgAwEjgjAVCCCoEAAQQLQBQhjmklBBIDGFEcEIQAAATwgAkhGIEUEKYYABUwYhBVAArLFOGAHKQUgAYZpggigEirABCKACQAgQRJBhTAADSjBDCOoOMdwwBAIAAQigiqLJCICIAI8IJgAkDgCJACEGOAQQc4ogZoQAQAgUjlgKAKCEYIAAxAIVQSCiEmEAOICGUAEAgAghxBAlDKDCAIIQUQgYgZQRjHgnEgOCCEIMEAwAxgYAxCDmAFDGIEIQYIcAwJIR0CmGgBGUCGCMAIAQY5QBgQAAAGBKECEiEAIIhIICgoDgFgReCAiEFYmJYIA4lAFnBlAUIIIYA&meta=recordings%20releasegroups%20compress
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      Accept:
+      - "*/*"
+      User-Agent:
+      - rest-client/2.1.0 (darwin20.3.0 x86_64) ruby/2.7.1p83
+      Accept-Encoding:
+      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+      Host:
+      - api.acoustid.org
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Date:
+      - Tue, 29 Jun 2021 13:46:42 GMT
+      Content-Type:
+      - application/json; charset=UTF-8
+      Transfer-Encoding:
+      - chunked
+      Connection:
+      - keep-alive
+      Vary:
+      - Accept-Encoding
+      Access-Control-Allow-Origin:
+      - "*"
+      X-Envoy-Upstream-Service-Time:
+      - '55'
+      Strict-Transport-Security:
+      - max-age=15724800; includeSubDomains
+    body:
+      encoding: ASCII-8BIT
+      string: '{"results": [{"id": "21c7d6e0-c2d3-4ccd-8c26-7576c2952ea8", "recordings":
+        [{"artists": [{"id": "4bc9e8c3-7eae-454f-a56c-bccf96f3926b", "name": "Sammy
+        Davis Jr."}], "duration": 298, "id": "64951154-7f2c-4ceb-b3e2-a6c23dcd15d1",
+        "releasegroups": [{"id": "6fac76ed-b861-3519-9df3-04355946ec58", "title":
+        "At the Cocoanut Grove"}], "title": "West Side Story Medley: Jet Song / Something''s
+        Coming / Cool / Tonight / A-Me-Ri-Ca / Gee / Officer Krupke / Maria"}], "score":
+        0.997429}], "status": "ok"}'
+    http_version:
+  recorded_at: Tue, 29 Jun 2021 13:46:42 GMT
+recorded_with: VCR 3.0.3

@@ -1,0 +1,81 @@
+---
+http_interactions:
+- request:
+    method: get
+    uri: https://api.acoustid.org/v2/lookup?client=<ACOUSTID_CLIENT_ID>&duration=240&fingerprint=AQADtKIzLSQuhcgfifgLXRzq40ouvLiuwz2hMKh65A9OkuBlXLfQ5_CfY2dw-viDHy9-OBrSIjl6fA_ecMWD-7iSaMO0ykR6-uBxiEyOXMfxwfnRpcrxZTkeLWGw_0jfIskXBieePAncXWhGYjrzoc-DJq-QNCcuIhePkomcwdbCoMclFfmDXxIU5sRkSod__IdJCj9GHWp4wkdoWcc78CuuphLRY7uML8Mp3A8e4scPp0hYhLjx8Co-XLjxakMvHWYeFt-PfDhxoj7eQ_fRBz985DiOw_lx5ND0bMjxf6iaoDlyaNKJlEswRVl2nMqKm-LxH3hPOKaRR1kKPT-uHE2cBQ8OLaHy4ri2ILyORqmCO0aYWbh7wcwOncGdC1YJx8yM_fCD64f9D7VxNkJ_NImiDk-I60VPodkdKM9mxThC62CSE9eFk0mPUzzaiiXCPBX0JziHMzlqHnoupN_BCE_aGQ_6yMMbhIT2RAhzhsJIffiEMNpY9NC0I71W-CfaJNFxKjHOHOkzvPSg30H0XGC6EIe3HPUR6DkY20J-XIejcBZRPcNfIVLEoaJyaE_RrAqxHzcu0ajMOPhyWKfQD7qKo5uiI-WI5_CUpA1CK9qC82i4DNou4-qF6ElJTFbWsGiOSylOFrkPPclGxNRyoUMT5fnAkhaeCxdThIlJQuN0g0uyHvmO45kRZkjW6BK-JBKaPEY3_EfzTEaWQzvSSVVgJhO6HP3hH6Fe6ELYJKAeJUJJCc9xH42mOEb4CzrCfAdD4lFyodmObke_IeEYCWEj4rKGh8V_MGfR5DroG38i5M_R1Dl8MNQuPCQaRoX2S2iuqOjWQ62G3UHKFj9-H3nQS1AWSSEjWD1ClR_ysPigNce9HvF3kDVx3niGS1l4mEdI6MKpzXgzFo7WHBfuHNpxHrlUcD_qHLkY9HkN-Yfz48ilwFQQSlZxDT9UZO0i4xFdPLuGL4dj4mFy_MGrVMUzpPY06BvCxj6e49bww4yI4zvSetBT4zpBGZ9RcfxxGrWFxsaXHceHJsQvHLKHB25eHFcCh76gXdKRTzQq-WhOCQ9xyUUfNvB75EHljNBRBpck_EnxB-KeIj_s0MKn4oeLfqiPjTuaeCo-_EMkthBf_HAdhBJzXNOH68Qz6mjKo7eG8PAPm4eUH1_xo2wEk8h1NBGJ50N3-NFRDz3sBm8i42FwIuSLWsRxPnh0gvB7lInCQ3-CqwjzHtNz_EclZkeYbAd0HrmjjEFTXIJzlM3x0TN-3EetwwjH9NAzdOGRPpGE5_DlGG8r5FyIL4djDs-hvMJl1A5-7Ogz-MG1HeKNNs2hXYPXD-6CyjV-WA0PoYf3F34g_vjhbkFXXEcl7fhyfNvh_niHx4dP44T14Inwo1-gfWjWoN1hPcJpiM9whHl0_Oia4D_eD65yXH1hEnmGQ1d-XCfcBs9oNF2Ov3iyoukHPxdO3MSPXxBRmYeOWof4HM-xP0f1HF_QpcfFAD5T9GB-GFa6IHyMe0mFWoWfXHCRPiTOQz_huAOP9D0-pDLR_HgW7MNz6LfQZ8d39Mg59ImM49kLH31YoR1S-TgH-4N-9MFnYZ-HRtuwF83b44ef44oWvCeaGpol5SPUCiUpNEyhXcN7nEOvGf9gNSx-9IP3F36In_BDH65CdCVOHaV2fDm-HQ5_vMMNyzzO48ebKPDRL4b2wWtwmHvwG-KT4UT6KEdfdE1W_Mf7wVVwtSpMIs8APT-uE25zPKPhGz2Ls6h1PJdwFg_eH-8hHpX5QUd_iPXxJcfG8YPz7EUfdCm-xTh8Bp_B88DTBX2M2EuK_vCTUYSRPiTOC6pP-N3AH-l7XDvSlUPz41mwaniOW9DY7PiO_shRNjLwZS98vGGFw07e4B_84Ee_E5dyhE3RPDHUH5Gew2gUJflwG9l0tNPRTFGiQ_eH_MgTJDwlXElEPNHh78KTR8VfxHL0InGi5PgF58GPeCueaBfEH2eO_Mj68NCUhDui5cEpCWdyePIDP0uI70jDQxsTBX-kI7-GH1-PMD80hJ4kHddRTR_OhDt6wj9yJTP6nTj6LEZzfCEaTYcfCQ8cox3RH2Ic5XAdfEoOLUe9jTAeojmeoPnh7tCu4zSaC-YyvIZL4fCL52joBHKzownRZxnCw49y4cjxBX4GzQpRmbCawzELreh1XEF_aHKIRn3wo11lHId41EN_-IfzI5ziDD384w8uHuFz9ImFJpRk6CjzVNBJ_ISfCNVTIc-iUEN_fNIoHE0c40cetNPR89BXoomnIs9g7QifyEK74s7xo_nxJD_6Q2Q0HcYDx0eVqQoerbhxoReax8J5eCe-hcUR5iL66PiFLqkiNLuH5whzGtqZ4c18NGNhLjcuWIducUgfHeaIGrXQ_KgPKwyNFBqpod8RhotQwmN2mMdHpDuuG82OJ9BRKzsO7yvKoz8sLfB43PAnB9WHZoY-ovmOO0cPLU-O7_hXtD_8GJV5NDw6b0d_uOrhJzrCHdUooeGPB5eOPkiLikpGQot6on1xhkePq8M1iJxWnDkAJoAAEBiECRACGsAQAYgBIABQwjskkpIWEWAiIEA4gAUDkUgCGDJIAECRIcIIghwhhCAhgBIAKAUEJhAhQRGBwAAhRVKEWAaoiURAQJTAAFIhgADGCSbEAYB4IQUQSA2BgHBEEEOMAoIxi5hRAAEDEDBCCUQAAEwBBIwgQAmJiABAIEUcYAIJAJARWABDMAKAEcAAEAQQAapDCgEiDRJGAUKIgcQIUKggRgAiLGMGGgGEA4gIYyglhEABAMVAKMAsAAwBBhBRyAjHFHOCCCIEAEZAoBBSghAhnCECSIOAUowAIABTRAANBEAGEEIdMMwIQJQBYCABDAPECAOIYQowAy1wxEBiKADMGFCAseIRAAADCDECEKAGAAKJMFA4C5hFEimGpCDAMEGAApgQAJoyggGCjBmKAVAQA0AAwCQwQkABgAEKOGMMgcBQgxigSABjlFCeKgoGAgwQQQgFBAgAoKNIAScAAYwJJRhhzAhiJBMMGGYYEgwQBBgiwAjGJALMAEIERwwKYJCQAgADoDMIKIYIAAA4gZRRAAHJACNAEIGsEMIwoIR0TCnjCALAQKCIUEAQAgRxVBAgAEMAAAWcMAQwRggD1AggCEiCAAaIYEgwgBgCRjDBMHGIAcKEQEwpAYQhDAgAFGLAGSSIUAA4oYAxChAAJGOECmSFgwYoYRBAgDEijABGCWSQUIwYxTwBQAPABDREMiMJBQggRBwSxECkBADGaYCAQcwYIAhhhAgjEDDESAEMAowoIJBmgAFGCGKAUcQMEAoAy4wzRCChEIDcKSGEYIYIQwQiQiIFAAPACIKENRoEAZRCAhjFAFBACAYYciIpZKhCFAgArGAGCCEMMQAYggAhAiLkBGUIaEeMUAgAQQSQAhABAAAEOQEUEMAQABgiCiAiuCNEAQ&meta=recordings%20releasegroups%20compress
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      Accept:
+      - "*/*"
+      User-Agent:
+      - rest-client/2.1.0 (darwin20.3.0 x86_64) ruby/2.7.1p83
+      Accept-Encoding:
+      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+      Host:
+      - api.acoustid.org
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Date:
+      - Tue, 29 Jun 2021 13:42:29 GMT
+      Content-Type:
+      - application/json; charset=UTF-8
+      Transfer-Encoding:
+      - chunked
+      Connection:
+      - keep-alive
+      Vary:
+      - Accept-Encoding
+      Access-Control-Allow-Origin:
+      - "*"
+      X-Envoy-Upstream-Service-Time:
+      - '132'
+      Strict-Transport-Security:
+      - max-age=15724800; includeSubDomains
+    body:
+      encoding: ASCII-8BIT
+      string: '{"results": [{"id": "5cb6abcf-c119-43d6-82df-e73eedc9331c", "recordings":
+        [{"artists": [{"id": "8dd98bdc-80ec-4e93-8509-2f46bafc09a7", "joinphrase":
+        " feat. ", "name": "Calvin Harris"}, {"id": "3cce3d37-d44f-46a2-b1e3-cd7247d5015c",
+        "name": "Tinie Tempah"}], "duration": 242, "id": "0bfaf2c7-b1f1-48fc-aacd-7b3ebd69834e",
+        "releasegroups": [{"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "f2056055-28d0-40ea-ad03-518233376485",
+        "secondarytypes": ["Compilation", "DJ-mix"], "title": "Club Sounds: The Ultimate
+        Club Dance Collection, Vol. 65", "type": "Album"}], "title": "Drinking From
+        the Bottle"}, {"artists": [{"id": "8dd98bdc-80ec-4e93-8509-2f46bafc09a7",
+        "joinphrase": " feat. ", "name": "Calvin Harris"}, {"id": "3cce3d37-d44f-46a2-b1e3-cd7247d5015c",
+        "name": "Tinie Tempah"}], "duration": 231, "id": "0e120b10-c127-4709-8914-808c1f45b0d3",
+        "releasegroups": [{"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "585203d7-bcb2-47a4-9615-14e075e06160",
+        "secondarytypes": ["Compilation"], "title": "MNM Big Hits 2013, Vol. 1", "type":
+        "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name":
+        "Various Artists"}], "id": "f3425d87-54c6-43cf-a9d1-ed21ce3723b1", "secondarytypes":
+        ["Compilation"], "title": "Summer Beats 2013", "type": "Album"}], "title":
+        "Drinking From the Bottle"}, {"artists": [{"id": "8dd98bdc-80ec-4e93-8509-2f46bafc09a7",
+        "joinphrase": " feat. ", "name": "Calvin Harris"}, {"id": "3cce3d37-d44f-46a2-b1e3-cd7247d5015c",
+        "name": "Tinie Tempah"}], "duration": 240, "id": "5de39ec6-7335-44f7-a9b9-8f9f0bcba36f",
+        "releasegroups": [{"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "65cc81c1-0c1e-4340-934d-8b4111fc50fb",
+        "secondarytypes": ["Compilation"], "title": "Now That\u2019s What I Call Music!
+        84", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "8cee47cd-279d-4682-8a43-d2b65a93c6ec",
+        "secondarytypes": ["Soundtrack"], "title": "Berlin Tag & Nacht 3", "type":
+        "Album"}, {"artists": [{"id": "8dd98bdc-80ec-4e93-8509-2f46bafc09a7", "name":
+        "Calvin Harris"}], "id": "98432828-5764-4892-9e3f-9c674cf70acb", "title":
+        "18 Months", "type": "Album"}], "title": "Drinking From the Bottle"}, {"artists":
+        [{"id": "8dd98bdc-80ec-4e93-8509-2f46bafc09a7", "joinphrase": " feat. ", "name":
+        "Calvin Harris"}, {"id": "3cce3d37-d44f-46a2-b1e3-cd7247d5015c", "name": "Tinie
+        Tempah"}], "duration": 236, "id": "7fbff753-3cb8-4875-be88-065e6ead742a",
+        "releasegroups": [{"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "003e1157-397e-4927-87ad-232c50f9cc24",
+        "secondarytypes": ["Compilation", "DJ-mix"], "title": "Kisstory Presents Old
+        Skool & Anthems", "type": "Album"}], "title": "Drinking From the Bottle"},
+        {"id": "ffc4f172-ae10-49d0-8462-b9d379655ac3"}], "score": 0.958739}], "status":
+        "ok"}'
+    http_version:
+  recorded_at: Tue, 29 Jun 2021 13:42:29 GMT
+recorded_with: VCR 3.0.3

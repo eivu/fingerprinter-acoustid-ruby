@@ -1,0 +1,49 @@
+---
+http_interactions:
+- request:
+    method: get
+    uri: https://api.acoustid.org/v2/lookup?client=<ACOUSTID_CLIENT_ID>&duration=186&fingerprint=AQADtEkSM0kSJlGCKxJeiDGPUtNxjUfIpRXSZ7ggjuRwSTzSEbUiFf3hFyGreJAVHeVT2AlOQycPi-LgbEetSEUsHmHGolc86OJxyUXzQDuN7oedcEO8wVWL8Dn6QEucGbl4nEZPRMoD_eg7pNaOdzmucDjy7Eii3ehd3BPSH1p3hD0Pq0zxJvhCHedxUUiO-MRZ-BpC9iK0TbuQlht6_BSeolNOBT7SQ6cIWyo06_gvXHh2hKKYCs2DHz_Oo4d5I8UP6DiA48dxHMdx_DiO44Bw_Pjh4zDuFcZx3IaPFz-MvsRd4UdfND9O9MSP68eP4ziAA-INXKA-5PjhEw985Hix5QmOH_rgE_DhCziOf4ZxXMJ2XIcD6Menou5xkwKv4Nuh_Squ40hVRbh0hF3w_dAlOeiVoDkeLccjHZqPH1aVBBePMkpwH_rRRyoaPOKhR8H1oD_yKgn8I6SGR4fOH4-SovlRL3giHdcD7YfVBVdQSjkeBecDfUmP5ju0jXjwfQjNB4evoZSCXDke8YdOB82VoF6OB58OzXwEH7E11EIeJcclHvriHH0UNMUHPdGH_EMPxz0qSge75MMVBn-RfNES5A_6G5Q1ohZ-oX2KMDGhpcqCqsMbXApKHt_x5US-44fVKMGFUkMe4XxU6EuK5jvqBU8EvQ9qHlZ35EMpBbmCix90OkdzJejGQ8ej47wQ_vA1dFOQR8H9Fbod9FGC5seTEPp01HwEf_iH6yijBBcPPUcf6WjwiNCjfLiO_khVJcF5hEwUfIfOH49U-Hi04JEO_UF_WF2OKyg1PILO53iUFM2F-tAjXEf4DOfhOkef5HgSDfeRZ4sE1WWC0MeDJtyIX3g-hFJu6FuMT8iLXApu4vLwENeO88ct-BoulFFy6D8uyUGvBM2Pi3gifdD8wDpyJcGNkNPxHDp_9JF6NHhEXIEuPUJ_5FUCPyg15NEHnT8eJYV_fMETCdcD7R-sLsgVlFKQR8H5CPqSovlQE3Ii_Kj5IO8OfyilIFdw8VGh02iu5KgXPMGnQzMfWN2RD7WQRwkuftAX5-ijoCk-6MmHfOhBvUctHV_y4QqDv0i-aAnyFIx12BpqHb_QPkWY89BSZUH45biDXAiv4jPs3HA34_CjBL8QUjseQeeDR0nRHPWCJzp07UF_-AvyKwgp5XgU6HzwKCmaoyae6NB19A_ywR-6SEGuHBcf6DSaK0E9PNFw7YP2B_6QD58QMkqOiw_0xWi-oCaeQc-Hmg-O9BpqIU-UHBcPnQ6qK0Hz4EIeHuGDS9i86MaFkjmeL_h-NE6WEfWiB_mKJx-an-giIccjrdBzIT-OPZ9xj_jyoak-lHOM60UeBemDH7-OfNdwMQ88cSE-fLmMbsuFH-kTBTdCFk906LxQOUqK5se5HI8ObdEO_0OuJLhRTsiT8NCFPkqK5viCJxI06hF-5ErgB6UU5FGOjxe0R0nRHF_w6OiiXRB_fMEVlFLwJIk-6KgcJYWPigvkREKpR_iRL_AVhJSCJ8oHnccdJUVzVFzwCHK0R-iPL0ivILSCS9EH_bijpGgu1IMe6Sj1HLlwHq6DqkmOSzue9MizRQl0PQhVExf8UcT9wLsRMjk6ig60lHiOf8JvVNJhZQl-wT9yBb4U1AryKIcc8cFNo7mSo-JyPIKuPUL340P6oRbyKDnkiA--GE2-oOKCT5CTfOgf5PA11EIeJXjER9BpNLmSo-KC73iyB9r-wR_yoRbyKMEjPoK-GE2-HBUXfDrkJEf_CDl8DbWQRwke8RH0xWjy5Qgf_Hj4oD-2aviGUNRx5sTz4NN3NNYyIvSSEHgOa3rwI9dxqdCjC_mOF7uyjjg9vItjuLKD1yUeHbkY-Pjx68G3PEF_oSkXfLqMUrpgOYcvpNdwIWSUHHLEBzctNFeCiju-4Un2QfuDD-mHCyGj5HjEB6oXC80X9DkuRdCWfDgfHLkGVwgZJccjPlB9obk09CcuEY_0Qdv4wB_y4ULIJXgSPoJ-NLmEeoFa4fnQ_UGOa3CFkEsOOQkfHJUjoemCa3iSfdD-4EP6oRbyJceT8IH6C82Tod7xCXryIXyCE2_gCn0SXP3xzJKCZHKiCvmP88STUYSrE76CMkcu5dCeL0GT73iPO8dF9K7g-vg_pBd87bgQMkqOR3wE_Why6agXXDue7IH2D1aHfMePkBOehI-gX2hyCRUX_NCWZB_uBz_Sa7iOMkqKPOIjqN6F5hzqxbh248keaPsHf_hwoVxyPAkf6BeaXEL14DnkJPtQ-kGOa3CFkFGCR3wE1bvQnDv6GPnx8Ogj7Ie_47uESsyPJw9yvoK-BWHiKEf_476Cd0uF_6hDCSbJ4MIvCckdhMSuFBU3JxTC7INMHaG2oznBL4zwHOi1A0Zq4IaO__hxHMePEwed48fhw8wBABcgXPgJ68eBHwdsG3hq3Id_lL2QyziD5kcu4cfx4wSo44eFA4d_6DjhCzmODSeMHMQIEACAIYQASDAAmCAECCAIEYAZIASAQCBBkCVGACoEAgAw4YTkQFABCBEKUEWMAAA0AhiBhCEmAALPOGW6sdYJ65xxAgMOjFCkK4YEVcgIABgjSgkAKHHWHCUsA0QQhBRxxAggjFECOCGIJkBJgAQBChlIGEGCEDIQIQwKRIggTAgEkDECIEIQIYAhJxRRRkBFkEBCOEKQkIAwIQQSkhAijFBAIEAIMApZQJEgShkkiIASMSY0AYZABAUSSDgBiDCOEIGAkIAgRBAAgggiBBWACCAAYkRwIJgABiEjGCGIEMDIIIooIwgkRABGICDKMgEAFQQppJgRUBJlFCBCASSEAEgBJxARlAiigEKKMEKAEMIAYwRAAhECGHJIEGWEE0ggQZwAhhAikGCCEGGcIAIBQoACFwBKkCBKcSIElEAAghwWAAIBFCGCIeEAMQIAoAgRDAkHlBGKEEYEEoIQI4ATiggkBGBCAqCIQEAAQSwCCBIjFCGKKeCUQcZQQQRyxiCnkOAEACKAAcQQCQASiBAkgCHIEKEQEF4gJBQUCgkjiECIIEMEg0J4pKBQRBhCACLECEaEIAwQoBTwzFBCBFKEIAEQdZIAQYVDjAgGBBNAAEMAAYIRoQQDRBkBgRACAUAYIUAAJ4RAABCkjIBACIEAIEQSYoSyBBEmAHGIMqcEQQJQEgABTBokOAEAECEAQkIApAQQiAhiBCNICSGIAQwJqZQQRhAACBHAISGQAUYBAZkSIAhiBCNCCUEAQAQoixogBBAACQAKUCgIAEIgIiQCQAAhAEBICGQAAIwQIxxATghkgGKECEkAUkAAAQAhQACIlBDIAIAYEZAJAYQhQhJijSSAEUKIAoQoYQQQBAEmghTKQAaMI8BYBYCzwFrngMPAKQeBeM4YgRUzRiBkjHDIEAqsEsY6ZY0w0mDwHAE&meta=recordings%20releasegroups%20compress
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      Accept:
+      - "*/*"
+      User-Agent:
+      - rest-client/2.1.0 (darwin20.3.0 x86_64) ruby/2.7.1p83
+      Accept-Encoding:
+      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+      Host:
+      - api.acoustid.org
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Date:
+      - Tue, 29 Jun 2021 13:43:03 GMT
+      Content-Type:
+      - application/json; charset=UTF-8
+      Transfer-Encoding:
+      - chunked
+      Connection:
+      - keep-alive
+      Vary:
+      - Accept-Encoding
+      Access-Control-Allow-Origin:
+      - "*"
+      X-Envoy-Upstream-Service-Time:
+      - '138'
+      Strict-Transport-Security:
+      - max-age=15724800; includeSubDomains
+    body:
+      encoding: ASCII-8BIT
+      string: '{"results": [{"id": "4cf09ce4-041d-4f95-b4ab-ad26a619872f", "recordings":
+        [{"artists": [{"id": "022b58ea-6098-411d-b88a-652821d4c191", "name": "DJ DB"}],
+        "duration": 186, "id": "cd46d9d2-b000-4111-be6a-5338d26fba3c", "releasegroups":
+        [{"id": "c4ec56dc-8c9d-4079-b899-a096beffdcc0", "title": "The Secret Art Of
+        Science 2", "type": "Album"}], "title": "Brasil"}], "score": 0.980105}], "status":
+        "ok"}'
+    http_version:
+  recorded_at: Tue, 29 Jun 2021 13:43:03 GMT
+recorded_with: VCR 3.0.3

@@ -1,0 +1,53 @@
+---
+http_interactions:
+- request:
+    method: get
+    uri: https://api.acoustid.org/v2/lookup?client=<ACOUSTID_CLIENT_ID>&duration=103&fingerprint=AQADLUriJIvETPAP1-hxHn_xg3rYEHly4Qd1KMePJ3zQnBNOXDouRg78G8Whv3hRJQnO0TF0ekh9_HjQB--N43k6XNKFqcJ9ZIeOH3kAEshx_NBhqAfSnDAe3Dj-IzuEnIfP4z1-HLhgecfxwSf-HB-QXEKe4SNo9Dum_riCD9Z9vAl6_Hg0GTmSL0EzbUYVJcd1OegZB815HE_R9whzQogT68K4JO1QG77w48cPOo7x6HiOv0UiRT3S_ngY1NuDH0d-iGON6MrxoDl69MOV5Ph1VDm-4MmRoyd6HbnQlEIZ9biksMEz0Raa8-iP48dxJMhz7ApOPcN_lESY89DxI8fR4z929Dh65BCP_jiaB9pKIz964vywH8fHHvjxwzmSHfmHP6jUvfDhGwWa9-iHC8gZHe3xA-lxHAeMPPjxww985HjwGrhhhiJyBSodhDlxZjxq3tiDpsWDI8dFPUiaJEeeCPqOJyvS48OsaNiWH30bHMaJ5jnOI1Z-JMcrkQij58mQ7MfM48lzjEyN5nTQJ3iOPEVyOUedkPCfou-E63h24Tvs0BKe48Kvw3hwakeeKNCDPENzH_3x4FKOJ1F4VEezLA9-HOWm4IE_9LhwPHiGyroS-DtyJD86OtiBrzqOXEGyJ5iuFT9-XNoDJ4sn4TzxRMFPPMLFHE8fXH0i9AhzJB_u4DsX4sd4D00S_ShDNH-C5pKFh8tR79Dy9HiOOw9-NJeCrhn-H8kd5MMpJR7SRoNOzOle_DnC10LTDcmnII8_PGiS5whFCdehZwievTCSL0e-9PjR9EcTilWCN8dvpPyD5AKeCg4jHP0eNPzxYMqTC5WZh7iIJ_QxvvBrvCw-4g_C9IJ2xBlz_HmGvzh-_Eed8PBD_PDh8ujD4LiCOIweaPkVlFJ-tL_hSUfzXMiPB-6Jh8XZCo_QaEefRIiOVzleI8zzoPbx436O5y7843qE5Bfy4y_sJY-Q8wqUZ4gVEnl-XMk8iA1VJUOe4zg-HW_CC-7xIzlyHZdwHW4S4spuPJHywG-FB-6R8xruGPrg5seZHEfz1CFCZUmP02h2JUHLCz-O58iJZE7IoPSG_yhPNM9xXMWjC2XzQEevo7mC9rgx3agpXMeP88fJEz12nAiS_TiO8g-e8Dj-kLCRjAzy6Giq4Dt-9A-uXMgTFcnxHX503BKPpNmHPAoplFKWozm-4_LxRGGI6EPyfnhwNCf64DmOUT6uGo-I7yh1XESvROjxo5koI9dTQaOK5tPx6MKP-Bm-hkQoZoKfIxmzHOdx4uHgH8_i4GSOU5uC9oFfmAtVtFFP_EXVVBrCJKcEPQg7Bkc5HdeV4M-ywBeeDdfR5KhyHFeKF_VxHHeQ50hmEY8iXEpy_JiU49JTNJTwo5ksKUe_CM_hXjiDvIbnVILO4wiP2xKx6ktEXAvxo_nO4UV_w9NYtKpz5Cizw31CNE6OK9gR52BV4SEqJ3Lw4juuK_AThA--I1Hk7JiiPMeZ4zr6B_6e4GZ6dMnxJTjro9NZNJHx5Hhy_Gj2VAiZDzriNMO37HiO5kFPHFeWCxHbCz96fMeDHL-DHISOK-B4BO49fDDxJ_hn_Ie7HbaL7_hjpDm68MOTH1riLIT2Ij1uC3-HNjITON-LH89ywTlyFdoVhHyPPxI-Eu48oyRvVEETM8OVB0dz9MRz47hk_Ch5VFsU5MKPZPoDn8cVmKRRJwR6ockTG_ue4DmeoPzRnMEf_HD_4DkexA4LcXlw4w_OFFqZB_5yuJkCfTDicRYe1jEq3_gZ_JhylBl__DneTRPeIXw7HBqlTIhOos81NH1x5SgzHz5--BP6KHiImMuR_EfJ7EHDp7gUFj-aUM-R5xCP0B_-HcdRFs5iSvixA87x4zysHjcO1xleIj-R4NiP73CO4_hxFf7xRMgx-nh5bLqgIx_sw9Vx9DlOHV-OPHqJNNOL6zieHA-OKzgThDnkOTCTHD2KpsdvfNEh52iKp_jwo8-FKqOOJkyDoz-a6zgAKjjBQBIPjECIG4eEQMBAQgQmgADEEKeCAQgIQEgYCSgVZ1AJAMVmEGEYAEQoZ6gUpgFggFMGEcAEQYRYkyCCCgMhGKGKKCAEBZYAq5RRwhglFCFONCsIAtoiCATBhFBwBYICAOCARUxaqphGABAgCDcAImQA8JZaqZQQyThhCAQiCQEMQ0pJA4WlgBEmAKTAOCYWQwwBoxgTBBBjCLMSGGeQYCQxIRwjDEnAgACCACsAAkI6AZAgAnAiETVMBAkgMYJ4JARjgArlEZGUAUURQkMIWJQADgkkiDAOIOKYAQwZJISwQCECEAPAIAEgIAoQTAiwwAAApAMASACYIQoEoKxggFAkjAJAQOCEQcEKxQQIBiBEKCCGSAcUAIIQQyhSRCknlQMECEEIAQQJAZGjhIAHjHEKEGUEMAIQYhxhkAAEgBEGOIKYoUYYQBgzygnHJFCAAOSUEYgYBCwAwABCAODGAAMBEwgBIYmBDAEkgRIIEMEJMA5L4IhSjggIhZRGECRUBMAAgQSxCDGgFDCECQGhJQgYAxhwCBAECDOMGoEMIogxQQFwRFqgCGCsIEEEIUxQCJMCsmGFCEEUEQANAwQB5xkhWgEBEBOAESKMcgYpoiwEyABlEBAMIGSIEQIQRgggjlClnEAcISSBJ0IAxJBRTAQkkQPAOUMAJAA5oZgURAnlGVFACCOQVIIARYxAQCbBkIkAGeOMEQIIYRAwzAgImHEIAIQBw1QwAQwRAgFFlAAACAGAMYoIIpGgzhLkEALCEUWNUEQBABwUTCGAmAMMkcEANUww6awESBgEGmGSA60gEgQZBABABjpoDchIgqUUMkAhCxAQTCAALQ&meta=recordings%20releasegroups%20compress
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      Accept:
+      - "*/*"
+      User-Agent:
+      - rest-client/2.1.0 (darwin20.3.0 x86_64) ruby/2.7.1p83
+      Accept-Encoding:
+      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+      Host:
+      - api.acoustid.org
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Date:
+      - Tue, 29 Jun 2021 13:48:40 GMT
+      Content-Type:
+      - application/json; charset=UTF-8
+      Transfer-Encoding:
+      - chunked
+      Connection:
+      - keep-alive
+      Vary:
+      - Accept-Encoding
+      Access-Control-Allow-Origin:
+      - "*"
+      X-Envoy-Upstream-Service-Time:
+      - '128'
+      X-Envoy-Decorator-Operation:
+      - acoustid-server-api.acoustid.svc.cluster.local:3031/*
+      Strict-Transport-Security:
+      - max-age=15724800; includeSubDomains
+    body:
+      encoding: ASCII-8BIT
+      string: '{"results": [{"id": "b7eb30e5-a8cc-427c-943d-5b5db23b3ecc", "recordings":
+        [{"artists": [{"id": "4a37a655-160e-4961-980e-e639bd16f93e", "name": "Quindon
+        Tarver"}], "duration": 103, "id": "c9f93a00-96e2-4098-add0-ed612a2b966a",
+        "releasegroups": [{"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "650ebbf1-e25c-3f13-ac2b-d98010c1c5ee",
+        "secondarytypes": ["Soundtrack"], "title": "William Shakespeare\u2019s Romeo
+        + Juliet: Music From the Motion Picture", "type": "Album"}], "title": "Everybody\u2019s
+        Free (to Feel Good)"}], "score": 0.98476}], "status": "ok"}'
+    http_version:
+  recorded_at: Tue, 29 Jun 2021 13:48:40 GMT
+recorded_with: VCR 3.0.3

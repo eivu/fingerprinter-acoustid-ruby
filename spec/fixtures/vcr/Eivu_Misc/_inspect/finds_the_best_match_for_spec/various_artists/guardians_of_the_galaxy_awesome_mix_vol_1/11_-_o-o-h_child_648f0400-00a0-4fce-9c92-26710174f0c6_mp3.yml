@@ -1,0 +1,448 @@
+---
+http_interactions:
+- request:
+    method: get
+    uri: https://api.acoustid.org/v2/lookup?client=<ACOUSTID_CLIENT_ID>&duration=194&fingerprint=AQADtA_DqHDUBZeyHivyC1p-XAd35IoOP_ixHz5yHm1E4IdGMkFTZQ1-Y1qZQ0sVBfyhL5ia7WjUHP3RjHiu4sflJ0GpRBshyi1upMeT44uR5sJ00hDoHM9xHX0Of9CaDRcaoxaTCi-ad8KvGBbOC5GXw9MWhB_x7fih4yuhXcvhfEMcVVzx48V7uMb0GFerI0uSidCcpgaOPBWaZw9C63hwwTceJYE0J8JDGpOOR8d3uMhZFO9wHneO73DY4zGqD-kzmPsRydvxHU2lJEe_cwCTH23sDDeS-Qgz4lngOcaXG98VPDueDKFcaMGFF5eO5wqeBz--MKisQE00Pmi448VDB7_hSeGh-4h_vEo8hOUp6IyQbcP4wA3OHf-FZFeQG-eFOskFl5dwTnC25KjyidiP_gyo60htVjh_PII-nuhzxNKxMnnw5kJTB30i_MacH-dFfHoy5DlOC3rRKKx0qEsSUBVzpDeFXcdHwZEyhUKuS5A_pCNDoh0tPIo-nDrRG9eHUHF4KBIyDXlWo9kqKQn0o0dz6ENuNKiMJyLx4cwR-tB_hD-O_7jUBtdgRjn-4NkT3Mdz6GCOZlJYnEnIwBNt4tNwPsKP10dyRlSQn6j64ctCJA_ivaB-9BP-ZMFJI3PyDLqQ40nQ08TlOMGVXHB0hJAb7qCekDiTHPEF5sevE8le5Dy-OfiJT4ev43hyo5yeBIwfEcODZOmG8Lhw5ugTodEZXMePK0eoVU6gF846Dfl0nMc_9LijECcxnHnQ6oZ_9Md_dFdgHmm3I9nO43zQcGD4DNdxJUfzGFVzPIeXOClyxkNSyjhvDdUjounxq_iOa2gsIuYiNPqhUGSQ50e9Bf7Qo0_RZ8fTC-GlI2EcafBEWUL7Ei8nDefRMRzRBNeF42yOj6PwhEqDFyHUlESYnFMsPBfqEz9CH78QZsvxxYf3JETXnNiP62i0R0SPu0c6KUPyPPgFyg8uDaei5PhhKUe248F5aM_hHc8SSsKfwXmgI8drlN2JJ7_wo-aL5mMTPIqPZ8J8aNqHrvRxKleCOj2aM3g_4id-owmTo3aaIRlzIcx4_Mf3CJMyKpPQhG4B_zhzTMy3IM2RbMeZJMI14iaH45k4_MfDIBSXDVqOXMfHcMKVPAGqj2iSJtsV_DhuHS1VKUTjPdgjfDnSJCSS8vgV8InQ7DrKaHoGjsdzXGRwXUOzKFGJ3mPwS0b2pxgzSYf6BV6U4zquwOWhJwoeBe8FZ3twBTdy7JpydH3QKF-CJ-GRfQt6iPkR-IVPFWWCK8fRxNnRh-jKTEYTPvjy40vIoXlwH70wPYcWN8Tz4s_QHMloIke9U9ilpAoYSX2wI1mO0BWOP3gcDdYaBhd-PA_6LM2R8Mh5PKh5PIoX9J3RpM9xbkGkMHYJDZCOpspSmEk0I7yFH9_xTCS8pXgW4niCvwgfSoGe3RCnIrViiYPzNHhL1MoxkUxh3gm048EpNGki1MqB5kE7ibiyoMsuoiLnIM-aFcl-THkkPBVx4dWDB82PXsclWguRNHKE9OnwdMmI52gcGbWSREiO9DiDx4VDXRKeJMKb4xOSNdOQVhJ6qvg-fE-QI7mCpjtaHX8G7g8SCyHRHPylDM-DfmjG1Ph28MfFR_iSxZByGo9yBT4ftGvwDSc1nNlxJTlOPsgR6Vfg5_gWw01NtJyOB73g8FhPBv8k-DgGvcAXFj9sHSj74saPScvR8QEv5NOx80Jo4jtcH-9h5sKnLwg9JIPHBp3y4QmPL2g-YvpgTsF5_MHBJEfv4ze6PYQzRDqF5MKP90YbaROOW8oYOPElXDnqfPh19FkUoxmv4Bmt4V2Opkdo8YMWN0fY5cQfPPCTHPHxQ6WNZlN1HL8Cv3iMPkqKJqlQVYeeE3m-CSVfNPmH58LPCthdlGJ1vBkV_ER0I2ES4j9qXcGDygwHK3kXlC-Ox4zxa0e4Q0vEi4icKBcOJt_RKw-eOMSPZkeZB88yiYgPMenx0Mh7NM-P_sF0wTeiS4V4VFIiZIvy43zgAzccJnWHSRmP5jp--BlyIim6Gw7tEB_x5igpM8TDBD8aTVcR6j50_dhTSMmio9KPXSm6kkfTB38Cf8ePK4fqw0_wTFkP5QfLW3gQKVtKlOGD52jyHN2P2C_0G5Gj5Kh8WNdRPfhxJcalZEdvwXeOFEmkhEyOf0bTRKIS4zxZPNdwHmWObpJENLaIXJSELoSWZXnwK4nwH-GDh0cpHU_yRXiEUGag5RmO58el5cQPH2cDndCJ6cNWo5fwk1B_PMePnEfuotcyaOlxI8e-4VmKf_g_PJOOMJ-M5KRxwDtOy2iMC9eOfsmSBM5qQWGOd_hRO0XLBzZ6CX2F8yrCH3c-QT6HUD5MHZ-K2sdFCj2D96iiMUTMHL8CnfnQPEcfxbhy1DBRHjehSGySEV-yIw5XmA--4Cl85uiPo2R2hHED_cSfIYvEk3jIYJ_QIzzOFM_R4zd01Km24S_ySjj-4QseKQI23kOorUvwE9IW4nmw68KP5kqONsZxYcozFX2Ga8RVVHmhL0g5Ev2Jmsc-Pvh8lMWNclIyYUr1BN9pMMsTKDzqCj_eFj-cNguO5zR-9IliDWmhG98o_Di2E-aO7h-4JfPx4zj6PRqapimeQYdjJhKuH9eF72DiHHoW-GeGfkf-4-EBQQBCwhgmjBAMOAaYUBYIhAQARBkGCCPAGQMQFBZJJpAhoBMAAJLEEAQBAYJYwZRQgIAJhENMMmGNIopRppBQEAgJjABKCCKAUYAhBJBAii0iCGOGGggUU0QYZBAQQCAAjAJMEmMEMVAYIJBBgjAhCHIECMGEIsQggQyQBAhEjDFWAGCMNIIQxYDygBnhgCAEMSgEUYAoBoASQiDBDGJKCGEAQc4YIIFhDKAmiCFaACIkNAYAIBSCgiHiVBGEUAAMQQQbh5BSBgiADAVAKIAUA0oBaBgiQAkGnBAGECEINBRAg4gRRCG0BAFGAEAARgYlRAgFCCEqDFQGAOCMgYAAwABDijGAoGCSMaeQIZIAaAIgxDBjAEKMCQIAAUQAIIAB0CHAALCEAAQCgowhAIBi0CACABSKCAEcUYoQ4IQDjBEgkFEAAUcUR8YRYAhjxhBFCDDACEAQY4IRBIxRQghmIAUCAwKAUI4Y7JBSAlDGrDDCEEcUdMAAxhUCBBADFCAUGYSIUgIQAghQABiAnEEQMSC0AkYqgYhkgiAGkAICGWOMNQQQYQgAjjBDGCBeMCGQoUIJAChEhAImkAOOEYMAIAoR4oggCGBBkFCKGYCABQQipYAHCBFlgBIEACKEIEhRQYSgRhQESBCICGGAAoYJAoyBFgAiEGBIISAgAYoAYRRCijEjoUOAAIGUMoYJwoR3AkAGFHEKEAAEAsQAI4QRAgFABIEIEgSEAYYhSIBiwgBChBKGCkaEEkYAAAAFRGAjmADCGEYEASAIJAgAEoiIhAHICASkgQQYoLBUzCBAABBCKMgYUcIQIohgDAgBBIEAEiakIEgBZAAhEEIiAGdAAMQEEhAIAKwFzFgmFDIUCgKQEARJIxwTQBGgECAMMASAE4gAAIACxADGAGMACUUQIUQIxCAjwCgBAEDIGCWAIMIJYgA&meta=recordings%20releasegroups%20compress
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      Accept:
+      - "*/*"
+      User-Agent:
+      - rest-client/2.1.0 (darwin20.3.0 x86_64) ruby/2.7.1p83
+      Accept-Encoding:
+      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+      Host:
+      - api.acoustid.org
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Date:
+      - Tue, 29 Jun 2021 13:48:12 GMT
+      Content-Type:
+      - application/json; charset=UTF-8
+      Transfer-Encoding:
+      - chunked
+      Connection:
+      - keep-alive
+      Vary:
+      - Accept-Encoding
+      Access-Control-Allow-Origin:
+      - "*"
+      X-Envoy-Upstream-Service-Time:
+      - '979'
+      Strict-Transport-Security:
+      - max-age=15724800; includeSubDomains
+    body:
+      encoding: ASCII-8BIT
+      string: '{"results": [{"id": "f09eaf2f-6254-4647-b09c-e930a4cb7f29", "recordings":
+        [{"id": "0af4bb74-be1a-4709-bfeb-4a2297716a29"}, {"artists": [{"id": "42700164-abe3-4b45-b627-f4c8deca5e82",
+        "name": "The Five Stairsteps"}], "duration": 198, "id": "267a619d-867a-4947-a4c9-376042770d4a",
+        "releasegroups": [{"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "5b6bcc01-cef4-4c13-851e-859d58a1e8ec",
+        "secondarytypes": ["Soundtrack"], "title": "Music CD Sampler Inspired by The
+        Pursuit of Happyness", "type": "Album"}], "title": "Ooh Child"}, {"artists":
+        [{"id": "42700164-abe3-4b45-b627-f4c8deca5e82", "name": "The Five Stairsteps"}],
+        "duration": 195, "id": "440f7cef-87c5-4c03-84a7-edab6b34a384", "releasegroups":
+        [{"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various
+        Artists"}], "id": "b5777c1b-6b67-4871-a788-3a6c05435431", "secondarytypes":
+        ["Compilation"], "title": "Pure\u2026 70s Dance Party", "type": "Album"}],
+        "title": "O\u2010O\u2010H Child"}, {"artists": [{"id": "42700164-abe3-4b45-b627-f4c8deca5e82",
+        "name": "The Five Stairsteps"}], "duration": 195, "id": "4af967a1-0a7f-42ac-93c8-e5e80f70a6c1",
+        "releasegroups": [{"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "ff3147f2-0be7-493e-86a7-73f3ba1afdee",
+        "secondarytypes": ["Compilation"], "title": "The Real \u201970s", "type":
+        "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name":
+        "Various Artists"}], "id": "9c82540c-e449-4bd1-b251-9b1e530f8bce", "secondarytypes":
+        ["Compilation"], "title": "Romancing the 70s, Volume 7: My Angel Baby", "type":
+        "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name":
+        "Various Artists"}], "id": "332c40b4-d16c-366e-ae4d-af88e109d92a", "secondarytypes":
+        ["Compilation"], "title": "Old School Soul Party", "type": "Album"}, {"artists":
+        [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}],
+        "id": "e541ee91-7058-35be-8a01-f40c33a260af", "secondarytypes": ["Compilation"],
+        "title": "Can You Dig It? The \u201970s Soul Experience", "type": "Album"},
+        {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various
+        Artists"}], "id": "950092d6-45f6-4269-87da-99a9ff2fcc52", "secondarytypes":
+        ["Compilation", "Soundtrack"], "title": "Guardians of the Galaxy: Awesome
+        Mix, Vol. 1: Original Motion Picture Soundtrack", "type": "Album"}, {"artists":
+        [{"id": "03cfec4a-9885-444c-9e74-5fbab5861106", "name": "Tyler Bates"}], "id":
+        "e974e9ae-1933-45a5-8f3e-230ccb1759c8", "secondarytypes": ["Compilation",
+        "Soundtrack"], "title": "Guardians of the Galaxy: Deluxe", "type": "Album"},
+        {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various
+        Artists"}], "id": "760559dc-e1cf-328c-8e3c-4ab0d1e9b264", "secondarytypes":
+        ["Compilation"], "title": "Soul Hits of the ''70s", "type": "Album"}, {"artists":
+        [{"id": "42700164-abe3-4b45-b627-f4c8deca5e82", "name": "The Five Stairsteps"}],
+        "id": "82534fc7-4949-33b8-888c-3c80b850ac13", "secondarytypes": ["Compilation"],
+        "title": "Greatest Hits", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "877695a0-5a58-4725-9f0c-36ff7d3b3708",
+        "secondarytypes": ["Compilation"], "title": "Sweet Soul of the \u201970s",
+        "type": "Album"}, {"artists": [{"id": "42700164-abe3-4b45-b627-f4c8deca5e82",
+        "name": "The Five Stairsteps"}], "id": "2056e6ee-f8e4-3803-8872-60a3beb28a66",
+        "title": "O-o-h Child / Dear Prudence", "type": "Single"}, {"artists": [{"id":
+        "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}], "id":
+        "2525f908-e9b2-3487-840e-8d0b3d774df5", "secondarytypes": ["Compilation"],
+        "title": "Entertainment Weekly: The Greatest Hits: 1970", "type": "Album"},
+        {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various
+        Artists"}], "id": "ffbaa8c9-77ca-4c01-9682-80839aa3ee9f", "secondarytypes":
+        ["Compilation"], "title": "The Box Set Series: \u201970s Soul", "type": "Album"},
+        {"artists": [{"id": "288aeac6-4ba7-4e1b-bb18-dcff77444c8d", "name": "Guillaume
+        Roussel"}], "id": "cccd2f76-cea6-417b-a626-66a79dfa5781", "secondarytypes":
+        ["Soundtrack"], "title": "FastLife", "type": "Album"}, {"artists": [{"id":
+        "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}], "id":
+        "b8a27d24-6a36-3eb8-9651-2d33d00c9979", "secondarytypes": ["Compilation"],
+        "title": "Solid Gold Soul 1970", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "fc5260ed-accd-3278-aabe-935e48af4f1f",
+        "secondarytypes": ["Compilation"], "title": "Have a Nice Decade: The \u201970s
+        Pop Culture Box", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "982d621b-3280-3230-9e15-67801797153b",
+        "secondarytypes": ["Compilation"], "title": "Soul Spectacular! The Greatest
+        Soul Hits of All Time", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "16cc928a-ba45-4896-9e0a-9e7a91d43dd3",
+        "secondarytypes": ["Compilation"], "title": "Soul 70''s Collection, Volume
+        4", "type": "Album"}, {"artists": [{"id": "42700164-abe3-4b45-b627-f4c8deca5e82",
+        "name": "The Five Stairsteps"}], "id": "30193ac3-8f8f-376f-953d-aa5695b76b6f",
+        "title": "Stairsteps", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "d7aeccbe-63a4-35fd-858c-56957d638c09",
+        "secondarytypes": ["Compilation"], "title": "Venezia Soul", "type": "Album"},
+        {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various
+        Artists"}], "id": "79e49fee-8b0d-38a5-ad4b-5a7e0c64b9c1", "secondarytypes":
+        ["Compilation"], "title": "Suddenly \u201970s", "type": "Album"}, {"artists":
+        [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}],
+        "id": "2591e77b-5c35-3742-b78b-0483d2d64b09", "secondarytypes": ["Compilation"],
+        "title": "''70s Smash Hits, Volume 2", "type": "Album"}, {"artists": [{"id":
+        "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}], "id":
+        "55fd5006-80b5-4ab7-9dc3-2487485db45b", "secondarytypes": ["Compilation"],
+        "title": "Forever Friends: Always and Forever", "type": "Album"}, {"artists":
+        [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}],
+        "id": "640e2aa7-e045-3a0a-b01f-e59e5337d616", "secondarytypes": ["Compilation"],
+        "title": "Pottery Barn: Radio Soul", "type": "Album"}, {"artists": [{"id":
+        "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}], "id":
+        "d53c9ab9-a5f5-4fef-85e6-019aa6879e8e", "secondarytypes": ["Compilation"],
+        "title": "Ultimate Feel Good", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "9c56c018-6479-3689-ad1c-4c819c04ef61",
+        "secondarytypes": ["Compilation"], "title": "Soul Hits of the ''70s: Didn''t
+        It Blow Your Mind! Volume 2", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "16d5cb48-36cc-425e-ad68-5e685df47505",
+        "secondarytypes": ["Compilation"], "title": "Motown, Soul & Great Rock n\u2019
+        Roll: Soul", "type": "Album"}, {"artists": [{"id": "42700164-abe3-4b45-b627-f4c8deca5e82",
+        "name": "The Five Stairsteps"}], "id": "f9d5428d-ea9d-3d3d-afb8-598aae2b3f7f",
+        "secondarytypes": ["Compilation"], "title": "The First Family of Soul: The
+        Best of the Five Stairsteps", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "ec215038-8db9-3a21-aae4-24233bc6cd77",
+        "secondarytypes": ["Compilation"], "title": "70s One Hit Wonders", "type":
+        "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name":
+        "Various Artists"}], "id": "c727dc3d-ce1a-47fd-adb8-102fc9190fe6", "secondarytypes":
+        ["Compilation"], "title": "Barry Williams Presents: One-Hit Wonders of the
+        70s", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "7e1a9ef9-89a6-4a7b-8680-c2d816db7c8a",
+        "secondarytypes": ["Compilation"], "title": "Hits of the 70s", "type": "Album"},
+        {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various
+        Artists"}], "id": "377da5b8-2098-39ae-a6c9-5f823ef81367", "secondarytypes":
+        ["Compilation"], "title": "A Brief History of Soul: Sock It to Me", "type":
+        "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name":
+        "Various Artists"}], "id": "4d8e2ea8-98fa-3b74-bc01-0d724676f738", "secondarytypes":
+        ["Soundtrack"], "title": "Riding in Cars with Boys", "type": "Album"}, {"artists":
+        [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}],
+        "id": "0b16980a-fea0-307d-8d58-339402713d77", "secondarytypes": ["Compilation"],
+        "title": "Top Hits of the Seventies, Volume 1", "type": "Album"}, {"artists":
+        [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}],
+        "id": "72c29587-557c-3939-adc2-12c4cfaba250", "secondarytypes": ["Compilation"],
+        "title": "Soul Train: The Dance Years 1970", "type": "Album"}, {"artists":
+        [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}],
+        "id": "cd36fb16-0a5e-4f89-98f7-b3c72e74188f", "secondarytypes": ["Compilation"],
+        "title": "Ultimate Soul", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "0374374a-9135-3674-a7bf-dfeb5712a544",
+        "secondarytypes": ["Compilation"], "title": "Only Rock \u2019n\u2019 Roll
+        1970\u20101974", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "dcc851f7-2edc-3a70-95fe-6cfba5504db9",
+        "secondarytypes": ["Compilation"], "title": "Chart Toppers: R&B Hits of the
+        70s", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "a65329ea-3c4f-3df7-b8d2-26ee46109a2a",
+        "secondarytypes": ["Compilation"], "title": "Rhythm & Blues: 1970", "type":
+        "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name":
+        "Various Artists"}], "id": "fe4f316d-c37b-4fa8-a950-14471e4357d0", "secondarytypes":
+        ["Compilation"], "title": "Ultimate Movies", "type": "Album"}, {"artists":
+        [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}],
+        "id": "81a90b6b-0c7c-3c1b-b605-b3b1b7ab196e", "secondarytypes": ["Compilation"],
+        "title": "''70s Radio Hits, Volume 2", "type": "Album"}, {"artists": [{"id":
+        "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}], "id":
+        "48da1851-6c8c-3ed8-80a5-86e834dec9e6", "secondarytypes": ["Compilation"],
+        "title": "Barry Williams Presents: 70''s Music Explosion", "type": "Album"},
+        {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various
+        Artists"}], "id": "890b264e-6ec1-3724-a7b2-09d1df9bf0f5", "secondarytypes":
+        ["Soundtrack"], "title": "Crooklyn, Volume 1", "type": "Album"}, {"artists":
+        [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}],
+        "id": "2dd62e0d-058b-37a8-bb82-dadb75abc178", "secondarytypes": ["Compilation"],
+        "title": "Entertainment Weekly: Lite Gold", "type": "Album"}], "title": "O\u2010o\u2010h
+        Child"}, {"id": "6c91af35-f116-442c-aaa1-7f0efefed0c7"}, {"artists": [{"id":
+        "42700164-abe3-4b45-b627-f4c8deca5e82", "name": "The Stairsteps"}], "duration":
+        197, "id": "7305d755-4744-46d5-9e3d-95be22ef0d1e", "releasegroups": [{"id":
+        "d7420435-fa3f-4246-bba1-b719bc7a4b02", "title": "Step by Step by Step", "type":
+        "Album"}], "title": "Ooh Child"}, {"artists": [{"id": "42700164-abe3-4b45-b627-f4c8deca5e82",
+        "name": "The Five Stairsteps"}], "id": "9015c3c5-f9d9-4dd3-ba3a-1d77afd7a904",
+        "releasegroups": [{"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "11a79c45-e031-3ec2-b995-c57d5ed1666e",
+        "secondarytypes": ["Compilation"], "title": "Summer Classics of the 60s &
+        70s", "type": "Album"}], "title": "O\u2010o\u2010h Child"}], "score": 0.975672},
+        {"id": "963d9ef8-01ad-4dfa-b275-3c170a7032b4", "recordings": [{"artists":
+        [{"id": "42700164-abe3-4b45-b627-f4c8deca5e82", "name": "The Five Stairsteps"}],
+        "duration": 195, "id": "4af967a1-0a7f-42ac-93c8-e5e80f70a6c1", "releasegroups":
+        [{"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various
+        Artists"}], "id": "ff3147f2-0be7-493e-86a7-73f3ba1afdee", "secondarytypes":
+        ["Compilation"], "title": "The Real \u201970s", "type": "Album"}, {"artists":
+        [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}],
+        "id": "9c82540c-e449-4bd1-b251-9b1e530f8bce", "secondarytypes": ["Compilation"],
+        "title": "Romancing the 70s, Volume 7: My Angel Baby", "type": "Album"}, {"artists":
+        [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}],
+        "id": "332c40b4-d16c-366e-ae4d-af88e109d92a", "secondarytypes": ["Compilation"],
+        "title": "Old School Soul Party", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "e541ee91-7058-35be-8a01-f40c33a260af",
+        "secondarytypes": ["Compilation"], "title": "Can You Dig It? The \u201970s
+        Soul Experience", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "950092d6-45f6-4269-87da-99a9ff2fcc52",
+        "secondarytypes": ["Compilation", "Soundtrack"], "title": "Guardians of the
+        Galaxy: Awesome Mix, Vol. 1: Original Motion Picture Soundtrack", "type":
+        "Album"}, {"artists": [{"id": "03cfec4a-9885-444c-9e74-5fbab5861106", "name":
+        "Tyler Bates"}], "id": "e974e9ae-1933-45a5-8f3e-230ccb1759c8", "secondarytypes":
+        ["Compilation", "Soundtrack"], "title": "Guardians of the Galaxy: Deluxe",
+        "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "760559dc-e1cf-328c-8e3c-4ab0d1e9b264",
+        "secondarytypes": ["Compilation"], "title": "Soul Hits of the ''70s", "type":
+        "Album"}, {"artists": [{"id": "42700164-abe3-4b45-b627-f4c8deca5e82", "name":
+        "The Five Stairsteps"}], "id": "82534fc7-4949-33b8-888c-3c80b850ac13", "secondarytypes":
+        ["Compilation"], "title": "Greatest Hits", "type": "Album"}, {"artists": [{"id":
+        "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}], "id":
+        "877695a0-5a58-4725-9f0c-36ff7d3b3708", "secondarytypes": ["Compilation"],
+        "title": "Sweet Soul of the \u201970s", "type": "Album"}, {"artists": [{"id":
+        "42700164-abe3-4b45-b627-f4c8deca5e82", "name": "The Five Stairsteps"}], "id":
+        "2056e6ee-f8e4-3803-8872-60a3beb28a66", "title": "O-o-h Child / Dear Prudence",
+        "type": "Single"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "2525f908-e9b2-3487-840e-8d0b3d774df5",
+        "secondarytypes": ["Compilation"], "title": "Entertainment Weekly: The Greatest
+        Hits: 1970", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "ffbaa8c9-77ca-4c01-9682-80839aa3ee9f",
+        "secondarytypes": ["Compilation"], "title": "The Box Set Series: \u201970s
+        Soul", "type": "Album"}, {"artists": [{"id": "288aeac6-4ba7-4e1b-bb18-dcff77444c8d",
+        "name": "Guillaume Roussel"}], "id": "cccd2f76-cea6-417b-a626-66a79dfa5781",
+        "secondarytypes": ["Soundtrack"], "title": "FastLife", "type": "Album"}, {"artists":
+        [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}],
+        "id": "b8a27d24-6a36-3eb8-9651-2d33d00c9979", "secondarytypes": ["Compilation"],
+        "title": "Solid Gold Soul 1970", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "fc5260ed-accd-3278-aabe-935e48af4f1f",
+        "secondarytypes": ["Compilation"], "title": "Have a Nice Decade: The \u201970s
+        Pop Culture Box", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "982d621b-3280-3230-9e15-67801797153b",
+        "secondarytypes": ["Compilation"], "title": "Soul Spectacular! The Greatest
+        Soul Hits of All Time", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "16cc928a-ba45-4896-9e0a-9e7a91d43dd3",
+        "secondarytypes": ["Compilation"], "title": "Soul 70''s Collection, Volume
+        4", "type": "Album"}, {"artists": [{"id": "42700164-abe3-4b45-b627-f4c8deca5e82",
+        "name": "The Five Stairsteps"}], "id": "30193ac3-8f8f-376f-953d-aa5695b76b6f",
+        "title": "Stairsteps", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "d7aeccbe-63a4-35fd-858c-56957d638c09",
+        "secondarytypes": ["Compilation"], "title": "Venezia Soul", "type": "Album"},
+        {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various
+        Artists"}], "id": "79e49fee-8b0d-38a5-ad4b-5a7e0c64b9c1", "secondarytypes":
+        ["Compilation"], "title": "Suddenly \u201970s", "type": "Album"}, {"artists":
+        [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}],
+        "id": "2591e77b-5c35-3742-b78b-0483d2d64b09", "secondarytypes": ["Compilation"],
+        "title": "''70s Smash Hits, Volume 2", "type": "Album"}, {"artists": [{"id":
+        "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}], "id":
+        "55fd5006-80b5-4ab7-9dc3-2487485db45b", "secondarytypes": ["Compilation"],
+        "title": "Forever Friends: Always and Forever", "type": "Album"}, {"artists":
+        [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}],
+        "id": "640e2aa7-e045-3a0a-b01f-e59e5337d616", "secondarytypes": ["Compilation"],
+        "title": "Pottery Barn: Radio Soul", "type": "Album"}, {"artists": [{"id":
+        "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}], "id":
+        "d53c9ab9-a5f5-4fef-85e6-019aa6879e8e", "secondarytypes": ["Compilation"],
+        "title": "Ultimate Feel Good", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "9c56c018-6479-3689-ad1c-4c819c04ef61",
+        "secondarytypes": ["Compilation"], "title": "Soul Hits of the ''70s: Didn''t
+        It Blow Your Mind! Volume 2", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "16d5cb48-36cc-425e-ad68-5e685df47505",
+        "secondarytypes": ["Compilation"], "title": "Motown, Soul & Great Rock n\u2019
+        Roll: Soul", "type": "Album"}, {"artists": [{"id": "42700164-abe3-4b45-b627-f4c8deca5e82",
+        "name": "The Five Stairsteps"}], "id": "f9d5428d-ea9d-3d3d-afb8-598aae2b3f7f",
+        "secondarytypes": ["Compilation"], "title": "The First Family of Soul: The
+        Best of the Five Stairsteps", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "ec215038-8db9-3a21-aae4-24233bc6cd77",
+        "secondarytypes": ["Compilation"], "title": "70s One Hit Wonders", "type":
+        "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name":
+        "Various Artists"}], "id": "c727dc3d-ce1a-47fd-adb8-102fc9190fe6", "secondarytypes":
+        ["Compilation"], "title": "Barry Williams Presents: One-Hit Wonders of the
+        70s", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "7e1a9ef9-89a6-4a7b-8680-c2d816db7c8a",
+        "secondarytypes": ["Compilation"], "title": "Hits of the 70s", "type": "Album"},
+        {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various
+        Artists"}], "id": "377da5b8-2098-39ae-a6c9-5f823ef81367", "secondarytypes":
+        ["Compilation"], "title": "A Brief History of Soul: Sock It to Me", "type":
+        "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name":
+        "Various Artists"}], "id": "4d8e2ea8-98fa-3b74-bc01-0d724676f738", "secondarytypes":
+        ["Soundtrack"], "title": "Riding in Cars with Boys", "type": "Album"}, {"artists":
+        [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}],
+        "id": "0b16980a-fea0-307d-8d58-339402713d77", "secondarytypes": ["Compilation"],
+        "title": "Top Hits of the Seventies, Volume 1", "type": "Album"}, {"artists":
+        [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}],
+        "id": "72c29587-557c-3939-adc2-12c4cfaba250", "secondarytypes": ["Compilation"],
+        "title": "Soul Train: The Dance Years 1970", "type": "Album"}, {"artists":
+        [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}],
+        "id": "cd36fb16-0a5e-4f89-98f7-b3c72e74188f", "secondarytypes": ["Compilation"],
+        "title": "Ultimate Soul", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "0374374a-9135-3674-a7bf-dfeb5712a544",
+        "secondarytypes": ["Compilation"], "title": "Only Rock \u2019n\u2019 Roll
+        1970\u20101974", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "dcc851f7-2edc-3a70-95fe-6cfba5504db9",
+        "secondarytypes": ["Compilation"], "title": "Chart Toppers: R&B Hits of the
+        70s", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "a65329ea-3c4f-3df7-b8d2-26ee46109a2a",
+        "secondarytypes": ["Compilation"], "title": "Rhythm & Blues: 1970", "type":
+        "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name":
+        "Various Artists"}], "id": "fe4f316d-c37b-4fa8-a950-14471e4357d0", "secondarytypes":
+        ["Compilation"], "title": "Ultimate Movies", "type": "Album"}, {"artists":
+        [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}],
+        "id": "81a90b6b-0c7c-3c1b-b605-b3b1b7ab196e", "secondarytypes": ["Compilation"],
+        "title": "''70s Radio Hits, Volume 2", "type": "Album"}, {"artists": [{"id":
+        "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}], "id":
+        "48da1851-6c8c-3ed8-80a5-86e834dec9e6", "secondarytypes": ["Compilation"],
+        "title": "Barry Williams Presents: 70''s Music Explosion", "type": "Album"},
+        {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various
+        Artists"}], "id": "890b264e-6ec1-3724-a7b2-09d1df9bf0f5", "secondarytypes":
+        ["Soundtrack"], "title": "Crooklyn, Volume 1", "type": "Album"}, {"artists":
+        [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}],
+        "id": "2dd62e0d-058b-37a8-bb82-dadb75abc178", "secondarytypes": ["Compilation"],
+        "title": "Entertainment Weekly: Lite Gold", "type": "Album"}], "title": "O\u2010o\u2010h
+        Child"}], "score": 0.849354}, {"id": "5ca0dee2-2175-4071-85e6-48c783e829d1",
+        "recordings": [{"artists": [{"id": "42700164-abe3-4b45-b627-f4c8deca5e82",
+        "name": "The Five Stairsteps"}], "duration": 195, "id": "4af967a1-0a7f-42ac-93c8-e5e80f70a6c1",
+        "releasegroups": [{"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "ff3147f2-0be7-493e-86a7-73f3ba1afdee",
+        "secondarytypes": ["Compilation"], "title": "The Real \u201970s", "type":
+        "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name":
+        "Various Artists"}], "id": "9c82540c-e449-4bd1-b251-9b1e530f8bce", "secondarytypes":
+        ["Compilation"], "title": "Romancing the 70s, Volume 7: My Angel Baby", "type":
+        "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name":
+        "Various Artists"}], "id": "332c40b4-d16c-366e-ae4d-af88e109d92a", "secondarytypes":
+        ["Compilation"], "title": "Old School Soul Party", "type": "Album"}, {"artists":
+        [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}],
+        "id": "e541ee91-7058-35be-8a01-f40c33a260af", "secondarytypes": ["Compilation"],
+        "title": "Can You Dig It? The \u201970s Soul Experience", "type": "Album"},
+        {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various
+        Artists"}], "id": "950092d6-45f6-4269-87da-99a9ff2fcc52", "secondarytypes":
+        ["Compilation", "Soundtrack"], "title": "Guardians of the Galaxy: Awesome
+        Mix, Vol. 1: Original Motion Picture Soundtrack", "type": "Album"}, {"artists":
+        [{"id": "03cfec4a-9885-444c-9e74-5fbab5861106", "name": "Tyler Bates"}], "id":
+        "e974e9ae-1933-45a5-8f3e-230ccb1759c8", "secondarytypes": ["Compilation",
+        "Soundtrack"], "title": "Guardians of the Galaxy: Deluxe", "type": "Album"},
+        {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various
+        Artists"}], "id": "760559dc-e1cf-328c-8e3c-4ab0d1e9b264", "secondarytypes":
+        ["Compilation"], "title": "Soul Hits of the ''70s", "type": "Album"}, {"artists":
+        [{"id": "42700164-abe3-4b45-b627-f4c8deca5e82", "name": "The Five Stairsteps"}],
+        "id": "82534fc7-4949-33b8-888c-3c80b850ac13", "secondarytypes": ["Compilation"],
+        "title": "Greatest Hits", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "877695a0-5a58-4725-9f0c-36ff7d3b3708",
+        "secondarytypes": ["Compilation"], "title": "Sweet Soul of the \u201970s",
+        "type": "Album"}, {"artists": [{"id": "42700164-abe3-4b45-b627-f4c8deca5e82",
+        "name": "The Five Stairsteps"}], "id": "2056e6ee-f8e4-3803-8872-60a3beb28a66",
+        "title": "O-o-h Child / Dear Prudence", "type": "Single"}, {"artists": [{"id":
+        "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}], "id":
+        "2525f908-e9b2-3487-840e-8d0b3d774df5", "secondarytypes": ["Compilation"],
+        "title": "Entertainment Weekly: The Greatest Hits: 1970", "type": "Album"},
+        {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various
+        Artists"}], "id": "ffbaa8c9-77ca-4c01-9682-80839aa3ee9f", "secondarytypes":
+        ["Compilation"], "title": "The Box Set Series: \u201970s Soul", "type": "Album"},
+        {"artists": [{"id": "288aeac6-4ba7-4e1b-bb18-dcff77444c8d", "name": "Guillaume
+        Roussel"}], "id": "cccd2f76-cea6-417b-a626-66a79dfa5781", "secondarytypes":
+        ["Soundtrack"], "title": "FastLife", "type": "Album"}, {"artists": [{"id":
+        "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}], "id":
+        "b8a27d24-6a36-3eb8-9651-2d33d00c9979", "secondarytypes": ["Compilation"],
+        "title": "Solid Gold Soul 1970", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "fc5260ed-accd-3278-aabe-935e48af4f1f",
+        "secondarytypes": ["Compilation"], "title": "Have a Nice Decade: The \u201970s
+        Pop Culture Box", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "982d621b-3280-3230-9e15-67801797153b",
+        "secondarytypes": ["Compilation"], "title": "Soul Spectacular! The Greatest
+        Soul Hits of All Time", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "16cc928a-ba45-4896-9e0a-9e7a91d43dd3",
+        "secondarytypes": ["Compilation"], "title": "Soul 70''s Collection, Volume
+        4", "type": "Album"}, {"artists": [{"id": "42700164-abe3-4b45-b627-f4c8deca5e82",
+        "name": "The Five Stairsteps"}], "id": "30193ac3-8f8f-376f-953d-aa5695b76b6f",
+        "title": "Stairsteps", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "d7aeccbe-63a4-35fd-858c-56957d638c09",
+        "secondarytypes": ["Compilation"], "title": "Venezia Soul", "type": "Album"},
+        {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various
+        Artists"}], "id": "79e49fee-8b0d-38a5-ad4b-5a7e0c64b9c1", "secondarytypes":
+        ["Compilation"], "title": "Suddenly \u201970s", "type": "Album"}, {"artists":
+        [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}],
+        "id": "2591e77b-5c35-3742-b78b-0483d2d64b09", "secondarytypes": ["Compilation"],
+        "title": "''70s Smash Hits, Volume 2", "type": "Album"}, {"artists": [{"id":
+        "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}], "id":
+        "55fd5006-80b5-4ab7-9dc3-2487485db45b", "secondarytypes": ["Compilation"],
+        "title": "Forever Friends: Always and Forever", "type": "Album"}, {"artists":
+        [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}],
+        "id": "640e2aa7-e045-3a0a-b01f-e59e5337d616", "secondarytypes": ["Compilation"],
+        "title": "Pottery Barn: Radio Soul", "type": "Album"}, {"artists": [{"id":
+        "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}], "id":
+        "d53c9ab9-a5f5-4fef-85e6-019aa6879e8e", "secondarytypes": ["Compilation"],
+        "title": "Ultimate Feel Good", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "9c56c018-6479-3689-ad1c-4c819c04ef61",
+        "secondarytypes": ["Compilation"], "title": "Soul Hits of the ''70s: Didn''t
+        It Blow Your Mind! Volume 2", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "16d5cb48-36cc-425e-ad68-5e685df47505",
+        "secondarytypes": ["Compilation"], "title": "Motown, Soul & Great Rock n\u2019
+        Roll: Soul", "type": "Album"}, {"artists": [{"id": "42700164-abe3-4b45-b627-f4c8deca5e82",
+        "name": "The Five Stairsteps"}], "id": "f9d5428d-ea9d-3d3d-afb8-598aae2b3f7f",
+        "secondarytypes": ["Compilation"], "title": "The First Family of Soul: The
+        Best of the Five Stairsteps", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "ec215038-8db9-3a21-aae4-24233bc6cd77",
+        "secondarytypes": ["Compilation"], "title": "70s One Hit Wonders", "type":
+        "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name":
+        "Various Artists"}], "id": "c727dc3d-ce1a-47fd-adb8-102fc9190fe6", "secondarytypes":
+        ["Compilation"], "title": "Barry Williams Presents: One-Hit Wonders of the
+        70s", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "7e1a9ef9-89a6-4a7b-8680-c2d816db7c8a",
+        "secondarytypes": ["Compilation"], "title": "Hits of the 70s", "type": "Album"},
+        {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various
+        Artists"}], "id": "377da5b8-2098-39ae-a6c9-5f823ef81367", "secondarytypes":
+        ["Compilation"], "title": "A Brief History of Soul: Sock It to Me", "type":
+        "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name":
+        "Various Artists"}], "id": "4d8e2ea8-98fa-3b74-bc01-0d724676f738", "secondarytypes":
+        ["Soundtrack"], "title": "Riding in Cars with Boys", "type": "Album"}, {"artists":
+        [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}],
+        "id": "0b16980a-fea0-307d-8d58-339402713d77", "secondarytypes": ["Compilation"],
+        "title": "Top Hits of the Seventies, Volume 1", "type": "Album"}, {"artists":
+        [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}],
+        "id": "72c29587-557c-3939-adc2-12c4cfaba250", "secondarytypes": ["Compilation"],
+        "title": "Soul Train: The Dance Years 1970", "type": "Album"}, {"artists":
+        [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}],
+        "id": "cd36fb16-0a5e-4f89-98f7-b3c72e74188f", "secondarytypes": ["Compilation"],
+        "title": "Ultimate Soul", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "0374374a-9135-3674-a7bf-dfeb5712a544",
+        "secondarytypes": ["Compilation"], "title": "Only Rock \u2019n\u2019 Roll
+        1970\u20101974", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "dcc851f7-2edc-3a70-95fe-6cfba5504db9",
+        "secondarytypes": ["Compilation"], "title": "Chart Toppers: R&B Hits of the
+        70s", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "a65329ea-3c4f-3df7-b8d2-26ee46109a2a",
+        "secondarytypes": ["Compilation"], "title": "Rhythm & Blues: 1970", "type":
+        "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name":
+        "Various Artists"}], "id": "fe4f316d-c37b-4fa8-a950-14471e4357d0", "secondarytypes":
+        ["Compilation"], "title": "Ultimate Movies", "type": "Album"}, {"artists":
+        [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}],
+        "id": "81a90b6b-0c7c-3c1b-b605-b3b1b7ab196e", "secondarytypes": ["Compilation"],
+        "title": "''70s Radio Hits, Volume 2", "type": "Album"}, {"artists": [{"id":
+        "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}], "id":
+        "48da1851-6c8c-3ed8-80a5-86e834dec9e6", "secondarytypes": ["Compilation"],
+        "title": "Barry Williams Presents: 70''s Music Explosion", "type": "Album"},
+        {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various
+        Artists"}], "id": "890b264e-6ec1-3724-a7b2-09d1df9bf0f5", "secondarytypes":
+        ["Soundtrack"], "title": "Crooklyn, Volume 1", "type": "Album"}, {"artists":
+        [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}],
+        "id": "2dd62e0d-058b-37a8-bb82-dadb75abc178", "secondarytypes": ["Compilation"],
+        "title": "Entertainment Weekly: Lite Gold", "type": "Album"}], "title": "O\u2010o\u2010h
+        Child"}], "score": 0.434278}], "status": "ok"}'
+    http_version:
+  recorded_at: Tue, 29 Jun 2021 13:48:12 GMT
+recorded_with: VCR 3.0.3

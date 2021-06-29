@@ -1,0 +1,49 @@
+---
+http_interactions:
+- request:
+    method: get
+    uri: https://api.acoustid.org/v2/lookup?client=<ACOUSTID_CLIENT_ID>&duration=71&fingerprint=AQACKxKViIqTBMNz-GpyXFFyfFoPKmJ0nDmiu9BVhHGSG_3xGH1yhWiSaHNwM0KQ7MIlEc0mGU8kZcR-4b5EfPKSDGH8DtpyI1_x_MjNo7rRvMR_4TrOyUJP_INXG_h-6LAu9B96Hs2PM_gXqIcvHDx0ckb1DPCPXIfzoz_6wxR25IceFf6QxoiLWh-0LMtR6WOQe8fb472KkCxMaYTmGvGe4nm14kedSGLw8QmuhXBUD09SC05P_Cx87LHxqwElJMyFsKOKD_2HKU-N48qPKZcuJOeR6ftRH--H6fD6op-E5NmH_BGuMbh1PEuI79j3Hc3kbEZfC_nYQVpqJsWPBhrz42dyPFOM_KgchHl2yNFf5EmIX-hHNL2MJzpyJkiyeF7w4wzhj8dzPHlw5vAZ_EVSSsdDCZdW-BHm4ykcOriWnHB1vEpufEfzQvuLZ02IhlHA_SipFa8UQztpuLsRxg--Y4qTo2SES8qN_8WzoxlR5U2MylkqNNcXoJm0Ci2Dl8aJJmmO_seVBx-eHF9E1JyOMEmOpIpCaXjyCIcdJvhjfEctTVvgp0OV8PhZ9Lh1PIePH560Fv1xh0i2SkhPXIen7aiUOPiPxke4ZkFy9EyJPyI8TQk-6fhxBqNz5CSkPNB1aJ-C5lEQUzqeI7-IZ0-gJyOynyF6-OGHiYloXMezH3eO_kj3QOR-nDpCORKeEV9SEv8CPw--Cb82XMkKj1Lc4dERJmaIJDpxSbnA3CuaP7jpo9Gpo3wQ_kgWRpLBJY8T_BKm_MgP8UH4POhJeKfQ7ii3HyOPfqoC_vh-9GmERkmSKMalY383uEl-JO4l5HESTMwtNN0jXDkO9pMI53kSvMWZDU18lFmOH5eQL9BSFTzCzMf54kajd2D-INfR6zBz6ehyvC3qplNh76h4ZF_RPJjoI8-Gmz60qEF4B6_Qw9U-dFQw8sgP9od-6jgTcmgU7UJlHqcCLddFtBcOXcyDqyMu_EGfKOkRKc6S48mRexWc7Q30PkWtw_0RcpqM69gR5jf6HrqCg6OSI86LW6lAHz9wbRf6w0kbCh_WKQjvQ09y5Md0XSqmRNmD_4gl7OjDwfrxo5kUfCnxdWiiB-VinCTeB9p3fER6Hic5_EXlxcI1JbgPn8EoZg6eIxfJoIOWpyFy3XhQNJ6F_IGymMiZ49mCPgmO7MqQ3IHz45GOfQ2mHjlzJNLxEHu-ROi2HM3-4zmLU8dFHsmV6ManY4v14Tx-5OnBJ2lRNyKmPAuuR_hR54ErfUGyhwj1nSgTpXjmJjj3wWdG3MSPXMuHhI9wHfsHLldCfBinTcKF9CORPImD98aX49kUnKKko3lylI9C4WSO8oKfHMl8Ij88Hd8Ry4GvQ14SdhH-o_yhRT7y4K3wPMF3nMvxIFZw_oGeD9OTSISWJ8eTB7FydOFBhSJ8HT3ukBHK5UekMAr0KEO-LEX-4-KhJSEfVPQTnDS0I903lMHZDCfG3EdlkqDOGcnME2dQDqbE0XD0Ylpz6KyQD9WRL3nxQl-P_Ug7XDxxp0EfkNHRc2ieqshZlFKLhkcXZhZcDT_EbnhxyR9MZUdo-zhDIZR-JEvFDE92HEzOHN2Mo8m4OEhmJTpy_Hh2tEdTH19yXIaPXJF--NljqOGP-MMBqogARADJkANCQAsIUIg4AoQgiDgDFEACECAAIcAAIJQBRAhjhAMIaI6AAY4BoghBakAmCDEAIAMQEAI4BKAASAkHhEMCIIYQAEQBIARQyhhGEFEOEYUYAAIYAJAhAiCjgACEECeVMAIyJoxyRBECqEAAUYqEQAQoAggRBhAFkDEICSKEAQQAAoxQACHRHCOOAVOAA8AAowmjDjikBIAMCUAEAkMhI4iyRilgARBCGMWAAUACAjQDAgGioCFEAcIAAhQow4BCQAkDACDACaGIoAhZoISggjBhECNAESGAEQIAQpghQCBgDLGcGwqUKAQZAYwAViBnEBGAOIuGUkoQQQAghACBSAGACQgEU1AIYJAwREFECCCMCQKYIgQoJAwDDgFgnBBOAcSwcdAoIJQRgEhDgAEMGaQEA1A4AhiWgAgBtCCACWIAEIQQIgBASAgHiBICAAYwQMAgIAABSAHhEBTGMESEIwQwAQgAwgAAjEKSGQMMAkAAAhgzQgnoiAEIAAMYcAYBhRRQRECBkBBQCMeAAQIzgoQihgFoCABGKQWYU8ACAAgRQgEFhDSSKUYgcAYqAwAQiAAR&meta=recordings%20releasegroups%20compress
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      Accept:
+      - "*/*"
+      User-Agent:
+      - rest-client/2.1.0 (darwin20.3.0 x86_64) ruby/2.7.1p83
+      Accept-Encoding:
+      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+      Host:
+      - api.acoustid.org
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Date:
+      - Tue, 29 Jun 2021 13:46:44 GMT
+      Content-Type:
+      - application/json; charset=UTF-8
+      Transfer-Encoding:
+      - chunked
+      Connection:
+      - keep-alive
+      Vary:
+      - Accept-Encoding
+      Access-Control-Allow-Origin:
+      - "*"
+      X-Envoy-Upstream-Service-Time:
+      - '854'
+      Strict-Transport-Security:
+      - max-age=15724800; includeSubDomains
+    body:
+      encoding: ASCII-8BIT
+      string: '{"results": [{"id": "07725ccf-a3dd-48c9-a349-b27493b141e6", "recordings":
+        [{"artists": [{"id": "4bc9e8c3-7eae-454f-a56c-bccf96f3926b", "name": "Sammy
+        Davis Jr."}], "duration": 71, "id": "9834d174-b98a-4a53-95fc-4ceb049fb112",
+        "releasegroups": [{"id": "6fac76ed-b861-3519-9df3-04355946ec58", "title":
+        "At the Cocoanut Grove"}], "title": "Frank Talk"}], "score": 0.99481}], "status":
+        "ok"}'
+    http_version:
+  recorded_at: Tue, 29 Jun 2021 13:46:44 GMT
+recorded_with: VCR 3.0.3

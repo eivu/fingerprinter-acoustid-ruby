@@ -1,0 +1,83 @@
+---
+http_interactions:
+- request:
+    method: get
+    uri: https://api.acoustid.org/v2/lookup?client=<ACOUSTID_CLIENT_ID>&duration=163&fingerprint=AQADtJGUTEnGREH-wcJ3_MJDpNCP9DjMCziOHCLy4xN-HD-iHz7kD9iOHL4OpAcO94AvXPhwQH4K4zhy5IdP4NCB47gMHz9e-DiOw0eE4_AlAxEOX3jgT8SHIxd-HO6IG5-x5Tn-I6nyI-RR78J2HteKXkFlpIpxHz2yH-1RD0e1Ij9E-QiT57jw4VLRkoV_9IhPfIaWKBlx8DKO-IE_hNFx7dCzRwhzoSce4j-OIxmpXEV6JXiGX8VFbIzx8cPxaLiOVI-QPEJRiTnM48qDWgymZ4ZRM-B-Ic9CHZpu44cPHypHrDl-HD-0a3gR9Du-Ct-yIIcVEtU36MLfosd_ID8uDseP6vhx5kEP_wi0HkePH_5jXMdxHu5-hFRc_LiMowmPSE70QD-aqGkUIxJzPBn29OgvhWj-IzJ_PMqhckT3w48eVP9wNBUdlFOUIvThC2F7_BIuJtvgpjuOn0jf4Cx-VBJz2NGJ_Ph8KPzwO0KOfXhwHS2P_9iPpkk8JGcUHfkX_A0qXcF7_AeTbTzCckGiebGC8ktw4QkuEf_RR0Kt0PgFq1rR8gUnXsgd6HkQPoe3HnMWHruO487h6uh-XM3xJQMTFf6MaseO64QpLcM7L8KPvIf6KFTQFDkefjB_nDiHVO1x-IcufMfLwOoHPTg_5PAYPcKJW8eUR8FxPnh2UI8s5OWgJSYikTu-DY1t_PjxHzlEsbiRC-nxw4c2hcc15EdxeNPRxkbuBCfsJHhwkxqeE1sd6Nnxo3GDfhu-D89gp8M1HvouNDv6EOeFuUog5scnGyG7o8kVXD9OC5aX40delFnRPAqPL8caHb4RD7k4mBKNaztUg0nFCx0b4jtOFpKYH-fxXUcvNO-h65jCFeG1ETc34xcLd0TePfjoQ8s0Cn2N_3iWHOYIPZ-QE41EHpXk4_kxsTsaLsvB4hmSrD_yUsPh4ye-_GiPG7F2-Pi_Icd5-LiGcN6DXoei4C8ytuBvoSSRMs5Rrh60H2F03EzRJxGlo6kePMqLi4Gj4MyO7wgjEz10Sfhh4Tp6NGoefMe0qQ4aJ4J-fGgedGyOKy_6o6mIZzn2-IFGHmGe40bzoMed4ll2mD125niYH35xHj-acDPCM4QuhOzRnDiV5rh0CT6DZ8d1BVfyHY6k48EpOqiTxEJzHAmV5sSjBBf0I1ylwM9RPceTD9eDp6guB2F-vFKKH3qP70ItGt60oNAtPPiDHz9eNBdO5vCFH8-FT8ch-sOeG__wFgd3_IQmisSO_3iPng9EkseFwzu-DX-xr4L44ethE5eNH3mGG1f04PjxH77SocaTE03iI5RYSD9-hJl8PElj-Ef1GVWe9AjzQ5dWGbnSo-FRMhlyGupf5B-aZkSZSLLw4ztySEQsSZiqwhOu42hW_EdoQ3QK_8hTHD5a5uiPF0YOH7o25IwOV4UfCacufBZwHseL9MwxnYfeI-9zHH6K9-B2fAjH0FDFLA2yH88EH9t-9HnwHNUmGY28DD9y6HyQo5zGyXB54Se-RUObDcekHExiRmiYCJOVHEd_NFUb4dGPP8iDhMrxDN9x5sHTo-GIsniIPDv0zPBp4SKDQ5aO6EGvoOmPPMV-nPAZXIH28NCP04E7aDfu40dzBrUy9HQgOkwR_MMLhzd-HMdvwy-eD8n_Ih1uo3kiXNnxfDia80T4BMdD4ZKN7iLEr0IZHg8XSngThJ9S-BlOEn_x41oewX8UHD-SE5F-4cF_PFmUBpOuNHBzXEeYQ-eF3MFz9NXR_MFxLviJ_Bit5Jg-lD9-PIkaVNUHHf6hQzOPp8cfKXiikMnQ7EEtPBGh_shVPNfR48aPI88hnviOODQqbsePPITOIE-SRJmKi3QYVDmaWcGVHc9y9BVSh4fm6fgrqNGHUzrCWEMt5viDZjr6FM-loOnRH6fwII-cQ33wC5GOn8Qp_rB-nMdH4RF23HgIV6ik5Pg5VD5y-If444cZCXrCF2F23PCEt3h0XFfQkxI8K8eN5yvy8Igp5ngTtFKO_oKzH1-Ob4N_DUGyM3hqHMeLftguNGfwF82PUskZPNnRnOjKRMebB16izTjzGGeK5BlRIky2E4-SHKfTpLiRDnrbEaGk_eg4FSeTNHgMang4BzkLfUJ8gkp8PMsYgZdu_EI-aN2LM_CUPBB7aUIfdtC_QO8wpT96JngiCcqRG_3iwNEPL1yKA_4Rfif0Ikf3B174EaV0vEmQSzk0mSny37ASHmeOWuCV4stRPWgUHl_wvAgPLY9D5MVz4TGqL4aTtscDf5mQ_YazQ1-Pl0XP426F_9AzVOF0bN_h7-h5PIQeXA_uWNB0nQjzFz9-XLqRT0eyXOhx5R6eHIdrXElSHMmPh8kVxCLyxMeRzAqaa7jiC7fweEZvhKkNXZs-XMFvNE6hPegBZZBhhhFHjbOSUoGEJI8Ip6ClQggRjBjkkJGZEmY5LTUGWEnnlDODHFEEAAcSBwUQBgBiCACMAKOMEaAyZARIEDFinclWEEIQMFQwQRQCgBhnFCAgEQcUkkQJIQBARmLwAECWASgAAQoxIphRwClFJTGMCcQEciYgKIwQzjBCAIVYGkcYFUIIYYQBRAABhBBkCuMEQpgI5agwBiEhsBECIaIVMUIJAgQzhAiDhBGIUYIUAcACaQwRhihhKKAMAKIMBRwZwgQyQAsBjCMACaURZRABJYUhTDAECBHCCACYAUgoKjQhGAJmqDGkAgUQQEoZwYRRgADBDDRQICSYQAoBQaRThgiACFGEAAEUAQIYYBQBwhBAgFAAAYWAM0AhBgByghmChMVGCAIQkkIKYSggBhAkAQCKAUQABAI45IQwzBAgBEBGMCYAMEBCIJAgyAABCGBAGYEgQAIIwARRBgBDgeHGGwANAAIR4ghAQDgAiEFMCSkNQwQZY4VxBihnACHMgSCMIgAYJ4BQgAgqlBCGGMcQUQRQAxAxSEGlCSFAASEQIIIARQSAhDgGIWCAMAWICUQoxhAABhDigFIEICGAIgSwwoADATElhBBQAMmEMQIBwogxCSAEGJCAKUEMJUoaJABkhgBgkGEAAUGAAwg4AoQjCkBjnCEWIQIApYgghoERmgADhMAAEGGMAkgIi6xSiAHhhHBIQgAVJcAARR4TDgkiCDPCECIcU4ABQpgxEAAAEoFMCIuIYkoUARgSijBAmFCAIKMoYMAZAhhg1DhhAADAAGaAAokxQZgFShgihHBQAUaQAMYJgAChwgBFrFDAUeyMIEBYYBAhABEDEENCKEAFAYARpiBAQBCihkVGIMEIAsx4IgwFDBjiASEKGCcEIMAhBoAECilEnlCGMCKQAE4QBYABmgBCDGEKACcIIUgBwxgwADAAAHQKggCIACAARwADAhogGA&meta=recordings%20releasegroups%20compress
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      Accept:
+      - "*/*"
+      User-Agent:
+      - rest-client/2.1.0 (darwin20.3.0 x86_64) ruby/2.7.1p83
+      Accept-Encoding:
+      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+      Host:
+      - api.acoustid.org
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Date:
+      - Tue, 29 Jun 2021 13:49:01 GMT
+      Content-Type:
+      - application/json; charset=UTF-8
+      Transfer-Encoding:
+      - chunked
+      Connection:
+      - keep-alive
+      Vary:
+      - Accept-Encoding
+      Access-Control-Allow-Origin:
+      - "*"
+      X-Envoy-Upstream-Service-Time:
+      - '941'
+      Strict-Transport-Security:
+      - max-age=15724800; includeSubDomains
+    body:
+      encoding: ASCII-8BIT
+      string: '{"results": [{"id": "329a649c-b1e3-43b6-8f80-d1f2d4128463", "recordings":
+        [{"artists": [{"id": "4204e06b-d2e4-4823-b6f3-47f7593518cb", "name": "George
+        Bruns"}], "duration": 163, "id": "602da87b-d783-4eb9-a8d7-a29038232b73", "releasegroups":
+        [{"artists": [{"id": "4204e06b-d2e4-4823-b6f3-47f7593518cb", "joinphrase":
+        ", ", "name": "George Bruns"}, {"id": "c47026a1-3300-4cf7-80df-8b9462a884e4",
+        "joinphrase": " & ", "name": "Richard M. Sherman"}, {"id": "d378dedb-444f-48f5-a6e6-3e8e31ef6c14",
+        "joinphrase": ", ", "name": "Robert B. Sherman"}, {"id": "0a8df504-df94-4d77-a3c5-2b9e5c9727e2",
+        "name": "Terry Gilkyson"}], "id": "1257fcdf-743f-3dff-9894-107b398fb777",
+        "secondarytypes": ["Soundtrack"], "title": "The Jungle Book: Original Cast
+        Soundtrack", "type": "Album"}], "title": "Tiger Fight"}, {"artists": [{"id":
+        "c47026a1-3300-4cf7-80df-8b9462a884e4", "joinphrase": " & ", "name": "Richard
+        M. Sherman"}, {"id": "d378dedb-444f-48f5-a6e6-3e8e31ef6c14", "name": "Robert
+        B. Sherman"}], "duration": 158, "id": "621eecb4-59ad-4f6d-a9d0-df3cc56ae7c8",
+        "releasegroups": [{"id": "094618e5-1dde-3f3e-a2fd-cefec8929675", "secondarytypes":
+        ["Soundtrack"], "title": "Das Dschungelbuch", "type": "Album"}], "title":
+        "Tigerkampf"}], "score": 0.975145}, {"id": "39c67bbf-7131-4b37-aae3-335d2af6debf",
+        "recordings": [{"artists": [{"id": "4204e06b-d2e4-4823-b6f3-47f7593518cb",
+        "name": "George Bruns"}], "duration": 163, "id": "602da87b-d783-4eb9-a8d7-a29038232b73",
+        "releasegroups": [{"artists": [{"id": "4204e06b-d2e4-4823-b6f3-47f7593518cb",
+        "joinphrase": ", ", "name": "George Bruns"}, {"id": "c47026a1-3300-4cf7-80df-8b9462a884e4",
+        "joinphrase": " & ", "name": "Richard M. Sherman"}, {"id": "d378dedb-444f-48f5-a6e6-3e8e31ef6c14",
+        "joinphrase": ", ", "name": "Robert B. Sherman"}, {"id": "0a8df504-df94-4d77-a3c5-2b9e5c9727e2",
+        "name": "Terry Gilkyson"}], "id": "1257fcdf-743f-3dff-9894-107b398fb777",
+        "secondarytypes": ["Soundtrack"], "title": "The Jungle Book: Original Cast
+        Soundtrack", "type": "Album"}], "title": "Tiger Fight"}, {"artists": [{"id":
+        "c47026a1-3300-4cf7-80df-8b9462a884e4", "joinphrase": " & ", "name": "Richard
+        M. Sherman"}, {"id": "d378dedb-444f-48f5-a6e6-3e8e31ef6c14", "name": "Robert
+        B. Sherman"}], "duration": 158, "id": "621eecb4-59ad-4f6d-a9d0-df3cc56ae7c8",
+        "releasegroups": [{"id": "094618e5-1dde-3f3e-a2fd-cefec8929675", "secondarytypes":
+        ["Soundtrack"], "title": "Das Dschungelbuch", "type": "Album"}], "title":
+        "Tigerkampf"}, {"artists": [{"id": "4204e06b-d2e4-4823-b6f3-47f7593518cb",
+        "name": "George Bruns"}], "duration": 163, "id": "841b8bc7-ff2a-4783-b7dd-4148e687eaa8",
+        "releasegroups": [{"artists": [{"id": "4204e06b-d2e4-4823-b6f3-47f7593518cb",
+        "joinphrase": ", ", "name": "George Bruns"}, {"id": "0a8df504-df94-4d77-a3c5-2b9e5c9727e2",
+        "joinphrase": ", ", "name": "Terry Gilkyson"}, {"id": "c47026a1-3300-4cf7-80df-8b9462a884e4",
+        "joinphrase": " & ", "name": "Richard M. Sherman"}, {"id": "d378dedb-444f-48f5-a6e6-3e8e31ef6c14",
+        "name": "Robert B. Sherman"}], "id": "44243185-02f8-4901-bfd2-1551bf42823d",
+        "secondarytypes": ["Soundtrack"], "title": "Le Livre de la jungle", "type":
+        "Album"}], "title": "Lutte avec le tigre (instrumental)"}], "score": 0.943499}],
+        "status": "ok"}'
+    http_version:
+  recorded_at: Tue, 29 Jun 2021 13:49:02 GMT
+recorded_with: VCR 3.0.3

@@ -1,0 +1,66 @@
+---
+http_interactions:
+- request:
+    method: get
+    uri: https://api.acoustid.org/v2/lookup?client=<ACOUSTID_CLIENT_ID>&duration=323&fingerprint=AQADtIoyJVESUvhrUNxz_ENP4cFfJHuQj4PjJCv6Y22W4Q_xHLewfTjw4w8uRkWoD1YhfBKy452Lv8FXPLdB_Tn-oQ-FB-VD6McVTnCuMehzjCmz4C-eHLew4TieHNdTdEnuwuMn4gd6XgR_JM-R5_iB4wnRHMmP9GjRwzseHEZ4aDy8HIeH-9BxvECQ48dxiLiPPMdxGI9O_GBFOM-HC3sOT8eD5iF6TYfRhGZD_Ilwv3iOMBeK6ReakSnybBYmSTqa5MKZaMO1OIOf6PgPmPnwHeFzI2EOq1IVVF00HB8v4HaO1LmGH_kxZxfK_aDO43zxG2mcoz9uI-R8nJIq5ItKUJdS1Md_qDkmTTfEac8QHo8-XEcjI2QSRUwIXZIX5C18Ecl15NeEJxd-o8mzDSVjHb_wNLiRbPoRUtJnPEnGBD9xHn8ytPvRPNEY7E6yDMmN0MeGN0EX6Xgm_MhxSdCPXdnR5oKUPMeF3agOLb2QZzlO6mguotcWXBYrPCFQX9jxZriDSxeyYuoOVeSmII6X47mRH82ZctAuIQ-cJNRxiR_qPPBz-DyaI8cVXL8wpVPRKRnC43CcIL9RPceFwseVZTOk_KiOOw6iPRHR46jFIF2PXh7u6cHjHMKlHOnyULhG7MePJlR09DpBhkf14dOM9EStHTi0pJGyod-R7_hRbUXzI5egvangikeW6zgzVCnRRAzy7IHmJBfC1MeTZMQPJ0eeQ-r0AD1xBj4OsUGthPiKyxJ-gdOJTjpGSTgO-Dz6NYOOB7kyHm6ipMEjYsfzg5GPdEmSE9ehZ5kCn_BJ1BseodDyBJfC4xkVB3_RfESbHUeboxkPPcdREU3iJA_y48Gf4vkIvgi_tIJ2hBSaKHwI8jH6Y0pPvHqCS8uGMotyeMbxB-c-_IgtpUXo4UNI8XC24H0i6DyiH1-JMzwc6ugpBd-OH7WSI1L2Q_sTNMmGf8New92gH3kUET222ETnbIvQRmUUNGmNKynxHdWFhCqD0Mlx5Sp-pmhfws9R8qgxxdvweHhCFs26YN8Ff2giXniDUltWNFQSDffQeChp484ooof1DRcN_6icHOVxHw61S0iuI28q_MfxNTiPf8Q_9FmFS_hxHhGpxYL8nWBEH84P6Ecmrsc07-j5wk1CXPFh5Uf8XdA_pA_6DleONi48Mkef47gRSYevFFeSFLkCP7iPRxfyB-9x4nDMONC3gz--NBfOjIiUJzg-hKlylDzu4KnyQHVwDWGoozyFL8Z-vFnBpEs1dOGLHvGj4B_xHj56orognjGedwhxx0HlDOmI2oeUh-mQdsGVEj8aNYi3Q9-DpnkQXsOT5KiCMNHBJskJXTl6fPCDohbcDL1wWcIFTuiOR7iUD8Lh8-g_6Dpe5M6O_gGTJ8Hl43hOIp2SQ3n24Y_Rj0L6IN9gFx98aFbwZIyFL5yFY2PUEU-OoOFRMg-e42jOgbGCmNAxU_mhVVMMOw_eCZayob-QM2JC_MhztCma4xgf6A-a7sePmA0X-ImC6UB4DZ6G_vh1vMkVqD5epMwjnMWexDh7VD5cJRXR5eiPNI-CHnp64ejhXHiWHT-O07HgMcMP3YKbMEfoJbhMVGkRJiqeB7pyIW2OJxH-6GiEUMoHVkkOXUePL_BxuEEt4dFxWeByFZcw4Qr0foD74ujXDDqO3NlRR3kw5UnwHxzG9MwQZlIOPTlOpsEzIsSPR8iH5gk0HY9aDeM0HflhRgGfIz8a7iiZg-ixJU2EiomCHw-epYaWdUdaMUWdB_cR54fzfEhi7bgOOq7QRD-qTMSVIFcLtdND5HqOfTn-I0yuONBkUkOcMMePuQtchc0Gnj6-PMipcFDTDBEpZvAWGo_y4TyexA6apFIO5-uCUseTJMefEX30DM0_4ULyJEesC43KTEHZGd9r3DFqoltwHz9dlPfRZJHMGF-SHDm0PdiO3rgJKLqCPFFy1HtwXvjRM4rgSqjCZDhbHDr2xSv6KE0GZwOzyPjSI_ah_UGY4wueI-dDJDqcOGIwmsSZH-eDS0lS_DhHZggt5hD9oFaSI9dwVNlhJ8d_nHjz4jvOCP7R1Mc_4biQOuGFD4J2pWg-GeMl4ooRRsxxHE22yXiQ_ziuoj_ENkHlH48n8EdFJxoebF_QB71kuDvOosrT4j504kfKh8KniBjOHk3EfOB1_HC2KEF46ehx4YW_BL8I7XmRHx0rfHHgiAjfgHmYQOyHKyxiM2h0xMpiXDseiPWhJ8nxH01ylElyXMqR4Qz6Icd1fEe9GodOmeA0H_1wBduIUzly-CL88BnC84CeCblCHo2Xo160YD-ey2AkKQ_MJB_yw2cm9COaoz6eo7lQK3iy7FAX6sHzEM2PdrhCoz2aDbnCBj-aB9UTfGyD97gSD8d0FrWOHDrzBaHzoxlzYd9xPagdMAlTPElx5OShMWqjYOLjIP6Rc0bTJio0Ujqe4U9l6HlQawlSJ5GO8niZ484lvEf6HMmXPMF9_LiU4xNxBY2TC5Fk5pCnJDlyXKC248dP9EGYLjuS7_DE48vx7UGf5Wi-43yCP8epRDCnTcjxQSePPoFzHeLWVAHzFGU44YcvACQE4MCZgqQxBjgjrXfUMEMkIgkIbIAAwBpmEiIICEQUkdaxyJgABmECiEJQGeYAM8AR60BEzoEDPBQDEjCJEA60oZQSAgypCWVAEYAoIYYRBBRBxAADiBEII2MQME5JpRAAAABBmEAIIAKYQoAQIByRCCjBmAEIWWAEEwgJIJQgABBhBADAAUKN80hAYJQghFAjCFFKIWUdlMwQgIwxQCgChEIICSEiEABTIghBCAlBEBDUCACAIQAoBRUhAghggJFEEYaYQAIQQpgwhDggmGBEOMQYREBBEQZQiBriUGBCCeIQAAgAAAxSRgGECBfOEOIUIMAIQggACDGkDACCMCEQUAggYQhBQCEHmBDAQISUQAwIJQRQAigFETDQCACoQcIxBxBACBkAKAFCEIAEJxQaAIAhiAkgiDACAMQIEQQwYcy1gAALgAMEIEIIYYQBwICBRlhACCFIYCAEMAAZAARgAAnAADKEMOOAA4QIhwi01AAFBlCEKGUIEYARABgDggjiDCIAcGUEUYADFABgwihgGAHUIAQIE0AIIQABQhhiCFFEKQGAEoIhwQRDCjAFBSOMEAcBEMYQIxxiDEEDDDCALEQNAYAJIpAwhDGBDLACGCeQAYhApEkxCALBAFAKEYOEAAAIRgAQyFAiFDEGEMMQcIRAYQAgCEhrBKEEAEEIMQQwYIxQRFDAAAuHCGOEQQ4xYxQhAAmBkAEIKLIUEYIAZAwiSigkOkAGGMQQdQQQxBQQxDHBmBKCAAAAMoAoIgATTBCMIABCGGCdAshRYpRQAggDESGMmAQUkwRgAZyBAAiBjAAaAIaIgICQiQQAAFigACKGCQQEYEYU5wgBAAEDHGMGCUAAYQYogYRQACiCAAEEGkkQ4UQIhxBDQAGAjDGECOGEUIQIBZgAAAmhlAIA&meta=recordings%20releasegroups%20compress
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      Accept:
+      - "*/*"
+      User-Agent:
+      - rest-client/2.1.0 (darwin20.3.0 x86_64) ruby/2.7.1p83
+      Accept-Encoding:
+      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+      Host:
+      - api.acoustid.org
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Date:
+      - Tue, 29 Jun 2021 13:41:58 GMT
+      Content-Type:
+      - application/json; charset=UTF-8
+      Transfer-Encoding:
+      - chunked
+      Connection:
+      - keep-alive
+      Vary:
+      - Accept-Encoding
+      Access-Control-Allow-Origin:
+      - "*"
+      X-Envoy-Upstream-Service-Time:
+      - '66'
+      Strict-Transport-Security:
+      - max-age=15724800; includeSubDomains
+    body:
+      encoding: ASCII-8BIT
+      string: '{"results": [{"id": "716124c3-35f8-4391-a70b-304d5f011022", "recordings":
+        [{"artists": [{"id": "859d0860-d480-4efd-970c-c05d5f1776b8", "joinphrase":
+        " feat. ", "name": "Beyonc\u00e9"}, {"id": "f82bcf78-5b69-4622-a5ef-73800768d9ac",
+        "name": "JAY Z"}], "duration": 323, "id": "82418990-d1c2-4556-a826-9bccf5e9cd03",
+        "releasegroups": [{"artists": [{"id": "859d0860-d480-4efd-970c-c05d5f1776b8",
+        "name": "Beyonc\u00e9"}], "id": "3e1387d0-c3c0-4b02-8abe-b6bb40b409b6", "title":
+        "XO/Drunk in Love", "type": "Single"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "7dbcff0f-f7c2-4f0a-809a-f81a15d0b58a",
+        "secondarytypes": ["Compilation"], "title": "2015 GRAMMY Nominees", "type":
+        "Album"}, {"artists": [{"id": "859d0860-d480-4efd-970c-c05d5f1776b8", "name":
+        "Beyonc\u00e9"}], "id": "8596171e-23b2-4bdd-8f1c-11960df0ecbe", "title": "BEYONC\u00c9",
+        "type": "Album"}], "title": "Drunk in Love"}, {"artists": [{"id": "859d0860-d480-4efd-970c-c05d5f1776b8",
+        "joinphrase": " feat. ", "name": "Beyonc\u00e9"}, {"id": "f82bcf78-5b69-4622-a5ef-73800768d9ac",
+        "name": "JAY Z"}], "duration": 323, "id": "ede2dc46-3ce4-4604-b1c2-eb63d6adc2a3",
+        "releasegroups": [{"artists": [{"id": "859d0860-d480-4efd-970c-c05d5f1776b8",
+        "name": "Beyonc\u00e9"}], "id": "3e1387d0-c3c0-4b02-8abe-b6bb40b409b6", "title":
+        "XO/Drunk in Love", "type": "Single"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "7dbcff0f-f7c2-4f0a-809a-f81a15d0b58a",
+        "secondarytypes": ["Compilation"], "title": "2015 GRAMMY Nominees", "type":
+        "Album"}, {"artists": [{"id": "859d0860-d480-4efd-970c-c05d5f1776b8", "name":
+        "Beyonc\u00e9"}], "id": "8596171e-23b2-4bdd-8f1c-11960df0ecbe", "title": "BEYONC\u00c9",
+        "type": "Album"}], "title": "Drunk in Love"}], "score": 0.970763}], "status":
+        "ok"}'
+    http_version:
+  recorded_at: Tue, 29 Jun 2021 13:41:58 GMT
+recorded_with: VCR 3.0.3

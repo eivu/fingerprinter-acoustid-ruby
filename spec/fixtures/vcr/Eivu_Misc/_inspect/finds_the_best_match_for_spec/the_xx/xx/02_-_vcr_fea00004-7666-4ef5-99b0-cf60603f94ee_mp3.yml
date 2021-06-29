@@ -1,0 +1,70 @@
+---
+http_interactions:
+- request:
+    method: get
+    uri: https://api.acoustid.org/v2/lookup?client=<ACOUSTID_CLIENT_ID>&duration=177&fingerprint=AQADtEkWbWsyBX0oGP0yHA_gFw8e9BT8Df3w4Dx6NM9y7PhztA7hb0e_A82Dc0dznI7Qx2jODH_gCjsOv3iEHz0VHM07PDMewC8ePOgpmOizDD_-4LDTYw_-HG0aHka_DMd9-GhW1J1wMtFgN8ePZtpSoX1SzEd_NHue4sePwz9-_McPP8f_4Bd-9Gj-4Bee44cf_JhPvEdbNMcPNA-OhvnxGc1V9AweHcZ-HP6EB3_QU4N59FGC6_hzwC8ePOgpGC2XMYDe4DF-qNwxXcPxPAiPZ8F1oXEZFf2PJj-mlwm6y0KYHTy-48eUBy9MDv1kNDuFiVJ2_ND644Z4ZqiV4wyDc5fRs2hSHx9O55juoTmuzlDe4IZ4fNLRo-GL3jA54aTh3uiH6mi-4z_aXLBKXMI_4YSP3uiPw_xxo-_RaccPn0N9tDw8aei-4kuP87iVo1zRyMRfqCqP9miGK7jxEyc0C02a4NqILh-MPkUftLlxK2iMniXQ5_hxD4541E1wkmiXw4cYSd3QEz2aG5WzoxlxNOSO9sUV-Id-GuHDBHZy-EevwXmGn0P-oh-sEie64_iDMEfRW_CLD47rwOMRWjn6dBCvoxbCl_gNanxwXiHGCMmZH_lx9MOxD0d_eEeuiUWyD9yPB31y4ZOOPgy6BkZ4Gj3EjMNjiN2g-vADP4f2QlZ0TJfwDB8J5-iHo7E3lImP82guPMuIKRfqJuSGxsdF4eizwz4uHMeX2bAmBjDH47iS43iO_zg-6XhxoTfQC-Yq442E_sFltEjRF493o_zhE16Ok_iE26iF5Ij0wz_s5EH5De0k2A1RiWhehG-hzTQcPfjGYfux_bgGnWjwGTVs6Uctevjx4-iTI5eLHH5SaI_wH_mDmUFzKRmqByfxKfTxo1eQM0dXHWeOy2hkovhz9ILV4z3UbYX641EgnuhrFLZ4aPrR4xdywkXZFHvxPDmaPEOpH08UNKuK3vgeoTbCNEfyHD-8B--Hi8H4SXiO7keajbGgGa_R92g-PDvRF6fB42h4XMH340nQZsshqpgkXHzRF9vxBG4NdvghPjP-wH1wNJVxVLI8WCZqfzieGz96w9fRHyXh4-iD9-gPHz2Pf-inUggj_MMjDe9R_cKU__g7fDpKJRqc40G_GrWRLM2HXEaf52hOC9ePJzixC8-MXPbRCLWC6odPnBZ6pniC54aio5mUCGegPjiPKzs-hKnCY9KO8NB5hD_o4ySeWGha9Dl-5D_usDiYw_lR_BJ-lD3COMdJ_FvRxzCto8JD5PzQbRCPsiPBi0d_BSmDH9cSxH6wJz08KcSzG6pIEfmLh8mPrdrxHM1D4hKJ5goYH_kLRXGUwz9qFVeOk5mCfx42PVmgS8PboDw-4l0sPEeh36huobkSTsKv4cFFi9ATeWieDbWi4yzu6riHkoVZCT6qi-g0ofnxRoR-GVPsGJ2iHNUF8UR_4Vsn3IdDHStxMfgPRfbRShP-QLt12B9KK8ePKyPR8_CZSjixnSXKG7w69HywHaoefFGQk-iq45FQ0ce-I_yhHuGcB1SaG32OP3gWVzgzBSeRxsyRuBGuDF-Naj_8LMcX41wQnkguHpwTpfi148nwo-l4od-HH9eRo-xgiwMP5xLCG0Vz_EQnKXoQZjxuQldylMsO92hHH7-SQz7qwzGDlwYPHZcWh3iIG_xyONpxZz8c6WrQ2oNmbmi240e-4UkTNNGJTgxeOTiJX9HRNEJoJDluockXE6WcCZ9KdIoY4R_RfENuqGKW47rQk_CKWyk6jceD5sHHGM_hdVApKT70HX9uPMOdQ7SOHrWYwlyO0E5EPFIQj-IhTwjzHGUZBnckHn-OKfvRG_mP3TnaY0raI2cW_Ed_eC9-o9PxI_wnGFpf8EdnOD_eEj508OjDI8-Jfh-cKfGDMZHKIU_QR8LRfIVGibg04xR1iD9i5zr-EM-Onjn8He3G4X7QNUoKq0SyH3dy5B_6o9l6_Hha9EIaacc1idCSH_lxFw9T7EdeNB_KMdAv4Yt1NMJxEapO9Dicj8iP92jM482O9-iafXgfdD2ajvHwBSEkbdmRHz-uBO_hJiLBPDdCpSWaLIduvDn-434GzUkIXzqqB2r8BWWRJ4mO3Yc_4oSf-agoHR2PNHwC_ceJ_Bn6XHgzGQ_CTM1RaL1glcF9XIqGMxU88lCkZUuF--Cjo6KKJluOXGfwY0rSPqiVHA8upIeuZ0V0XBIPJg-PXuhTxujx43pQXgmSbIkuhE-Uo19QOTnW8MGjHNc5JLs15B5KJsa9PPikw4qQZ3lwHtWPhosuQZeM58NTMEGolLiz4MlxfYhzJ0iW-EafrMEDHseLZsxRLXKR95AVswiJw48RrsyhS1mOvDrK7XDxLA66x0N-JBdxRbhyvAz8KDiP78gqiYai6jiJXDx--OiV4DqFWzixMwREQAgMLEJAEgoAg5QgiABkCEQIOMBJYBIoExgIDCzBjGEIGIUEIuIYpQwzzikhgGEEgiWIMw4QhxgRwjACrQLEEYcUosghoYxDWgBolBHAkcAkUEgwYRgADCwhmDQAUaAJMcIIAASglAFhkRKCMAMABUQYoJwITikgrCJGC0AARAISgJQTzGgoEBNCCAGcEcAYQowVABkgkEKEIaYEEAIgIwQhChGqiBjCAQkEIAgw45BQ0FknBQYWWQYEM4woAAARjkkgqwhIEqEAGMIIIDA1CBBBiICGWEIMZoBBKwBCgBihIHBKCSIYEgIxIICTWAgCBAKMMgGAIQYJgJQDggkICCMUIMAERIQIQQAgTAiFjEBCKCqIAEoJJBgSAhhuGIIAAiuEEdAIRBhixiDAqABMCGEAcA4IJYATAQGGGDKACKVIgUsRAYggClAgEHCOCCaEI0YgQBQAAAlFmJFYEACAMhQBRgARgAlmAGCWCCQUAUoaoQRhxAAJJAAOGCcAkAZQIwRgAilAgLFAMCGYIEIQABAAjDIAgEDAEwAAAc4Q5QgRQgACEAJMAWgCUgwhgoARhhiAiBCKUIEEQEIACRAgQAgkgBBMECQUEMZIQgiDDBIAgCAUEkUEEQAAARTzQjHBwFDCAEUAIwAYyBSCRlMDoABAQGYMVYQBoRAFCgAgCUJCAAqMNEIRIgRDwiioFCKCAOOEIAQoAbgTAgghkTSAOUCEUkAxK6ZgyAkgFKPWEAQIIFIIJISACDACjFECCaqUQsIYAZBCRlIFAEMCMYwkIYgIwxxRwABggCaIGKGMQYQ4gQBRFggggLGAAMUQIcARIIQiDAHAnDBCOCGgAAY0RQxBCAEpTCIKKSGQMMoQIIABwghgkECIEIRAMJYoYgQCmhIkxBEAECSYUAoARJxgghlEkKFAWIUYMgA&meta=recordings%20releasegroups%20compress
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      Accept:
+      - "*/*"
+      User-Agent:
+      - rest-client/2.1.0 (darwin20.3.0 x86_64) ruby/2.7.1p83
+      Accept-Encoding:
+      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+      Host:
+      - api.acoustid.org
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Date:
+      - Tue, 29 Jun 2021 13:47:39 GMT
+      Content-Type:
+      - application/json; charset=UTF-8
+      Transfer-Encoding:
+      - chunked
+      Connection:
+      - keep-alive
+      Vary:
+      - Accept-Encoding
+      Access-Control-Allow-Origin:
+      - "*"
+      X-Envoy-Upstream-Service-Time:
+      - '900'
+      Strict-Transport-Security:
+      - max-age=15724800; includeSubDomains
+    body:
+      encoding: ASCII-8BIT
+      string: '{"results": [{"id": "15ac17dc-6f36-40d9-a2d4-4bf56836ca70", "recordings":
+        [{"artists": [{"id": "c5c2ea1c-4bde-4f4d-bd0b-47b200bf99d6", "name": "The
+        xx"}], "duration": 177, "id": "57b5c897-cf7d-4a73-b38d-6d5d83c298c8", "releasegroups":
+        [{"artists": [{"id": "c5c2ea1c-4bde-4f4d-bd0b-47b200bf99d6", "name": "The
+        xx"}], "id": "23355caf-a543-4b5f-80fe-449101868fc1", "title": "xx", "type":
+        "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name":
+        "Various Artists"}], "id": "20007d0b-3438-4b7d-9a97-b404e43d122c", "secondarytypes":
+        ["Compilation"], "title": "Chillsville: Population You", "type": "Album"},
+        {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various
+        Artists"}], "id": "cbd42590-6948-4b54-bb45-72e866240c98", "secondarytypes":
+        ["Compilation"], "title": "Matuschkes Lieblinge", "type": "Album"}, {"artists":
+        [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}],
+        "id": "e7985841-5137-430f-a497-4d8e85acb6d3", "secondarytypes": ["Compilation"],
+        "title": "England: The N\u00fc Sounds Of British Music", "type": "Album"},
+        {"id": "3965cdf6-ca90-48ba-8703-85b23105998e", "title": "VCR", "type": "Single"}],
+        "title": "VCR"}, {"artists": [{"id": "7bb2067c-ec6a-4e9c-8336-ab475d4f4984",
+        "name": "Company Flow"}], "duration": 344, "id": "b2fe4577-48e8-465c-8713-c3036010bad7",
+        "releasegroups": [{"artists": [{"id": "084e06f5-3c82-4b71-bd94-dd69e7bd515e",
+        "name": "DJ Premier"}], "id": "5fb6b89f-2435-3946-8988-d18c91415acb", "secondarytypes":
+        ["Compilation"], "title": "Haze Presents....... New York Reality Check 101",
+        "type": "Album"}], "title": "8 Steps to Perfection"}, {"artists": [{"id":
+        "c5c2ea1c-4bde-4f4d-bd0b-47b200bf99d6", "name": "The xx"}], "duration": 179,
+        "id": "b56cad58-0a50-4f25-b4df-d3c85709db39", "releasegroups": [{"artists":
+        [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}],
+        "id": "95709e8a-4800-4122-b783-4f49d80d09e1", "secondarytypes": ["Compilation"],
+        "title": "Save It for a Rainy Day", "type": "Album"}], "title": "VCR"}], "score":
+        0.997163}], "status": "ok"}'
+    http_version:
+  recorded_at: Tue, 29 Jun 2021 13:47:40 GMT
+recorded_with: VCR 3.0.3

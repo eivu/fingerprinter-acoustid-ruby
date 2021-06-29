@@ -1,0 +1,176 @@
+---
+http_interactions:
+- request:
+    method: get
+    uri: https://api.acoustid.org/v2/lookup?client=<ACOUSTID_CLIENT_ID>&duration=235&fingerprint=AQADtEuqREqSaQn8EzmSPEmO96j5Ym-C_ygTfWieBz_y4z6hfg2ehwl0HzzT44G0FD_RS2kwuYW-fUH449KPz8ePfogX5UyhxTlq6UHzpdiuHNrl40se9KbA6Qqc5IGeHRR3oY8e4RemVFJi6OuDnMcXPXiOXkFuMoWm8WiaB71kXAkUPbGJI2ceVDqDTDqF6xokjxfRPB_-B5OpQ9zCxEF-PIp-_EF3Ic9ofNkD0celB82J7VEP7ceZB-GlBNl0OMkDPTPBhHvw6Al-TJSkxBDdB_lyfNuDH_0QU2cKrUqOpg9KJjJeJYeiy8ePsEuu4DqDVCdUPRnM3ejzBZH1IMwXfE1e6D3yLMf_GN2D3CTK6Qq0ZDlyHnsUhF8u-DEDj8Fl4lMdVImH58HEZUfznPiDJ4oMLXwehBRq6YFzo2MzSbj0BCkX6D4R_bge-Mmxo5RyuAkdhNMT4vKDuoeWTcIf_AjjhDFK6sFz4dXRaD_6ZGiWHSEb6IjaKIevHMfQTNGMNs4U5Kbx54FY4UwUI_aqoE_QfA9-De9Y1OrRqHkilEcTBd-xH80R6cftQz-qKMoofPiIi4C-o3qCPEc4PYMYP7iEHM_xHOEPzUb64Hfh5Ef7Dr2Q_hAZrkT44xnCnIOmR8jxrgjDKoYmE8_QMOqRv_AXIyfEOkUoZxsaVaKC6hGeHTnxHD90GuKX4Ygpdcfzoo8RG-J55HgqCz2J_kgfJLOD6g6a5Hgq9DlSiOWFEH0-pO8ITR_ytTjS3NAT9DSaM0e9GekXHz2po-GDJ87hiEzR_cKrGzXQlziJXwlOHbkuAtrmS_CWLMeHPynCHz_e4D5O9MkMJyUPx7TQ5xF-_EePMIf-4M4l9IwMK7_h80GdRJpWnBT6HN4NLzmeJJ0gni_y5GjyBE9soWESolaiFEeNhqrxSTKqW7AuhEc3QQul4zN6HmHe4WqORzuuFEWTpBd-4RHzoVwQBhpSD1W2Gld-lB9xuPWRfFoY_MhzhMcfddD6GGmcUcOLyseXPcc7wd1wHvmhIacUTehLfIizI77Q7EGZDH-CH2Ge7Oi7Bsn9osyWDM2z4nqm4_mD5D3C1Cla1RgaJx8uHv6F6dERfnugpWKKOEoiL_hoXFaO5vODWsfTTPjQ5KjSPLjE4kpyhFRuIRkT4V7QG02dGY8-JBfyH2Y2UXiyHqeOXkVzCbkS7biJH2F-oroz4WUY4TTRKjmaiELuHfLRT4PjiIIqHeGkJLJx6mi4B2WJ6LmgpV9RWUpxOcUTHz-mOyrUNJygE16OXC_sfMK5I8x_PIR-5MzxH01-_DkcHzk_6Dz844RvaBaFykEjVdmEm9C66DCMv7iYQ2ciwiGPXEe6J9AP51mQbzdORoU5sjjzIIXmE7GPRk2yBdUlPMuIZ0d-Qb-C5iGKX5BDHbUv-IHqDMdx4dFxJKfg-Pg8WGWMy8g5Q8y2w0V-9CPCB00dPFrQHJWjHOGKJ0caqoahhx1yHj6-zGhixsaPPvCHnCLUDD6zE72VYd8H6YjuCGeW41_xuAwqJ8_QTMejGqGVhWguKFciwQ9-h2AYhYeIcyN8_A668tByHtXFInqOpkl4eDz2DCeypIoSPBWhR4Hz4wmyXsGbBmF6oeNxB4q-wHuPhioXnHlxvmiP5kepwXmQN84EXzKuC1dypIyYQr-LHz5jdEfJHGIs3IZ3He2SGYdGDf7h5yjZQpOTCI1UIZ-D7z7CfHiPhDUOxxkVdI-KWzrOGM-RP8bhhy9-5POEUy_C5Ifsw9-RRxnxJ8cPP0f6QzMVhPphnUP1Dv2LI4d2PD7CXJVQHWH2oBdKKUeqD1_M4FqyErllGXeQ87Cb4Y7H4v2CSi_KSC-OXvjxLCOOHbEqGrJ2hJIowk2Y4CmOH_Xx4Cmmi2g-RniWowltIXyOX_jx5EezHj3yH-dRH1ca6Yhj5YSYDz2PfMeeFpEytoHGLB_y4KSJZwmDPrqI5pWGXTmeC82k8MQ-IiRz6DpCHdbSwJEU5egf_Cp8PDny6UiWr-jxiBduZkOp1Gi6A1cQ2mic4UoehLwER3mMaX2I0El2OHQg4Ye3HG22HDpLZEeTfKj2hMfOC7VyND6O5zk-HceXIzy0XDliKithXTgd_GhyDbV6fHmQzBQ15IHj0_Du4GFhFX_xI0yV5Pg5aNTg5zjR_DFyJgmcK8U34zvCGybpQJw-5Mf_oFGVCrGFZ4eeI9cjHH04NMgZXJJyaNOJ9BfuHD_ajEa-I_xh1D8eNNnGUKjyFM8e9DQe5BCL8Mtw9IUjMvgGK2SOZ3gk5XD0o8-Pk0Gy3khH3HEkNE-DK7sRktCK_HhiBX1kpLnSQEea_-i1Ew8XIhdfaM-H9FHQMxV-Dfn6Qo9iIZRrNPrw3biisHgRxoyP3kGe4h-LUs_R6CQupkUPb4nO4BGNl0euGxo35cgj4qLuodeD6_CP8McTh9CXHyqVMrCeI6Z44hee5MGjWaj2wooU4r7gI-GHUL_w2Qm-G1d4NE-IPjlOycLbLcGvo-SOMD_eSVCJXLkURG12lI-hRQyP2OGFXgr8C32LJ8qRH4-rwKMUUcilSjjR5Bu6kIlwJU-wh-hLNGcePEcOfRdxRjli9HhwWKqCOztOeD8mdg96NMuygOvxHN19pCeS7PnQ5_iT4_pwNJmS6bh0HDeebSjyH3reIb6FUlso7Acj9wifYMpjPNbxBc1z9MdFD9WFlGvxwqtUPEc-GuIRbxUuwvnhk8U_41sOf8grQ-xxEr2N_nDMGPVCdDd8OM5YHH4OACCUEIgIQoQxgCCBNBICCEaIAEEJAAhCQgAhoAFKCGGEMUYoAI0SgDggjDQAQGMQEk6QYgwBQABCABDOGCCABBIghIQAxihjnANQMUCcMBIAAY1AihBhmBLAEKAEUYAAQgQBQhBDmDBICIGAFAQQwxQAwhAEBGISAGMAAIZIwIxhABgAsEGFGCeEEAIQ4AgAxjGohCIGAMAJQgABIgFy5AAJhEIAECAIMQwwZIxgigEhBCOCMMSQIEEAJQA0SjgDJCVICAMMMAkJIAQQAChEAECGAUAYIEAJYARDTjlChVGAGQKEVcQAIIQAACggGAIEGghEMgQTIYQiAgFIKDAAAEIsAMgRABABwhgAmHLECgCeEMqAYgAgAgAhgBBAAUSAIYgICYQACDlJGGPAKcSsYAAQoIwQBBkCFBCAGkMFAIgYYAQziCikhAGOACSYMQIhgoQTwjgmCECEKQCIQwIY4AASwABCDECCESYcMQBICJAV00BLjGMEKEaIA4QhpJwzzAhtAVCAIEAMA8A4AgQCACBxBBEKAGawY0gZIxwzBigCiCIEKGIAAAApBAAAhCAguBLAGAAAJIQBwAiRRoEAHDAEEQEBI4AIJgBCACCCCNLUGCGMEBIYJIAyQAiikIWEUYSYa8ghagBQShCHmAGEMmGUAY4QII0yVBAKgABMMYQAUEhQIpBBChkjiAMEOIiQccQhagDiDBAjFCEPCAWoYYQA4KAgwBAlBAOCOGIAEg4BIQTQSikFAGECcKHAIAEABQCyhBEhAGCEESEiEREJZoBgwgACAEJEOKYAMgAIQYQBAgjghBAOAMSAQgAgIJAyRgChBAGCAEgEFIoAI4gRTjFHCEAUCSQIAsAABwQQAkhjiBBCAakUIFYZgxAACgOgmEJGEKAYCYgRBJRkhgAgDGBCCCgIIhZcxhBAwDhnAGKAACQYMU5QQxAAQABAAGGMECEIQgo&meta=recordings%20releasegroups%20compress
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      Accept:
+      - "*/*"
+      User-Agent:
+      - rest-client/2.1.0 (darwin20.3.0 x86_64) ruby/2.7.1p83
+      Accept-Encoding:
+      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+      Host:
+      - api.acoustid.org
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Date:
+      - Tue, 29 Jun 2021 13:46:08 GMT
+      Content-Type:
+      - application/json; charset=UTF-8
+      Transfer-Encoding:
+      - chunked
+      Connection:
+      - keep-alive
+      Vary:
+      - Accept-Encoding
+      Access-Control-Allow-Origin:
+      - "*"
+      X-Envoy-Upstream-Service-Time:
+      - '81'
+      Strict-Transport-Security:
+      - max-age=15724800; includeSubDomains
+    body:
+      encoding: ASCII-8BIT
+      string: '{"results": [{"id": "92d8dca5-afb0-473b-bbeb-f8305fe2b6ad", "recordings":
+        [{"id": "36aad3bf-9749-4a85-8de5-480974776a11"}, {"artists": [{"id": "97b226c8-7140-4da3-91ac-15e62e131a81",
+        "joinphrase": " feat. ", "name": "Macklemore & Ryan Lewis"}, {"id": "1f6cdf02-c7d3-4165-bbde-b4e54420a00b",
+        "name": "Wanz"}], "duration": 236, "id": "42f0b591-cf89-4e45-aaca-7b97a2d1d98a",
+        "releasegroups": [{"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "580b3a77-90d8-42c2-b4a0-7298f2d171e3",
+        "secondarytypes": ["Compilation"], "title": "Promo Only: Modern Rock Radio,
+        December 2012", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "2f50ccac-ee87-49e8-916f-7a3c29c11609",
+        "secondarytypes": ["Compilation"], "title": "MNM UrbaNice 2013.1", "type":
+        "Album"}, {"artists": [{"id": "97b226c8-7140-4da3-91ac-15e62e131a81", "joinphrase":
+        " feat. ", "name": "Macklemore & Ryan Lewis"}, {"id": "1f6cdf02-c7d3-4165-bbde-b4e54420a00b",
+        "name": "Wanz"}], "id": "10cdf553-e53b-491e-b4d6-db5bb69fd6bf", "title": "Thrift
+        Shop", "type": "Single"}, {"artists": [{"id": "97b226c8-7140-4da3-91ac-15e62e131a81",
+        "name": "Macklemore & Ryan Lewis"}], "id": "22315cdd-4ed9-427c-9492-560cf4afed58",
+        "title": "The Heist", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "96cadca3-c678-4cde-8a42-ca2cfe9f98cc",
+        "secondarytypes": ["Compilation"], "title": "Maximum Hit Music 2013; Vol.2",
+        "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "9cfc3011-7d84-4a52-9567-ddc1e07ff135",
+        "secondarytypes": ["Compilation"], "title": "The No.1 DJ Collection: 2010s,
+        Volume 6", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "cdb26924-8f02-4911-9e5f-4e0803719077",
+        "secondarytypes": ["Compilation"], "title": "Brit Awards 2014", "type": "Album"},
+        {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various
+        Artists"}], "id": "8148922a-ea4e-4d36-9b49-905603e7008d", "secondarytypes":
+        ["Compilation"], "title": "Ellen\u2019s I\u2019m Gonna Make You Dance Jams",
+        "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "f93fb971-6bfc-48f9-9a63-daa9a47cdb53",
+        "secondarytypes": ["Compilation"], "title": "The No.1 DJ Collection: 2010s
+        (Digital Collection)", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "f7fa9357-f063-4b74-8f9f-cc9a5e9afa04",
+        "secondarytypes": ["Compilation"], "title": "Triple J: Hottest 100, Volume
+        20", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "95b377f6-f1fa-4257-811e-749265fb103b",
+        "secondarytypes": ["Compilation"], "title": "Promo Only: Mainstream Radio,
+        January 2013", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "6ced4506-8c22-407a-ad45-2c60d3f116be",
+        "secondarytypes": ["Compilation"], "title": "Alternative Distribution Alliance:
+        2012 Independent Almanac", "type": "Album"}], "title": "Thrift Shop"}, {"artists":
+        [{"id": "97b226c8-7140-4da3-91ac-15e62e131a81", "name": "Macklemore & Ryan
+        Lewis"}], "duration": 236, "id": "50f3cbb0-5ea6-4009-8a0a-20812f4807f8", "releasegroups":
+        [{"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various
+        Artists"}], "id": "8d84271d-4276-4493-bc31-007fbf2ad45f", "secondarytypes":
+        ["Compilation"], "title": "NRJ Hit Music Only! 2013", "type": "Album"}], "title":
+        "Thrift shop"}, {"id": "61e5c7b9-3317-4b9a-b4e2-8db3cc1c92b9"}, {"id": "666c76b5-b561-4851-9eef-7051899c1746"},
+        {"id": "79f6d409-e6a7-4e26-a55f-6c4e1bcc284d"}, {"artists": [{"id": "97b226c8-7140-4da3-91ac-15e62e131a81",
+        "joinphrase": " feat. ", "name": "Macklemore & Ryan Lewis"}, {"id": "1f6cdf02-c7d3-4165-bbde-b4e54420a00b",
+        "name": "Wanz"}], "duration": 236, "id": "84855f43-378a-46d1-b524-a037efe28dc6",
+        "releasegroups": [{"artists": [{"id": "97b226c8-7140-4da3-91ac-15e62e131a81",
+        "name": "Macklemore & Ryan Lewis"}], "id": "22315cdd-4ed9-427c-9492-560cf4afed58",
+        "title": "The Heist", "type": "Album"}], "title": "Thrift Shop"}], "score":
+        0.956553}, {"id": "92912746-9863-45f4-9a4c-08e924d4a426", "recordings": [{"artists":
+        [{"id": "97b226c8-7140-4da3-91ac-15e62e131a81", "joinphrase": " feat. ", "name":
+        "Macklemore & Ryan Lewis"}, {"id": "1f6cdf02-c7d3-4165-bbde-b4e54420a00b",
+        "name": "Wanz"}], "duration": 236, "id": "42f0b591-cf89-4e45-aaca-7b97a2d1d98a",
+        "releasegroups": [{"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "580b3a77-90d8-42c2-b4a0-7298f2d171e3",
+        "secondarytypes": ["Compilation"], "title": "Promo Only: Modern Rock Radio,
+        December 2012", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "2f50ccac-ee87-49e8-916f-7a3c29c11609",
+        "secondarytypes": ["Compilation"], "title": "MNM UrbaNice 2013.1", "type":
+        "Album"}, {"artists": [{"id": "97b226c8-7140-4da3-91ac-15e62e131a81", "joinphrase":
+        " feat. ", "name": "Macklemore & Ryan Lewis"}, {"id": "1f6cdf02-c7d3-4165-bbde-b4e54420a00b",
+        "name": "Wanz"}], "id": "10cdf553-e53b-491e-b4d6-db5bb69fd6bf", "title": "Thrift
+        Shop", "type": "Single"}, {"artists": [{"id": "97b226c8-7140-4da3-91ac-15e62e131a81",
+        "name": "Macklemore & Ryan Lewis"}], "id": "22315cdd-4ed9-427c-9492-560cf4afed58",
+        "title": "The Heist", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "96cadca3-c678-4cde-8a42-ca2cfe9f98cc",
+        "secondarytypes": ["Compilation"], "title": "Maximum Hit Music 2013; Vol.2",
+        "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "9cfc3011-7d84-4a52-9567-ddc1e07ff135",
+        "secondarytypes": ["Compilation"], "title": "The No.1 DJ Collection: 2010s,
+        Volume 6", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "cdb26924-8f02-4911-9e5f-4e0803719077",
+        "secondarytypes": ["Compilation"], "title": "Brit Awards 2014", "type": "Album"},
+        {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various
+        Artists"}], "id": "8148922a-ea4e-4d36-9b49-905603e7008d", "secondarytypes":
+        ["Compilation"], "title": "Ellen\u2019s I\u2019m Gonna Make You Dance Jams",
+        "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "f93fb971-6bfc-48f9-9a63-daa9a47cdb53",
+        "secondarytypes": ["Compilation"], "title": "The No.1 DJ Collection: 2010s
+        (Digital Collection)", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "f7fa9357-f063-4b74-8f9f-cc9a5e9afa04",
+        "secondarytypes": ["Compilation"], "title": "Triple J: Hottest 100, Volume
+        20", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "95b377f6-f1fa-4257-811e-749265fb103b",
+        "secondarytypes": ["Compilation"], "title": "Promo Only: Mainstream Radio,
+        January 2013", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "6ced4506-8c22-407a-ad45-2c60d3f116be",
+        "secondarytypes": ["Compilation"], "title": "Alternative Distribution Alliance:
+        2012 Independent Almanac", "type": "Album"}], "title": "Thrift Shop"}], "score":
+        0.908492}, {"id": "91cd01e3-5585-4694-9c94-fadd2fba7b2f", "recordings": [{"artists":
+        [{"id": "97b226c8-7140-4da3-91ac-15e62e131a81", "joinphrase": " feat. ", "name":
+        "Macklemore & Ryan Lewis"}, {"id": "1f6cdf02-c7d3-4165-bbde-b4e54420a00b",
+        "name": "Wanz"}], "duration": 236, "id": "42f0b591-cf89-4e45-aaca-7b97a2d1d98a",
+        "releasegroups": [{"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "580b3a77-90d8-42c2-b4a0-7298f2d171e3",
+        "secondarytypes": ["Compilation"], "title": "Promo Only: Modern Rock Radio,
+        December 2012", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "2f50ccac-ee87-49e8-916f-7a3c29c11609",
+        "secondarytypes": ["Compilation"], "title": "MNM UrbaNice 2013.1", "type":
+        "Album"}, {"artists": [{"id": "97b226c8-7140-4da3-91ac-15e62e131a81", "joinphrase":
+        " feat. ", "name": "Macklemore & Ryan Lewis"}, {"id": "1f6cdf02-c7d3-4165-bbde-b4e54420a00b",
+        "name": "Wanz"}], "id": "10cdf553-e53b-491e-b4d6-db5bb69fd6bf", "title": "Thrift
+        Shop", "type": "Single"}, {"artists": [{"id": "97b226c8-7140-4da3-91ac-15e62e131a81",
+        "name": "Macklemore & Ryan Lewis"}], "id": "22315cdd-4ed9-427c-9492-560cf4afed58",
+        "title": "The Heist", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "96cadca3-c678-4cde-8a42-ca2cfe9f98cc",
+        "secondarytypes": ["Compilation"], "title": "Maximum Hit Music 2013; Vol.2",
+        "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "9cfc3011-7d84-4a52-9567-ddc1e07ff135",
+        "secondarytypes": ["Compilation"], "title": "The No.1 DJ Collection: 2010s,
+        Volume 6", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "cdb26924-8f02-4911-9e5f-4e0803719077",
+        "secondarytypes": ["Compilation"], "title": "Brit Awards 2014", "type": "Album"},
+        {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various
+        Artists"}], "id": "8148922a-ea4e-4d36-9b49-905603e7008d", "secondarytypes":
+        ["Compilation"], "title": "Ellen\u2019s I\u2019m Gonna Make You Dance Jams",
+        "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "f93fb971-6bfc-48f9-9a63-daa9a47cdb53",
+        "secondarytypes": ["Compilation"], "title": "The No.1 DJ Collection: 2010s
+        (Digital Collection)", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "f7fa9357-f063-4b74-8f9f-cc9a5e9afa04",
+        "secondarytypes": ["Compilation"], "title": "Triple J: Hottest 100, Volume
+        20", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "95b377f6-f1fa-4257-811e-749265fb103b",
+        "secondarytypes": ["Compilation"], "title": "Promo Only: Mainstream Radio,
+        January 2013", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "6ced4506-8c22-407a-ad45-2c60d3f116be",
+        "secondarytypes": ["Compilation"], "title": "Alternative Distribution Alliance:
+        2012 Independent Almanac", "type": "Album"}], "title": "Thrift Shop"}], "score":
+        0.504611}], "status": "ok"}'
+    http_version:
+  recorded_at: Tue, 29 Jun 2021 13:46:08 GMT
+recorded_with: VCR 3.0.3

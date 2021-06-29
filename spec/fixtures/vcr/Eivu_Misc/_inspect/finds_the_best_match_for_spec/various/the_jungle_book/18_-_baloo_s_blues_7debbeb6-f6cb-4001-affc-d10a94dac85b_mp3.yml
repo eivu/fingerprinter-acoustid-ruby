@@ -1,0 +1,54 @@
+---
+http_interactions:
+- request:
+    method: get
+    uri: https://api.acoustid.org/v2/lookup?client=<ACOUSTID_CLIENT_ID>&duration=182&fingerprint=AQADtImSNMmiKMkSJIu64w9Ood_hM1IGVzLOogm3HM92XMdzJDmPLEbjkUGZHB75oV_UBng5NOvRFz_e4EuQnDp6ZFIXRHz0IL2P50VftE8OD3_QNE2H-0VeqOKPNLnwackSnGh-oU-eDc9wZRmaZQ-q5MNfvDHSKh9uB79wRkK-i2g4Cjk8Q5fzwEySHTkPHKHy4aiT5NDSx8FR3YMnB2qfIkyVh_iPHg2z4T-eKSJcRcfPG3mPZNLRLDGeZcos4T_8fDjmPA-eF88QiMgWX8H4EH7G48mxfcjKQHGWMkf8ocpuPOHhZ0GP-8d9fCrynNDXIkwSvah-nBmaHnV-4J0YIf-RjDWmgHdyjExIGX9QfWh-nDlSjU-hPEqOXAeTXME28gjL49Fu_ND1RPADPT_eBHkSGc-OKpHz4BcPPzf64xn-Ig_UP8hz4T3xC_9x6YOfCs_xY5KSH1NkaqFwuEf-4uQ6Qc-D6viMPMjRjBF0MUGeHDWnHM15VGJGoUmSx8FLZdiNLDF6GtoR5gn-aMiTDI-LJ1bBHz-Yb0GYp45wZSCj4BKacMuOfg4-HeHrQVGmLZmRVxmab0SPb0evU_BkHX7RH_0OLXh-XMefCs1KtEt0_CHiHEnUiIe7Gy8OLzlS-_gbQ4c-UM9e_BKqJR-6SHoSiFHLot3x62iaExr1DfFuxAn3QL8QkpLR1GFwCbV9TOGYTMJ5CXeQNM2OuDk-C08u4p-C7nmwxRmeRMf5Q8pe4xhfHg_OhReeJBWaHlPPIH6lQ8sD9wNT4sSfo7o8-D5-uC9-_FBOpOePp8XjwFut4PGJJs-RJ7mQoCfCUGF86EpM7C0y5U-xLsd54kcKnUd-_JHwUEITLysev4iUKBKeBRedI8w3oVYWhcHRg6oU9XiuYEo-PNF-tL3QbHvwBeGzDM1T6DnOI8f74KIyVIl3_PhcEi9KbXjyI7wYJEvyJMPxY78S0Mst7MWRPjGSt43wHDf-48eT48cpHX9R63D-4ILLroTzNGg5JI-QE_uG66gd4YliTJaeoDzMoeyOi0B-9FCdRSrKRYKiPUXDIVcOvviPLxWP6YqMlOGDXoOuH_kxPQ_SZFuO6tDjI0-CM1pwWwRv5OmhP4oEK1KOPMcLvoePR8KT5PhqVMqPONeQ3Bd8fD_c5IT_oOCR5DfiPEyEkyKeJDlO5jiNSyFeXB96-DmqVOKOPDrkUciXXKg2Hu7hNSzOJLVg96i4Ilx-JMuyjMR9HBeeR4ithnjqQI43XInQOIF2PvgHHflDDk3cHj-8ExUTHndQ9iGa58ekH416cP-RPLkRiTk-He7RG_tiPF_AySmRPHEQjjIc2srwJ0apYV-uBk9-_DiDH1eKJpOYAheTH9dM1OQi5EgWGWUw6qh8onnkDTGliEmQvAeb67jTww-u5_iRfEI06UWP5lJCIXziCFqqvMiPK0-Ok0WfB80TRsUZ5DSLZFlubGOWo9_xB5mqaBL0CfMRMuEG38Eb_bCGe0czhisuXegPTyKi79D-Is4P7lEcTP_hK8N0Es2LUjmyJsqDJPqVo0mOs8WfpMYlLxk85Q3-4zjOIYmPvHoS3EnE4MQe4omOK8kT-Irxcrj0bHgTHe8R-kyRLPnxRMzx_fjhP8FztFmEMB9uedCzEQiPLx_qiUZ4zcGTG_-h50ipSiw-OHrwJLlRWRe-ozrxZDWSbAh_9GieJ4iVJEkjcMmjpMgPP8T_4KQUzAyJJpOOLrzR9EhmaUX6hMvwB3_wfeiP5g9e03g1xGxYQ2N6nD3qHLVyNFfECPGt4AkthE8STDk_6PEwhRER8mgSH5Uf5AkVJM-EM8OeYspflAwejTkuWcVzJH8RPcnxBs2lHNSPieGHM5xx1C9S18mgicqRV8OPT_gSHs_JIMehoRkZIxcVXDcqH14XeDL6HPeOcGygJU505MTXPMP1oH3hsUGFx-NxDa-QT5sEjUdYoj7MOMzR_qiqZYIjMblQPVfxozqR_IhG8Dca5xFxRdmEL0fS5AtiZR8euHyIhy1eTULy_IiTE86DJ3qwK8mk4y2-J0EuaKkeClWTXNDbIj8-TvCCSj-2pFIKJk9WvNMR-UVyZTl6UkRDhcez7LiOEziPM0oQcyGglxeak2iPO8Y7Q7txa0OqNZOC6kd5mOhZFeWF_PB2hNfxJk-EM_jxELUsOFmQTEPOL2hOC9MJHttz_MSv4ImOnfqQitqD5pkIKUtyIdaxPThxmhqa7uhDF7XDwy9xXYij0Qp-ksBVaD8mI0zu4z3xE2_wHF94VHzQaGKGWJGO5FKO5g_6LMUToR-8H17CBMyTpSmeH9UP7wgbI7nUSsKDcz_Og8d24kTSpniUo0yohEh3VDyeEsen4dIz9JPh4EfSL8jhHn1yeficBA9zPD4u4eQaJIslhDvuC480uMcZ_IOfBm-P5zg8hsd1hIneIpnyo5ZkEs0iH28MPyF-nAmFh8P143mPpjsl1AlxeTgVbRGO5HyQi8FzoUmOm-gZHzdxJH-EMD5qn3hDHN9-_EephIMfHceDkKShfFeQM6h9NE2ykMM_4cyY40nx6QyqX2h-4kuWoh2RPkUv0Eq-Cbl0VO_RfHi840F2EUmOx6h4Bm-2DeUT5biyE82zIBSPL-KUIT7RXsSUP-DzDLd23ENMJtCXB9HzoI8DnzxKDeFD4cpSqOZRpcmgD3mm4Ml5oeTxpSjJx3hylOKRIPyIsmhCkca5HbXCaAjD8UFyHtM2Dk2YsCC-VJh5oX_x7BHEXKgl_AlOPfiPPzeeHD_6XPjGGCGPXil8CTchN0uKHJU07EP-oB8hxjm6HPeJsEgnDwKBo4AJRgTAwCKgDHFWGEkCAQwAABSDQDiDBAOKESoQIQgRBRAjCjoCAARACASANAAEhRADgAiGEBAAQAUAIQIRIJRiwAgAkQJMIAgsAkAh54xhihCABCGMACUgVAIgYowCUBCBlCNCKSIQIgoAQ4ARhlIhBhCKEIEAAQwgJolUBAilADKaEEUQQYABJ4SnVCACgACQAcCAQAIQJIQBCChFCEQAIcMMAYIz4lgTSHAIDBFGEIIIAsQoYAARyEhCDFAEGAIAEyIQSgRyCAAKBBBEAAQoschBBABgBgABEFCCMEEYUEYgYrRCTgCGAGIAMAABQEI4QAEjDiFAAZDGIoAMACAYIaxGCCmKgCOGGYANEEABpAzYADAlqEIiWGCMBIYYIAAAxnggCDGGIIaoAEAgwZggWClEADBEAAQEAVQdQwCCBBmikPHIAIWEgRYRJoCjoBEJBEBULACccQoJIoQQDAhACCAUKOoAYAYAQBxDxBIPiEBGCWEMMUQABgSgkgJgGGAAAEKEYUY6IqCAHgEhAEECKAQEIAQgQIjSjAggEAMCAcMIA04CAZgjlAjKkABAKCMEUQ4ABgmhAAGkHBAKCAkgQ4IRIJQjiggChNFCAoCQwIIBQQAhBBggDHGAEAOEAoQQJAlyCAAHECOQEAQEQIRgSADijAACDAhMQCKAAIoAwhggDCEqCGAACIG1okAYZIlwjCAIBFMWCQEoENII4oAVSDDAiBOAGUJEcAIIRBBRQAhOmMHSCASMJkw44Qg0BgAhiRACIQcYM0AIwIhAAAgkCCDEKAIQAQgJAY0wAAABpAIiEMEQFYgZSIAlREHhgTQAOAUYIkAKAjRhABFmgCLIEgIIAloxApQBBABI4BAGAQUIAIYoJAQGCiBgAKEMCCEAQ0AQAAhABFsgjDEKMJANEkIQIIASCABEBDACMIAUMAApZIgAyAnDhBBMIGGMEAwZCYQgQggiFJBEAIARAgoIoRAFAg&meta=recordings%20releasegroups%20compress
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      Accept:
+      - "*/*"
+      User-Agent:
+      - rest-client/2.1.0 (darwin20.3.0 x86_64) ruby/2.7.1p83
+      Accept-Encoding:
+      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+      Host:
+      - api.acoustid.org
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Date:
+      - Tue, 29 Jun 2021 13:49:06 GMT
+      Content-Type:
+      - application/json; charset=UTF-8
+      Transfer-Encoding:
+      - chunked
+      Connection:
+      - keep-alive
+      Vary:
+      - Accept-Encoding
+      Access-Control-Allow-Origin:
+      - "*"
+      X-Envoy-Upstream-Service-Time:
+      - '65'
+      Strict-Transport-Security:
+      - max-age=15724800; includeSubDomains
+    body:
+      encoding: ASCII-8BIT
+      string: '{"results": [{"id": "014fe346-ea57-4af9-8114-7ea0f1dbfcb5", "recordings":
+        [{"artists": [{"id": "d10253ac-e1c5-47f3-846f-65cce388b7fb", "name": "Phil
+        Harris"}], "duration": 182, "id": "fb680ef8-7319-4acc-aa5b-838668211cc6",
+        "releasegroups": [{"artists": [{"id": "4204e06b-d2e4-4823-b6f3-47f7593518cb",
+        "joinphrase": ", ", "name": "George Bruns"}, {"id": "c47026a1-3300-4cf7-80df-8b9462a884e4",
+        "joinphrase": " & ", "name": "Richard M. Sherman"}, {"id": "d378dedb-444f-48f5-a6e6-3e8e31ef6c14",
+        "joinphrase": ", ", "name": "Robert B. Sherman"}, {"id": "0a8df504-df94-4d77-a3c5-2b9e5c9727e2",
+        "name": "Terry Gilkyson"}], "id": "1257fcdf-743f-3dff-9894-107b398fb777",
+        "secondarytypes": ["Soundtrack"], "title": "The Jungle Book: Original Cast
+        Soundtrack", "type": "Album"}], "title": "Baloo\u2019s Blues"}], "score":
+        0.978046}], "status": "ok"}'
+    http_version:
+  recorded_at: Tue, 29 Jun 2021 13:49:06 GMT
+recorded_with: VCR 3.0.3

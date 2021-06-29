@@ -1,0 +1,560 @@
+---
+http_interactions:
+- request:
+    method: get
+    uri: https://api.acoustid.org/v2/lookup?client=<ACOUSTID_CLIENT_ID>&duration=172&fingerprint=AQADtAmTMFOSUBFyouTxI3WOUoN-5EIDF72o4tMRLZuGJ4KOMC38Ff2UC3divA_aC6mpET3xJtAQJj9-obyRoxSV48ugL6gkaUX6EGeP5_B4Ij8cJimPQt0UEfzRaDyug1d2_GDso3GycEMt_ZDl6GieGBVv_MNJByGaXwcfyYgdQZR-xO7RRMwxPeiao_kS3EcyWUJoMcPT446GJ8uPKd-E0Mou6EyFE_mCZtqVoXfxhMMdPNoRi3ogJ1GO8A-ew_lRNcccfihxomeQH8l_NE-Dt4dzavg3NNtxaWRyNHqOhPER3sTz4nuOrxG25MJ__MGT4dSOS2uIkg-aONyRsZCGPNFRPRPWTHOE_0evCxePXCeuHs2vDX0OvUHOwz8-HtMDJ7FqOEwpnDHS9YW-HGGGnMeTE8nFC89zXDvCJzm0VAvyWGAbSzh6bPFRMQ0uHskQhrOF8R8uXcFr7HEQ5ui1Ql-OH_cSqM41PGGOppaDMjx0PMKlBHWSQFyOn0Wo-MM_ROdBRzwUZROFfpiO39jT44whjtIRfriOM7EwHR6L6h-Y9Yc_RLeRsAmDB0-V43dQZjkuG094PKzQ0wiTq0fiR8UocsGTJJfAHz0VOOh64UmIHx-J9Eei40fzKJgS_cLj4xLyH8ke4ZRGOGKONjz-PMGH30euvGi2sDgdH5DfoGfw7Bi_QH2Sg4yOPEoc4dSHozn6I1eoQlfCpcj7oz-a_OByCTvaHddYoT--QzvOo1yy2PiSE1WC5sWdE1cwnsGn4FOKfoiUE4kbXE4wPVWQRi3E5QiP88XTK5ilRMcz5kjmFelz9Elt_ErwaFKIJvTxDz8-xFRm9FeiQM2FHc2FUExSNLpQHZF7_NAfRB9qH0-7owkV5LmhWC-uIV0k4upE9B_CnIugL8fL446RG2XWIkwVPcEbkcKnGM9iCqMySoIn_PgGXzn46IOWf6iOSAuDJkpUY9_RH36OR6D6ocyP-UMTh0VlXMzw5EhOdUeeLbHw5jhFnA0jnC_RLNl-9EVv4jzKcLlwkcS14xL-iEhOBnn6YyzxR4c_5E1IJBW7oX1wZqnQJ8Keo8mHcDuSNpk1XEwjPD88G_cRJ5qUJYUePEyh5UboJ_gTFQ05bB-qpMOD0RGaMwiP5Aqp4VfQhGKOh4f3oDe-BU2jXAjXB4emEz4eHc2XCvde5NTxZUcXNivyGdaSa9BEHXlMPB_-4ZGOSznCMEouaAuP-Bl-_NGEK8cV5SMqfYR_JN8RUomuCM_xD9sjGXcuZJWOJFR01Cr8H3i0oxZv_MV7xHuIJEoSSgLjYs8ePGXxHA1q5dzwJEh2pDFToU8kTfhxZccXBX0LDy_q9Ma5Dkev8Uj4DGkuoQ8e_KgZNOmOXHuQPPjhB_9w5MuhZT-RZhf6Iwy0HfHS48k2XMTx8WjeHSHvIdl1XJNRncelHfWWbjharvieHe2qomlyIk-X9Eh2FN-GN8cVh4ipXIO-ZwipJGvQPBGOp4f_IKmMXMnxc-gV-HzQC-eDpA2RR_Zw5USRa4GinDHy43lxRsGkG0e39IhE6RCvE-Fu_Itx4clxKQzwg0kckeh2vDnyvtC6o6FaML7hOBJCpceDLxlHhIdrhHxQH2G4LGKghuGDUkb6IHYUGs0e0NmhcUg7drjg42JgJ8tRSQeb5ch7qD_S5secKMcv9EfzHFcTPMnhpDryEEnPKTiPNlQMh-mIi0qKJqsElJJ2NA0f4xR6KYePZMmR_7hePIyOphr6CN_x7EP8BeKRt3iWHM-UI0wHnYcFH8XvQc-RZ8HF48mL00f4Q4vFIzd-PNRH3IpzPBPxKD8eH03Fos8S49mlQHuOO-jKlPhx0qj-onyJJ0-QcxAvEnmY4B_SRYeubciPW-ijqAiTTBKhtjnyfcLRnDl-_ERN4QqHI08FVUe4E2eGC9fhfEeRT4eq6LjKFPmQ69DyhUF4PFG84dqP6mh-XMmFJ6mEPH_RZ4SW68MTB7_wrNCjIpdj9A-aLz9uPPrw48dzVDmakAqutDimD2EO5eNDPCeuC5FONGdxhMkVyF0QKaESfMcT0QoeNBUeI5SzQy5iGQ0vBT2e4MmS4TPRnDGqC8fzHpdzNDn-cOh5PA_ylIJmDuGLN4nxJBFHnPHQXEdz_OgXEs2PSybxRA-aiPLxk0j3ENqPvIuFSpkO6xjxMIX_wwcjPsFfoYqPZhKOMGGSHMlW5sG9D3wiItBzasiP6njKC1MmZSl-5IL4IY8SvEcTpjnCXYyC91CTHDXCNFPwjDhTSvjjwfuyDJdwWUYechC_Ij92Btdn9EwKqiKqX8RDPsWXT8Ovg5-PH83yo3ywn8Mj-MOPpE4e5MedWehDXMvxwdFQ9hy-o1mjHD2PK8d3otuOHFqeIM_wz7jQJ0ii3EX-45qKaclyOKIefAnyRIZm5OuFR6SGp83QPEVPE_EiQf-Rh6gcuOYQMtB55Due5UF5OEryBlsblKyIcyhFiUI0i4dmhL8GSzsOv8UzwhdCUdMo6EKetbhOTIervaiqE7eH88HlH7mN3hB3RGpUDVcuPEdz_ejH42yCKxHKLCMSHuHDDMeZZ7iU-bie4pSQOw4SRlsePKKOd9kCx8cxa0vxSDuS_Uif5OiPi8vxjE4wPYdVKXvgL0XJoFmSCaElZULiBj7uEJeMK8mDp5uyENXhn0P4zEiuNHhL4Ul0PCP-oa-K5ng--A_ews7xHcmDnFJGDkfz4Prw1MKHPFS8DHrGI0yO58WVBc17lFlw_Cilw6ly-Dh8WEcO9fixIy9e7LjaA4YQVgxBIBATCAggEBDCMIaEAgYBIZhhUghijKIAGE6EUEAoZIAQAghiFAAIEAKAAQQgwgBgiBFghKLAMASoMAgIpYQACCEACGCGEQYEIQAgSSRBxiChDBCAEAIIIMAQoQwUSBBDGCNCGaoIAQQAYoCRxhTkAEFAASOEI0IIBCigCDICADAEEs2UEYwQw5AABAEsHAAEEoQIU4IAAgBkSkkBIQKNCSGIQAgQxYgRQkBghDEAEMGEEMIJIEBXygAiACKCMNSIQEooBYwAAIClhABQCQIcMIA4RwBCgFGgEAIGQiAEMAxALQAQgEHCBCJACSQIEEwZRAABQAkihDJGISYUUoQAQQwQRAggFFECMaIAAIIABIQDkAhmBEAECOCAQowARoEgCgHinELGgAScEEAIYhQzSjECAVMACWYcAoYoQYhwhADCgARCCCCIQIIwRQAQhFIFkBeSEAEECUgKApwAwxiBADMUAWUMMEgBSxjiRgAhhCBACEIFEAYAAgUigBjDgRGEIGIMAAQRAJAEThFDkAdAAAIAN4AwAwAUQAFiiBBGIIEYRQICQJAQxhBlEGCESKEMIUIAKoCQgABAiAMIEeOQMlAIJDQQzChghABCASahIYAARgRiRhBhAaAAAUIUEUQ6ggFFUAgiEGAIKuasMAQgSQAAhhGxpFAGASEBQoIAIgQQEghChBICAIQAo5Y5IoiVQAAlCFKCCsIISIZYghwQKAFAiCNQEGaMIAAgI6kgVgChiBEAaGGkEkSIRgjjDgBCABFQAqGoQAwRAQgQhAAiBKBCQEAMAEAAAAgAAiCgiDPGAUYBkEARZIhgTCAklDIQCMIgAgwYpghTQhiGBAACAcUIUwAYRQDygBEjCGMAIIIEAEJIopgAAhACiFMOKAIEIMYYRAwjwAICgCOICEKAAQgoYYAQDClCCAKKEaWAEooJk4hBEAAhkULIMKKUQFIDjxkyixAEAA&meta=recordings%20releasegroups%20compress
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      Accept:
+      - "*/*"
+      User-Agent:
+      - rest-client/2.1.0 (darwin20.3.0 x86_64) ruby/2.7.1p83
+      Accept-Encoding:
+      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+      Host:
+      - api.acoustid.org
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Date:
+      - Tue, 29 Jun 2021 13:47:58 GMT
+      Content-Type:
+      - application/json; charset=UTF-8
+      Transfer-Encoding:
+      - chunked
+      Connection:
+      - keep-alive
+      Vary:
+      - Accept-Encoding
+      Access-Control-Allow-Origin:
+      - "*"
+      X-Envoy-Upstream-Service-Time:
+      - '155'
+      Strict-Transport-Security:
+      - max-age=15724800; includeSubDomains
+    body:
+      encoding: ASCII-8BIT
+      string: '{"results": [{"id": "7b8349a6-3453-4928-b89a-27362db4b61a", "recordings":
+        [{"id": "00e15cac-7bf4-4856-afe8-da5e676bbbd8"}, {"id": "0550dab0-96b2-4bf5-949b-006d634fdaba"},
+        {"id": "22de1326-7f1d-4983-9711-06035e4e4abb"}, {"artists": [{"id": "f98a61b4-394d-4e1f-a5f3-f747b9494e5a",
+        "name": "Blue Swede"}], "duration": 173, "id": "27697708-3c75-4da4-9d04-7594b99498c4",
+        "releasegroups": [{"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "6d186225-ec1e-4a03-a67f-e76b2c0e6d2e",
+        "secondarytypes": ["Compilation"], "title": "Hits of the 70s", "type": "Album"},
+        {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various
+        Artists"}], "id": "537c1a87-58ad-38ad-b74b-9c3032a584d6", "secondarytypes":
+        ["Compilation"], "title": "The Best of Cult Fiction: Cult Movie Themes", "type":
+        "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name":
+        "Various Artists"}], "id": "c394ca77-1697-3054-af39-2f8b8315eaba", "secondarytypes":
+        ["Compilation"], "title": "Big Hits of the 70s", "type": "Album"}, {"artists":
+        [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}],
+        "id": "170c1305-6753-4804-bca4-8d16b4c04610", "secondarytypes": ["Compilation"],
+        "title": "Singers and Songwriters: 1973-1975", "type": "Album"}, {"artists":
+        [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}],
+        "id": "fc80f4cb-6466-4881-b7dc-0a568debda2d", "secondarytypes": ["Compilation"],
+        "title": "The Greatest Seventies Album", "type": "Album"}, {"artists": [{"id":
+        "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}], "id":
+        "e55c4128-1f77-49f0-887f-d6cf5ccf945d", "secondarytypes": ["Compilation"],
+        "title": "Lost and Found: 1970-1978", "type": "Album"}, {"artists": [{"id":
+        "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}], "id":
+        "a3a57f9e-3968-31ad-80f2-3224ca339c62", "secondarytypes": ["Compilation"],
+        "title": "Sounds of the Seventies: AM Top Twenty", "type": "Album"}, {"artists":
+        [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}],
+        "id": "c1e6623a-3609-4d24-bd81-e143c2ece3c5", "secondarytypes": ["Compilation"],
+        "title": "Now! 1970''s", "type": "Album"}, {"artists": [{"id": "f98a61b4-394d-4e1f-a5f3-f747b9494e5a",
+        "name": "Blue Swede"}], "id": "c57a28ac-3173-4448-a0b6-f1b007eed71f", "title":
+        "Hooked On A Feeling - 40th Anniversary Collection", "type": "Album"}, {"artists":
+        [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}],
+        "id": "75435b42-3f09-3a57-ab51-f5d1d8a5bd05", "secondarytypes": ["Compilation"],
+        "title": "The Best Beer Drinking Songs, Volume 4", "type": "Album"}, {"artists":
+        [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}],
+        "id": "83e4362a-13e1-4472-a6c0-aab57bf22e10", "secondarytypes": ["Compilation"],
+        "title": "The Greatest Hits of the 70\u2019s, Volume 2", "type": "Album"},
+        {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various
+        Artists"}], "id": "b11d6932-9b8b-3675-912f-32ec5bade9a4", "secondarytypes":
+        ["Compilation"], "title": "One\u2010Hit Wonders", "type": "Album"}, {"artists":
+        [{"id": "f98a61b4-394d-4e1f-a5f3-f747b9494e5a", "name": "Blue Swede"}], "id":
+        "43e9917c-b53e-3eb7-a380-14ab95895639", "secondarytypes": ["Compilation"],
+        "title": "The Golden Classics of Blue Swede", "type": "Album"}, {"artists":
+        [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}],
+        "id": "94849493-d22a-3d4a-a9c0-07a9be168d28", "secondarytypes": ["Compilation"],
+        "title": "Tarantinomania", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "8d717e29-61d0-4989-b8f2-617bdc991ac4",
+        "secondarytypes": ["Compilation"], "title": "Rock Around the Clock", "type":
+        "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name":
+        "Various Artists"}], "id": "bfec76b3-1112-3ea9-9e63-02cfb7f4a929", "secondarytypes":
+        ["Compilation"], "title": "Fetenhits: The Rare Classics", "type": "Album"},
+        {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various
+        Artists"}], "id": "efbda1d1-f8c8-4e95-b0e1-1d51fc33b92b", "secondarytypes":
+        ["Compilation"], "title": "Born and Raised in the 70s", "type": "Album"},
+        {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various
+        Artists"}], "id": "fdeaba56-7b92-3f4e-935c-ac895db560ff", "secondarytypes":
+        ["Compilation"], "title": "101 Party Hits", "type": "Album"}, {"artists":
+        [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}],
+        "id": "f549f317-dc04-48bb-813b-2a724bf80e23", "secondarytypes": ["Compilation"],
+        "title": "Absolute Very Best of the World''s Best Ever Beer Songs, Volume
+        2", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "3ae4dfd0-c3a3-33fc-8e83-258cbe21af87",
+        "secondarytypes": ["Compilation"], "title": "Yesterday\u2019s: Glamrock",
+        "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "bcceb6f4-2508-3e0e-9187-624fb2ae10a9",
+        "secondarytypes": ["Compilation"], "title": "Suddenly ''70s", "type": "Album"},
+        {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various
+        Artists"}], "id": "719e1317-8bee-38d3-ac9c-74fb96aa80a2", "secondarytypes":
+        ["Compilation"], "title": "GoodNoise Compilations Number One Hits (1970-1974)",
+        "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "f1e5f09b-b934-3a47-a779-37a1c4dd0b6b",
+        "secondarytypes": ["Compilation"], "title": "Svenska 70-talsklassiker", "type":
+        "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name":
+        "Various Artists"}], "id": "e57f3b84-87ef-3114-805d-322c542f7889", "secondarytypes":
+        ["Compilation"], "title": "The Beat Goes On: The Greatest Hits of the 60\u2019s
+        and 70\u2019s", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "ac607513-418b-4cd1-8b6d-457f0a0e0c2f",
+        "secondarytypes": ["Compilation"], "title": "Eldorado 2", "type": "Album"},
+        {"artists": [{"id": "f98a61b4-394d-4e1f-a5f3-f747b9494e5a", "name": "Blue
+        Swede"}], "id": "c700136d-8c21-3ce2-b05f-4e3316b58b66", "title": "Hooked on
+        a Feeling", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "17a6a547-d347-4511-953b-be723a9efdde",
+        "secondarytypes": ["Compilation"], "title": "AM Gold: Smash Hits of the ''70s",
+        "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "0356a440-6494-31df-b46b-c7c5f7871bc2",
+        "secondarytypes": ["Compilation"], "title": "Tarantino Movies", "type": "Album"},
+        {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various
+        Artists"}], "id": "b9fade49-0e64-3561-be60-5341b21ea35f", "secondarytypes":
+        ["Compilation"], "title": "Radio City Classic Hits: The 70''s", "type": "Album"},
+        {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various
+        Artists"}], "id": "448e17f6-8c7c-4100-ad10-710b0d8acbc7", "secondarytypes":
+        ["Compilation"], "title": "101 One Hit Wonders", "type": "Album"}, {"artists":
+        [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}],
+        "id": "744ec942-0a16-44f0-a1b5-c4997546c61e", "secondarytypes": ["Compilation"],
+        "title": "101 Beer Songs", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "1f38f57f-f7b8-448a-a3dc-35964c061c53",
+        "secondarytypes": ["Compilation"], "title": "70s Songs", "type": "Album"},
+        {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various
+        Artists"}], "id": "6957fa73-a3b4-4621-9855-f7359364f624", "secondarytypes":
+        ["Compilation"], "title": "Still the One: 70''s Pop", "type": "Album"}, {"artists":
+        [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}],
+        "id": "35271863-7cd6-3710-9aaf-7e0a29d39767", "secondarytypes": ["Compilation"],
+        "title": "Top Hits of the Seventies, Volume 2: Incredible Hits", "type": "Album"},
+        {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various
+        Artists"}], "id": "0e63015d-7dfd-3c22-a7ce-7c4ac8b086b4", "secondarytypes":
+        ["Compilation"], "title": "Another Slice of Vintage Cheese", "type": "Album"},
+        {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various
+        Artists"}], "id": "93bbab52-c0f8-4bf0-ad2c-a6e3950cea0d", "secondarytypes":
+        ["Compilation"], "title": "101 Moments in Music, Volume 2", "type": "Album"},
+        {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various
+        Artists"}], "id": "52014f71-2b3b-3f10-9b83-8d9126a21d97", "secondarytypes":
+        ["Compilation"], "title": "Essential Seventies", "type": "Album"}, {"artists":
+        [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}],
+        "id": "1a21dc78-2cc9-33bf-8102-3239167bd7f4", "secondarytypes": ["Compilation"],
+        "title": "The Best Beer Drinking Album in the World... Ever!", "type": "Album"},
+        {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various
+        Artists"}], "id": "752bc3c8-709a-4db3-87e3-38f2359f6c67", "secondarytypes":
+        ["Compilation"], "title": "Capitol Records 50th Anniversary 1942\u20131992",
+        "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "1d01361a-e380-3cd3-b754-633de834eece",
+        "secondarytypes": ["Compilation"], "title": "Tarantino''s Favourites", "type":
+        "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name":
+        "Various Artists"}], "id": "e23ea01f-3013-4096-be97-b6353842a2d9", "secondarytypes":
+        ["Compilation"], "title": "Rock & Roll\u2019s Greatest Hits of the 70\u2019s
+        Volume 2", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "e011c316-79f0-3b79-bd27-07a056733448",
+        "secondarytypes": ["Compilation"], "title": "Super 70\u2019s Summer", "type":
+        "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name":
+        "Various Artists"}], "id": "fda2bc89-ffa1-315c-854b-4ff76b9d858e", "secondarytypes":
+        ["Compilation"], "title": "Absolute Seventies", "type": "Album"}, {"artists":
+        [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}],
+        "id": "d8316e01-88ee-3d7d-b760-07f7b8054fcd", "secondarytypes": ["Compilation"],
+        "title": "70s Music Explosion: Magic", "type": "Album"}, {"artists": [{"id":
+        "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}], "id":
+        "950092d6-45f6-4269-87da-99a9ff2fcc52", "secondarytypes": ["Compilation",
+        "Soundtrack"], "title": "Guardians of the Galaxy: Awesome Mix, Vol. 1: Original
+        Motion Picture Soundtrack", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "54392a5c-22d1-462e-ae7c-f8e61e037579",
+        "secondarytypes": ["Compilation"], "title": "The Party Album - 40 Hits....
+        Mere End 2 \u00bd Times Musik", "type": "Album"}, {"artists": [{"id": "f98a61b4-394d-4e1f-a5f3-f747b9494e5a",
+        "name": "Blue Swede"}], "id": "58e0df91-030a-403e-b402-c48fb2b1ca6d", "title":
+        "Hooked on a Feeling - Remixes", "type": "Single"}, {"artists": [{"id": "b3c8a465-9081-41ef-b845-43fbf24e15e0",
+        "name": "Bj\u00f6rn Skifs"}], "id": "c6721acf-b1f8-3696-86ec-b3e0ff1669c4",
+        "secondarytypes": ["Compilation"], "title": "Songs for You", "type": "Album"},
+        {"artists": [{"id": "b3c8a465-9081-41ef-b845-43fbf24e15e0", "name": "Bj\u00f6rn
+        Skifs"}], "id": "c0bd5124-daee-3f9e-9afa-4f4f81017f59", "title": "Hooked on
+        a Feeling", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "cb84c893-874d-3fdd-9463-50ba39ddaddf",
+        "secondarytypes": ["Compilation"], "title": "Pure 70\u2019s", "type": "Album"},
+        {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various
+        Artists"}], "id": "6744d21c-9f57-3ac2-88d0-a494b27de9ac", "secondarytypes":
+        ["Compilation"], "title": "Seventies Complete, Volume 2", "type": "Album"},
+        {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various
+        Artists"}], "id": "f0a2c164-b333-377d-9b27-98976890be40", "secondarytypes":
+        ["Compilation"], "title": "Ulli Wengers One Hit Wonder, Volume 2", "type":
+        "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name":
+        "Various Artists"}], "id": "749e2319-e6c0-4e4f-b24f-f28e8d1528d7", "secondarytypes":
+        ["Compilation"], "title": "100 Greatest Pop Songs", "type": "Album"}, {"artists":
+        [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}],
+        "id": "50cbf7fe-e97e-30d4-8388-373c64ca5a85", "secondarytypes": ["Compilation"],
+        "title": "Greatest Hits of the 70\u2019s", "type": "Album"}, {"artists": [{"id":
+        "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}], "id":
+        "6e64b182-d402-3dac-8963-a7dd172f6c7a", "secondarytypes": ["Compilation"],
+        "title": "Don\u2019t Stop Till You Drop: 60 Great Party Hits", "type": "Album"},
+        {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various
+        Artists"}], "id": "0f14de8a-d371-428a-869b-4b2b9e2e4945", "secondarytypes":
+        ["Soundtrack"], "title": "Marvel\u2019s Guardians of the Galaxy: Cosmic Mix
+        Vol. 1 (Music From the Animated Series)", "type": "Album"}, {"artists": [{"id":
+        "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}], "id":
+        "0c1637f7-ab5b-4022-aec9-63736223a965", "secondarytypes": ["Compilation"],
+        "title": "Let\u2019s Have a Party! 55 Top Ten Hits", "type": "Album"}, {"artists":
+        [{"id": "f98a61b4-394d-4e1f-a5f3-f747b9494e5a", "name": "Blue Swede"}], "id":
+        "c5242b36-fc97-4909-99f6-8226129b1c22", "title": "Hooked On A Feeling", "type":
+        "Single"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name":
+        "Various Artists"}], "id": "183eb4a9-132e-4214-805d-b9cc5f419153", "secondarytypes":
+        ["Compilation"], "title": "My Generation: The Soundtrack of Our Lives, the
+        70s Part Two", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "3f163f84-5bd0-4424-be7e-75d1c4dbc650",
+        "secondarytypes": ["Compilation"], "title": "100 Greatest: One Hit Wonders",
+        "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "c847dde6-620b-4e28-8079-0d342c8dd208",
+        "secondarytypes": ["Compilation"], "title": "Absolute 70\u2019s", "type":
+        "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name":
+        "Various Artists"}], "id": "565125cd-cb39-3f4c-adb0-c46e7641cbd8", "secondarytypes":
+        ["Compilation"], "title": "Super Hits of the ''70s: Have a Nice Day, Vol.
+        12", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "b4d07be8-6461-49ab-b1b2-113493a308c4",
+        "secondarytypes": ["Compilation"], "title": "100 Greatest 70s", "type": "Album"},
+        {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various
+        Artists"}], "id": "d405e604-596c-3f02-9ed0-0718d53868f1", "secondarytypes":
+        ["Compilation"], "title": "Super 70''s Summer", "type": "Album"}, {"artists":
+        [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}],
+        "id": "6ef42f3b-e5fa-4a97-9cbb-4d4bda544261", "secondarytypes": ["Compilation"],
+        "title": "70s", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "fdf11671-674c-30aa-9757-036edc3316c2",
+        "secondarytypes": ["Compilation"], "title": "One Hit Wonders: The Seventies",
+        "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "914c63e9-ac09-39ca-b1bf-94008c664ded",
+        "secondarytypes": ["Soundtrack"], "title": "Reservoir Dogs: Music From the
+        Original Motion Picture Soundtrack", "type": "Album"}, {"artists": [{"id":
+        "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}], "id":
+        "ebe8302a-e4cf-44b9-ae95-361e507545bb", "secondarytypes": ["Compilation"],
+        "title": "Super Seventies Party", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "099f118a-6599-47dc-8101-17ed5fcbaeaf",
+        "title": "Best Movie Hits 50", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "614b80d4-7661-4e66-8529-2d2e4daf6dce",
+        "secondarytypes": ["Compilation"], "title": "100 Greatest Best Songs Ever",
+        "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "9cb4d0a6-880b-455a-908f-49cb4ae42b8e",
+        "secondarytypes": ["Compilation"], "title": "Lost and Found in the Seventies:
+        Songs You Never Forget", "type": "Album"}, {"artists": [{"id": "03cfec4a-9885-444c-9e74-5fbab5861106",
+        "name": "Tyler Bates"}], "id": "e974e9ae-1933-45a5-8f3e-230ccb1759c8", "secondarytypes":
+        ["Compilation", "Soundtrack"], "title": "Guardians of the Galaxy: Deluxe",
+        "type": "Album"}, {"artists": [{"id": "f98a61b4-394d-4e1f-a5f3-f747b9494e5a",
+        "name": "Bj\u00f6rn Skifs & Bl\u00e5blus"}], "id": "31af23eb-8f33-439d-95c0-95287a5c48c8",
+        "title": "Pinewood Rally", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "3fc24d86-84d3-3d96-a563-66d8aa40c95f",
+        "secondarytypes": ["Soundtrack"], "title": "Dick", "type": "Album"}, {"artists":
+        [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}],
+        "id": "79e49fee-8b0d-38a5-ad4b-5a7e0c64b9c1", "secondarytypes": ["Compilation"],
+        "title": "Suddenly \u201970s", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "b5c596bf-4f6c-467a-9956-ddd3c23edee0",
+        "title": "Millennium - 32 Greatest Hits"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "3db08f47-15a8-4053-9081-735620071d50",
+        "secondarytypes": ["Compilation"], "title": "Party Zone 2000", "type": "Album"},
+        {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various
+        Artists"}], "id": "cbfa8ab5-5859-3d9c-ad02-f98bfd9c1023", "secondarytypes":
+        ["Compilation"], "title": "Rock On: 1974", "type": "Album"}, {"artists": [{"id":
+        "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}], "id":
+        "9f22b16a-f4be-4064-b8be-91aa5663e3f6", "secondarytypes": ["Compilation"],
+        "title": "Cruisin\u2019 3 Rare Gems", "type": "Album"}, {"artists": [{"id":
+        "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}], "id":
+        "0ac63a05-a5e9-3a1f-ac40-710af1f14cd5", "secondarytypes": ["Compilation"],
+        "title": "#1 Hits: 1970 - 1974", "type": "Album"}, {"artists": [{"id": "b3c8a465-9081-41ef-b845-43fbf24e15e0",
+        "name": "Bj\u00f6rn Skifs"}], "id": "d9c4d349-c5c4-3a7a-bd9c-1568dc70a1f0",
+        "secondarytypes": ["Compilation"], "title": "50/50", "type": "Album"}, {"artists":
+        [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}],
+        "id": "7f818e1d-ef3f-31c9-8cbd-af07976d5266", "secondarytypes": ["Compilation"],
+        "title": "Svenska klassiker 1970-1979", "type": "Album"}, {"artists": [{"id":
+        "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}], "id":
+        "b977a630-3230-4451-9281-50d631e0ca60", "secondarytypes": ["Compilation"],
+        "title": "Now That\u2019s What I Call Movies", "type": "Album"}, {"artists":
+        [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}],
+        "id": "829eb299-d6b8-3d06-8b86-c44aa9b75a26", "secondarytypes": ["Compilation"],
+        "title": "The Tarantino Connection, Vol. 2", "type": "Album"}, {"artists":
+        [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}],
+        "id": "14fa56c9-b385-3b7c-ac62-8a1669e9a8c5", "secondarytypes": ["Compilation"],
+        "title": "Dance ''til You Drop 2", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "a5b92381-1c6f-384a-b3ec-0ec3ad43b1d3",
+        "secondarytypes": ["Compilation"], "title": "Estrenos BSO", "type": "Album"},
+        {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various
+        Artists"}], "id": "e4230957-024f-3d24-8032-258d719f314c", "secondarytypes":
+        ["Compilation"], "title": "The Ultimate Jukebox Hits of the 70s", "type":
+        "Album"}], "title": "Hooked on a Feeling"}, {"id": "365dcccb-224f-4e65-9f83-1c2e13a7df64"},
+        {"id": "37a9582f-6ea8-4a33-9281-5723fc71da18"}, {"artists": [{"id": "f98a61b4-394d-4e1f-a5f3-f747b9494e5a",
+        "name": "Blue Swede"}], "duration": 172, "id": "6051f397-c154-4c8e-83e8-90aa9e6c2365",
+        "releasegroups": [{"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "66e66cc1-1752-4a80-ad97-91e6db712961",
+        "secondarytypes": ["Compilation"], "title": "The Ultimate Collection Decades",
+        "type": "Album"}], "title": "Hooked On A Feeling"}, {"id": "b5ff38cf-921c-462d-90b2-39a9bc6a6807"},
+        {"id": "d243ac54-ec18-478e-83ae-d0077ba065c4"}, {"artists": [{"id": "f98a61b4-394d-4e1f-a5f3-f747b9494e5a",
+        "name": "Blue Swede"}], "duration": 170, "id": "eb13d7a4-0570-4f0b-82e1-7debd915c54e",
+        "releasegroups": [{"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "ee4f4bad-514a-4688-b0bb-e0c536d55381",
+        "secondarytypes": ["Compilation"], "title": "1000 Original Hits: 1973", "type":
+        "Album"}], "title": "Hooked on a Feeling"}], "score": 0.997033}, {"id": "251e0f41-3063-4db8-b363-4292d133d64c",
+        "recordings": [{"artists": [{"id": "f98a61b4-394d-4e1f-a5f3-f747b9494e5a",
+        "name": "Blue Swede"}], "duration": 173, "id": "27697708-3c75-4da4-9d04-7594b99498c4",
+        "releasegroups": [{"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "6d186225-ec1e-4a03-a67f-e76b2c0e6d2e",
+        "secondarytypes": ["Compilation"], "title": "Hits of the 70s", "type": "Album"},
+        {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various
+        Artists"}], "id": "537c1a87-58ad-38ad-b74b-9c3032a584d6", "secondarytypes":
+        ["Compilation"], "title": "The Best of Cult Fiction: Cult Movie Themes", "type":
+        "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name":
+        "Various Artists"}], "id": "c394ca77-1697-3054-af39-2f8b8315eaba", "secondarytypes":
+        ["Compilation"], "title": "Big Hits of the 70s", "type": "Album"}, {"artists":
+        [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}],
+        "id": "170c1305-6753-4804-bca4-8d16b4c04610", "secondarytypes": ["Compilation"],
+        "title": "Singers and Songwriters: 1973-1975", "type": "Album"}, {"artists":
+        [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}],
+        "id": "fc80f4cb-6466-4881-b7dc-0a568debda2d", "secondarytypes": ["Compilation"],
+        "title": "The Greatest Seventies Album", "type": "Album"}, {"artists": [{"id":
+        "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}], "id":
+        "e55c4128-1f77-49f0-887f-d6cf5ccf945d", "secondarytypes": ["Compilation"],
+        "title": "Lost and Found: 1970-1978", "type": "Album"}, {"artists": [{"id":
+        "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}], "id":
+        "a3a57f9e-3968-31ad-80f2-3224ca339c62", "secondarytypes": ["Compilation"],
+        "title": "Sounds of the Seventies: AM Top Twenty", "type": "Album"}, {"artists":
+        [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}],
+        "id": "c1e6623a-3609-4d24-bd81-e143c2ece3c5", "secondarytypes": ["Compilation"],
+        "title": "Now! 1970''s", "type": "Album"}, {"artists": [{"id": "f98a61b4-394d-4e1f-a5f3-f747b9494e5a",
+        "name": "Blue Swede"}], "id": "c57a28ac-3173-4448-a0b6-f1b007eed71f", "title":
+        "Hooked On A Feeling - 40th Anniversary Collection", "type": "Album"}, {"artists":
+        [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}],
+        "id": "75435b42-3f09-3a57-ab51-f5d1d8a5bd05", "secondarytypes": ["Compilation"],
+        "title": "The Best Beer Drinking Songs, Volume 4", "type": "Album"}, {"artists":
+        [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}],
+        "id": "83e4362a-13e1-4472-a6c0-aab57bf22e10", "secondarytypes": ["Compilation"],
+        "title": "The Greatest Hits of the 70\u2019s, Volume 2", "type": "Album"},
+        {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various
+        Artists"}], "id": "b11d6932-9b8b-3675-912f-32ec5bade9a4", "secondarytypes":
+        ["Compilation"], "title": "One\u2010Hit Wonders", "type": "Album"}, {"artists":
+        [{"id": "f98a61b4-394d-4e1f-a5f3-f747b9494e5a", "name": "Blue Swede"}], "id":
+        "43e9917c-b53e-3eb7-a380-14ab95895639", "secondarytypes": ["Compilation"],
+        "title": "The Golden Classics of Blue Swede", "type": "Album"}, {"artists":
+        [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}],
+        "id": "94849493-d22a-3d4a-a9c0-07a9be168d28", "secondarytypes": ["Compilation"],
+        "title": "Tarantinomania", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "8d717e29-61d0-4989-b8f2-617bdc991ac4",
+        "secondarytypes": ["Compilation"], "title": "Rock Around the Clock", "type":
+        "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name":
+        "Various Artists"}], "id": "bfec76b3-1112-3ea9-9e63-02cfb7f4a929", "secondarytypes":
+        ["Compilation"], "title": "Fetenhits: The Rare Classics", "type": "Album"},
+        {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various
+        Artists"}], "id": "efbda1d1-f8c8-4e95-b0e1-1d51fc33b92b", "secondarytypes":
+        ["Compilation"], "title": "Born and Raised in the 70s", "type": "Album"},
+        {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various
+        Artists"}], "id": "fdeaba56-7b92-3f4e-935c-ac895db560ff", "secondarytypes":
+        ["Compilation"], "title": "101 Party Hits", "type": "Album"}, {"artists":
+        [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}],
+        "id": "f549f317-dc04-48bb-813b-2a724bf80e23", "secondarytypes": ["Compilation"],
+        "title": "Absolute Very Best of the World''s Best Ever Beer Songs, Volume
+        2", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "3ae4dfd0-c3a3-33fc-8e83-258cbe21af87",
+        "secondarytypes": ["Compilation"], "title": "Yesterday\u2019s: Glamrock",
+        "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "bcceb6f4-2508-3e0e-9187-624fb2ae10a9",
+        "secondarytypes": ["Compilation"], "title": "Suddenly ''70s", "type": "Album"},
+        {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various
+        Artists"}], "id": "719e1317-8bee-38d3-ac9c-74fb96aa80a2", "secondarytypes":
+        ["Compilation"], "title": "GoodNoise Compilations Number One Hits (1970-1974)",
+        "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "f1e5f09b-b934-3a47-a779-37a1c4dd0b6b",
+        "secondarytypes": ["Compilation"], "title": "Svenska 70-talsklassiker", "type":
+        "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name":
+        "Various Artists"}], "id": "e57f3b84-87ef-3114-805d-322c542f7889", "secondarytypes":
+        ["Compilation"], "title": "The Beat Goes On: The Greatest Hits of the 60\u2019s
+        and 70\u2019s", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "ac607513-418b-4cd1-8b6d-457f0a0e0c2f",
+        "secondarytypes": ["Compilation"], "title": "Eldorado 2", "type": "Album"},
+        {"artists": [{"id": "f98a61b4-394d-4e1f-a5f3-f747b9494e5a", "name": "Blue
+        Swede"}], "id": "c700136d-8c21-3ce2-b05f-4e3316b58b66", "title": "Hooked on
+        a Feeling", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "17a6a547-d347-4511-953b-be723a9efdde",
+        "secondarytypes": ["Compilation"], "title": "AM Gold: Smash Hits of the ''70s",
+        "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "0356a440-6494-31df-b46b-c7c5f7871bc2",
+        "secondarytypes": ["Compilation"], "title": "Tarantino Movies", "type": "Album"},
+        {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various
+        Artists"}], "id": "b9fade49-0e64-3561-be60-5341b21ea35f", "secondarytypes":
+        ["Compilation"], "title": "Radio City Classic Hits: The 70''s", "type": "Album"},
+        {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various
+        Artists"}], "id": "448e17f6-8c7c-4100-ad10-710b0d8acbc7", "secondarytypes":
+        ["Compilation"], "title": "101 One Hit Wonders", "type": "Album"}, {"artists":
+        [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}],
+        "id": "744ec942-0a16-44f0-a1b5-c4997546c61e", "secondarytypes": ["Compilation"],
+        "title": "101 Beer Songs", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "1f38f57f-f7b8-448a-a3dc-35964c061c53",
+        "secondarytypes": ["Compilation"], "title": "70s Songs", "type": "Album"},
+        {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various
+        Artists"}], "id": "6957fa73-a3b4-4621-9855-f7359364f624", "secondarytypes":
+        ["Compilation"], "title": "Still the One: 70''s Pop", "type": "Album"}, {"artists":
+        [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}],
+        "id": "35271863-7cd6-3710-9aaf-7e0a29d39767", "secondarytypes": ["Compilation"],
+        "title": "Top Hits of the Seventies, Volume 2: Incredible Hits", "type": "Album"},
+        {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various
+        Artists"}], "id": "0e63015d-7dfd-3c22-a7ce-7c4ac8b086b4", "secondarytypes":
+        ["Compilation"], "title": "Another Slice of Vintage Cheese", "type": "Album"},
+        {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various
+        Artists"}], "id": "93bbab52-c0f8-4bf0-ad2c-a6e3950cea0d", "secondarytypes":
+        ["Compilation"], "title": "101 Moments in Music, Volume 2", "type": "Album"},
+        {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various
+        Artists"}], "id": "52014f71-2b3b-3f10-9b83-8d9126a21d97", "secondarytypes":
+        ["Compilation"], "title": "Essential Seventies", "type": "Album"}, {"artists":
+        [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}],
+        "id": "1a21dc78-2cc9-33bf-8102-3239167bd7f4", "secondarytypes": ["Compilation"],
+        "title": "The Best Beer Drinking Album in the World... Ever!", "type": "Album"},
+        {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various
+        Artists"}], "id": "752bc3c8-709a-4db3-87e3-38f2359f6c67", "secondarytypes":
+        ["Compilation"], "title": "Capitol Records 50th Anniversary 1942\u20131992",
+        "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "1d01361a-e380-3cd3-b754-633de834eece",
+        "secondarytypes": ["Compilation"], "title": "Tarantino''s Favourites", "type":
+        "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name":
+        "Various Artists"}], "id": "e23ea01f-3013-4096-be97-b6353842a2d9", "secondarytypes":
+        ["Compilation"], "title": "Rock & Roll\u2019s Greatest Hits of the 70\u2019s
+        Volume 2", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "e011c316-79f0-3b79-bd27-07a056733448",
+        "secondarytypes": ["Compilation"], "title": "Super 70\u2019s Summer", "type":
+        "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name":
+        "Various Artists"}], "id": "fda2bc89-ffa1-315c-854b-4ff76b9d858e", "secondarytypes":
+        ["Compilation"], "title": "Absolute Seventies", "type": "Album"}, {"artists":
+        [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}],
+        "id": "d8316e01-88ee-3d7d-b760-07f7b8054fcd", "secondarytypes": ["Compilation"],
+        "title": "70s Music Explosion: Magic", "type": "Album"}, {"artists": [{"id":
+        "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}], "id":
+        "950092d6-45f6-4269-87da-99a9ff2fcc52", "secondarytypes": ["Compilation",
+        "Soundtrack"], "title": "Guardians of the Galaxy: Awesome Mix, Vol. 1: Original
+        Motion Picture Soundtrack", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "54392a5c-22d1-462e-ae7c-f8e61e037579",
+        "secondarytypes": ["Compilation"], "title": "The Party Album - 40 Hits....
+        Mere End 2 \u00bd Times Musik", "type": "Album"}, {"artists": [{"id": "f98a61b4-394d-4e1f-a5f3-f747b9494e5a",
+        "name": "Blue Swede"}], "id": "58e0df91-030a-403e-b402-c48fb2b1ca6d", "title":
+        "Hooked on a Feeling - Remixes", "type": "Single"}, {"artists": [{"id": "b3c8a465-9081-41ef-b845-43fbf24e15e0",
+        "name": "Bj\u00f6rn Skifs"}], "id": "c6721acf-b1f8-3696-86ec-b3e0ff1669c4",
+        "secondarytypes": ["Compilation"], "title": "Songs for You", "type": "Album"},
+        {"artists": [{"id": "b3c8a465-9081-41ef-b845-43fbf24e15e0", "name": "Bj\u00f6rn
+        Skifs"}], "id": "c0bd5124-daee-3f9e-9afa-4f4f81017f59", "title": "Hooked on
+        a Feeling", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "cb84c893-874d-3fdd-9463-50ba39ddaddf",
+        "secondarytypes": ["Compilation"], "title": "Pure 70\u2019s", "type": "Album"},
+        {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various
+        Artists"}], "id": "6744d21c-9f57-3ac2-88d0-a494b27de9ac", "secondarytypes":
+        ["Compilation"], "title": "Seventies Complete, Volume 2", "type": "Album"},
+        {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various
+        Artists"}], "id": "f0a2c164-b333-377d-9b27-98976890be40", "secondarytypes":
+        ["Compilation"], "title": "Ulli Wengers One Hit Wonder, Volume 2", "type":
+        "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name":
+        "Various Artists"}], "id": "749e2319-e6c0-4e4f-b24f-f28e8d1528d7", "secondarytypes":
+        ["Compilation"], "title": "100 Greatest Pop Songs", "type": "Album"}, {"artists":
+        [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}],
+        "id": "50cbf7fe-e97e-30d4-8388-373c64ca5a85", "secondarytypes": ["Compilation"],
+        "title": "Greatest Hits of the 70\u2019s", "type": "Album"}, {"artists": [{"id":
+        "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}], "id":
+        "6e64b182-d402-3dac-8963-a7dd172f6c7a", "secondarytypes": ["Compilation"],
+        "title": "Don\u2019t Stop Till You Drop: 60 Great Party Hits", "type": "Album"},
+        {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various
+        Artists"}], "id": "0f14de8a-d371-428a-869b-4b2b9e2e4945", "secondarytypes":
+        ["Soundtrack"], "title": "Marvel\u2019s Guardians of the Galaxy: Cosmic Mix
+        Vol. 1 (Music From the Animated Series)", "type": "Album"}, {"artists": [{"id":
+        "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}], "id":
+        "0c1637f7-ab5b-4022-aec9-63736223a965", "secondarytypes": ["Compilation"],
+        "title": "Let\u2019s Have a Party! 55 Top Ten Hits", "type": "Album"}, {"artists":
+        [{"id": "f98a61b4-394d-4e1f-a5f3-f747b9494e5a", "name": "Blue Swede"}], "id":
+        "c5242b36-fc97-4909-99f6-8226129b1c22", "title": "Hooked On A Feeling", "type":
+        "Single"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name":
+        "Various Artists"}], "id": "183eb4a9-132e-4214-805d-b9cc5f419153", "secondarytypes":
+        ["Compilation"], "title": "My Generation: The Soundtrack of Our Lives, the
+        70s Part Two", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "3f163f84-5bd0-4424-be7e-75d1c4dbc650",
+        "secondarytypes": ["Compilation"], "title": "100 Greatest: One Hit Wonders",
+        "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "c847dde6-620b-4e28-8079-0d342c8dd208",
+        "secondarytypes": ["Compilation"], "title": "Absolute 70\u2019s", "type":
+        "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name":
+        "Various Artists"}], "id": "565125cd-cb39-3f4c-adb0-c46e7641cbd8", "secondarytypes":
+        ["Compilation"], "title": "Super Hits of the ''70s: Have a Nice Day, Vol.
+        12", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "b4d07be8-6461-49ab-b1b2-113493a308c4",
+        "secondarytypes": ["Compilation"], "title": "100 Greatest 70s", "type": "Album"},
+        {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various
+        Artists"}], "id": "d405e604-596c-3f02-9ed0-0718d53868f1", "secondarytypes":
+        ["Compilation"], "title": "Super 70''s Summer", "type": "Album"}, {"artists":
+        [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}],
+        "id": "6ef42f3b-e5fa-4a97-9cbb-4d4bda544261", "secondarytypes": ["Compilation"],
+        "title": "70s", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "fdf11671-674c-30aa-9757-036edc3316c2",
+        "secondarytypes": ["Compilation"], "title": "One Hit Wonders: The Seventies",
+        "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "914c63e9-ac09-39ca-b1bf-94008c664ded",
+        "secondarytypes": ["Soundtrack"], "title": "Reservoir Dogs: Music From the
+        Original Motion Picture Soundtrack", "type": "Album"}, {"artists": [{"id":
+        "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}], "id":
+        "ebe8302a-e4cf-44b9-ae95-361e507545bb", "secondarytypes": ["Compilation"],
+        "title": "Super Seventies Party", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "099f118a-6599-47dc-8101-17ed5fcbaeaf",
+        "title": "Best Movie Hits 50", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "614b80d4-7661-4e66-8529-2d2e4daf6dce",
+        "secondarytypes": ["Compilation"], "title": "100 Greatest Best Songs Ever",
+        "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "9cb4d0a6-880b-455a-908f-49cb4ae42b8e",
+        "secondarytypes": ["Compilation"], "title": "Lost and Found in the Seventies:
+        Songs You Never Forget", "type": "Album"}, {"artists": [{"id": "03cfec4a-9885-444c-9e74-5fbab5861106",
+        "name": "Tyler Bates"}], "id": "e974e9ae-1933-45a5-8f3e-230ccb1759c8", "secondarytypes":
+        ["Compilation", "Soundtrack"], "title": "Guardians of the Galaxy: Deluxe",
+        "type": "Album"}, {"artists": [{"id": "f98a61b4-394d-4e1f-a5f3-f747b9494e5a",
+        "name": "Bj\u00f6rn Skifs & Bl\u00e5blus"}], "id": "31af23eb-8f33-439d-95c0-95287a5c48c8",
+        "title": "Pinewood Rally", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "3fc24d86-84d3-3d96-a563-66d8aa40c95f",
+        "secondarytypes": ["Soundtrack"], "title": "Dick", "type": "Album"}, {"artists":
+        [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}],
+        "id": "79e49fee-8b0d-38a5-ad4b-5a7e0c64b9c1", "secondarytypes": ["Compilation"],
+        "title": "Suddenly \u201970s", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "b5c596bf-4f6c-467a-9956-ddd3c23edee0",
+        "title": "Millennium - 32 Greatest Hits"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "3db08f47-15a8-4053-9081-735620071d50",
+        "secondarytypes": ["Compilation"], "title": "Party Zone 2000", "type": "Album"},
+        {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various
+        Artists"}], "id": "cbfa8ab5-5859-3d9c-ad02-f98bfd9c1023", "secondarytypes":
+        ["Compilation"], "title": "Rock On: 1974", "type": "Album"}, {"artists": [{"id":
+        "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}], "id":
+        "9f22b16a-f4be-4064-b8be-91aa5663e3f6", "secondarytypes": ["Compilation"],
+        "title": "Cruisin\u2019 3 Rare Gems", "type": "Album"}, {"artists": [{"id":
+        "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}], "id":
+        "0ac63a05-a5e9-3a1f-ac40-710af1f14cd5", "secondarytypes": ["Compilation"],
+        "title": "#1 Hits: 1970 - 1974", "type": "Album"}, {"artists": [{"id": "b3c8a465-9081-41ef-b845-43fbf24e15e0",
+        "name": "Bj\u00f6rn Skifs"}], "id": "d9c4d349-c5c4-3a7a-bd9c-1568dc70a1f0",
+        "secondarytypes": ["Compilation"], "title": "50/50", "type": "Album"}, {"artists":
+        [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}],
+        "id": "7f818e1d-ef3f-31c9-8cbd-af07976d5266", "secondarytypes": ["Compilation"],
+        "title": "Svenska klassiker 1970-1979", "type": "Album"}, {"artists": [{"id":
+        "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}], "id":
+        "b977a630-3230-4451-9281-50d631e0ca60", "secondarytypes": ["Compilation"],
+        "title": "Now That\u2019s What I Call Movies", "type": "Album"}, {"artists":
+        [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}],
+        "id": "829eb299-d6b8-3d06-8b86-c44aa9b75a26", "secondarytypes": ["Compilation"],
+        "title": "The Tarantino Connection, Vol. 2", "type": "Album"}, {"artists":
+        [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}],
+        "id": "14fa56c9-b385-3b7c-ac62-8a1669e9a8c5", "secondarytypes": ["Compilation"],
+        "title": "Dance ''til You Drop 2", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "a5b92381-1c6f-384a-b3ec-0ec3ad43b1d3",
+        "secondarytypes": ["Compilation"], "title": "Estrenos BSO", "type": "Album"},
+        {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various
+        Artists"}], "id": "e4230957-024f-3d24-8032-258d719f314c", "secondarytypes":
+        ["Compilation"], "title": "The Ultimate Jukebox Hits of the 70s", "type":
+        "Album"}], "title": "Hooked on a Feeling"}], "score": 0.986748}], "status":
+        "ok"}'
+    http_version:
+  recorded_at: Tue, 29 Jun 2021 13:47:58 GMT
+recorded_with: VCR 3.0.3

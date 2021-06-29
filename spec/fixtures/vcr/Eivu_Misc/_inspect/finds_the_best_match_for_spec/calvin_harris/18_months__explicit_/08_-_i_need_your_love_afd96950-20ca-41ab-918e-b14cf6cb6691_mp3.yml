@@ -1,0 +1,277 @@
+---
+http_interactions:
+- request:
+    method: get
+    uri: https://api.acoustid.org/v2/lookup?client=<ACOUSTID_CLIENT_ID>&duration=234&fingerprint=AQADtEwiJomiKEngG0dK4tBx_EiPH3k0-McD2Thy-MWRCz6PlmID_QiP5qtwCWH0HxqTI1-yB_2JD_ZRH3dQOkWYC_o-5P9RH43r46GCxkeZ4GFyOF4eIz-SRyHqwxHzFJ0GR8zxJB_OcUj2Icw9_MMTYhSYnEIfKuDDIXlm5D5-VMlVYWKO58TDFMmdIdWDX8eXicHJ4oHP4zn0HOfxDzfTROhLlJKOJ8mOy4T2RGhO7OGFZznOY7uFP0ecI3lyoT6a8yhfNMsPPA_yXEh45XgS53iDHX1GEc2X48esXIGenImKO8dDXDn-4zvCQ8uDHM_SY77wg6oYCu9ErGtw5YgfaDmDMEuMK3px4U4OfxMi5kdSg46C_QqaP8HkHleG5FmQ49zwlFaCS-fARgmuJEbuI-GLiyIuMRbYKMmFe8yRMOmRbzeefOCL6VcMLU-OH8-OmWHxLB-a0AmPPrge4ydOJEsTIYuV4weXPFWM6kSfGXMePIMfPLlw7wivIFkujJJy4VGOS2By5UT4RHGgJ0WOMz2Oez7CHVqe4hlGMcfpIMyFWgzxwS2ST0flmAmaH7k5nOlw5bhsJMuNkPax88jvok54NDUTnEFz9A-uRHmEVFl4nAqNqx4SGrnCScF5mOCVg8vyINk7HmH-gP6F5_iSS0HFH1M-PD_0Bw8eH98T9FGqSPAV4c-RuHwQ6U1w0XiW_HiCXiGaJ0qRP9C_CnkafI6Nx0Ne_RCfgs2Ck0dEt2jODbWyMOiPMBNz6Cma_EH44xuHF6dyXI2IZLkRiTbOI5dd9MmHpnuQMwhfNK2j4FpypNKOS8pwJCzyhJOCi6tAEVeOl0e4fRKS5XqI63gejBQpBX1zND3eI88DPQlyKniOXFegJfqRp9SKdUTP4gfL48sR6TsHLT-R-0f4mIJdEg3jKNBz5IdzfAm-4xnCdCTRS9CLUD2uon_RD7GZB092aD5yojkqf3iQ_9CPtD--o9fQ5Mi1C5rEDHl-vEePXCf-qYKY9niy4zfOw9-hZzzOXSJyxUaTi0SfLHh_9ENVXcOPKx6avSi74_jCI3zhUOHRi4c2Eil7NCce9H0SpOSOpo6htAmir3COLwvx4znCVCXaZTn0FGEMZ0Xn40QoMw6eDPUPnUeYo92H58gPnfeQVsV_VC-a49qRjMwQ78e1o7uJXPh3QXSJJ8NP49kD8Rme8cgZncQptWj-oE8WPP3Rn-i0XPjxyhtq_WieBb-I2D1kcQjzJNtRiuiHxseOk0cjcy6SVWmRPYPVHLfwPMEj_ZikfmhOPJhJNPzB0MepKOkwRUt0hNBzxMqYopSeHE0YHcej5MQvFnlmYxRzaDYHW9ShGz_CS3iVHPGCU8NHQ-_xHGHmZ-gaMxgf5De-o4YP7ROeGH-UQv7RG7Fjo9WRK8eP_oeYx-iDvPMwHlcT5MJ_NCrjoGT2QO1xaCkVoydFjA_eKDu6ZFegPuiZHjkufWiVo1lnfDl-PGH0HM-EqtNxZseXVSN8hFKlHZ_0QGm-4qdwoxR15AlRWvB78NmDmDiL-gz0IvvRHK-Op4-CPIa8Q4t7_Id_iIO-REcXLin-BVeS40ElKSOa484PnRSuHXmZ4X_RFM53lDfaPUjHkEOy57hyYEocTkR31M6DdFFyHdc-6DPq8fiP_tCiB9eOS8FvOM5xhZGhi1nxC-UNVVlUTrCOUD8-4ol4fEmPPmi-mMg3PEqhT2iiLkcjXTgPfUZ9-D-6K4Ke4M7xINeHw08U3AvyH90VHmJ1OB_Chw4Kv0fZIz_04xOqq8LR4znaKFC1HK6SVfiuQPvx4z-e5EDZZRBJoT9y_MvwNEcjH32DZ8fXD69Rj_COHk9nXEdunElUKNKRH4dn4-B7XNqyJejU40XSW0gPvsf7FPuJkh-cW-jxiEfSJ8eToNbhH2KVhUuKVj1iLqiC5sdz5C5-aC-aH22O4-KVwomHx0S_B32CXBzsBqVwHj-e5gnO5MglQcuLsBsukcEdHnFmI_luNNXRK8Gf4Em045paPDzSSw-S47zw5bhy9DqaXBrGh8QP3Th_NArzBE-2TAoaB1-OPEiWG92LKyP-4IGfGDc-C6qOKvkDvyWazyGeG_fxBvkZI-GZ4KIxPzjM6Xh-xD-S6Md_XIfXwU3ygGHiBz-eEsmSH-ECUhYuKTl-uNiP73iQfPmC-MnxJMYjJcdl5IuN5kLXQx2P_OiP5i3-IJ_CI3lD3HjKC__y4NFx5brwoo-R8EYoaxEeLxVOCnPFCVMYBX1xZV7wLkT4IVmShh-aUKSCOnsxf3hqIneMJDv2H6fWFN-QJo1w6KmFpnwQngifENcHjTnyHv-F_GiScTmqB-9xNUUtGlOuQ5fSIT-eRD0eRSJ-fIcnH0_SHM-h94OT4zqenXiPxuJQUTqQU9DldLiaH7oS5L3RHNUmFc_xHOHRMEp2Qw_Cn_iPazn-FP6RpuKh2ccZhEG14w_yHzp_hKm-oRduGU1Qf8grJF0eo-yOG-GTB2c0aMnHoEyUD6dM3Hwh6jgnI96kTTiDvmie5YhpQ1MyHaGXCz9O1LrQJj1OTRvC50Oy4DkeRmFwhcdz-Ao-IufxuQq05oaiNdGRr5iSo11WHM-D8BQaRuGhS0d4dhacFVZz_MgvvFoOrcF3hBea4zzyQ18_NNMRfsfRIPTxQl2OkF2PH-GT4412aDmJMlFw3njGQsuPkprxiJuMa4mObj6ahzN-6qicB6GY5MEuLXh-AOWkKFMQI8BQIizgFBDAYWCBEEwIIRwCwgkjBBAIMC2EkIIAoxBAiAAmkELEQGYEYwARBCQwjBMECWEACgIII4hRCAEhBBEgiCUCAkiAUkwRggAgXAjHCAJCAAkVAE4JQhQRhlkAiQQEMAkIEgQR4aBUDgCDHOKUCGCEMERpI4ixjgCggGBGEkcoEFYAhpgBxiBDFBJAgA0AEgAQohhUQiABACLMIKCEAIwgAgQAyDABCBLAEAaYEQIA4wQQjCGCCBEAGMKQAIQIIIUSRjAADCFEAAEAQEoIBQwzRgkAhDIAIcAQQgQIAIxgzABnCRGMGGmUEAIQCowBwAACCBGKAAGNUUw4JgiSQEFGCGFCEE2AoUg6AwgDBCEkBADEEMkIAQAQYAQgREhiBZLCHECdQQQwAIQRhgSmAENmGSQMIUwRAAgwzkFEHCBIICAAIYoJQYAAAAkgiBCIGAGAAYwBICQDRRBABDACAEqZMMAgRwCCTAggiCHeCCIEQk4qY4QwmAIJABEUGUSIEAhoYAgBAgrjBiHEUAEkAcgRKIAAlBCIrDBCAGQVAYAIARBjhBACpELMACsEIMwYSoEBiAEliGBCKASQIYAAQJQDxhAiCRIIEEKYIcAQSyAhQDhmgDMIIGAEYEAQQUQAQghAGBDAOQcJYwKRAQkDBFCAgENEGAWAEQowQAQDgiDBBBHgOCEAI4QQQgxQwDBBiFMAKGCQM4YxgSCkgDhBhDGASGAAFooBYAglVBCBGAAEFGEMQQIAwBAEQBGCACQGEEiCVFIIIJQgwAjFkHACCCEEQIQ4hIxghgkCCDMCEAaKIEAgAxlyRhkBACIIEAIEAMAgAgRVCEhGKDMAEAuEIgSwQDiCAAqBAEAEUCSNIEhI4ZAzDBgCmEJAAEcAAkADAwABwjDLEBUOECCoAAwhAoBRzhBAAAKEUSWYkEAJAwgglBAJgBGWmCOIQIARIhghTgkCgBKWIQYQBIApCQBwwEiDJBEGCUghYUQIoABBRDGBDDACECEMEgwA&meta=recordings%20releasegroups%20compress
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      Accept:
+      - "*/*"
+      User-Agent:
+      - rest-client/2.1.0 (darwin20.3.0 x86_64) ruby/2.7.1p83
+      Accept-Encoding:
+      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+      Host:
+      - api.acoustid.org
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Date:
+      - Tue, 29 Jun 2021 13:42:28 GMT
+      Content-Type:
+      - application/json; charset=UTF-8
+      Transfer-Encoding:
+      - chunked
+      Connection:
+      - keep-alive
+      Vary:
+      - Accept-Encoding
+      Access-Control-Allow-Origin:
+      - "*"
+      X-Envoy-Upstream-Service-Time:
+      - '176'
+      X-Envoy-Decorator-Operation:
+      - acoustid-server-api.acoustid.svc.cluster.local:3031/*
+      Strict-Transport-Security:
+      - max-age=15724800; includeSubDomains
+    body:
+      encoding: ASCII-8BIT
+      string: '{"results": [{"id": "99159022-b6c1-4410-b45c-dc3bf6b12ede", "recordings":
+        [{"artists": [{"id": "8dd98bdc-80ec-4e93-8509-2f46bafc09a7", "joinphrase":
+        " feat. ", "name": "Calvin Harris"}, {"id": "33ca19f4-18c8-4411-98df-ac23890ce9f5",
+        "name": "Ellie Goulding"}], "duration": 235, "id": "2a45628d-9b79-4688-996b-bd630cde7d77",
+        "releasegroups": [{"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "eb2d98d5-385b-4af6-ae3b-d844b2d59fa8",
+        "secondarytypes": ["Compilation"], "title": "NOW That\u2019s What I Call Party
+        Anthems", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "1874d476-7992-4f68-b459-53b5100d96d4",
+        "secondarytypes": ["Compilation"], "title": "Ultimate Party Anthems", "type":
+        "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name":
+        "Various Artists"}], "id": "b24aec12-9a04-4772-b935-439e333e71d7", "secondarytypes":
+        ["Compilation"], "title": "More Summer 2013", "type": "Album"}, {"artists":
+        [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}],
+        "id": "422ac4b4-1027-46fe-9a60-d529ac6d1e58", "secondarytypes": ["Compilation"],
+        "title": "NRJ Party Hits 2013", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "8c39c784-8a6b-4517-8f12-790d961722c2",
+        "secondarytypes": ["Compilation"], "title": "The Dome, Volume 66", "type":
+        "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name":
+        "Various Artists"}], "id": "f4954961-01db-4741-bf4a-6d8689cafa90", "secondarytypes":
+        ["Compilation"], "title": "So Fresh: The Hits of Winter 2013", "type": "Album"},
+        {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various
+        Artists"}], "id": "9d9db95e-9363-443f-91c0-54ea17ae9b2d", "secondarytypes":
+        ["Compilation"], "title": "Bravo Hits 82", "type": "Album"}, {"artists": [{"id":
+        "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}], "id":
+        "d53c9ab9-a5f5-4fef-85e6-019aa6879e8e", "secondarytypes": ["Compilation"],
+        "title": "Ultimate Feel Good", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "e00ffab0-0f61-4b87-8789-771c1a121576",
+        "secondarytypes": ["Compilation"], "title": "Electric Love", "type": "Album"},
+        {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various
+        Artists"}], "id": "2117a947-593c-4e05-8dad-2014c3d802e9", "secondarytypes":
+        ["Compilation"], "title": "Now That\u2019s What I Call Music! 85", "type":
+        "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name":
+        "Various Artists"}], "id": "315cec62-3585-475e-ab80-ad0594c5b06a", "secondarytypes":
+        ["Compilation"], "title": "NRJ Hits 2013, Volume 2", "type": "Album"}, {"artists":
+        [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}],
+        "id": "cfa3d1fb-90c8-43ef-bf42-577f01dd6284", "secondarytypes": ["Compilation"],
+        "title": "Hits Total 2013", "type": "Album"}, {"artists": [{"id": "33ca19f4-18c8-4411-98df-ac23890ce9f5",
+        "name": "Ellie Goulding"}], "id": "d1306db5-8c22-410e-b810-66f9b5e20d2a",
+        "title": "Halcyon", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "7a417698-7a80-4f21-a652-51a504756cd7",
+        "secondarytypes": ["Compilation"], "title": "Now That\u2019s What I Call Music!
+        47", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "ec1bfff8-cdf5-4e19-965b-8cccda6eb28e",
+        "secondarytypes": ["Compilation"], "title": "RTL Sommerhits 2013", "type":
+        "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name":
+        "Various Artists"}], "id": "73279007-0607-45ce-9632-b5a72282196d", "secondarytypes":
+        ["Compilation"], "title": "Booom-Summer 2013", "type": "Album"}, {"artists":
+        [{"id": "8dd98bdc-80ec-4e93-8509-2f46bafc09a7", "name": "Calvin Harris"}],
+        "id": "98432828-5764-4892-9e3f-9c674cf70acb", "title": "18 Months", "type":
+        "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name":
+        "Various Artists"}], "id": "817ea6e3-6d95-4524-8c1c-1f1561f02a62", "secondarytypes":
+        ["Compilation"], "title": "So Fresh: The Hits of Summer 2014 + The Best of
+        2013", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "8b763508-c228-4fbe-b4d4-6c07fabe8140",
+        "secondarytypes": ["Compilation"], "title": "Pure\u2026 Pop Anthems", "type":
+        "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name":
+        "Various Artists"}], "id": "3ffe6216-518c-4d9e-b6f9-67b66ff09b46", "secondarytypes":
+        ["Compilation"], "title": "Now That\u2019s What I Call Feel Good", "type":
+        "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name":
+        "Various Artists"}], "id": "8a14cd05-83fd-46b7-9c5b-9005daf48077", "secondarytypes":
+        ["Compilation"], "title": "Bravo: The Hits 2013", "type": "Album"}, {"artists":
+        [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}],
+        "id": "c0a89deb-1911-4a81-b380-d30374b2bd69", "secondarytypes": ["Compilation"],
+        "title": "Pop Party 12", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "dabb203f-13fa-47a2-958a-57765cc407c3",
+        "secondarytypes": ["Soundtrack"], "title": "Berlin Tag & Nacht 5", "type":
+        "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name":
+        "Various Artists"}], "id": "aca936cc-474d-4d51-acb4-83e071907ead", "secondarytypes":
+        ["Compilation"], "title": "NRJ 200% Hits 2013, Volume 2", "type": "Album"}],
+        "title": "I Need Your Love"}, {"id": "2a45c93d-a3f7-43aa-80bf-5e4aa661ab5d"},
+        {"id": "477f2c9a-bde2-4b23-941f-874827d037e5"}, {"id": "83d696e2-a6cc-4271-a43c-9f0e066f34d8"},
+        {"id": "8835821c-6fe3-4def-83f1-730f65c68f06"}, {"artists": [{"id": "8dd98bdc-80ec-4e93-8509-2f46bafc09a7",
+        "joinphrase": " feat. ", "name": "Calvin Harris"}, {"id": "33ca19f4-18c8-4411-98df-ac23890ce9f5",
+        "name": "Ellie Goulding"}], "duration": 236, "id": "96bd1602-6b3a-4f1b-9f35-d8b84a4af601",
+        "releasegroups": [{"artists": [{"id": "8dd98bdc-80ec-4e93-8509-2f46bafc09a7",
+        "joinphrase": " feat. ", "name": "Calvin Harris"}, {"id": "33ca19f4-18c8-4411-98df-ac23890ce9f5",
+        "name": "Ellie Goulding"}], "id": "d097bfe6-e657-452d-ade7-d3d5e337b2a3",
+        "title": "I Need Your Love", "type": "Single"}, {"artists": [{"id": "33ca19f4-18c8-4411-98df-ac23890ce9f5",
+        "name": "Ellie Goulding"}], "id": "d1306db5-8c22-410e-b810-66f9b5e20d2a",
+        "title": "Halcyon", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "559100c5-965a-46d9-8fbd-3a79ac539af8",
+        "secondarytypes": ["Compilation"], "title": "M6 Hits: \u00c9t\u00e9 2013",
+        "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "98821255-2e4a-47dc-9edb-0598742d93ed",
+        "secondarytypes": ["Compilation"], "title": "FG Tendances Electro 2014", "type":
+        "Album"}], "title": "I Need Your Love (album version)"}, {"id": "c747d3f4-ab9c-41e0-9f7f-ca227dd3d48c"}],
+        "score": 0.964728}, {"id": "a023d446-2810-40c6-963d-0969e1bd6915", "recordings":
+        [{"artists": [{"id": "8dd98bdc-80ec-4e93-8509-2f46bafc09a7", "joinphrase":
+        " feat. ", "name": "Calvin Harris"}, {"id": "33ca19f4-18c8-4411-98df-ac23890ce9f5",
+        "name": "Ellie Goulding"}], "duration": 235, "id": "2a45628d-9b79-4688-996b-bd630cde7d77",
+        "releasegroups": [{"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "eb2d98d5-385b-4af6-ae3b-d844b2d59fa8",
+        "secondarytypes": ["Compilation"], "title": "NOW That\u2019s What I Call Party
+        Anthems", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "1874d476-7992-4f68-b459-53b5100d96d4",
+        "secondarytypes": ["Compilation"], "title": "Ultimate Party Anthems", "type":
+        "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name":
+        "Various Artists"}], "id": "b24aec12-9a04-4772-b935-439e333e71d7", "secondarytypes":
+        ["Compilation"], "title": "More Summer 2013", "type": "Album"}, {"artists":
+        [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}],
+        "id": "422ac4b4-1027-46fe-9a60-d529ac6d1e58", "secondarytypes": ["Compilation"],
+        "title": "NRJ Party Hits 2013", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "8c39c784-8a6b-4517-8f12-790d961722c2",
+        "secondarytypes": ["Compilation"], "title": "The Dome, Volume 66", "type":
+        "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name":
+        "Various Artists"}], "id": "f4954961-01db-4741-bf4a-6d8689cafa90", "secondarytypes":
+        ["Compilation"], "title": "So Fresh: The Hits of Winter 2013", "type": "Album"},
+        {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various
+        Artists"}], "id": "9d9db95e-9363-443f-91c0-54ea17ae9b2d", "secondarytypes":
+        ["Compilation"], "title": "Bravo Hits 82", "type": "Album"}, {"artists": [{"id":
+        "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}], "id":
+        "d53c9ab9-a5f5-4fef-85e6-019aa6879e8e", "secondarytypes": ["Compilation"],
+        "title": "Ultimate Feel Good", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "e00ffab0-0f61-4b87-8789-771c1a121576",
+        "secondarytypes": ["Compilation"], "title": "Electric Love", "type": "Album"},
+        {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various
+        Artists"}], "id": "2117a947-593c-4e05-8dad-2014c3d802e9", "secondarytypes":
+        ["Compilation"], "title": "Now That\u2019s What I Call Music! 85", "type":
+        "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name":
+        "Various Artists"}], "id": "315cec62-3585-475e-ab80-ad0594c5b06a", "secondarytypes":
+        ["Compilation"], "title": "NRJ Hits 2013, Volume 2", "type": "Album"}, {"artists":
+        [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}],
+        "id": "cfa3d1fb-90c8-43ef-bf42-577f01dd6284", "secondarytypes": ["Compilation"],
+        "title": "Hits Total 2013", "type": "Album"}, {"artists": [{"id": "33ca19f4-18c8-4411-98df-ac23890ce9f5",
+        "name": "Ellie Goulding"}], "id": "d1306db5-8c22-410e-b810-66f9b5e20d2a",
+        "title": "Halcyon", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "7a417698-7a80-4f21-a652-51a504756cd7",
+        "secondarytypes": ["Compilation"], "title": "Now That\u2019s What I Call Music!
+        47", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "ec1bfff8-cdf5-4e19-965b-8cccda6eb28e",
+        "secondarytypes": ["Compilation"], "title": "RTL Sommerhits 2013", "type":
+        "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name":
+        "Various Artists"}], "id": "73279007-0607-45ce-9632-b5a72282196d", "secondarytypes":
+        ["Compilation"], "title": "Booom-Summer 2013", "type": "Album"}, {"artists":
+        [{"id": "8dd98bdc-80ec-4e93-8509-2f46bafc09a7", "name": "Calvin Harris"}],
+        "id": "98432828-5764-4892-9e3f-9c674cf70acb", "title": "18 Months", "type":
+        "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name":
+        "Various Artists"}], "id": "817ea6e3-6d95-4524-8c1c-1f1561f02a62", "secondarytypes":
+        ["Compilation"], "title": "So Fresh: The Hits of Summer 2014 + The Best of
+        2013", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "8b763508-c228-4fbe-b4d4-6c07fabe8140",
+        "secondarytypes": ["Compilation"], "title": "Pure\u2026 Pop Anthems", "type":
+        "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name":
+        "Various Artists"}], "id": "3ffe6216-518c-4d9e-b6f9-67b66ff09b46", "secondarytypes":
+        ["Compilation"], "title": "Now That\u2019s What I Call Feel Good", "type":
+        "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name":
+        "Various Artists"}], "id": "8a14cd05-83fd-46b7-9c5b-9005daf48077", "secondarytypes":
+        ["Compilation"], "title": "Bravo: The Hits 2013", "type": "Album"}, {"artists":
+        [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}],
+        "id": "c0a89deb-1911-4a81-b380-d30374b2bd69", "secondarytypes": ["Compilation"],
+        "title": "Pop Party 12", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "dabb203f-13fa-47a2-958a-57765cc407c3",
+        "secondarytypes": ["Soundtrack"], "title": "Berlin Tag & Nacht 5", "type":
+        "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name":
+        "Various Artists"}], "id": "aca936cc-474d-4d51-acb4-83e071907ead", "secondarytypes":
+        ["Compilation"], "title": "NRJ 200% Hits 2013, Volume 2", "type": "Album"}],
+        "title": "I Need Your Love"}, {"id": "2a45c93d-a3f7-43aa-80bf-5e4aa661ab5d"},
+        {"artists": [{"id": "66c662b6-6e2f-4930-8610-912e24c63ed1", "name": "AC/DC"}],
+        "duration": 158, "id": "2f2e8246-1fe5-4e57-8ff3-8e082daa1847", "releasegroups":
+        [{"artists": [{"id": "66c662b6-6e2f-4930-8610-912e24c63ed1", "name": "AC/DC"}],
+        "id": "42a35290-3375-4a69-9a88-44bc1af55f9d", "secondarytypes": ["Compilation"],
+        "title": "Greatest Songs", "type": "Album"}, {"artists": [{"id": "66c662b6-6e2f-4930-8610-912e24c63ed1",
+        "name": "AC/DC"}], "id": "ff9403ec-064e-36d7-9449-7b585e5a1efc", "secondarytypes":
+        ["Compilation"], "title": "AC/DC Gold 2000", "type": "Album"}, {"artists":
+        [{"id": "66c662b6-6e2f-4930-8610-912e24c63ed1", "name": "AC/DC"}], "id": "86c89f20-5e26-4346-8d3c-544e544f2c36",
+        "secondarytypes": ["Compilation"], "title": "Boom Box", "type": "Album"},
+        {"artists": [{"id": "66c662b6-6e2f-4930-8610-912e24c63ed1", "name": "AC/DC"}],
+        "id": "9e83e095-95f4-317b-bc86-394036e41cb8", "secondarytypes": ["Compilation"],
+        "title": "Platinum Hits", "type": "Album"}, {"artists": [{"id": "66c662b6-6e2f-4930-8610-912e24c63ed1",
+        "name": "AC/DC"}], "id": "f30734f4-333c-344c-98e9-71174cc5ebde", "title":
+        "Dirty Deeds Done Dirt Cheap", "type": "Album"}, {"artists": [{"id": "66c662b6-6e2f-4930-8610-912e24c63ed1",
+        "name": "AC/DC"}], "id": "8cdad147-265f-455e-8f9d-f803f29a74ef", "secondarytypes":
+        ["Compilation"], "title": "Greatest Hell\u2019s Hits", "type": "Album"}, {"artists":
+        [{"id": "66c662b6-6e2f-4930-8610-912e24c63ed1", "name": "AC/DC"}], "id": "21075907-5013-4d86-b116-379a800772c4",
+        "secondarytypes": ["Compilation"], "title": "3 Record Set", "type": "Album"},
+        {"artists": [{"id": "66c662b6-6e2f-4930-8610-912e24c63ed1", "name": "AC/DC"}],
+        "id": "4cb17d8a-73e8-4f44-a532-66420bd9334b", "secondarytypes": ["Compilation"],
+        "title": "Greatest Hits - 30 Anniversary Edition", "type": "Other"}, {"artists":
+        [{"id": "66c662b6-6e2f-4930-8610-912e24c63ed1", "name": "AC/DC"}], "id": "990b91eb-5d71-333e-afe1-7430afba8052",
+        "secondarytypes": ["Compilation"], "title": "The Best", "type": "Album"},
+        {"artists": [{"id": "66c662b6-6e2f-4930-8610-912e24c63ed1", "name": "AC/DC"}],
+        "id": "590931dd-8aaf-4cf8-8619-96eea0dfc9f2", "secondarytypes": ["Compilation"],
+        "title": "2007 Gold Edition", "type": "Album"}, {"artists": [{"id": "66c662b6-6e2f-4930-8610-912e24c63ed1",
+        "name": "AC/DC"}], "id": "580c0703-9b1d-44ac-9f95-92c4c830cde3", "secondarytypes":
+        ["Compilation"], "title": "The Best 2000", "type": "Album"}, {"artists": [{"id":
+        "66c662b6-6e2f-4930-8610-912e24c63ed1", "name": "AC/DC"}], "id": "e13a1634-fd73-4338-a914-4c2ca2e2b97b",
+        "secondarytypes": ["Compilation"], "title": "Box Set", "type": "Album"}, {"artists":
+        [{"id": "66c662b6-6e2f-4930-8610-912e24c63ed1", "name": "AC/DC"}], "id": "9219604d-8bc7-3de1-974f-d996d3747e5a",
+        "secondarytypes": ["Compilation"], "title": "The Very Best", "type": "Album"},
+        {"artists": [{"id": "66c662b6-6e2f-4930-8610-912e24c63ed1", "name": "AC/DC"}],
+        "id": "01317d3b-4ac8-3526-a9c0-a17ae4a0a9ec", "secondarytypes": ["Compilation"],
+        "title": "Warning! High Voltage (Greatest Hits!)", "type": "Album"}, {"artists":
+        [{"id": "66c662b6-6e2f-4930-8610-912e24c63ed1", "name": "AC/DC"}], "id": "c34d5885-b754-417b-b3fa-217a0197b9a3",
+        "secondarytypes": ["Compilation"], "title": "Greatest Hits", "type": "Album"},
+        {"artists": [{"id": "66c662b6-6e2f-4930-8610-912e24c63ed1", "name": "AC/DC"}],
+        "id": "445520a9-5087-3a85-a293-13840c565143", "secondarytypes": ["Compilation"],
+        "title": "The Best of AC/DC", "type": "Album"}, {"artists": [{"id": "66c662b6-6e2f-4930-8610-912e24c63ed1",
+        "name": "AC/DC"}], "id": "c75445a4-a391-48b2-89a8-b6c36b07e8e6", "secondarytypes":
+        ["Compilation"], "title": "There''s Gonna Be Some Rockin''", "type": "Album"},
+        {"artists": [{"id": "66c662b6-6e2f-4930-8610-912e24c63ed1", "name": "AC/DC"}],
+        "id": "ba99be03-e29f-4550-83dc-ab68ff6597c2", "title": "The Definitive Collection,
+        Volume I: The Best of Bon"}, {"artists": [{"id": "66c662b6-6e2f-4930-8610-912e24c63ed1",
+        "name": "AC/DC"}], "id": "cfb028c0-4046-49bf-9b86-7018f3322c45", "secondarytypes":
+        ["Compilation"], "title": "The Complete Collection", "type": "Album"}, {"artists":
+        [{"id": "66c662b6-6e2f-4930-8610-912e24c63ed1", "name": "AC/DC"}], "id": "53e1e3b0-8908-3fe2-a1e8-09ae25ba414b",
+        "secondarytypes": ["Compilation"], "title": "2000 Collection", "type": "Album"},
+        {"artists": [{"id": "66c662b6-6e2f-4930-8610-912e24c63ed1", "name": "AC/DC"}],
+        "id": "d0947cf2-5cf5-3b37-9b85-38704c6e7b06", "secondarytypes": ["Compilation"],
+        "title": "AC/DC in the 20th Century", "type": "Album"}, {"artists": [{"id":
+        "66c662b6-6e2f-4930-8610-912e24c63ed1", "name": "AC/DC"}], "id": "4beba2be-3137-4c54-87ee-eadbf793fad9",
+        "secondarytypes": ["Compilation"], "title": "Giganten des Rock", "type": "Album"},
+        {"id": "0275d14a-9da2-4129-b02e-1a54a58759a2", "secondarytypes": ["Compilation"],
+        "title": "The Collection", "type": "Album"}], "title": "Big Balls"}, {"id":
+        "477f2c9a-bde2-4b23-941f-874827d037e5"}, {"id": "6ed2d436-4d1b-4a41-9db8-f94a7f39a89d"},
+        {"id": "83d696e2-a6cc-4271-a43c-9f0e066f34d8"}, {"artists": [{"id": "8dd98bdc-80ec-4e93-8509-2f46bafc09a7",
+        "joinphrase": " feat. ", "name": "Calvin Harris"}, {"id": "33ca19f4-18c8-4411-98df-ac23890ce9f5",
+        "name": "Ellie Goulding"}], "duration": 236, "id": "96bd1602-6b3a-4f1b-9f35-d8b84a4af601",
+        "releasegroups": [{"artists": [{"id": "8dd98bdc-80ec-4e93-8509-2f46bafc09a7",
+        "joinphrase": " feat. ", "name": "Calvin Harris"}, {"id": "33ca19f4-18c8-4411-98df-ac23890ce9f5",
+        "name": "Ellie Goulding"}], "id": "d097bfe6-e657-452d-ade7-d3d5e337b2a3",
+        "title": "I Need Your Love", "type": "Single"}, {"artists": [{"id": "33ca19f4-18c8-4411-98df-ac23890ce9f5",
+        "name": "Ellie Goulding"}], "id": "d1306db5-8c22-410e-b810-66f9b5e20d2a",
+        "title": "Halcyon", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "559100c5-965a-46d9-8fbd-3a79ac539af8",
+        "secondarytypes": ["Compilation"], "title": "M6 Hits: \u00c9t\u00e9 2013",
+        "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "98821255-2e4a-47dc-9edb-0598742d93ed",
+        "secondarytypes": ["Compilation"], "title": "FG Tendances Electro 2014", "type":
+        "Album"}], "title": "I Need Your Love (album version)"}, {"id": "c747d3f4-ab9c-41e0-9f7f-ca227dd3d48c"},
+        {"id": "f380d4f7-8d7d-49e0-9349-69f622a9bd6b"}], "score": 0.964597}], "status":
+        "ok"}'
+    http_version:
+  recorded_at: Tue, 29 Jun 2021 13:42:28 GMT
+recorded_with: VCR 3.0.3

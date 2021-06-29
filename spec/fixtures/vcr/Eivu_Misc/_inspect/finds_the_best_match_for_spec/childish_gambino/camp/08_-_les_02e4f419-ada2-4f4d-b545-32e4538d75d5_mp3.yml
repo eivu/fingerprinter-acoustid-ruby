@@ -1,0 +1,51 @@
+---
+http_interactions:
+- request:
+    method: get
+    uri: https://api.acoustid.org/v2/lookup?client=<ACOUSTID_CLIENT_ID>&duration=318&fingerprint=AQADtMkkRUkSJdKExsmCX7BuXEejB9oH7UejBzfE44f2olEZdM2hxWGgPUOj53gGqwyUZ9BWNMd3WGyOox_CiGGQN4fj4g6ao2sWaFF59Asg6sEHUc_xQdvRHBesB1fQHY0TJUdXNHEk3Ef6BPmO5of25dDixugO7UOjBxe06EPPQFuD5sUDUQ-eQYtK9FlwiPqxwzp-dA-aJ7jh40ejB32Grjy0PAu082j04LAe6IP2Ho0e3PBzXEOj5-iJrhkU5Qz0wHrwHRYbfEc_hNFz5IYfXEPRqIW25mhePNCio88CLSqPPlmgH9ZxNHrQK-gRRj9yw3nwb2iOPkqM_tDyLEcfaNFjHKIefNA-NHpwQdRxaNHRM-gjaFEL5YH1yLh2WA8-_PCF69COcw-048T2LJChU0fzI3x4hInRJwv6dQiTG38Q6ongfEKqo2oOcyFyZBeaH70ShDm0SouhHlRSPIsh4lFyaEeY88ghJt7xNhGao2cc4TnCPEf4RERjRXjR3MPjCZq2o3l04T9EN_iSQsuPfoEOHz_8Qx0J8Sy-Q3vQHH3QcMzxH03aBd1jaJGHvsFVWI8K5TwaMRm0M4aeCJue4zu0C82zHA1XaEevQcsDHT1SjkGqRqjMHM8R5kFVKQh1NF-G6kcYPeB1pJl8PAh_NM-C8IQWLjTeQIuO6ovB5OgZXBHSLziPMDEPTWmWoz-0PNAfoblY9ETjaNCeQ8uNiuIhN4XD6QJsQ98DzU4aNIwy6Az84FmCHlo4os-CME-Om0ejo6RE-FHGGF_Qp0HzI3mPOHoMb8Ie4jwaHulbOM6HTrpwCeGVo8mN5jlqHalCfErG4bogrkdeVXjQONlRC81ROUdaffjRWEqM_hmuEaIaQs_RZ0eYF406tMtCIfCz4KIO7TmHMOdR_mgs4j284i6ilhtU50MzBv2DhkePnkeThyNkJmguoc8C3WjO4wkR5h6mNYE_deiDvDxe4x_0p_B5PAp-vMdzQ82U4EyRVjrOoOE_9DqaC-UUBbl8aM9xHdon4mQD0VLwORZO-CGOVgkdND-0KRNy9Aty4keaD8cDhz5OND8qRzoategRykHjFLo-uAqBXi8aZsQhnriO_jCPKR1D6BOuF7GTC83xOIetTDNc_6jWH00u3eh2I7x2IVli5ng8-DJxHXwy-MSjtMhyQYuDc3D-Eu-xqT-eQ3Tx5rh5mFHwMR56Hn6gpccVGz0arsUz9MMVaNcQryd6BmFOB2eP9MONPA_sFO_QHNeg5SFOuCquRcHhE492IxknvWi-o-HCIzyRE14XXAg_aPkJfTCPw2NY5D767PBmNHIUXMqR58M6Hc176GlhKUfXoG9hKksOHxfx6zj8UIWPvOmQF35RfcSJyx3-4enR5URzJYe2HI2loz8arsenSCci_Wh-xIePK1GQXsS1IMzz4jeafMbPFH9gi9AvaJ4-NLKE5g80LT8eiFX44GiHplsU5Id7_Dl8fGgULkd9PMvhKlJxHY8yCs2qDwkdIiR3NHwZhDdysvDII8-gj0e6NQjPE1rCLceFH9uD_IF_5IOkHpd5fITjLDiP6RGaCvomtJGEZzGx3eiTge7xoxcJLRX6EFrivNDWo2GOJztqQctzQmmZo8n2EH4OzcaTSDN6NM9w5EqOKku-ItR1_IN_4go1aEklIdwu3Dr8ZPiP-mgcHs1ZIWyEH2nc40eYo_ZxSYOl6MeL5iHao48uND2eofkHbS0a66huoZU-ND9-Q5OLo6YyvNiPFn7WCaKKWtlU9IToMMYXHdbRLlFQfXjgH-Ke49Xg59D0GfqCq4SeDz8O8ce1gXK-4lOISryQJV8eIV8W6EdT5bCNycpXIZS1onlyPFKLfsiXHOGNz0uDUE7QVHWO0hWaH-_hZ4f8FD-0kIdOHH4OMT3uwd-NsMelw3GIX0fV8Ggepiv6o3mQU4eWIzyPsDyaD18I5zi0I4yeouFyhM90nNORI_3RnEEfNEef4UKjDtWVHOlzPDny6DCj7Dhz1FpObE6K5oEe8Xi2Q0uyT6ic495yRMrh6-gnVFqS-XByIz20k8izLnjWBn8m9ELzAc-y40siRD_UE43aQ2506IGfIb2CfUcaM0dI8niOShf8HMWPS8GtSggfJmh-Cv4tvGgYpdDe4YX48MEJZyT0hUUf_tDyENchPsN5aHmGWszRKokOLWeOf1D4w4LaKYfPY18O8cMhssPn4ZEFsXh2QeuO5gm0j0KT50MfIsyZG3sU-ImDPzAfHw_OOPBznIZ4BifeyHC-4IGP4z16pH_xFFqeHe1gfbgOHeKzHCfhSzn2wPoRPkfPw8-i4UZ__DjCJzqa93AVHse3Q3wkQHx4vGji6dC6fDgP0Rr09OgThOGE8DWaH73RcDygHs0xDWIOXUPD55ieQnvQOMKzXGjooZ7QXEetHM0PTW2LXsmh5VCPSGis4zl8Hs_QHP1iJMsRfiKeqfCNr0LzMAivBVorIs1n-AzC63iztGg_-NOhPa1Q41Ei_MceHq6PPtOhrUdOuMrxP3h29MH74v4QXsIZhGuND2HIF7WKUH7RHHkO99AN7frRoEfzG0eYH28ohDn0q_iH5kcfY8p1hF-Qwx-qz2iSNhaeAYaMUoQoQoRyCCBBBDPKEeEUQAAJQhwRTilFHAEAGAaQIIIQoogAjDDBDEDGIWGEcooIAgQhjiggiEBAESEAIo44oggASCHAiCAAAeMIAQYAAwASQgEBiCNOEWUcEcIQJYgT0ijEDVAMCIKIAEAgZyhgUBokCHKMCSeAAgAJphAQTAEFhAHCIUCgoEIZ5BBTAgBgCHDEEGEIcAIDoABSWjCAqFCACAOYUEAABpBwghEAAFHKECKQMkQRBJQSwACCgEMGAAAMEQwIBYhCQCmAjDIMUAAIQUI4IggAgAEiAARGACAQwEQQIBAgSgGhiBIMCECYBYQQwQQBAEAigADMOCAYQIhJooAAkAEHlHCICKMEsggIg5BwBgAgBAAKAMAII4I544BgQBimBADCCACMA0wqRZAQRChlhJBACQ6EIUAIISBRgAh4kEBCKaIAQIAYrYAgFAAlFGAECkOEYF4oAARRQCAEEFEGOEGEoAAZABAACogkKDBMcAGVAMIQAYAgUgghGIEIEICIIUoIZoRhQChkgADYKQCQQAAiAZhhxABIgEAKIGAAUERYoigTUCnAgBQCO2CQNMAQJYgxQBhDHBVOCIcYAFAACURwxAgBAEGGAMCEEMYJoBxAwAjiDBACCCKAY0IAQIAQikhMlCHGQFEIAAIogYAAggFgiEISKIYAEsAJpBQQxAhBhFSECOAZIAAqYyAgiDDBDAHEYCMAYMIwgYBQCAABkBIMAAQAMIwAAQACAiTJCAIMAASEMQAAwBgwDBjGvOKGQQEoEMYRCAQDwhggjHAACOkIEAI4hYwAgAgBGDNACGGJYhgZAIhiwBgDBGEQGEoAYYoQQp1DwAAAhAJAGAOAEUIoJAhAhkFIEDDCMYMEU0ACBAhAigimBJAGMEUEkUIw&meta=recordings%20releasegroups%20compress
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      Accept:
+      - "*/*"
+      User-Agent:
+      - rest-client/2.1.0 (darwin20.3.0 x86_64) ruby/2.7.1p83
+      Accept-Encoding:
+      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+      Host:
+      - api.acoustid.org
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Date:
+      - Tue, 29 Jun 2021 13:42:44 GMT
+      Content-Type:
+      - application/json; charset=UTF-8
+      Transfer-Encoding:
+      - chunked
+      Connection:
+      - keep-alive
+      Vary:
+      - Accept-Encoding
+      Access-Control-Allow-Origin:
+      - "*"
+      X-Envoy-Upstream-Service-Time:
+      - '140'
+      X-Envoy-Decorator-Operation:
+      - acoustid-server-api.acoustid.svc.cluster.local:3031/*
+      Strict-Transport-Security:
+      - max-age=15724800; includeSubDomains
+    body:
+      encoding: ASCII-8BIT
+      string: '{"results": [{"id": "c231aa6a-6371-4c28-9a0c-739fa6c63d10", "recordings":
+        [{"artists": [{"id": "7fb57fba-a6ef-44c2-abab-2fa3bdee607e", "name": "Childish
+        Gambino"}], "duration": 318, "id": "aab4c449-63d6-4509-a3a8-06727091d866",
+        "releasegroups": [{"id": "5253c012-f7d3-440e-919b-5bac6d91ae7e", "title":
+        "Camp", "type": "Album"}], "title": "L.E.S."}, {"id": "f023b83a-dca0-4f24-9492-d5c38e07ceed"}],
+        "score": 0.959324}], "status": "ok"}'
+    http_version:
+  recorded_at: Tue, 29 Jun 2021 13:42:44 GMT
+recorded_with: VCR 3.0.3

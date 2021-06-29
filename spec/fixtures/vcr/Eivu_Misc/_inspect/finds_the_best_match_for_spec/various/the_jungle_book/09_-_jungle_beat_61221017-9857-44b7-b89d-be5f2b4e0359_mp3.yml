@@ -1,0 +1,74 @@
+---
+http_interactions:
+- request:
+    method: get
+    uri: https://api.acoustid.org/v2/lookup?client=<ACOUSTID_CLIENT_ID>&duration=82&fingerprint=AQACg1QiSoqSSAly6EH-4Dse4Rp3dFLhqEd_9HiNHz1OXAqSJQ9uNGfwo0dj5vihL0eYBze8LENeHc274GvxptCTQyMDaGnC4_rx48MftOIOX-iXHHqEVkc6nDHsCj-85MT3DL7Rh7iSocmTo8c1xNsV6KtlhGsPW6jM48ZdIkxEPdDOI3eIaygPf8Z59D_O4Dme42vRI0-RsIrmoPvxB-Fv-BCPcHPwKBSPaw9y6A_CLEuko1uy41Qi4uFxpIOeHc_kpGhaHZoOPTryWfhyoSl9FL_w6nhyvBE0K0FTEVeOZ_NQT8evHE2340Py8Ede_Dl6fSGa_nj6FA-jEQ_6PSgT2cSX_JgM8TrK8Lh-fPmC6kG0axn0B-mPNjreNIcuHkcTTrvQ5xmusJmQF7oQ5smDOhGeKEd-BsnRHN0cXEriJcWvoHwQ5oHyHDkbXEfSo2SSB6t-eKIcyD7-ESHlh7huXEd5IQwXrtCP5gnCTRl1PCLOo3kQdjpuHWeUC38V_LihZckRUglO4QuJ48p84clD9BORLM_xo8yVQMvX4DlynQneDc2oo30TxFKaKtB141kghnqCOLxwUugTNMdlJkEZJRd0HX4IxySercR1_JiOnkTyKD0-CR8R-cLHcoOV9fiO_uijHCd1uHnQfsWPv_CrHveDLx8uHQ35oM-RHHm4CLvWCKeloYf143qGbzn8o0ftEzvynRA7_Ah14znavPB4w8-KHsfxjEfVY1e2wg-uKviHa-hzJF2F_Hzw7LCbFNd-1M7RfA-S50N-PLiyB0-iPLhu9DmSPdyRK4f75Xie48f_CON1NIke5D30XMU5eBCzoxnzJTjeI59wCj6BB82NejnyLKvRhkfy1zjh8-iPU2iSJUfFjUdvoxnfCM-CIOllrKOOqjpY9cFpGQ_z40pA_fgXTB-S_ArCND3aXA3yQ6FupFWGJ8fx5MafGc1H9HnwFH_x4j7eZA_yD0oj50jdDrwAtzKO_UK3a2jO4IkS3Dlu-LjaTMWzprgw_WgeHP_xPjgRHpt-3OhRMrAq9PiEPtEhnjCJHkfzHT3-42iOI9XRRsePvodPvDIciUFf5A6SGH84vKPg-MJ5HMeJo16OdDycH1WOvngMCjd6PDp6OD74gdQATyrwEniLnpD3oj_CdMR1Ylr4wEd9XIlGXFkS5ESCD7WuHM3T4zuO8kfzHCfwHvkZlBbs48IJnzj3wMabHB983LjSw8d3wMxxyvjhQ9aRjzce_HjwJfRhTTp6Bf0D70eZ4L9QP2iuTUH-4zh1XNKhb4-RW-hf-NFx5niiJ8R7BT_y8OiRR1fwUXiColmoB5fyJMRzhDmSPceT48qRKzn6Q8t55MeT6MFFo2cCLQ-eJMc3bcG3FGh2lMlwxUIadkuCqCeu44nCI7lSRJJFKRP8PEefRHjwJG9Qal5wDeHxCKGfDU0ShVWCKzyu4NljlLyIZknyEPmG5F2O7_AeGXkUEnolI86dHc2Pdjn2I9eC5Dnqo0mS6RU-5TiSfNKRD9eDMnyQLPmR4zkq6h78By2FIz-SGpfihUMYsQmHZP3x48uMxjm6SHRx5NB4uDuux9B6rziZCh13aHlSXJkQ5kKP53i9oL-FJ0ivQ9uG5xPy7REqzoc_xOTwHleUuLjOQEcu-EtQK_jRjHnwo0oaBRdxLvi0hArChseUdcCh6wjfF2noaOiOJzlU3QiZM3BTYxdO_ESfEfeRbEcT5Uf4DFdhKjw-eJ2xo19w_ciTC1K0KEm-AAkdYcARQQQiy1nRGKHAAeEgAQYgYJBQgAFihFEcOWQFUJQRaATCAAkoiACIESOcMFAZhAADzAAhkEHAGEYIGAQQgoFAAlDCgUHCKkaEMYAQR5gCUDggACPAAAkMAMIYIgQzgBigECICCAIMM4AaBYiCBgghmlGECEMRcIQAQxiiliBChBEGEeaAlAIxgZVQwCDgDCPUOWCAAMQRyQiSRjgIgCCEAEQQAQYBZRwRxgjqHBDIEGIQEIg5yAAAwAgEFFFOFAKsgEgAgIgRkBhnENBAAMFBME4AohQSRBgAiALCCMCAUxQJYIBgDAADBEAIQEcAEUoKYYyDgAJjqaAAAQGEQwQDSoQAxBgCABAGKWCUQkAACRxVghjCoFIICSgQAQQJ4pQwgBBDASBcKGCCcERQbARRigkAMBFEEQJYcpRSIoAwhBlAEFCuMu2MAUwwK5jBAhBDGCBCIUoIkFoAAIgxBAFKAGKASSIMQMIBZIRFyCkEiTRAIWaIEIIgIRQRCADhEDFCASEZEEQoYgghREBrgJCECIQUAQITZQwyAghFCBIAYIKMIgwRAIAQhBJEmXOAQCaMMYAY5QwBAAjpgHICGkKQcIg4oxBlQBDiDCBAQGmQo5wYBQgxCChiiRESMGKEAEAwQAR3QAICDJPEYGIAAAwahEECAlDEhEAAWUKQQEAA&meta=recordings%20releasegroups%20compress
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      Accept:
+      - "*/*"
+      User-Agent:
+      - rest-client/2.1.0 (darwin20.3.0 x86_64) ruby/2.7.1p83
+      Accept-Encoding:
+      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+      Host:
+      - api.acoustid.org
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Date:
+      - Tue, 29 Jun 2021 13:48:57 GMT
+      Content-Type:
+      - application/json; charset=UTF-8
+      Transfer-Encoding:
+      - chunked
+      Connection:
+      - keep-alive
+      Vary:
+      - Accept-Encoding
+      Access-Control-Allow-Origin:
+      - "*"
+      X-Envoy-Upstream-Service-Time:
+      - '82'
+      Strict-Transport-Security:
+      - max-age=15724800; includeSubDomains
+    body:
+      encoding: ASCII-8BIT
+      string: '{"results": [{"id": "ff05c57f-9019-461d-859a-184434aa8023", "recordings":
+        [{"artists": [{"id": "c47026a1-3300-4cf7-80df-8b9462a884e4", "joinphrase":
+        " & ", "name": "Richard M. Sherman"}, {"id": "d378dedb-444f-48f5-a6e6-3e8e31ef6c14",
+        "name": "Robert B. Sherman"}], "duration": 81, "id": "18dbaba8-27ab-4272-8fca-79c1f98fef32",
+        "releasegroups": [{"id": "094618e5-1dde-3f3e-a2fd-cefec8929675", "secondarytypes":
+        ["Soundtrack"], "title": "Das Dschungelbuch", "type": "Album"}], "title":
+        "Dschungelbeat"}, {"artists": [{"id": "4204e06b-d2e4-4823-b6f3-47f7593518cb",
+        "name": "George Bruns"}], "duration": 81, "id": "86557993-d6fb-487a-8304-b4e7d474bb52",
+        "releasegroups": [{"artists": [{"id": "4204e06b-d2e4-4823-b6f3-47f7593518cb",
+        "joinphrase": ", ", "name": "George Bruns"}, {"id": "0a8df504-df94-4d77-a3c5-2b9e5c9727e2",
+        "joinphrase": ", ", "name": "Terry Gilkyson"}, {"id": "c47026a1-3300-4cf7-80df-8b9462a884e4",
+        "joinphrase": " & ", "name": "Richard M. Sherman"}, {"id": "d378dedb-444f-48f5-a6e6-3e8e31ef6c14",
+        "name": "Robert B. Sherman"}], "id": "44243185-02f8-4901-bfd2-1551bf42823d",
+        "secondarytypes": ["Soundtrack"], "title": "Le Livre de la jungle", "type":
+        "Album"}], "title": "Le Rythme de la jungle (instrumental)"}, {"artists":
+        [{"id": "4204e06b-d2e4-4823-b6f3-47f7593518cb", "name": "George Bruns"}],
+        "duration": 82, "id": "91f7a1c2-6481-4857-8c1d-58b05c2e7e01", "releasegroups":
+        [{"artists": [{"id": "4204e06b-d2e4-4823-b6f3-47f7593518cb", "joinphrase":
+        ", ", "name": "George Bruns"}, {"id": "c47026a1-3300-4cf7-80df-8b9462a884e4",
+        "joinphrase": " & ", "name": "Richard M. Sherman"}, {"id": "d378dedb-444f-48f5-a6e6-3e8e31ef6c14",
+        "joinphrase": ", ", "name": "Robert B. Sherman"}, {"id": "0a8df504-df94-4d77-a3c5-2b9e5c9727e2",
+        "name": "Terry Gilkyson"}], "id": "1257fcdf-743f-3dff-9894-107b398fb777",
+        "secondarytypes": ["Soundtrack"], "title": "The Jungle Book: Original Cast
+        Soundtrack", "type": "Album"}], "title": "Jungle Beat"}], "score": 0.977819},
+        {"id": "01f86997-72b1-4637-8bce-977f3301fc25", "recordings": [{"artists":
+        [{"id": "c47026a1-3300-4cf7-80df-8b9462a884e4", "joinphrase": " & ", "name":
+        "Richard M. Sherman"}, {"id": "d378dedb-444f-48f5-a6e6-3e8e31ef6c14", "name":
+        "Robert B. Sherman"}], "duration": 81, "id": "18dbaba8-27ab-4272-8fca-79c1f98fef32",
+        "releasegroups": [{"id": "094618e5-1dde-3f3e-a2fd-cefec8929675", "secondarytypes":
+        ["Soundtrack"], "title": "Das Dschungelbuch", "type": "Album"}], "title":
+        "Dschungelbeat"}], "score": 0.928164}], "status": "ok"}'
+    http_version:
+  recorded_at: Tue, 29 Jun 2021 13:48:57 GMT
+recorded_with: VCR 3.0.3

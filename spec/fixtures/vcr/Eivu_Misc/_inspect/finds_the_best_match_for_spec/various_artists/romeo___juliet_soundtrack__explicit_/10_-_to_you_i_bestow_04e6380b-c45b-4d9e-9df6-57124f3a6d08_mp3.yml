@@ -1,0 +1,71 @@
+---
+http_interactions:
+- request:
+    method: get
+    uri: https://api.acoustid.org/v2/lookup?client=<ACOUSTID_CLIENT_ID>&duration=238&fingerprint=AQADtFryJFmSKGhw-_jxJ2g-Csm0nMizBidKH-b2oI8y4ceJhy-qwxYuU_hxBj8eDq6PWMqRazm8N0R1XEX4JIKW9rjkI8y0o5yI68SPR_kklOuLpjp-NEdP5NqHsnugJpkUHId_POGgM_AYHVcPP8tRHVUeCuYl9EQ5w8d56CecTBEuayHKfBN-_Ify7Whi_IalwyFJ1JGSGeVF5BbuFz2PJ8eYFb-PXqqQnEHKC5d41DFeoz_8o3im4JxyIfERJii1CZdRStnx47oEOwzqJcF19FLQJLqQ9E-RZ7iExokeoRRP_PiLqPjGLzjy6ELDcEdZBY8b5NgPVWS2GO2RKvJx_EYu9ImGMoNLES-0kHugHk9RSpzx6cMfXMePiiJ6WNkelFmOlyH-Z-gvbD8OsxA7Hf8V_EXs7jAz4guPH00dCfFzfM5I_HimfKiUuRAvRE-Gz7iOX7CuDU9m9ELyPwh3mM-EqhfOHBfO4vsQ5kcl5sZ1xHqH_viH50EOfUOaE92PL_bxJxh8_MR0wtWLB73SHLEodEku4Yd9aHqOKyvKHz76Luh7iJHOwMpRjTueoRQV2DX-QYyXoCsmMtnxXNDegS_yfSiVYP8wn2ieh_iNXBkz6Ip7MHoRZryQH1P2Eb0EXch1lFM3mDmq5NKGUG6RsL5x4Sx-nDFKC_-RTOmFMGR0PBsufejRnJNwHq-HJlJCo6tGBvmNH5Gli2gaoWeKcyh9pG0gZkm0G3tm5Ifjo5Ty4Dn-4ImCPElQ8kKZQaVy4heaPEEfXfiMPtLg6viDzwp-XEcliUd_468gXkePHk2kD3qWC0-54TnkozmOWEd__Pg_9EvQSNlpnFKOI4ym79D0asjJwdXxL8ZE4ju-w5XMocpD_BSLJ4mUCLXh8fgO7_iRJxqSS16w87iZFo22lMKjpMKnIwf0otwFZ7zw4zm0C4fCtuh2pFGPF77UombwHU1-VJny5NB5lM84HG-OH1ROCd2FS8dV5M5R9oaPj0XzIlem42kR5lnQHyz3Ik-tFcd5PNuCR1fQRNkR0h_0ETl1PBKFJzyavMFH_HiEkNsOTReoZEqE_EeY3tCfCdc7nD7S5_iHgzwuFvcSvHnwH826nAifEzpy4qGU4Bb6J7gmhAxuSYeOPulgm3AeDj-o-dA-gzmDfB8uXvD05miHKz7KhUGYJ9DRH5EyHo8eRrgkcjimDOaFPIwFcVWO6bHwtdCSlhRCSh--F5eEoqnC4ymPe8VzEadRHan244SefLgs-DuOUD_u4zw6w9Ed9HiNH7mEyj3ELdnxHD7k33hC5DwcHuGZLMOTH1oQioyOJwqJSztO9EfzF_9x5vh0C2d2XD2aKiVy2NGhR8FlmMOPF--DStcy_JB1VNKioPmR80RT6uiPSw8iRwkPqI9w0wizJQnaHv9w9XiWIdzRVK2h58iSj-ieHDemTMozo02OPhWaHfsXIj7kJTzqg4ovPEKeFBsqLijXC1dwFe6P8IfeHjGJRo9x5Xg_eIl4dPwi_Mh5JG6CHk0kLZ5w7SjJRvA_hLGRfDRq5XCuRSh14zrxCd2PoxIz46EQ9PAP_TCLH_8YWMph9fiPxyvEFX2QP7g-XBrCZD26MAuJ88EPoYl6VEMf5Meb6EMfdAyN9OGOf4QY8xnC9_hxKUGdw7El9DsutUKeQlGkI0TJI5ekQ62PPFrQ4-rRH3ayo8cv5LugnYj2Pbik5IKlExePPslxKh6OH80etEdSLUyH3D1u_IfLHddxKw0e0UO-ZEE_aAlfdBchvjitBg_8_DjxDfmPasyQL-hu-DhEtRVOHtcQXsGVo3QehFESHXc2EW9GQT269DCL_-iTD2e24bcQW-jEwRGPPkQvonEu43hzIZnEE3lEvOeIF46lSzjGH57EHKFTJL8GPsdp_KidLXDz4Vs-_EGWlYaeDTOjI9R-ONIiw6_QN8eVoczRnAw-nMgXHckj4U_R8EclvbgeFc2zoC-FPjnRzAlOVkJ-HXcObWhuVGq0whRROTmaE69xSSwcGvqPM4dHVLzxZccFLaN6aNo7XM-KXceVo9YK8aCWw9XR8yBv_Cn6CeJRSYtykB_-mtDyKAipPTr4MCgTkceP58j-I5l-PHkkBQ83lAqjw5eFB0apVXiK5FJ-hP8GJnfwlDhHY1eOG3l29Ph1wWqkQjyx7xDjoNahHmH-CH3y4OF0fKEkPEcT8Uf3BJUZEmF-I7mO5jFKk3j84Fk64z6OI48c6OnRPE-g-nCdIMu140FTxwqY0_h-nBKe4MaFt5nw49GRZ8mhHmkkKjJ-fE3xgDmPZjkuajj6I8yZMYZ2pCNaJQ_KJ0QT8wbZvEL8IjnuHI92nLgErxSF53hiVA7SJ8qhw6kWlGpIPA-uB88FzZRg4-EKJ5Ua4Tp8vtB69J-Q7zP84xLOEz_yLRF-qPkRSjqe8XiIfjn85MKP5szxO3iUDyHX5IGWHrfxj5iPjzv05fhx47eGlsd1QffxVyLyBD_u49vxI8cPOQ98Bv-H6_igHW-M6xPyHN0WGc8N58az4Eb5BHlSz9CVaEWkxDM6VTnuY1dYGU8dwXyOf8fF40kWNFeH68iTF_XR-3CcHBqXxWjhH_nwG72OKw9C_cFcDj_E8qia3bhkhBmzF2Ue_FFxHj-y5MpRpi4USgj_41N29CmOPfwABICDxAkKgAGECCCYRkQwR6hygAqKgGAEEQEoAERBZ6QBQAEEGCIMAKEJEggJBICgggkgABGESAYIQAIYIgAkgBIAGAICGOEUMow5ZohEQBgBHBDOAOBIEkBZYBSwQApgCEMOEkSUEAQAIhABBgBhDBEUEiWYFQI65wEQQglgAAGGEOYhAJYIJ5hgyglonBGAMEOQA4ISwSBQxCghAAEAEEESA8RBYgAAShAiABDQEEkENhgKwpQjDAhEgCNGCAYQAYAKQQUwgCGDJENMCSIAFYAQw5ADWgABBAKACOSAURJwASUxCAAhBCBKAQIYU8RQogwgxDhIHCDAGcCU0dIQ4qERThkLCJBACESEIUIKoYAzRghKgWEIGCUEZgIgYAAyhACDvGUEEEUMAcIAJgAFmHgICDOAGKCoYtQYRwwSRFChBDNAAIAIII4xAICCSBBngKNCCcQIMUAwIwAgShAljCFUQaOEIpASoJRgggEjBCBaGCUQMUQBQgwCQCBgGCVGIAeARAAwRBRAwDADEJOIEiCAUMoZAYAWDgIBABDGEMMUIQAgoJA2BCiKBHBAIWWUEQQAR4AxBiBhgAMIEcOAUsQoI4ACBgFhgJSEEkCMNAIAopARCnCimGAAAKGAEgApDyAABCihiDPECAWJBUoIQQwjQhNtCFAGMSGAogQQIgQzACBhgDCCEMCAIEAIRhwzDAFEBAQCQAAQERoRYYQBwiAEgFBGCAAQEoAJAQgDShBHABBCKUcgI0ACAwwjAFABhEBKISCII0AYQJgCCAigGEKOCKOBAIBAKhEQQBCAiAEQCUIBEQwoqwCAgBigvHACECIhEEEoYYiBBAwngDQGQCKEcKoYxQxWiAKHiGSEIgkUIEIAA4AhDihjGANGEcAEAAJJIIgwhBAApEQISAQsEQo4AoRBzBBgBDTUISIBEIogwwAVECnDmCOEACEQAEQYJBADAggIACCCAAWMQIZQwQACDiAGHAQAICGAQkQA&meta=recordings%20releasegroups%20compress
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      Accept:
+      - "*/*"
+      User-Agent:
+      - rest-client/2.1.0 (darwin20.3.0 x86_64) ruby/2.7.1p83
+      Accept-Encoding:
+      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+      Host:
+      - api.acoustid.org
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Date:
+      - Tue, 29 Jun 2021 13:48:41 GMT
+      Content-Type:
+      - application/json; charset=UTF-8
+      Transfer-Encoding:
+      - chunked
+      Connection:
+      - keep-alive
+      Vary:
+      - Accept-Encoding
+      Access-Control-Allow-Origin:
+      - "*"
+      X-Envoy-Upstream-Service-Time:
+      - '57'
+      Strict-Transport-Security:
+      - max-age=15724800; includeSubDomains
+    body:
+      encoding: ASCII-8BIT
+      string: '{"results": [{"id": "90a2d916-8a27-41a4-a201-359c45d678fb", "recordings":
+        [{"artists": [{"id": "8843b788-77c3-4f6f-8296-121e1cc0651a", "name": "Mundy"}],
+        "duration": 238, "id": "32593969-32af-43e1-9e69-266a71b18d2f", "releasegroups":
+        [{"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various
+        Artists"}], "id": "819bc18c-1972-490c-b788-593bc91589f5", "secondarytypes":
+        ["Compilation"], "title": "The Party Mix - Movies", "type": "Album"}, {"artists":
+        [{"id": "8843b788-77c3-4f6f-8296-121e1cc0651a", "name": "Mundy"}], "id": "7a225404-3aa1-3316-99af-0092d549aa07",
+        "title": "Jelly Legs", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "650ebbf1-e25c-3f13-ac2b-d98010c1c5ee",
+        "secondarytypes": ["Soundtrack"], "title": "William Shakespeare\u2019s Romeo
+        + Juliet: Music From the Motion Picture", "type": "Album"}, {"artists": [{"id":
+        "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}], "id":
+        "533aa751-c74c-3870-834e-ad833f3e18c7", "secondarytypes": ["Compilation"],
+        "title": "TOTP: The Cutting Edge", "type": "Album"}], "title": "To You I Bestow"},
+        {"artists": [{"id": "dfa02816-bf7b-4229-81e7-3e3d7a29537d", "name": "Mandy
+        Smith"}], "duration": 232, "id": "6b8c5dde-2af6-4a3a-9034-62d53e53b853", "releasegroups":
+        [{"id": "6bd80486-c02c-330f-9cbd-dbaf897dcb3f", "title": "Mandy", "type":
+        "Album"}], "title": "He''s My Boy"}, {"artists": [{"id": "8843b788-77c3-4f6f-8296-121e1cc0651a",
+        "name": "Mundy"}], "duration": 239, "id": "7785579f-0cdd-4f4f-b435-5b1865f27a87",
+        "releasegroups": [{"id": "f979833c-355b-338e-ae4e-29c043395329", "title":
+        "To You I Bestow", "type": "Single"}], "title": "To You I Bestow"}, {"artists":
+        [{"id": "8843b788-77c3-4f6f-8296-121e1cc0651a", "name": "Mundy"}], "duration":
+        238, "id": "d7800f67-10d2-4cc8-88a3-94520a2c0132", "releasegroups": [{"artists":
+        [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}],
+        "id": "e93f8ee3-5c4a-413c-9e3f-724a67f9aa99", "secondarytypes": ["Compilation"],
+        "title": "100 Hits: Indie Anthems", "type": "Album"}], "title": "To You I
+        Bestow"}], "score": 0.981606}, {"id": "d1e3482b-fa18-4729-b973-1d85e98cbe55",
+        "score": 0.567247}], "status": "ok"}'
+    http_version:
+  recorded_at: Tue, 29 Jun 2021 13:48:41 GMT
+recorded_with: VCR 3.0.3

@@ -1,0 +1,50 @@
+---
+http_interactions:
+- request:
+    method: get
+    uri: https://api.acoustid.org/v2/lookup?client=<ACOUSTID_CLIENT_ID>&duration=249&fingerprint=AQADtGIyjUmSZQj9oTl0pSTyDV5WfMcRptIz9DlyNJR29MD2Ej_eF2FyRYNGZk2C4Md0IeFJIayO7kZf7XiMkD_UL9EShH80_PCeDP9G_Ih0aPlwLzlOfMcjCr_RT0c6Mji_4oRnxUEa59DWBf8q5MyOdkczPEek09DrosdxXEZ3pAh7HNXx44ZD6D18dMaPKT_CY0ePwyfwCD8-5Icf_IBvCIImowfSZ8eFbyiP_ChliNR2XD1yPOiHH6fHCdHDVNAo6QP3EueM93A546VwiOdRP8iM0jN8G1eO3EOP6oa4F21UlLgO8fhxHjnwEKl8_MdFGIeP4ziDK8eFf1BOGA-u7DgeThjtwQ-hcjyOfTiPHIePHN9xw89QHfrR6TjxQ_fxX_CGtD-Oo5dx5DyOL4NWWYngE0efCUd16ICBT_Bx3PDxAT9-6IeP4zABXcJxHDhu-IceQI9hXMiB84dxFxfCG32kj1B2RviOcwefCR-h5xt8ZfiBkzge9D2Oo_xx4ceHN8AJH8ePvziOHz6MH8eNA8ehAz4AAEB24JdwBbuOw0eOQieOkDlcotJ45JWOS4e-4yjzR_iPHz_8oce347qxryu0PcFTfDg-EedwHMyPSx-eHHfQ8yH8HtWP53h6hDOa49FBH9eGXkfa4z_qJtCHL9DxB_5yPLgEyzxQK0dz4kFzdJSC34L2wD_0hYc_1EflCP8FNJM9PMpxDbXDHM2j44cuH61yeBruQcePXjoeX3guhJkUFmWBcEoa1FMevIR-o2uOpsfD4yhJNE6UQMYlH2GzeQijHEevoXHwB51WiMfhvDh-aDmFP0Y_NJdSQntgHr2EB851_HiSoUfzY1cyNFWh58NxC_5Rb8bb4yuaiugD5bjQK4eZ6XgO58vQfNkAPcmFPEd59LiS5-hDCk3YjThx5kgZj0iuhFGEo2lHVO6GS0mOH12P5mGHHzmJKzOaN2Xw5bCZHdehJU-QNzn6oAmVGd-Dw-NE4g5uNNyPnmgUHr0i_AmJPGiu42EM5zvqo0_wX_jhyUerB5fwGM2Hfnjk4w3CZil8BedxEv1x6TiTC2GXWdAfHYdYReNRh3GG58eXIJR5NFOaBvmho-mLynrw5MTLoIuUoeGOr0Tfo4mz4_rQJxLc7fhnNPqOo6ky9Dj6XNByBbh2NN_RL4GWHD0eLeiJ5sdUaYI_fMePQx5dw67RP7hi1Kow5Rk-icK1oj8aXYfO4siVLsGZB03ooMwyCRfq48mLa0kEPztK7oiXFfqFD30Vw8wROgnxHdc_uE5jXMOP6gijsFMMdcuRCw-N5kTPIhZzEbIiNsiXAHU5hJlUG18MfbBe6MoRZjq6RElWNPVDdF6Ko_lRJ2VwBT-682giJieeEM-bIdfR52heFfpx-2jSZEc39Ybj7NCF_0WaRXnwuMHXFu-OkIXxBF205dCXCG_RNDl6XBd0ovfQhMITS8iDpo1RLVHx-Ai_oRkPlQo-DbV2_Mrww4fW4McXJeiFRsPz4m-gpcrRVUPl6HBl_DFcCX3QPDpq8XgSRxN63Mh9NFnUTbhS_OiP5lnx40mEmtKF5sqGWFl0yOkR--DzEvXhHfEWFhqRTy_OHG9QHmG4kAGf8NCPR0STpRy6JUW-HD83ePKNaynOo0cYhTXULdeIXHhoNCd6FrGYi5AVN8gnHBWPZqpSI36hR2j0oBZ9aJQ-hKE2NJOfoV90oEfTpD2uWPjx33BE3XiS7Mjf4IZWHs2DX7h0NHEedGyOisoOLVeLH80YbUEX6UEe5rhyNMeR53jWGz1efIkSwzcu_KimDWGKo1fg-qgY4R7CXUFzFvpyHG364pWIPxCPOvpx4hUu-PheXC8aTUFlJtAuPUJTRUb4o6ny4UePJotznNE7hFA2kgjPHFdenCx-NNJIVMsW_Li040e3G1PiGM_MI18z_BeaB9r-ID-GSyGqXEJz4lEyOfhv-A-S90f8DL6k49nxMJWwPxmai-iXCvqDfccl5nCVGc-DK2liVGJ2NOODhPyRP_iOP0EthvA0hUc7XDj-F5d2oRI-uEfyHTn84ofRD3O2pAoutUpAQm0YCVeO-Tm-F0_6RGiOPkpW_IVOosxkeFJ2_Mzgh0pwpDeSsDm6aDx-nDz2arDYjMgXOQn0I29S-MlxtsEPVzmeZ_hjJBP_IEx87ElGEY9zfLlwJtPBB03EIzzeEldloVkf9Aly7WjkYzpxp46GG8_CICe0E37xi_Bx0zDuB7KMW0Lo4z1a7oX5o-xw9IZ7JNOTI7pG_MnxHd_RiA2Ykwuei0h8hHkWVNXwxA5YJkpRo3l2nMvxC6G2RDka98hVR8irFTrCZ8XGO0K_49LRPCym47SFK0mUHGG4Q7kQ5sP5oTxcSdsxa5TwRSRKnMfJ48T54Ec-Qg8RmgBkiUBIAgUUIMohwQQwBCgiBBUGCKIAMIAhKwAQgFEigDOEUSAEUcwKZAGBwiFDpAVKGaeARggJIyQzSiGlhBAGUYYYAc4SRwBBxDBASQAUIQahgY4JQo3xFgJgJLsWOYGcQYYiwKQg5hsj0KMIWEABgAwgw4wgTFh10RGOICZIQkwzoRwFTgnBxFNOWGcZUJ4AwISiFgCACCHMIEEMIKoa4BggFGCDnSEHCETNFcYQYaU5XnmHAFJQmaQdAwIA5RwAiAlFkfIaGSCAEscRBJ4SxBgGBAACIESNUE5IAhgRgGCiGRVCImEAJQAJ5YAQQABBlCdCSACIEpAQAgxQBggpFFAAFAAtIEBYYJ1QgBAgnKBAUKAYAkAJIAgCwAiHAJJACUEMUQQkAQAjBDBADEMAIYAAUAQZCJAyBgJiBEEAEEWEAhAIIQBEwhAqqCBAMESIIQIgIAAjQggDjaJAKIeMEkJBAAAAQBgMFRHCCCiAUgQRggjgUiABFCIUEMGMIAwrggAARgikjAAAKGSkEggQIwwwREIALkDQCAWQAVoIAIBDQgGCCCBCCQMQEBIRhAhgUhjGABQAGKswQA4pYJBSAiGAJJOEACmscAYBAgQFREEggKUQEGJAAYAABYwFAgFihFYAEGAAIVggaIQwwAgDKJJGECkIAQAkQyAQhAghOCRAHOiMMAARoowARhsAhCRIGSAAUIIBZQAQgigAjVKEAAEIEQAQBASDjDhChBDAAGCAkkIQQ4hgBBEgnBAGOCEQUAYBMgghADJDjKKOAMQEAAwIJBggAgHjIHFGESAMcAQIIkBUBiEAFBEICEKwkcIR5BSTgBIBgQMKEAKAMkAIpZRwShBgBBKCEREIEAQoxgwBpgBgiAMYEGC4MgIKIDRwzAGHjAE&meta=recordings%20releasegroups%20compress
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      Accept:
+      - "*/*"
+      User-Agent:
+      - rest-client/2.1.0 (darwin20.3.0 x86_64) ruby/2.7.1p83
+      Accept-Encoding:
+      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+      Host:
+      - api.acoustid.org
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Date:
+      - Tue, 29 Jun 2021 13:46:24 GMT
+      Content-Type:
+      - application/json; charset=UTF-8
+      Transfer-Encoding:
+      - chunked
+      Connection:
+      - keep-alive
+      Vary:
+      - Accept-Encoding
+      Access-Control-Allow-Origin:
+      - "*"
+      X-Envoy-Upstream-Service-Time:
+      - '106'
+      X-Envoy-Decorator-Operation:
+      - acoustid-server-api.acoustid.svc.cluster.local:3031/*
+      Strict-Transport-Security:
+      - max-age=15724800; includeSubDomains
+    body:
+      encoding: ASCII-8BIT
+      string: '{"results": [{"id": "d37e09a9-17ac-450c-adbe-075cebd9de76", "recordings":
+        [{"artists": [{"id": "94c64122-dbd4-4927-b2fa-f204b0b4b0c2", "name": "Ravyn
+        Lenae"}], "duration": 249, "id": "4b4f3799-3aed-4c78-8784-d00087feb6f4", "releasegroups":
+        [{"id": "74223740-723a-4b35-96c4-147d71c0d335", "title": "Moon Shoes", "type":
+        "EP"}], "title": "Venezuela Trains"}], "score": 0.996769}], "status": "ok"}'
+    http_version:
+  recorded_at: Tue, 29 Jun 2021 13:46:25 GMT
+recorded_with: VCR 3.0.3

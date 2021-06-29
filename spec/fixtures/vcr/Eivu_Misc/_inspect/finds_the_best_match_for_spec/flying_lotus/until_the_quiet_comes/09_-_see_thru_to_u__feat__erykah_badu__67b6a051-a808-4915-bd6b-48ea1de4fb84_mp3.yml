@@ -1,0 +1,51 @@
+---
+http_interactions:
+- request:
+    method: get
+    uri: https://api.acoustid.org/v2/lookup?client=<ACOUSTID_CLIENT_ID>&duration=144&fingerprint=AQADtAkbiVESRYGOXPiFP8EfojxCRgmS50ng40xefMtw9nC0IA90IRduyXiT5OhDhFwIVSHyfIFDnniET8lGvDoc8cgDXUJ-4V4onEmEPkdJFrFyQfsjhMmJRzmuBS8L78iT4VB7XDJqJdHxo9ahH3HzoElOoU-O9zh1TEfz48mFchduCd9GoUcoVTokLTm0J6fxHD8l3Dq8Dk92qEeOKT--pAkexbjEw8uEHvcTJLxSBTfyHFNehMyCi4f04wsi_QgTKkF5aBFj5AnORcKP5lmJ9zhXbMpDIj8UodLqwc9xNrjEnNA5C7GkPOiOdz6uJLh0-McRGZVybOKO74QfHX9GQ2NyQpeeoNHRH0-UdLi-wcuhNMjR5wEV0yOukDteXDq8IH-QLF9GcFR040MXKT2aKGND7NnxbEL648IXNNGKkImy4yVuPkX9wuuOz0JzRFwP-UesY3oWDo-Fh8eJMkPOK4KiJD9CXYnx7fgIDzzudMT1I6QUaYIvVQMjH9-WgY2KkL2CSxe6NccZPDncI88-6JSR48GTVah1BlO24smL6cgfaNd4fNKR70ez5OiP_JBuXBr2p3ikBZc04pDrI3ca9LwwxQl-Iox0lDvUYz_Oo88KOzz0LEijR3gOJ_yGXsEVPPCOD-jV4IyDWw8-_Dkm5sH5IIzRQ49C_Ac16ccz5PjR6xidWXDd41rwIL-GZJcn_Elx6jgDR1KwHyEPvUKWRzgmqTeaJUR4aPnxJw4RPhQ85jBvVHqPFeEJ8cH_QnyW4jzeZMGTI42YK-iPJ_uRL8cP_9CX4wyefvgxfRCtBaM6IV164XlUNPnxJDiNJtXBMBOSCzn6C30yo28VuNXxJFnhI3yOZNETVA5f8Iku4zuaHWF56DfiH5P1BI2TPEDIC1ok5HkoPA6aH_Na-DxaHTl1Gco_hIefHd2NfIHGxUiX5Qn8K-iPL8IdBf0RhjuEHH-CN8nR87AbIgwXJM8V9EKjJ3h4PBLRRPyEkNkJHfGFy7iTHH2QLyw0hsjzBNauERc-acSvwzvyCLqEUDwueXiThMSPfDk0Jgj_oDneRSeuRHnRx0OYKIN-xLzwC9di4U1E9MijHBp1hL8SND_eJccXoT-aZUdyIRf-4FMUanh0NA_yRDnE9cj1oLlkPNJxRpJR-WiWIT-SnzjF4Yk-3NLRncgX6Eea5glqs7iLR6SE5keZSCeS78Iv5HguI5xGNE0DVZI35FeCX2hDHY1TXMyIH1Gh8sgnTJ8cXMkY-PCZI2wO1U-GMAlr9D2eRDiaHqWwX0S5Fq52wflYdEfILoeX-Ohz4sObHKcOk8MJ-chy-JexxUooPMlxh2iHXwjlJI-g5cqI-3iOMjsUZcxxvEJ2RPo5NJqC0ocWKkbsBWeEm0fD5XiPH9HOBNp6Ir8wSevxHK5oETkZQg-HmMoTdDx-SbiEm4VP4kcOTUoNmx-s6tCPjwib49MjNA964YkSEteRLj0UXwj-gHmSUENF_ajT4DzyQPyD8MrBKwqJV0GZCM14RG0OPQ6cU0OQ7xOabTrKRBn046aYaGi0F6GcsQifY8p0_Li-QJUu_EKe5Dj6IM9YnJcCMTmDUJ1yvAp-NEf7fPiN3ypKRpqwq8mwpfjgKA9K7UFT6UKfEnnC45Lg54H6IWuW4z7-HFcUFn10NMXTI-SR_OhXFdfRZYeZHdWRnEe2h8F_XDqHMssunEGP5JaQ2-iPRmEu_DqY7B2qIpCCK4afy_jxroSy5YidB05u9LgS_DCBH8VpKcSt497hLw-88MfE5UHzINyDB_wCcfrwIRYmXfjwXLhhUQvxBHlzQfsuI09x6kOPKVWOhwh7FfpNZPlwTGRyNEoiIzyaC3rjoitZNA-aRcdEGj_6Hc7hz-izFEf49ISjHp2WD5fJ4ZTxREJ4g8l1_JDKHHn6o4c_XMmRH2IUXsifwDnRN7gogQkloTw-HWFuIrkFP4uFTxVOXAmDZ0F-aJHzBHmUHBwzHdfg5XiOHJruGNGqD31yPEezVD165KyhPFTQIz2aH3mLKzk0_vARtYmM48uRE8_yBHqeITxe6XgWNDvKHNEP_ZgiHnl04RLOkEjJQ5sfhPnR41lyPDq8nPiC_NCF6jJSJwp6KUefFWGoF3ryCGFydI2CW0OPxsH-EPkFDZF-PDn6HE6zCKkSHjrjIf1D9LmGLy0a_sT0_EjqIxLXo_nC4YyDX-iPlNJCaD9CpZYSNKFvXEmSGI_QHGWC-ciNnVdwRx8eHWG04zv84Dqa6zgzHVeiI8xzaFKWI_JxgX-EJznOHLUYXMSPZPmVHLnyBNdyPDOaFcy0H_kV6JcQ-TGe40XHI8wPXU8QPpOKw_9QbjjX4-KLCMmeF9sf-JmHs0Me6PyRRtkVospxBk90_PCPDzfy44l-fDuhy0fzHJqoS_iOfMcl7NkphFk5ozz05cjxC48ucBZqh7CiJIMXIv2DZJeU4DuuaKgzH0yW4UHyB5GfS_jxKT_66GiOcFRM6MysINePfuiN5sebBZF_6EIYHw89-ImOMg_xcEEoQ5lnCXnihPB3PCh7HP0_2GYQ-iEuQ_1x3UF13Cb6EheePDh1IVmWO-hzPHiO696G5_hxnfBxH8mFMAuP6Zo5_PlBHk-KP2BzHs36oCsR8XiW40qOZ32g6hLeMOgm-Ail6Diz46JUnKGEG81RVA6Pxwt-pHkVJON0HLOU4zr6Y6tIPA--w9YBA6IAQBCBCEVCMCE4CEIoBZAUChGBHQFCASaMYIYJB9xigkIipCFAMYUgIooYA4QFDADpEABGIDAKYogYBAxBBlkgHABDKcgIBAwIIgUwjABBLECOIiI8IgwIQoQiwimnENHsCAQUcQoRopQRFCGQoAMAEIUBIhI4RawQkAgkpEiGAWAEQIIwZpRAwEwmCLJOICCQYMAQoogDwxFCjRGCMAgsE4wQARgzyDhClVEAOUGIIkYpCQACBExjgFGGEQEIEgJ4Lq1KAhhAgCLAAAQEAUwAwYAiDAAFFQKCAEIIUkIwIoxkDAAlhCDGCAIFEMg4ARwCChgAqFBAACEI0gBAJoAxhglgiYdCGCEQsIAJRQyoUAglFDEQAcGYwIwJBAQRiAiAAABKQYIEE0QJQZAACBACNCRCGSQEMYYwIYhwxCAFgDBEEQOcIcAYZEADyhADAEIUCaQBMEYAJR1AAgAABFBIEEOYJgQh5AggiCFijLdeKGABUEoIA4wThBkBCALCIYKQEEIpqwSSRiEFFSRCAQIFQEYAYBw0RkAFAADGAS6IkgIJpgQRyBHDGACUGKAcIAIhgICggAhBAAKGAOeEQYwREZAhQiAglEBICGQAEBAQRQkjQDniiFJACCcUEUYTR5ShzAlEhBBCIgGsYIBYeCQ1gAktoCGCAUAAYEoB5oAQBFgAhRBEIQUAF5YwwBAhygglBGFMKmQAEgI44IgGShgEjCUPCUIMMUMwoBRkQinAGCLAGEWcUARALwQQDAkJlCHECcOMQhAgIAABAgBgBGEOKEYIQco8LQAAygBDKDJECIEEYMKRJJwARjgCBHAAKUSMcFAIo4gBFhkFgTAEGAMQAEwCAwRljEhGEInCKQGAAQIJwZBQDCAhhICEAWAcBEh4AQWgQBABAABAKAyAEAyApYAAQgpDDCZAOBCYUAYBJgERAFgGKBDEIYUYVgQQAQQQHiGHAJEIIUOEYgwQCBnpRAmGkDEOGEmBBwI&meta=recordings%20releasegroups%20compress
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      Accept:
+      - "*/*"
+      User-Agent:
+      - rest-client/2.1.0 (darwin20.3.0 x86_64) ruby/2.7.1p83
+      Accept-Encoding:
+      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+      Host:
+      - api.acoustid.org
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Date:
+      - Tue, 29 Jun 2021 13:44:15 GMT
+      Content-Type:
+      - application/json; charset=UTF-8
+      Transfer-Encoding:
+      - chunked
+      Connection:
+      - keep-alive
+      Vary:
+      - Accept-Encoding
+      Access-Control-Allow-Origin:
+      - "*"
+      X-Envoy-Upstream-Service-Time:
+      - '68'
+      Strict-Transport-Security:
+      - max-age=15724800; includeSubDomains
+    body:
+      encoding: ASCII-8BIT
+      string: '{"results": [{"id": "02925616-d730-4229-8948-be72cf157b78", "recordings":
+        [{"artists": [{"id": "fc7376fe-1a6f-4414-b4a7-83f50ed59c92", "joinphrase":
+        " feat. ", "name": "Flying Lotus"}, {"id": "321531fc-db73-4ffa-a959-61a61a2908c1",
+        "name": "Erykah Badu"}], "duration": 174, "id": "74ca1f3b-fe95-4f05-ad57-470b08b21717",
+        "releasegroups": [{"artists": [{"id": "fc7376fe-1a6f-4414-b4a7-83f50ed59c92",
+        "name": "Flying Lotus"}], "id": "eb9e0983-2478-4494-a8e2-e4117c2ba40f", "title":
+        "Until the Quiet Comes", "type": "Album"}], "title": "See Thru to U"}], "score":
+        0.928232}], "status": "ok"}'
+    http_version:
+  recorded_at: Tue, 29 Jun 2021 13:44:15 GMT
+recorded_with: VCR 3.0.3

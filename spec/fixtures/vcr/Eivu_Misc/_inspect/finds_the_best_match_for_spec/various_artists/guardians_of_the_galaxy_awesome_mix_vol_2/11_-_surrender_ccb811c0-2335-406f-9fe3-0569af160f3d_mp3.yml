@@ -1,0 +1,437 @@
+---
+http_interactions:
+- request:
+    method: get
+    uri: https://api.acoustid.org/v2/lookup?client=<ACOUSTID_CLIENT_ID>&duration=254&fingerprint=AQADtIqibVGybGDy49qH_CReCP3WwxZ_HFZ6wA9uHdqPzjt8Bs9h7kvx6CiPZ4cWVUeJUxW0izdm-KgOhMF0OvjCZ_jwozmDrjze5PiFhnuQB1q6IT-O2ima5LiOPPgE_WhuVO6GR8uMU9A_XGh-tNNxMejQuCmuHIV37MpyWPTxEd5_6DuOMOvxH39QHY2MXyJ-tNzhI7qUw_xQ7GiO7vjCI_7RR4FPPMxx5jiPlGSg_TiiB9WPn0M44sOhXSGeQNSFBx-sHw9aF30ESXsMK70R6ch3_EevQRQphMdN4VEevGgcpkIf3EJS8UEe7cEvfEM95uhXPDHh5Th1XKNwHSEp5WhyyD2eb4hYtMtUeBJT9D_6o7l2sD--ScREHTmLbsaZ4D6afMP0QwfJ1MHUKD_EsTh89Mel5MN3XCG08NwQXviFf2iYoqKyFP_RfEHYZYeexUKYlUcl6_hxBUd_NMqRLxGSannxDX_RJ0M_CTeH60fDG31e_EcuSeiYqIX4HBeNH-aRa8Sv4kczkhL-4zp6TVrwE9EJTRfi8EN_mFEyoo344Ej2F81DPAwi9XDEoydy2vjxJ2iyXeiTzNBuNGrICOcRm0djoTyObwhzCd90WDlR-Tn0zrgOjTzCvC8eT3h3PMzh0NlxTjh-NG6KSiRynIG-WEhVKRteXTjq43AeHd189CqRVscPbVMZXMyOn8jR68GZCf7xRId3C32WIiR5PNoH1XyRqlkqlCcqZTp8PDvCHLrSDeEfNDmOEpea486D8GU0CL2M7TmcUujySVCdHL-CkDyeoEVlWD6qcU2xh8dzfFyKuDrkEzE-NFRToReHX2iSJ0LVSMcjDn6CH5fwFw354F2DlxGQG2KOcD_-cWin48dxvDiR5gs6H9-PnoGzdeipoYero93xoCf0FHF8wcMthcNJ4_nwIxa1Qi9xPji5LfCOC6Ee4-cRVkLTQ1-F_2g-hFRyEU0kIfzRfoSYI9SyJ7iOWguco9MS4TyOejvSMIemUyF-Cq_QkDo08caTTqh6pO-JLj2Q_9Dpo1GuoFZ2xIuwHz_B78gdMWge_FGHPzh4H7cobN9ho1qGN4bqED26Ho-Kc0M7HS985qgVCN-PkgyPtMpx9sOpcEZ6Gj20Z4FLCdGcxSj1B19lPEcP58eZC3eO1ah85Ce058fJBzm6U3guXETI5xCpHLFu_Kg-PMOPMNMPZdxRMlfAyknRRy-aHupWpMdJ4T4elDtSzYZ2ZGVx9NGFlNETPKsWiDmy_AUfogHDVfh2HCF3Db5iocekD3_hfyiLX0a4w_-C0Tj85bhEsECaYz_y78J14zjRo96RH_pkxLAkF5euosRnET8qKizCQJd2VNp0-KGDH82PU2nwoYeoH9WUGh96HWYPHT56BvFxawjz46ug57iQw3uMHj3wIf1R5nhGCjqJD-UDPwiN-8KRHz2cC4dbhMcxTB_sF8ePwzt89MgP7QmaEz9CHT_aMQjZC81I6FmOThvCqMd_fEHJF83xZUdsfJuO5ugu6Ed7eMyO84jNwEFx_OiP_PjxFiYP7TuOXkFzPLgObYKd5YiPHyZy6MjxHu_hZ_g9PIeXiMLN-Ah_JPvRXDmuqPhx_XiDhPGSI-fx5Mcf9OngZ4e_JHiJVyuc5HkRykiuZdLQH74eVMh74lESawj5oDnO9GhS7cZ0S_jBJwvxoxfxKxv6F4-4jATDZbGC9Kh56B8i2UGzcMR7dM06-D1yvNPQHl9P9EL66MF3NA6PK8rRw7_QE32LfEOyiNFxWziZTagv-ESXB9UfJD_yZRE5lBaOb3iCpxxC9okCLUlCBCduIswMrUbIJUfzPkUu6AzCvEGfvfiEscmJtjSeiCz6I7-QrJNyMMl38LnQoYmXcMO-zArCw2mIbzx8nMcP1x46SjfO46g5NK6EKzn04AmxKz9e5qhfNPkn_FB8oVN8wsoiCVceHGFi8jizHM8TPCQcefh8vP_QxMcXMZGGnImgo2uUICePRs80VBuPJyWaFyn6DzqRJ1HQH82JL1Hwo4fThEg2Hflx9-gRJoesyoiXJkxxHWE-QTOVCTFF9LDEE18O7xbC99C3Fz_CaEf_48iP5jjRXGaw_gj7ool78FqDU8dh58xw_sh-o6KYY_sodNRR_TD_KCinSThy4S_KHw3lEH2OMDkPPV0yhPl-9MQRu9uh5wiPOzr8Ht2Fsxs-o_lRHl8WlNxlvDlCHfoSHfnxMYfz4HGI92iOzsdxJA-HUI8FP0c71AgzZsZvoXk4HSVz_LiqFP1hB-oPdzzaB-ePHqdgSjPaqBTyoxLPDH4Q3RzkJfCTI3zxP6i1HLvE4hLOGj-Ocw9sfajVCslxUQ_CTUHzhMJFyXjyD81uoWce5Hh_oTJFNE4JOczw48S-GufxSsOZo9ZxN5DDr9h25FHQNb_QDqEaQOtrHD1xaxVu5Qku_Ed_mMuMPod-G1eN0DucH29WvG_R_MKT4zFCenGRkMuOeX0Ex8G6Fz1-1CMjNGIn3Me1HsmP_wjNOfhG_Oh1hCfMMQfkAALECAEABYgAIwhgREhEGDAMCAwIEQYA4ICBQkHhRAFSHEMQIAeJBQRwAgQIAAFAAZMMAEQoIpQilgjBMSEEAQEUI4gRoQhBgAhDjQLUE0CJAIIIYpRRhChKBBGECWSsAoQ45YARjAhgiEKEIKAQAUwSQgiwSEhimDHCOiMcI0ZAI4SQhihACMLSCKWIMEIIgIBAhDAphFIAMUEMEAZJQBQQYgkAlCAKMgIEsIwIAooAkBgBDDEAOGCEEIYgBgwCSh1tBAGCKgCUMQYwAYgBQhABsLAKYKYAUEIBJASABDEilSTCGoMAM44QaAwmDAHDmDSGAWCYkeaAYIwwTBGCHBUEEAYMcMIAYQ4ygDEDiDDECGMURARh4QARAgDmACCIAASIUEgxAowAiAIPhBWCUgUBU0AAAAwRBAAhgABCYqMAQYAJYQABhBBGgBDKCYOYssApAogBDgmyEBUACScMAcIZIZAiwABCBEABGIEAAAgw5bSCgDAgmIKCAYGEUk4Q5oRhRgsjAAJIiVYwcUBJCpwAgFDApSBHEeIQJgWZgwQkBFBiEEBEIKesIUAIibAADDlBCFWIKKEIkERJZQhiiElCDGICGOEAAFIwApxCQAIhlGCCQKKAAMoQYIgBQAECKRNAMCCIUEAIBKRAAlggGBMGSAEYIAJYgCQzABGFhCIGEdGYMkwhABQAAmjBAJIAACAEMEJJY6AhAFEkLBCCAOAAgYYgRCghwDAlABFAAWEEIkAZIyASBBmGLDIaAEsVglYQJAQgxEArBKCSAQMEAUgQQgZBAjAnBEBAQMaMAAIBYQQQUgpEFCBAQOKAEAYIRYGQxABAFcGAwkEEAggQxKRAwgjhjDAWSSGAAIQRIQRAREgLjIIAGKCAEAIQAgjwnDCBjGFAEE6AoAIIwIABzAAMBCIICECAYlASACSTiDABHCAKCAqUAAA&meta=recordings%20releasegroups%20compress
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      Accept:
+      - "*/*"
+      User-Agent:
+      - rest-client/2.1.0 (darwin20.3.0 x86_64) ruby/2.7.1p83
+      Accept-Encoding:
+      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+      Host:
+      - api.acoustid.org
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Date:
+      - Tue, 29 Jun 2021 13:48:26 GMT
+      Content-Type:
+      - application/json; charset=UTF-8
+      Transfer-Encoding:
+      - chunked
+      Connection:
+      - keep-alive
+      Vary:
+      - Accept-Encoding
+      Access-Control-Allow-Origin:
+      - "*"
+      X-Envoy-Upstream-Service-Time:
+      - '143'
+      Strict-Transport-Security:
+      - max-age=15724800; includeSubDomains
+    body:
+      encoding: ASCII-8BIT
+      string: '{"results": [{"id": "4702fd1e-e418-4183-824f-9d309dd3cc25", "recordings":
+        [{"artists": [{"id": "9f870653-72b0-4c6d-8c59-439a95963e09", "name": "Cheap
+        Trick"}], "duration": 254, "id": "9f736312-90b7-4191-9552-05033eda711a", "releasegroups":
+        [{"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various
+        Artists"}], "id": "a199887c-9e99-3262-adae-777743052cfa", "secondarytypes":
+        ["Compilation"], "title": "Mullets Rock!", "type": "Album"}, {"artists": [{"id":
+        "9f870653-72b0-4c6d-8c59-439a95963e09", "name": "Cheap Trick"}], "id": "8c3beb09-688e-3adf-8d85-8733d898c35c",
+        "secondarytypes": ["Compilation"], "title": "Don\u2019t Be Cruel", "type":
+        "Album"}, {"artists": [{"id": "9f870653-72b0-4c6d-8c59-439a95963e09", "name":
+        "Cheap Trick"}], "id": "fa4b314b-7881-3319-8c47-a6ffd5f88771", "title": "Heaven
+        Tonight", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "2b783887-e642-4192-84bb-bd1362982284",
+        "secondarytypes": ["Compilation"], "title": "Pure\u2026 Fitness", "type":
+        "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name":
+        "Various Artists"}], "id": "89669f15-ad51-39f0-aa0d-aed164cff965", "secondarytypes":
+        ["Compilation"], "title": "Legends: Ultimate Rock Collection: Rock On", "type":
+        "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name":
+        "Various Artists"}], "id": "f8d5bd7f-ecef-30f9-b087-ce0669f53cb5", "secondarytypes":
+        ["Compilation"], "title": "70''s Rock Party", "type": "Album"}, {"artists":
+        [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}],
+        "id": "94d4fd62-767c-3043-8f2b-55a55785992c", "secondarytypes": ["Compilation"],
+        "title": "Triple M Unleashed Again", "type": "Album"}, {"artists": [{"id":
+        "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}], "id":
+        "94905758-c56a-4d63-8e4c-170000a317d8", "secondarytypes": ["Compilation"],
+        "title": "Jim Beam Authentic Rock: 50 Pub Jukebox Anthems", "type": "Album"},
+        {"artists": [{"id": "9f870653-72b0-4c6d-8c59-439a95963e09", "name": "Cheap
+        Trick"}], "id": "80cef13f-6f15-3e19-8fb4-5db3c03ed324", "secondarytypes":
+        ["Compilation"], "title": "Collection", "type": "Album"}, {"artists": [{"id":
+        "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}], "id":
+        "6ef7591c-79ca-4a51-a163-9bfd6c3921d7", "secondarytypes": ["Compilation"],
+        "title": "The Essential Dock Rock", "type": "Album"}, {"artists": [{"id":
+        "9f870653-72b0-4c6d-8c59-439a95963e09", "name": "Cheap Trick"}], "id": "bdbcb225-1f7a-44ec-ab4b-9c3752db1361",
+        "title": "Super Hits", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "60b89cbc-7921-35e9-a228-aa58347c3b3b",
+        "secondarytypes": ["Compilation"], "title": "Classic Rock: 1975-1979", "type":
+        "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name":
+        "Various Artists"}], "id": "20824aa9-74d1-4f90-8eb4-6bf0f82b185f", "secondarytypes":
+        ["Compilation"], "title": "The 70\u2019s Rock\u2019n\u2019Roll: 36 All-Time
+        Favorites", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "27f298f1-1b27-4937-b893-53307955a6ab",
+        "secondarytypes": ["Compilation"], "title": "Die 70s Edition", "type": "Album"},
+        {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various
+        Artists"}], "id": "bac3f46a-c96d-3543-9c8c-6a90b1fff330", "secondarytypes":
+        ["Compilation"], "title": "Classic Axe", "type": "Album"}, {"artists": [{"id":
+        "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}], "id":
+        "da330fda-c2d0-40c4-b059-310a7f485fff", "secondarytypes": ["Compilation"],
+        "title": "Totally 70s", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "a6b6f9f2-487f-3ca6-a00f-c29286da238f",
+        "secondarytypes": ["Compilation"], "title": "Rock Line 2", "type": "Album"},
+        {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various
+        Artists"}], "id": "37f6f5dd-329c-3598-9d59-e2d7e9188d9f", "secondarytypes":
+        ["Compilation"], "title": "World\u2019s Best Dad: 60 Ultimate Rock Classics",
+        "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "c36fda8c-33c9-3b80-bcee-678b4226a8de",
+        "secondarytypes": ["Compilation"], "title": "70''s Rock ''n'' Roll", "type":
+        "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name":
+        "Various Artists"}], "id": "35129a00-b3c7-4b48-a973-6cf3117de996", "secondarytypes":
+        ["Compilation"], "title": "Pure... Rock", "type": "Album"}, {"artists": [{"id":
+        "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}], "id":
+        "c4414164-615a-30b0-bdb0-f165c47ef033", "secondarytypes": ["Compilation"],
+        "title": "Seventies Top 100", "type": "Album"}, {"artists": [{"id": "9f870653-72b0-4c6d-8c59-439a95963e09",
+        "name": "Cheap Trick"}], "id": "17cb2cac-8be1-3f33-b66a-31e979491ac1", "secondarytypes":
+        ["Compilation"], "title": "The Hits of Cheap Trick", "type": "Album"}, {"artists":
+        [{"id": "9f870653-72b0-4c6d-8c59-439a95963e09", "name": "Cheap Trick"}], "id":
+        "2002b1cd-9748-37d3-a778-a6a87d2c4374", "secondarytypes": ["Compilation"],
+        "title": "Sex, America, Cheap Trick", "type": "Album"}, {"artists": [{"id":
+        "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}], "id":
+        "30359875-b64d-491f-b884-7d9f99996106", "secondarytypes": ["Compilation"],
+        "title": "Legends of Rock", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "fbf7b2d4-44f7-4699-a88c-b5808c02563d",
+        "secondarytypes": ["Compilation"], "title": "Made in America", "type": "Album"},
+        {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various
+        Artists"}], "id": "15da4a18-ffcf-4dec-8521-5fee650ccbe1", "secondarytypes":
+        ["Compilation"], "title": "101 Rock Hits", "type": "Album"}, {"artists": [{"id":
+        "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}], "id":
+        "44379afd-4937-4fa8-b947-4f121c5abebe", "secondarytypes": ["Compilation"],
+        "title": "Pure\u2026 Guitar Heroes", "type": "Album"}, {"artists": [{"id":
+        "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}], "id":
+        "2470eb38-c5a5-40b9-b480-ed99391cc188", "secondarytypes": ["Compilation"],
+        "title": "Simply the Best New Wave", "type": "Album"}, {"artists": [{"id":
+        "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}], "id":
+        "42b03c15-cd2e-403d-95a5-b7ff397ddec0", "secondarytypes": ["Compilation"],
+        "title": "100 Hits of the \u201970s", "type": "Album"}, {"artists": [{"id":
+        "9f870653-72b0-4c6d-8c59-439a95963e09", "name": "Cheap Trick"}], "id": "a7eddb16-87a7-4f18-8d05-e6ab3f1fc527",
+        "secondarytypes": ["Compilation"], "title": "Original Album Classics", "type":
+        "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name":
+        "Various Artists"}], "id": "118cf043-4907-45a7-929b-a181f8daf502", "secondarytypes":
+        ["Compilation"], "title": "Playlist: The Playlist Series Sampler, Volume 2",
+        "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "eadb2f25-9d86-3631-a25e-8cb51e029fcf",
+        "secondarytypes": ["Compilation"], "title": "Snapshots From Sony Music''s
+        Soundtrack for a Century, Volume 1", "type": "Album"}, {"artists": [{"id":
+        "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}], "id":
+        "ad48d81b-9934-3c12-850e-a0f191885986", "secondarytypes": ["Compilation"],
+        "title": "Jim Beam: 40 Shots of Rock", "type": "Album"}, {"artists": [{"id":
+        "9f870653-72b0-4c6d-8c59-439a95963e09", "name": "Cheap Trick"}], "id": "d409b9ae-14fb-396e-8f8f-91a678015162",
+        "secondarytypes": ["Compilation"], "title": "Surrender", "type": "Album"},
+        {"artists": [{"id": "9f870653-72b0-4c6d-8c59-439a95963e09", "name": "Cheap
+        Trick"}], "id": "eca60f44-618c-4b19-b875-a0bae9496264", "secondarytypes":
+        ["Compilation"], "title": "The Greatest Hits", "type": "Album"}, {"artists":
+        [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}],
+        "id": "6e48c014-df41-44c8-b76a-d86550f2d590", "secondarytypes": ["Compilation"],
+        "title": "Rock \u2019n Roll\u2019s Greatest Hits 70s", "type": "Album"}, {"artists":
+        [{"id": "9f870653-72b0-4c6d-8c59-439a95963e09", "name": "Cheap Trick"}], "id":
+        "fc5b31f6-f04f-3d8e-a087-aefe0c8114e0", "secondarytypes": ["Compilation"],
+        "title": "Authorized Greatest Hits", "type": "Album"}, {"artists": [{"id":
+        "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}], "id":
+        "16b5c9a5-9cbc-325e-97d6-5c0affa7b413", "secondarytypes": ["Compilation"],
+        "title": "Drivin\u2019 with Johnnie Walker", "type": "Album"}, {"artists":
+        [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}],
+        "id": "d995c92c-146a-3719-8dbf-6a55631d476b", "secondarytypes": ["Compilation"],
+        "title": "This Is Mullet Rock", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "75a54b38-a33d-450f-a59b-2d07bd0aa7dd",
+        "secondarytypes": ["Compilation"], "title": "Hard + Heavy", "type": "Album"},
+        {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various
+        Artists"}], "id": "49d38a1b-09a9-488d-9311-25f9900885f2", "secondarytypes":
+        ["Compilation"], "title": "Rock Classics: Rock the Night", "type": "Album"},
+        {"artists": [{"id": "9f870653-72b0-4c6d-8c59-439a95963e09", "name": "Cheap
+        Trick"}], "id": "3650d7c5-6954-44a9-832d-6f1ae707ba62", "secondarytypes":
+        ["Compilation"], "title": "The Complete Epic Albums Collection", "type": "Album"},
+        {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various
+        Artists"}], "id": "8496291f-3f2a-360b-8fe9-042fbfb4dd1a", "secondarytypes":
+        ["Compilation"], "title": "Rock Anthems", "type": "Album"}, {"artists": [{"id":
+        "9f870653-72b0-4c6d-8c59-439a95963e09", "name": "Cheap Trick"}], "id": "4f64d53e-2408-48c4-8a20-cee1dead0a59",
+        "secondarytypes": ["Compilation"], "title": "The Classic Albums 1977\u20131979",
+        "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "5dd26946-4f1c-3d07-ac92-b22fe417fd02",
+        "secondarytypes": ["Compilation"], "title": "Heavy 100", "type": "Album"},
+        {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various
+        Artists"}], "id": "2c85cd7e-d711-3bd2-956c-4b463642c96f", "secondarytypes":
+        ["Compilation"], "title": "Best of Rock: The Ultimate Collection", "type":
+        "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name":
+        "Various Artists"}], "id": "432e08b3-f8e0-401f-b2d6-3df734730128", "secondarytypes":
+        ["Compilation"], "title": "101 Sporting Anthems", "type": "Album"}, {"artists":
+        [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}],
+        "id": "3ed1b9c3-2196-3383-be4f-bb321a91662b", "secondarytypes": ["Compilation"],
+        "title": "Guitar Rock: 1978-1979", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "69b1681d-c30d-4fbb-bd24-bf5283e36e4a",
+        "secondarytypes": ["Compilation"], "title": "Reverb: 10 Essential Rock Tracks",
+        "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "567be4cd-58e8-3730-b08d-2988c33c5018",
+        "secondarytypes": ["Compilation"], "title": "Rock: The Train Kept A Rollin\u2019",
+        "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "591ee08d-4ad8-4445-a860-6deef34a5a7b",
+        "secondarytypes": ["Compilation"], "title": "Ultimate Rock", "type": "Album"},
+        {"artists": [{"id": "9f870653-72b0-4c6d-8c59-439a95963e09", "name": "Cheap
+        Trick"}], "id": "8e4576d6-7bcd-47f2-9e9c-1f705a260f37", "secondarytypes":
+        ["Compilation"], "title": "The 70s: Cheap Trick", "type": "Album"}, {"artists":
+        [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}],
+        "id": "6b6ebe67-4855-4d52-8403-9e00ad21612a", "secondarytypes": ["Compilation"],
+        "title": "100 Rock Hits", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "fd1223ee-20cf-44ef-a69f-efa5fcf837ba",
+        "secondarytypes": ["Compilation"], "title": "100 70''er Hits", "type": "Album"},
+        {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various
+        Artists"}], "id": "7e836750-3cd3-4c71-aa9e-b5143bc56a2b", "secondarytypes":
+        ["Soundtrack"], "title": "Guardians of the Galaxy: Awesome Mix, Vol. 2 (Original
+        Motion Picture Soundtrack)", "type": "Album"}, {"artists": [{"id": "9f870653-72b0-4c6d-8c59-439a95963e09",
+        "name": "Cheap Trick"}], "id": "8c8a0b87-ea9a-38d9-bb4e-06d565396166", "secondarytypes":
+        ["Compilation"], "title": "The Essential Cheap Trick", "type": "Album"}, {"artists":
+        [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}],
+        "id": "725eb4ab-fd7f-3a1a-9011-3d529281df77", "secondarytypes": ["Compilation"],
+        "title": "Greatest Hits of the Seventies", "type": "Album"}, {"artists": [{"id":
+        "9f870653-72b0-4c6d-8c59-439a95963e09", "name": "Cheap Trick"}], "id": "327426c0-f0a0-440b-b444-73e8754b27e0",
+        "secondarytypes": ["Compilation"], "title": "Super Hits", "type": "Album"},
+        {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various
+        Artists"}], "id": "aa4a9e8d-d534-39fc-a684-4c8fb36e0201", "secondarytypes":
+        ["Compilation"], "title": "Now That''s What I Call Classic Rock", "type":
+        "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name":
+        "Various Artists"}], "id": "33d01b38-3952-4206-8ab1-029487f75baf", "secondarytypes":
+        ["Compilation"], "title": "Raised on Rock", "type": "Album"}, {"artists":
+        [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}],
+        "id": "3aa78981-ebf1-4fe6-85ec-88e0c82142a0", "secondarytypes": ["Compilation"],
+        "title": "\u201970s Greatest Hits", "type": "Album"}, {"artists": [{"id":
+        "9f870653-72b0-4c6d-8c59-439a95963e09", "name": "Cheap Trick"}], "id": "0a345d60-a10a-3c74-a02b-ab30412e4947",
+        "secondarytypes": ["Live"], "title": "Music for Hangovers", "type": "Album"},
+        {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various
+        Artists"}], "id": "82e78bd8-aebf-4de0-9bb4-82761411fb43", "secondarytypes":
+        ["Compilation"], "title": "The A to Z of Rock", "type": "Album"}, {"artists":
+        [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}],
+        "id": "d863625d-31a6-4873-b466-4f4a8ece4a77", "secondarytypes": ["Compilation"],
+        "title": "Pure\u2026 70s", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "deaa33df-fb29-45fa-8122-c0918cdd38c2",
+        "secondarytypes": ["Compilation"], "title": "Ultimate Guitar Legends", "type":
+        "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name":
+        "Various Artists"}], "id": "2a1bc8ca-9a31-424a-a347-6d688d97cd5a", "secondarytypes":
+        ["Compilation"], "title": "Rock \u2019n Roll\u2019s Greatest Hits: 70s, Volume
+        2", "type": "Album"}, {"artists": [{"id": "9f870653-72b0-4c6d-8c59-439a95963e09",
+        "name": "Cheap Trick"}], "id": "3c63c35c-ad47-4089-b776-b285b1b16dc5", "secondarytypes":
+        ["Compilation"], "title": "Playlist: The Very Best of Cheap Trick", "type":
+        "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name":
+        "Various Artists"}], "id": "005bd60d-67b5-344c-b32c-160eeba1863a", "secondarytypes":
+        ["Soundtrack"], "title": "Scrubs: Season 1", "type": "Album"}, {"id": "658aac14-be39-3c8f-baea-0f08fe3f05f5",
+        "secondarytypes": ["Compilation"], "title": "You Can Have Sex in America With
+        Cheap Trick on August 13th, 1996", "type": "Album"}], "title": "Surrender"},
+        {"artists": [{"id": "9f870653-72b0-4c6d-8c59-439a95963e09", "name": "Cheap
+        Trick"}], "duration": 248, "id": "bc7aaecb-bb78-432b-a96c-ee6132ad5b09", "releasegroups":
+        [{"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various
+        Artists"}], "id": "c0afec4a-2168-4e2e-92a3-b05d5b0919fd", "secondarytypes":
+        ["Soundtrack"], "title": "Over The Edge (Original Sound Track)", "type": "Album"}],
+        "title": "Surrender"}], "score": 0.94462}, {"id": "8fe30a03-8d9a-4751-a320-290593f6e133",
+        "recordings": [{"artists": [{"id": "9f870653-72b0-4c6d-8c59-439a95963e09",
+        "name": "Cheap Trick"}], "duration": 254, "id": "9f736312-90b7-4191-9552-05033eda711a",
+        "releasegroups": [{"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "a199887c-9e99-3262-adae-777743052cfa",
+        "secondarytypes": ["Compilation"], "title": "Mullets Rock!", "type": "Album"},
+        {"artists": [{"id": "9f870653-72b0-4c6d-8c59-439a95963e09", "name": "Cheap
+        Trick"}], "id": "8c3beb09-688e-3adf-8d85-8733d898c35c", "secondarytypes":
+        ["Compilation"], "title": "Don\u2019t Be Cruel", "type": "Album"}, {"artists":
+        [{"id": "9f870653-72b0-4c6d-8c59-439a95963e09", "name": "Cheap Trick"}], "id":
+        "fa4b314b-7881-3319-8c47-a6ffd5f88771", "title": "Heaven Tonight", "type":
+        "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name":
+        "Various Artists"}], "id": "2b783887-e642-4192-84bb-bd1362982284", "secondarytypes":
+        ["Compilation"], "title": "Pure\u2026 Fitness", "type": "Album"}, {"artists":
+        [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}],
+        "id": "89669f15-ad51-39f0-aa0d-aed164cff965", "secondarytypes": ["Compilation"],
+        "title": "Legends: Ultimate Rock Collection: Rock On", "type": "Album"}, {"artists":
+        [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}],
+        "id": "f8d5bd7f-ecef-30f9-b087-ce0669f53cb5", "secondarytypes": ["Compilation"],
+        "title": "70''s Rock Party", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "94d4fd62-767c-3043-8f2b-55a55785992c",
+        "secondarytypes": ["Compilation"], "title": "Triple M Unleashed Again", "type":
+        "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name":
+        "Various Artists"}], "id": "94905758-c56a-4d63-8e4c-170000a317d8", "secondarytypes":
+        ["Compilation"], "title": "Jim Beam Authentic Rock: 50 Pub Jukebox Anthems",
+        "type": "Album"}, {"artists": [{"id": "9f870653-72b0-4c6d-8c59-439a95963e09",
+        "name": "Cheap Trick"}], "id": "80cef13f-6f15-3e19-8fb4-5db3c03ed324", "secondarytypes":
+        ["Compilation"], "title": "Collection", "type": "Album"}, {"artists": [{"id":
+        "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}], "id":
+        "6ef7591c-79ca-4a51-a163-9bfd6c3921d7", "secondarytypes": ["Compilation"],
+        "title": "The Essential Dock Rock", "type": "Album"}, {"artists": [{"id":
+        "9f870653-72b0-4c6d-8c59-439a95963e09", "name": "Cheap Trick"}], "id": "bdbcb225-1f7a-44ec-ab4b-9c3752db1361",
+        "title": "Super Hits", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "60b89cbc-7921-35e9-a228-aa58347c3b3b",
+        "secondarytypes": ["Compilation"], "title": "Classic Rock: 1975-1979", "type":
+        "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name":
+        "Various Artists"}], "id": "20824aa9-74d1-4f90-8eb4-6bf0f82b185f", "secondarytypes":
+        ["Compilation"], "title": "The 70\u2019s Rock\u2019n\u2019Roll: 36 All-Time
+        Favorites", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "27f298f1-1b27-4937-b893-53307955a6ab",
+        "secondarytypes": ["Compilation"], "title": "Die 70s Edition", "type": "Album"},
+        {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various
+        Artists"}], "id": "bac3f46a-c96d-3543-9c8c-6a90b1fff330", "secondarytypes":
+        ["Compilation"], "title": "Classic Axe", "type": "Album"}, {"artists": [{"id":
+        "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}], "id":
+        "da330fda-c2d0-40c4-b059-310a7f485fff", "secondarytypes": ["Compilation"],
+        "title": "Totally 70s", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "a6b6f9f2-487f-3ca6-a00f-c29286da238f",
+        "secondarytypes": ["Compilation"], "title": "Rock Line 2", "type": "Album"},
+        {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various
+        Artists"}], "id": "37f6f5dd-329c-3598-9d59-e2d7e9188d9f", "secondarytypes":
+        ["Compilation"], "title": "World\u2019s Best Dad: 60 Ultimate Rock Classics",
+        "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "c36fda8c-33c9-3b80-bcee-678b4226a8de",
+        "secondarytypes": ["Compilation"], "title": "70''s Rock ''n'' Roll", "type":
+        "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name":
+        "Various Artists"}], "id": "35129a00-b3c7-4b48-a973-6cf3117de996", "secondarytypes":
+        ["Compilation"], "title": "Pure... Rock", "type": "Album"}, {"artists": [{"id":
+        "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}], "id":
+        "c4414164-615a-30b0-bdb0-f165c47ef033", "secondarytypes": ["Compilation"],
+        "title": "Seventies Top 100", "type": "Album"}, {"artists": [{"id": "9f870653-72b0-4c6d-8c59-439a95963e09",
+        "name": "Cheap Trick"}], "id": "17cb2cac-8be1-3f33-b66a-31e979491ac1", "secondarytypes":
+        ["Compilation"], "title": "The Hits of Cheap Trick", "type": "Album"}, {"artists":
+        [{"id": "9f870653-72b0-4c6d-8c59-439a95963e09", "name": "Cheap Trick"}], "id":
+        "2002b1cd-9748-37d3-a778-a6a87d2c4374", "secondarytypes": ["Compilation"],
+        "title": "Sex, America, Cheap Trick", "type": "Album"}, {"artists": [{"id":
+        "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}], "id":
+        "30359875-b64d-491f-b884-7d9f99996106", "secondarytypes": ["Compilation"],
+        "title": "Legends of Rock", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "fbf7b2d4-44f7-4699-a88c-b5808c02563d",
+        "secondarytypes": ["Compilation"], "title": "Made in America", "type": "Album"},
+        {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various
+        Artists"}], "id": "15da4a18-ffcf-4dec-8521-5fee650ccbe1", "secondarytypes":
+        ["Compilation"], "title": "101 Rock Hits", "type": "Album"}, {"artists": [{"id":
+        "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}], "id":
+        "44379afd-4937-4fa8-b947-4f121c5abebe", "secondarytypes": ["Compilation"],
+        "title": "Pure\u2026 Guitar Heroes", "type": "Album"}, {"artists": [{"id":
+        "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}], "id":
+        "2470eb38-c5a5-40b9-b480-ed99391cc188", "secondarytypes": ["Compilation"],
+        "title": "Simply the Best New Wave", "type": "Album"}, {"artists": [{"id":
+        "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}], "id":
+        "42b03c15-cd2e-403d-95a5-b7ff397ddec0", "secondarytypes": ["Compilation"],
+        "title": "100 Hits of the \u201970s", "type": "Album"}, {"artists": [{"id":
+        "9f870653-72b0-4c6d-8c59-439a95963e09", "name": "Cheap Trick"}], "id": "a7eddb16-87a7-4f18-8d05-e6ab3f1fc527",
+        "secondarytypes": ["Compilation"], "title": "Original Album Classics", "type":
+        "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name":
+        "Various Artists"}], "id": "118cf043-4907-45a7-929b-a181f8daf502", "secondarytypes":
+        ["Compilation"], "title": "Playlist: The Playlist Series Sampler, Volume 2",
+        "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "eadb2f25-9d86-3631-a25e-8cb51e029fcf",
+        "secondarytypes": ["Compilation"], "title": "Snapshots From Sony Music''s
+        Soundtrack for a Century, Volume 1", "type": "Album"}, {"artists": [{"id":
+        "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}], "id":
+        "ad48d81b-9934-3c12-850e-a0f191885986", "secondarytypes": ["Compilation"],
+        "title": "Jim Beam: 40 Shots of Rock", "type": "Album"}, {"artists": [{"id":
+        "9f870653-72b0-4c6d-8c59-439a95963e09", "name": "Cheap Trick"}], "id": "d409b9ae-14fb-396e-8f8f-91a678015162",
+        "secondarytypes": ["Compilation"], "title": "Surrender", "type": "Album"},
+        {"artists": [{"id": "9f870653-72b0-4c6d-8c59-439a95963e09", "name": "Cheap
+        Trick"}], "id": "eca60f44-618c-4b19-b875-a0bae9496264", "secondarytypes":
+        ["Compilation"], "title": "The Greatest Hits", "type": "Album"}, {"artists":
+        [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}],
+        "id": "6e48c014-df41-44c8-b76a-d86550f2d590", "secondarytypes": ["Compilation"],
+        "title": "Rock \u2019n Roll\u2019s Greatest Hits 70s", "type": "Album"}, {"artists":
+        [{"id": "9f870653-72b0-4c6d-8c59-439a95963e09", "name": "Cheap Trick"}], "id":
+        "fc5b31f6-f04f-3d8e-a087-aefe0c8114e0", "secondarytypes": ["Compilation"],
+        "title": "Authorized Greatest Hits", "type": "Album"}, {"artists": [{"id":
+        "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}], "id":
+        "16b5c9a5-9cbc-325e-97d6-5c0affa7b413", "secondarytypes": ["Compilation"],
+        "title": "Drivin\u2019 with Johnnie Walker", "type": "Album"}, {"artists":
+        [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}],
+        "id": "d995c92c-146a-3719-8dbf-6a55631d476b", "secondarytypes": ["Compilation"],
+        "title": "This Is Mullet Rock", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "75a54b38-a33d-450f-a59b-2d07bd0aa7dd",
+        "secondarytypes": ["Compilation"], "title": "Hard + Heavy", "type": "Album"},
+        {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various
+        Artists"}], "id": "49d38a1b-09a9-488d-9311-25f9900885f2", "secondarytypes":
+        ["Compilation"], "title": "Rock Classics: Rock the Night", "type": "Album"},
+        {"artists": [{"id": "9f870653-72b0-4c6d-8c59-439a95963e09", "name": "Cheap
+        Trick"}], "id": "3650d7c5-6954-44a9-832d-6f1ae707ba62", "secondarytypes":
+        ["Compilation"], "title": "The Complete Epic Albums Collection", "type": "Album"},
+        {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various
+        Artists"}], "id": "8496291f-3f2a-360b-8fe9-042fbfb4dd1a", "secondarytypes":
+        ["Compilation"], "title": "Rock Anthems", "type": "Album"}, {"artists": [{"id":
+        "9f870653-72b0-4c6d-8c59-439a95963e09", "name": "Cheap Trick"}], "id": "4f64d53e-2408-48c4-8a20-cee1dead0a59",
+        "secondarytypes": ["Compilation"], "title": "The Classic Albums 1977\u20131979",
+        "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "5dd26946-4f1c-3d07-ac92-b22fe417fd02",
+        "secondarytypes": ["Compilation"], "title": "Heavy 100", "type": "Album"},
+        {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various
+        Artists"}], "id": "2c85cd7e-d711-3bd2-956c-4b463642c96f", "secondarytypes":
+        ["Compilation"], "title": "Best of Rock: The Ultimate Collection", "type":
+        "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name":
+        "Various Artists"}], "id": "432e08b3-f8e0-401f-b2d6-3df734730128", "secondarytypes":
+        ["Compilation"], "title": "101 Sporting Anthems", "type": "Album"}, {"artists":
+        [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}],
+        "id": "3ed1b9c3-2196-3383-be4f-bb321a91662b", "secondarytypes": ["Compilation"],
+        "title": "Guitar Rock: 1978-1979", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "69b1681d-c30d-4fbb-bd24-bf5283e36e4a",
+        "secondarytypes": ["Compilation"], "title": "Reverb: 10 Essential Rock Tracks",
+        "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "567be4cd-58e8-3730-b08d-2988c33c5018",
+        "secondarytypes": ["Compilation"], "title": "Rock: The Train Kept A Rollin\u2019",
+        "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "591ee08d-4ad8-4445-a860-6deef34a5a7b",
+        "secondarytypes": ["Compilation"], "title": "Ultimate Rock", "type": "Album"},
+        {"artists": [{"id": "9f870653-72b0-4c6d-8c59-439a95963e09", "name": "Cheap
+        Trick"}], "id": "8e4576d6-7bcd-47f2-9e9c-1f705a260f37", "secondarytypes":
+        ["Compilation"], "title": "The 70s: Cheap Trick", "type": "Album"}, {"artists":
+        [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}],
+        "id": "6b6ebe67-4855-4d52-8403-9e00ad21612a", "secondarytypes": ["Compilation"],
+        "title": "100 Rock Hits", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "fd1223ee-20cf-44ef-a69f-efa5fcf837ba",
+        "secondarytypes": ["Compilation"], "title": "100 70''er Hits", "type": "Album"},
+        {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various
+        Artists"}], "id": "7e836750-3cd3-4c71-aa9e-b5143bc56a2b", "secondarytypes":
+        ["Soundtrack"], "title": "Guardians of the Galaxy: Awesome Mix, Vol. 2 (Original
+        Motion Picture Soundtrack)", "type": "Album"}, {"artists": [{"id": "9f870653-72b0-4c6d-8c59-439a95963e09",
+        "name": "Cheap Trick"}], "id": "8c8a0b87-ea9a-38d9-bb4e-06d565396166", "secondarytypes":
+        ["Compilation"], "title": "The Essential Cheap Trick", "type": "Album"}, {"artists":
+        [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}],
+        "id": "725eb4ab-fd7f-3a1a-9011-3d529281df77", "secondarytypes": ["Compilation"],
+        "title": "Greatest Hits of the Seventies", "type": "Album"}, {"artists": [{"id":
+        "9f870653-72b0-4c6d-8c59-439a95963e09", "name": "Cheap Trick"}], "id": "327426c0-f0a0-440b-b444-73e8754b27e0",
+        "secondarytypes": ["Compilation"], "title": "Super Hits", "type": "Album"},
+        {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various
+        Artists"}], "id": "aa4a9e8d-d534-39fc-a684-4c8fb36e0201", "secondarytypes":
+        ["Compilation"], "title": "Now That''s What I Call Classic Rock", "type":
+        "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name":
+        "Various Artists"}], "id": "33d01b38-3952-4206-8ab1-029487f75baf", "secondarytypes":
+        ["Compilation"], "title": "Raised on Rock", "type": "Album"}, {"artists":
+        [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}],
+        "id": "3aa78981-ebf1-4fe6-85ec-88e0c82142a0", "secondarytypes": ["Compilation"],
+        "title": "\u201970s Greatest Hits", "type": "Album"}, {"artists": [{"id":
+        "9f870653-72b0-4c6d-8c59-439a95963e09", "name": "Cheap Trick"}], "id": "0a345d60-a10a-3c74-a02b-ab30412e4947",
+        "secondarytypes": ["Live"], "title": "Music for Hangovers", "type": "Album"},
+        {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various
+        Artists"}], "id": "82e78bd8-aebf-4de0-9bb4-82761411fb43", "secondarytypes":
+        ["Compilation"], "title": "The A to Z of Rock", "type": "Album"}, {"artists":
+        [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}],
+        "id": "d863625d-31a6-4873-b466-4f4a8ece4a77", "secondarytypes": ["Compilation"],
+        "title": "Pure\u2026 70s", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "deaa33df-fb29-45fa-8122-c0918cdd38c2",
+        "secondarytypes": ["Compilation"], "title": "Ultimate Guitar Legends", "type":
+        "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name":
+        "Various Artists"}], "id": "2a1bc8ca-9a31-424a-a347-6d688d97cd5a", "secondarytypes":
+        ["Compilation"], "title": "Rock \u2019n Roll\u2019s Greatest Hits: 70s, Volume
+        2", "type": "Album"}, {"artists": [{"id": "9f870653-72b0-4c6d-8c59-439a95963e09",
+        "name": "Cheap Trick"}], "id": "3c63c35c-ad47-4089-b776-b285b1b16dc5", "secondarytypes":
+        ["Compilation"], "title": "Playlist: The Very Best of Cheap Trick", "type":
+        "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name":
+        "Various Artists"}], "id": "005bd60d-67b5-344c-b32c-160eeba1863a", "secondarytypes":
+        ["Soundtrack"], "title": "Scrubs: Season 1", "type": "Album"}, {"id": "658aac14-be39-3c8f-baea-0f08fe3f05f5",
+        "secondarytypes": ["Compilation"], "title": "You Can Have Sex in America With
+        Cheap Trick on August 13th, 1996", "type": "Album"}], "title": "Surrender"}],
+        "score": 0.934995}], "status": "ok"}'
+    http_version:
+  recorded_at: Tue, 29 Jun 2021 13:48:26 GMT
+recorded_with: VCR 3.0.3

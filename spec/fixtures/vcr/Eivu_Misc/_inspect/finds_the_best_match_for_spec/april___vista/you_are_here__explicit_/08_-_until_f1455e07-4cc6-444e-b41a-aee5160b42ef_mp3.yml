@@ -1,0 +1,51 @@
+---
+http_interactions:
+- request:
+    method: get
+    uri: https://api.acoustid.org/v2/lookup?client=<ACOUSTID_CLIENT_ID>&duration=98&fingerprint=AQADAlyUVpqC5moQHnqF_LiOUjvSDzchI31yeFE-lCK-I9lzhDl-PDnuB41zBv2RB7qGPNJx68gfiOWF_PjxHK_RnFZQK8d9nDGuHY82LiHm7Gj6gLmEPenRXOjxIyx8Ez_EjhYuwxPkw8c_mPFR7vjRfKnQC0-kI-Qv4oc3H2Ue_EcPnxpq9GgQH-eg-GAu7MrR4Ud4xD_0IDeuHXA-4bdRcROOKlM-NDlCJMv54biy40cfJxmaJUpEBpWe6GiU488lPEk2DXe-4hfCvEey6_jw_fjxf_gy5the7DkufdB_ND-e6BKuJE-FCk8exMqNN0earplw4eIGmHg-4nvwb0Lif8iFw1OOZ1maYDyoHvsPVzyO5FeRJz5uPEbOIezhZ04M93hyPG_gHNAPT9LRJzP6B29h9cMnmDk8Fsl-5MeT5EF0BVIvRE0enHh0hOmR7C_OxfiPdVEeMFmvGP2xM2iOGpeiH09yBcdz5Do0fQgjJ8efRtivBVkzQ7HQ50LTLT3OB2GSS0Jz5fgyPPSCh0czHT0pHT--IBf0Io94Yo7Ahz78HftxotJVtHvw41F-eMe_AEmUHqGTnMGeRyoaJWYU9BkOn9Fx5vjw8MOfZDiD_-jhHFU-nAmeHMmvIP_Qzx7u4Dn8oxeSXkeuK3iimEEzpYaFY8d3ZIkn7LqMv8e3B02PPkavQsuLnUfYFUykG0cz9MSPximmTSfyHP_xcII7PEeuJUfzSKh0HM1Rq9iP8-CPZnwwdVkc_MOlDc2URDGStUeO7TuuBM8PJj96C1cW4QxUZYSTSCee5CneY1-a40KVCWKG_tjz4EwVnGoIPh45_A_-YIyRxjySp2ESnM_Q7MO-BdQe1Puwh0dyBmH2HNUeoZGmK0Gt5Am-oB_-Icz-QOdxHbF_uCMuPcPVL8Ev_KgLp_vQbfOCPE8T6PURE2Fy9FsYQc1zHTl-HbUYJmhOJD_yoLoxWSnOSAQ5a9hz_FlxMfEChxzO48uRrCPSLygma8entPiHp0R6JM92lAvzgMdj2CH4HXezHNYQUcuZQY8S7M1x5GlW3Bd-wTuSnMmFnBkJ9_hxnvBxJdKOKxMaB6EVHVcOfTL8CP-RT5NlOGqOo7kRfujR2Lg6QVOiHc0fIXnxJId7XAueoJl9VHuFH-GmD3oE_DCPHj8mRzukpAd2fMelw8d5FTn6Bc1x4D6Op6i3YztxIg_EGuFzMOcVOMeLNMdx_IHYDzoO8YCuHn_g57h2pD9--Ec2H32ISdnh4T8eHs2JKx-uE3-hPirCX_CLMxfew8dDDz6DMseLylp8NF-IZGsWIcwsjXge4vCLpzh-dPPh43jhKsdzXBJsEecKr_gGj6jH40FFSs2RJqWRPPBRUtif4YG_4_fwR3iywfEDHvF2HHoaaKnBHEe-PKjTo5mGB-GNBz8mi8H0onmOmMVzdA-YnMF3NPmRO2j44MeOyxJ-fIdyFJmyHTuDfg8-HN9x_MZTXMfroRbhPUH_4_jhB7GDb0SjW6gcEzdyH03MoD-OcAdE_ciDH4-OWuh7mHGKkkdfpJdy6AryUIXX6MF3_If7wk9QPNKF8seFh8dfPLCL3oiPB63gXsh5XBcPT8dTHD4e_GhE7TgfBVcl4umR_MgvYW2OnrgegnJ9fOiXYD8e4z9yb0h-eDt-NFWO0woa3cih3kVOpngWHR4vHE0u9FkQxtmh7cil4owq1PBe7A9y3ShB3qhxH6499OguRAr-DOcUXELwDwrKDzlugOqP4xj540twH9UjHE-UaEdSzcgnHneC5hJ6Bf0NL0mSw5PYC70QMSWhEOl6PDqeo12Wo9mP0cRTpmiqxGAcNsFbZKElCrW04s444aLRJCNRMkN0HqUOUzrOTfjhx4KfoIrijDhTJGeOnPBD_MI1bULj6EKzRLiY4ekR5jm0B7lyIY-yWOjR8A_eY6S048vR5E8SqD-eXOinClfGCX8ELUyDKj4qHnkzXMnx5biRxgmO-0JaV0V1tIe_MMN_cDrhs0PPITmHsEKPH3fY4JyxvTxybXiaE_rRZ44AIohwQhqgACJMEKEIEwwBYQREghAAidCGCMIYQFAoBoRDShhCiBNUGKGIE0gKYQQRQEBgASBAKI0cQAJBA6hAxCChlLLAOAQVMoIgYAAARCFEEDBPAMMEAUgYQ5kQgDGABAKAEAElQwYRIIRxCBFjCRIAAiAgAIICxRgwUgpJCGGSAOWMQsJgwJBxDiACnCBKGBEQAEw04xwjwCAClGCAAIIUsUgAoSFDQBAglDHCKSaBEgIAAYwQBghABWFAamaIAgAhJZhCBCEJqABICeIiskIQAwxxigIhgCtIK2UgAUIxA4TTjCDADCHEIQKEAEgBYQxzQhkEEICAGYQQMEAw4QgyCgggAAJICEEIEEIIhKQRQgCAFFRGAKAsAAAoRQDAwhvhACNAKKAEUshQIATAFBgghACOGCQwkgYIpRQSEAEAoBPAAAGMJeIABAhCVFknjAGGgCGZU4IrRIzBgImCHFAiCMGkQAIgAbB1CiimFEAAKMYYcUoBLBgzgiGAGJAGAQQAEQgSphABwCgQBGeYKMUUoQAZoQBABFHhiEHKMKNAEZwB4RgjAiDBjADIGICAMt4Z6IwRiAgSA3NImEeIIESQShAzzBCCJBGAAukEAIwAQAwwjAgBAAOCgIWMcAqIxoAAwiL5XAICCUcMYkoYQYBA0iiImBCCIQoRA6YII4gSghBhBFHCGQUMJAIYSKRUxjAWgICEgAKAAhAjogCzBiDFBAAOGAOsQRIKCQBQCAokAJCICYGIBoAQIQgABAAhkDIEIWSMoRYIyYUgwAACBHFAACIAEEwA&meta=recordings%20releasegroups%20compress
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      Accept:
+      - "*/*"
+      User-Agent:
+      - rest-client/2.1.0 (darwin20.3.0 x86_64) ruby/2.7.1p83
+      Accept-Encoding:
+      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+      Host:
+      - api.acoustid.org
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Date:
+      - Tue, 29 Jun 2021 13:41:55 GMT
+      Content-Type:
+      - application/json; charset=UTF-8
+      Transfer-Encoding:
+      - chunked
+      Connection:
+      - keep-alive
+      Vary:
+      - Accept-Encoding
+      Access-Control-Allow-Origin:
+      - "*"
+      X-Envoy-Upstream-Service-Time:
+      - '103'
+      X-Envoy-Decorator-Operation:
+      - acoustid-server-api.acoustid.svc.cluster.local:3031/*
+      Strict-Transport-Security:
+      - max-age=15724800; includeSubDomains
+    body:
+      encoding: ASCII-8BIT
+      string: '{"results": [{"id": "3bdd035b-d276-44cc-8457-a26b36327377", "recordings":
+        [{"artists": [{"id": "2a5d430f-cb26-422a-a150-41dc4af15bf9", "name": "April
+        + Vista"}], "duration": 98, "id": "acd0267c-f35f-45ff-9df0-b299079ff95d",
+        "releasegroups": [{"id": "d4669101-ccf6-422b-92b0-a67ae936381a", "title":
+        "You Are Here", "type": "Album"}], "title": "Until"}], "score": 0.998214}],
+        "status": "ok"}'
+    http_version:
+  recorded_at: Tue, 29 Jun 2021 13:41:55 GMT
+recorded_with: VCR 3.0.3

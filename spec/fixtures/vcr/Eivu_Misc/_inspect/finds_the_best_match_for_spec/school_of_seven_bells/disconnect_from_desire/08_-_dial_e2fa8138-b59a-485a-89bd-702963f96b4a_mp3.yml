@@ -1,0 +1,49 @@
+---
+http_interactions:
+- request:
+    method: get
+    uri: https://api.acoustid.org/v2/lookup?client=<ACOUSTID_CLIENT_ID>&duration=294&fingerprint=AQADtEkWRs2SBf3RPMepoIejQrlg3Mfhvvh4yD-c43CNcg12_AWNesZ_7MePq8KOG1RwC8cx8scH66j-4flx9IcYjgZ--IN_1Gke_LgxJU_QT-Dx4-hr7DnE_EFf_AgPH_txEql0FD1unDp09DveE22FQ8vWpLgP_mhq4YdzTNrRH59h6ThGWg3sBvV0HM0PpiS-BD9ONDrRH-dBNFQD7cPzo89xgSePQz8eNHts3EeOH2G2BszRK_DhQ9tx9cEf_KjRPDh3SEf1oOOLH6ENH2185D2u5egh__DBSOLxH_8FfUeTozvKKtjywTy0B5eJHzWPH2Li4eJhfGjqYC-OH8zx6qiP7-hxgyOOH_bx5ejxH9UP_6jHoxB9ozcqjsFx9Me1HA_IoXlQfQFqTID6DPUDf6iPHo2Foz2aHxeO5tA-3Efz43imB1Ms4ofQJ_DB_PiOQ8uPHj-L-uB63AfED-2PmNtxHbXhI5wnA_-gNcaPZ8cD8ceFl8JxHyaJUh6D-8jRPOh1lDJSU8bRHJ9x6cF5oGfQVNlw4-rxUkcP90E_QXvg49xx5BeqHq0oI8wP1FsE8cOP8UPoAXlVNA96fNDyqLgE19BKCT0aHt9xPEdoFfbxDSeK4-rx9DjCD37QU8V5yPgRt2iqHu3x47iWoMfpw1wRHg_QQ3uPN0c-HE0dF92FXIdOHz_CHC3xAiGpoc_xHD90OWi4HA_x1chz1D-O33gQZqLUoA_0GOFzNA6PT9GDo0dKog_0I0f3w5_wET6e4vCJ47hw_IePHnmEQzyDC8HRPfjx4ce9IOUIzQpyGn0d4BUs9EetHj56zUOOvmiqKbiHb4eWo29wZTiah6ie4zzC3Agf9PDxQ96J9OiPH_2EtBBS1-iLPmh6_DjC_NC8He-Rh4Jv3MPxWqjh8_Bz9McJVwyeI_CZ4wN6onkInUBzHt-R_ij6A_3wo7COv_AP87aQ90huNG4c_MAV5XhwHicR9g3E_Uh_uENf5OgPXYj05vhw9IKfHWeOG81x4tHRTM7RC0fTH-GF4TV6uEVxBT189EeP44fRRzm0H2HeOPiOBv3w4w-OHk2NXIL2w6cRejt6CrB-5Dp-6KkR84Qf9Dne0DjCjkMyvcIeO3h-nAEuBbmgXUdIXcMzomo4BkleBH5GlMSDn_iPL0guHvnRozmPL9GDP8GTIt8gHtFv5Hrw4ZSCP-j3oezxFxyVGf1B5eiPhzh-TFbQHP3QmHgjyAreDd1eIe4j_EiP8MiZHA9z6EctNDp-Dy8al0S9oDlRMjF-oX3w5rh2KPJDNPJQrjnO5Ph0HFqjwD7yHGeKP3i0I4f2I7rwHD-FOh_8sLh2hIeuHbGk4Qr-DA1HozqeHH9w8XiCZz125cGVDpGir9BE4Utw5Df-BleOnEflEVquBw_mF3mSg0ktIg-PWkrw4cKfEicfPA-aHnngj7AjMPzwENEf9JLgGjoP0WhvlEsPVyF64g2OnkgHh0ff41OC63iFfh5xG3mhJ0MoNGqLynrwpPiP5ymiG7oehJ_R4NNxJjouSQiZfUNZujjkRTP6HofPo8yCyBfyBK4SHb9C6ItgxkJe_Hh0NFujKTiP__iHiT0e6UQ-Irkk9Ie_JvCVbbj44WimIQ_0NAma7KLQHf2Ph4ceQh2J_jh2XGgu4zcsfai0oFYiaDkT5BFwMseXUsETXcR7olaE9NBsIe9xMhoeoSGqhFJw8-inYEpJAZGyC32iGA8r_GjQ9niy4ypcvBOqRjoURcqGWzJ8HT-uH9oN93iUJCcuonQb_Mbd4GGM5kf15SjJ4-hOfJnxo4e7wz807fjB_Ghu4WgDLcdxhQVzmDeYv3iOo9GHHs8uHN1XNPLxtfjRRxea4xx-9IQWaYX8C0dfND3-40Z_uEJrHc9xeBOOf0X_I_3Rrjvu4xTRnEd4DXoax8hL9HA-tSiZHZHCJUfJPdCPnMGZDVP4CyH14D706Skupir4o_nRB8p5VJQON0PLET2J5sd77Ds-8CEaKerR67hRmWiMb8fRSwnMHR1-4XPgZ_jwQjsoNUd7_NBDNEevGiePHj5a4cfRF82JB5eNFk0lHa--gfxRHc1K0N2hK4fmCc1xEtnVFneiJ3iTgkmzo_KRL0yg5wZL4lJ-VE81NOqJe6ik4wefGZcOPQ0abQfeBDcq6sWN6Tu6Y6OOEn3g1-i6jOhSmBJKicEX9BeYPAChEBKMGeEIUERQwhADABEnqIEIWQUAFYYYIAxgwggkAGKCEKAoIgACA4xhVliECREIIkAQGQoZQpBjgEInMBIAEUcVQYYIIQgCwxDBnBCIRKOIEsYAYB1ERgErIFECEUK0AEIYAYgAxhgOBFIGImAJIVwiQgCCwillEBAAKCEIgIgIwAQiSAlxgGUCYA0RUVQRpBiwRgiiEFAImSSIEMAhgIQQRimILBDMEgQCIEIokYxCShgEnABGCAAYUdgABIxDQlABkFIOKS0cYVII4RwCiJBhCCPIAeAMRQAQzaAAiCBEkEIAASAQcYYZYBRREgDKDBVGASIEtUowUQBAQjGhkHRGCKwIBY5KBJ1hQglECFCAAAEAEogCAhhRglkLhCBESAgwcAgsIYRBSoAlBAIEMaaAcAIgQJBRgiiDHHdICSAQFFAJiSgRjiABjBUEIMQsYExQxZwShAKEHVMAE8MhckIpARwgCFBgLhMMAECIA04ZJ4ZhFAGAGEFKMUMgMMgJgBRhlBEhDBAAGQCAMY4QYARRSlAkJKPCIkMIQMgpJYwxhhEEiEEKAEcMAIgYxBBhDEEkHCKGCiQUEIojQKAATAmABDXCAEgIEsIIwgwigjmhlFHEAAIYUkgAgwQTAAAhzMaGGAUtwQgIRwgg0BBDCDAKGCSUBcqBAAgQxBkEnDAAAGWMAMoQQYxSEAAEgGFGMeZFAhIARYABAACCBAFBCCckUkIBZJEhghkgDAMEIOSoEgQgA5kBCFsAoKBCKK2UUwIQR5ARx1igDEdCKKOUIMABYAARCgiFiDACKCEUQQAIBoSQwgnAgCJKKGAAQgwQJQwjSCABAUJCEIEAMoEhJoBRWAlnDBLGYE0B5UIZQgQwRgElGAEAAcoAYAAIAJZSBChoARFIAKsEYMQg&meta=recordings%20releasegroups%20compress
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      Accept:
+      - "*/*"
+      User-Agent:
+      - rest-client/2.1.0 (darwin20.3.0 x86_64) ruby/2.7.1p83
+      Accept-Encoding:
+      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+      Host:
+      - api.acoustid.org
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Date:
+      - Tue, 29 Jun 2021 13:47:01 GMT
+      Content-Type:
+      - application/json; charset=UTF-8
+      Transfer-Encoding:
+      - chunked
+      Connection:
+      - keep-alive
+      Vary:
+      - Accept-Encoding
+      Access-Control-Allow-Origin:
+      - "*"
+      X-Envoy-Upstream-Service-Time:
+      - '51'
+      Strict-Transport-Security:
+      - max-age=15724800; includeSubDomains
+    body:
+      encoding: ASCII-8BIT
+      string: '{"results": [{"id": "3b85cdb1-ec3f-444a-9be7-ef457aa39374", "recordings":
+        [{"artists": [{"id": "57843aed-c1c1-4f45-9859-478dd999bc18", "name": "School
+        of Seven Bells"}], "duration": 294, "id": "ef903cf4-b0fc-4db3-b685-b64e5785206e",
+        "releasegroups": [{"id": "8a2d9685-b7df-4aa7-9e07-39b7efe63ea2", "title":
+        "Disconnect From Desire", "type": "Album"}], "title": "Dial"}], "score": 0.965663}],
+        "status": "ok"}'
+    http_version:
+  recorded_at: Tue, 29 Jun 2021 13:47:02 GMT
+recorded_with: VCR 3.0.3

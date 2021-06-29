@@ -8,6 +8,7 @@ require 'eivu/fingerprinter/acoustid'
 
 describe Eivu::Misc do
   subject(:traversal) { described_class.traverse }
+  let(:snooze_duration) { 0.25 }
 
   # describe '.traverse' do
   #   it 'works', vcr: true do
@@ -27,7 +28,7 @@ describe Eivu::Misc do
         fingerprinter.submit
 
         described_class.store_data_for(fingerprinter, file)
-        sleep(0.1)
+        sleep(snooze_duration)
         result_set = Eivu::Objects::ResultSet.new(fingerprinter.response)
         match = result_set.best_match(duration: fingerprinter.duration, release_group_name: tagger.album)
         puts "rec id: #{match.recording.id}"

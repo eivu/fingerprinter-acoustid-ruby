@@ -1,0 +1,61 @@
+---
+http_interactions:
+- request:
+    method: get
+    uri: https://api.acoustid.org/v2/lookup?client=<ACOUSTID_CLIENT_ID>&duration=348&fingerprint=AQADtKKWJFGUKImEH00q4eqOj8iZB5qP75h8mMuhI-_Q4BvRpKh3_Li4HI2a4_TReONwBj_C30iY7cdj9NPxe_iDF2E4WtCO6FmFqoelIIdOxsGVB_kx6zAX5Eg--Og2oklR7ziu52jUHKdLNN6OM_iJ8BAz5UFuomqWGx-O_EJzftBeRE92NNmD0Ie2HK-DXFmD79h9mAty6B3C4BvRpKh3_Lh-dM3h0CUab8cZXEd4iJnyII4l9DnuFSdyGw0HzS-iJ8oRJrMDbUN5UchrXJmG78Huw1yQQ--QotuIJj3qfTiu5-h8OBSPxhuHM7iOHmm8d0gakeg__B7447bQ_OiHnHlQG9KKN_g5ZHOi40ONL0EtPjgDP9GDShyOOD8eoj_84Dyq8_jx4IduhDvstKh-4UN9Ij00TwhBpSGOX_DrIFcmXPBxZR2OeuxAD10G5ys0Mjk-FkefQ_3wJ2i5437QV9BbxPthfagq4Tx-FGF-JLNyUMd74cEJa4p05LiKBzw7-Ee4BjfCHg13XMcvhMcfDzdRmRaO3NBkpPzxD9WPE58RptC01QjJsIO15mC448eXPQjJ4kJzfEp25ET1g3rwHs6N_NBLHOaO14OYTCGHnvi2QH_xUwh1fOHhSAqPHj96Ih0hVmmD_gh9OEdXI-_wfGCk4T_4w1eCPMdxXfCJNkp29IRHnEpEopyP20LYHaqJ_IVVdvgvPNqRMip-6Mvho4le4Una4cehRX3QB3yH4wkOBiKHzqh8IT1aEj-Ho9c8OOoyIt9h2tA-3Lh0dCe2KscTHvqMLUbOCk0uHHmSZ_gg5bngC_mLGvkSXIX-gYmmItSW42h-oadxZSFxH91he0X8PbhY6PBRPQ-mH5aSHKdy6MeO9LrQ8MhznDouSAmHrkGOJwitECeNE-I0gj9SSah84ZFwomoOP_hZ5KmDL4cO7sh05fie4BXM6PhxqfiRz0Kp1XhyNEcVfMZ_9BYe5VAfwVuRYzp6_HiE03g4DT3xxkF5RKuioueh_cjN43iOdMsPVzV08DLSH6W0I2eNz4cWLqxwnEGugqeF90ROQszxdAgzEs-DG32DRs1FPBdumM-RD6-gH7lOqeiPlBH6BJo5-EfsHA1z3DseF7kOLa_QH12PXD1-CvmCm4eIkkVfFmHi4Lzw5-hzOM6H57CLUA4eLRy097D8IucR_3CDq9AeUkH_IeVR94jrHod2B_6aIePxoBYpnOjhE_0RRlJIlMwFzaJoWCceIs8tPD7sRDlcHuWDr8eXb5h1VKGIpsMufMdz5DquQH9w431xMCeOC_9wUFkUHHzqADb6BfeJ7ngPEddxwT16dDBJ_Dgu2OhpMMZ3WMcP0EhthFaMo2sOMYvQ-7j44Ghc1A7unOiOq4epox8O0c3xgc_RZod_9D6O6rjwDSfcC1WTIdwP6oQpC7WCIzwsH-ryo-_xI3yD5vhOhDrIqYfdoyV6aHGD4-h3mDiNoj_c0cLxwD1y5uCPG-6IqpF2_GDOw-Txo8cV9Gimo3l4hCd0KTvySYE3Hhx5gbmHRsH3jCglEleJH-VlhOGDWtmhL1mIyNQx_Ck68vAPW0K94x26Iu2gqTn-4Ajjos_xHD86hqAehLh2mHGg8zjCmTDq4wcjNKmRD_0uHNZx5IKPehvyo9MhhkPfIw8fHI0b9ETs4ERXgqKMfugL10HLgzl0Eu4R_saPqjBJfDh-OJrRHSdMpcKdHTEP7UTTccUZIt6FPmgcIsfZoMPFoQlFHG22o3FjnBMuNBIX1CI1vJD-oKmyoLiO-OhhkUJxNLQQXrtw9CS0iCK-8bjRVD16HK90dD50-Kh21BuatHHw6XhuIcw59B9OP_iYI0yoENoFXPKKHlVFD9op5FluOMpQzzn6HD78HP0jXEwlxEwy6Hh7NIc79E2o4DpysvBB7riWowm3o2co_AgfNvAXMDaeBT_OKDiH01B75D16OMWTE69x-OLgNuiP38gZ6JeBPnqQcuPwycieDP5w7nh6PJmRk8Hx4M2Hz2jmHD9uZLsh8wgl5oKX4PB79GiOyVQa4dOsIl4E-Qfa49GWQz8H_RxGMTsc67htvFng9EG-FCf848Hhh3DFoqVwUUd-qC2FcD0Op8dDXI-xHf_gLkN46YOu2sjxYLLx5sgZD9Ze_FC5Ba-OfMej4yV8wxWPqZI-_AgvHLdhf9BERQnRv9CitvgpFD8-4-px7dA1nL7w4x_OwcrS4mpx-B9u6KmMF_k7XMSzH_4Q78YP_9A_-CkqPigeSqTgqsCVBz90vPgFP7hI-Oh-6EQNy_hxvDBl_NB_-MsRPjhCajn8ox1uHj18HV_xB_mNnMNxEj8-9EcXHT5ajhoAhggwwgCCEAVVCIYAMYAQhgwwAghABIGgGeQBEsho0ZUQARADAGHIECDAKAwIRoBSghlihBNTCAoAMAYQRkABiooDCBAKESOcmEyIAIghhBEKhCICEQSUEQIJYwwBFhBECAWIMgKAIJ4hSIExACBBgDEGiUGMGUYKIQBRCAjIAAIAKQSUYQAaRpQAAilBAQFEiCmAgMAQQhBCBhAKhEICCIOUgSApAZAhxAoDhHEYOIWEUQAYBgQixBgAFBCIEAGAQYIIBAQxiFkiHFKMACIcAIpYJpxBgjGCCIHCAGAEAk4pQIgBigCAJABEMAUEI0YAYRwwnhzCiCGMIiAIAkgaIQQDiBBGhUNGSYCEMpQqRqlhjAklBBAKCHIYIQorQYAAzBsCiJCKEQqAQhQAI6EAwhgAFIGAIA4UUc4AQQQQgAFBBBCGAiOAUsIAJIQRRCAmKFUGMGCMIEQAIZwBRjnqBHUCKgEoIEIoJBgzgwBBmFDKAIKAsgQpo5QIQCCAACBIOEIFUsAYAoDACjFAiBADAAEAUwAhYARRThQggOAMAASMEYgJAhCAxgIgBFAEAAiAQlQAAgwwBAjDGAVMAQYARooIQ5kSjABxFFESICEQYIITYJSAQAiJCIKEAQCFcMoAxQQAATCFHHEAMAEAAkQBAogCCAohhAGAIAOYAkAQZAQUBgFjKECKEKaQEAgC4QwgiCKALDGEBYAApUAIgwUxAEglyCLAGCqUUcQUggQB0AhgAAFAIKEYQ4QpQQQlCDRCCKMEAOItoEIwZoAhjjBEBAKUISSQAc44JIQxADhAIEAOCCCAIFAgIYQjBABnmFDIMKUcMMIaoSxwyBkgBCDAOoCEUMAwCgwA5jhDjAAG&meta=recordings%20releasegroups%20compress
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      Accept:
+      - "*/*"
+      User-Agent:
+      - rest-client/2.1.0 (darwin20.3.0 x86_64) ruby/2.7.1p83
+      Accept-Encoding:
+      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+      Host:
+      - api.acoustid.org
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Date:
+      - Tue, 29 Jun 2021 13:43:54 GMT
+      Content-Type:
+      - application/json; charset=UTF-8
+      Transfer-Encoding:
+      - chunked
+      Connection:
+      - keep-alive
+      Vary:
+      - Accept-Encoding
+      Access-Control-Allow-Origin:
+      - "*"
+      X-Envoy-Upstream-Service-Time:
+      - '82'
+      Strict-Transport-Security:
+      - max-age=15724800; includeSubDomains
+    body:
+      encoding: ASCII-8BIT
+      string: '{"results": [{"id": "881f88f8-d3b8-4af0-bd56-efba740d158d", "recordings":
+        [{"artists": [{"id": "3c3d3ad8-3935-4c00-affb-768563916f36", "name": "Fluke"}],
+        "duration": 349, "id": "93c6bb6b-ee79-4e0f-b032-75ac8f6c1b4a", "releasegroups":
+        [{"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various
+        Artists"}], "id": "066809c3-3077-30e2-b027-1fc46a32b1fb", "secondarytypes":
+        ["Compilation"], "title": "Siglo XXI", "type": "Album"}, {"artists": [{"id":
+        "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}], "id":
+        "fe85e827-d4cc-34af-8941-6165a2cb8fb0", "secondarytypes": ["Compilation"],
+        "title": "Street Mix: Music From VW Commercials, Volume 1", "type": "Album"},
+        {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various
+        Artists"}], "id": "85e394ab-316b-446a-932c-4379764c1ab3", "secondarytypes":
+        ["Compilation"], "title": "Inhaled 2", "type": "Album"}, {"artists": [{"id":
+        "3c3d3ad8-3935-4c00-affb-768563916f36", "name": "Fluke"}], "id": "50615933-ee44-33a2-b6e1-75f9dd35b937",
+        "title": "Risotto", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "6fc11bb2-3bf9-36f5-99ea-bec1800c1314",
+        "secondarytypes": ["Soundtrack"], "title": "La Femme Nikita: Music From the
+        Television Series", "type": "Album"}], "title": "Absurd"}, {"id": "f2b32b6f-2865-46f7-858d-98b132d7aeeb"}],
+        "score": 0.953002}], "status": "ok"}'
+    http_version:
+  recorded_at: Tue, 29 Jun 2021 13:43:54 GMT
+recorded_with: VCR 3.0.3

@@ -1,0 +1,51 @@
+---
+http_interactions:
+- request:
+    method: get
+    uri: https://api.acoustid.org/v2/lookup?client=<ACOUSTID_CLIENT_ID>&duration=216&fingerprint=AQADtJqUKNEWNbBrFMcAWthx9Gh-fAiPX0AP9PDhAy2KvaCOrYJgBuGPi2gedMOJH0WP48SPHz1OBM_x4x8--A58GA_y4kW_A0e_R0iPHzotHOnRc_h2_GgOW-iND0cYHmhq7Ef2DxPhwz_KFQ2PvsWRH9qP_Ecv_Dh65CO0F-EPr_gOH2t6pEfygerh7-hdDP4ChKdhqD--3EhfvE5QqReabskRLvLwF282_Bn6jAtO-DKO9OiZ4biH89iP_kb2yfChHT-m_Bd6HHIYHW2M-0H_GMqPnkWmH9OGH5X4omHw8Id_fA-OHx8uJLuQ4oePEz_8IkhOHL2Ly0Ef-DjwID-SB4dH7biYzOjC48fxL0FwwnyE50KPZg_yBdctfF3Qn3hwCh-LZn9wHEd4YspzyEdW8jieowb1B3uOP4dzlHnx58R1NA_Ck8RFHHmOXwhf6EiPA8dx4EX6w4d-HOmRX1CPwzvy48d5nKzwljkqPA9-HGEePI_wKnB-wKfxC_eFY8wJH38D7Re-aXhw6DmuJ-jOwTGDIgeavNiX44Vzoyf6lDiPPixu8fif4c4cdA-s40Z49BDP40eaDW90HHcDfztuCb-HnIR8xD583Anu4jLyH_-h_vgQHt-CvEe_4ydOaHIkHNfR78Ce4YfefTj-AM_xgNGj4-mKu_iNk0cP8cjyHcf4B4_RnEaP_vCFftnxbMPpTXjM4EeTHPEWBYWO8DiOH6dxvEifCQ-e4odDZUmD67hICuJz9EfoJbnQvDnyHMmZWfiP5j7qT8I1RmLwGz0aJ8kQU0LyY72Kni8eI-WhNQ9C-YLXB_VxvME15MEPnTnyZEd1wz96Hs-xvziuX2isoR6DHk1OfMrw5Lh8_AhDJ5OgnQiDOmHxG9MjNE86jNmFV0cb5wjz7NDO7WieGMejWRI0URmD9IKPH88EHz4jLcR5nMJxPCeaOheSH7nRfMlRG3_w40XLHSP-Dw_y7Efyozre-viN8Rp2Ba-D83iC6pDfYDv6E-ce4qfx5eiHhmOCJ8zQ5KiF_COSKzw8ysIf3EHz4Id_1D6-D8-OU8Yz4ng2hKmkBFoTfQjLwx8lOAcud6jMIySzH2KOo9FV4YoeXBFJhNmDvrjKH8_ReKZQasnRPEWPkCwSLkePE-UNL0fPbfiSKsSNpD_yoyua3cGjzMVtPMVpotGHZM-O-HiCHz2a87jx43_w1At-fAwe4YcX7siJ5HiIH-9oPMtxXEbfw3zxSBa847h5VCrx3EP4vYJ4BiHuFv3QRDlKODmSPXmQ_7hSNOfxoxaP_ygziCemZyeuo1L-oTl37OEm_Pg16CiJhrHxpzizVPiNh0Y-IWE-PMcVPA8-ojl6_Lie489wF0-o4wmPywiRLAt3nDeOHz_xrEtx6sgP7Uvwo4fO0IjU9bDw44hO9NB3xMLxnfhRsmh44XeH_Dr6ZUrgoz_O4ehnbEflHF0PPepglYWP_thzofoh5uhzPD0O_ZRSlDzCo-xhVmnQJ8eJ_zgu2YazHc9x_EFJikSeRYd_vId2HA9-HP5w9BkaPviFJhEXoicO8yHyAOa0G_3RXMmJPlPgFx9_NMKP49kRXhouuBSNX8IP6xyqY8_RnESVB7fByFnQHM_RTifok1Axpl0CP0d4oswd4_jioLzwzUcz5kb4QCdyHk3EB52O68gJnUZIJj7MrcKFe8ENJ8eHvA_ED3jxLTqe4yPEJxyu4oJ-eOVQpbRwBi9C5inC_OgR5kmS4-LxD0-UGudRK4gUxzx0hFYSUNeDj_Czo2Rj5EcySjGcp3jyow_-sXjBLeLxDC_8HR-SHzlNnOLRH8dD4TMimtCP0GIG7D_CM0ey5Aqug39QUUzhs3h2PIePhM-I8BmqD-6ZBM-OTG4qaDrC60GT3NgRPbqg7Ecu_PCF8zjyPNBONNWS4kEevDKcNuFwlBIPHzeO7UP5g8h5KI2OPkeo45guHMdF_OB5HC88Yjeew-fxHD-eFU6lHCXxzUiOPBEf3Gvwojd8TNdx8MNDHRG0ZjvyHd2NB5P4w09yHPlxPM_B4w9xTtCP6YlxLcejH1p-lDfO8cOFRieeyMg3Ofhk4oSVT_iP4zt6nugTKoTHo3IQ7sWU6fhwJjMePUH1I0yVIWcvlFkP5VbQ87hT4heaVD86fGGM9JaK5zhOPG2PPnLgE_7RH9WH6_iPqx3Sf7gO_Ui5EP8OH0-kHN8-_Di-CQ4fxFmU4RB5BO9hMkuDRwknNB-O50d-6MtXNFWPArg5Nsgr5bSHigDlFDKgIEMEaEoRRhhjiCkgvikCFKCEWGARgQyXClEEkFDIKKjMUIQKAohhEhAgMCKWGKUEAEIgYJRSRDkAEBLGQCEQI0gQYYxowAACDIIEEGMFQcwRxAAACEjYEIjECmqEVAooyBwQykruBBGBAUAgIwYYYBwQiiEhyHMCIchEAZAgIgAwlAiAIHXASGIYYZZMM8ICigmxAJSwCIeZBIYAIZgwmAkhCHAICCKBA4JACQEBipCFgEBCMCMIAAAYaYAjQBgpCAUCMUCUYYgCEIwwQADCFFCAEMEYZYQYwxAQojFGLCCAGEYUc4RgYABgjCACGHEUGCzIeYhCBsRmUACAiDEKACEAQwIBoIjT1EABGAOGANKgAwoQgIwigjCIEEaACC4QBIYSjIBABiABhCAGBAsAAkAwIT1lQCjEAIECSO2QAEwYQJwSgBlhHFFEGkAQQMQYCoFmiAjjJGJYEQEYYIwxBoRABgiAxCBKOAsAMBBQpRmTRDgQEHPCMI0EARg8ooBi2hACGHAOQgYFF80QKgwUzjEHBSKACMAgMcJAAiAAjihClBCCaAIAgBQIqAghQjkjGAKNGLCMBoQx5RiQhkFiRAhMEOKYFVAIIIiWYSsFAiUCACAEIFwZRwwyCmmBDBEACQCMGEBRYiBBgHiCBPXAEACIBAoxxxhhAgClzCCBEIAUAsAAQ46SHgALiDUGEIYYAAAAJ8xTxgCFGEMEUCmBaMBZJYwFBEgLkEEIEICAAQwJ5QgBggMCgiPaMAOMINYxJgzlghGAJJUWEqKAIEApQwAj1GCgAGDEAGEsMEqIR4wxXAklktFCgUcEI1AhASxG1hFjkCFRKmCYQYogAoYQYinDHBFOCGQ8QMBARVwyAhDohDeEICKAYAAYx4hxChjBEhJAQWClUMQIgYATDDEiAEEGoQoEAYooAgQDRCBBEEQICACAIQYBdRgTjCgJgCJGAyIA&meta=recordings%20releasegroups%20compress
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      Accept:
+      - "*/*"
+      User-Agent:
+      - rest-client/2.1.0 (darwin20.3.0 x86_64) ruby/2.7.1p83
+      Accept-Encoding:
+      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+      Host:
+      - api.acoustid.org
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Date:
+      - Tue, 29 Jun 2021 13:47:48 GMT
+      Content-Type:
+      - application/json; charset=UTF-8
+      Transfer-Encoding:
+      - chunked
+      Connection:
+      - keep-alive
+      Vary:
+      - Accept-Encoding
+      Access-Control-Allow-Origin:
+      - "*"
+      X-Envoy-Upstream-Service-Time:
+      - '86'
+      Strict-Transport-Security:
+      - max-age=15724800; includeSubDomains
+    body:
+      encoding: ASCII-8BIT
+      string: '{"results": [{"id": "1a82cda4-e48b-44a4-b0c4-5de31fed1718", "recordings":
+        [{"artists": [{"id": "c5c2ea1c-4bde-4f4d-bd0b-47b200bf99d6", "name": "The
+        xx"}], "duration": 216, "id": "b3ac14a8-1231-4652-a671-1199958a2ffe", "releasegroups":
+        [{"artists": [{"id": "c5c2ea1c-4bde-4f4d-bd0b-47b200bf99d6", "name": "The
+        xx"}], "id": "23355caf-a543-4b5f-80fe-449101868fc1", "title": "xx", "type":
+        "Album"}, {"id": "ee12d07d-279e-465a-8407-64f25816a5e9", "title": "Shelter
+        / Night Time", "type": "Single"}], "title": "Night Time"}, {"id": "c2ff78fc-4579-4a8f-ae8c-008fdabf796f"}],
+        "score": 0.936775}], "status": "ok"}'
+    http_version:
+  recorded_at: Tue, 29 Jun 2021 13:47:49 GMT
+recorded_with: VCR 3.0.3

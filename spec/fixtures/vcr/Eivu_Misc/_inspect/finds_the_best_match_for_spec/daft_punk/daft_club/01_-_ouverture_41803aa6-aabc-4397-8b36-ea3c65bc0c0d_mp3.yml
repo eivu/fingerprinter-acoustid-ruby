@@ -1,0 +1,69 @@
+---
+http_interactions:
+- request:
+    method: get
+    uri: https://api.acoustid.org/v2/lookup?client=<ACOUSTID_CLIENT_ID>&duration=160&fingerprint=AQADtBWTKFSDvzic5wgv6DcePnCv4LiPs4XjLBN0CTp6PcEfhHhV3Imc4Pzh50X0A31y6P7gIyd-PL3xB9bB6OhlpI0WJGt69NFj_PCPnTiTD21s_MoQPoKW68N6PIKuC003_Kh94JD94GgcKQev4PA14vOhC2mF4mOMR8g3Hz_ko05w3McP8Tp-OAtyHS6Fa8F17PhvlEeu7MRzXEcv-EvQJw9-7Bee49AoH34Qjvgl9PCDUs6RJ1KMy4emx_CH4joe3qgf-CF-9Irx43ge9PCDHyFG8rjROUh_fEcTOocuHdfRPLgzXIJ8VJY6_HhwoW9gxuiPX-iuJ9CPqSp-9OQGLZeCKwKPjjl64WAO80VNHKtzaHk4POMDu7iCH-JDvEqO-0SPE8_xSEePJsfxQ8eDB7Xha4Y2K7iFI9fxoCrMB_k29MEF9Uf_wBnhGk92XIX4qOiH69jxHs8xPURTKlCPo8f2B2Z29BoqiodfyA765eClEzn44GgedKMKRLzQ_PjywDx64dShXYJlqegbBT9-HN1smA_6Bz_uHe2kB4-Hq5Dhf-gTPMGHV8f14KhFNFkVXPjRC-p3tHFxJjiaS-HQRzmOF8cPH9eH44ow5ezRMxU0cdFB5eHwacd2Bv2FazmO-wgeFH6Gvfjxg7oeWNRehNuhH1POoM9wQvUT_EJ9ozH0Z8I3_MfFHD8qjoeuB_2CWodL4ZGOG1Z1_DC0C33x46sOy8mBB06LHz-eVcH_oNoGHYd-4ERDkkN_rNHx4yek5Ec5LVCOCz10HD3yAw015dhxwTtKP2D-Ii3uQ3nQ5IN-9A_hf1C5Ezi66C1yHT9iE03FHP4ZXIWuEL6OXhpuHj_e4_jRw1moQNNxHUft4tLwHSf8o090vPhxHBdqBw1P4jouHdMPV_3A5_jxzpi84zpxQ8iPHz18BftQ8UZdg3pg6whN_FB0QosaHg_xB_2DJtxxQ_eK-niFUEceXriMuw9a5TjE3qge9PiFysePow-Ph8PhPMf94VAXH3aP8-iHKxe6w-fxwz_8w8ITET-PGc_hugv44z02TS1q5bjxPdCPHzn6w5lE7PhhBWzX4X2ItBSmH9WH5gvwP0S9w5-FqoWcD59x_MPRB3724DtsLfgFXfADneiPF8eDH807PBSeHD7qHT8aSuiPj4eWC_3xH4c-uD9-HM8xnUfzLEdPC9Ij6D0G2RfQF0d-fEcfbLKC8nhzNCNf8NkYpFXRZxwUHU1O_MeD74GmH2KFcpFwpzh-VJbgijkscQ-0a8GFJtdRK4lwo4c8ERXxC19QOx38D3_wH82Mc7iSB7qP5sxROUf3wReq48RRGVoa3CFW7_jx4XrBjEdTtdiDUzi0B_0RVPvhL8T6H0VBpVIePEVaCuMhHtoe4kf5wH1w_Dh0HdWO-8glVHoIO9mDeD_80PA1yI2CHz_-ogfeo9RxwrmJ_vgoNHvQHh_0JzjToWE29OiNhsMpxfjR9Oh1PMY_7OTQqO3wHeyOYwd09Eeu48f0Hs2DXyAa90WvB1Mu1EN_-DwqHQ_yH_UJP4XG1fiQH8dZ1Cryo9Ue9IH444EuAV15_DiFo_bhr_jRUugviCGu8PhxZng__Ci545CPPkbz48c1NHWMiUfneZASjcpxHV3IEFNOPMfZ4T9-hId9BTsedMYtMIet6CHSGvshqkTPEHcO_fg11If9QOODLzJ-HNWPPzi3B63EQyfRC36kDZeO40Q3_MN7aKmYD__xH76OG2_Q6yh9PCT84wrh60G_4j5-9EdT57iG8xg0XqBaE__xMDV2dM2HHkeuD_2DE9Phx-jBo_3h50E0_ag1aHpk-IfG4hXqC77ww2kL8Whf4xt-1DfOBz8u4oZvPIKu4x-66MCL0O_gvTjOHPkPa9C4HK-OvyiZWfBxweOPXh4uPBes42PwHT3hinGg58SWhscLKtCPHjp-_MjRCtSD6viPHpso5Ujro8_RE1Zb9Llx1kFfBS76QOfx48IZdGWFq8ePVjp6DeKNPsIFbbj5oPgRnrgPdzuuIk2sD89RcTt0of_gPPAzEuGq4yw-hFcM5-j3oJsD0XrgiQqq7xjeoxJ5UG54aM_xYb1QGRfyBzt-_AGvGP_xR9iPML-KQ5v3wV8KTcd__EJ_-Cg3BT_07PhxocmN5_gf-MQN8TKew2k0nPAP7cePvvjh2rjhK0d3fBv0Hn2P33h31DwABIRABjhilAJGADCMAQgIYoAyBBACKEMQCaMkMIAAixCxAAkgALDGEGGEUowACQQwxhEBiRWJIUCcYkwoYh1AQAChFGEGCEC0UIohgZCiQhGgjCBQAQaoEBAxwwACRhkFHAECIoQAE4yJBAwAAAjikBEAIYXJFRIgAxAFQAhANFLIAEacAOIoAMhhIgDihFFCASQEM2Ag4wCQBgkEABACAKQNAkggAwBAQkGDmAIGAACIQAgIIb1ACCkHDQZCICAIFIwhJRQiAAhiCANCCCQCE4lIAQARAikDBEHQKCAQAEAQaoBgBDEAADAYIAAIMQgBxAQwTAwIAHVIQYAECseYwpBxDhqChHEAKAUEAQoA4AwQwBBACBAQCYKUUtgRaJChCggiBWBmBAWIUUIYowiRSACHDAQEMYycEUgwRBBRABgACAFAWQCQAIohBIihwghBDQCAMAIAcUIYBQwCwAnBiARAEYQg0ko4KYQSCAgigBLEGeCYAgJACJxAQgmxKFHGEUQoUAIJgoQAgAkAnFBCCwGEEEASYJYyUEEAhREKEAbEE4Ag4wwQAAkANCMEEQCEIMAIAgBQDhACEYAGFGcMIMEgIAQgQIhACgDQgUVBAEAYIQQQAEAALENUEWAOQQJQhQyzmDjigJAOGScs-CIQYAUFAAEgACIKCMREIMQgRJBoDBlhBCOCIaAIocQIAxAggkBiDFBIIKskUBIwwgwAwlLjqNQCGQEEkAw5I5Ch0ABBgADIAKQAYwQoQQQBgBAhECCGCiSEIIACIQhQiDgihDICM6SIUQoRCwRABAClLKOEIIEEAQZBo6RyRDLCFBDuIAGIMQAB4A0w3ihDEBFICaKQQowBKpJxQmgiCBGCEAaAQQAaBJxCQgkGAHNCCQWBE8IIYQABxhhCDBDICCEQk4oZw4wBBggiHHGCICAkEQIxpTAwAgiAEEMGEAENQw4BIgQFFhEhgAAECCMIEQA&meta=recordings%20releasegroups%20compress
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      Accept:
+      - "*/*"
+      User-Agent:
+      - rest-client/2.1.0 (darwin20.3.0 x86_64) ruby/2.7.1p83
+      Accept-Encoding:
+      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+      Host:
+      - api.acoustid.org
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Date:
+      - Tue, 29 Jun 2021 13:43:10 GMT
+      Content-Type:
+      - application/json; charset=UTF-8
+      Transfer-Encoding:
+      - chunked
+      Connection:
+      - keep-alive
+      Vary:
+      - Accept-Encoding
+      Access-Control-Allow-Origin:
+      - "*"
+      X-Envoy-Upstream-Service-Time:
+      - '131'
+      X-Envoy-Decorator-Operation:
+      - acoustid-server-api.acoustid.svc.cluster.local:3031/*
+      Strict-Transport-Security:
+      - max-age=15724800; includeSubDomains
+    body:
+      encoding: ASCII-8BIT
+      string: '{"results": [{"id": "153a603b-0b7b-4a20-8c57-5fab370a7a86", "recordings":
+        [{"artists": [{"id": "056e4f3e-d505-4dad-8ec1-d04f521cbb56", "name": "Daft
+        Punk"}], "duration": 161, "id": "005bb566-a2c7-4bf3-811c-f9b3abc7396a", "releasegroups":
+        [{"id": "3ab059bc-281d-4719-90c6-ed130fa2bd20", "secondarytypes": ["Compilation"],
+        "title": "Greatest Hits", "type": "Album"}], "title": "Ouverture"}, {"artists":
+        [{"id": "1649c891-eea0-45b2-8caf-c85d985ff3bd", "name": "CIV"}], "duration":
+        137, "id": "25d8e24d-849f-46c5-a629-2d2315feb950", "releasegroups": [{"artists":
+        [{"id": "1649c891-eea0-45b2-8caf-c85d985ff3bd", "name": "CIV"}], "id": "02b79c6d-a741-3c4b-80e5-19aa109b857b",
+        "secondarytypes": ["Compilation"], "title": "Solid Bond: The Complete Discography",
+        "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "166dff79-3b9a-34b5-a5a5-30585cbe761a",
+        "secondarytypes": ["Soundtrack"], "title": "Music From and Inspired by John
+        Carpenter''s Escape From L.A.", "type": "Album"}, {"id": "3916676b-7a43-3aaa-820b-a139b3ba43ab",
+        "title": "Set Your Goals", "type": "Album"}], "title": "Et tu Brut\u00e9?"},
+        {"artists": [{"id": "056e4f3e-d505-4dad-8ec1-d04f521cbb56", "name": "Daft
+        Punk"}], "id": "d69d58ec-8ed1-4c3d-a8cc-7daec280667a", "releasegroups": [{"artists":
+        [{"id": "37570079-8d59-454a-82ff-3b0ca7774500", "name": "Oliver"}], "id":
+        "7e8b72b4-f659-44f4-ab4b-63c11391bf43", "secondarytypes": ["DJ-mix"], "title":
+        "White Light 60", "type": "Other"}], "title": "Ouverture"}, {"artists": [{"id":
+        "056e4f3e-d505-4dad-8ec1-d04f521cbb56", "name": "Daft Punk"}], "duration":
+        160, "id": "e2bd618e-7ff7-469a-9dcd-c05de77fc74f", "releasegroups": [{"id":
+        "1fd2e0fe-90f6-35ca-92c0-d816ab3bb79c", "secondarytypes": ["Remix"], "title":
+        "Daft Club", "type": "Album"}], "title": "Ouverture"}], "score": 0.985879}],
+        "status": "ok"}'
+    http_version:
+  recorded_at: Tue, 29 Jun 2021 13:43:10 GMT
+recorded_with: VCR 3.0.3

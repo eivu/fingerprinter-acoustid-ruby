@@ -1,0 +1,369 @@
+---
+http_interactions:
+- request:
+    method: get
+    uri: https://api.acoustid.org/v2/lookup?client=<ACOUSTID_CLIENT_ID>&duration=149&fingerprint=AQADtJKSfOGx4xt-JNGPcOZRbXrgx6gzNEV_hHl4aKLaFd_xXvhnaDmLEL_wD7eRjzl6aFHp4MxShD_OB2-xL8i_ghOPHjqio__hG2d6NEe85TqSKEkkPujDgFcufNh_XNPxJA-eXB3yOEiio3lwOqHwpwqOK0HXzIfzBj6LfmSDHMkziXCZH8e_G08v8GheDj2y8EjyB2aSxUet4MOF6qHRyDm-5LhTnNmN8ymaq-hxpSSuKFdyPKmCXkrQxI-RN0cy6ULzC_tOPIvB3GPQVImOex3GVD_-HGHOo8gT1GoVo2TwHBeeDM9xIeQTB2a0HFWaHNcRcu_QPEV0y0LzBlIopXiKMKHooLxwZTzOxQijKaxQMT30HH-LhoV2nOnQch_CjBmqXCmi5XlQssfDCxf05mjeBOE_PMmJG5-OJ7RS_Oj34IwY9KglHU2qJMF34QoX5KQT3CIcxsdL-VCeHdUVgXoO8eihK1NxRUfu4TkXmLiDM-Hx5HiQM8G-xFIEzQ-aHM9w5rhKCXmOkTrCNUdzH9-P0CLsHw53lE_w57jlojmS8Q7yp8cJfmiexZj4RriSjHjWIHkU5GjGD2WihMYv3BHiTGWgMUWzI8-O8EsVNJXkQHuHMI8SjPKP8_h0CdTIy_iOf0RuKI-H9NHxMMd_oYkuBVU0HjlzKLJIEmGoBpdwPMKuy3jS4ldkPEfI487RKOyhD6d05FJRylUHX1nhHT9cHf2PXI-gnclW_MhfnIFZBfWPMD86JhyiO5KOK3nQnLh7fMF1cEx6-EOZfeBEHbk8JMtzlFIiXC0urkHllMJzmONRScjPQOxVnMeZrEK1XYGWlchn9IoGv2hiGk8OljmS-QjzsMKzDwz5BA2j4EcpwWNu_A0ciieSPQizjCz6KLieFG83WJFzPMPzoY-WIEwzXUg-4bGOarOEP8KFeggPkTyYK8KhVyNiicrR_fBv_AvBTWGIG9-P9Eh-mEu0BpMd4lqCp-ZxbTCXZciP5Bcx8_iUcLhx9ImJJt-RHCFv7NzhLSRqZRaeJYwRHk2yQy3O_MhjoXmSoDR-nF_wNA_SB_P6QM_xf0jlHJ835Mo01IaWI4tEpnCiKHOCD9Rx1KmY4VkOlrqQLIs5RPrxJ0rRzYbHTUrwIU92JPtxoa2Oo9J03DX-PAhPEVo6ccGpI54SI9bRB2IaMwh3jJJ0PFKD72CuXHAfRLJyQ2eOmzryxTv8EI9kDU3TBpUZPDl-XFRu5MmgqNGDMJikc2gSs8L0oDkTH1eC7E6PnxDP4kflg9KUxRGufXgLXdikxRMq_OiP5id-iE-MMUskg5P241ygbBfyvbgUJ3g3HV9RZcvRRDy-o1-QfCFyWRSu4io19MMRfRm0Z0ezhQF9bsL1BYoUw7lsHBdRMh_aN4Q4hiFq_QgV1pgSKsfxGNdxPsOjjML3FPXhR-iFWD1-JSlULheRZw5KbQ78DCXxG5OvJIGpFKH34RT6QfwuvFUh9viUuGgU6jjFyHhu6GQQplSOMn_wJUVT0ajc4s2kokz4BD6JnIPGZkdO4qqOJxKloKuEhsfJ4VmGPkiW83gS4ZygmQ92hO9xcQcjSdTR2D8uZUaSq0SYH72ioZSKJlmK0Tn-R6BPHeeFCU1-JG5zxM_x5MMX1FtueB2qHXdoTKkqhGL-IZkGPwsYpaSO2mg2H3-MH-k0cNN25NOCm_hT_MOeoGQ5uPcQ9sd1Q9-RK5Jw6_hDo2PgOPTR40J4KOKOfMzxRODxd0T1INNnvMfJBfpy3B_ETfzwbUOY-Hj241PxKIfHDsEpnDqh5g-YRBKD8CVxfcNvvMePpkbEhjl-aEtG4m_wD-Ei5ZhyGVfB5OiOc8GnSnD24MoRvcQZiLyRv0HeoUl5lEseXA9K63AIX7jEIFJ4B58APzpYLqlwiwgfGlp0xMeNKU4iBz2mpoJ_hMUjZI-yCdWzo0ma4zGuo9eExkN_pGOO-sRrxLlVXNij8DhjPBIqM4Z3ohfxSMRf_EW7I0ycHXLe4JUDLbmMiT30xLmRhxRq5QGTPaCXEReJn0pQSQllXFGWw3m4IXxk6IjpHB6J50W4K9DC4z6adIpRT2mgF94zId8c4qOOWcux8cfsTujdosmlopuIMJF66E8QvcqNUqKGZvjx5YitE90rBY2kZCsuJcP_4T8RHs2X46aCW8fDZMEdHjmSsdvQXMZ31Dr8jCgvPBdGIfmGcEcvUseH-AmeQvGOa1PQH00kbsWj69CVKEa-DdTW4w5uxWgeT6gSMtsRSjkuimCu5PiDLDnR67i0MXgHKiM-5cGlPMGP5kQfhcP_gVxyRmiKnMZ5EaIisUSahjlKKdibo7o1WDpKvcKDiNxyoqkflOGhr4GeCE2ZEuFx8Xi-4DnC_HiyIZk14scv4coc4Y4STghJH-KSI5Qv9MkPn7hEGg2p5EV-aIfjYYrqB7nYzMgjHZ-gIq2yFA8__BvOVEOvCw2N_EiqDdtPPOgPi5qGL0fzh0Ee5kgUZoero8M_VD_OoI9C4o-GkmqIb8lBKUdMN9CeSEMuotdQXfguoZwOZ_lR_hL65OjZ4T_IGU1EHcUXNAnjI1cOZyeh-Qi5oqmDU4-I_3h3VPKRHror_MJP-FkUBvrRLnLwZ_imHlq-BH128C8uKUc4LaORk0ffQUd4jUajhCG-C__xG77yIHmP_MKpHH-D5jx68fgT3Howh5eQ3EfuCTf-o9lRJgmuRDmeH_8plN0RZsmxP_iLsIuL54GnHzePflnxCxUbLciUHl0kSYU6Hgx_uDdCJ8cvNNkNZmmO6wmeG3WP9Ej2BJVbUGKeDNX-oCfxwHmQ94qg_w0oLoS-wEt-5CGxPQ_SX-iOK4eWSMlRKRdexsP0DE1bxIo6jrg0eWiOLr4EACgAVhEgjBIAKYKAEcAwBxABokBBjAWGIM5IMYASIgoQAAC1AEBAGSAIBUwQRAgChBQBHAAACAI8VwJIjQhQiAgmiEAACCAIsEopYBgQQBAiDGCeYMwU4EIIohEVTilgLFCGAMEEEAAQhQxQhEBAAAFIEcEsFBIIJAQwTBDgSSFIMoAAYlQqwCRjyEihAAJAAAAAEwAAKAgABAMBgBJHGaCUIAIAIQBAwAklmBJEAaSAEUoQCIVRhBhhAVUcEES0QwgAIYgAhgECAJCAIAIAMoQBIQRDyhBBDAKKESIAAMQaBZQxwBAjhCDIAEAYUYwI4QhpEDDgiBAKGWQMIY4AIIhhwDFAQAKAOUCYIAQIQhwBBDgkhANKSCAYka4JIAEgAAkmQAABAQMMEURAx5wwghFkgCIACGakIQARwQEgADAgmBEGIEQMEwJAYQAwwhCmAAPCACKEWIYcIggxQjJhEHAMQkGUIUggJQUTCEFhBJYCMAAUYMQhAIgASCglhIKEWUYUEVoAwQAAxBhhCBEAAAIAMgIQRIQTwAAAkGPSAQIMMkQJQaABBhgEgALTEcAwIEYYwQRhACAEFCAGEgOAAEQZSAhGCBEimDAEISERVEIpIQQDRABICSCCACEdc0iAYpD1hCFhGDHEBKCEI8wIJIwRSCgAEBGMACEMAYApJ4QVwihjABEAIASAEgYQwZARABAsAAIIGGKNIhIwY6wUwBGCmBKAAUKAo0AARAByAhDCBAJIAkAAIEAYAgARDihAEEAcKEKABIYpygQCTBFABCRCMAuEQEIJRIgQBggCBnEKAIAMYkIIJqwAAgJjqTAWGQAUEAAYwo1RgBAAgBJEIOIANAAIIpAAQhABkICIC0IAEcwQYIQSwAginAGAEEEIQMgJoBAAAgAkgCKOEIWAAYAww4QQwBAEDIAEKAeMAEIBYIAQwBAAEBEeSYKEACIA&meta=recordings%20releasegroups%20compress
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      Accept:
+      - "*/*"
+      User-Agent:
+      - rest-client/2.1.0 (darwin20.3.0 x86_64) ruby/2.7.1p83
+      Accept-Encoding:
+      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+      Host:
+      - api.acoustid.org
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Date:
+      - Tue, 29 Jun 2021 13:48:13 GMT
+      Content-Type:
+      - application/json; charset=UTF-8
+      Transfer-Encoding:
+      - chunked
+      Connection:
+      - keep-alive
+      Vary:
+      - Accept-Encoding
+      Access-Control-Allow-Origin:
+      - "*"
+      X-Envoy-Upstream-Service-Time:
+      - '181'
+      Strict-Transport-Security:
+      - max-age=15724800; includeSubDomains
+    body:
+      encoding: ASCII-8BIT
+      string: '{"results": [{"id": "eddf9f03-23e1-40e2-b469-e7889657c8af", "recordings":
+        [{"artists": [{"id": "afdb7919-059d-43c1-b668-ba1d265e7e42", "joinphrase":
+        " & ", "name": "Marvin Gaye"}, {"id": "ce4582b6-aee7-4da1-b841-3c619d4fb5a5",
+        "name": "Tammi Terrell"}], "duration": 148, "id": "b04b5028-da5b-4f05-bfe3-4f8f80396d98",
+        "releasegroups": [{"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "8e6d64fb-3d28-384a-8168-23b428dfff78",
+        "secondarytypes": ["Compilation"], "title": "100 Soul Classics", "type": "Album"},
+        {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various
+        Artists"}], "id": "c98a0fe3-f0c6-4c9e-bcc5-7fb84ae9cdbf", "secondarytypes":
+        ["Compilation"], "title": "The Summer of Love \u201967 (50th anniversary)",
+        "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "c57b4d7e-e3ef-4959-8612-851cbc6e4c9f",
+        "secondarytypes": ["Compilation"], "title": "Les 100 Plus Belles Chansons
+        MOTOWN", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "f616321a-333b-3303-aa81-ae859b826c5f",
+        "secondarytypes": ["Compilation"], "title": "Les Plus Belles Voix, Volume
+        3", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "98d93ce5-c078-4725-8d5d-41be259e49a1",
+        "secondarytypes": ["Compilation"], "title": "Uplifting Old School", "type":
+        "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name":
+        "Various Artists"}], "id": "e623db4a-2134-4913-bf68-0fc5180a7ab5", "secondarytypes":
+        ["Compilation"], "title": "Chartboxx Me And You", "type": "Album"}, {"artists":
+        [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}],
+        "id": "2737f40a-3eb4-4ba9-bc05-5ada7e9c7d9e", "secondarytypes": ["Compilation"],
+        "title": "Je t\u2019aime 2", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "ec7ed685-d7af-3686-a731-36392ba1b286",
+        "secondarytypes": ["Compilation"], "title": "Motown Top 100 Allertijden",
+        "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "3e456d67-3042-4e9d-b604-f9cbb2cc7b80",
+        "secondarytypes": ["Compilation"], "title": "Motown", "type": "Album"}, {"artists":
+        [{"id": "afdb7919-059d-43c1-b668-ba1d265e7e42", "name": "Marvin Gaye"}], "id":
+        "e806b21c-b091-3644-8b31-b1da413daa09", "secondarytypes": ["Compilation"],
+        "title": "Gold: Greatest Hits", "type": "Album"}, {"artists": [{"id": "afdb7919-059d-43c1-b668-ba1d265e7e42",
+        "name": "Marvin Gaye"}], "id": "52195e19-f547-343b-a6af-33160265a480", "secondarytypes":
+        ["Compilation"], "title": "Anthology", "type": "Album"}, {"artists": [{"id":
+        "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}], "id":
+        "6985c0b5-7b01-355b-936e-16b56f3d66a5", "secondarytypes": ["Compilation"],
+        "title": "To Mum Love Motown", "type": "Album"}, {"artists": [{"id": "afdb7919-059d-43c1-b668-ba1d265e7e42",
+        "name": "Marvin Gaye"}], "id": "c9eb028c-caee-4aa7-afc3-48d163293722", "secondarytypes":
+        ["Compilation"], "title": "Icon", "type": "Album"}, {"artists": [{"id": "afdb7919-059d-43c1-b668-ba1d265e7e42",
+        "name": "Marvin Gaye"}], "id": "7fb8791f-bc01-37bb-a139-84c39efc596c", "secondarytypes":
+        ["Compilation"], "title": "The Very Best of Marvin Gaye", "type": "Album"},
+        {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various
+        Artists"}], "id": "f0a04cae-3be2-4ba6-8b76-f21e6e230787", "title": "Weddings
+        of a Lifetime"}, {"artists": [{"id": "afdb7919-059d-43c1-b668-ba1d265e7e42",
+        "joinphrase": " & ", "name": "Marvin Gaye"}, {"id": "ce4582b6-aee7-4da1-b841-3c619d4fb5a5",
+        "name": "Tammi Terrell"}], "id": "baada4e4-ebe4-3950-914f-e5d5ca64e0c6", "secondarytypes":
+        ["Compilation"], "title": "Greatest Hits", "type": "Album"}, {"artists": [{"id":
+        "afdb7919-059d-43c1-b668-ba1d265e7e42", "joinphrase": " & ", "name": "Marvin
+        Gaye"}, {"id": "ce4582b6-aee7-4da1-b841-3c619d4fb5a5", "name": "Tammi Terrell"}],
+        "id": "b66e8e6f-e80a-3e25-8cbc-90cda04b41a2", "secondarytypes": ["Compilation"],
+        "title": "20th Century Masters: The Millennium Collection: The Best of Marvin
+        Gaye & Tammi Terrell", "type": "Album"}, {"artists": [{"id": "afdb7919-059d-43c1-b668-ba1d265e7e42",
+        "joinphrase": " & ", "name": "Marvin Gaye"}, {"id": "ce4582b6-aee7-4da1-b841-3c619d4fb5a5",
+        "name": "Tammi Terrell"}], "id": "7db7cbbd-1b68-499f-ab22-2ee4300f8d26", "secondarytypes":
+        ["Compilation"], "title": "Icon: Love Songs", "type": "Album"}, {"artists":
+        [{"id": "afdb7919-059d-43c1-b668-ba1d265e7e42", "name": "Marvin Gaye"}], "id":
+        "e9a6ccc7-a64c-40d9-a19f-47bb972fba6f", "secondarytypes": ["Compilation"],
+        "title": "Playlist Plus", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "275d12de-ad86-43c6-9e80-510e17fb5de0",
+        "secondarytypes": ["Compilation"], "title": "Driving Anthems", "type": "Album"},
+        {"artists": [{"id": "afdb7919-059d-43c1-b668-ba1d265e7e42", "name": "Marvin
+        Gaye"}], "id": "2a482f63-e55d-3f1a-ab67-7ceedb853c86", "secondarytypes": ["Compilation"],
+        "title": "Marvin Gaye & His Women: 21 Classic Duets", "type": "Album"}, {"artists":
+        [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}],
+        "id": "0645e3bf-b3ba-4e80-93c8-eb5d853bfed9", "secondarytypes": ["Compilation",
+        "Soundtrack"], "title": "Classic Movies", "type": "Album"}, {"artists": [{"id":
+        "afdb7919-059d-43c1-b668-ba1d265e7e42", "name": "Marvin Gaye"}], "id": "19e716ba-e644-4683-b53d-e9439eb7632b",
+        "secondarytypes": ["Compilation"], "title": "The Ultimate Collection", "type":
+        "Album"}, {"artists": [{"id": "afdb7919-059d-43c1-b668-ba1d265e7e42", "name":
+        "Marvin Gaye"}], "id": "fabc8d10-64e5-452c-bfe3-5da10451d136", "secondarytypes":
+        ["Compilation"], "title": "The Very Best of Marvin Gaye", "type": "Album"},
+        {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various
+        Artists"}], "id": "3ae72497-d014-41e8-a202-50ebfe9de7fb", "secondarytypes":
+        ["Compilation"], "title": "80 Hits - Ann\u00e9es 60", "type": "Album"}, {"artists":
+        [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}],
+        "id": "ed2d300c-16e8-4706-a6ea-aa8ad06fab12", "secondarytypes": ["Compilation"],
+        "title": "Black Flavour Club III", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "9c319cb4-ee0d-30c8-861f-fda067fac8de",
+        "secondarytypes": ["Compilation"], "title": "20 Greatest Songs in Motown History",
+        "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "41e91a2d-e8c6-45ce-95d4-2b8de1de441c",
+        "secondarytypes": ["Compilation"], "title": "Motown Grammy Rhythm & Blues
+        Performances of the 1960''s & 1970''s", "type": "Album"}, {"artists": [{"id":
+        "afdb7919-059d-43c1-b668-ba1d265e7e42", "name": "Marvin Gaye"}], "id": "03c3bef4-c2fa-3e8e-999d-6e6a6f3b6eeb",
+        "secondarytypes": ["Compilation"], "title": "Soul Collection", "type": "Album"},
+        {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various
+        Artists"}], "id": "59739cc5-7f6b-3871-8044-668ae4f4c4e9", "secondarytypes":
+        ["Compilation"], "title": "More Motown Classics: Gold", "type": "Album"},
+        {"artists": [{"id": "afdb7919-059d-43c1-b668-ba1d265e7e42", "name": "Marvin
+        Gaye"}], "id": "f5b31fec-abc9-3214-9380-79b8fc650bf0", "secondarytypes": ["Compilation"],
+        "title": "The Master 1961\u20131984", "type": "Album"}, {"artists": [{"id":
+        "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}], "id":
+        "16b7ca90-ef74-49b4-921e-ad339cb1adb4", "secondarytypes": ["Compilation"],
+        "title": "AM Gold: Late ''60s Classics", "type": "Album"}, {"artists": [{"id":
+        "afdb7919-059d-43c1-b668-ba1d265e7e42", "name": "Marvin Gaye"}], "id": "dc54ed40-9b68-4d8c-9c25-9a6495a3eba0",
+        "secondarytypes": ["Compilation"], "title": "A Motown Legend", "type": "Album"},
+        {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various
+        Artists"}], "id": "d90b4b0a-4bab-354a-a2f2-87e215b99e8a", "secondarytypes":
+        ["Compilation"], "title": "Motown Classics, Volume 2", "type": "Album"}, {"artists":
+        [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}],
+        "id": "796b6a07-0899-4523-87d8-5c913138cf6a", "secondarytypes": ["Compilation"],
+        "title": "Soulful Summer: Hot All-Star R&B Classics!", "type": "Album"}, {"artists":
+        [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}],
+        "id": "19e8acf4-95db-4580-8426-d84d3e4d52b7", "secondarytypes": ["Compilation"],
+        "title": "Die Hit-Giganten: Oldies", "type": "Album"}, {"artists": [{"id":
+        "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}], "id":
+        "ab7bb6b2-bba6-382b-a381-97a4f09aae49", "secondarytypes": ["Compilation"],
+        "title": "The Best of American Music: The Limited Presents Motown", "type":
+        "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name":
+        "Various Artists"}], "id": "31e39803-610f-3e85-9e30-1031878cf9a6", "secondarytypes":
+        ["Compilation"], "title": "Superhits: Late-''60s Classics", "type": "Album"},
+        {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various
+        Artists"}], "id": "229bffcb-8142-3403-87db-b418a3e3e95b", "secondarytypes":
+        ["Compilation"], "title": "Body + Soul: Duets", "type": "Album"}, {"artists":
+        [{"id": "2514f57f-bee5-4dc1-a2c7-589aea08cef1", "name": "James Jamerson"}],
+        "id": "b5180add-9382-4b11-bd20-92d5a8260f7a", "secondarytypes": ["Compilation"],
+        "title": "Standing in the Shadows of Motown: The Life and Music of Legendary
+        Bassist James Jamerson", "type": "Album"}, {"artists": [{"id": "afdb7919-059d-43c1-b668-ba1d265e7e42",
+        "joinphrase": " & ", "name": "Marvin Gaye"}, {"id": "ce4582b6-aee7-4da1-b841-3c619d4fb5a5",
+        "name": "Tammi Terrell"}], "id": "d14e35f6-60d7-32be-b6fc-8ee3c177cee7", "secondarytypes":
+        ["Compilation"], "title": "United / You''re All I Need", "type": "Album"},
+        {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various
+        Artists"}], "id": "e9272597-2702-47bf-9adf-536489ff9e86", "secondarytypes":
+        ["Compilation"], "title": "Driving Music", "type": "Album"}, {"artists": [{"id":
+        "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}], "id":
+        "d31a41f6-3c8a-4a54-b98f-a18775facc42", "title": "Motown Classics"}, {"artists":
+        [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}],
+        "id": "580341a4-1954-4830-a28f-a98d01a0d602", "secondarytypes": ["Soundtrack"],
+        "title": "Hitsville: The Making Of Motown (Original Motion Picture Soundtrack)",
+        "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "09575793-6974-47e9-bcca-2b1af708a00b",
+        "secondarytypes": ["Compilation"], "title": "100 Motown Classics", "type":
+        "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name":
+        "Various Artists"}], "id": "354f6ada-6628-39db-87b6-2b3c3613f8c4", "secondarytypes":
+        ["Compilation"], "title": "Reader\u2019s Digest: The Super 60\u2019s", "type":
+        "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name":
+        "Various Artists"}], "id": "a16865a2-c3fe-4cd8-a47d-50fd21a23e43", "secondarytypes":
+        ["Compilation"], "title": "Friday Office Music", "type": "Album"}, {"artists":
+        [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}],
+        "id": "8fb829a3-9a1d-4306-a008-1c0f835c6636", "secondarytypes": ["Compilation"],
+        "title": "Forever Favorites", "type": "Album"}, {"artists": [{"id": "53b106e7-0cc6-42cc-ac95-ed8d30a3a98e",
+        "name": "John Williams"}], "id": "f74d14d1-48e8-38a2-b248-24fce5bb90c5", "secondarytypes":
+        ["Soundtrack"], "title": "Stepmom", "type": "Album"}, {"artists": [{"id":
+        "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}], "id":
+        "2ad6881b-87c3-448b-8c94-f67b3adb2923", "secondarytypes": ["Compilation"],
+        "title": "Move On Up: The Very Best of Northern Soul", "type": "Album"}, {"artists":
+        [{"id": "afdb7919-059d-43c1-b668-ba1d265e7e42", "name": "Marvin Gaye"}], "id":
+        "fe8ed528-85b9-46a6-a9ac-0b73bb22ad6e", "secondarytypes": ["Compilation"],
+        "title": "The Master 1961-1984", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "8d10205c-32e4-37af-b496-de4ab1cc0250",
+        "secondarytypes": ["Compilation"], "title": "Tamla Motown Gold", "type": "Album"},
+        {"artists": [{"id": "afdb7919-059d-43c1-b668-ba1d265e7e42", "name": "Marvin
+        Gaye"}], "id": "6325f31e-ee48-4fac-9755-4dc2161dfecd", "secondarytypes": ["Compilation"],
+        "title": "Ain''t No Mountain High Enough: The Collection", "type": "Album"},
+        {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various
+        Artists"}], "id": "f2bf1bb8-3098-47ee-b6ec-60db363b9e76", "secondarytypes":
+        ["Compilation"], "title": "Motown Love Jams, Volume 1", "type": "Album"},
+        {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various
+        Artists"}], "id": "085727d1-ae41-46f5-9d8b-287ab9b7158c", "secondarytypes":
+        ["Compilation"], "title": "Les Hits 1967 : Salut les copains", "type": "Album"},
+        {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various
+        Artists"}], "id": "ec5822f3-117b-3d88-a7d2-5b03714dc97c", "secondarytypes":
+        ["Compilation"], "title": "The Love Songs of Motown", "type": "Album"}, {"artists":
+        [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}],
+        "id": "ddabcaca-978b-300b-a00b-2e18e6a50a83", "secondarytypes": ["Compilation"],
+        "title": "Reklame Favoritter", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "749266ae-5393-4688-ae19-c320b74e9e84",
+        "secondarytypes": ["Compilation"], "title": "Rhythm & Soul Basics Vol. 1 :
+        Rhythm & Blues Basics", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "d5e1c62f-2baf-40e2-a032-3c340bb5f2c1",
+        "secondarytypes": ["Compilation"], "title": "HuMotown 3", "type": "Album"},
+        {"artists": [{"id": "afdb7919-059d-43c1-b668-ba1d265e7e42", "name": "Marvin
+        Gaye"}], "id": "30bad42d-2d83-3b39-80e8-4669153738ef", "title": "Grandes mitos",
+        "type": "EP"}, {"artists": [{"id": "afdb7919-059d-43c1-b668-ba1d265e7e42",
+        "name": "Marvin Gaye"}], "id": "14994829-0c19-46e7-a514-ee91f7a7eb4c", "secondarytypes":
+        ["Compilation"], "title": "Icon 2", "type": "Album"}, {"artists": [{"id":
+        "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}], "id":
+        "f199765e-448a-4496-84b8-85d03d7330f4", "secondarytypes": ["Compilation"],
+        "title": "The Motown Collection", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "cde3d6fe-503e-4b4e-843b-e79020bd0db4",
+        "secondarytypes": ["Compilation"], "title": "Motown Essentials", "type": "Album"},
+        {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various
+        Artists"}], "id": "950092d6-45f6-4269-87da-99a9ff2fcc52", "secondarytypes":
+        ["Compilation", "Soundtrack"], "title": "Guardians of the Galaxy: Awesome
+        Mix, Vol. 1: Original Motion Picture Soundtrack", "type": "Album"}, {"artists":
+        [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}],
+        "id": "38ba099e-a34e-3f10-855a-cda921db4c56", "secondarytypes": ["Compilation"],
+        "title": "Best of Motown, Volume 3", "type": "Album"}, {"artists": [{"id":
+        "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}], "id":
+        "73aa6517-9afb-4db0-8710-96a3bfc2ebd7", "secondarytypes": ["Compilation"],
+        "title": "Music for the Car", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "da91a1b7-6d60-3c1d-9931-ae382dde81e4",
+        "secondarytypes": ["Compilation"], "title": "Marvel of Marvin: The Heard Instinct",
+        "type": "Album"}, {"artists": [{"id": "b904d624-9e05-4398-8f4f-88fbcf022f79",
+        "joinphrase": " / ", "name": "Barry White"}, {"id": "afdb7919-059d-43c1-b668-ba1d265e7e42",
+        "name": "Marvin Gaye"}], "id": "32be5766-85c7-34b3-b83e-e2c553c3c020", "secondarytypes":
+        ["Compilation"], "title": "Les l\u00e9gendes de la soul", "type": "Album"},
+        {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various
+        Artists"}], "id": "860d70f0-d656-458d-b9ff-6ce875724d0d", "secondarytypes":
+        ["Compilation"], "title": "Absolute Soul", "type": "Album"}, {"artists": [{"id":
+        "afdb7919-059d-43c1-b668-ba1d265e7e42", "joinphrase": " & ", "name": "Marvin
+        Gaye"}, {"id": "ce4582b6-aee7-4da1-b841-3c619d4fb5a5", "name": "Tammi Terrell"}],
+        "id": "069ee10c-f694-36d9-91b0-2e1f405a9708", "title": "United", "type": "Album"},
+        {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various
+        Artists"}], "id": "0da70a78-f954-37a9-b6d7-c48b15924c11", "secondarytypes":
+        ["Compilation"], "title": "Legends of Soul", "type": "Album"}, {"artists":
+        [{"id": "afdb7919-059d-43c1-b668-ba1d265e7e42", "name": "Marvin Gaye"}], "id":
+        "63f223e5-cece-4ce4-9a4d-ba8a0c0e8b3d", "secondarytypes": ["Compilation"],
+        "title": "Legends of Soul", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "86402430-ce97-405a-b575-4ff1e510d299",
+        "secondarytypes": ["Compilation"], "title": "Classic Songs of the Motown Era,
+        Volume 1", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "ebc5c8a7-5537-34b2-a7ad-a2bc50ba4a31",
+        "secondarytypes": ["Compilation"], "title": "Hitsville USA: The Motown Singles
+        Collection 1959\u20131971", "type": "Album"}, {"artists": [{"id": "ce4582b6-aee7-4da1-b841-3c619d4fb5a5",
+        "name": "Tammi Terrell"}], "id": "71c9fb6c-cfc1-33c8-8da6-41828fca4e64", "secondarytypes":
+        ["Compilation"], "title": "The Story of Tammi Terrell", "type": "Album"},
+        {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various
+        Artists"}], "id": "6dcd5e7e-d7df-493f-b6ba-96d580b8340f", "secondarytypes":
+        ["Compilation"], "title": "Motown for Kids", "type": "Album"}, {"artists":
+        [{"id": "afdb7919-059d-43c1-b668-ba1d265e7e42", "name": "Marvin Gaye"}], "id":
+        "7f783514-4841-398c-af31-213f13232592", "secondarytypes": ["Compilation"],
+        "title": "The Marvin Gaye Collection", "type": "Album"}, {"artists": [{"id":
+        "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}], "id":
+        "7e2cbb4a-2265-3071-a51c-b8549077cb41", "secondarytypes": ["Compilation"],
+        "title": "Las 101 canciones del cine", "type": "Album"}, {"artists": [{"id":
+        "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}], "id":
+        "56433574-6443-4b39-af60-5f53c4b0e897", "secondarytypes": ["Compilation"],
+        "title": "Retro Music", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "6dfc3ca9-cefd-3299-a043-98f2aa48c45c",
+        "secondarytypes": ["Compilation"], "title": "Best of Duets", "type": "Album"},
+        {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various
+        Artists"}], "id": "7409a289-0cd2-49a4-b227-db2e707d3964", "secondarytypes":
+        ["Compilation"], "title": "Motown 50 Fanthology", "type": "Album"}, {"artists":
+        [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}],
+        "id": "bea327f9-9229-3a40-b75e-3a58d8713277", "secondarytypes": ["Compilation"],
+        "title": "Motown, Soul & Great Rock n'' Roll: Motown", "type": "Album"}, {"artists":
+        [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}],
+        "id": "fc84a442-e0de-33fb-8308-e678fd9a024e", "secondarytypes": ["Compilation"],
+        "title": "Las Cien de la 100, Volume 2", "type": "Album"}, {"artists": [{"id":
+        "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}], "id":
+        "6350bcf8-948e-4613-a7c6-3a74f4f88153", "secondarytypes": ["Compilation"],
+        "title": "Mut gegen rechte Gewalt", "type": "Album"}, {"artists": [{"id":
+        "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}], "id":
+        "2d9f27ff-5243-336d-9093-360f55d56c53", "secondarytypes": ["Compilation"],
+        "title": "It Takes Two", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "d43555cf-2dcc-481c-957b-1a2266f0e1d8",
+        "secondarytypes": ["Compilation"], "title": "Retro Road Trip", "type": "Album"},
+        {"artists": [{"id": "afdb7919-059d-43c1-b668-ba1d265e7e42", "name": "Marvin
+        Gaye"}], "id": "0cad0f75-886d-3275-a5d0-ac7519fad639", "secondarytypes": ["Compilation"],
+        "title": "The Love Songs", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "352bbb00-9902-3003-9ecd-27bb69149138",
+        "secondarytypes": ["Compilation"], "title": "Classic Rock: Shakin\u2019 All
+        Over 1967", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "2e22b9fd-8b03-345f-a805-240275ec42a4",
+        "secondarytypes": ["Compilation"], "title": "El Mejor \u00c1lbum De M\u00fasica
+        De Anuncios TV, Volumen 2", "type": "Album"}, {"artists": [{"id": "03cfec4a-9885-444c-9e74-5fbab5861106",
+        "name": "Tyler Bates"}], "id": "e974e9ae-1933-45a5-8f3e-230ccb1759c8", "secondarytypes":
+        ["Compilation", "Soundtrack"], "title": "Guardians of the Galaxy: Deluxe",
+        "type": "Album"}, {"artists": [{"id": "afdb7919-059d-43c1-b668-ba1d265e7e42",
+        "name": "Marvin Gaye"}], "id": "6ec7980f-e668-3cfa-89d5-fd758be2f432", "secondarytypes":
+        ["Compilation"], "title": "Soul Legends", "type": "Album"}, {"artists": [{"id":
+        "afdb7919-059d-43c1-b668-ba1d265e7e42", "joinphrase": " & ", "name": "Marvin
+        Gaye"}, {"id": "ce4582b6-aee7-4da1-b841-3c619d4fb5a5", "name": "Tammi Terrell"}],
+        "id": "5b3e27b8-3e05-35b7-ae00-e1c2fa603a5f", "secondarytypes": ["Compilation"],
+        "title": "The Complete Duets", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "e53af2f8-7bee-4c43-83a1-9635c82933d1",
+        "secondarytypes": ["Compilation"], "title": "Anthems: Soul Classics", "type":
+        "Album"}, {"artists": [{"id": "afdb7919-059d-43c1-b668-ba1d265e7e42", "name":
+        "Marvin Gaye"}], "id": "81770203-f9db-48bc-ad0c-d3ce6ad7db86", "secondarytypes":
+        ["Compilation"], "title": "Can I Get a Witness", "type": "Album"}, {"artists":
+        [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}],
+        "id": "232199d0-b616-49e5-a974-7cd41c953372", "secondarytypes": ["Compilation"],
+        "title": "Let''s Dance: Das Tanzalbum 2016", "type": "Album"}, {"artists":
+        [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}],
+        "id": "22c2b929-6154-324c-982f-2d84a8ffda1c", "secondarytypes": ["Compilation"],
+        "title": "The Motown Story", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "d1b2b540-d783-4fc3-a826-0e748a96f7fa",
+        "secondarytypes": ["Compilation"], "title": "Road Trip Sing\u2010Along Songs",
+        "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "07d113e9-332e-324a-8834-66ed2d8932a0",
+        "secondarytypes": ["Compilation"], "title": "Motown 50: Yesterday, Today,
+        Forever", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "67c84cb1-6250-41e8-b546-f575bfb2c55d",
+        "secondarytypes": ["Compilation"], "title": "Back to Soul: New Soul Queens
+        and Legendary Divas", "type": "Album"}, {"artists": [{"id": "afdb7919-059d-43c1-b668-ba1d265e7e42",
+        "name": "Marvin Gaye"}], "id": "ee7491b7-3bd5-3f30-ae49-d09579b6371a", "secondarytypes":
+        ["Compilation"], "title": "Anthology", "type": "Album"}, {"artists": [{"id":
+        "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}], "id":
+        "f33ceae8-b3f6-4a9f-8a6c-4922009a0c20", "secondarytypes": ["Compilation"],
+        "title": "NOW That\u2019s What I Call 60s", "type": "Album"}, {"artists":
+        [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}],
+        "id": "51bcc512-e77f-4a88-8455-40f60c882412", "secondarytypes": ["Compilation"],
+        "title": "Romancing the \u201960s", "type": "Album"}, {"artists": [{"id":
+        "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}], "id":
+        "fa069b84-1281-3d34-a6a4-8baa5b66c7e7", "secondarytypes": ["Compilation"],
+        "title": "100% Soulmates", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "6f302542-cb03-447a-8d5c-1d8f721bb3cf",
+        "secondarytypes": ["Compilation"], "title": "Motown Floorshakers", "type":
+        "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name":
+        "Various Artists"}], "id": "f9411331-3a49-35f6-96b5-868ad05dc70e", "secondarytypes":
+        ["Soundtrack"], "title": "Remember the Titans", "type": "Album"}, {"artists":
+        [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}],
+        "id": "8ccf0c18-7331-4141-a951-d8fc37a40399", "secondarytypes": ["Compilation"],
+        "title": "Las mejores canciones de cine vol. 2", "type": "Album"}, {"artists":
+        [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}],
+        "id": "8ea0b7aa-775e-3c0f-a329-0c041110e91a", "secondarytypes": ["Compilation"],
+        "title": "Soul Magic", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "57af5f7d-2f33-4581-960a-4fbb4a1381d3",
+        "secondarytypes": ["Compilation"], "title": "Girls Night Out", "type": "Album"},
+        {"artists": [{"id": "afdb7919-059d-43c1-b668-ba1d265e7e42", "name": "Marvin
+        Gaye"}], "id": "b95f57c2-a982-38fd-87f4-a18ec55862d9", "secondarytypes": ["Compilation"],
+        "title": "The Marvin Gaye Collection", "type": "Album"}, {"artists": [{"id":
+        "afdb7919-059d-43c1-b668-ba1d265e7e42", "name": "Marvin Gaye"}], "id": "bea7f852-b6b9-413d-b047-40d7df3c7eb5",
+        "secondarytypes": ["Compilation"], "title": "Collected", "type": "Album"},
+        {"artists": [{"id": "afdb7919-059d-43c1-b668-ba1d265e7e42", "name": "Marvin
+        Gaye"}], "id": "840d4018-d6fc-4c48-965f-461ac579ed9b", "secondarytypes": ["Compilation"],
+        "title": "Love Marvin: The Greatest Love Songs of Marvin Gaye", "type": "Album"},
+        {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various
+        Artists"}], "id": "37355bf7-a9d0-414b-b6a5-ef64219670cd", "secondarytypes":
+        ["Compilation"], "title": "Absolute 60''s", "type": "Album"}, {"artists":
+        [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}],
+        "id": "c93b946d-ee38-3c10-8c2d-9d890d6a3fdf", "secondarytypes": ["Compilation"],
+        "title": "Motown No.1\u2019s", "type": "Album"}], "title": "Ain\u2019t No
+        Mountain High Enough"}], "score": 0.961564}], "status": "ok"}'
+    http_version:
+  recorded_at: Tue, 29 Jun 2021 13:48:13 GMT
+recorded_with: VCR 3.0.3

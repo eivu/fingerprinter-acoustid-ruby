@@ -1,0 +1,58 @@
+---
+http_interactions:
+- request:
+    method: get
+    uri: https://api.acoustid.org/v2/lookup?client=<ACOUSTID_CLIENT_ID>&duration=326&fingerprint=AQADtFEYaTqhjsGPL4cdPBy6Ho2nQ89yPMOFpgpaNce1ozn6RMGbQ3uORsanJ3hTMB-aH1cy45WBE2YeXNnR72jU7OiRZ8IXUFKko4_xHQ1qZUc-6D_Ow5FwF212aPnx8Cn6o87xKA_KR2jOQI9x44Usjric4tUcnIEfPLzxBPfxHKWUo0lzvNqEixEP8cEVPcid40PFoVFZacgZo8_RXMI1HbqORj1qxUvw1mC-oMkUcccdJcWRj8YfNMwe9NrR6Dn6ZEd75JFQO2gY5egL0suJqkfzKB2e493xQlxl6AoFWkdTHV9-vLmQF0ceagPbBT8cX-iOSziXDR_6oMlzHD96AcdhecThH_txEof5o8d3TDmOE8cP_9AjfFlweoLcBT_a4zpOF7bxS_jxonAP9KhqPPB3EV-Oi4bR5viD_oNP4PSKo0dV7TAtfPhx_Eab4ziaHz1-9DiOw_KIwz92_DjMHz2-Y8pxnMB3-IcefFlweoJOfEd7_HhmNPbRX8KPF4V7oCeqCyf8G1-OS4ePFl8T9IdP4vi3CupRH_0H88E9_MIP_UR_5Gfw9DgZUMdx7KGYoPnxH0fy7MhPjB-ahN_xDz_6XEjvQD9yHQyp4pHwBjwxOrOC5Eqe4ImOcM4Of0EvXM_x5EXek8LzoF0gHmneoGKkoFlCoXuI48EdRkHZHcmytEHOBqeHPzge8viD2Ie2XXCkJGty6DlyCTexORcOznrQyMTxCLknolaEF4f2M7iKdhLSM3iOPcaP6-gR6MiPs-nw4COK5sihI-eFH-_xPPjRCX7QZzh9fMdDjObRXzjzwDUu2NZRK0RsQjuHLFGP67iVKngSHqxcHX_RFx_CL4Gu4-iP5zhz_Dh1XNoI0caFN8HDwCe0qwyOdkR6KXiwx_hxHT0CHflxNh0eXCF6NHiRQ-eF_HiP58GPTvCDPsPp4zseYjSP_sL5wB8O2zpqhcghRdfQXEdu_bioPLjCg4xcHW-LHj9yTegPeUIuXDpyvugPZ4PzEeK24SoePMzhE9p1_CvCE74U7MGN77h2IISO_DibDscVHj0aHHmh80J-vMej433QCX7QE8_s4cNDjCb6C-cjuBuuw7ZQK8SRTBeYqPqRC7cahXgS5mD14y66Fl-RL-h46EFxXjiPDxeujRCPR8fX5DgDny20n_gRyoTzEMeN_biOHyH0Iz_eHHeCWhleNMgLHTkvHF2PPhf-4ELzoCeeGd-HhxhN9NdwHu52XLB91AqFI5mugcmPvNFx6yEeMQe7H5_ooB6PI9cSaCLyBL1wacf1CT-uw3WOXsMfxPSPn0fXCRaPX5AO6T3Ms3iUBcdFwhZ6Hh8vdIdTtGSOHrYOHc-F49Vh_ngg9riO6riInoetosePWj384EV-_EGqDcUxFQ63HJrMo6_hDx8TWDj0VEbz8LiD5scTHv4-XDy2H32K87hWMD-aD9U1uDpO_Onhwz5-uA74XTjs40TPo9cOHz2P9rhz-AuOhzEhtsE5FvoLhzpRVcSPG-2Dxjd-_Ax6uJNW9MSPvoY7dDeOmjNsReiH52h_2NpwHYNfKKt6HH4tfIT448eVo-FqXNxxo08qNB9-HrV2GCTrQ4da7fB38Dc-HDaFE73QB3aFnifa4z4hnjhPPISZJjgLnWThj0R9vPjRH_7Q6vjRD2Keo5-OE5WXOBC74T1WjYerBD9eod-BhsIV4_AP98dTw_nx7PBV_MITFn4x_fiOvkTzmfjRoBYPZqSK4zqcZQSPHzps_GgtHz3sQ_vy4Uo39PB7PDvxBmaMfkW_Mkg_VFR2HMePMA86Ghd6iDh0_DncDe9xwswuHMeZQ-yOD_vg4z_OhC5E-DG-IEz4CU8yvEfDG33xcdiJpkd4Hj2OQ4eP7_CPnMeQ40RD7vjRh4OyH8df-LiC44QfDj-e45dxwF9w3fBJPJMO_HBHCy_6oDpMoT_OET0akseHbzt6WCV-HNyJH9_BHeeIb8bFww96fFmOE81xAsePc_jh7_gh4jx2-GhJ7EW_C8Z5HMdziEcv9Bys_cSPC8cFO8WXcbCOG-fxC1fQmPgu9Fpg3DjQ8IJsHleUozlefMPxG_eJPIcZB6dhHz_8IyyOQ5U_dEd-XB-OH36Fyhl2IRf6HDrCHcfx7OjdBLXQh4V5hCsOHXmP53h2nDM6HTCnFf3wHz_2RAHAjDEMMSSMSApQgQhBwihCnEGMKQEMsMQJ5QRxAghilKGAAYKQIQAgQAhgQAlJkHEECWCkIUZQJQhAghECCADMAGMAIQAAoQwgABhACClKOAAQwIo4YAAxThgDGGNUXaGQNGII4gByDzmFADIMKaAMcwopAYEUAAAHhBACCAoBRQoIYkQTxDLGNFVXKHSEGII4gNxDCgFkGBIKKMUMUUgJCIgSBkAnnBAIKAEMIQYghRAXQClhgAFEgSIUAoACLIwDgAlGFUCAEsYgCIYQBgQygAABhESCyJAEAFCAgohURgBNkUSGGCSoABAwAZhRVCGGhEiAIkIoEYYZpJBgBCKGACIIGYOdI0YAAQUiBjJhhBTCUOAAQwIIChhgRlGFGBIiCaYEkUQYZpBCghGIGAKIKMGMMoACAAgwAjCCACLQEweIYABJwYAgBghgkDHKIYaESEAwJYgkwjCCABIMMoCIQpQZYBgxgAGKGEXECGIQUQoJQYAAVBiHjFFUEOQYUoIyhQihTBCkBBIMIgYQYQIpZggFgAgDDBFGIKUJMIQZZAVgQAAEBGGGCACMSMIZYARWSEGRhCDcKCMGEQwRoZgUFHBChDDyAAMAUg4AZAQhDDBBkDNKEIAUMMBQa4gAABHiFBBMGUQEBRgIZABgggqBDKYCAIShUQAYwIxSSFFBgSFASCAIAMgarAhxSggGFBWCAQMYME4jYgRRjAHAmDIEmeUMUAYyYphSTiBEBALOGWW8M8QpoAAhRgLBgBJEAcUMUBJaKQRggCFGmTAUUAQcQAYgAYBwBgiitIXCASWIAY5QJgA0CVDHGGDMOCGUUAYZIYxCiCgABRNAWqGNFA4hIxBA2AhmmTXGCCaAFcYgcQhhBFmJhCICGCjFMhQ5gaBzACAjBAJIKBgYAgoygRwSlAkhLCMkGCAcMKw40ggQzCgFJGECMSKFYMgA&meta=recordings%20releasegroups%20compress
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      Accept:
+      - "*/*"
+      User-Agent:
+      - rest-client/2.1.0 (darwin20.3.0 x86_64) ruby/2.7.1p83
+      Accept-Encoding:
+      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+      Host:
+      - api.acoustid.org
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Date:
+      - Tue, 29 Jun 2021 13:42:17 GMT
+      Content-Type:
+      - application/json; charset=UTF-8
+      Transfer-Encoding:
+      - chunked
+      Connection:
+      - keep-alive
+      Vary:
+      - Accept-Encoding
+      Access-Control-Allow-Origin:
+      - "*"
+      X-Envoy-Upstream-Service-Time:
+      - '373'
+      Strict-Transport-Security:
+      - max-age=15724800; includeSubDomains
+    body:
+      encoding: ASCII-8BIT
+      string: '{"results": [{"id": "0ea3156f-7c7d-402d-b688-2e17245142e8", "recordings":
+        [{"artists": [{"id": "d20cbbbb-7359-47eb-b724-a17274989b42", "name": "Braille"}],
+        "duration": 328, "id": "40183bc8-160a-4b4e-85a4-45d8e6c8843d", "releasegroups":
+        [{"artists": [{"id": "8bb978c1-a003-4f6f-ac53-0c84ec8b28ee", "name": "Scuba"}],
+        "id": "3a7dcb96-f203-426f-a87d-ffb09581a353", "secondarytypes": ["Compilation",
+        "DJ-mix"], "title": "DJ-Kicks: Scuba", "type": "Album"}], "title": "Breakup"},
+        {"artists": [{"id": "d20cbbbb-7359-47eb-b724-a17274989b42", "name": "Braille"}],
+        "duration": 235, "id": "7040f8d3-e15a-4e8f-ade4-57347f05e355", "releasegroups":
+        [{"artists": [{"id": "8bb978c1-a003-4f6f-ac53-0c84ec8b28ee", "name": "Scuba"}],
+        "id": "3a7dcb96-f203-426f-a87d-ffb09581a353", "secondarytypes": ["Compilation",
+        "DJ-mix"], "title": "DJ-Kicks: Scuba", "type": "Album"}], "title": "Breakup"},
+        {"artists": [{"id": "d20cbbbb-7359-47eb-b724-a17274989b42", "name": "Braille"}],
+        "duration": 326, "id": "c37df246-2188-4b55-ab3f-e94bfe606926", "releasegroups":
+        [{"id": "02deedd2-3874-4db0-bd23-110019cdcfb2", "title": "A Meaning", "type":
+        "EP"}], "title": "Breakup"}], "score": 0.901872}], "status": "ok"}'
+    http_version:
+  recorded_at: Tue, 29 Jun 2021 13:42:18 GMT
+recorded_with: VCR 3.0.3

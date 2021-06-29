@@ -1,0 +1,57 @@
+---
+http_interactions:
+- request:
+    method: get
+    uri: https://api.acoustid.org/v2/lookup?client=<ACOUSTID_CLIENT_ID>&duration=85&fingerprint=AQACm0mUJEqyJEoc7D9-GJPN4CdyMc9whE_yGM3BH_rxC-EqIa4OfazRIN-FGx9TgfkzNH1xTD3Sw2dRvXj44OTxiQg-PEGtB2GOozm0Cz9yJdiPRkeP3IT-I9Sxp0h7_GgP7RPS9ZiO4z48IFcSEyejcND24z_x4yWU4z--E4d4dLOGhyRx5yHyJUfzxcG07sJ1_Mjx7YhDHU3oBL1wPBX6w82Fx0YO_diHXsbv4MVTEjpw9E-C5sVRNDqh68EvIdcVNN1Q4Nzw4shv_MXLQQvHHH2qI5aOB8fx49gXhcgVKYS2S0uQfzhxbA2-EzEORSf-C3kYhcGpF_GTQ9SP4wYf4jx-aGeMMNWChx34iyifw_1wJVmK_YGP_PgLcWTQP4E2JYzxiShy_EKfwHXwIcxVfDl05E-wx0IjP-iPSz9-_AgDQjtelCdy_DuOH-iFnAqhZ8erUQi3U6B2BZV6_DiCg1si6Pi2HPcVPMVDpYgU5_h0OKaRP2iO2PjRSwmmTJJE4mDIC_5gJidC6sIH5WjGrKgu4w2eQg8QPAhT0UGfQDsaeWHxqUd-BV-soEd66AgdHw8F_ElwPkKl57C28UijKNjeQ8MfPEfMD7G840xwvfgTPA90wa7wjT3-6jiu47uFZyHx4YQvxXiOH0e7w_pxUYc_hEeoL3B-HLu8BdV36EJzaOKUHD8ahDuPbzK6HWGsBSd-7C-a8tB5dMx0_Ea_ozlT8MGhdXCQ40duNGN2HH0gnkeOs8bfodmSHbnwKTm0zEf8oJGWURP-4nQqZC-M_9Ad48OP_oJmLbiIiz_sZMmR40JfpD-6HUetDFrSHrWy5Ph2WOWDPsfxJcnhJ4c-_ESOhnFwBtcPrzTCZsOZ4QTzQ_xBKTPaHteI6YernEJwXfjxo-9xhKly9Ax0bciTFnNn_MIJxqnRTJqYEHciHz9c4UL-BM8CJkfnDnoDvRnOD70e5GNelMzxo3kWhItEH_lnZOnx8jgJXcVpPDt8mfgNznpw5yinGddhfKlQXYT1eNCMNz32C7WD5oi8opIqBh9-0FaRCw8uGzpzGe5xHje-oz96aOGKZ0fJwzFtnPCO9rgP9kmheZGHP4Gmi8QffBn0HDt8XCV0HX9ITMsmCSnXh2jWqcFzvGjOIFxW58gVEOGZo-EvPLqgpWmOejPyE-Hh6EKdMCt4Cs8hRnh0FNYq3PjRG-XR-MBl9IZJiDP6Iwfza0MTkceetPiO9jjSHT1zJHMilYKrHM1TjDl-nGCoG1euFOXROG_Q58RT5jhxJoeXSeHw8Eh98IGW50E_aUJ1fpCR53hgazFu_ALCLlGQWEbDZDtqscGT40eYGskeBlcuMBIvCbk66CtSxujz4Dn6wuEW5D80bRGyH2WPptnxB2cw5brQ8riS4wlzfEtENCMxfSJwBT28Psj2dNAXOkhP40wyXAzOWMG7I1mO3PnxSWfwB80zIzyRnAT-HP-RKXpG6Dty5cPRP_AS0SJCytBJoknzw5cXRFrIVEauhMUeJEefB_8J28e_4-iE5IlS5EdTjhs6hkbM5dCPEE3H48mTRPjRRDyS7Uc2XsJ5XDrK1YI7IpSjkJBYxGJ0tE-EhFPCEJGu41LQXglyHk3FQF8yHnkkNCMt9MQ9Gb-O_sGZBQnPPIj-H1de8ApxaYe_wyF6Bd9TnEcundBSLch5VDvyH7pwPRm25zieC5N9iD_yHWVeCUfjyPBDMF-H-0NlhviPmMfhPA70eZjO44kkPJlR94UnPwChhFCKGEAFoEQ5g5QhTFAEFKBIAGSEIIKBopxEjmgBqXIEILAVN0wS7RAkgAgGBEFEKAWEMlAhQBwAkADrESDaVIWAoUIhAYxFBAminFEESASQQowwRYEwSiFZCASOKOXkUFghBBASABBAAUdGWeGIEcIRwIRQwBghIBTUEWecUUgpAoywClnCmDHCECSMEAoAJ7ihGgoEjDgGCUAxskAcqpSzwiLhEQHCCUQQZsYRQoQTQjnCiAQGKGaYAAIAAwAUAijEAEMQIUaIAcIAhwQABGFnABHGIaeAE4gAAwgAhkyFKHEDEFKMcA4haRgCAgAHoWJICAQEUAIA5CwwQAgFEDAGKeDAIAYJggQCiAhlgCPeCqBIEoAwBIEQRCljleGCGEGAUQgQIKQQhghjDREGAYScEEAIRB0FQhFBFIMKMKYIg8wpBpAgQCBgDCIIQAMkUEYJAQQAgAFHHHKAEQcUU0wwwpiSxAiBrHBCAEQQkBQYQIBAwAHEmGAGECGAQh4JCBghDiBCnACIAQCAQAYJpIgRBBEkgIBEGAEAMgIgAwAASAGCgBQCCKGIEQwgZQRQBgQCDEAACISAIMgAY5ghxhjCjAHKCIKEAYIwIIBSgAAAABCIIGOAME4ggwAjBBCHAATIMmEAFgw4IIgQRHBwlBBACQE&meta=recordings%20releasegroups%20compress
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      Accept:
+      - "*/*"
+      User-Agent:
+      - rest-client/2.1.0 (darwin20.3.0 x86_64) ruby/2.7.1p83
+      Accept-Encoding:
+      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+      Host:
+      - api.acoustid.org
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Date:
+      - Tue, 29 Jun 2021 13:45:45 GMT
+      Content-Type:
+      - application/json; charset=UTF-8
+      Transfer-Encoding:
+      - chunked
+      Connection:
+      - keep-alive
+      Vary:
+      - Accept-Encoding
+      Access-Control-Allow-Origin:
+      - "*"
+      X-Envoy-Upstream-Service-Time:
+      - '800'
+      Strict-Transport-Security:
+      - max-age=15724800; includeSubDomains
+    body:
+      encoding: ASCII-8BIT
+      string: '{"results": [{"id": "5143d02b-6759-4bb8-adc9-7e8a43e7cb1a", "recordings":
+        [{"artists": [{"id": "0d7b68b7-6039-4883-8214-9eeb13f8c283", "name": "Zacari"}],
+        "duration": 85, "id": "06d3d74c-6670-41d6-a311-a81bbc755594", "releasegroups":
+        [{"artists": [{"id": "381086ea-f511-4aba-bdf9-71c753dc5077", "name": "Kendrick
+        Lamar"}], "id": "4e317e28-e6b2-46d7-81f7-306e349b3dd4", "secondarytypes":
+        ["Soundtrack"], "title": "Black Panther: The Album (Music From and Inspired
+        By)", "type": "Album"}], "title": "Redemption Interlude"}, {"artists": [{"id":
+        "0d7b68b7-6039-4883-8214-9eeb13f8c283", "name": "Zacari"}], "duration": 85,
+        "id": "ed65a59b-4f0a-4b18-b026-8c31f2f084ac", "releasegroups": [{"artists":
+        [{"id": "381086ea-f511-4aba-bdf9-71c753dc5077", "name": "Kendrick Lamar"}],
+        "id": "4e317e28-e6b2-46d7-81f7-306e349b3dd4", "secondarytypes": ["Soundtrack"],
+        "title": "Black Panther: The Album (Music From and Inspired By)", "type":
+        "Album"}], "title": "Redemption Interlude"}], "score": 0.993347}], "status":
+        "ok"}'
+    http_version:
+  recorded_at: Tue, 29 Jun 2021 13:45:45 GMT
+recorded_with: VCR 3.0.3

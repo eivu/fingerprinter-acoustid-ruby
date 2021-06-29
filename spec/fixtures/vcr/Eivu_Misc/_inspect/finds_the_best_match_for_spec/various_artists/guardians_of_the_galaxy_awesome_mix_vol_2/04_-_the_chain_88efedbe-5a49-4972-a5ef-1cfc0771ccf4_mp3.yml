@@ -1,0 +1,132 @@
+---
+http_interactions:
+- request:
+    method: get
+    uri: https://api.acoustid.org/v2/lookup?client=<ACOUSTID_CLIENT_ID>&duration=267&fingerprint=AQADtFkyJSGnJQh__MN1uL6EN1mOC6GcH4n1CFOOi8FlNDeq__jxnHiUHF98hCFObDquHC_8ood2vUiPOxd-FM37o8ePKVzIwUPPIxePI6HEA5WOppKOJ8cf-MsxNgmu43k6-IniI99hN4c-I092VFWO-2je4uiVY7sUI11ngdFy6CTyHX6KdzdQSxds8fCPnjj7ICwoWA36aNBi9OKRG1Pi4DuO5j3OG5OnwE8UeD_apzhOHx6lIG8OPXD1I--Mbw-aExMr4UcT6WiVLPg--MedIR6SJ0fhLa3Ro09ybA8eNMtjnDROhLqQLDJuuLqGKzm-o_mOXhiv44ejKCEueeh_NGeG5MwQRz3aBaZ6lGSOo-myInp0UDU0iUyxH_lhNUtxIl-CM0dZ5fiQC1N-HPSOJ0qw10LqQl-Q62gXNNE9nEyDC36i4sf1EFuk0fh0HNWTI0yqHck3_B08Hp_ydLjgK8FvTJlQRgmuH03uoE-UID8SR8edfIWZ1LjEmCiaRzFOC02jGSHlGMl3jDnOTBkqZxZ-hJKS8NB8hFHp4M6C67gUHomVI88JZ5OOPx4eHQwlBk1-PBmR1MyRB_yyo1YiNM9wOfiUK5CzE38OM0qU43zwE2EmMUgiRhrup3Bt41GG93hGND-SsQiZHx8V_EW94Thz7MdHOMdDmkimD2mF_fCPTxSHl3gDOw_yHOIRPiOOK5cxM7mRuEwR6zheUUJT1fhFNNGDNTzCi0ayMFNyfMf1BPuNRhMzVFrx8cGOPmOGnPLgG4qsIzpeZcSDPLhEC7KzRgi5oGG4EO9G9AhzZofOTIiPrQ0-LjPxDt5j5JmRnCSY7Gg549qDZkenhTgfwTfyBccfVOLRkDn6oPmFB9qRKmQc9MeLHneCfseX5MOTx8gP7RC3MEc35QgfDR5fMN7SoPvQ6EPyCLmOTUxw6jia_Wi5FP-PJ4yDWvnQPMfxEzkUJd6Rky_MDj_x4-HxgLsGJ_fwg_mRHDm-L0OzUMdlkDfsB_nKQdxPZOnRLsvRjC-yX4f2FE2VHNHH4RJzDU-i4asw7Wi-VAt-K7hSxceVGXyMMHWgPRp2xJJ4nGyEPj3SHlp3hA-FSNmhb0d-Ejzh-biHNnrgTRdqHtF7JEt9TCxanfCYpyi55GjVD42Pa0beQFYPTUaYdcYl8IvRJw-JmcyDMpxMXJmQ54P2wJfQq7h44cpyPDlUHenz45mPMyr6RNjywBe6aCU-5cgv9IerDCULhfvQxRMDP_Px4EaoJEkYvA_6H2GuPMVznDTkKDq-o0eD73gQ8cdjvDhumWAeWnCsI8v2Q6WQaxse8WjG6WAe9AhTpVCZLEeV5AizE89KXGlCNM8RHqWUF1pegS-D_tjYafgSdRpOUeijFPfxrIa-cKiPMP-RE4-kcIJ-5MmP4z_845qHc03gZzp2M_iF_6iugdXo4MfVHS_SZVVx69BH5AueC1aSHce5wGs2MOfR85iCLzrCTId2PJRS_Pj14NHy48fhM8ITHQ8VKNzy41EcPMqNMyVONOeDWlkcPMtxHtXRPMqxy8G37HiWtLgeFM3z4RdeHVdUH_lR5UKTDzljDPRxQ3_xB48WI_yNi4e_4vvRDbmWXKg2HlrwDEf1o9GFXTrUDdeDF6qDSIw_NMl23BfKaYnQXAEttWjWKEQumlCUvUQcHVeCZiSF_sJFXGLQpYe7BQ9cZ8Suw_9ANprQLPh9JHmaIT_6Y3vwXMNfhBYNPYxShA-ao1aWDukWktAnpN1x_aik7einHD8cNTp6bcKJfkmEh0eiH_nxYJtstONxlRWacgivQHuEZgtyPmh29MNfNEef4ciP-UeyHv6EMwd_-Dr-Hj6cY6KPH_EWBcnS4xfO_PDkw1-K_fBRL0PHgEn045GEnh0OT0J-6GqRB86Fzrik41Ed_EVT5ah45OGRPB9qo8mj4FckVNOO5lmOL4bNI6ehPCe-w9OUdHglB4e9VcOPU0-GMAuPPsUe6fAX4wrRTGoRMsseJL2Fw4qc45xRPmie4wlloVEUG9XjIXmPfMxxyRS-5Ih_waMUPGfxHZraQIsiIx4up3iJelHgD-WPL5SR80ogHyGPpluKfwitQySXiki3Hr1n5Ep2_IEc8QgTBxOPo5yGv9h1JTh6JsMP9DoccUmJxEe0HD_M41KPx7AfvMXh6-hxxD_0Cnt0XHJw3miq5Mi1g3uGXEfPDxOZGXfxHmVz_MKfCk2PXhXOHeWJrbqK6-gb8GjyKBi0KOSNi-ygL3qI6keYqiHO7Ij3w0dyRclxHtOyHk0VfDq6SBqaH8nTI8zEoeV4lA-aUMeXLHhi9AqaOsUjRCcu8ZiiZA-qH4dm5-i1IxdoHl90OOGOM4sHfheasSvKSDNuPeB_ZIkelNqQR0PzY2KHO43QI4y14EogJ5EQJs5DHOeHZtqC57iDPjOJ5jhO_LCqDkn1HOHhZTx-4R_h57iOisd__LjRM_CRxkfiMJ-wLXmE2mnAS3iO-5iIM4IvtDtxhcOP5ih_PFtOHGHkC9WDqSsk1Sj3IzrRP2gi4r3RTOKFS4fPIxnlHTlLlJYzNOeRazwUkxbCH42T4cxUgT-8jOmC5FKeIMfRdCeu475w8Si3Iz-SR6pw8Ecj7qiOHz2ShctSIXwyotmFBxeqD82PvEeyLEpilBIdfDg_UFuPR9kTnGiW8WD0pcGP9Eg-YuzkCU2yqQr6o1lQ9sJx5gBCgENGAIAIUQhBBQgAVhIGmHACIQQwUAoIZQEA2BFBhACMA0WAARBoAgBQgCmAHBEAEQgAABwRIARQwAEAkCgIBIQQEAAw4IBywghgEAKcGSIEEoZAxABBhAhjCCKOCEUIQwIAQAAThwAnHNMMAAMFEEcRBZggRhCQkBGEIAEMMoJAAQQTwgBlGBBEMAQAMxIowAwwVhFFBCKGCGKMAQQIRABhxAAJjJMIAAaBU4gyoCQmQgAHAGGYKAEEC4wIZxwRzBCFkEEEKayUEBIIQogFBkgAhEIEIEkMYgoIQxQCTBECGBCECMKMUoBYBwFyAiA1FBFAIIIIBQIAQYhFkAGloDJMQbMAAUQZIQAQQAFgGAGESUEEAEgQKwwgDgmHBCPECGaEAQYRQJhCBBEhAEdAEQKMIIgZBAAjTBgEkAAAMUAYIkQYQYAUgAAnnaCSCASIEAAgA4zAgCkGAaFMGaIIIwAJAZAA3BikCABHGCQUAgIIYARwCiFBACJKCcOIIEIICoiQAAiBAECKAiasEQAJRoEACDIiiAMCECUAAYYQYJRDAhJAgTFAIEMcAAgIZgwACBFmgSHCGQAQUKAwpQhQRAhnnGCAIKWAsIIAgAAAgjvGhBKIIkgBIIAQRxhTggHgBAAEAQmEMMRKZoGChAGAhHMCEEMcUoQRIIgECAAkHDBIAMAEA8YYARwlwikiAALCBOMAIwQgQoBAgBCACFGACCAEFsYZoAwggGrDjBBOQASJFMw6QphiDhnCDJMEOWIMMFYRghBDghEDoDWAEEUEBUIAIQwBTCACiCGGCGKIcYYQ6QgQCBAygBAEIEkIAEIQRDwwyDICmlIGCWAhIEIogYBSgCAJBGIARECkQIRBBA1liDggjAEQEECEAMYABYAABDhBDBLIAGIuARAYJYSAyBBDgBEYKJCEYAaBACAgZACmEDGUgcYA&meta=recordings%20releasegroups%20compress
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      Accept:
+      - "*/*"
+      User-Agent:
+      - rest-client/2.1.0 (darwin20.3.0 x86_64) ruby/2.7.1p83
+      Accept-Encoding:
+      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+      Host:
+      - api.acoustid.org
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Date:
+      - Tue, 29 Jun 2021 13:48:19 GMT
+      Content-Type:
+      - application/json; charset=UTF-8
+      Transfer-Encoding:
+      - chunked
+      Connection:
+      - keep-alive
+      Vary:
+      - Accept-Encoding
+      Access-Control-Allow-Origin:
+      - "*"
+      X-Envoy-Upstream-Service-Time:
+      - '885'
+      Strict-Transport-Security:
+      - max-age=15724800; includeSubDomains
+    body:
+      encoding: ASCII-8BIT
+      string: '{"results": [{"id": "73369a42-60dc-4252-8962-45f476eeec45", "recordings":
+        [{"artists": [{"id": "bd13909f-1c29-4c27-a874-d4aaf27c5b1a", "name": "Fleetwood
+        Mac"}], "duration": 270, "id": "cd06c484-9319-4376-a104-504871e19756", "releasegroups":
+        [{"artists": [{"id": "bd13909f-1c29-4c27-a874-d4aaf27c5b1a", "name": "Fleetwood
+        Mac"}], "id": "ff1401ed-44e6-46f8-8ab3-232b34603552", "secondarytypes": ["Compilation"],
+        "title": "Fleetwood Mac / Rumours", "type": "Album"}, {"artists": [{"id":
+        "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}], "id":
+        "80447165-d1fc-4ad1-921d-3fa972d7710b", "secondarytypes": ["Compilation"],
+        "title": "100 Greatest Classic Rock Songs", "type": "Album"}, {"artists":
+        [{"id": "bd13909f-1c29-4c27-a874-d4aaf27c5b1a", "name": "Fleetwood Mac"}],
+        "id": "7a815e9e-7fa4-3d9e-a9ea-3d15a3ff677d", "secondarytypes": ["Compilation"],
+        "title": "The Very Best of Fleetwood Mac", "type": "Album"}, {"artists": [{"id":
+        "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}], "id":
+        "7e836750-3cd3-4c71-aa9e-b5143bc56a2b", "secondarytypes": ["Soundtrack"],
+        "title": "Guardians of the Galaxy: Awesome Mix, Vol. 2 (Original Motion Picture
+        Soundtrack)", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "5e374c38-5fcd-4943-b4c5-2489372fcab9",
+        "secondarytypes": ["Soundtrack"], "title": "I, Tonya", "type": "Album"}, {"artists":
+        [{"id": "bd13909f-1c29-4c27-a874-d4aaf27c5b1a", "name": "Fleetwood Mac"}],
+        "id": "416bb5e5-c7d1-3977-8fd7-7c9daf6c2be6", "title": "Rumours", "type":
+        "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name":
+        "Various Artists"}], "id": "247066b1-6292-456e-bf2f-2c5ece8dc4d1", "secondarytypes":
+        ["Compilation"], "title": "100 Hits American Woman", "type": "Album"}], "title":
+        "The Chain"}, {"artists": [{"id": "bd13909f-1c29-4c27-a874-d4aaf27c5b1a",
+        "name": "Fleetwood Mac"}], "duration": 266, "id": "d4751aa8-3fd9-4e64-993c-c530ba6e20dd",
+        "releasegroups": [{"id": "c5e1e90f-a702-3a7c-831e-4be25c5dc528", "secondarytypes":
+        ["Compilation"], "title": "Rumours Outtakes", "type": "Album"}], "title":
+        "The Chain"}, {"artists": [{"id": "bd13909f-1c29-4c27-a874-d4aaf27c5b1a",
+        "name": "Fleetwood Mac"}], "duration": 269, "id": "fa007a56-d648-4428-a532-c2a4e985d9fa",
+        "releasegroups": [{"artists": [{"id": "bd13909f-1c29-4c27-a874-d4aaf27c5b1a",
+        "name": "Fleetwood Mac"}], "id": "6c59167c-4ce9-4091-b812-464bc8ed8f5e", "secondarytypes":
+        ["Compilation"], "title": "50 Years: Don\u2019t Stop", "type": "Album"}, {"artists":
+        [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}],
+        "id": "159da484-2996-4ea4-a085-709e94bf87e3", "secondarytypes": ["Compilation"],
+        "title": "Classic Cuts, Volume 160: Legends", "type": "Album"}, {"artists":
+        [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}],
+        "id": "5a2ed760-4c83-4d00-aa64-1ee604a8458c", "secondarytypes": ["Compilation"],
+        "title": "Bacobens Rock Top 500 (CD5)", "type": "Album"}], "title": "The Chain"}],
+        "score": 0.994792}, {"id": "c0b5c25e-e69e-4df3-a6e6-9b7ce87be97e", "recordings":
+        [{"artists": [{"id": "bd13909f-1c29-4c27-a874-d4aaf27c5b1a", "name": "Fleetwood
+        Mac"}], "duration": 270, "id": "cd06c484-9319-4376-a104-504871e19756", "releasegroups":
+        [{"artists": [{"id": "bd13909f-1c29-4c27-a874-d4aaf27c5b1a", "name": "Fleetwood
+        Mac"}], "id": "ff1401ed-44e6-46f8-8ab3-232b34603552", "secondarytypes": ["Compilation"],
+        "title": "Fleetwood Mac / Rumours", "type": "Album"}, {"artists": [{"id":
+        "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}], "id":
+        "80447165-d1fc-4ad1-921d-3fa972d7710b", "secondarytypes": ["Compilation"],
+        "title": "100 Greatest Classic Rock Songs", "type": "Album"}, {"artists":
+        [{"id": "bd13909f-1c29-4c27-a874-d4aaf27c5b1a", "name": "Fleetwood Mac"}],
+        "id": "7a815e9e-7fa4-3d9e-a9ea-3d15a3ff677d", "secondarytypes": ["Compilation"],
+        "title": "The Very Best of Fleetwood Mac", "type": "Album"}, {"artists": [{"id":
+        "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}], "id":
+        "7e836750-3cd3-4c71-aa9e-b5143bc56a2b", "secondarytypes": ["Soundtrack"],
+        "title": "Guardians of the Galaxy: Awesome Mix, Vol. 2 (Original Motion Picture
+        Soundtrack)", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "5e374c38-5fcd-4943-b4c5-2489372fcab9",
+        "secondarytypes": ["Soundtrack"], "title": "I, Tonya", "type": "Album"}, {"artists":
+        [{"id": "bd13909f-1c29-4c27-a874-d4aaf27c5b1a", "name": "Fleetwood Mac"}],
+        "id": "416bb5e5-c7d1-3977-8fd7-7c9daf6c2be6", "title": "Rumours", "type":
+        "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name":
+        "Various Artists"}], "id": "247066b1-6292-456e-bf2f-2c5ece8dc4d1", "secondarytypes":
+        ["Compilation"], "title": "100 Hits American Woman", "type": "Album"}], "title":
+        "The Chain"}, {"artists": [{"id": "bd13909f-1c29-4c27-a874-d4aaf27c5b1a",
+        "name": "Fleetwood Mac"}], "duration": 266, "id": "d4751aa8-3fd9-4e64-993c-c530ba6e20dd",
+        "releasegroups": [{"id": "c5e1e90f-a702-3a7c-831e-4be25c5dc528", "secondarytypes":
+        ["Compilation"], "title": "Rumours Outtakes", "type": "Album"}], "title":
+        "The Chain"}], "score": 0.945148}, {"id": "44a2c4c6-8d6a-4a55-8b28-21da46f17068",
+        "recordings": [{"artists": [{"id": "bd13909f-1c29-4c27-a874-d4aaf27c5b1a",
+        "name": "Fleetwood Mac"}], "duration": 270, "id": "cd06c484-9319-4376-a104-504871e19756",
+        "releasegroups": [{"artists": [{"id": "bd13909f-1c29-4c27-a874-d4aaf27c5b1a",
+        "name": "Fleetwood Mac"}], "id": "ff1401ed-44e6-46f8-8ab3-232b34603552", "secondarytypes":
+        ["Compilation"], "title": "Fleetwood Mac / Rumours", "type": "Album"}, {"artists":
+        [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}],
+        "id": "80447165-d1fc-4ad1-921d-3fa972d7710b", "secondarytypes": ["Compilation"],
+        "title": "100 Greatest Classic Rock Songs", "type": "Album"}, {"artists":
+        [{"id": "bd13909f-1c29-4c27-a874-d4aaf27c5b1a", "name": "Fleetwood Mac"}],
+        "id": "7a815e9e-7fa4-3d9e-a9ea-3d15a3ff677d", "secondarytypes": ["Compilation"],
+        "title": "The Very Best of Fleetwood Mac", "type": "Album"}, {"artists": [{"id":
+        "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}], "id":
+        "7e836750-3cd3-4c71-aa9e-b5143bc56a2b", "secondarytypes": ["Soundtrack"],
+        "title": "Guardians of the Galaxy: Awesome Mix, Vol. 2 (Original Motion Picture
+        Soundtrack)", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "5e374c38-5fcd-4943-b4c5-2489372fcab9",
+        "secondarytypes": ["Soundtrack"], "title": "I, Tonya", "type": "Album"}, {"artists":
+        [{"id": "bd13909f-1c29-4c27-a874-d4aaf27c5b1a", "name": "Fleetwood Mac"}],
+        "id": "416bb5e5-c7d1-3977-8fd7-7c9daf6c2be6", "title": "Rumours", "type":
+        "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name":
+        "Various Artists"}], "id": "247066b1-6292-456e-bf2f-2c5ece8dc4d1", "secondarytypes":
+        ["Compilation"], "title": "100 Hits American Woman", "type": "Album"}], "title":
+        "The Chain"}], "score": 0.642867}], "status": "ok"}'
+    http_version:
+  recorded_at: Tue, 29 Jun 2021 13:48:19 GMT
+recorded_with: VCR 3.0.3

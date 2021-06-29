@@ -1,0 +1,48 @@
+---
+http_interactions:
+- request:
+    method: get
+    uri: https://api.acoustid.org/v2/lookup?client=<ACOUSTID_CLIENT_ID>&duration=454&fingerprint=AQADtFKSJEyoaAt64UeOQwuJHD8OuziuLzhxfDWS_Qh_HP2Joz-aE3_wHPkRdvATHEe444d-_Mh__Oix48eP84gHPR6iR_jxo45-1MfR_Djx48mP82iObxl-9IiPH9qJtDuOT4LP4fiO7UcXCZEOMaoQ_jguPNSLNk-Hwx96Ik9yGdfRsPh1oDsOFY8RvvBx_MKPY_iJfISK9Dl2Hj7M-OiPqxWOfjYa4kleHP3hXOiO4D9-PNBKwj7yHz9--GiPozauunCOhI-RBz_q5MTRH83I4DJe5DnC6_AY4eh-AbmMQ_uFmPjx49gfFPVi_Mh1JOmFH__Q58R19GiOH8eTH-EPx8dF9IHqA-eFMD-OH58JW8d3HNuE-MZ-iKuO8Doe_KidB-Zw9BmOXMmPC82PUBfwH4iPQ-tCpDgu_Md13IjeE7qRMseIH052-DN-tHGOB32O5jlyBj089LiHRwv2MRaOHj7-HFQk5VCeRPCD_nhQUcgXo-fxnzjm48fjg6qOHT_OfLgS5TiPUPmRvC3wDO6HMih7CT6eYwuSWeGR88WHZ9fxTgwY0VFgUYVCSYdZ9Oij4yl29PnxOnjwlHjmItSSZmBy7PhxHXt4oeLg5Mdxwj8Oj3gO_UhzfAr6Hpd4nPjRSGPwocnx48aZILQdJD3e4hvQ5Dj6DT58hD-SH8fr4SmD6_hIJJPDITeOdwr848cPn8FFJ0XuC-p1fIN_aFLI4iGP_2B--NrRH-WhjBNKKUS_wx7eHXEklD9xKstD_MPE_EKzx8dpcEejstjyjChF7MtxJjmOZI-HHD3RHw51oQwe5qh8UCf8I9mzF3mBj05xJjumREEXrYImH0ZPoWTy4GjjPPh-HKfhN0TEH1fAXEXPDj9O1OMm-DA-3LhmwfiCu4akH9mJPsfzoxTusLB63GgePDiHF--R7Ef8Dh-aE-dwNCT6b3jQI8yR_Hjw28NnBqULR5egKVpJFP7w6Dhg8nhwJ_CPOGfwCTAXggyPH7iY4DU-zBphR9Ce4JIyTIe1FHl8mOSLnmSKg-HRhz0uNDomNQw-BbuPM8ENTTfe4_jgGO3Q4_ADJt-hPzh-4qQY9NsORzqimkPCNDpKHW8o9MmDXcUzHr0c_MWZSogtxfjTg9mEZpsxfrgaYyaP5lLwHPdgBc924Rq84zkO8Ue4lMfNHyeao8_SHCf6ozmD9_im44xwHcnsOMh7HIePHefwY_vxnEKYI8Hz49KPM8XfovsE1QwJ6rjAK9Fx_Gi5BFdRctER5lkmqBc-uih_UMtC1JKOQ3sk9NLx_HjWDldm2Iee4JKCMwcTDQ-P0OPx40XzdpjI4MOH7cSnHBdYJjkO7TEunIe7ozg6OMeP5suhv8FxG2fKBP5waQwSn0jjE8efKTLa5aDKGy2HJ_iI5kukI_zx4xPRHyY_9OjxCeSBdiHOCz2aS7hCQz6aH1m-4z364oersHjgF_1wHq_x4_mQzD7yT3iIw0eZHJWO84Phvwj_B8lDHFeegjWJ6sF1qC5x-OiTBy-OczquoqcQ5lmGP-j0odnT4RnOG20FK4yS4jp-ojmDXTn-oKEwkckevLug48wRfoS3HPQPT8rR9VKwH80ZlD2-4yLODFciC-qjEcf0DJcPL7vATvjhiia-kEh_IdmJ43qOL2Xwd2iybBKJZJ-I8DoaqsT14CeaUkHrrDiPfkd6Zqh26FfxmWBiF8xx6MfDCGeO_Hgu_JiOMJX0QKaUTMIlxNbRL4f54zoa6zjFB_PTFdeOJs6CXgSdIj-SKyvx7A2qHz7g6vjaw4yyDD_8I3-hJVSOOGeOTzw-HeU5PPiiI_kRjVU4o05IfBODU0Nz3qjy42ZW3HgSoX5hXjLyoSdUisfzIuwJXxsefEcO8egT5C56vMeZDDfME93xePiLR8T9BOvxgkEK7cjj4rfA-cFzzIkkfCE-1gLqTTqaf4hfIWleFM3yTPjC4w8uDv2CJkGu_dCVC2H2Bh98nEfzJMfv4AlyEtObQ4t847UQPocfo52O5tmNnjlyLTj6o7GiHD9uHT_6ED6HK0fzHHLewM9xKXrwD-2O5sT1QP8R0kNjfcSP_6goJkLDesgbaJmcI3w2fNmFGGK2bPiGXENJwk804ci7FKJKI7_wonl2_Oi3IM0U9NAfI95y9O3QPPiHPJIPLXRSIffh50Ev_PiRQ8zGII-O7_iNy0KlG9ZxMkIK8RPC43mM52gkDn3CID_0o7mSEeGY48eeIQwro9YDzVOMKU-FqA3yHFOuozf0Ip_gR9nwow9TNB_OHPnR7Ic2L8eLH80WtJzxlglOonkio1VOXGjHoFEarfgBA6hhVAR2FAECIGMEAhARA4BBxFggIUEQCUcJEoASSI1BCDkkIDAGALSEowIJgQgAQmAJjSBUDBMAMMYIgxQAVAgDkAFAAHGEENU4BIIDxABiBYCIEQSQIQAAAxBUShBGiIOIAgEMQ8oxYgggRjgRiGAEGoeAcwQABgAASAGHEFGUICSEMUgghAQwTikLgRRGGSCMUViIgQgQiBAgADFIpCKEIkQQBhViggnCgBUCYQAEIAQJAgwwRjIgFACKaUcQsYgQY4gBigDEFAGBMCVMMYAQKQQSCgCnGQDIcKQIAIY8gEwzEoEhECGGGYcgMkQKJI1FSjlEqWUACYiYINCQIAAgEEBghABEKAIAMUQIAoQAgAkFBGDAAEYMWF4QZQSRQAFBxHGEKCGBEwAbQAEigiEHmGAGIEWENAABBpAjhhAFkAAAFEIVSZQSYYRiwljLBDVcSQGYMYARBQQbQiBGACEUCUMRYUkQRKkFhBABABICGKcYIEIQYARgBhjACDMMSAUAIEkAogQgChjCBDDUUQAcQYQCQIQihmAgBJQAEAqZAlAIAagQQAhBkGKIKKUUEyJYAQgyBCzQCDLeISGQspQgQAglgiDKhFAAQMEEEAxJBhBABEjCmMAMCUAIMwQ4AYBRSijHCBAEEGQZYIKYKIS1RjEBAESCEcMQFUAQ4oAAjCFCBTLCCcCMIAIhMBARjDggJQVCGQEEAkwoABUhgAEmiAKEIAIMAwxZQQhRwBEGARBCGSEMAAggQwBxiigGiHBEAWAYQAI5IJABSAFgAAJCMISIUpJgRAAX2lmCEKBESEEUVQQJQAgABDiBjAHAEGGIIAYZwBQQxihgDABCADKQooIRaYASwACBAAEKUSEYMoAASoQAQBBhEWLCASEEQ4gxQQQQDAEBgWHOCCsYYIIgJggEghFlEDOQEQSCQwghQphhgjEghCFOMIElEBYA0Aw&meta=recordings%20releasegroups%20compress
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      Accept:
+      - "*/*"
+      User-Agent:
+      - rest-client/2.1.0 (darwin20.3.0 x86_64) ruby/2.7.1p83
+      Accept-Encoding:
+      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+      Host:
+      - api.acoustid.org
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Date:
+      - Tue, 29 Jun 2021 13:44:05 GMT
+      Content-Type:
+      - application/json; charset=UTF-8
+      Transfer-Encoding:
+      - chunked
+      Connection:
+      - keep-alive
+      Vary:
+      - Accept-Encoding
+      Access-Control-Allow-Origin:
+      - "*"
+      X-Envoy-Upstream-Service-Time:
+      - '68'
+      Strict-Transport-Security:
+      - max-age=15724800; includeSubDomains
+    body:
+      encoding: ASCII-8BIT
+      string: '{"results": [{"id": "df9e0d0c-0c33-4a71-9a9d-d310f7330370", "recordings":
+        [{"artists": [{"id": "3c3d3ad8-3935-4c00-affb-768563916f36", "name": "Fluke"}],
+        "duration": 454, "id": "c9fa1662-7098-4fa4-8b1f-0c5a0478ced8", "releasegroups":
+        [{"id": "50615933-ee44-33a2-b6e1-75f9dd35b937", "title": "Risotto", "type":
+        "Album"}], "title": "Goodnight Lover"}], "score": 0.98058}], "status": "ok"}'
+    http_version:
+  recorded_at: Tue, 29 Jun 2021 13:44:05 GMT
+recorded_with: VCR 3.0.3

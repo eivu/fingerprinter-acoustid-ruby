@@ -1,0 +1,200 @@
+---
+http_interactions:
+- request:
+    method: get
+    uri: https://api.acoustid.org/v2/lookup?client=<ACOUSTID_CLIENT_ID>&duration=137&fingerprint=AQADtMkTbtLQL0HjZA9-qMYL37iEo0-GJlSWQ9_RfImF8DvawC4qOriPU8ePME-MNiJ66FvgjDv-regNfS96NG6Oe8fRwxPFQnuFukf-oHrw8TgzhHIemNCP3OjRB840oXuQF_1hH3offIfe7PiPH0d47SgbBc1xXEdvpJB9I57E44eP_0hZHZqOfBeaHD0u5bjxHk1uhAuzDGqDvDlKHe_xiB8cjkRJHj1JNCd-9OLR5EecUC76MDDH4zuap-j1oGk1Qc8Riz8a6eiZ0biU48kjNJX0Inwk6FKP7oIl5fiOw1cM7UeeHsdPNDr-xMgHHUf-40M_xD_2C3pjoVTKoz_04HoQPpfQSPFxBVeFnBmSLHrwCuc1nHvQODx65nh6xD5-hNdHmEfxEj2PK_DhUsc3w06y4tYCo10uXF009OHR4AkeSTJ6uYhN6EI-jvB3PMdpEU6mMMcJ-2iXBZd-7MjzgaG0FtWqgwwZ_Ed_fPGx7Thn_B_0Br2EU8en45SMHtqv4NJRC74G7UlwrB_ie_gWJkGroqk65EwSQZdwbpmC88H_4NkJjRKJaEmNPsITvC_xK7gWefCZ4Bd-BKov3B46pvA4VEoU9oh-hAmVyOibD2cNJlGWQyMf4MeV4Zl4qE4SPAjtg3krXFOJnUezbkfVdLge5BfuJIeeXMUP-egR4y5chHqCQ0ecZ3iUOcGPZhL64CmuNsZD5cFP5MxehNfhK8ihdaSKH8d3ohFLok-O62hM6EnhWOg8lC-8vOhzDTmDPoLFrEIp6rgZS0O_I9rkQLuOHLfwgzGPdHchRpFohDte4qcG5mhe4WqoCxeDSDtjJIsYcrjRo-FT4YmIC41NhNdxD1ryED16vdCzw3_x4Q_8oFcO_XBM5JMUIj6uHc8jeKICPcrxDblzNLpRbgivw3qgPRb6D-mOTjpK4sd3RG_h_TgzXAKTPbiUoqSOxmGCjzfCqOjxKcFruD44JxHeESfXIXmrID--FOUaNHfwXUQuXnhy6EfeFtylFWHOo8ebQzKHBi_Eh9NQUkO-JMfEb_DzoOXxMEQp72geXFZC3AqJ88jDQ-uPMMxGDc_xHU3cwE7mow8u-dhz9MhTFVVCHdLY4JOCJwd4cUPPBr5R_8OzQ1denM7xpEHzH0gr1jCPLjuO-Cp-6FN8xDq-XLhu9EQjJ8f_4FmM_BPu40uWo_2RH9t1XAr6VsOl43mW4j2a6NrQjdJxnsRP5PigvUeYZTm-6Li7okej0glGlWiHZKmDPB9x8eBu4g2LD81fVDoSVUoRWsdzjE2Yo7aJP8eVKTGOXIVmHaZ8EfoKVzTuwaE0XAnaRGehk3lwOjhztEHjBheVCN_yBLra4eJpHHoaoZmH53hQHmcKfXmwH-mPb1KHT3sxJdrRCyG5BOpu5H0GGz_hHY8z5AnU_fCnD5E14trRTMKLUmIcNNZ85CfUI1xEoUlN_E5w7TiV8fCJC9FzaMnTojsRNDlqFZeO9niRnschWrORdxMe-Fk39A1-XA-a7whlPkHyJcV19Gie4tRxoxJfJIuaKBPiwz3O5cV1TNfRMMeHI74MzVO4IG_gKkeOn8MoHfrwQ4eZ_wg_BztqNGGaD3-R7wo0HWEY59iT7DiPBi-aH7_wGLGhLZo8RIusdEK_g8d5TM-SI98MXQ_CVDwu9ti3o93RHHeULrikHCRzvMT0HK43o6uH40efw9p4fBdS7YH4E_lR68Z_TFyOXsSD68d3HQ9XgFGewNkuMJ7QC2mlVoR2BueEpnpR6Th3XOPRi8cf6MN33MyGfPCP8ApUNUGeEacYvHnwXmh-lOGCG8kzxE5E4WUaEc-QQxt7pLGOXjiNXcerSviiw5p45E_Y4Bd0HS1_1FMJjc_hOHuIQ4yLB2mSdMZ0icbxX8UX8EdPPFounDrSqQl2I9_h__gR7aGHH06rF9JPfCKi7bjSF-4RO9Cyh8jFHVeVoG5SPGg4Ik6ZQs-TINfxREXzoOeOO3gk5XgefOHxiBqqo-nx42-Oe-iPKZWNpF-IMFwSMBuP58KPqQrRqOGK_ByUH6HUoDn-4zoqaTuanchbaE90mPiiFId4IZ-MT8S5C8d-5LbhnRCj4_CFbtrxFfKRo0mPyiFe4kYTS0GeDOKP0MpynKgWBf-JJhuDM8ePB08l_EJOI7n04Enq4EXhOEWV6cd7XPhRIsQPPUkO3RyKtPzxufBXCZWPMBw9aMtD5D0mi0fDV_jRJ0SYSgmSr8WPSyj5CFO-F58YPCfOI71u6CfCR4fP41R4vIXTJEZfhD1slAzfIMQdbEOnHddOXDuaL0eybUEeNOPRKbuGy2JQNeWEpjqeacORxNwRhllQ-XjQXYV5XIfP4xqPb0if4z8c6vjoIs_gExcfvLkG77iD7yERsjtxHZp6oTmT42Gi48OPctGR48GvoNmL_YtwFWR5REqcoj9O6MnRSxBD6bh2hIvG4WuxKzoaMQfTcNGMH_sOX3iUWXj64EGY89AexD-6LscW7fgO9iTywmeg_ch7PN2FShcaruAVHcmPHO7i4QZHhTy-EE_wo88XXB5--Eef4JKQqBqixz76HH7R6wmeEfuOpiKuxTwO6kayS0e-JEKfR8GU68GP8NB-hPolbEm04RnhH0y5Krh6ACAAUUQZAYBAgAhhgFLEKAIEAAoQIAQgDAgBDGAGMUowEUhYIhwDwgBBIAJCSwgYQkgqhwAhQFnABDXESAIYAcQJIQEAxihHCDJAKUKAIEQRIgAABhlHlCDGKcKFYGQUIAQBADhilJLACUCIs8IQAQgRRCjBDBCACYE0ZNQAIKggyAigGGPAEiGUEgIAAqgDyCggACEQSMoFMQQQ5gwSCAhDhDCASEKMIkAbKBACDgggDCEUAkKJUIAQigAgzBBKKFYAgmcUERABAJwgwgjHEAhCCACdc0AoogABgBgohRCQAYMVEMYwDBgTQhgMFATCWOcEAQYBQIgySADDiAAEESIVQIgKIZgRCgHCrXIMGGUMQkQgCQQEADijhAIIGUCIUgAIJJARTgRhgSLGCK2oUQwQAAxTQgAFCQFAmQGIEdQYIJgUADBlACYCQEGAUQIRIpgjRAlGmBPAEIA4A8YIYRBwgGgFAAHWMyAEAwAwQoAQBAhqJHOCCSIcIkAAJYEwEAmjgANAAUMMggYggABSABkilABWCKokAAAIIARAigmEACjGEaKQQcoRgRBnCGhKJACAeCEIERIJSARIhDhDBEEEKIOMUEAAQwAC2AHkHDAAKMKAEcIAYIxhiAhjACMGCGOoIAAYYQAnGABBjACCAIIUMYIJowgzBDglhCAMCUKEAJQJRwAgwjEAAHICACOMAcQBIgQDggkgoEPEKCMQoAYoBgATliojhGMICCaYFcIgaQRSChAgAFKCCABMUYYIB4CTygmSkAJmEEEIkhQA4AAjVghFiNHIGkCEIEIKQYAgQgCjuRGCAGIEEMQIAQhAQkgADAFMAIEUIJRBY5QUigDCiEAASIAMA0QIAgQACBkFmIAMAOZEAAQAAiRhyFChhBGCAvKANApYoIQQhiFDKBBEECAUIMAhCghhRggqCBEIAaIMA4YKAwQSQikhCEBACmcMJQg5&meta=recordings%20releasegroups%20compress
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      Accept:
+      - "*/*"
+      User-Agent:
+      - rest-client/2.1.0 (darwin20.3.0 x86_64) ruby/2.7.1p83
+      Accept-Encoding:
+      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+      Host:
+      - api.acoustid.org
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Date:
+      - Tue, 29 Jun 2021 13:48:09 GMT
+      Content-Type:
+      - application/json; charset=UTF-8
+      Transfer-Encoding:
+      - chunked
+      Connection:
+      - keep-alive
+      Vary:
+      - Accept-Encoding
+      Access-Control-Allow-Origin:
+      - "*"
+      X-Envoy-Upstream-Service-Time:
+      - '109'
+      X-Envoy-Decorator-Operation:
+      - acoustid-server-api.acoustid.svc.cluster.local:3031/*
+      Strict-Transport-Security:
+      - max-age=15724800; includeSubDomains
+    body:
+      encoding: ASCII-8BIT
+      string: '{"results": [{"id": "16dd96ad-de3d-468a-943e-cb1d65a5aa08", "recordings":
+        [{"artists": [{"id": "ded0d67a-eb71-4fe9-83c0-1d18b8ed497e", "name": "The
+        Runaways"}], "duration": 137, "id": "019c0038-d812-4de0-92f2-5de0e66c674f",
+        "releasegroups": [{"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "161e368f-66d0-4163-9974-9c6da4b11c3e",
+        "secondarytypes": ["Compilation"], "title": "101 70s Rock Anthems", "type":
+        "Album"}], "title": "Cherry Bomb"}, {"id": "2665a015-6710-45bb-846c-f6292b157f3e"},
+        {"id": "3d983d08-5294-4efe-9e6b-33c9bca1c43b"}, {"id": "455c9da7-ff10-41f2-a6d6-5e6fcb3cda2b"},
+        {"artists": [{"id": "ded0d67a-eb71-4fe9-83c0-1d18b8ed497e", "name": "The Runaways"}],
+        "duration": 135, "id": "686c72dd-6722-469a-b1c8-be351e83963d", "releasegroups":
+        [{"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various
+        Artists"}], "id": "63883f2f-ee26-3a38-881c-33620622a001", "secondarytypes":
+        ["Compilation"], "title": "Mojo Presents: The Roots of the Sex Pistols", "type":
+        "Album"}], "title": "Cherry Bomb"}, {"id": "79a24bef-9a13-4cfa-b00b-c9a1b428f7c3"},
+        {"id": "82969c8e-3459-4012-ba62-447b1d95c1e0"}, {"id": "8bf8b7b2-db44-48cf-90d7-0417e9eb974b"},
+        {"id": "9b5cd5be-b184-444b-9971-6a475f11b3fe"}, {"artists": [{"id": "8e150f90-c4b2-47d2-b719-0edf26f666ed",
+        "name": "Runaways"}], "duration": 138, "id": "9c859780-52dd-4330-84dc-bcd906fd7d3f",
+        "releasegroups": [{"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "dc3fd6d6-9b8c-45b8-98ad-a6f48a40e59a",
+        "secondarytypes": ["Compilation"], "title": "Greatest Ever! Pop Punk", "type":
+        "Album"}], "title": "Cherry Bomb"}, {"id": "c7b6abdd-23ee-4f68-b631-67c5dbe341fe"},
+        {"artists": [{"id": "ded0d67a-eb71-4fe9-83c0-1d18b8ed497e", "name": "The Runaways"}],
+        "duration": 138, "id": "d8cb3068-578e-4323-82d1-8b6248a9b8b5", "releasegroups":
+        [{"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various
+        Artists"}], "id": "0c92ee8f-aeaf-322c-a4e0-e20ff40094b7", "secondarytypes":
+        ["Compilation"], "title": "20th Century Masters: The Millennium Collection:
+        The Best of 20th Century", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "50f421a9-1e96-4337-b4b4-8626961ded43",
+        "secondarytypes": ["Compilation"], "title": "Rock 80s", "type": "Album"},
+        {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various
+        Artists"}], "id": "d027e00b-ec9e-3fc3-a2f8-fc369520575b", "secondarytypes":
+        ["Compilation"], "title": "Metal-Age: The Roots of Metal", "type": "Album"},
+        {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various
+        Artists"}], "id": "98902e1b-6382-42a5-ab46-1e44ed976d72", "secondarytypes":
+        ["Compilation"], "title": "The Longest Snowboarding Album, Ever.", "type":
+        "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name":
+        "Various Artists"}], "id": "32ca32c9-6ec9-4e6b-a682-53d7a19f6b4a", "secondarytypes":
+        ["Compilation"], "title": "Greatest Ever! Classic Rock", "type": "Album"},
+        {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various
+        Artists"}], "id": "950092d6-45f6-4269-87da-99a9ff2fcc52", "secondarytypes":
+        ["Compilation", "Soundtrack"], "title": "Guardians of the Galaxy: Awesome
+        Mix, Vol. 1: Original Motion Picture Soundtrack", "type": "Album"}, {"artists":
+        [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}],
+        "id": "a376c9f5-d79e-324e-a73c-2cbad0660725", "secondarytypes": ["Compilation"],
+        "title": "Top of the Pops 2: 70s Rock", "type": "Album"}, {"artists": [{"id":
+        "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}], "id":
+        "28fdffaf-205e-458b-9ccb-7adacea4c2df", "secondarytypes": ["Compilation"],
+        "title": "Dazed and Confused / Even More Dazed and Confused", "type": "Album"},
+        {"artists": [{"id": "ded0d67a-eb71-4fe9-83c0-1d18b8ed497e", "name": "The Runaways"}],
+        "id": "45de6393-a550-3c9e-bcb7-00333d4d8f29", "secondarytypes": ["Compilation"],
+        "title": "The Best of the Runaways", "type": "Album"}, {"artists": [{"id":
+        "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}], "id":
+        "79df6508-4918-471b-b0c9-7017614c567a", "secondarytypes": ["Compilation"],
+        "title": "Rock Werchter 40: 1975\u20132014", "type": "Album"}, {"artists":
+        [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}],
+        "id": "8feafd91-36df-3d0e-a6d6-3ae7ad7083cc", "secondarytypes": ["Compilation"],
+        "title": "Greatest Ever! New Wave Hits", "type": "Album"}, {"artists": [{"id":
+        "f376828a-b438-4fda-bb2e-dcd5fbe81f83", "name": "Joan Jett"}], "id": "afe0c950-891e-43bf-a7d8-d8e6a888ccd9",
+        "secondarytypes": ["Soundtrack"], "title": "Bad Reputation: Music From the
+        Original Motion Picture", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "5ae73fd6-2c1b-4fbf-9373-b6d7bdd19fa9",
+        "secondarytypes": ["Compilation"], "title": "Oh Yes We Can Love: A History
+        of Glam Rock", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "986e99d7-b587-4386-9ca8-8cc8630a94e7",
+        "secondarytypes": ["Compilation"], "title": "The Driving Album", "type": "Album"},
+        {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various
+        Artists"}], "id": "be2ba4bb-3235-45c3-a4db-8e173cd9eaec", "secondarytypes":
+        ["Compilation"], "title": "NOW 100 Hits: Classic Rock", "type": "Album"},
+        {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various
+        Artists"}], "id": "843406d4-beda-380c-a6e5-9fb60b1f01c3", "secondarytypes":
+        ["Compilation"], "title": "Classic Rock: 1973-1979", "type": "Album"}, {"artists":
+        [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}],
+        "id": "d0db9441-b9d7-3b85-9ca6-dc610fe1dd88", "secondarytypes": ["Compilation"],
+        "title": "The Definitive Story of CBGB: The Home of US Punk", "type": "Album"},
+        {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various
+        Artists"}], "id": "28b5eff4-33a7-43ea-8fb9-f85893e29621", "secondarytypes":
+        ["Compilation"], "title": "70\u2019s Retro Party", "type": "Album"}, {"artists":
+        [{"id": "ded0d67a-eb71-4fe9-83c0-1d18b8ed497e", "name": "The Runaways"}],
+        "id": "03a06598-2d75-3b9e-a2ad-f62440d2b179", "title": "The Runaways", "type":
+        "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name":
+        "Various Artists"}], "id": "ed5dab53-3ec1-4f20-9034-4416120cfa16", "secondarytypes":
+        ["Compilation"], "title": "70s Mixtape", "type": "Album"}, {"artists": [{"id":
+        "ded0d67a-eb71-4fe9-83c0-1d18b8ed497e", "name": "The Runaways"}], "id": "ae908046-89e6-4333-a4d7-5d80b6c6238d",
+        "secondarytypes": ["Compilation"], "title": "Japanese Singles Collection",
+        "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "778e2436-ae57-3f31-9570-ab4e9fefc028",
+        "secondarytypes": ["Compilation", "Soundtrack"], "title": "Dazed and Confused",
+        "type": "Album"}, {"artists": [{"id": "03cfec4a-9885-444c-9e74-5fbab5861106",
+        "name": "Tyler Bates"}], "id": "e974e9ae-1933-45a5-8f3e-230ccb1759c8", "secondarytypes":
+        ["Compilation", "Soundtrack"], "title": "Guardians of the Galaxy: Deluxe",
+        "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "ab56420e-93ae-4e39-bb6b-c286cb1725be",
+        "secondarytypes": ["Compilation"], "title": "Driven by Rock: 100 Essential
+        Driving Songs", "type": "Album"}, {"artists": [{"id": "ded0d67a-eb71-4fe9-83c0-1d18b8ed497e",
+        "name": "The Runaways"}], "id": "a466fb1b-1976-4e89-8809-f26b2a5984bd", "secondarytypes":
+        ["Compilation"], "title": "20th Century Masters: The Millennium Collection:
+        The Best of The Runaways", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "05deb7e5-be2c-4d32-bdc0-66fa3678a39b",
+        "secondarytypes": ["Compilation"], "title": "New Wave", "type": "Album"},
+        {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various
+        Artists"}], "id": "4a562d71-0aaf-4aa0-9d94-82010dacdea0", "secondarytypes":
+        ["Compilation"], "title": "Rock Legends: The Ultimate Collection", "type":
+        "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name":
+        "Various Artists"}], "id": "89beae4b-4a6b-4566-8601-caf7009fd714", "secondarytypes":
+        ["Compilation"], "title": "Rock - Road Trip - The Ultimate Collection", "type":
+        "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name":
+        "Various Artists"}], "id": "cb56519f-2b82-3433-b51e-37af917a875a", "secondarytypes":
+        ["Compilation"], "title": "No Thanks! The \u201970s Punk Rebellion", "type":
+        "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name":
+        "Various Artists"}], "id": "67dbee9c-8d12-413a-81be-5fcc8a107fd7", "secondarytypes":
+        ["Compilation"], "title": "101 Hits: Jukebox Classics", "type": "Album"},
+        {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various
+        Artists"}], "id": "17e271d3-4b1b-4c7a-8d59-43059c9b5c95", "secondarytypes":
+        ["Compilation"], "title": "101 Hits: No.1 Dad", "type": "Album"}, {"artists":
+        [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}],
+        "id": "2ed20426-bb5c-493d-a70e-5746a6d2f566", "secondarytypes": ["Compilation"],
+        "title": "Rock Anthems: The Ultimate Collection", "type": "Album"}, {"artists":
+        [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}],
+        "id": "33948082-5bde-4673-9cc5-ba924fdc62e4", "secondarytypes": ["Compilation"],
+        "title": "Now That\u2019s What I Call Classic Rock", "type": "Album"}, {"artists":
+        [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}],
+        "id": "9c491b24-1180-35d8-96de-95e8772f7023", "secondarytypes": ["Compilation"],
+        "title": "Guitar Rock: The Mid-''70s", "type": "Album"}, {"artists": [{"id":
+        "ded0d67a-eb71-4fe9-83c0-1d18b8ed497e", "name": "The Runaways"}], "id": "7a6f5d3f-3e71-4c8d-ae8b-d57874c96f98",
+        "secondarytypes": ["Compilation"], "title": "The Runaways / Queens of Noise",
+        "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "ecbab398-fd34-44fe-b275-cf565e2a483c",
+        "secondarytypes": ["Compilation"], "title": "70s Pop", "type": "Album"}, {"artists":
+        [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}],
+        "id": "53fc8369-8f81-4dc7-be15-a1abba2a77cc", "secondarytypes": ["Compilation"],
+        "title": "No More Heroes: 60 Punk & New Wave Anthems", "type": "Album"}, {"artists":
+        [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}],
+        "id": "c256b59a-a35d-351a-b5d3-a59a2c07662e", "secondarytypes": ["Compilation"],
+        "title": "The Best Glam Rock Album in the World\u2026 Ever!", "type": "Album"},
+        {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various
+        Artists"}], "id": "f327d96d-ab44-4ad2-9c0b-475f4d6ca800", "secondarytypes":
+        ["Compilation"], "title": "Classic Rock Radio", "type": "Album"}, {"artists":
+        [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}],
+        "id": "c0872930-5b59-45e1-bb7c-67e79c6186e2", "secondarytypes": ["Compilation"],
+        "title": "Rock Classics Top 100", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "ccb35b14-79ba-4620-81b1-a3033e0ab4f3",
+        "secondarytypes": ["Compilation"], "title": "100x New Wave", "type": "Album"},
+        {"artists": [{"id": "ded0d67a-eb71-4fe9-83c0-1d18b8ed497e", "name": "The Runaways"}],
+        "id": "4fa25f87-c113-49ca-8b27-ebc508272d5d", "secondarytypes": ["Compilation"],
+        "title": "The Mercury Albums Anthology", "type": "Album"}, {"artists": [{"id":
+        "ded0d67a-eb71-4fe9-83c0-1d18b8ed497e", "name": "The Runaways"}], "id": "7eb7d9e5-5a00-38ec-99f4-314a50f02403",
+        "secondarytypes": ["Compilation"], "title": "Neon Angels", "type": "Album"},
+        {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various
+        Artists"}], "id": "738d1027-a5f0-4cef-8e72-9cece8300496", "secondarytypes":
+        ["Compilation"], "title": "70\u2019s Nostalgia", "type": "Album"}, {"artists":
+        [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}],
+        "id": "c225b2a0-bec1-4998-927c-d5f900dad524", "secondarytypes": ["Compilation"],
+        "title": "The Old Grey Whistle Test Cherry Bombs", "type": "Album"}], "title":
+        "Cherry Bomb"}, {"id": "fc2ea614-c7eb-4d0a-a6b9-5bd4e3e1d3c0"}], "score":
+        0.923128}], "status": "ok"}'
+    http_version:
+  recorded_at: Tue, 29 Jun 2021 13:48:09 GMT
+recorded_with: VCR 3.0.3

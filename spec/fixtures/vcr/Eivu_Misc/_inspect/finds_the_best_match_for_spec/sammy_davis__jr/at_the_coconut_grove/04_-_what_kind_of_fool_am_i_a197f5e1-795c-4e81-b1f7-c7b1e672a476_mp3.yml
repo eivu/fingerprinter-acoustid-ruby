@@ -1,0 +1,49 @@
+---
+http_interactions:
+- request:
+    method: get
+    uri: https://api.acoustid.org/v2/lookup?client=<ACOUSTID_CLIENT_ID>&duration=191&fingerprint=AQADtEy6RNKkJLB5-MmRXHaRP_geTC-aikHFgMtp9EkeNCONJM8R5jR6nPhDVOqOKUkSFfmSQydxZC2NR0eThB_6gvuyIpT8wxx8HtpR8D3E48qHfBuOI_V2ALIvXMXbCj8e2OgXPBl0PmiOyjrWMEmeQidRylTQ-EGu4KVQikmO5seZ4dlhJfEznMrS4DQaJ8tRIznCPMkTTGzwgvuDaRuuhYCR7MuRC023B2XII_856EfqZAwmZdLA5EFsEfuhnUKYKmMk3MePX0gP5S-ObEnGgMlN9EwORM9D_ES1B92N-BZehH5CPGeQvkaZMXjCZDl-7FpSHQ-P2vAPn0nxBI0QlD_84oE45Uf-wceOpzeaMMUZ_MihE89x-SnqaCcckQ6qJBd-HDsRF5c6BU-WD8yFPz2eHX5k9CSCnh-0HP3hWYYQ_ng24YmSDNWDg7kU7Mhj6MlEhDbxPijz4NSPa8rxifgWwstH49Ij4n8wPkhVXkh6_PCDpwL6G_6RQ8uJP8eX9MhTLciVZNB1PJOPLIkD9sF-_Ef94EmG_Dn0RMSlLUgvIT90hMlfONGCXjw-VcS-4xfCJjU0Ow1ywY9x5HNc7ElwWdCDUEfz4EmS4tGDG2n44Sv0pcQffEK_wDe2Q_vRbcuJ5ju-CxKOI7J-5AylCLqlCJEkLpLQyNxQS0cz0KUUfGFRckGytC_yJY-M-wm472h-YSLxJBfCVJmTQLuRB89x5Tl6Hs15zHge8Mt0_PiPRqWO8BpUG3mFkrnw5_iPo7nw6-A3hPlyXDzh4Tm27Qw0Kwt-_Iiu42OOXzmyH58KXTya74i0Mj0e_KijoCmTo3mOMlzwL9mQPEsRHc_xXAMTNUefKsG1bCGO5D_yY6J8NM4RU0Ti3qhUPOMx-fixKzkuDceRZzl-nCY6Hk3IGM_G4MeDknSgHz1qNMGH0zr0JSr2UE3QnCqO_oEuPAySpcfx9PANPj9qJrjw4w9-ZN-hXwgTMo8RXkXk5MLX8DgVdEfTJMfxhPgpBc2wcQFLHdG8POjJHJcOoTyaKLuCR89woR-0PEKe6MG947iS44lyoW-CI-H7IJKfD2e03ODSo96NhnzQNMfEJ7io4YkUfDc-wkdydYir4Mrx41Jq1AqP5jp-47hrnMiX5Id2yYR_9ErwG2JzBecQJimFE-0Z5IxGPCOT4NgN8bHxJ9AT7B8-OPmN5Bd-_HiY-PBpnJeKW0nwAmHqDNoFxGKK84kynGaCa4efB_9wHg9-1FbRi8LhXTryRRfeE89x7KagRzWuuJDyHekloQ-eBx-PdBnxaODEVAr0vEjDA7cPKk8S5Emf4MrhQ-_xQLlRxzmskkYfPMd_PDFufGE0_Ggc6ciPF8fxJCeO58ExukeyLUJM8QQ-wn9C3HjkINeRvAwch1NwZTuOtyg9NG1wPAeSI_d0PD32BO9QpUjDbUGdFEf-os-D8sdzPIuOij9iSw-SKCAdkhjNHS-j4dHRM0d-JMuf4BTxDc9iYUpc9DpYbTmSJ6mRewmqHx-Fpk2a4M0PGLnkCKUs8NsGV0dyCT_-4C_cD28ufB-oINl55MY_9DmarsSPk5vx_BNOegifGsmStMdTgv9QZ0WTrMIZDX80PPBwJsa3pcEtpUgPPnlwSk2wH0cvQ3-DJ48CV2j24IZfKXhwPFqq4E7gQacRuw3uHI0flEJX5oR_NJqPN8gH7TnCrMefYJ-S4uhB_PiB94CHB6F4HPrRF15-5LCP87gUiuAjND2eKLhyCY-TRPAzEteRB39mQWkPP5SCS1OFL7qRPqHw9fgx5RX6SkpRLQqa44mPLhLs5kirq8ilF5fhXjAb9cgXwb0RWi2SZ8ejg_3x40mksfjI4PmhUEeeBc1Rf8XTDCeehKg25mh2JKeCPAq2H7yiNElwGx-mM2hyInmInIdV4jm8K9ifEHyGXgnCeIf6BzmKxg1ufBn6oqkTIx8SReKHJone4wd_NL9xHtOZ46ICL5yE58lwm-gXI70PaKqHOMfV4dIRPQnEB1mXG494jHqOBz-eEtEzGck-9FqO3Q9-JLs8hEnmRAneos1xnCmK7wjTQ3uOE_lyPMeJH89y4Rd647iOozke_EYeRQkFPTn6MwiOJ9EVXGzwDGieE0fuHI_4ouWhn0QOfC9-B77wH0e0Hv2h7_iOPF3wH82PvsF1tGjw4TsahD9OhA2cH7kw_dCOtChw_DgeHteRPk-gJ9IRm7DK4O_RVIyGvsJhHPmP5CeFP7iOPkTTLUh-5HmOD-dwD8mlHNF3UD3mnEVJHj7xB7gQ-i2S_WgUHt-J52i4qvgzNJNy_MK3jLgO3_iHq5_Qj0N6qLfwBylzpNvhEtqF_CT-Fc-SrpgSqTnKB_kN6RTyHVd-RDePhEmZBviOM_qGJ8ODejkeHr1oxAqfIHEu4XDe4Q-aJkcZ7jgPn_hxXJl2JA_CfGLQTo_wFdWL7xhxwj5qJ-ijDH4_HExfXE-Mxw-a50SiOUcY7fh0Bk-YcrgJBj2eIz_eG0fDjBn6osfhp4N-MLdQdibSW-jx5Ees59DRH-GV4BKo53ieAgMQEcIYBgwwBgjmkECOgGMUAAIAwIgQiiEplgFQAkcIMNQIYYxgBDAmBGAEFGABAUAqAYQAxBgqnDLIEKGBAUAYwZBhEFiEiAMCGAEUUQwwAYABgBkKgkLQwUQEEQI5wQURQgIjGKFKIEOAQAYwJj0jUDAiBEIKCWIcAcaQSQAoBhhVmQGECGUYYE4LA4RDBBDGkDIGKAOYEkxJYITm2GIiFAXOQEMgZYAJIYwk1gFihEEACIGAYQQJIRwDgCAACTPCC4CMgdAYAAgxGDJAEECMGEcAYNAAARQRQAqihBAgYKMAQUggQQkxRBGhCGZSEAGYIwZRJgSBgDgqCFEAAgGAIEwQ5QAACBDDSGCKCyAMAUIQQyFlIBgHCKBCGkSQRooAAokjQHEAAACAEoIgRQgwRhAREgBCiGQGAQCEEcYhBBwwCCTlEBEAAAAUoYghAAyBFAgAmDPCIWIJM0AMQQBwgEMhCCHUQqcMJQYRAAgQTgHohtEUCGIYIoAAQ51lRCFGGBEgGESEQQgxAIAABTGAISZCEIIYBMoYQQixwjADEEbAOAIYkQ4QgpATTCFGKANGWMFERIYoRQwARDBGJGFKBAEcMQYRKoBAQFDBEaIIISaQUMoooKAQzghuoCIUm6AtcEYh4gwHgDGAqAGGCCIUAgRRABQzyjABFBEAIQIIYpgpwBARQFEKjCAKCYGsEsQgwhUCgFCARNVAHQAUAxYJZIAiQAGCgMNMKGoAUIIxyYQAABCkBFCiOQGBQso4xpgjhAgGknJIAUGYIIAQgCgATAADpCEiKSMgI4ZLYRUyShoAkBBOQGEMoISAJZjUgCKFFAJIAcAAYkUoBYAkCgAnGHBOEEmUI0YgxYoiEiBmGDHMICCIBAIQpaxwUglnAIBCCuUQAUgI4QDglCFihGIIMQmIARghQqABHAlJsBCGMWSQAEA4IghVDElAAEDYEgII4EAIwdBwAiFCHA&meta=recordings%20releasegroups%20compress
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      Accept:
+      - "*/*"
+      User-Agent:
+      - rest-client/2.1.0 (darwin20.3.0 x86_64) ruby/2.7.1p83
+      Accept-Encoding:
+      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+      Host:
+      - api.acoustid.org
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Date:
+      - Tue, 29 Jun 2021 13:46:37 GMT
+      Content-Type:
+      - application/json; charset=UTF-8
+      Transfer-Encoding:
+      - chunked
+      Connection:
+      - keep-alive
+      Vary:
+      - Accept-Encoding
+      Access-Control-Allow-Origin:
+      - "*"
+      X-Envoy-Upstream-Service-Time:
+      - '109'
+      Strict-Transport-Security:
+      - max-age=15724800; includeSubDomains
+    body:
+      encoding: ASCII-8BIT
+      string: '{"results": [{"id": "e1f32c34-33ab-4b07-b8ba-cd4e8b515c20", "recordings":
+        [{"artists": [{"id": "4bc9e8c3-7eae-454f-a56c-bccf96f3926b", "name": "Sammy
+        Davis Jr."}], "duration": 191, "id": "e3d92a15-3f7f-4cca-bbaa-42e90d358c06",
+        "releasegroups": [{"id": "515cf724-5ee4-35f7-84e7-7389be65ecba", "title":
+        "That''s All!", "type": "Album"}], "title": "What Kind of Fool Am I"}], "score":
+        0.963014}], "status": "ok"}'
+    http_version:
+  recorded_at: Tue, 29 Jun 2021 13:46:37 GMT
+recorded_with: VCR 3.0.3

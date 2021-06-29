@@ -1,0 +1,57 @@
+---
+http_interactions:
+- request:
+    method: get
+    uri: https://api.acoustid.org/v2/lookup?client=<ACOUSTID_CLIENT_ID>&duration=126&fingerprint=AQADtMokKYmiVQizRDuSZziQIunxKDhvHNuPo8eJh8mN60FuJKOk-Th8_OjxsHgDDH8QPpGVQXzx4IdP5MdxcOfwHv8H_viOkAZNjyh1QScO_yH6IxeCUkr0wvjx4Id60Dh4HDh8PD_Uy0R-4RJMS0cv3Dn6wsnxI8y6A9If_EEuDT1X9MWT4Ul2NBF6OeiP8wgfqLuMvA_uwA-eCMelJEe-I4lk3MMlFcdbHId_9HimG_-R3EZorkczDj8-HxWcmPDREzj2H8nycDg1HM_hbMSP78CPH_jxwK9iHPodGJeSefgP_1B-4JmS47iOH45y44L_4EEfQ8en4NrRPMV0vIf0DycP7T6M_0Hv4ime44dYB1_wXqC7B_qx38J7eGzxLMYP9TlyHh_iH-JzDdEl4vWEkCkJ0Vo2xIfVYtRkXDeO5_B73OjxNLhv5FeQzNSPEydu3MfhhFlQYMdzZBcpFdpJUIeTGz-O49AT5C74Y0x8ODiPX4KnL3h8_DiP1GGPZEev40fNGRcpfB_KGz7SH3qI_vh1hHwy-MGf4oSPXzDJ45N1HD9-HD-OC9WR39CR63jwKfhx9Dn-w_I09LiOiEqSbEOyVA-OJtbx5rjyIOYHUWFmGbGy4vPxo7nRB89xIlLqoEqu4p1gblKhL8JFHA1V6DY8FjcNC9WFR9CPk2vwZEcfM3B91GLwHD8RPvB--Aqqjcdd9MOXwyuDHj-J_MF56EkQKuUDRz28BD1Ooyf84_BRyXKCvOjR_BCCv0aPHyf6EzluaPjhAz80vIKO_vjh40ePQ7OOlMM748eP_nhYnA-67EMevkhKMRN6HP1hkyNqScHHof9whDySJ3jjG5-C5sKl6Oh1PBPxPPjx4Dv0DL3QpIqPPg9-_KgVPOGa4Tju5PCRJ8py6KtxNoX94MKZHv0dpIp0AbYW_PANvMi3bUh89Pgy4sfx4N8xnQjTC49wXRGyD30ARDiAGz90Gs-DAz82HUwfzH1w9C--E2l39AO-4EN__IFxabiRP0hO40Q_HleG2Qr4l6iVBWF-JF-TYD_eHz9RH2G6I2mb4MKPidmD_-DR_BnW_XhOvEceKsIv_AvxFxf-Y8pTpcjyY0yDHyfuHv8R9tCSJjney3iQH12IJvdxEx9qIUcPPfFYPAhzapie4dHxC6_xHcdwG_2OxkY-HN2Pxs2R77iPpg76PXiSoyf-IzySD2PD4LzxP3iTbMQT47rQPDkuXvgDf8Fx_BaIH_9x4_hxAcdxhEj6oDiOH3QHX8B7HEey14hBHv_x4C_ww8QXnCdwIb_Ql_CeD3N2-HGgm8gPHH5cXA5e7Xi2Az_qHY-Gp0cOLUe3I-dRFV54vDr6o8_R3MeLG_F3JMeV40dvEV44Ck-doOkvvMrw2vBxySKSJyxy_aiS4g5xwT8xvR2-vSiS78jxHn92-FaG-aiY-Dh3_Lh4HK-M4z9-9GiO6YOdgvHw5cB0-BV-WL1wbjwOH3kAE5d-wTJuHHo2dBYR__jxHCd-9EYKRR98Hvwo6NIxxTW0M3iUIofRCw6XoMd11HaOhCQREvsD_ph5PA9y_dBMH6145Ex-NDnR68NI53h-ZInSQ9GPMB9q4VZQhgoaHb9kXEfP4lw-eJ-OFNqRO8ZdNIKXoZSLa8e_ozea6kP8Qf9Q_Dh0eCrCkugFS8c51KgrGH_w5TiN6yN-5PANzbiPXjhChcV_HM3zo51O3B6aH-XSH3mO5kXVkND2J0g7VoKXo7SEq8oR_zi-Q8zLIUceHhqR_kOdYv-P8yhzoZls7OaIxPuRkyim7DgxZ1kq9BJ-I_F1xMcrDT6exOiFtzh6pD_E6rgjPTi8U2gf_Ar6nDgtGG-Pe8Ch482RH8cl4Dhw-PMR_MShH_lxCT_haYeP_3iO08fRH0f8Q0-OUdLBOLVg7ljhAwf0wO2D89Cp40eq9vhxEd-O-_gO_-jxC8c7PEmFcjl8vIUf44crHVcTFVVa_DjaPIOb8BCfKEKfEteNNtFzNDknrDo8hjiP98N_NPF0lNFRIsyFM0eiWNTRjDmeMUefY0qshcGRzEUqruh5lPrR_rhenHh4NOWRjESuLMWN88GnDY-OJlcwPccP9kfD37iwE8f64-Sq4PmDH_9B4cc1qRIxKhceHX2Otw3K8LBDFj8OI_yJZDea6McfPBSaLZHQ9zh6fLg0_AhzAEBIFUBZQKkIACElhRJgIACQFQAAp4QyDQgChACGEeGtEEJpAIAUFiBDxgFGGUcYElQQDkQzihltEAPSIACVZsAAxBgBBAnAmrtICaAAUIg444QSLAGCKAnSIgcMcAgAAMhQxAkBhBDAWQcEAEQYsogiBilEhANGAWGAQ4YBoxAA1ghFDGHKCAWREkgYhJCxTAKEAAAKISCIo8gBwiBgGADEDBLMCUiEMUoZh5whngBggCGIIQcFAkIAawClFAgjSDMIEGcF6Qy4BAlBDBQEEBCAGUGRUsA4wRBSzDIICLIECCgBIQQY5hQiQBAiJCDUAaUQYQIpJ4BhgzKhEMBWKAaYQsI6JIhAymEAgLWEGYYNgcARIRQy1AnAGgBAEKSAAIQRx7BAHhkgoGWIROGAMMAxi4QBgnilDGUGCOkAE9googxGRlCHFDTGQIMAQAQSpawQhCzjFCYAEAKMI8wAQoExiGDlCDFAGYMQFQAIJ5gyRAAkFHBIEQIEc8KQCRCgCA0jknSOCMAIQkQwSIQwCEjCCBWOEEWYEAgATRQSCDgjqEGCEkCEdUKLK1UW00hqBUECAqNIUw46ZjgTQACGCGNkECAMgIIoIxxgDChGGABGGIaAsoA5YxAQxEhiDAKAICGQUEo8wAQghBiHFDJUCYCAAQBBZrAAggBgFQgCkKQEZYIAgqRiyhiAhKECCCaMYsIwAogQSgDjAGEECCOMIoAooZURCFhDmQMAIeAQdMhEILRyyBigLCBNGekAgIgAYZASAAiqCAAIGCQREXAgoQQAgDFCgJCKUYEAdAgosdwkTgEABSBMCCaQs5IA4Mkn1wHBBCQQcGOJwgg4pBwQwliDkGFOWG8EJIASQAFATiFkEbPIAgAZZkAhAogASwCDCAGAAgeQAEQIwRAgRBBhhlAEAAKcgg5QY6BwgDimBBGAGEAcIAAQ5QhBADgnFCMEATKEMoAhI5iwCjkCAA&meta=recordings%20releasegroups%20compress
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      Accept:
+      - "*/*"
+      User-Agent:
+      - rest-client/2.1.0 (darwin20.3.0 x86_64) ruby/2.7.1p83
+      Accept-Encoding:
+      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+      Host:
+      - api.acoustid.org
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Date:
+      - Tue, 29 Jun 2021 13:48:44 GMT
+      Content-Type:
+      - application/json; charset=UTF-8
+      Transfer-Encoding:
+      - chunked
+      Connection:
+      - keep-alive
+      Vary:
+      - Accept-Encoding
+      Access-Control-Allow-Origin:
+      - "*"
+      X-Envoy-Upstream-Service-Time:
+      - '127'
+      Strict-Transport-Security:
+      - max-age=15724800; includeSubDomains
+    body:
+      encoding: ASCII-8BIT
+      string: '{"results": [{"id": "41c602b9-d5c5-4479-a777-f90b12c548a4", "recordings":
+        [{"artists": [{"id": "8f7bf43e-2a13-431a-a274-19e28965fe07", "name": "Craig
+        Armstrong"}], "duration": 126, "id": "88af664e-d418-43e1-b6bd-ed18693bddf5",
+        "releasegroups": [{"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "5f81b95c-8a86-357d-88a4-4760ead1e413",
+        "secondarytypes": ["Soundtrack"], "title": "William Shakespeare\u2019s Romeo
+        + Juliet, Volume 2", "type": "Album"}], "title": "Introduction to Romeo"},
+        {"artists": [{"id": "314e1c25-dde7-4e4d-b2f4-0a7b9f7c56dc", "name": "[dialogue]"}],
+        "duration": 126, "id": "9381e7c9-a625-405b-b75c-e2cf720f2606", "releasegroups":
+        [{"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various
+        Artists"}], "id": "650ebbf1-e25c-3f13-ac2b-d98010c1c5ee", "secondarytypes":
+        ["Soundtrack"], "title": "William Shakespeare\u2019s Romeo + Juliet: Music
+        From the Motion Picture", "type": "Album"}], "title": "Introduction to Romeo"}],
+        "score": 0.967102}], "status": "ok"}'
+    http_version:
+  recorded_at: Tue, 29 Jun 2021 13:48:45 GMT
+recorded_with: VCR 3.0.3

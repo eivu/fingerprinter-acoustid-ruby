@@ -1,0 +1,49 @@
+---
+http_interactions:
+- request:
+    method: get
+    uri: https://api.acoustid.org/v2/lookup?client=<ACOUSTID_CLIENT_ID>&duration=44&fingerprint=AQABVUqkRkoSRgouHaG6D02Sl0GuKIKPDw_xrAUrHQ-e6ogUaL4QJ34wbouOJx-eFUcuNE8D7QfNyMJ3dFOXLEidFs-D7wX1HH2PXCLOFPKP_oh2HrUWfNHxHH7X4jrmJcsRhiOSJs_xBzxqYs9w4X1wJ0KS8whTvAz4ZLiSoCfRL7j0IDqRbFmJPhzhaI-xk2gzHu1zMKks5Jka9I8g_vgOx8nRb8Vz4WgeeYImajl-xGZAHk3mo7cDxkNzJhxyQ-SyVPjxHeJzPNLgVDvuo_NS_PiyB94yQQ_gMZHxJEe6M-hRuF6NT1EXeMEv-Bl645I48EHoQ2OKyEuOZ0d_NJGURVOKHcejDF1OJIsTBZeRC8wYpkrAMjue_Eiy-Ef4BUfzo8xxbYebxng-I35wa7g2BXUU4fyxc_DR7zhiXniISVxUhFdyXGZwNOsDjTmu443xHTfWPFTQngoa7tALTopmNBVRiXmMXjnCSAwOPA96UOfgH__R58iiZTv0HmF-cD8efbhk4c7RND9C4lkYQteDOBeH6kbT47WQS0fDNQfLQ7to6BN3nFIR1_nwKCzOJkG-oPkLcU2GXDn8XHiPvuGMBz9mMsejOEHeDXqP8DqaaQvx0cQvOOqOa8J9PEf4o4mnoNEjQXNynArxQMv8oD8UUiG-4yck6kUlJQu-BLsOv8H0KzEe4of0BNee4NGYwbmg60lQK9cxhQneZUd4o3lwKkReI5L6wn6CG2eUwBxRWpkUTFczpF8AXYSpkDrizCGcUT1KHnmeBNdyPGEGnSmaxQ8qf3izY3eEP6CPiscZJcFO48M2Hs-h1WCVHNcePBozOIfOJ8MZXUE0JsOlLENPo3mCZ2GOmT8qEr-TgIqOZ1LAb0bPMMERslAUXsNVI0-SiTiazLHQpcs0_MgT4soyHFqWPugPPcRIfHtAykelFVeiBPrxhvAuGWF5HNmVQ0-OO0EVVWHR_FB5mMlFfGWQ52iyozzyrUNfHxqf48ekK-pgSg-8G_W3HEIAQAiB4pgiRjAGKHlIGC4YIQ44IQQDRAhBCGEGMAEABIgpyAAFRAhkIABAMUOAYsAYYYgABoEgFBEBAIUYQcgxgQiBQICDiCIOGIAIJQoo4I0hTASigECECsiIYcISAYwAgDB3BAEME4YkEIYKYqgQAjCjBGCIAUANMBAIwgBEShiChBBQCcSoIYIIwxgiRgJDCRBGKYaQMsQIRxgSSBEEFSBCGCUIZM4IZgAhABABBBIEEKIoAMggogQAyCiCBAIACCSIY5QYzxhCRAADDAFEUAIUEMIRICBDRAJrEBHCICIAQgYzRIAhhgjCkJOAcQCIQIIIJAAA&meta=recordings%20releasegroups%20compress
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      Accept:
+      - "*/*"
+      User-Agent:
+      - rest-client/2.1.0 (darwin20.3.0 x86_64) ruby/2.7.1p83
+      Accept-Encoding:
+      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+      Host:
+      - api.acoustid.org
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Date:
+      - Tue, 29 Jun 2021 13:44:43 GMT
+      Content-Type:
+      - application/json; charset=UTF-8
+      Transfer-Encoding:
+      - chunked
+      Connection:
+      - keep-alive
+      Vary:
+      - Accept-Encoding
+      Access-Control-Allow-Origin:
+      - "*"
+      X-Envoy-Upstream-Service-Time:
+      - '49'
+      Strict-Transport-Security:
+      - max-age=15724800; includeSubDomains
+    body:
+      encoding: ASCII-8BIT
+      string: '{"results": [{"id": "92c05b28-387a-4fec-a985-4b2d88c5ae16", "recordings":
+        [{"artists": [{"id": "9ddfc28e-9869-429e-8200-567dcf5ef008", "name": "High
+        Frequency Bandwidth"}], "duration": 44, "id": "1086dcc8-c699-4ded-abe2-bbe00efd186f",
+        "releasegroups": [{"id": "f42dafb1-e799-47f8-960f-5039cc4c729d", "title":
+        "Hell Fire and Brimstone", "type": "Album"}], "title": "Hot From Behind"}],
+        "score": 0.993382}], "status": "ok"}'
+    http_version:
+  recorded_at: Tue, 29 Jun 2021 13:44:43 GMT
+recorded_with: VCR 3.0.3

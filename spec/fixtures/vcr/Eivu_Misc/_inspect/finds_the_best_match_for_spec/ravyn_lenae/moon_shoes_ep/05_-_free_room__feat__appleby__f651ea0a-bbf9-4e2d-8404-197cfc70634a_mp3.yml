@@ -1,0 +1,45 @@
+---
+http_interactions:
+- request:
+    method: get
+    uri: https://api.acoustid.org/v2/lookup?client=<ACOUSTID_CLIENT_ID>&duration=217&fingerprint=AQADtJqkNImScGjiLDhqNI9jHD2L5orxwmeGP8enNCL6F00aCZ_xN8V3s8h7aB_ClDtx7cRFvEFTSkc_fDPGrDu-fkifE3pM_NAsZkSWJD9-_EdT41J2UG1OVLIRPUieh_jZoKmOcuHxB98vnHh15NCjHGE4piiZFEd3Ec2eEx9OonnRH8ef48g7aOZypDqcrUI__Kgfo3mEC81X9EvRD819vE9wlkOTzujx3fjj4cpnJEeYbid6Zbh44saTwj3x45KsY0x3tD3C1FkJXcUPKaKYEWH04jt6uBuuKR-oMkelC0l-DfmFl0GjSMcVCj_6JNNxLcd1_Ai_GE1WGdd86EdtI8yDS8cknWio5mB-If_wCdp59Ef64-MLH4fz48cFHz-Ow8eP-BLh48dD_OgL7WhChbjRDxRJ_AD_4xBf4lRw-Lnxww_84sFLiCf8D8cPnSaIE9bww8fhH7WKHoZO4EcOV_gK_vCJ_HgG7TiP8EfzHD18fHD-4MAH__jxwy8qH4-ERjuOfEFfoxdEVFSI82B--DiNgz7kEn6Jc_jh33Bc-MeHlxAf4vCHL3gs6KCPG-5wHb7wHVYLPTq-I815YJ9xG8-YBz5-OEfP40PMQDWPkFbQcAHKo_ly_Ojxwyd6JfiCP0UOfRRylUngI_6h77giHldZ6EF4wh_qaMcfXKQW7GjOyCh1JJrFI5zUw7kyPEJ6JNfxH6c0THIerFGiREdFJTuY88SJ_XiENExznMebldCTnELYF6eOX4ZXHu1tXAv6xoe7wIe7HWeRP8eWH3qU4MxxiD_6HPQQJo8VovNQHnaS45lmeMdl-EXzLGyRH3iK51HxB5R4vInRnDm0Lx7ClfiDnniJJt_RHvEFLfJSFbeP9Dn6H6EFH_oSHf1C4kKTHG10VD20VIxxWmieTQu0RsWTB39YNA-YDoc8fzjyAt0Pc4S7FVnw6dDRUO7RP8Qj9BtuiJma40SmB-bjo5YkXBGaS-iF2izM40-Phxd6FjnBPsWVzMG543_hP8K_GKpII0waKUen4w8eHdVzNNfxIOldpGoW_BcKn8czIT9ELpER4g9hTTIuhAnFDT3j4PUGV-zwJSyuo30OJse_4hGqzBeuC0XYwCMvnCMTUA86KkFNBZOOaz--8XhzWCXeZMj7QVdj5MtR90PjSMGlrDiO3Q2ar0Hf4z7y7rgPnQlqXYKW_Mh_XPdw6sd_CVlsJLSI_vhwZjhTNNeOUsb4xMWlHU3orEOyC5HkwsdfVCfyQDeRLwlugZdwBTPzzPjiIFXWQ1eOW8Gt9Gh_5Kiso2sOj0tQLTs-_McPP8qRM8Sohxq0E6a04IzAHM3YQ9PxHWGUB_109K9g9cep5PDhWWbxIgyXBT9e0MuCnM7xW_CN6wifWhBHHmFOFn-KHh519Md35If0REGVHmH2VPhI5EefQ-QP5oqMx3rQdFGGagOT84Hm99DDC-0yI8yT48jDHD-qZYf1eNAkJkd44HrhXHiy-LD0agg5RUefQDqFsviT4coLO8Fx6OsJejl6hNnxozEqi0cfwRN8GX52hI0O0CtyPfjRBN13fCnCpeOExAzRZ3GGX2jCo-SJ80BSSUxx7wiT6zHKZ7h-5IUuxmge9EmDH9aPU6Coprid4DnMiDme4WFyBbUbNGTw35DjYzz2Bx80pBwrvB-oX0QvTPqO7niPh87x9_BDxFSg80R4enha_Dr8LOjxB7-PLuEcNM-C48aXC_cS48tk4josD-0zwWuNnCkS5rhWwetyHJ6UDjc5XAysBlt6hFbyBQkfHaeMz8auHM2PsjOuZNCZL3CViPiSEI8a5TgVNDdCPgqSZd3xToWlBUdTP7im40ey_AgfxcI_lLJxJsngH-WJJ1ZRSqkD__hR_MgzQe-R4zkeUY7w6iIO_7iD60aP5h3uHV2TSmh24i6-xGiqJTnKC-EYyYaO3B98auiTpcGfWLikEM2ko8W8hjH-OQiVH83KGfp07GGOM3NQ_oTOI-Up4crRWNlUHE-MeNGRsF-S4Kdk9MkOT4pgHhcakjHeI5mP1JqDkx6uE5UO3CgbMimmUA--CXkPLbPQB9-O7HjRqMtw-AV8-PhxeAV_-Af1oSQDpovgH_EDc9kBKodOWPpwZgf1HWfgdbDEoNYDTuTRjCHaUEefQ8_Bzzj84cvhQ_uI_-jhD3-g_LhCHD7R50F3uAqP87DDHDtsQ_twHP2O9EfO4YPrQMoz_DjClYeP50IKtzhOCv7wSET-FX1o_GiOPi86H8aR73gNGT4ql7iO9qCO-sJ_kBqPymzQVGEhXRHaH2-Kn7hYwi_8HX0wXjiaE51WHOFxHVbRLkR4Dld1iFaOtA9-WD5-CsejEHeq4t2D5tqBOqnRhBve5Aj0XwjDJTtqoUcTMQvx4yh8G2eII_ehfcibJcElI0zyQpN85DkePUFfIj8SfseOOpqLRyfKE80F7nlQD03CYGaiE-E9KP8I3BClZwh1ysC3BMyHvjp-7FfwiBbC7Dw0KweCqBEMOCKQEIIQAIQiQCFkBSQGACSEosQYBQAwCGkkBGPCCEGIM8IjYIoAgChhCQCCBCAJQQxBQxgiCDAhFBGAKQEQolQpAQQBgioHEDFIKSSU4coIAwhyAjJDCDEOISEAIQQwIgQFCAFFgkHACSucGIgBICwzjiCGAQBECQBcUAABxIQwyBklnFPGAUSUU8wYJCAxzAmBAGIKEeGQEs44ARCDjAjCgDIKaA-Ak4AJ4QSQ3DAvhBQGGaOQBUQoAwghSABBhECAUkaoYQxYZaARwAkBOCEGKeaARsp5SJRhgglAhCDIGMCYYIARIgAABAAFhBDCGGSIUkwwQx2AEABjFSMAAgGYMEBIgJAABAkhEBNEQCUQA0oiAICABiBigDCAGcEYAAARoIggDAgjDCFAAQIcEAwxRowgwhigCIDUCECMIARZQQQQUBlEADJEGACUAAQBpgQxxAjhkECEASkEFYAIQIgAgCiEMCPECGnJMIYAhDgXABEJCAFEECIIAIQhQIAQxDBgrCAAAAIAMgwhpQAwTAmFgCASEWCoEIQJg6hyAAJAEADEAEQIEkQQQDSBUAEhEGBEAAaGMI44YwQBBiPCDAJOQGGYAQIKIRgRkgADEEEAMQWYIoAI6QUjhCACBBCEKWCEQEAIBgUADhgiBADEAGAQE0goYACyAhBEBFGIA8EUAIwBZoVxCAAmjAPAGgOkIwAY4hyBAhApKEXGAQAUM4BZoAAAAhEAiDIMAEKAEgAJyaAgQhDDiAJEQFAZFEYBwLkFyjxjGRBKAGQIRYJAIBkATCgHHJUGKQGAIoIho5AXiBDBAMCKJEIUIEZI4ohiwjkhBBEMKAGMI4QBJ5gAABCgAFBMKCSEAhiIghxFwDArEAAIGSIAEAAAIhRDCDGngFJMGOOMIYQKBQ1wBCGhgABAEQMEkQgYAhw&meta=recordings%20releasegroups%20compress
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      Accept:
+      - "*/*"
+      User-Agent:
+      - rest-client/2.1.0 (darwin20.3.0 x86_64) ruby/2.7.1p83
+      Accept-Encoding:
+      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+      Host:
+      - api.acoustid.org
+  response:
+    status:
+      code: 429
+      message: Too Many Requests
+    headers:
+      Date:
+      - Tue, 29 Jun 2021 13:46:28 GMT
+      Content-Type:
+      - application/json; charset=UTF-8
+      Content-Length:
+      - '124'
+      Connection:
+      - keep-alive
+      Access-Control-Allow-Origin:
+      - "*"
+      X-Envoy-Upstream-Service-Time:
+      - '58'
+      X-Envoy-Decorator-Operation:
+      - acoustid-server-api.acoustid.svc.cluster.local:3031/*
+      Strict-Transport-Security:
+      - max-age=15724800; includeSubDomains
+    body:
+      encoding: UTF-8
+      string: '{"error": {"code": 14, "message": "rate limit (4.000000 requests per
+        second) exceeded, try again later"}, "status": "error"}'
+    http_version:
+  recorded_at: Tue, 29 Jun 2021 13:46:28 GMT
+recorded_with: VCR 3.0.3

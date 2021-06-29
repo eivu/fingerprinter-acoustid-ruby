@@ -1,0 +1,53 @@
+---
+http_interactions:
+- request:
+    method: get
+    uri: https://api.acoustid.org/v2/lookup?client=<ACOUSTID_CLIENT_ID>&duration=152&fingerprint=AQADtEmSREuSNIkGtzruHJ-gYONxHccPcS_-4EeV7_hGPMqHH83R5zieE3qO6xRCKzosBz_iHx-eQwf1IMe5wvnxcEbIB98x7xmatwn6Y9dx4QGnE1q0qkLywd-x-jge7PiJMTvh6McjV0iGXDkeDU_wJA9KnXDiScfNjDjSI2EVY0-O_7h09Dm-FreU6riHXUFfGV9U48xh9Ig54lDpHvHx40zwxjCV41Nm5BdENZsl5EuOJ8fRLkEz4iq-o_uHdBxEckR43HRw9CSaM8ihJ49Q-UajKTseC7VyNG44qMRj4aaFNkfzDOtzVBtVCuKPPDr8q0i7ZRJ-aCE_vMyIPkOY6ymuJUYjCqGVBT8SMspKnDoeotfQH-3RRF2FUwnRhYh2IWGGHv-D60NFE82D88iP_oaWZ_jEOEVF5Wgc4hs-Fr-F6UcTacfDGkeT8dCZHLZG-KhJNHFydM9xR-kw5dAaMRH65Gjq4GiqnEKobclxTvjRf_CPNj6-dOhhfUPCMwib48aPH02OWviU40WaSVHwe9COxrqR66i4H3-OZ0dzBf9i_EbzeEMl7vi243qI6Lwg5vHxMohO-MmLixWqhkGkxFEO3UGkVOhEeXg94V-OH-cV-DseHj-R7Ea8SEfnURO-SMcf9FrgNjeq4-nxHWlFPFHC4RCd7PiFU8HvoJdONKFy5Ph0NC-qNgoRkhKuT9COMJpkCb3xiDnytBm2C3oWIsy5oY0kPJLhP4jOa9CPPEWjSBWP6qxw4jATeUOuHw-eEf5eqAlL5FFePIRf4xyFsmjuCdUevEea6EQyVSv-Bjcabkev0XiO_EMTftBGxItO_Gji5QjVE7ky9Jpz-Lh5TMmkHB38iUKo6tDFIz_RZ_gmHU3SZB1ylcdDcsTzQ7OWqGi-EzpuIlQ2hHFY6MqSIvrxE5d0rGFmoXmRhocqLoF1Fa2K_0KtXDg0Sjme4kep5vAPZz8sH9UPPeNQCz7OBFNyXBIH7VfR9MOb4yresEN7NNfxh0Suo6mOPsOXGB_GI9WFJ4fOoalWTBca25i-rNDRaMqK6QyOf7iCKUetLIbuQ1GoHOcO68EDP_vQHPsxk5GFRs6DUJKIT4FJPEaTr0Nfj7hyGm-LNgrhtEf5GBeZIpd0aAlyKcdToeRy9DoaYnSWI2LkHGIVK0JetNmyYcrxDE32o1s4FTGVQyfCD854oZdS4ThPNIi0MsHhH3oWTUGhJSqNX_iNckWYr3h3VNURRj_uofuhI_WNauPxLFJR6bCYHLWPP4pwIWcO_3iPR4er6HiI5llQbezwohGTC21-HP-hNbrRGM9y_CO0ODm6jsbF4LPQC6bRjhX-HJqOpjs-xUif4_vR5wgjprhXaPtx5EaThseXRUelw2Kio_bxBflxHv6FF9chxjkuNE4kVBuLHxZ16LkY4EcbcWicB1_wSei0o3FyXIyhD4X1obKKGwhTHd-lwRVRkinaKIG3C2ePX0P8Cwknbpiq8Lh2oKlj9Mclbvjxf0h1fFaxw5PwHCdVwc_xo1p-NFpuHP-g6C-aUDw-BVd-NCdqScGjQ9-MypFwnWgiH8duaGmO0EdzpkJJolKWFNZwhi1yQR8RbflQSxI-FbWI5sZl4ccz_Ei55MLTqTj8Y-eNL4yPrcqGfMeHKhEF29EQUg4eDU0lQ5uOa_bB5A-YB0cz8milpRQuN8GUmKjS4Ogh7jd0_IGuw6nG4pmWwjeO5riPo1eUwXVx489QHG_RF5YHn-iX4MH1YDoPO0F3NDnaVUSf7DB6Cj0hJp0wuvDx487hxxCf4pZwdoZztAH6CP6m4Up02Md5PD189DluXEafTBWOo8mJ40Uf-IMfQzuO51Ckx8ITONvxG_5wDT_hGt8i4YVKCT92-MItiI-Oh0Go66gPc0d_3EHPI1ciqCecjEfPLvgN3LCTRbgO_ahrCcWHH40b9ENtNA_U48_QpjosJsMNZSfa49pQuBbUS3hx_BhcH7rgB0-F94WPG8c5fBlO4SE7XOJxwj96PId-NFsS4j_UFx3UHYf2Bn6Gm2h6PNqCKzsiXRuu8HCoOPgO5wrCJ0OOWjzSN3gO_ch3PA-u4zF84kt2VE-OcHoG9WfwVeh7nMWj1EM_-PpxfQiT4Q_eoaJONL7wLyB3XJKOS6mEdjn2wy9-pHyInlugtje64si540O6B-MfXE8P7cd35DlKuULqpAYrvaj1rLiCKzo0UJcKHtehiePwUriPps7RZzt6-Dz4FX2SI5-J5-Cco3YGf42CsFwq6NSRXZEkPBKRJZF0JJuOq3vwH4_wRAz-C7-QaHSKcFR0TJmOH9M6OYXjE56UGeEb6ApOo3WMZlJYgU-K92iuEGV2Y3cM7f0wpVsw_kMtXtAiLZJ05BeeHM8t9EaT78IZBqWQxgkSa8vRYG-CSjz8LBhlHd2JmOokhE8yG00W4VSHK1sl-MTrCrmL59C60YgW6kG_pLiooD88Rkf1HJcl4TwqX0SYQ3WP6RMaZj96JkbDKMd_aOmO8A5e_GiXHR56vEpF3EcYhZEpJD0aEg91XHlwHc2zoz-FD_meQ0voDz0xWFNyY2SyCz-HPBnCO9AjbE6OksWYMFeM94GrF98h_sdjnC96xtBSpXg_hFYmNGN7ACMIEAoh4wgAkgCBCCEQKEAdMBYIYaRSyGihBCIICGMNIEwQSIUgTAHDjhNEIIcYI0gJYLLAREBIBGIACAEAIVABzhRBSBilgBLMIgMEAWAAYwQS1DFAJVHCQEAEoEQIABCwClihBENCAkCQQcAxAhQQCiMDBBOCASM8IQIAAMgAQkBBgAHOCAAooMwggcgBCilAhCDAKAeAAUAJAAQwgAgHDGJEAQCQMQAA5piAjAAAAbGCAKfMMAYIIwihhEBBkDJCQQQYEoBwYQAgXhhhmQAECKAEcwAgQKViQAFDEBDECOAQYsARQYUAwBjFCBBARGKMQQwwBYEBxFKqrBAAEGEABMoKgZCgCHBEDECGCGbAo0QoYgRAylDCGBCSAmEcIIoCIIAAAAAjCAUEAIIcEwBJIgRFiAonmEJAGKAMQIIQARhTAABAgDBMAIgUYAYALYgAjBhgkLOCCMuUAEAAoZAgCAMDgAFOICOEYQIyZIESQFDmKFFIWYuJAAAJZgAhFgBiEBBCAokQQcgxoohkggCikBEAASUgoQYwADQURBFFDFAAEMCEIIIozwAQgCjnCDcAWAMIAsQqBAwwiJgggGACCCAMIIIgxgxAAAihACIEOICAAogBKY4ASiDlADHKCEIUEEBQZYgFDBjAlABIAGKMYAgxSBwHmCAAiABAKCAAJcABAADSiCEGACGAKQMQIoIQZwIAACCCDBBMAAwAQ0gxwgyRFBBlFAKACOOcAAYQIwghDAAMjEJKAoUBIYwACAQiQBBphASGKEQAUFAAxQQBgCAiCEBGAAUUYkAgABQhAEBChCMGEAKYEkQAZBAQCDEgBAGAEWcAIcAJAAxDhAghhBHEEEQNFAIII4ACpBlhETBGAkQIEUIIJIwAxAgmlBIIACOAEEAAYoQCBA&meta=recordings%20releasegroups%20compress
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      Accept:
+      - "*/*"
+      User-Agent:
+      - rest-client/2.1.0 (darwin20.3.0 x86_64) ruby/2.7.1p83
+      Accept-Encoding:
+      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+      Host:
+      - api.acoustid.org
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Date:
+      - Tue, 29 Jun 2021 13:42:32 GMT
+      Content-Type:
+      - application/json; charset=UTF-8
+      Transfer-Encoding:
+      - chunked
+      Connection:
+      - keep-alive
+      Vary:
+      - Accept-Encoding
+      Access-Control-Allow-Origin:
+      - "*"
+      X-Envoy-Upstream-Service-Time:
+      - '69'
+      Strict-Transport-Security:
+      - max-age=15724800; includeSubDomains
+    body:
+      encoding: ASCII-8BIT
+      string: '{"results": [{"id": "5d36ea64-e2fb-4995-b4ef-9fe90143d4f6", "recordings":
+        [{"artists": [{"id": "8dd98bdc-80ec-4e93-8509-2f46bafc09a7", "joinphrase":
+        " feat. ", "name": "Calvin Harris"}, {"id": "1a99cc88-aea3-4fe3-96b9-20791667f65f",
+        "name": "Dizzee Rascal"}], "duration": 152, "id": "a3bfd936-7ace-43f8-aad1-88697d5f173a",
+        "releasegroups": [{"artists": [{"id": "1a99cc88-aea3-4fe3-96b9-20791667f65f",
+        "name": "Dizzee Rascal"}], "id": "5b40985d-d54f-4109-ad1a-a81d59202de6", "title":
+        "The Fifth", "type": "Album"}, {"artists": [{"id": "8dd98bdc-80ec-4e93-8509-2f46bafc09a7",
+        "name": "Calvin Harris"}], "id": "98432828-5764-4892-9e3f-9c674cf70acb", "title":
+        "18 Months", "type": "Album"}], "title": "Here 2 China"}, {"id": "eb986de7-7082-4f13-bdc5-7c29f9e7aa20"}],
+        "score": 0.962798}], "status": "ok"}'
+    http_version:
+  recorded_at: Tue, 29 Jun 2021 13:42:32 GMT
+recorded_with: VCR 3.0.3

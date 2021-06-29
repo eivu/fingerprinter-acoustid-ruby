@@ -1,0 +1,56 @@
+---
+http_interactions:
+- request:
+    method: get
+    uri: https://api.acoustid.org/v2/lookup?client=<ACOUSTID_CLIENT_ID>&duration=225&fingerprint=AQADtImURlmUbAl09DuarXnwPDhT9OGhRVGPPAmTCn8QftDS-IGe2MKfBvrhH7qOKzF0NNOWG2WSPsKdQ24Lx0eeGFek4wzqLQ-aKZWNIxb3w8nENHgS8siFPfCXHF8S-Xgu_IcvPGyCJNeRF82LWrkUXGGT5HhyHOkbQU-2MtCV5Ak-Q_uChp-GXJox8gkeRjqoTjX-YZ8ifBaMCzpFeEnCDM-2G_8j9I_QHA-zo5YUpEmYL1CkL8FPITkZ_LjgH7ETZdqERGT24EooCuXx8PD4oQ-uhOKQLhGPRGeDH9OD5rgk4smy4E_g8FWIH09QcmngJZLx_KjO4n8R6huSpVG84NoxJT-6E8cdnKoTJHvRCEn94Ux2NEvzoL_AZhnYR-gbePsRiYmC5JeEvhF86Ubl7HiEfIHOFH5u6EcuJRQcRWGOz15xX0Fz9MXD5Ki46AijB9eb4BkzITgmH2HeI2mTSxkeMT-uVEYf4ll3eKyG2g9K5ZKChMsRngx2yUHPwuGELtGGSySD80nhxsWPJ0d5R_DS48p0VIxXxPmgfULa5XgyH9tNHFWSIVdmJG-aoEakHPKEWEyUo4yWOJjyHHNG4jvxolkUHiGllELy4aSG5slQ5SHiRccHPZETpE_xJMiVHGKUSMqKOLca5J6QLEdxCnmkJNB-NM-COPkWXNlx4YePJ0O-I-H04KselF3goz8uyUePnUj5C8meTugmPnB89Pg77MR_bPmHB1cuHfdRh9LgGFU8JPmHPDxOK_h7WMmKXMoF3U2M8BHC-EfiMPlwZUsqNJeD6cl2PDr2KTiPZomQjEsu5LeKi2i-G1WSI9Zz6DzSW8KRT72IhAxT4ix-lHyyoWFxOUQfeFJ6eKmFJEN4vDoeJgpOHezRcEL_4PnxFPkH0RGusALzw0mOhsclHdGTB_1yOF_Q9cKvJMZ5fEF1ND_mD4_T41sZ9PAvRFJMvOmE9_jRB2Gi6MGZHY3DHOGRXEo-XImmwk_wcHiGNwz6C80kPtCjZBb-Br2OZkyOJ3lOxBf8HTqpBXqeDSGVoyGH58F7DtcHMw_O2Gh6NAsj4sfz43yCNA0TCnqyITeOoTlKSUrxP_jhHxcX_A889rhy5DmSHb1w7tgTOJRyPMfzDvOnoCd-nAd_UN1QIc506HtwHfWPhnGgmlSQ50KkQDtyBnOmdXDKB2d2PFEVYQ9qUkazJYeeiCn6wMeZEU6SB5V15D-SR1VRJloOT4npoXKyB_lJXMyP_kKzHzqih8W9RWhOVLkyXEqIp8eLH67CI4eXe4GqLh7CXfDlok-FV0nR6_g0_I2wWWuOkBlJJPvRJMdxJccnfti44MiTJ0XSXDmuBfUuRMqoC1ebCHoc3EeYo9-Hc8H54FMTiQhh9VCk47oQXvBRlltwaUXVLDqsDR6FFlePPJgS59A2nZjkDOnWnLjywnng83h4PMfxTLiaHLeQ5DmCWkyMKxnOHPUJ_0DP4xRPHMfJHc3xkzgu_Ed-VH-CQ6eRo-GF5-jbRLiP4_iMRzyuLwnePOjh6uhzxEfSRFTT4bqELwdy6dDi9Ihk5ce_4vmK5mCO5PwQmTd6asSXoHF0xNkO9SryPOtwnsfHCnUEo58QXw-e6tCFyDku7ESf02gSH_fxD70D_8JbND9-_MMuJQcjSRIaIQn3Izd6Hs2FX7iI61mRJxcS8sGz49JxH4-UJ3AeXNpxHDnU8fh0qPJx5uh1NJNw4ZKQH82Nnsf14GGMJsuGtjquokdKQgy3fAh_vMdfPMvxhviPWoTjPIJ_TD6eoHpQ5XiGXgq8H0mzJDliSRf8Y2Jp4Rcu5XiO_nCvoXK2Fv_wP8elo7nx5jj8Ct9x_0i_5IVW5EzxJQ_6HObQh8ePPkh_NPmDF7Fz3EXtRfjhR6GKkkfSDPHUHi9xEfmhKM4RmlKDv-A5tBf8ENGPZJWOs1nw8EVTJUGVHz-JpHqJsEljNOPxBb2Opj7-KDIa_aisI9DzbMhl_Eaft2iS4z9-9HC94_rRPDrOE6dQ_oGT8qjwQ_nAY-NyXDvxHZ-GZKkkI9Kb40qy48oO3Dnh9gkeRTeiH_pxQz_yCNfx03h8CS6-MMaz4x2aI7Qt6AvR5EG4KaNwpkQT4nuQZ4e-dAvyol6O6i28_mjX4hJeEhj94AgX6jClwa2G48rhH3qP8DtaLvB-XBL-w4p4wgw-cJpP-Dx6SUduQeMyGTfidQ6sbXNxfAtHeAR_vD9chcVeXNLRqci7Qz_C_CrKSdSBTgsqESfRK4MZZcYP72GQpzihVT0RUkWjMsedHPuLpjquJHvwksTFKEeeE1oy7riSHHo7nBfyPyhtoemOZ8mFP2By2iiZ4AkeH9lT9Dj0Ij5cH8y2ZXjRRqGzwD9e6XDPoCoeYfobpGM26K7w8Qj-Rbg4HpVvTM9a-OJx8KHxiB72wnF4okbyMqhqIwzzicIz_DjeDLlyNNdR6dDIHHkLEx_KGeOzHc13dJF28EfjHo9ObCHSQzdSB7Wy49mPm7iOpj-uGj6P6TO-g42Oz0IoVTnxCspEDT_-Jyh95FnwHD6DJ9vxHrvQH-5F9Mly_Bmy3fh9KFYmoqJa_MEP8fBuI_QxL8zRxgjz6JDD4yQR8jnc5KgffOjKpnAu5MkEsS_yKIK_4McH_sfx46lRb8gVVPnh_EKL0NJluOELP6icCKGiCFp8GznKRyIeHt9xSUTtgL9x6RNusD-aM0apaEe-Q4p-NBxyK6gTvriG88UJnzm-YXL6AE4EIIwJYISABAAiHFFCMMeCoAAKAjAwQBjgQQBEECgQgAxIRgABApAAAHEGWAWUUdA5AAQARBCCgGAGAG0QEgIQAgEmwkCBCBDMAE4YAggIIhgCAhADAGBEAGEQAwYJBoQDChmAjAACEGoQERQIwjAAQAgABBEAAGIEAYoJBgFEgEiBBCHGgAEQEVZ5BoRACDGhiKLIGCMJMEhZwBRgQCACEABGIAAwRoAgY4AQgAgEjDQAASMEMEogBAhARkIskAFQCAgIEQoMQEAhBACTEADICUWAoIYhZCQFRhjhgAEOICEGAEYQDgygQAyICAMQIECVYUYQgIARCAAgACAIISEIYoIpACUQABEg1AEGGIyIABIYBKVTGjFCACPCCG6QEEIawQkSiogBiCAaAQsIQEoBBAAggAhBHDCGYQAMMsQhESASQiBiBGCEQGcUAEkAg6AwghgyFCAGUIAMBkgA4p0QiFABBGKEJUKAIYZAghwBgMhBiBLASgMIgEIYBBpTghLmDEAAKSOREMYQJhQDBhjBhEcDIYGYMgIQIJABBAgqCBeCAeYEgIIJ6RBEBBgkhbBIMSYQAYwQBYwgxhByFBHOMEGIIcwoIQhUThoAEDHMMAQEEQRQgCRmAjCBkDKAIIWUA8wIAgCwgBCoHCEGAKKMwUAY4oBAAAnCmBGKSGSEdcAJILghSgDhgDEOWAGAAAYAoYAQDijApEQIGEEUQQQIMKg6hCiEmCAGYCEAIhAAwYUyxEEAADGEGEAZcIoAIJABRDFQnGCKGECcQMoCICxQRADpABKKAYABEwgZIwgBwAiABAHGEUCAAQIwQQghhghggAAGkCMEsUY7BQxxyCphDABAGCQAUMQ4gwCDCgGgCCGIIQCEMEALJwABRBCkCBBMGIKQQgAxAggxQglAAKGWIAIcQkgQYQCgghgAhGCCMIYBdEYYaY0g5ADkhBOCEASIUAABJhAwxhBgAANKAGIAAQAB&meta=recordings%20releasegroups%20compress
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      Accept:
+      - "*/*"
+      User-Agent:
+      - rest-client/2.1.0 (darwin20.3.0 x86_64) ruby/2.7.1p83
+      Accept-Encoding:
+      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+      Host:
+      - api.acoustid.org
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Date:
+      - Tue, 29 Jun 2021 13:42:11 GMT
+      Content-Type:
+      - application/json; charset=UTF-8
+      Transfer-Encoding:
+      - chunked
+      Connection:
+      - keep-alive
+      Vary:
+      - Accept-Encoding
+      Access-Control-Allow-Origin:
+      - "*"
+      X-Envoy-Upstream-Service-Time:
+      - '61'
+      Strict-Transport-Security:
+      - max-age=15724800; includeSubDomains
+    body:
+      encoding: ASCII-8BIT
+      string: '{"results": [{"id": "d285073d-df9f-4060-94c6-46bd4835d996", "recordings":
+        [{"artists": [{"id": "1a98f1f2-c2e1-4c3c-8ce5-c746979be489", "name": "Body
+        Language"}], "duration": 226, "id": "23350d5c-f3a4-4107-9a7b-2826a021058a",
+        "releasegroups": [{"artists": [{"id": "1a98f1f2-c2e1-4c3c-8ce5-c746979be489",
+        "name": "Body Language"}], "id": "4a2a28c6-4314-4b2a-82c1-0becc1026748", "title":
+        "Grammar", "type": "EP"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "9a8b6dcf-60eb-48ab-b5bd-baa46138d213",
+        "secondarytypes": ["Compilation"], "title": "Om Lounge 13", "type": "Album"},
+        {"id": "a59688dc-b1d9-47ae-b2cf-305dba1d707a", "title": "Grammar", "type":
+        "Album"}], "title": "The First"}, {"artists": [{"id": "1a98f1f2-c2e1-4c3c-8ce5-c746979be489",
+        "name": "Body Language"}], "id": "c1673f4b-6506-47d5-a9b8-fbbf920c0362", "releasegroups":
+        [{"id": "4a2a28c6-4314-4b2a-82c1-0becc1026748", "title": "Grammar", "type":
+        "EP"}], "title": "The First (live)"}], "score": 0.992814}], "status": "ok"}'
+    http_version:
+  recorded_at: Tue, 29 Jun 2021 13:42:11 GMT
+recorded_with: VCR 3.0.3

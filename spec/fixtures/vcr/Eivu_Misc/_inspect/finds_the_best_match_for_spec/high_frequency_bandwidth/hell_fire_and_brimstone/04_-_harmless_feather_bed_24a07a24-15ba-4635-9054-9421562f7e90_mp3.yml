@@ -1,0 +1,49 @@
+---
+http_interactions:
+- request:
+    method: get
+    uri: https://api.acoustid.org/v2/lookup?client=<ACOUSTID_CLIENT_ID>&duration=181&fingerprint=AQADtFKUJKokhYHXHBUn5Mdz6DZCZj0qrHdC_EuI67h4NIwO5shzHLl8VNKiI9XSDM5-iGOI6RIV3AuaRyVKOQ8e4QuKJp2cI3qPRzVxg7-MHeEFLTyuHLlCCr5RNkGTaEceJThzD_-CZB9uRceTBg0v5LqCbx-asG_QPYUqLerxQ89xVFdUONGSxDi0H3-GLye0lMpRxWuOv8il4Oj742KOJ4ffILyg-8WvYC2YfAGj79ih50F-5NOhvcen5PjRQz0-hUHMXMM_4aj05IjTDCKP0HqKnzgVbnA-5KvxaQ_0oxee49GibPjgE5r1TNCXo6ZyNPksI85FXDKOvg4u5ngCvwh7KdBtxNexPkUWOQPF5UehPA9yfEmPvNAX5fjxQH1cPFODPNeGD-iHcE3yQD_CFK0iD69Q5WjC5ciF6xz0DaWV400SfGh2QT_0HXWPMFGz43mN6_hRHz5zvNGRNzc08tGQ4y924mEQJsP0HPoR_EMeCZoX5UJ6pKh-qJka_NqQ67iL6kmONAkzaD1yfcH34VQH70nxKAuuXThyCb0i42KSHE50aOTxK_iEq8mRxsm34dGOp_iDHq4YPEKfI3-hv_iN4c1Codox5YGeGznyQ8-OME1PvFGONOjyD6oYpniO_IxxS8ETR6i2nEiWffiFPDveSobz4NGiH3E__NA3tFWOp0lyOId2LdCj44sVNKWOUF-IR_hD_EL_CZd6mEwQHvqFvMEzjObRh2hUIqLz43nwQ8-hOYe76MhT5EeTD3IYZriUIz9VvJZQyRGe5gizQ9_x7JtwVZNgPM6JK8mh68c39MrxNEmgJeLxXHh24XVkiHicEbFyXPijBPVx7fCTo8yO_AqUIzeY5DhDPJ0NRs4RPceh50X9QAsTjUSuIETzQ02z5LiSdMIfI7cU_AmqhIng5Qj_QM_cIu9FOC8eJseVJMd_5BN6HaqTJB_SJDxC5nge4zxS_bgVHWfw5JGIP-iJiym8JhmqTTjyN9CH9UKeZQizG5OcfJLwA19O1EXa9OiVoC-a7EfeRBq-pIH-GnnxPMmFyongZQgvPBd0mobzIE6YKHiEXLnxQvvxKgm8pmh3CYe-PSveB2IeRcfzBrFy_BqeBz0Dr0nQ9jgfJMcrRNIHjxn-oHIeIzr0I4-KnBc0ZyJMKinMHdrxeMmMMx3y40MvD0-VpCrSjIf2L0Ie_GhTvQgTDucOlfjRH7eSdHicFiJR68IH_RmacggVf_g3_ES542SKL4KfI3wEfUc-qfixPghlouGO_YGOPMhbaA5zDSm5HP4RascbqIwzEX-RF71S4VVi5D5E7kSdU3h84crhxMJJ6LnxFyFuKWkQp0kC8xI0H3-QP0hP_MJzQjfRPwqeJMiTHe4R_hF0_ITIHV0VIVLyB8PxfUKPM8ijQ9fho7oHucH5HHkunEWvC6-SICUP7bh0IRef4s4O5xHi7HjwE_2hWkkqPE5hotaFH3kMl8k1PE6LHz-DHq6Nh8gPrU2InBF-_BvWI9TGwFD0x8iPHx9Ch4G-XDi042mOSw_yXMI59PLwVEmOhFF4oUSuTzhq7miiCk_C40V-4icqUUkO2YGjPOjxF_kUC56a4xHTGj9e1IddXKFx5Am0Psht_MH6DtUWHtuPPgh-PMrRtMcjNM9W4MqOh85Q8TFUC89hmYfz4zXhakf44_mO6jD14jhx_EmOxIfzoifySMcfwnmOG_Fd9IQ9PAv0BT_x8EHeoLnxH36W4uI63DeOZsyJ3EmQsD6ufHgK7yhxbsmMnJGOLw-067gVWVDzwz901BIuHumPR8yFT0cb4IzxJ0HS_EHQcF9wfLB5_IijGn0GHTeeRMEZEr5Q8sIfVIfc3Ki2sjiOM0LfQWyKV8fDoCfxE9-JNwxRZU-MfMQfpM_w_EJ7XDr0w8fxe0I3fDx-iI9wcfhR_ZCntQhz9D2q3zjOw-6H3Ei-B2eyoYwiHhcK5xea5wpeBtdLhMzhB7eMiwlEJvAv9DiH5_iSBRW_QtQjXHiP76h2PNDh_MCdtHjCG-XxQ09U5IePapXxHvFhVcNNQ1-CMh98Qg-FK0fORMSPkLnwF_GTDj9-9PAO__goPI-QZzv0LOhj9GgeC2qmhsV74V-Qo3qSCnGayPChNXrwEyeFRs9RcTK-4yd0odojOGmUBz_6Cz-hL0dT3qgcmng_fDn-ENo7IhcDrznapsDd4CdyTGsWNPmO_cbx4SrqXBBrXAmco6tOqByD51LwIkf1HXGaBCIf1PqR78GbFz7iKIuOFz_0otfxaEpy_Id51LrwHWcTB6kc4deGa_iNOseL5zAbhPKh21j1JfjBfAGTE3t-_PjwD3mOetGFPNDnoBryZgnOdFKG58JNVE-QJk0E7SlyfchPtEHztXga3VCXREd-4xr6I7aSFE4c9Eqg6_gOzY2FJpsUG3lz_Bp-Cz3MiCkeHeED3RLyKfgwvmDmgYoZhE9-7IeOR4XmwHV66MqF9Ed7PE0W48zxbziH6kmOhEklhOUjXFeOXzh8IeaUFOcOlciH_rgT5UGcpxvMvaiPLzipVIUl7kJ8fMRPET0uxvAjIVcq9IO-Y1dxP2DWDM2zjJDmY-_x9Tg0H3ky5cX3IUcPNc10xFIaDj9uoU-QJiFzAEMFU0AQAIhQAHNmCCMIOMEAUEYIAChB4AqCDDIEGKIsAAAZQgQhRDFhzOBCIaQEEIBpBABAxAFiEQBQAGeYUMIQwJCCSlIhiCLBIKQcAgAQYjgFAEBiBACKI4CIIwhBQIhQQiGCCJBIBGAEN0RA5AkhxgJhFHGGGAEUMUopwIghBIigoBCUGSYMQAAoIRQUgBlBEAIAGKQNEMggpIgAQGnEgDOIGCSAEgAwApYQTBCkADKGQEAgMwYhIwBgyFgAkLOCKQcAQYgBQYhBwnohiIDCYESgkMRxwAwxgEiBkCCAAAaM0QYAQRgiCDCiBGRAICCUtpgJqoRBADoLCEDMAcIEIgYgwQBCxmBDgGBIAQgEAIQQxTACw4ioBJDCEEGsAwAQogEAGilCjGBcCSEQAEgAIQREBimhCAAZCmKUA8oYZAAwjhvAhDAQAUEMUgIAoZwggCGjCCIICmWBJVYRp4xQhCCBiDaCGSEMggAQYBBAUBlHBGBAMCMgEkIAD5QSwBmhkEGOIAEAMYIbIAxGhAhkgEYGKQKEYpIAYJEBzAnMGFBEIEeYQApADAAARnADADFCAUGAMZQAI5BDCADLHYLOKIAJQ0AwgSByCCFAoACGGAEoAAAQxCwABDhKlAEECIEZUsIgSwABQABkggBKGQWAAMQYQIRA5AglgACIAQCMQJAAgAlSiBkipXGQIESIQswRIAgQAhCAkHBAOSAMgYgIQIUgDABgCCSUGCQIIAAIICCARDBGDSVCSaEcQaIgIIgQkChgERISAAekYoYgwpAQBhgDgXPQGCAQFkAgQwZEygACFEHGA2CgEAgZYAQBkCBgFANQBGAUZI45R5DgZgAnCEJIKACQsYYAAACBQiEAJEdOMScMRUATYASBhjlgrJAYAMMgwcYgQoCAxnElJLEKAQQcEsABg7BXggBGOANKWIAAMIhwwRASQCFEhNRKAACIUgCIjAxAQlErJEDAAsSIgwQ4oDVAFBoA&meta=recordings%20releasegroups%20compress
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      Accept:
+      - "*/*"
+      User-Agent:
+      - rest-client/2.1.0 (darwin20.3.0 x86_64) ruby/2.7.1p83
+      Accept-Encoding:
+      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+      Host:
+      - api.acoustid.org
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Date:
+      - Tue, 29 Jun 2021 13:44:42 GMT
+      Content-Type:
+      - application/json; charset=UTF-8
+      Transfer-Encoding:
+      - chunked
+      Connection:
+      - keep-alive
+      Vary:
+      - Accept-Encoding
+      Access-Control-Allow-Origin:
+      - "*"
+      X-Envoy-Upstream-Service-Time:
+      - '69'
+      Strict-Transport-Security:
+      - max-age=15724800; includeSubDomains
+    body:
+      encoding: ASCII-8BIT
+      string: '{"results": [{"id": "7061b5b5-717e-453f-ae03-c7714d80b591", "recordings":
+        [{"artists": [{"id": "9ddfc28e-9869-429e-8200-567dcf5ef008", "name": "High
+        Frequency Bandwidth"}], "duration": 181, "id": "a613775e-c435-44bc-8e64-46e6a935b85a",
+        "releasegroups": [{"id": "f42dafb1-e799-47f8-960f-5039cc4c729d", "title":
+        "Hell Fire and Brimstone", "type": "Album"}], "title": "Harmless Feather Bed"}],
+        "score": 0.981785}], "status": "ok"}'
+    http_version:
+  recorded_at: Tue, 29 Jun 2021 13:44:42 GMT
+recorded_with: VCR 3.0.3

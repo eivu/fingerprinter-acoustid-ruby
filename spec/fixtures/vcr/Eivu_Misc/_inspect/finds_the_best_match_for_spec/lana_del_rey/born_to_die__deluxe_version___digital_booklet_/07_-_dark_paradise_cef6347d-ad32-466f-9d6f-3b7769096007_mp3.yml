@@ -1,0 +1,65 @@
+---
+http_interactions:
+- request:
+    method: get
+    uri: https://api.acoustid.org/v2/lookup?client=<ACOUSTID_CLIENT_ID>&duration=243&fingerprint=AQADtJKaKlIUBU1f9GHw4yee18HFHP1ywZeXDGZwbCPNgjnyYYd2NFcmVA_ywKF4TBdx62B7oSf-YWtCmFkQPkLyZDiPJ8Q_DT_RD81T4UnxD88z_BzKBl584srx8HiOf_CqFHcLVxKS-0iLH-_xKIO342NJ3MB5XJGNK0c7IXmE_HiKF22uwlWFcnpxeRSuPD26IOFzhIl_PMePXynepfgqRbjwzcGXHD9QmTn87MVfeER-OGchij1GItOH6Th-nE_xHA6PM8ePvPgW9Cu-4znc48CPH-KRXD-cGvs-Bf159AdLouwaI89zJPlw3MSD5zhjDSPFIK9E6D1-lIh3eBYnzIqNZxF--DBJDaF0qBmekBLepUHCZbvw4z2uHLF2Q2NyRL-GX9iVwBcKJD9SHiexK8T0SccPb8sLcxciihn-w8uIHzlxFZ6PRsmD_Dgf6JMhdgvyRDvuHvuFh0H1C76Hh8fhC6nUJEhG3A-e43CUSQlO7XhzzH8Qtl2IZNmDH8yXHE3UCde2HU30JOgv7Bn87LiQ64O47MR15MlQ0ZSISEkO7TlC9mDz4MmLPNGh6NIRJheeRA9-_Gh-3JSKP0NFxUV-XCHxBWcPXUeuFTN7_KiyY0-yEc4ePEcyPkcsC0-PJ2HQTDaK6_iQFLFz_MLU5cSjhCp4hXB-7D9CL1HxJGugHz9yHvkOLXnRI0_UopQEP4lw-CFqPcjJSEnwRMmFF2IlBe_yQecmxArpoNxXXPxw-EEffBk1TEqv4I2hNc6xH2_QPM-EkhKFi8lw5khK5KKL5sR7lGlxhE-iQlSP2CGaZXWCkxau4IKfTLhqCVeViUKtXkSaJy2cDvrhI3yLZ3mEJs7xD34IjxlCU0jqqXgu9McLHw9-2MmR_EEqmkG_Db1KuEqSFB6P9llxHs-D8Cm0HIcuJbmQv_jxd-iOSxXsZMclRH6gZ8fUOykeKSvyCBd3pE4iPDr0473wEz3S5Sjn4RLCJ4HjDlqeHY_8IB8z5XgvuFuI77iU4ZKS46qH-jtu_MJ_PC5cZcg5JE-GTk2Odw8uBu_xtPBunMSdHHl45Ed1H1Z2uC--GFc0-NKDUI4LdXGQhw7uo9L0o-mIS0qK_EhafUWpKyi6HY_hZSpKJhFyInmOp2kS3MOX44phN8OTHDn0iyj_wDyuD8erFE_QH2eOx1GGE-5W6MTDET_qqsMX9B7-ob_ww8YV5XgtPHjhKseLQwTC9_iUoGdwhsd99Ec3aUbzJD9-NFz2FMl43GmOfEatHI3CRMEVPHplPGEjhG_w44QW5sMjhNsSOD6a9ziPK3MSHGGcLOhD6PbxJMFFpmiePTh0tgJS7XiTw1cU1Dry7njUNIGerEFTo__xRHjSjELJLBa-44f-A3Fd_Bgt-IqO_vgr7MuO6y7CVEIfXPijBflmHd2J97AvlB4exQhzCdqLlHyF63GCB-eJPkPzZfiPi89x6UHYUDr-4S7EBu6C44uEMEkeXInCBQ9-PPBY5Mvx7MI54_iRo9KFTzX8HP9QXTpO4VGIy01wpJ_wD7pUTbhEC-FhrR6-L_gI43pxNEuJ_GiOXgquBFr2C5Vy6HSEJ4f4BOdxZhbCpOhGPAlePMefRMhFK9CzwxdyHX_wH31IwsyO_BHh6rjxKTk2dfggRT_-mMhTK_gDHs13tFEwMs3xI2dyqJty9IFvPD7sHGKoHK-F_KgoFsdzHM4z5Ie8C_1x8cJxQ2RUnBlyvEV_486OS16IH82JclqO48drSceN_iu8S-g3PIoRXoIWHmGepyifG3cuHJVzNI_wvLir40miB7moClo7DodDPMrhHKcEJ-GD8FJIPMlx4UczMgi96DgvXMeNXwiq3Xjkwyf-oXKk43ii8MjfQH_QT0KYHJde47EidBJczcN3PHTgIj--WGiiHPfQ6EEvhbiCRrEulHlw03jyiIH44EbOPDGqKYRLdI1OXBO-49mDXHoG_QjDaAz64j6uo9yJhtk-5Bv6F2Lj4FFCYldgCYxOvMKVcsmQD-zRP2iY4Wt2jPSR5zn0KTH6wzmOJ8lw6tBr5Ee37Xjw40XzEOEhF6Fz4SKNOxeO9HgiHueR98V_9Nmx6_gX1PCzIOmCMKKbgD8-HU8-_AbTD9uXroj_4EpkTFrSEG-E77iMnLkSXBeuHM46vCDzCuN61Ffx4yGeJcf14RdyJgl0KQhzHMcPJ7uR7zip4HHwuYikfqB2NVinLAhlQrODfIFDG36Crnxw4XpwZgu2R7hAHzN5PKxQHc2kDNcQSoNYJoHzoySP6yl-XA22UAuR8zjTJaisG0yY_chXqtAsKTHC7DgubWj0WFjDpUdzBvlUFcnyo59wMQ3OnDCPNVUQ6pKRsDqYbI3xeAreoImXD90TBxFlWdCjnMGH2kdzPClOHWpyPFlW6JqQN9Ew5dEHpkOfdvCYDQyJJ2dwvRSaH-FzJNfxFJfSTGieo1L2DHkU8biuWHAOXlmQp1ThPziH5hG2OKlR63hmfEf4oxm1CR-u48ozhPbh9DI-fWge9AqakSTyjIUetQlybcNhsXiOB7_QJzzy6ENv_EVHiIyCrgoeD3mOjyeehU7wLccJ_8KTRPjxI3bWQTvyM3BxJkev4Bk95Jka6M6E41IuWJ-O_DG-AyOYQgAQIAEAojHjKQUMIEMEEQJRgxAgyAKEECDAAmQUYxYZYxSwDAGFGBMEIeQMsgwgAAhAQjDKKBMEIGaMQggIg6QADChiADGMOMGoUMQYxQwwTQgjgDGCCAEUMwgIxkChBBDIjDEMGYoIgZIJRAAzBggEAJREAOKUMYQYZ4w0kDmgjIBEIKIMEIJhAhQzRCCgAEFQCCaIM8IIBhEQBEoJIGIMISOUBIgohJAAgghmEAHOKGGAE4ARARgwEDlIIBBAAgOQgpAwIgXDGgANlBBACUMQAYgAIJgwygCCCARSCSUEQdAAAYBQQggDEADMGME4M4IASIQCRDGiEAQAEcQEwQQgoIAQCAhKlCFEGQ2QAEIIAghwihFhgCBPMGCQQoIIBBAThggGlDJAAcOAQIIAQ5whSCGJEBJAIeecIoI4gJBgghFkiGJQEYMQIQgIwhgz1gkEOAHAAAUAIERIBJhgAiiNEAHKAuUAAgEIBgAwAQgHlCDECCGYQEAxwICjABAlDABAIAaMAVYJwIBAQDAghGCAECCUAEYBYCBSiBFjlICkICIEQFAAQAwBAwhghBFIAaQQFUgYgZREDBDGGGXECAAggwIpARRwUAkBAUDAOIIWQYIqADAwQgAGqDKGAaUYIEg4AJhgABCkECAgUAE0MAIwIYARAhBEFDOEGGEYEtIggRAxTijBGCaICCCgAJAwIYgiiAAHEEMOMQYFMgIogqggiBnDgAEKMUKQIcQKYwywxDimiBBACEEMYAYwxIRQyBigFQIEBMOABQRAIaCQigCgjZFAACUMQAIAKAQyhBBgGMGKAUIMEUgjRYFhBhCFBAICFAUAY4AhgQwRDCkjFBFACIMMIQIBBRBBUhhDEBGGAESBkUoYIZQBBCCiHKGIEaAAQEICAxAmSgCGBWMGCWEEEEIJ5JiAUABBCEZAKISEAIQAoKBhzAJEjCCKMAIIIIAD&meta=recordings%20releasegroups%20compress
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      Accept:
+      - "*/*"
+      User-Agent:
+      - rest-client/2.1.0 (darwin20.3.0 x86_64) ruby/2.7.1p83
+      Accept-Encoding:
+      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+      Host:
+      - api.acoustid.org
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Date:
+      - Tue, 29 Jun 2021 13:45:56 GMT
+      Content-Type:
+      - application/json; charset=UTF-8
+      Transfer-Encoding:
+      - chunked
+      Connection:
+      - keep-alive
+      Vary:
+      - Accept-Encoding
+      Access-Control-Allow-Origin:
+      - "*"
+      X-Envoy-Upstream-Service-Time:
+      - '73'
+      Strict-Transport-Security:
+      - max-age=15724800; includeSubDomains
+    body:
+      encoding: ASCII-8BIT
+      string: '{"results": [{"id": "0b95628c-226d-4c6f-aa00-85d266cdf402", "recordings":
+        [{"artists": [{"id": "b7539c32-53e7-4908-bda3-81449c367da6", "name": "Lana
+        Del Rey"}], "duration": 243, "id": "39973f6c-4d2f-4683-947c-10f74f909cfe",
+        "releasegroups": [{"artists": [{"id": "b7539c32-53e7-4908-bda3-81449c367da6",
+        "name": "Lana Del Rey"}], "id": "c6c0ec90-3088-4bd2-8d05-d171adec6102", "secondarytypes":
+        ["Compilation"], "title": "Greatest Hits", "type": "Album"}, {"artists": [{"id":
+        "b7539c32-53e7-4908-bda3-81449c367da6", "name": "Lana Del Rey"}], "id": "4b16a1bc-8644-48ae-9b3e-8ae36aa30cfc",
+        "title": "Born to Die", "type": "Album"}, {"artists": [{"id": "b7539c32-53e7-4908-bda3-81449c367da6",
+        "name": "Lana Del Rey"}], "id": "5b1d75d2-e253-47fc-98c1-584e409f6b29", "title":
+        "Dark Paradise", "type": "Single"}, {"artists": [{"id": "b7539c32-53e7-4908-bda3-81449c367da6",
+        "name": "Lana Del Rey"}], "id": "968fa2f6-1b7e-428e-86ea-6d9dd2e6e204", "secondarytypes":
+        ["Compilation"], "title": "Greatest Songs", "type": "Album"}, {"artists":
+        [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}],
+        "id": "9ca34541-a427-4c7e-82ef-18a3687ec784", "secondarytypes": ["Compilation"],
+        "title": "Chartboxx 4/2013", "type": "Album"}, {"artists": [{"id": "b7539c32-53e7-4908-bda3-81449c367da6",
+        "name": "Lana Del Rey"}], "id": "153a4039-dbef-44f2-ab4a-3135c3b3d9b0", "secondarytypes":
+        ["Compilation"], "title": "Greatest Hits", "type": "Album"}, {"artists": [{"id":
+        "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}], "id":
+        "60a250ac-dd2c-44a0-a064-e039b2a158f3", "secondarytypes": ["Compilation"],
+        "title": "\u00d63 Greatest Hits 62", "type": "Album"}], "title": "Dark Paradise"},
+        {"id": "4e6a491d-36f2-4396-81fa-6534180fbb81"}], "score": 0.934797}], "status":
+        "ok"}'
+    http_version:
+  recorded_at: Tue, 29 Jun 2021 13:45:56 GMT
+recorded_with: VCR 3.0.3

@@ -1,0 +1,56 @@
+---
+http_interactions:
+- request:
+    method: get
+    uri: https://api.acoustid.org/v2/lookup?client=<ACOUSTID_CLIENT_ID>&duration=208&fingerprint=AQADtImsXAsDd_jyoUxenPhYHIcP7YtwnMh7PEfz4Md_1MOZ4XjeHMn9Icx7lMkyXIke_IVV4xaOUvNgwghw-ISd41Tw4z8c8kUuuDh-HaGOH2WiBG7CoB-OX3icozlKJR_KBKeKj8WPBz60U_iPI-_xHD3848c3PEN1PF1zJD_C_CiTEVdiBn9h1bhwo9Q8HEDgHLl4OH6KK8dx-JJxloeN38FWHzka54O0MQrRTYvhJya049Cf4Ed4_WgWC-dyJL-Q_-grJYTrKHjwwYlDo9-DXju0dOCm4LsD58eFHeeRPEbIeIzgOAfySuiL_MJ6gUkcTGQ1HD1T3EiWK0f8p3iEf_iWwwte_NiTqSmaW-jRI0ySHnr6oG_ho8f1CL-MHs2Lxy-e4NLQaxL8EP-OPkuIG1qiGJ2P6vCkHmEXfB-S5UcWKzPxTMZYJjIuW2h4XNzx-Ci54EqF50J4nBD3VEPtH9E_VNkWuAlBVE9x-cidFFdOyOJlNFxGiHuKIv2PJwev4Ed-4VEcQ5OJMIxy_AtK-EMpvXiUPNiLpqi-Fl8qfNQR_2hGHn066CzSLS9-nHvQ6CmmR7iHK0Lydcj1CI_wo5u-w91QmcGP48hz6LhII5cWlMaP_COaig5ONPmgMdmHZmQO3oJ24c4D_dAZQipzXIk5hHuKJtLwB__xnzAjKfj0YtcjhEYTHvmSI49sfI0FLZz0oV8z5ISd4z_OfUJ3Y0oeZcjxIHkUEs-H68F7ouvhLy-qhviR4xeE44uOxzm07_iP__D443hWQuNx7fhRy_BLNBcusni0QJdIIXwCPzlOHN6KSmQ25Fqe4joaY_qOfHgo4Yt-hD6aQ7-QPguemAv-xKjyYUqcGMeF5KmGPI9w4T266TvcDZUZHMeP_CNeqCLRasfz4xx-Bk29BWc-NEG9a4GWZUT56tANPtBDBjVVMD_uXOjyHGm8HF9wGs-LZuTx5BNuoj7CnPh3rIl2vHygXZfQdNiXC-mEO5eEM3RQ8WrRXMGRR9AzEvmFKzkeoj_87EUf_MTTIMed49vxLZahyugPJ6xxS8F1ifhR78QjDSeHH6dEiA6DK9CO5g-eMKPwxTGaKjp-XIftExpvgf_wC2FcMN_xhcOPnBy0VIkqVCKP_Kj4obFwHdEO5XJwM0e4RsGdHGWJR8e1o4Ofo3KRH8d9QrrwxAZLGr1o4FUg7xUcmlOQ5WFiIuQPOjtKisUPHd-Sw-fxvYY4PbgSZdmEfEYTMWgf_EdT6kZJ5niUPPiJvmg-fBHuU8hz6ItEodpywclt5LtQMseB2k7QPFHQxEOVJjpyZhlUJRfyozvRPDtu5sKPH6S_4jmOkhJyYU7RG6e-4k8M9TOaZTxC1vjxMBOmdJHQG83Rhwd_5EwURoHCKOYQJkywB8VzsOSxR0ct5jgircyhOqHwpCzypMdHRQdLlHfR5D5WH-_RPEfOo7lC6NGRS8HcEU-O9-imj4TjoD8O_sJ-PNfx40RI6GGOkJvwXcOv404DRz_OH9cePD5clTiMR8X4IQpTXdBEX0ibJEd_HHucolxdUFWO_mhyC-GWQ-XW47nxL8ygKypyJceT5qA-_Mf448mC__jThMj1IZmjoy8uXArO4xeaNERtNEqGyvFwUQ6eY2KJzAod4Tw0ZlmOXDoYuGGiD9aUoauO_yiZFmG4Q0-kHI8y6BeaPDO65sguZkPzo5KU4zmeg6Gko1mUfEPuBnqOKUfFHfJ1HE2UrS3KHn_QC1q2MEOeKDmmP2jiHfmPj9CHPDn-BP_Q9Wi-nDhJ8MPxfEakP3iOLsePvAkeHZfL4U-Gi4LFxkdS9Tmi4xfxKHiOM3h28Mj1QJPD7QijHqfygS_6Hs2iXXiPXA_qQ0uO7Dv-dPgfNFNRJrRy_DhzpBRUMcWnB-mNX8FVNNcE7znK5MI_VJ_g8-gTBUcOXUduPB8edjj6EWE044EqKRV-9Cm-E4duNJWQffpwFWEuaFJXIi-5oFqcouFynB8uvGj-o1J0IjkTC3nRHL2Df_jBZDm63AmenOglhFGy41oETX6E5kee4NJxZUWZJxKu_Xg_OM7RHziepUPPHHxy_EPFC3kkoZpz4RuJS5lF1HbwPKh6JMvZUMKPR29xfMeb4y94_EKY_Ei2HxyP5kefnMiNJ8oh_UFPNHWhft2RX-lwNNE_VAuP54g0LdAS6RLy5MP0o3kOPnhMhLyQTMo64dOD9yua6ujDE8fxnEOTxuiaEcxLuNIqXEU-Dfrx8ENc7Rn85yh14Yx4_PizSWBi1MqHo7nQk8e7FHF-SMl4VNYR_vB3g6Hw6MSVB_9hXce_HD-OR0uO5GQRJkd5dMmYFkzyJ-gnNFWPB0-ER0JyBXmy47vwE910NHGWC8fx4-D14xouVM8x_cgPLWcdtAnyHF1K7WjyDI9tNO-HyQqeBqfB48qiNMjzbEflD-KYH2HD48PVwyNTPA-OLWGlDmeOM8eb4-6OZHGOEE2SRHmESk8oCjfqXAououfgCw-SXMijXHiPbjrh76jFqMTBB_dL9DmivcE15EdKBr_QHb8SCnpnNBFCJsqO_3gyTFaiRELz44dPg3-QM1GDUUmaDdomRIuD4jl4Hk-CyU4LH1vMHKHSjNAT2bikcQnyiAoAQIxgCC4CYBCMMOqUMA5oIgAQQhABEGBWWCANIUQhIAigxBEQKBDCMMSsIgAIiQQjDAtinUCMAOAEIwAxYBAiCjmCBhJICDeAOcEZJgwACBmkAGBAEGEEAIpEZAgBzDAohgNEGEABcoRBwyQFQAiggTPMAIIYV44BIQixgiAEAHEAAAYNs0YAYICAxBBEBBAGMQCBUMBIQAwhVjkBCAEEMUeAIQRAJQgBFAhFuemABIAAI8IjAAQSmiACiGEEACIMIcIYxgAARABHBAAEKKmIIQQIIwSwajBSACGGCAIBMAQYRhRyBAEAAAKIGCCAIsRJAowBwAGEFGFSCUOAAoItJpTxQgCInBKAEIAYFAoAQQRiBgBFkFMAQAGEAIAAIARhSgkFGBAGEKUY0IAQYJhwSDBLCEEUIRQEAAIpSIwwhglHHHRIAWuIQwoAgIwBChBMFBBEAAiAcA4piwQQCCAAGAGIGEKQkswh4QgwhBijgREGKQgIQAArIhhhjAjBEFLOKYmQIUoYSpQgBihoCALEEAAMQIoQBBVRQAFGWHCGKkEQYgIgwoBAwhkBAGMAOwSAEQgFI4wDggIikCEGQUcIFIIBBIwxSHHGBFJEKaCEMgIBSQwhxgEjAFBEEmoEMJJpAgAozBgBhAGACKiEIU4hKwADnxGgGISgEGWII0gIAIgDTTBGiAIAAQIEM4QYY6yBggAhADPECYOAcEQAoxQDRJCIhSBOgUMkAMhwMQAygBAEmgFEAamUI9BwoIhQxFABmUMAKCCMYsg1AYRl0gChCCBGEEUAeEIRBywTiAEBkUBEECKQAgAAERRRRigijCHMIYEAAgIg0oggBAphACBAGEQcAoQCYQgBSCBDAEGIACcIA0AhCIkDgBsAEWOMCUAQYAZR0wkJBCgiiEHAAGKAZEAoRAAQwBBBwDGMAAaINY4AggQFiABpCADKCGeGAAIhJgAhVBmkEBEKCIkgUYISohBSjBg&meta=recordings%20releasegroups%20compress
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      Accept:
+      - "*/*"
+      User-Agent:
+      - rest-client/2.1.0 (darwin20.3.0 x86_64) ruby/2.7.1p83
+      Accept-Encoding:
+      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+      Host:
+      - api.acoustid.org
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Date:
+      - Tue, 29 Jun 2021 13:45:41 GMT
+      Content-Type:
+      - application/json; charset=UTF-8
+      Transfer-Encoding:
+      - chunked
+      Connection:
+      - keep-alive
+      Vary:
+      - Accept-Encoding
+      Access-Control-Allow-Origin:
+      - "*"
+      X-Envoy-Upstream-Service-Time:
+      - '76'
+      Strict-Transport-Security:
+      - max-age=15724800; includeSubDomains
+    body:
+      encoding: ASCII-8BIT
+      string: '{"results": [{"id": "673297e0-9b4f-4b20-b243-bd8c31414b6c", "recordings":
+        [{"artists": [{"id": "d62614aa-ef2c-44cd-8a7b-91292755a1d0", "name": "Jorja
+        Smith"}], "duration": 208, "id": "7639930e-6beb-4fc2-8b4a-25d161a4eab4", "releasegroups":
+        [{"artists": [{"id": "381086ea-f511-4aba-bdf9-71c753dc5077", "name": "Kendrick
+        Lamar"}], "id": "4e317e28-e6b2-46d7-81f7-306e349b3dd4", "secondarytypes":
+        ["Soundtrack"], "title": "Black Panther: The Album (Music From and Inspired
+        By)", "type": "Album"}], "title": "I Am"}, {"artists": [{"id": "d62614aa-ef2c-44cd-8a7b-91292755a1d0",
+        "name": "Jorja Smith"}], "duration": 208, "id": "ed1d5606-c93a-4f18-83ed-9a601b5e62d5",
+        "releasegroups": [{"artists": [{"id": "381086ea-f511-4aba-bdf9-71c753dc5077",
+        "name": "Kendrick Lamar"}], "id": "4e317e28-e6b2-46d7-81f7-306e349b3dd4",
+        "secondarytypes": ["Soundtrack"], "title": "Black Panther: The Album (Music
+        From and Inspired By)", "type": "Album"}], "title": "I Am"}], "score": 0.995649}],
+        "status": "ok"}'
+    http_version:
+  recorded_at: Tue, 29 Jun 2021 13:45:41 GMT
+recorded_with: VCR 3.0.3

@@ -1,0 +1,54 @@
+---
+http_interactions:
+- request:
+    method: get
+    uri: https://api.acoustid.org/v2/lookup?client=<ACOUSTID_CLIENT_ID>&duration=223&fingerprint=AQADtFE0RVMSRQnYEyGlHGF6Cbfx_dAyXuiHyzGmnMfnYQqlBdeF79DxHT-0PTn84UWTNnig6cOPt_iRGv1xHUysBSEt4TqaE9px8TjC5A7OoplUxE2CH80TaAuzFY90hDqe40O740Jo9eilQ5-E_HgWVGEIB322o89hLnGR6LXwHP7xBz8coyuDO9DFo3oDuTScGodOmIe_I3yfIDM96EdVhJHJ4NuJ72h6YTpz5EGyfEeZ4ExE4UfzH70e5IFOHn0CP3D-QHsQNehz-ITx7AH_IeehB2KFb0e_5pBKvETzdMhJJfA3gR8ejQiZQPePH3mMZhIPRoyrGNdyVC-aZ0eO-wrOLYGf5RDaEX6WouoPbeOL50S-o9bxJDuaK5jWS_iJ5git4RnaMYd_aD9uEk8a4y96PmjuI9-MB3aIT8d3XGjioguDsEfCF8_xHy4PnxbwDhflIP7RC1UaHn6Nvg-hR0eJJk-RO6h-TDl-ZM4Ptjt0Hc1zRPrwJhmDd-jDIL2EH1Z0_HDEoPjS4iJOiygnpmiudcaPqo2C74fIH36KhznOQkto4loZPAvO48nhK7iH60Yzoh4t5PkBX_rwH_EW4-GPUzF6IefhX_gXdK5xHlfiIBR9aPnxMjXkaEeeCR2Z6WgupXiME5dyGd2RTM6CnMd-oVaiDHVCBz_Ob0MePhDD7LjwomHXQztxPgF_oaky9NCuw92H72icXMLxFn0SBUw440cv7Du-o_9wpkf9h_CF6hfx486DXMly_Gge9HNxhCmFssd36D-DKs_hZ4V-XLAbpbATBdWPPZ-hffg7bDcmdsSnHZqOdPOI6hF-7D_CjBLRbQsmqdDyxRL06LiD8PgOXuSOkxd-Fv5yvET5I18xPcMF5_hw2HBH9HiOhjHOOrjwY_zQ6METnBd-XHmgJQ8uHz-cI_0x4ceBWod91PhxYpcRa2YI3Uf34UcOIAMl4D9kEj5xQniPH95E5PiDXUD_4seP97iPH4-OZnfQ7jhy9D3eCefx4wL849mQL4crHs6POwoi5cGD88KXQ2v8wNGDG_lxVAT240ffw8dRvXiE_KLxG_2hE66CYyt6tDpcRUJn9PjfwEzxvBBzdD16OFtQEnosbqjVCWGOE9_wHWeiH8_josnYos_xIlJ64yf84xd-XDk-Iu2P5hyeo6mDL8MXPriOP0MqK5ge6Mf14MrxH6GP3zimBPiOX-h_nDB64o145JjJxih-WRCd4YqB5riCPp_gVui0o-_gHHmQC2m4ByWLkkcYTdGF_cWjHT1yHXC2B5_xtBscH0bfI89xFveN5sPRBz3y4D8OVxl65igj7XB4WD6iD80V3An048qDPof3GPmP80CP47iGvvAPXAhlHV97fOh-QSdcBYePnviHhklCGZ3Voi9-wgyO82jG4y-0aAqmX7go4-jzQdcP54i-4zf8Y3ek4z5-nGge_EP-U-gL__iRMj_8Hf3R1MeVEN7xsUhzWA8UHdcR67jy4OqO3vixHml-FD9-oOdhCyf65PiJvw60fdgNV8ODozmuHH0-wcwkdEZ1HCkjPEj7oBJRskWjKYdyP8SjHb2u4YfgbBfyGX6b4sR5uAp6dsCz3UK_w0f4HEe14Id2aN8FM8enHT9iDh8aWcGe4yLyPEG5HOqR3zg2HRV3HMcv9LB75Edf3IKOv2kw7ccJV8Fh9MF1NFSCbpPQH_-REscZHc1zHI2KSFZ0qLtx66h-6D_eC-aI_Ie7FucLH30y5MdPVDp8Hj9x4SbM3HB-HK7RLssRcuGx_fBZpHmCDpfwC3r0oN_xGWeNfNgeVMCV4-h5vPBRWUf-Q3-DHL0_HO6EH5uO0EOfvDBTGf_x4yTc44LDHSWPki0abRf2Dd-MJ1cQasdh7ihn9GkDVz9-pFXQH2_xC-WF5shD_GiyEEd63Eh5fMfX48fOockV3MF55DnU5kL5GPEPH_1wHNjzocfmED6RomrE4y9uHNrIC65y4vDR4wqNhkokfHh7_DjhBvJ2eD36opTQOBGU38HlI3xy4TicHf9gqzV-we_woHsRPLrRSxeubANwOEc_9DzM1fh07HjhPEHn4Aer48oh_UF5WMeL0MZx_EKPHXbwEz1y43kJmTf64zl8HBu6Bv0Fn_iOC-SGJs1x4eiPB-cF2Tq-Hqpl4smR9gpOeDzqB2_CBrVw-FmPGvlxXkVJHT6OG3l1HD9-OAS-I3R11BuaB-9xHZp9-Eab7biQw9FtHOhxfOhxxMYvonwziPnxwyRx3DuOwxJfVLzR43CF_LgAoZRCQABGgHBMMEYARIwAoRwwwgmqgKGKCEQEQwZBY4hRjiIIiBDGMQEUEMAA4QiQQBAmFiUAAAWAIgQKwAAgyggggGEAIG2AEgAwQYgAECAiJFICISAIBVAIg4AxBjBgADGAAWIYUkQAIBBAhCBkiBKACEMJMYhAwBQgQgFogBMCACIUAgQRIoATkAEngRBAIQeJQwwYihBABAlLDGMAAWEZQgYAQQAACiAjlDFAEAccAgIIA5wgxCrCiGGEKMCIJBIwYZhRAkggAEDKAOoQAUAAgIBgBAEhoESEEqMAEMQABIEBABADlIAGGEUQAUIAYIAABAgEBBPCC6mhUwwQhZQQDChCDTJECSIRc4hJxgRyhBAmGAJGAGMQw4hqIQBIQjglHHQCIA6AEIgAJJYwAglABGFAEQYECIQiyRwQgDolhHBMGEYUAwAgJRQjwjqkAAACCMocI4oAYIQiAAjElCEAGQAIMsQZRQQAAlJEmAIIMAWAEgYBBIQQgCBjAHDKEEIQYUYAJQQRkAJDAFBUCOCIEoAoAIESgCigCGIkAEERAdoIwxRBRgKgAFOECGMYQYIACiwhQhEAlANMCimEEAIACoQAggEjkRAGGWkUcMxBIoVjTAlGgQKCCEgYCQgBgZxiBAhlADAMCQECEEJIgACCTikCAAFUQEQAYcoYwApxjilSlACAEmGEYgIhJgAACBiALBHAASUQUEAQBQAAwEHjgAFAQWAIEwAoIRBxQhFAHECIkcEUZAABIBAQjBkIAADKCgOUUQQopZBowgCAhFJQKYuEsQgJB4hwRABBFIFGAAKKAIZpBIgAVximBEJCMGEMEkAwAZQRkxAgASMECaFMIoIQJKxgxhkGmOAWOKbIA8YoIRATCgoGlEDGCuQIQgAIY4xjRgHAAABMIIKsIgQJYoUiQgAmuFAMBOEsfB4KJIhhkAHhGADCKqAA&meta=recordings%20releasegroups%20compress
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      Accept:
+      - "*/*"
+      User-Agent:
+      - rest-client/2.1.0 (darwin20.3.0 x86_64) ruby/2.7.1p83
+      Accept-Encoding:
+      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+      Host:
+      - api.acoustid.org
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Date:
+      - Tue, 29 Jun 2021 13:47:05 GMT
+      Content-Type:
+      - application/json; charset=UTF-8
+      Transfer-Encoding:
+      - chunked
+      Connection:
+      - keep-alive
+      Vary:
+      - Accept-Encoding
+      Access-Control-Allow-Origin:
+      - "*"
+      X-Envoy-Upstream-Service-Time:
+      - '834'
+      Strict-Transport-Security:
+      - max-age=15724800; includeSubDomains
+    body:
+      encoding: ASCII-8BIT
+      string: '{"results": [{"id": "c6a1b28a-b74e-4a72-830f-febb131cc4fe", "recordings":
+        [{"artists": [{"id": "c4b933ea-dfa3-4d56-81f9-9f924e2540ec", "joinphrase":
+        " feat. ", "name": "Sepalcure"}, {"id": "0e0d5912-4026-47ef-be1c-c876c7108dd2",
+        "name": "Rochelle Jordan"}], "duration": 222, "id": "28f7225a-b74f-4004-9936-c07ac4ce8c8f",
+        "releasegroups": [{"artists": [{"id": "c4b933ea-dfa3-4d56-81f9-9f924e2540ec",
+        "name": "Sepalcure"}], "id": "1e5f2fba-55ea-491c-ac64-57828adce29d", "title":
+        "Fight for Us", "type": "Single"}], "title": "Fight for Us"}, {"artists":
+        [{"id": "c4b933ea-dfa3-4d56-81f9-9f924e2540ec", "name": "Sepalcure"}], "duration":
+        220, "id": "2d0f8458-15a4-4f48-aad9-74817cc5f98c", "releasegroups": [{"id":
+        "942ac51e-0d65-4968-ab58-d96c2cb03633", "title": "Folding Time", "type": "Album"}],
+        "title": "Fight for Us"}], "score": 0.994386}], "status": "ok"}'
+    http_version:
+  recorded_at: Tue, 29 Jun 2021 13:47:05 GMT
+recorded_with: VCR 3.0.3

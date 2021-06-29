@@ -1,0 +1,478 @@
+---
+http_interactions:
+- request:
+    method: get
+    uri: https://api.acoustid.org/v2/lookup?client=<ACOUSTID_CLIENT_ID>&duration=212&fingerprint=AQADtE-iJJEk4ZN-NFSyNLhhPUc__GizHT88_Th-1L9wrM2E6xSOUx_uo8sKf8nhjEHOI-FZeAtlon02nEdl2FqM_Ei243qF-ZLx8MLJGH1IhIlp6MyGyD1ySFV4uNWD_MQXlN8xWUWeE_qPMDm6RxmeRQouSegT-D2mHz9eFpx-PLqwIye090c85sU3XfiLXgfa4bbgKoW5rsOX63Ca49GOozdx4TxmG0efpaj0G5GpQ4uQr1HRRMyOp0fPozlT5B_0BxdzlBmD5sJJ1BBzCf6N-ce59NDcGLwRpuPR_rh2_NgnhOKJhIpu9LiyBM-c4oyGKc-CPjQ-JQf_oomOCUetDGEO9chjxai-G1-MPlJwHe0CV0zwHP6NU7kOOzkeUsYk4vjB6jjKJVHwqwg3JSruIxnJCm2OMwOPvoFPHqF-vFD1Qz_yHf2S49uH5hnOHcyFoxeRQ1GzBem-41qKK3OEHj9q5IbocIO_GLkC69mxMwrKH7yKKzymZ2jU47iFUlOQ55SRfHhy_HiTE1aJirrwEFfY4zSSL2YQPXOKM7ilgImm9PhR7ggbX9AS08UtoVokwX_QbCrxC7oa1LqGH5m2F5US8ciPX_gP7TjS4_xBPSuO9Dj0Y8eFdF06IeyMSjcsGr7xICR2tNJhZpkLElep4jv24_BxqUF-6EIaHxZT9DduoF0OP_jxiYLv49JhLjwqZ0ZyHfkxHl-Ig-HyBGHCS4HcDPeSCWFGTP1xRcKFi9rx5Tu6HFH2I4n-4Xi4403QH2Ee5VBu5MKjHPxRnZiiUTlijfGh94ipHP1gPui2H5ULZ0KXmziNKXEW9Ad_PBH6Yot35D9-JD8uGr7xD9YUDj2qJTn8JUbZ7Th-9JHQTGJG5NFDjMdVgUmczEi_HJOFOsfhiER3oT_hcDOerLiOXCSSTeSJ8Vh-9MvRTOjRfEj2IMyPJ3h2zCKq9sgSfYf6dYj8H3_RpAn6XLiFE30i-MOPM8vhE7VUjD_6gxoZ_EeuQ5H8I3aOXjSaD7_QnEE341vQuMlRdkd06MuRXjm4D3c17EeyuDlixwyaB08ONNWDfznyI6HmWMQPO0ev4WRw4UgqX4g-NMwWTJ-H68V3od1xRTh-Hq6zIdnD40OYfWg5HleINooO51iJb8zgzyjpFkwuoS-eHP-GPvAljA-FPDcqJ8qhHxfCJ0ZzouVONCMjNGlzdN9wEjtqSjrCLAvBLpKhf5owHo2OSrfQY3ti4ZEgWnAoWPqh_fg1XEKdKceWWDFKHoeOA-GZabiko9dRLTqsIyRzqEZk_cXUJNKxRQyPH08eo88KXkcuqF3i4WWCS3g8hOER8jj1tHioKNCoRkTD6ciOg2Vwos9pXCOqvyDDXQibF1q2I8ebY08qNC-FfJ_w4CX0KDxeiB8sH32MisIZC_qC8InQnEHlHLV4PMKPS_CPIz2hBz7CLjyaake_oLAawpcepM_RDl90oufwQy784BN8fDlyDc8e9ESfBdY0_MEfnDn-wx_CEw30DD7CKYqSozmPdlmOHuY0uMqEPIePHifkqXiE5tAHP0EfVO6hKzvaIvwC_6h-1A3Oo-glND_Co3kG7QhzHu2ixEJT8TjRPHiZw8-RHvWG3sPDQ_4hkgrgKjmqQ3vg13CcIfcJn0dXzcGD_oafxeiO6_jjoamSBeeDmKY1JJt5fMnxrWh2q-iXoXFRiySeJYdP3ImMPBKDcYsgJRfyKMfG5zgqdcfL4PThM8Yv_MhzIlmeHX2ES0-C50LDET6RY-OY4sji8MHP4cKPUc-DD1WPZOmH4E524VKO54mGbxnxH1OqLEbvgfiJJLoyEXmUo4vE4MeP3zh6HD98PMe3Hs9QfQf6D9ubo3l4HHGTHFIRnklBijlyUrCP0dkJVwy0L-hbiNOOdi_yHbEoBfUUoZEi3ThzNFfQK0fJDPtxiFOQ_3ivwDuY87gTnEGPSNGnI_mLdUoifMecBx8miySas3joTeAflMdGpM-CZJvxE5-yOMF9PMN1XMbzoic-48RTGZsi5ahMUcgu7McPjUseLSiPi9Ae9ImKf3h5PFFdXMw6oGeh5SFO6FJeXGqM_4YmZVrh37h2_OhxKcczHmeh_WjWIceZTujht6iOZzny0Q-aTIkeaD9yJUdztGSF87iD9xocZxmx4w-OD7mgcYqHI5yWjcIl-PhynBgdWsMfXHNQDeGhI__xUDjFo3kk9D4aNXlQW0f1pfiDPj-akTnCJ9PxE7myB88R0cI7NNm0oz-0DzmDUhd6TPkQHj6-DE90QMe5DpcydEJ_-BHyEOYOP9nRRuhDNMrxoLqxB0fzI6Z06FGOkjyeI5zXow_8LLh5mONgiwU_5mhefCWKJluP6MmRpLgXnAt4HVW_BGGmC7IXRDeaiEeb40twHhd7tMth5UcU5ReS6DjKMDpe4Toi5cuhG7kONgp-NMlPTOaOWFti6NER_0Rz4vvx8cSVwjm6HD3RxFmOHT94Cb2SYot55HkOIT8uGn6KD67C4ezxRRn8GGW3C_jROBJCSlnG4Hsx_uj0gIqTI_2CPTl-mMP1HD_-5XAvPBmuI_kzIpxPLMN-oXkUlNrRC82PZPliACCEQAQQoIkCALCtDABAGiIAAUIgCQhQhkABjCAEWSKAUEYBA5ARohACACBUcCWAMUgJAIQQABmBDAFASOAQc0oAYohgRACAKFIAEeEAEsIQAQAhRjEjnDKMASAII0ZcAABhQBEGAQCASMG6cQwQwDTxAAhABHFCIyEEUsgQw5YUSCEGjBBGICAAQEggEwRhilAAEGIIMAAIMMAhIIBxkAhnEAQGCAmAYYABgZCgDEEnFCMLOGAUSMQJhQwCRDlIACAUIAE4McgY4ARBABggtCEMMCKIIgJwQQxwGBDBDAGAGAYkIIwZQZwgykDgiGKCoCSAIlIIxIxgAAHnhABMEEWUMKIYIZAQAhiiDGVKA0sMAEQJQQgEAhkhHADACA8AUcAohZCCCACmAMAGENCGIYwAJghDAgCHIIFAAEGlokgoQAABSiEFhCCAEWKkdcgYAARlghABPRNIAGEkBYAAyoAQxAgBmHMAAAJKGIABAARSAjAkABNCMAAIEwIowAxyQjGAgCAEAKAQIIwBJhBSDAjhDEUOCEKAQEAABYRChDCjEBCCAIIIMAYQoQQQAAgnBABGG2YIMkgAI4RgQgBIHCAMAKKAIExJAAhRADAmgAMKMSYBgAAoAIF0BBlmPCFCEYAQEAIQIRTQRgFmAIDIgcowYxAIYYxCwABBDTACCymUEloARQ2wQh0HjIACIaABQIwAh4QCzAEogHIMMcaIMkBBMwwzgiJCABCEAAEYAkAQAghzzihCCHEKEMKBEYQAJ5AxihggkICEMgQAcowJQgRSBjhAgBICAKUEAQQw4gxgQCBFuGJoCOAYQ4AIAhQFQkAmjQNAIAIcMwAABRBwwDhggCHKIU4QAcAKhYRmgkAigBcKOUKAwMAIoQAAxhthCCKEECAcMxCAQYACSDAiBCBCSOSAQEIAAAwCTgAlGEBGAQE&meta=recordings%20releasegroups%20compress
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      Accept:
+      - "*/*"
+      User-Agent:
+      - rest-client/2.1.0 (darwin20.3.0 x86_64) ruby/2.7.1p83
+      Accept-Encoding:
+      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+      Host:
+      - api.acoustid.org
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Date:
+      - Tue, 29 Jun 2021 13:42:30 GMT
+      Content-Type:
+      - application/json; charset=UTF-8
+      Transfer-Encoding:
+      - chunked
+      Connection:
+      - keep-alive
+      Vary:
+      - Accept-Encoding
+      Access-Control-Allow-Origin:
+      - "*"
+      X-Envoy-Upstream-Service-Time:
+      - '160'
+      X-Envoy-Decorator-Operation:
+      - acoustid-server-api.acoustid.svc.cluster.local:3031/*
+      Strict-Transport-Security:
+      - max-age=15724800; includeSubDomains
+    body:
+      encoding: ASCII-8BIT
+      string: '{"results": [{"id": "8b9918f6-cf44-4fc7-b486-72305223f303", "recordings":
+        [{"artists": [{"id": "8dd98bdc-80ec-4e93-8509-2f46bafc09a7", "joinphrase":
+        " feat. ", "name": "Calvin Harris"}, {"id": "88798869-338b-418e-9c47-97365444b734",
+        "name": "Florence Welch"}], "duration": 309, "id": "416f367d-9eed-4628-9cae-835cebb065b0",
+        "releasegroups": [{"artists": [{"id": "8dd98bdc-80ec-4e93-8509-2f46bafc09a7",
+        "joinphrase": " feat. ", "name": "Calvin Harris"}, {"id": "88798869-338b-418e-9c47-97365444b734",
+        "name": "Florence Welch"}], "id": "dae2f056-681f-4198-b529-6b6a5b0ac727",
+        "title": "Sweet Nothing", "type": "Single"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "8f4bdab2-b85c-4dd0-9df8-c1909e4f6ed9",
+        "secondarytypes": ["Compilation"], "title": "Absolute Workout", "type": "Album"},
+        {"artists": [{"id": "8dd98bdc-80ec-4e93-8509-2f46bafc09a7", "name": "Calvin
+        Harris"}], "id": "98432828-5764-4892-9e3f-9c674cf70acb", "title": "18 Months",
+        "type": "Album"}], "title": "Sweet Nothing (Ti\u00ebsto remix)"}, {"artists":
+        [{"id": "8dd98bdc-80ec-4e93-8509-2f46bafc09a7", "joinphrase": " feat. ", "name":
+        "Calvin Harris"}, {"id": "88798869-338b-418e-9c47-97365444b734", "name": "Florence
+        Welch"}], "duration": 212, "id": "4cf00d80-35b4-49d6-a050-68ca435e694b", "releasegroups":
+        [{"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various
+        Artists"}], "id": "1ba57879-2989-453e-9ff1-363dcc2dd2e4", "secondarytypes":
+        ["Compilation"], "title": "P1 Club, Volume 2: We Own the Night", "type": "Album"},
+        {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various
+        Artists"}], "id": "580b3a77-90d8-42c2-b4a0-7298f2d171e3", "secondarytypes":
+        ["Compilation"], "title": "Promo Only: Modern Rock Radio, December 2012",
+        "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "63acc699-0381-4771-802c-0b10b7f091fe",
+        "secondarytypes": ["Compilation"], "title": "Now That\u2019s What I Call Music!
+        45", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "928bba87-e6d6-4924-a967-2daccd81e753",
+        "secondarytypes": ["Compilation"], "title": "Keep Calm and Be Happy", "type":
+        "Album"}, {"artists": [{"id": "8dd98bdc-80ec-4e93-8509-2f46bafc09a7", "joinphrase":
+        " feat. ", "name": "Calvin Harris"}, {"id": "88798869-338b-418e-9c47-97365444b734",
+        "name": "Florence Welch"}], "id": "dae2f056-681f-4198-b529-6b6a5b0ac727",
+        "title": "Sweet Nothing", "type": "Single"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "9cfc3011-7d84-4a52-9567-ddc1e07ff135",
+        "secondarytypes": ["Compilation"], "title": "The No.1 DJ Collection: 2010s,
+        Volume 6", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "53bf02ec-7305-4db6-87f9-8963ca480d6e",
+        "secondarytypes": ["Compilation", "DJ-mix"], "title": "Club Sounds: The Ultimate
+        Club Dance Collection, Vol. 64", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "ae5ce841-e004-4aae-a406-6d2ec8e12860",
+        "secondarytypes": ["Compilation"], "title": "Nachtschicht, Vol. 48", "type":
+        "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name":
+        "Various Artists"}], "id": "d9548316-42e5-4e8b-9869-5c3bb2f97b9c", "secondarytypes":
+        ["Compilation"], "title": "More Music 7", "type": "Album"}, {"artists": [{"id":
+        "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}], "id":
+        "4012886a-4aac-48c6-9e64-646dcaa0c57b", "secondarytypes": ["Compilation"],
+        "title": "Now Hits 2013", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "971f7d47-c157-4c61-98b2-6ad47f4f18a6",
+        "secondarytypes": ["Compilation"], "title": "Dream Dance, Vol. 67", "type":
+        "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name":
+        "Various Artists"}], "id": "904ab76b-dab2-4405-8098-ee08a64f542d", "secondarytypes":
+        ["Compilation"], "title": "Bravo Hits 80", "type": "Album"}, {"artists": [{"id":
+        "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}], "id":
+        "2c90469e-7d22-490c-bb8f-ef2306e1d915", "secondarytypes": ["Compilation"],
+        "title": "Fun Radio: Fun Club 2013", "type": "Album"}, {"artists": [{"id":
+        "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}], "id":
+        "2b9d89c6-c42a-4302-b28c-3e50c99a9b23", "title": "Now That''s What I Call
+        a Workout 2", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "2f59c4ff-80d8-4ef8-866d-b5c5c7672f1e",
+        "secondarytypes": ["Compilation"], "title": "Absolute Dance Spring 2013",
+        "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "ec008120-6953-407b-9332-7287c0973821",
+        "secondarytypes": ["Compilation"], "title": "The Workout Mix: Summer Fit",
+        "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "8f8a1f5e-1da3-4921-9026-ce3813e43296",
+        "secondarytypes": ["Compilation"], "title": "Absolute Music 72", "type": "Album"},
+        {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various
+        Artists"}], "id": "61434c8c-6737-4de2-90ff-9eda5c4a0612", "secondarytypes":
+        ["Compilation"], "title": "So Fresh: The Hits of Autumn 2013", "type": "Album"},
+        {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various
+        Artists"}], "id": "5eef889a-5aff-4531-b842-0d75560c0bf7", "secondarytypes":
+        ["Compilation"], "title": "Radio 538: Hitzone 64", "type": "Album"}, {"artists":
+        [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}],
+        "id": "a9eb8317-f784-4f29-aa86-02203de88586", "secondarytypes": ["Compilation"],
+        "title": "One Clubland", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "336c73b6-be50-4a2b-8a78-2ad1e6447cd3",
+        "secondarytypes": ["Compilation"], "title": "M\u00e1xima FM Compilation, Volume
+        14", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "a7c2a6d1-d8f2-4eb0-a3fc-b2bea1429c5f",
+        "secondarytypes": ["Compilation"], "title": "Germany\u2019s Next Topmodel:
+        The Best Catwalk Hits 2013", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "cdf023d2-f454-4687-8773-3612556c1a0f",
+        "secondarytypes": ["Compilation"], "title": "NRJ Spring Hits 2013", "type":
+        "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name":
+        "Various Artists"}], "id": "1073f3bf-f18a-43d6-a674-36e7837f5522", "secondarytypes":
+        ["Compilation"], "title": "Mega Dance Top 50 Spring 2013", "type": "Album"},
+        {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various
+        Artists"}], "id": "1f92d54f-3050-4f98-815a-1cd1149d964d", "secondarytypes":
+        ["Compilation"], "title": "Future Trance 63", "type": "Album"}, {"artists":
+        [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}],
+        "id": "ba481afd-e6cf-445d-b190-23408015d669", "secondarytypes": ["Compilation"],
+        "title": "Energy: Hit Music Only! Best of 2013, Volume 1", "type": "Album"},
+        {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various
+        Artists"}], "id": "173ec12f-a73c-482d-8707-73787f8a0a6d", "secondarytypes":
+        ["Compilation"], "title": "Dance Hits 2013", "type": "Album"}, {"artists":
+        [{"id": "8dd98bdc-80ec-4e93-8509-2f46bafc09a7", "name": "Calvin Harris"}],
+        "id": "98432828-5764-4892-9e3f-9c674cf70acb", "title": "18 Months", "type":
+        "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name":
+        "Various Artists"}], "id": "c7973d27-7e65-4500-9d1f-bd343b16970f", "secondarytypes":
+        ["Compilation"], "title": "Now That\u2019s What I Call Music! 83", "type":
+        "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name":
+        "Various Artists"}], "id": "f93fb971-6bfc-48f9-9a63-daa9a47cdb53", "secondarytypes":
+        ["Compilation"], "title": "The No.1 DJ Collection: 2010s (Digital Collection)",
+        "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "89d22400-3792-4867-8293-c9732800838f",
+        "secondarytypes": ["Compilation"], "title": "NRJ Hit List 2013", "type": "Album"}],
+        "title": "Sweet Nothing"}, {"artists": [{"id": "8dd98bdc-80ec-4e93-8509-2f46bafc09a7",
+        "joinphrase": " feat. ", "name": "Calvin Harris"}, {"id": "88798869-338b-418e-9c47-97365444b734",
+        "name": "Florence Welch"}], "duration": 206, "id": "5f738d22-5265-451d-a28a-4e372d2989ae",
+        "releasegroups": [{"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "e7171ac5-b071-4b90-a911-98f3bd31ca6d",
+        "secondarytypes": ["Compilation"], "title": "Ministry of Sound: Clubbers Guide
+        2013, Volume 1", "type": "Album"}], "title": "Sweet Nothing"}, {"id": "60088c6b-969e-490c-b000-f6c117bb6674"},
+        {"artists": [{"id": "8dd98bdc-80ec-4e93-8509-2f46bafc09a7", "joinphrase":
+        " feat. ", "name": "Calvin Harris"}, {"id": "88798869-338b-418e-9c47-97365444b734",
+        "name": "Florence Welch"}], "id": "8731024e-56c1-4c5b-892d-f768f71c8434",
+        "releasegroups": [{"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "babcfa90-2a77-4a3a-812e-8ba6d8d90100",
+        "secondarytypes": ["Compilation"], "title": "Summer Eletrohits 10"}], "title":
+        "Sweet Nothing"}, {"artists": [{"id": "8dd98bdc-80ec-4e93-8509-2f46bafc09a7",
+        "joinphrase": " feat. ", "name": "Calvin Harris"}, {"id": "88798869-338b-418e-9c47-97365444b734",
+        "name": "Florence Welch"}], "duration": 207, "id": "8d717e01-ef2a-4ec6-8034-018f0d9cac72",
+        "releasegroups": [{"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "7b4b6a90-ab4a-4001-b791-a6f581450ae8",
+        "secondarytypes": ["Compilation"], "title": "538 Dance Smash 2013, Volume
+        1", "type": "Album"}], "title": "Sweet Nothing"}, {"artists": [{"id": "8dd98bdc-80ec-4e93-8509-2f46bafc09a7",
+        "joinphrase": " feat. ", "name": "Calvin Harris"}, {"id": "88798869-338b-418e-9c47-97365444b734",
+        "name": "Florence Welch"}], "duration": 204, "id": "a784e278-ea76-4f66-a10b-02cf4009c0ee",
+        "releasegroups": [{"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "bced8e96-ad19-4469-89aa-0024d2660d4a",
+        "secondarytypes": ["Compilation", "DJ-mix"], "title": "Ultra Dance 14", "type":
+        "Album"}], "title": "Sweet Nothing"}, {"id": "b476a516-71d9-43c7-b1cf-cc8e9c1d99de"}],
+        "score": 0.95207}, {"id": "4eeb3857-dd55-4c2c-b4ee-51196ac92ac2", "recordings":
+        [{"artists": [{"id": "8dd98bdc-80ec-4e93-8509-2f46bafc09a7", "joinphrase":
+        " feat. ", "name": "Calvin Harris"}, {"id": "88798869-338b-418e-9c47-97365444b734",
+        "name": "Florence Welch"}], "duration": 212, "id": "20f23619-9cdc-49e4-b7cf-004e02577156",
+        "releasegroups": [{"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "0f1c56b4-65af-4e2f-b4cc-643e140f06dd",
+        "secondarytypes": ["Compilation"], "title": "Chartboxx: Sommer 2013", "type":
+        "Album"}], "title": "Sweet Nothing"}, {"artists": [{"id": "8dd98bdc-80ec-4e93-8509-2f46bafc09a7",
+        "joinphrase": " feat. ", "name": "Calvin Harris"}, {"id": "88798869-338b-418e-9c47-97365444b734",
+        "name": "Florence Welch"}], "duration": 212, "id": "4cf00d80-35b4-49d6-a050-68ca435e694b",
+        "releasegroups": [{"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "1ba57879-2989-453e-9ff1-363dcc2dd2e4",
+        "secondarytypes": ["Compilation"], "title": "P1 Club, Volume 2: We Own the
+        Night", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "580b3a77-90d8-42c2-b4a0-7298f2d171e3",
+        "secondarytypes": ["Compilation"], "title": "Promo Only: Modern Rock Radio,
+        December 2012", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "63acc699-0381-4771-802c-0b10b7f091fe",
+        "secondarytypes": ["Compilation"], "title": "Now That\u2019s What I Call Music!
+        45", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "928bba87-e6d6-4924-a967-2daccd81e753",
+        "secondarytypes": ["Compilation"], "title": "Keep Calm and Be Happy", "type":
+        "Album"}, {"artists": [{"id": "8dd98bdc-80ec-4e93-8509-2f46bafc09a7", "joinphrase":
+        " feat. ", "name": "Calvin Harris"}, {"id": "88798869-338b-418e-9c47-97365444b734",
+        "name": "Florence Welch"}], "id": "dae2f056-681f-4198-b529-6b6a5b0ac727",
+        "title": "Sweet Nothing", "type": "Single"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "9cfc3011-7d84-4a52-9567-ddc1e07ff135",
+        "secondarytypes": ["Compilation"], "title": "The No.1 DJ Collection: 2010s,
+        Volume 6", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "53bf02ec-7305-4db6-87f9-8963ca480d6e",
+        "secondarytypes": ["Compilation", "DJ-mix"], "title": "Club Sounds: The Ultimate
+        Club Dance Collection, Vol. 64", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "ae5ce841-e004-4aae-a406-6d2ec8e12860",
+        "secondarytypes": ["Compilation"], "title": "Nachtschicht, Vol. 48", "type":
+        "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name":
+        "Various Artists"}], "id": "d9548316-42e5-4e8b-9869-5c3bb2f97b9c", "secondarytypes":
+        ["Compilation"], "title": "More Music 7", "type": "Album"}, {"artists": [{"id":
+        "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}], "id":
+        "4012886a-4aac-48c6-9e64-646dcaa0c57b", "secondarytypes": ["Compilation"],
+        "title": "Now Hits 2013", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "971f7d47-c157-4c61-98b2-6ad47f4f18a6",
+        "secondarytypes": ["Compilation"], "title": "Dream Dance, Vol. 67", "type":
+        "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name":
+        "Various Artists"}], "id": "904ab76b-dab2-4405-8098-ee08a64f542d", "secondarytypes":
+        ["Compilation"], "title": "Bravo Hits 80", "type": "Album"}, {"artists": [{"id":
+        "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}], "id":
+        "2c90469e-7d22-490c-bb8f-ef2306e1d915", "secondarytypes": ["Compilation"],
+        "title": "Fun Radio: Fun Club 2013", "type": "Album"}, {"artists": [{"id":
+        "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}], "id":
+        "2b9d89c6-c42a-4302-b28c-3e50c99a9b23", "title": "Now That''s What I Call
+        a Workout 2", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "2f59c4ff-80d8-4ef8-866d-b5c5c7672f1e",
+        "secondarytypes": ["Compilation"], "title": "Absolute Dance Spring 2013",
+        "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "ec008120-6953-407b-9332-7287c0973821",
+        "secondarytypes": ["Compilation"], "title": "The Workout Mix: Summer Fit",
+        "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "8f8a1f5e-1da3-4921-9026-ce3813e43296",
+        "secondarytypes": ["Compilation"], "title": "Absolute Music 72", "type": "Album"},
+        {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various
+        Artists"}], "id": "61434c8c-6737-4de2-90ff-9eda5c4a0612", "secondarytypes":
+        ["Compilation"], "title": "So Fresh: The Hits of Autumn 2013", "type": "Album"},
+        {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various
+        Artists"}], "id": "5eef889a-5aff-4531-b842-0d75560c0bf7", "secondarytypes":
+        ["Compilation"], "title": "Radio 538: Hitzone 64", "type": "Album"}, {"artists":
+        [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}],
+        "id": "a9eb8317-f784-4f29-aa86-02203de88586", "secondarytypes": ["Compilation"],
+        "title": "One Clubland", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "336c73b6-be50-4a2b-8a78-2ad1e6447cd3",
+        "secondarytypes": ["Compilation"], "title": "M\u00e1xima FM Compilation, Volume
+        14", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "a7c2a6d1-d8f2-4eb0-a3fc-b2bea1429c5f",
+        "secondarytypes": ["Compilation"], "title": "Germany\u2019s Next Topmodel:
+        The Best Catwalk Hits 2013", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "cdf023d2-f454-4687-8773-3612556c1a0f",
+        "secondarytypes": ["Compilation"], "title": "NRJ Spring Hits 2013", "type":
+        "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name":
+        "Various Artists"}], "id": "1073f3bf-f18a-43d6-a674-36e7837f5522", "secondarytypes":
+        ["Compilation"], "title": "Mega Dance Top 50 Spring 2013", "type": "Album"},
+        {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various
+        Artists"}], "id": "1f92d54f-3050-4f98-815a-1cd1149d964d", "secondarytypes":
+        ["Compilation"], "title": "Future Trance 63", "type": "Album"}, {"artists":
+        [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}],
+        "id": "ba481afd-e6cf-445d-b190-23408015d669", "secondarytypes": ["Compilation"],
+        "title": "Energy: Hit Music Only! Best of 2013, Volume 1", "type": "Album"},
+        {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various
+        Artists"}], "id": "173ec12f-a73c-482d-8707-73787f8a0a6d", "secondarytypes":
+        ["Compilation"], "title": "Dance Hits 2013", "type": "Album"}, {"artists":
+        [{"id": "8dd98bdc-80ec-4e93-8509-2f46bafc09a7", "name": "Calvin Harris"}],
+        "id": "98432828-5764-4892-9e3f-9c674cf70acb", "title": "18 Months", "type":
+        "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name":
+        "Various Artists"}], "id": "c7973d27-7e65-4500-9d1f-bd343b16970f", "secondarytypes":
+        ["Compilation"], "title": "Now That\u2019s What I Call Music! 83", "type":
+        "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name":
+        "Various Artists"}], "id": "f93fb971-6bfc-48f9-9a63-daa9a47cdb53", "secondarytypes":
+        ["Compilation"], "title": "The No.1 DJ Collection: 2010s (Digital Collection)",
+        "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "89d22400-3792-4867-8293-c9732800838f",
+        "secondarytypes": ["Compilation"], "title": "NRJ Hit List 2013", "type": "Album"}],
+        "title": "Sweet Nothing"}, {"artists": [{"id": "8dd98bdc-80ec-4e93-8509-2f46bafc09a7",
+        "name": "Calvin Harris"}], "duration": 210, "id": "6770850e-e16e-47bd-b3dc-d50d326cf61e",
+        "releasegroups": [{"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "8d84271d-4276-4493-bc31-007fbf2ad45f",
+        "secondarytypes": ["Compilation"], "title": "NRJ Hit Music Only! 2013", "type":
+        "Album"}], "title": "Sweet Nothing"}, {"artists": [{"id": "8dd98bdc-80ec-4e93-8509-2f46bafc09a7",
+        "joinphrase": " feat. ", "name": "Calvin Harris"}, {"id": "88798869-338b-418e-9c47-97365444b734",
+        "name": "Florence Welch"}], "duration": 242, "id": "97ccd05c-407f-4e5a-9343-45cb4e233d80",
+        "releasegroups": [{"id": "dae2f056-681f-4198-b529-6b6a5b0ac727", "title":
+        "Sweet Nothing", "type": "Single"}], "title": "Sweet Nothing (Dirtyloud remix)"},
+        {"artists": [{"id": "78545095-d0ed-450e-9f23-ed32749c2e28", "joinphrase":
+        " feat. ", "name": "Michael Mind Project"}, {"id": "7d48da7e-5eee-45df-8e89-dfaee2af82c4",
+        "name": "Dante Thomas"}], "duration": 202, "id": "9c39cd92-28b0-4138-ae03-c242348ad74e",
+        "releasegroups": [{"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "42875fb8-8615-4698-bdcc-e821960be370",
+        "secondarytypes": ["Compilation"], "title": "Bravo Hits 79", "type": "Album"},
+        {"id": "f14e5b51-19f6-4895-93f9-d1a9da318831", "title": "Nothing Lasts Forever",
+        "type": "Single"}], "title": "Nothing Lasts Forever (club edit)"}, {"artists":
+        [{"id": "8dd98bdc-80ec-4e93-8509-2f46bafc09a7", "name": "Calvin Harris"}],
+        "duration": 217, "id": "b397145e-ab8b-48b4-8cf0-11ed93ce9187", "releasegroups":
+        [{"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various
+        Artists"}], "id": "59dee0f2-b40c-4913-a5cc-6af3b594307f", "secondarytypes":
+        ["Compilation"], "title": "De Maxx Long Player 16", "type": "Album"}, {"artists":
+        [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}],
+        "id": "fa37feb0-d442-4cc6-8c44-e7aad4d7d6fd", "secondarytypes": ["Compilation"],
+        "title": "101 Running Songs Lap 2", "type": "Album"}, {"artists": [{"id":
+        "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}], "id":
+        "d5d887f5-c36e-46d9-b1f6-b6e493727f58", "secondarytypes": ["Compilation"],
+        "title": "Now That\u2019s What I Call Music! 74", "type": "Album"}, {"artists":
+        [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}],
+        "id": "14282b38-f995-48c7-90e7-87f03f8ca7c1", "secondarytypes": ["Compilation"],
+        "title": "The Hit List", "type": "Album"}, {"artists": [{"id": "8dd98bdc-80ec-4e93-8509-2f46bafc09a7",
+        "name": "Calvin Harris"}], "id": "27250bea-74ea-4b13-9f62-2b7a6e605acc", "title":
+        "Ready for the Weekend", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "eeaa8b21-b87c-474f-9a2c-ee53fc739162",
+        "secondarytypes": ["Compilation"], "title": "Bravo Hits 67", "type": "Album"}],
+        "title": "Ready for the Weekend"}], "score": 0.943499}, {"id": "9fde91eb-fc5f-4a31-b779-643c3f13a523",
+        "recordings": [{"artists": [{"id": "8dd98bdc-80ec-4e93-8509-2f46bafc09a7",
+        "joinphrase": " feat. ", "name": "Calvin Harris"}, {"id": "88798869-338b-418e-9c47-97365444b734",
+        "name": "Florence Welch"}], "duration": 212, "id": "20f23619-9cdc-49e4-b7cf-004e02577156",
+        "releasegroups": [{"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "0f1c56b4-65af-4e2f-b4cc-643e140f06dd",
+        "secondarytypes": ["Compilation"], "title": "Chartboxx: Sommer 2013", "type":
+        "Album"}], "title": "Sweet Nothing"}, {"artists": [{"id": "8dd98bdc-80ec-4e93-8509-2f46bafc09a7",
+        "joinphrase": " feat. ", "name": "Calvin Harris"}, {"id": "88798869-338b-418e-9c47-97365444b734",
+        "name": "Florence Welch"}], "duration": 217, "id": "2bc21c3e-6162-4db6-9294-47465529e501",
+        "releasegroups": [{"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "bccdacc8-66c8-41e1-9f59-e12ec5568f88",
+        "secondarytypes": ["Compilation", "DJ-mix"], "title": "Superstar DJs", "type":
+        "Album"}], "title": "Sweet Nothing"}, {"artists": [{"id": "8dd98bdc-80ec-4e93-8509-2f46bafc09a7",
+        "joinphrase": " feat. ", "name": "Calvin Harris"}, {"id": "88798869-338b-418e-9c47-97365444b734",
+        "name": "Florence Welch"}], "duration": 217, "id": "2edc2b13-5ab6-4053-898d-d21a117373fc",
+        "releasegroups": [{"artists": [{"id": "bdd313b9-50c1-4957-8ca5-bb2a09f580f2",
+        "name": "Danny Howard"}], "id": "2ca7b93a-f006-437e-a079-905efb61e420", "secondarytypes":
+        ["Compilation", "DJ-mix"], "title": "Clubbers Guide 2013", "type": "Album"}],
+        "title": "Sweet Nothing"}, {"artists": [{"id": "8dd98bdc-80ec-4e93-8509-2f46bafc09a7",
+        "joinphrase": " feat. ", "name": "Calvin Harris"}, {"id": "88798869-338b-418e-9c47-97365444b734",
+        "name": "Florence Welch"}], "duration": 212, "id": "4cf00d80-35b4-49d6-a050-68ca435e694b",
+        "releasegroups": [{"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "1ba57879-2989-453e-9ff1-363dcc2dd2e4",
+        "secondarytypes": ["Compilation"], "title": "P1 Club, Volume 2: We Own the
+        Night", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "580b3a77-90d8-42c2-b4a0-7298f2d171e3",
+        "secondarytypes": ["Compilation"], "title": "Promo Only: Modern Rock Radio,
+        December 2012", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "63acc699-0381-4771-802c-0b10b7f091fe",
+        "secondarytypes": ["Compilation"], "title": "Now That\u2019s What I Call Music!
+        45", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "928bba87-e6d6-4924-a967-2daccd81e753",
+        "secondarytypes": ["Compilation"], "title": "Keep Calm and Be Happy", "type":
+        "Album"}, {"artists": [{"id": "8dd98bdc-80ec-4e93-8509-2f46bafc09a7", "joinphrase":
+        " feat. ", "name": "Calvin Harris"}, {"id": "88798869-338b-418e-9c47-97365444b734",
+        "name": "Florence Welch"}], "id": "dae2f056-681f-4198-b529-6b6a5b0ac727",
+        "title": "Sweet Nothing", "type": "Single"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "9cfc3011-7d84-4a52-9567-ddc1e07ff135",
+        "secondarytypes": ["Compilation"], "title": "The No.1 DJ Collection: 2010s,
+        Volume 6", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "53bf02ec-7305-4db6-87f9-8963ca480d6e",
+        "secondarytypes": ["Compilation", "DJ-mix"], "title": "Club Sounds: The Ultimate
+        Club Dance Collection, Vol. 64", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "ae5ce841-e004-4aae-a406-6d2ec8e12860",
+        "secondarytypes": ["Compilation"], "title": "Nachtschicht, Vol. 48", "type":
+        "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name":
+        "Various Artists"}], "id": "d9548316-42e5-4e8b-9869-5c3bb2f97b9c", "secondarytypes":
+        ["Compilation"], "title": "More Music 7", "type": "Album"}, {"artists": [{"id":
+        "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}], "id":
+        "4012886a-4aac-48c6-9e64-646dcaa0c57b", "secondarytypes": ["Compilation"],
+        "title": "Now Hits 2013", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "971f7d47-c157-4c61-98b2-6ad47f4f18a6",
+        "secondarytypes": ["Compilation"], "title": "Dream Dance, Vol. 67", "type":
+        "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name":
+        "Various Artists"}], "id": "904ab76b-dab2-4405-8098-ee08a64f542d", "secondarytypes":
+        ["Compilation"], "title": "Bravo Hits 80", "type": "Album"}, {"artists": [{"id":
+        "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}], "id":
+        "2c90469e-7d22-490c-bb8f-ef2306e1d915", "secondarytypes": ["Compilation"],
+        "title": "Fun Radio: Fun Club 2013", "type": "Album"}, {"artists": [{"id":
+        "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}], "id":
+        "2b9d89c6-c42a-4302-b28c-3e50c99a9b23", "title": "Now That''s What I Call
+        a Workout 2", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "2f59c4ff-80d8-4ef8-866d-b5c5c7672f1e",
+        "secondarytypes": ["Compilation"], "title": "Absolute Dance Spring 2013",
+        "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "ec008120-6953-407b-9332-7287c0973821",
+        "secondarytypes": ["Compilation"], "title": "The Workout Mix: Summer Fit",
+        "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "8f8a1f5e-1da3-4921-9026-ce3813e43296",
+        "secondarytypes": ["Compilation"], "title": "Absolute Music 72", "type": "Album"},
+        {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various
+        Artists"}], "id": "61434c8c-6737-4de2-90ff-9eda5c4a0612", "secondarytypes":
+        ["Compilation"], "title": "So Fresh: The Hits of Autumn 2013", "type": "Album"},
+        {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various
+        Artists"}], "id": "5eef889a-5aff-4531-b842-0d75560c0bf7", "secondarytypes":
+        ["Compilation"], "title": "Radio 538: Hitzone 64", "type": "Album"}, {"artists":
+        [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}],
+        "id": "a9eb8317-f784-4f29-aa86-02203de88586", "secondarytypes": ["Compilation"],
+        "title": "One Clubland", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "336c73b6-be50-4a2b-8a78-2ad1e6447cd3",
+        "secondarytypes": ["Compilation"], "title": "M\u00e1xima FM Compilation, Volume
+        14", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "a7c2a6d1-d8f2-4eb0-a3fc-b2bea1429c5f",
+        "secondarytypes": ["Compilation"], "title": "Germany\u2019s Next Topmodel:
+        The Best Catwalk Hits 2013", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "cdf023d2-f454-4687-8773-3612556c1a0f",
+        "secondarytypes": ["Compilation"], "title": "NRJ Spring Hits 2013", "type":
+        "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name":
+        "Various Artists"}], "id": "1073f3bf-f18a-43d6-a674-36e7837f5522", "secondarytypes":
+        ["Compilation"], "title": "Mega Dance Top 50 Spring 2013", "type": "Album"},
+        {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various
+        Artists"}], "id": "1f92d54f-3050-4f98-815a-1cd1149d964d", "secondarytypes":
+        ["Compilation"], "title": "Future Trance 63", "type": "Album"}, {"artists":
+        [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}],
+        "id": "ba481afd-e6cf-445d-b190-23408015d669", "secondarytypes": ["Compilation"],
+        "title": "Energy: Hit Music Only! Best of 2013, Volume 1", "type": "Album"},
+        {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various
+        Artists"}], "id": "173ec12f-a73c-482d-8707-73787f8a0a6d", "secondarytypes":
+        ["Compilation"], "title": "Dance Hits 2013", "type": "Album"}, {"artists":
+        [{"id": "8dd98bdc-80ec-4e93-8509-2f46bafc09a7", "name": "Calvin Harris"}],
+        "id": "98432828-5764-4892-9e3f-9c674cf70acb", "title": "18 Months", "type":
+        "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name":
+        "Various Artists"}], "id": "c7973d27-7e65-4500-9d1f-bd343b16970f", "secondarytypes":
+        ["Compilation"], "title": "Now That\u2019s What I Call Music! 83", "type":
+        "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name":
+        "Various Artists"}], "id": "f93fb971-6bfc-48f9-9a63-daa9a47cdb53", "secondarytypes":
+        ["Compilation"], "title": "The No.1 DJ Collection: 2010s (Digital Collection)",
+        "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "89d22400-3792-4867-8293-c9732800838f",
+        "secondarytypes": ["Compilation"], "title": "NRJ Hit List 2013", "type": "Album"}],
+        "title": "Sweet Nothing"}, {"id": "60088c6b-969e-490c-b000-f6c117bb6674"},
+        {"artists": [{"id": "d262ea27-3ffe-40f7-b922-85c42d625e67", "joinphrase":
+        " feat. ", "name": "Pitbull"}, {"id": "b202beb7-99bd-47e7-8b72-195c8d72ebdd",
+        "name": "Christina Aguilera"}], "duration": 199, "id": "738701a8-b25b-44db-86ad-b4bd0df8446f",
+        "releasegroups": [{"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "863e9973-7dbd-4524-b72d-cf80cf7b45ee",
+        "secondarytypes": ["Compilation"], "title": "Radio 538: Hitzone 65", "type":
+        "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name":
+        "Various Artists"}], "id": "25677462-f904-4531-a84c-add885e41e2f", "secondarytypes":
+        ["Compilation"], "title": "Clubland 24", "type": "Album"}, {"artists": [{"id":
+        "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}], "id":
+        "3de20436-e665-4ff1-88ee-8a8bc28e3b5a", "secondarytypes": ["Compilation"],
+        "title": "538 Hitzone: Best of 2013", "type": "Album"}, {"artists": [{"id":
+        "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}], "id":
+        "cdb26924-8f02-4911-9e5f-4e0803719077", "secondarytypes": ["Compilation"],
+        "title": "Brit Awards 2014", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "19409953-37a5-4328-a280-f03c0454c83b",
+        "secondarytypes": ["Compilation"], "title": "Promo Only: Mainstream Radio,
+        March 2013", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "2117a947-593c-4e05-8dad-2014c3d802e9",
+        "secondarytypes": ["Compilation"], "title": "Now That\u2019s What I Call Music!
+        85", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "e4511d51-b6fe-4007-94ed-db2443007234",
+        "secondarytypes": ["Compilation"], "title": "Now That\u2019s What I Call Club
+        Hits", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "fa16774f-9980-4709-8230-0978b5d4ce40",
+        "secondarytypes": ["Compilation"], "title": "Pure\u2026 Dance Party", "type":
+        "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name":
+        "Various Artists"}], "id": "79af2743-4d3f-4b77-8857-ca4707c776b0", "secondarytypes":
+        ["Compilation"], "title": "100x zomer 2014", "type": "Album"}], "title": "Feel
+        This Moment (radio edit)"}, {"artists": [{"id": "8dd98bdc-80ec-4e93-8509-2f46bafc09a7",
+        "joinphrase": " feat. ", "name": "Calvin Harris"}, {"id": "88798869-338b-418e-9c47-97365444b734",
+        "name": "Florence Welch"}], "duration": 207, "id": "8d717e01-ef2a-4ec6-8034-018f0d9cac72",
+        "releasegroups": [{"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "7b4b6a90-ab4a-4001-b791-a6f581450ae8",
+        "secondarytypes": ["Compilation"], "title": "538 Dance Smash 2013, Volume
+        1", "type": "Album"}], "title": "Sweet Nothing"}, {"id": "94461f22-ba41-4ca5-bdb6-84b46c7b1641"},
+        {"id": "a91ccf39-7cfc-49a6-a320-7a0bb817bf25"}, {"artists": [{"id": "8dd98bdc-80ec-4e93-8509-2f46bafc09a7",
+        "name": "Calvin Harris"}], "duration": 217, "id": "b397145e-ab8b-48b4-8cf0-11ed93ce9187",
+        "releasegroups": [{"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "59dee0f2-b40c-4913-a5cc-6af3b594307f",
+        "secondarytypes": ["Compilation"], "title": "De Maxx Long Player 16", "type":
+        "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name":
+        "Various Artists"}], "id": "fa37feb0-d442-4cc6-8c44-e7aad4d7d6fd", "secondarytypes":
+        ["Compilation"], "title": "101 Running Songs Lap 2", "type": "Album"}, {"artists":
+        [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}],
+        "id": "d5d887f5-c36e-46d9-b1f6-b6e493727f58", "secondarytypes": ["Compilation"],
+        "title": "Now That\u2019s What I Call Music! 74", "type": "Album"}, {"artists":
+        [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}],
+        "id": "14282b38-f995-48c7-90e7-87f03f8ca7c1", "secondarytypes": ["Compilation"],
+        "title": "The Hit List", "type": "Album"}, {"artists": [{"id": "8dd98bdc-80ec-4e93-8509-2f46bafc09a7",
+        "name": "Calvin Harris"}], "id": "27250bea-74ea-4b13-9f62-2b7a6e605acc", "title":
+        "Ready for the Weekend", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "eeaa8b21-b87c-474f-9a2c-ee53fc739162",
+        "secondarytypes": ["Compilation"], "title": "Bravo Hits 67", "type": "Album"}],
+        "title": "Ready for the Weekend"}], "score": 0.941324}], "status": "ok"}'
+    http_version:
+  recorded_at: Tue, 29 Jun 2021 13:42:30 GMT
+recorded_with: VCR 3.0.3

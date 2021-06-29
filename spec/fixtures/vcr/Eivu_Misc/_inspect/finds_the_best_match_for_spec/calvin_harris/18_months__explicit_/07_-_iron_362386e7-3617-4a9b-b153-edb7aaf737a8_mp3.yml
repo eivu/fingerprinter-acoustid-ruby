@@ -1,0 +1,58 @@
+---
+http_interactions:
+- request:
+    method: get
+    uri: https://api.acoustid.org/v2/lookup?client=<ACOUSTID_CLIENT_ID>&duration=219&fingerprint=AQADtEmUSEqkRIk0HMd5_IRz_Cl0mDlx_Dh-_BDVKcSRj7Clo7dR-BdyfD1Etajxox9-nJAPc3iOHKdhIz98HDpMdBvuoj9u4X8gnh4Y7cKHPsM23cGdwyfx431wUhSu7EfJIujRdDRybmge9MdzaKsOV9EhcngWCz4eGn7hZ0fJBX0Ij-GhizAXBX6PPDR8HV8WuDrCZ0dzBhobHSGuHL2EZymakcejLEhHXRCfxQg_dE0GjwzM5fgRO8sDccyOnEef4DqepWjGG-3CI0xEPYLmHesREs6Gay4upI9yPIJ-hGdwlHKKXQ-u98hnJFEe6njC48eVOMdzwXojgTSat0jzItmPJxp4Odhx7iiTiEej8EbyB3lC7Mrw4zv-JHh-5Eik_NgVHvsM_tjRhBEftDmRP0jyG08WXMEVPHnw40ike0FEC6-xfA_Gx-iOJor04NSF5A9yZfhwCs8THI_ZIVkuhE_wHD-eC8171Hei4EmGZMyONKKSHHeE5gxmpcSjJ_iDH5KOPdgVGTz2HN1iNMyO_EGSH0-Cb7jxJMfzBD8y5T-SHFewLw6WPeiPZ1qOZpl8_AuSK4uQD_vwPbh4Bf8R6kiUrDlOXAZ_jA-axg_KZCfyNA-SnAKu40s0F7MfPM8QsiOSKOTxWzgdGQ8vTOmOXjsepUj-IPp0nElI4Ud3NA8XPAqS7RlytMEbXHrgXMel4jvC50iootnC48tR60KTmzijCNcQ6hGSHT_-J7iU5MKuw5eCPZKQj0hKBV_K4crB5OiVSMQbDjmSj7gofAql4d1BPbvxdXiQLD-iH82Z4zPa6GjG406USYjzI9mFkrRwXE7xEE2VceiVInIFPXyFWEuW4qWGS8h0nAseFtIu5B3wjUbcqRmuDVou5Yh0FjuPK3jT4zyc48gz6CdyPNeGHzf-YVrkwJl6TNQ15HuQvMUpCR-ubMI9HSclhGyRKPnBKw5u_MIc6aidDlPyB2eKOPcg_SiVCDtnpM-QH1-gI07zBT7qNMeFKTdqg_SJqUL6HX5k6MoKn8GXVXBVoc-CWof4DB4ZlIyC8BW-iKh9hA8lNIwuXFHCQMv64qrh42F2WIqOK4P4w2qIcNNQKwseGrV49IyEMFV2fEuIejvEKgv84xnMqMe3wDp0JYJrdNuGvkatLPjR5ErIQHs75FnQkMFeUE2ywdmKh0X6REj2KHlwHp6U4FGOE3wOKzz2JEfOyNBC52izBY1K5MriwNxxZUF66FECa-KMsFEW9EWtrDhjmFEU5OizMIP4zPBxwvXRZ0FTEbKVwZpjIXx2tFGPb0E_CU23HOGPLwsPLR8-5vAHS8ti9ESfBf5Y5MpiNNfRKqHxMCSuYwtVveiT42LG4Dl6E4mSNQpixQGfvDgDayd-oZuyKvhxwePkwJqtIHR06NSQp2COhotw6UGuH7yQ7Dx-VJNKXNLBH9WFhhnOC8m3UEJ-9ETz4xGu4wcvCskV5ImOL4qOHz_841OOXAkt6FkIHv7xqMIppbjOCUei3LhQVTtOlcGpHY26HP2F_Ic-Lcgq92j9YIrC5MFN3AgJsxO0H3kyC210ZfCY7CiRZ4ayLEKuJMcrBUfDo9eDU1mDo_2D5LKHUDp-3HlwGf3RODzOGsl7xOqqoVFUEdUV48qJP6iPC8m-Iz7e46jQMJIyCe-xZxeeIN-Nu8eJ6UeqZKh0K_iOB9eOJ8Nvoa-DVNHR8tB4HNQv6D6uH8eO_4d3qMvh3fghope24-XxOejhE66y4IEZMQ5qhUfPC34Gj8yhPQpKFg8daBaPdlmO5iiZ5fDxEI2i4zsaacWzHD_xLNAocSilKIF-XFlw6YIZJUPfo5k2XFPgMw76oI2Yww8Pa-KhRwl8Hn0WozseokZLJVagJe3xREFz7AVFJTjFwSPeRBaaMw8eBf3RTEqOKwQfNOqF6XlCyGGiHM0z9KHRHIf3o1M2dLiSQ1uJZ0G74o2CXIe_GOFRK0vhZ8cPkWTh-njEHH4UPD6siTm0NUa7Iida9FmMphpypmiuE3rEI_2FZ09hh8e1LBfswM9iVNSRhzm0h0TYiE8Q68P0xGhUHjFfFP4ulMyLT3qOmTnqjEXdHOfRHL2E_IYeDRdeTIeW3MjzC7yUDtyIPUP_wDseHPkLlUOoPDOeHBf6HzlzIXn44rxgo6-JC03so2_wCz3c46jM40f3I3rQH9LTHPkGPMe2HD-OzoetB_2xA9eOI-sJWTvCH_6S45jP44ODMztGKofR58cbPAefI-QfOFMq6B9e8Dn2wyduAqKP2IQTqkKfHT-O0mHwF7_RP0KfWsKFzyeqH3_Qw1R6lBrOHH3gH7NlhOFCSDdyHVfwww-eHD_QZ2h-4LgUPEPinAQRdi_-wFfw7jiOLVbx_PgVGH2O5Dfy493R3sRzWA6O5MiPS_hw-OiOC1eRR1CVB5fODMnjo19yNJWET_i-pME_VM4S4wmPwyqO5gzyQ0-KJwiDH08ffDmBHw_q3LiP87B-HK-OR3iUHmFqUdBI9MmRRsePR_lQ_niOHk3xKPrx4EiO8E9wacHX43C5D4eRt0fCoxZe9EUTjjiNJ8X3IteD81qE3MKfHKV2NN4ffMdbACmeAAggIIBwhjHjFCUCCGOMcEYw46BC0DFlEWXCCAQUcEYAYInADBAhiFCICMENYIABAIQgAChgDBIEAAcEI0YAgRgCQDGBEFMCGEPEAJIpSYIlADgjGCICKEQMoEZIZAEUBhmmqCLIMEGAB8YQRQwCBkBEICRECWuFJQAYRAQyzCKEAACGCCIZAAAgYwQwhkhhLDLYAKWMMQ4iggS0ABhhoAEKCiEYUA4RJAghQBIiiQEAAOEIAIQCQwQAyBjDAAQIIAiMI1IxAAADQBDiFBGEIXKEIAAgQYCRRFgsBBVICQAEoIIQDJQjDggjDFFGGAGIkUIJBBQxBAEAnGOKGSUAJNRBYRhAgAigmDEIESeAYQ5YIBxhVmCDKBECEWAEA8IRYRBCQDCGAGBECCMQYAJJJSgAQBkBBGCCIMYIIkYJAxBAgkkBlANCAIWUQsYIYRQQAhggBaIAGMSQIMIZpZxkDknMABACC4UQAgoIgYgUBiAGgTCMGwcEFAACJZRAkBhGBCAOAUAAIcQwAYAwwApoDFDCMsIEARYw4oQEgjBADAHAGCIdIw4MRIgigDEAHBVIKMOQZMAQRoRFAgFEBEiCAEGAcEoIAgAETAkAgGBAAGAYc4IJBhhCiAEBCBAKCICAEJQJJgwQADBhiGEKIGUEcEI4wQQAQgGCADAKMCOYUIQIBwwDRABAFRNACgAAAAYAIRwggxGCqBcAEMIFYIgbQJRAAhABhGFGkMUAANwKiKAwCgAAKAIIg4gAQ4wgo4gCgAoDGWIAAaEUUQIQRhwxQiEkjAcOGgMEA-AIIZhBjgFtIEBGUIUIdkQLxBgzAFjBDLEMIAEAUshAIoSAFglCnEIQOgQJUEIQYgBxSMkHnHQMMSQcoIwiZBwgBAHniEBAII2MANQRBAAVjhhiAAEOAKQYcEoIZoAQQiABDGIA&meta=recordings%20releasegroups%20compress
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      Accept:
+      - "*/*"
+      User-Agent:
+      - rest-client/2.1.0 (darwin20.3.0 x86_64) ruby/2.7.1p83
+      Accept-Encoding:
+      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+      Host:
+      - api.acoustid.org
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Date:
+      - Tue, 29 Jun 2021 13:42:27 GMT
+      Content-Type:
+      - application/json; charset=UTF-8
+      Transfer-Encoding:
+      - chunked
+      Connection:
+      - keep-alive
+      Vary:
+      - Accept-Encoding
+      Access-Control-Allow-Origin:
+      - "*"
+      X-Envoy-Upstream-Service-Time:
+      - '120'
+      X-Envoy-Decorator-Operation:
+      - acoustid-server-api.acoustid.svc.cluster.local:3031/*
+      Strict-Transport-Security:
+      - max-age=15724800; includeSubDomains
+    body:
+      encoding: ASCII-8BIT
+      string: '{"results": [{"id": "eca48524-e5ba-420b-953f-f67702292cd0", "recordings":
+        [{"artists": [{"id": "8dd98bdc-80ec-4e93-8509-2f46bafc09a7", "name": "Calvin
+        Harris"}], "duration": 221, "id": "cdba6c79-8817-4f30-94e2-88408fc91e82",
+        "releasegroups": [{"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "bd8c0793-b080-495c-9a7e-87c3b800431e",
+        "secondarytypes": ["Compilation"], "title": "DJ Top 100, Volume 3: Autumn
+        2013", "type": "Album"}, {"artists": [{"id": "8dd98bdc-80ec-4e93-8509-2f46bafc09a7",
+        "name": "Calvin Harris"}], "id": "98432828-5764-4892-9e3f-9c674cf70acb", "title":
+        "18 Months", "type": "Album"}, {"artists": [{"id": "662646b5-8298-43a7-848c-9f160fc99ae9",
+        "name": "The Disco Boys"}], "id": "baad44d2-f03a-4be8-9c67-7c6a11f90c62",
+        "secondarytypes": ["Compilation", "DJ-mix"], "title": "The Disco Boys, Volume
+        14", "type": "Album"}], "title": "Iron"}], "score": 0.946728}], "status":
+        "ok"}'
+    http_version:
+  recorded_at: Tue, 29 Jun 2021 13:42:27 GMT
+recorded_with: VCR 3.0.3

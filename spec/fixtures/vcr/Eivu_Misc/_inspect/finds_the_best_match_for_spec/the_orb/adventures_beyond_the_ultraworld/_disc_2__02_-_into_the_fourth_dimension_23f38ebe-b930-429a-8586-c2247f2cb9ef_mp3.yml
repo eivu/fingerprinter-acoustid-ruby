@@ -1,0 +1,49 @@
+---
+http_interactions:
+- request:
+    method: get
+    uri: https://api.acoustid.org/v2/lookup?client=<ACOUSTID_CLIENT_ID>&duration=556&fingerprint=AQADtIoSaZEkKQo6HwejD-aOF-kL7Qi9w6ki_MF3FD_yD981dCx-QfzR41ly_DjzQIsLnhVy-O3xYmORr8chv0jnHX-Q_xAjHbmwZwz8g7FEp2i2MAwSLlGK8B8eL8JFOB2LJxdmRsZOEv-Naz3aw-rwSR8eeCTOI6eFkw_0g8q24A9-fD_K4XsO_WgY6-iFT8dFaEczhprw4zHeo4kmfDIk_fjxGObxEWn-DCe6HdeQT0c_mGuEUsZ39MsOT1Zx16Co4T--oC-049oF_3gnfMJv6McnnDzoH_1xZYcWKsyFUsc_4gyJRtHQo41HwTnBH81x4UdzQj2cXPCL_BqO9GBKHdp5_MO_8JjGjBEO7fTQ5HSR8_jRiDoq3igvmPjRPBmi54MuPgjz0BJ6Ck8YXMqN50eP5kacJVkuKJcSI_aPn_gCN02FUzzePKh0TDlOGo2WbEMfI9HEC3mOmqvRWMkDvrh25MkJlcqNnlzQXCn0yUS-c7getDumJJESPcJLIac8JMdD_ByedcbWDk9UPA9x8QLT7EK6Q7mQ59jpohcbHG-SVPjRhB8RMk-hZd3B-MiP5lmEqsku4ykplOjTFfmhG9QenIcWh6nRvwN_xCoanUUvdD-cDx9ybAd0Hj6qDz2af7gOnEfjoz70o1QDf8d7dDvmPLiOeiy04Mpx4XvQw1l-nBJ0Ci78Q7qIHr1wf9CPC_lPvDh-XMiP41JwiLiEvg--47h-1D8aTzgHvhAfC9_xCI0NzSsOHD_03rhBUkW_4_CxH76B4zt89PiP7_hRwzmNHt-LHMB19Dgt5IN-HBdsvThq3DkO7Ycf1OjRPMJxXNkTHG9Qe_CLagx-rPjB7YhkHd4ahOKGPihP_Ic6Dhf6wNvxHT5GMRBv9NHx4cenBweP8DCBH_mOV8cT_NB3nDmOH84TaM-J40XDbME1hB5-4SkepUK-47mgEv3RPAu-A-9xGVqPH30OHscXRdiz40LrHHBf9D2uCIVFER_h88GF7dDu40R7uNMh_Uj1HQyPsrvg_HhG2DiG5ynCeILC4xHCzUcTlcbRD-YoG6GSQkffC2lExmiXHCUpqniXBI_AjUd4HheDBz18aMd7hIePHt_Rz0j543ghkg-KDz18BUda7mCOox78HT8-hHnwI9drXOhlUL3RB_-LHsbHoj0SH5ESHfWFP9ZwhD3ELwhlH_1x9cFV4PBz_MjRE8eD7_jRA9bRa4fOvoFmUUh7HB8ab_gwjxe-5MJfoc-RH_oW-DzC1yq-BTd-9DGj4cvRJ8gP_Qh71GrxFT-mfDG07_iESzZOGUcZnDl8OsJb9MeP50FzC-WPizh6wz2M5zgcci8u7ciR3HAu9Hvwyzhv1Mfx4Bua43qQmM8R1PgHP0OtXviEL3mB6bDDHEd6_Oil5NCF4wZ7tNwTNNMFvMETFJ6PVkd54YIfUOKEkPjx6jhzlId_HD96fMJv7MsQQhyubDHewxX642GFx8F9PDlCU0ETR8GPnDiOmYf24vjR42C14xvOibiPYz_qGz56TJCpCz9-8IKvoNdwnIY2wh2Rf0MP_qgIezJ-4Bf8IBR3SD_eI0ycBT3-Dj2P9EehJRfCbQsuPDqq76ikI49y_PhTNPnR4w_-YpYYfIH44Mqx5_iO5niN43uQPkd9ZNfRHfoyI8dnfDiO61Xwo43BNniMPjP-w08QyTd0PchvoZSyGM10nMOPsgjzI_E44zqaWUGPH70juMeRIMd5WFrmoDiJkhGaHn8-5DmhF-E1-EK-O4H2HTm6wrXR87h2BWeOH7WP5sEJHHmPJP_wH_uN37iOHj98BV0oEmiPR8LRLxbuI0eyHz96_Dhz9D7e4-1xDVeGFz7CQghPCxc-H_3RHg5CQ-eRqxfO6UB4OWg0KhByHe3R1AGO8_iDS0cf2KkQPjJ0PrgZ5EIHH33y4BZy4xu0OExRKxH04w-OSDkf9EaPE_aE8Dp-7DRqQ7SP8MJ3NMWP7zhOhM_RU_ByXMeH8MWvIM8OeShfpNnR56iNxk2IB6FFo3kWnDqOD8I5NEdOBaV2hD9gCof2KLg94cSP44b2OZiSz3jPYce548N0HVokKvgzHE0e_DB_aJO0PAhz1BQuHRWpoPnx4TuOUD-0WEpwhHpgVvjh58iiQxYj5DeaTBp6TMcrOJeQcxJ-wA7RKsWzI_QxhZMQ_oP4oN6RK8N5NGeHfnpxIpSP5jWOHf3hB7qEXHBVF5Z3HCaHX8gFgQQiSltGBCNESGQQQE4QhBgxRgCgCJAEUCEEACgZIgRAxBgEBBAMAMoEI4BgIoRHADgACACSIAQZMoI5gIhUEhFBGBMIMEOAEARAYAkBjAoAgEIGACIEAsABwwAwCEjErVWAAaQAQcgAYIAAQjAggCASCEMQcIgIYpAkQBhBlAFEGKcAUUICCgxARBCCDFECAMMJEQ4BBxCQUFEjHBBWAKCVAwAA6aBggABDABACQKaEEcIKJZgTAAhAhFIOAKiEJMoCYagRQhuhIFBEAGsVgIwYZSUASEoBAABAIicMAxASgQmxmDHlBEAYACQBFcA5ABxRDkiApCHDIACQQpAMIwKgiimpCBCAIOwQcoowBolQpDFlDTHCCUgUUIYSIxAUSgDrjFJGAWAQYggAxJCGAhhQAADOACAFAM4ZY4ASAAGDDAAGEIMAkEAQARADTChBEFeECAGscURYIKoARoCBHBAOCWSAYAgQoogAQQBhDJBKCAQAoSIphUQEAAAGngOGICCIkAQQgDDSAAkiBJKSYCCIUA4xggBTAmHhkCBgLCAIGUZ4QghATAAFqaNIKcAAQI4gESiGCACGKAFKQcEgSAYSoAARhFxkiRRCAKQUswgow5BhiwKQLBNEGSRMYEAwYwQlhgDqnOCKIGwAMsIKJQgRSiADIQDECYOYIEYR5BQzCBGCjEHAKIGUMoAQQBB5BCgrCXECCYOUUUYhBBzQjihnJRLEGSCQkoAAQIQizAgloIDIIIGMEQRAQAUyBgMBBCUCSUKYQYkRJIAxTDjBkJCCKCEUIAAIRQQQBwmKBCICOQUQoMAIwxACAAhHCIIKKeGoIsw5IgAgCjmFlCCAEAYAIouAg4jRRJjFDDUAAGIAOAIAcJwBAlCnBALLYAMEQM4QawDWBgCAGWGEGEIYEEAYAxQyBBklWGIE&meta=recordings%20releasegroups%20compress
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      Accept:
+      - "*/*"
+      User-Agent:
+      - rest-client/2.1.0 (darwin20.3.0 x86_64) ruby/2.7.1p83
+      Accept-Encoding:
+      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+      Host:
+      - api.acoustid.org
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Date:
+      - Tue, 29 Jun 2021 13:47:26 GMT
+      Content-Type:
+      - application/json; charset=UTF-8
+      Transfer-Encoding:
+      - chunked
+      Connection:
+      - keep-alive
+      Vary:
+      - Accept-Encoding
+      Access-Control-Allow-Origin:
+      - "*"
+      X-Envoy-Upstream-Service-Time:
+      - '87'
+      Strict-Transport-Security:
+      - max-age=15724800; includeSubDomains
+    body:
+      encoding: ASCII-8BIT
+      string: '{"results": [{"id": "637ee70f-11a4-4a78-9869-534a9e30a2ea", "recordings":
+        [{"artists": [{"id": "42c14c80-bd17-47e4-9bb2-a35897638c4d", "name": "The
+        Orb"}], "duration": 555, "id": "49d5080d-edab-4a85-9374-69fdf9533ad1", "releasegroups":
+        [{"id": "27b682b2-dd29-3e15-8ef2-f6475f4d262f", "title": "The Orb\u2019s Adventures
+        Beyond the Ultraworld", "type": "Album"}], "title": "Into the Fourth Dimension"}],
+        "score": 0.941215}], "status": "ok"}'
+    http_version:
+  recorded_at: Tue, 29 Jun 2021 13:47:26 GMT
+recorded_with: VCR 3.0.3

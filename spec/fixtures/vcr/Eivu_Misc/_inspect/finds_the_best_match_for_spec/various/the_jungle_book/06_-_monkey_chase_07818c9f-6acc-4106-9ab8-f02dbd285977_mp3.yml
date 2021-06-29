@@ -1,0 +1,83 @@
+---
+http_interactions:
+- request:
+    method: get
+    uri: https://api.acoustid.org/v2/lookup?client=<ACOUSTID_CLIENT_ID>&duration=66&fingerprint=AQACA0lShdLGBF-Sg481dOHR7MiJK4o04SgfPC_sHPdS5Ftw3MeVffDx4xvcwyde6JgeHnt49IKr5WgXHtMJcagX9D7SPEVo3dhz_JOg53iKD_oRZt8CRvnxX3giTFnSoTyR_EGOx3Zw6fCzLHgoXHjeIK2g5UekbcuC8nGiosk4Y9-R_9Ay2cfzwPkh-_hnpE9RC98xSs6Da1GOkxk406h9NA-eBP_wHs34cJh84jNK1kRaZRu0iEUsOfiSw9-T4l6VItCHXHiLcNfRjBK-DL8mKH9QTOah8ZgSH21oQvw6tBILjRKaCj9xx6jKE2G26Dh-D3kWJuiPxiEeMrjkQcuDijJ-9DE-aRguIehxHG142BqOfIGYI9yUHeMVNE4ttEeuFc2qBNp1xDeYJGGOdumRnxq0O8geGscxZdSJq8NTPETzHOHjQecDfeTRcAxCdi5-7BeaZ-iPO0TIjIeWMfhFoQ9DUI9q9DmeoXyMJzv6Az1zNGMUg_bxsIX2g_qRzdPBMod9nGHh6sKRvob2IHR-NJPC4dsTFU_8EE-K4omOpgqL7MezFI8XUMkSxVGg8kN-oVn2RQifN0jyEC-c7MzxRnHwf7iPh9okXIvxrjiaIz96Hv-EkhJ85YGu4zvyrDre8MRxeNpx3EJ3zK3xScddfDiafEL9oKMuRAp0lgijYFJrYz9-YcqYs8DBO-il41tKVHmJZPmZIrtICc-Lp0dJwp-oDL-DydGMZBLiJPzRp7j4oPEVlCJRKUdCVQkiiRGP3A-kH3lA3_gjTHl89HiSREeuI1kSD5Xy43fQmC-KE_4y_EnwHAkTM0fMnXhyDjeNRzjO4zvxpEeyJDlCYc-M0wl4PXAe5Zi1EU82FB-Dbrg-PNlxREKyWMPxB2yiXCLKhTlqCneOIGkSLgUrg4lRb8cz5kjGB9fAK4L4BeGP9_iUHN51fPxwpD90ZWkRpjmYh02CM4xwlL1I_EEdXCRDPAuH-FCmI_7x7cbR_AkulDmu9PjQnEYfB3keJBfKLDtK7viW4ybiLFCtJEVIJjqmLLuI__jxaDniz_hTQcoRBvtxSseTJTkiGtIrxDmFJ8ajRyglw8sOP3B9VI12ImmmxUmQyweOZkmSHaXE4w9-NNIp1MdPodZTeEXIjAn0B3l4nFTQnUKzP0J25mijHFr0FB_uoDkfaA-TE3lw-MR13EGP9IH-4Bq2f3AadqgdyA5CHg17XJlxJrWEo7lR_9iTsCs-aGR3gkqaoWLy4DyFtY_hST2e5MG_FOGRLM9xdTijOQmeJpbQ7CjDUsczPUF0p9CNZiek9Ci1I2SS4yJzNDqDUBTDDslzXFkiMMmXokuqHZei42aaBPmNRN6NUsvR_LjYBt_RrEf_BKGdFkycRLh06Yg9NBF1TDvqhEITUs7xpMJfIVnyI2T449EbvIMfBc8yFd9FXA6J5HyRF75wMSP-4bLQhIuO_0jolMPD9SilB-HRxHi28Sh3hGFGGyc87HmGg8mLUjquQRMVRQ8AoIxiSlDIAAaGAYaAUlgASYwABGggJGBIGUWIUAoJRwgBgCDJjEdIAAmIEAAoQYAACCHmAKDKAOEIQApARRAwBgBACAaIGAIMQh4BACgw7gAlGENGAAEMQdZIQwUCThCJmBBMYKcMBQkgYYxQyhggjAVAACAIEUoIJgARxAAjiCIGAqEEEMBIRCBiDggHBDBOCICMIMgoBLlSAiAgCBLEKQGEYdJSaxSQEDEAFGUEQCAAEIAApIgQCACiEEAGGEGwBMwAAJxxDABiCBNEEYYAIhBiYhBBDhsGFEBCMqGYRUACAZAhQCIhDAFYCCWAIQARLRgLhiHmAGFEMATAIAwBpRACAAoEhBMCGSSAI8Jg4IwwBCREgQOOsMQsoAIYBRgTBgAiAGHUKAAAAEoGZywZACpBgEGAIiCAAwYoBQgCQCGHAAAAAaGMgwgAZgRChBAghHCCACOIQEQABoVjCgkCBACAKUIUkAAQIgQRhBikgVHMGAaYMQA&meta=recordings%20releasegroups%20compress
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      Accept:
+      - "*/*"
+      User-Agent:
+      - rest-client/2.1.0 (darwin20.3.0 x86_64) ruby/2.7.1p83
+      Accept-Encoding:
+      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+      Host:
+      - api.acoustid.org
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Date:
+      - Tue, 29 Jun 2021 13:48:54 GMT
+      Content-Type:
+      - application/json; charset=UTF-8
+      Transfer-Encoding:
+      - chunked
+      Connection:
+      - keep-alive
+      Vary:
+      - Accept-Encoding
+      Access-Control-Allow-Origin:
+      - "*"
+      X-Envoy-Upstream-Service-Time:
+      - '84'
+      Strict-Transport-Security:
+      - max-age=15724800; includeSubDomains
+    body:
+      encoding: ASCII-8BIT
+      string: '{"results": [{"id": "933123c3-4138-4580-8619-37f844895439", "recordings":
+        [{"artists": [{"id": "c47026a1-3300-4cf7-80df-8b9462a884e4", "joinphrase":
+        " & ", "name": "Richard M. Sherman"}, {"id": "d378dedb-444f-48f5-a6e6-3e8e31ef6c14",
+        "name": "Robert B. Sherman"}], "duration": 65, "id": "531b2e4c-3fab-485a-94a6-8028b0affbae",
+        "releasegroups": [{"id": "094618e5-1dde-3f3e-a2fd-cefec8929675", "secondarytypes":
+        ["Soundtrack"], "title": "Das Dschungelbuch", "type": "Album"}], "title":
+        "Affenjagd"}, {"artists": [{"id": "4204e06b-d2e4-4823-b6f3-47f7593518cb",
+        "name": "George Bruns"}], "duration": 66, "id": "7db98fce-6232-4ba2-b051-3a8d9d1445d3",
+        "releasegroups": [{"artists": [{"id": "4204e06b-d2e4-4823-b6f3-47f7593518cb",
+        "joinphrase": ", ", "name": "George Bruns"}, {"id": "c47026a1-3300-4cf7-80df-8b9462a884e4",
+        "joinphrase": " & ", "name": "Richard M. Sherman"}, {"id": "d378dedb-444f-48f5-a6e6-3e8e31ef6c14",
+        "joinphrase": ", ", "name": "Robert B. Sherman"}, {"id": "0a8df504-df94-4d77-a3c5-2b9e5c9727e2",
+        "name": "Terry Gilkyson"}], "id": "1257fcdf-743f-3dff-9894-107b398fb777",
+        "secondarytypes": ["Soundtrack"], "title": "The Jungle Book: Original Cast
+        Soundtrack", "type": "Album"}], "title": "Monkey Chase"}, {"artists": [{"id":
+        "4204e06b-d2e4-4823-b6f3-47f7593518cb", "name": "George Bruns"}], "duration":
+        66, "id": "834dec45-4375-431d-8274-89ea94e6f75d", "releasegroups": [{"artists":
+        [{"id": "4204e06b-d2e4-4823-b6f3-47f7593518cb", "joinphrase": ", ", "name":
+        "George Bruns"}, {"id": "0a8df504-df94-4d77-a3c5-2b9e5c9727e2", "joinphrase":
+        ", ", "name": "Terry Gilkyson"}, {"id": "c47026a1-3300-4cf7-80df-8b9462a884e4",
+        "joinphrase": " & ", "name": "Richard M. Sherman"}, {"id": "d378dedb-444f-48f5-a6e6-3e8e31ef6c14",
+        "name": "Robert B. Sherman"}], "id": "44243185-02f8-4901-bfd2-1551bf42823d",
+        "secondarytypes": ["Soundtrack"], "title": "Le Livre de la jungle", "type":
+        "Album"}], "title": "La Chasse des singes (instrumental)"}], "score": 0.920477},
+        {"id": "357806aa-7ad8-44c4-982a-1605e8e2b5f7", "recordings": [{"artists":
+        [{"id": "c47026a1-3300-4cf7-80df-8b9462a884e4", "joinphrase": " & ", "name":
+        "Richard M. Sherman"}, {"id": "d378dedb-444f-48f5-a6e6-3e8e31ef6c14", "name":
+        "Robert B. Sherman"}], "duration": 65, "id": "531b2e4c-3fab-485a-94a6-8028b0affbae",
+        "releasegroups": [{"id": "094618e5-1dde-3f3e-a2fd-cefec8929675", "secondarytypes":
+        ["Soundtrack"], "title": "Das Dschungelbuch", "type": "Album"}], "title":
+        "Affenjagd"}, {"artists": [{"id": "4204e06b-d2e4-4823-b6f3-47f7593518cb",
+        "name": "George Bruns"}], "duration": 66, "id": "7db98fce-6232-4ba2-b051-3a8d9d1445d3",
+        "releasegroups": [{"artists": [{"id": "4204e06b-d2e4-4823-b6f3-47f7593518cb",
+        "joinphrase": ", ", "name": "George Bruns"}, {"id": "c47026a1-3300-4cf7-80df-8b9462a884e4",
+        "joinphrase": " & ", "name": "Richard M. Sherman"}, {"id": "d378dedb-444f-48f5-a6e6-3e8e31ef6c14",
+        "joinphrase": ", ", "name": "Robert B. Sherman"}, {"id": "0a8df504-df94-4d77-a3c5-2b9e5c9727e2",
+        "name": "Terry Gilkyson"}], "id": "1257fcdf-743f-3dff-9894-107b398fb777",
+        "secondarytypes": ["Soundtrack"], "title": "The Jungle Book: Original Cast
+        Soundtrack", "type": "Album"}], "title": "Monkey Chase"}], "score": 0.910452}],
+        "status": "ok"}'
+    http_version:
+  recorded_at: Tue, 29 Jun 2021 13:48:54 GMT
+recorded_with: VCR 3.0.3

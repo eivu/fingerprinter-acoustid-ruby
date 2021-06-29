@@ -1,0 +1,106 @@
+---
+http_interactions:
+- request:
+    method: get
+    uri: https://api.acoustid.org/v2/lookup?client=<ACOUSTID_CLIENT_ID>&duration=261&fingerprint=AQADtEuiZorEDHw0NBf2435w7cE5Ck1EBjVP4smRfBmDfLjwPNIx80HFRD6YJJOScCmedTi-ITzRJ8OLKZegPcf9Bnov5MmGOjYeFt-JpoqEcwqOf2iKXjnxdw7OT7jRJfKRyw5uKPsRHzyD6sGe5Al-nMnx0rDY4D-eQ7uGWsXb4JmP_7CZCeeIMaeH50ibi7hy7Edz5iiPCzFzrEdlSaDOHBO7PHguEVce1MmC5szxI1R-_IMuRemRUvOG68Tzwz_27BL8BFyvCT5WHV0Tiil-RGymIXnhKMxxPrhSMA-mPNWCkyglw0uiucgrqcSnGs0D9cjRLIk-XCf-40el_Eh-hDd265i8BQ8rXNXxTDL84C-aHW12RcSVSwjfEMnhG2Oe45kzgb-CRzfKHNeMR8i1xIUeoesZaJmSJypiJcoH7njhD2dzXCnCzCmS3Rv4nMEz5XiS0MSlw2fw481xiTq6ZHuR1FmGHFc-uNqNXvFQ-biebUjPHJpz5NozodcYNPSGI7-E5GCSlHFQp0a3HWl0PBEk5RPCpTPOHLwYI7wM8Xnw_GDIHOuE2zhKNIR-5MlxfdtwJcnx44XjZFMw8_iDREc-48K7NAKTbDTK44dS7sHb4Dqe5Ghuoj8aN0e9HclC5NTQR8FPrFEOnseW4x5yJoGeJFqNU0e4foOPMyiTJMd3BuNnNJ-OkMygX2h2IRRzopsbgcmzKEVON3iuw89xPNdwHq16THmQ67jSEr_x45dwas6Eswi5MIPICJFYRsPLgzuxhkIoRzCnB3ZyBdqJoxnRz4qgi1Cz7MNDEbd4PDw0XsGUM3izBCfyC0_RjLvRH18X_HiKJvsRUvfwCM-FSszRqDVOZhS-I0zFDGWyg5WYDP8SWD7-ROCHJMp-hG2Oz_iO72jIR0Q_4cqRKzwSNMmPZA8RX0QvTFmmF2XR9Cv-gklMoU4SBfmR8Abn5PiNfVeILxEfTP9UNP-xB8-D8_jR-0iW-EIetviDK13xGA4VPIxwRrgSBZ5MYdeCx5FAccej4wzS_Ph4_MF3DjxThVDuw04jIc9RkqLQPC-mBw65MAEz8sPHBuE7KMo_5OGD9mh24Z-CZ-iLN-Ex6enxHEzKIzyHJMyPH3Vuoela4fDyDcepIHF1pLmm4I8w-hoaJ9PBTHgwvUEYa_mg4_hHeH0Q__hy9EcTS8E93Dy2RQ2uXICO68GYw6EYfEOzRDn85-gjLsFJCc_Rw_mmYHpyJDoi78XzB5WYZ2jiH3mUIzmNN8nR58KPStrCHc3CXZh-DciFRFeIS8Hz4NsLLkefKEfTZMFpxXjx4w9x5UpEPDHxK8ZV9El2hEmaQ0-SU8hlEjmD5qhlPEuTBHqPIzSY5ASXUMhzGr0CCCUlI8-zYU_y4EdzGtXLBLmTCw-fCuqJXExV2Prw44_wDjvzgDp-THmOXsETZTTxNU3wbB_CXBm0z0QeHudxG342IQ_xYE50XD--CFqaMMf0IdKP5qGL7gaT4zmeLc8QnjmkzMiPZ8eeSkE3KVwGR-mRd4FO5Hi0HNcr5KSKHtrrCWmYHScDHyEPPR-ie0qIM1qOo2uOJhfOHM1S9Eh2FtH6oU92XA-eSxj9BF4JXiT26MdXPNvxr0HTC_2UCddFXBJ05XD04con4YobwA-DF1fz4suO8AqqVAqao-WFPbkQ-iuaH7wr9DnSWAOjVGagJ1WESA81-HBRJ8ePMt2CMONy6EYe4R-mE39wPrhDMA5KnUaz7ESS68jTo9MY-AqmG0-SPJgubmiWI1-Fm41xQ7tUTPmKWBaeHFWPbmqDykFz4UpwHomaH7kULwmm3ETtHPl4JCVOVBLRLMc9NKilVcgVHclONEn-4uSSYnyIk4TDBVykoqwSXEG_Ha-G6wefJQvC1EheXIuOTotCKcGPKznqK2ge_HiNtDuO5kSWqxH6JEFD4g7-4OolONFL5EqYEfqRE0yWYyaD5hmP4xF3pGWQ_Djh7MFzazjzBE9ymTiPx0dPY_tRpguLkxd4JuhTRMpDQ--NXPCC6xvyZAmRjLKPZvmK58NdfGiTD81z5AySP9iuGWyYw9OVDCMzJcRf43AUIvkzIc81fHnwHJ5IPDseh0XS6kI6jQ_m7AQDx9IxbWJwjccz9JocNOtyfMXDpBzSfEfyYX_A5cOUo5KURUSrtGgmn_gjJC5phKLyoPHGaDjDMMiLhIxS_LgUTHm4gHl-ND2eG1vU5YO2NEliVAp8UcfzwT16D1dq4eIzXMG15ER9NF-OnXjAiscTJWg46cG1HIdVdwiZC0kkHb5Ow40S1HsiVGIZNNnx9MOj7gizJTE0T4cudUR-_Bcefoh3aLuDMNmm44e948dnJHuQPkep8MIXxUKVXhKcB2UwN8fZHIkSHZUTPciz48yH5kcuqE9yhPNyPLh2NFUehPgPKUl1hD6ei8OlOAgvDn4GjgLxBfWGdxkz6C_OEFmoGm524s3QL0d2D68KJj5Ckcej3eiiF96R5cSuQx_yZdHxDC-OuId4xsgBy3hunMGVHj8SPnSG_Pg3fNGCZnyCNspRLjyaKouTCTktKNoRJvrAZhKFZ2Ey7PixXQ9OHVGZZA00HrlO5DzeE7oOP_jhXkHXR3hzXHsC7Tma7A6uE_N-mL_AMg9uQdsn3BtEX0EuX8Wc9TieHdcDO0wKJ0m2hohF8kjyLcfWBH5O4nnQH8-DmTqqKMpeMEmz4kpGnEcYQpzEJwifkMOfgXkp-BJ63BPm7MPD5IMvnA9efJ-OH_12ONdRHaEXHYmPn0GbT3hRP2ge9B3R5F9w48cZ3NHwTFOCZ9cR8kiWMPjEHHv24JIKP0uDbwwDnuWQXBXCPDme4Tr6E7HYQPIShFOcRwREDAOGCCMgU2ITQYxg4FrAiEEAACIYJMIkC4QQSCAiqEKKWEGYIVIAKhgBjAkkBABUICSNAEIghIUBhCECECADMAEEEQwBJYygBEOGFCAGIkEBE4YRQoAExAujlFBEAQgsUVQQAEEkjgGFECLKKCGMB0MYIAiggBACkVUCOCIJAMYAAgQTREChxJQkAAUMIUQAphDQEgEhDBJCSQIQIgY5gwAwRggjjBKAUmAwFwAgowgRwgAgEENAAMAMYMwggZASCBihiACQAUOIsoQACQxhzilqBQFAQeAFAwARqIBiDDgEjGGCKSOdIIw4QxARgiCmGFBAMSMAAIIAAowyjkGBgDGIAYEYJJQhxIxzQBAAiBCEAUGREMIB4iQDTAhBCEJESgGwIoEAQaABCixC2DAECWSQEMAgJpogBBAACGOSCgIAMwAQAyghQgHBEADCKGIZAQIJh6wnFiCAAIIGIACEkswIDwSyAgiBDBMAEGCMIhIRaoAHSgBBCCBEKICEEogpAAAChDFAALIGCKAcBUIIJJIgQBAhACQAGqAoU4hJAQAhCiBAAAIEICAcQIQyQAUhgCQgDMFAECCUEBIRJSkwzCDjgGHCCSSMMVAxIIwQVAACEXHQCCAAYUIwKYAggBkCAnAIAAKBIRAJCqgBBCNBkEIAAGGNpUB4BJggQAhiCACKEaUAAQAAIwwxSCAAASICMKQEIIJwIA1CgggFAAEGAEEAAAIJohgTBxiClEIYAGAckQIgZghAQAlAmHCGHAUAQ4gAICAjhgCkARGACQaAI4QhpwQASBgBgBFCEQOMAkYQgAgCCkEhGBGEIGAMJQAhJxAAThhHgCAEUCCJYwQgJSBkAAqGnALMQmgAUE4ogYwAACipEBFCKQCIEEQABAwwAgDLBFJCGCEYYYAhARADACDCAAhAEMqEE0B4ARQASCEmCFBACGAEAIgRA5RARmAAgEKMIWQYAA&meta=recordings%20releasegroups%20compress
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      Accept:
+      - "*/*"
+      User-Agent:
+      - rest-client/2.1.0 (darwin20.3.0 x86_64) ruby/2.7.1p83
+      Accept-Encoding:
+      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+      Host:
+      - api.acoustid.org
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Date:
+      - Tue, 29 Jun 2021 13:32:30 GMT
+      Content-Type:
+      - application/json; charset=UTF-8
+      Transfer-Encoding:
+      - chunked
+      Connection:
+      - keep-alive
+      Vary:
+      - Accept-Encoding
+      Access-Control-Allow-Origin:
+      - "*"
+      X-Envoy-Upstream-Service-Time:
+      - '184'
+      Strict-Transport-Security:
+      - max-age=15724800; includeSubDomains
+    body:
+      encoding: ASCII-8BIT
+      string: '{"results": [{"id": "cecca08d-a3cb-4a0a-95c3-d24df11ae678", "recordings":
+        [{"artists": [{"id": "eea8a864-fcda-4602-9569-38ab446decd6", "name": "Louis
+        Armstrong"}], "duration": 260, "id": "26c4d174-9d38-4e25-a757-0d593573fb07",
+        "releasegroups": [{"artists": [{"id": "eea8a864-fcda-4602-9569-38ab446decd6",
+        "name": "Louis Armstrong"}], "id": "3767884a-81a1-37b5-867e-1a5dff17a8e6",
+        "secondarytypes": ["Compilation"], "title": "Let''s Do It: Best of the Verve
+        Years", "type": "Album"}, {"artists": [{"id": "eea8a864-fcda-4602-9569-38ab446decd6",
+        "name": "Louis Armstrong"}], "id": "22508933-dbbe-3167-904a-a66cecb085d5",
+        "secondarytypes": ["Compilation"], "title": "Louis Armstrong at His Very Best",
+        "type": "Album"}, {"id": "dbb0d5bc-cfad-41dd-a38c-617802e6c407", "secondarytypes":
+        ["Compilation"], "title": "\u201cSatchmo\u201d \u2022 I gioielli di un genio",
+        "type": "Album"}], "title": "Willow Weep for Me"}, {"artists": [{"id": "eea8a864-fcda-4602-9569-38ab446decd6",
+        "name": "Louis Armstrong"}], "duration": 259, "id": "4cde11be-7cb2-47a0-8b4d-4c49bbc5d958",
+        "releasegroups": [{"artists": [{"id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+        "joinphrase": " & ", "name": "Ella Fitzgerald"}, {"id": "eea8a864-fcda-4602-9569-38ab446decd6",
+        "name": "Louis Armstrong"}], "id": "7108712f-b350-310b-9419-232dceaaba00",
+        "title": "Ella and Louis Again", "type": "Album"}, {"artists": [{"id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+        "name": "Ella Fitzgerald"}], "id": "3dcd39f2-5c4f-4043-9534-9581e7191a30",
+        "secondarytypes": ["Compilation"], "title": "Six Classic Albums, Volume 3",
+        "type": "Album"}, {"artists": [{"id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+        "joinphrase": " & ", "name": "Ella Fitzgerald"}, {"id": "eea8a864-fcda-4602-9569-38ab446decd6",
+        "name": "Louis Armstrong"}], "id": "0cbe776a-d90b-424c-bd31-a87a42025821",
+        "secondarytypes": ["Compilation"], "title": "Ella and Louis: The Anthology",
+        "type": "Album"}, {"artists": [{"id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+        "joinphrase": " & ", "name": "Ella Fitzgerald"}, {"id": "eea8a864-fcda-4602-9569-38ab446decd6",
+        "name": "Louis Armstrong"}], "id": "162346df-76e5-4cd7-9169-f047b61421d6",
+        "secondarytypes": ["Compilation"], "title": "Ella & Louis", "type": "Album"},
+        {"artists": [{"id": "54799c0e-eb45-4eea-996d-c4d71a63c499", "joinphrase":
+        " & ", "name": "Ella Fitzgerald"}, {"id": "eea8a864-fcda-4602-9569-38ab446decd6",
+        "name": "Louis Armstrong"}], "id": "50fece99-77bf-455b-97ae-aabb9a848b8b",
+        "title": "Ella and Louis", "type": "Album"}, {"artists": [{"id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+        "joinphrase": " & ", "name": "Ella Fitzgerald"}, {"id": "eea8a864-fcda-4602-9569-38ab446decd6",
+        "name": "Louis Armstrong"}], "id": "c4d57285-84d5-4413-8118-b92f402ad1da",
+        "secondarytypes": ["Compilation"], "title": "Cheek to Cheek: The Complete
+        Duet Recordings", "type": "Album"}, {"artists": [{"id": "eea8a864-fcda-4602-9569-38ab446decd6",
+        "joinphrase": " & ", "name": "Louis Armstrong"}, {"id": "ed801bdd-f057-41c0-94fb-76cb5676cd59",
+        "name": "Oscar Peterson"}], "id": "2cd03f5b-d935-326f-9368-f34583f46570",
+        "title": "Louis Armstrong Meets Oscar Peterson", "type": "Album"}, {"artists":
+        [{"id": "54799c0e-eb45-4eea-996d-c4d71a63c499", "joinphrase": " & ", "name":
+        "Ella Fitzgerald"}, {"id": "eea8a864-fcda-4602-9569-38ab446decd6", "name":
+        "Louis Armstrong"}], "id": "37012d18-8647-3648-87e7-7a66423b863b", "secondarytypes":
+        ["Compilation"], "title": "The Complete Ella and Louis on Verve", "type":
+        "Album"}], "title": "Willow Weep for Me"}, {"artists": [{"id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+        "joinphrase": " & ", "name": "Ella"}, {"id": "eea8a864-fcda-4602-9569-38ab446decd6",
+        "name": "Louis"}], "duration": 258, "id": "b3f957b3-b4d8-4005-b474-c8e2b2f3129b",
+        "releasegroups": [{"artists": [{"id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+        "joinphrase": " & ", "name": "Ella Fitzgerald"}, {"id": "eea8a864-fcda-4602-9569-38ab446decd6",
+        "name": "Louis Armstrong"}], "id": "45aa0e31-ab75-4605-a3a3-f650d4fa4229",
+        "secondarytypes": ["Compilation"], "title": "Ella & Louis: The Complete Anthology",
+        "type": "Album"}], "title": "Willow Weep for Me"}, {"artists": [{"id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+        "joinphrase": " & ", "name": "Ella Fitzgerald"}, {"id": "eea8a864-fcda-4602-9569-38ab446decd6",
+        "name": "Louis Armstrong"}], "duration": 257, "id": "c3097a81-3515-4c2d-85c1-f16a87e67d92",
+        "releasegroups": [{"id": "24577902-0198-3733-b1cb-f10e8c2abb05", "secondarytypes":
+        ["Compilation"], "title": "Ella & Louis Classic Album Collection", "type":
+        "Album"}], "title": "Willow Weep For Me"}, {"artists": [{"id": "eea8a864-fcda-4602-9569-38ab446decd6",
+        "joinphrase": " with ", "name": "Louis Armstrong"}, {"id": "ed801bdd-f057-41c0-94fb-76cb5676cd59",
+        "name": "Oscar Peterson"}], "duration": 261, "id": "d3416b49-793f-4033-aafa-c07483230c2e",
+        "releasegroups": [{"artists": [{"id": "eea8a864-fcda-4602-9569-38ab446decd6",
+        "name": "Louis Armstrong"}], "id": "d9dcdc12-a720-4f15-b59e-012ba87ad1aa",
+        "secondarytypes": ["Compilation"], "title": "Essential Collection", "type":
+        "Album"}], "title": "Willow Weep for Me"}, {"id": "dcdb3c23-e3ff-4216-bb99-d0affb516046"}],
+        "score": 0.999934}, {"id": "de1ef7e2-f8e1-4884-ba6b-ab4f07ecb7e2", "score":
+        0.961762}], "status": "ok"}'
+    http_version:
+  recorded_at: Tue, 29 Jun 2021 13:32:30 GMT
+recorded_with: VCR 3.0.3

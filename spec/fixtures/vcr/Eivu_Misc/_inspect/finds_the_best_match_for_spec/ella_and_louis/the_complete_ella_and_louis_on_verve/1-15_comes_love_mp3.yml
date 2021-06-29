@@ -1,0 +1,103 @@
+---
+http_interactions:
+- request:
+    method: get
+    uri: https://api.acoustid.org/v2/lookup?client=<ACOUSTID_CLIENT_ID>&duration=148&fingerprint=AQADtFL0JPngkAmScchxPvhyEU2N8CFH6OyCHCfhSJSNC9dswjdyJkimE7-CbsejM3iTUkXT7wj7DBpp5Mwi9Bz-43giHX9wJJeOWFmOnwpRPWhw5NCPfDmu3fh4HLmeoGTW49mSos5VXEeeCVbY48raFPlFnBm0HJGsRANlvnhOxBwHPQ_CjDnx53hqVA-eS3hctPORLM-F0GKCpqmD_2iuhM1Qpdk6cEKeKI-hOcnhC-GDK7iCJ3lixEp-qPmMsMs-NE-iEVcm4U6Oj_iR_E6CMJSPSkyOLyGO-wsuPExQKzO0HL-I57gsPMmOB0_RN0TT7UWuQDos8UTMJ0EdT2g-47hKZEn0SQgnJhaqacb2oGcefPixOymapge9PLh4TEqZI2egx0e-Fz7xTjJ-CUfyHSnTDI92PMcfpdgvZIcmBWG22CFekvjx4-GD7TjyQ3WR5ygTHX6O8j-u4Mc34g8RLl2HkMGPC9fRH82H8xkupchJJPAbfEyCOlo4NEuI59Dmw6ekoA-DL1_xXUdzBe30HD_yQ1k_PA-uCo774l0eNEqEUDz6onmO78GPC88uREyPSUySJA20lHqhPE-QEz5xZTliKbmEZDuVJGjyDE8SHqdwhSHxJM_RRDz6K4LeHD_xPzjFLHiWEw_xHF1EOQgTJbmgZz5uZkP5dNASJW-x7_iJRvvR99gFvYSPM1FM1MrR7NMRPEuKXwkeq1ijjaj8gwn3YaeP5EcuWzGa5it6K8V_4SmSdwiTRke_BCeuYE2v4RmS-UeYE3ye4cdQSkfDZCLyK9CPMHxxZkPFScSPo1E61Bce7WiWTwpCniSE78iXEk0sCaVzlPng51KMZHmQHz-xHs-JJuKVEL1yHJeF5EeuGiPzDMeVo5nxjELohHGEJH9w8MezLDuuF_t2pFry4zuuPXiUI0STE3PGRAlY6cGjB9SRY_zx7KiDP-gPvSK-Jsif4BcqGg-649gboyFnIsuhH6HuCXdgvKAy9fiFY_2RxnqGZj6uE_pV5Lng7pLwucF1VNHRRJSC5EmO6Dmeb_hxJiu-8WguBmGf4Ypw54FyHs0zonRcXKmI_3iYR8itYtLRTONx4riTHGmoRBa0H7nQ4zvB48tRNgka4zjhZS1WP8j54FFSQnyRDw--K8ibJlC-CTnM48KPtZEaHGkOfUaeMM7x5FJQ6fiLcKeQPMalBM8On1GG5FN-hIlllCUeNMuFkEVSHz-eSMepLCP-BU8pGf4DHX9xJrlC_HCOKw8eGbuE5NEjI8-N9ziqzHCYZugTKgu-CxcVH2WkGU2PH2HyE8nmB-eyaTga8-iLJ5uH65mConmO6_iOZxVSJc-h50H0b3iU8jBzDe_xFOeSF3Z0XLlENM-HnsePK5iSxbrQhQfn3Nh75MqOZFSC50dzxXiuFJeR_0guGq6GK4l4PLhy_MPIB2G2BokL5jn-nLiOXyiTlWjyC2uVGH-QPMgf_LiDZqSLMtLxH89xS0Y-Fd-hB9F1vHmG68yR5UeyWCbm_biDo9FzYnp0TDnqdHgyJbhO7FGOcJ4JJseuQ09xSXiSe9DeBGFG6cGVRcVpw1XC4vyQ90g-VDyas3jw4leInTkSMT6iKyxaHf9wM0ajbKlwx_iN_QouKWjGImwUxZCeQxV3pdiSqBf0HTn6oFmSZN9Q6kHzqHhyNPnRL8eTIY-SHLoehHkW9D-uHF9SnMmHO0qOw5eCJ8GF5DvC1DnqPLg__IKzJslxXMmR20ZypkFzYnrW41KGSklHwVP2IFGSH3lP7EeuQ8uD8BaPb06CJ8kxijzugc9wHkmeKEf648NjNHHRTTnGbzhNJD9y4lFxvugvNPLy4HgOcuhbMIlCFpceHPsRtUmgyTrCTDceHbyO5ulRJxlxPvA3CiQGTxliXjgXJoP2IMyF37iUxUHTRBRT9MFdPD0qZeKUYTunILyQRGcQuoEeHdqP5phzaBJbhJGLmEomQot5hFcCJjvK6Aqu4CHhBz8ehuDYHFeUIrlMxD7KNcV2Hq5y9MeFkM2RLEtxiniipMHFY5POaPiPd0H2Q_uDmylsTUf5IT-yiwy0PEmaFOFDVD6mfMfD7GgyTXlQOsd5PMFf5EeyrDu8MEmG6sdz_EETk1KCesuJBy9eNF_QxiL-4D_6Q4t8HM0V1E6DZ4aP93hQtR6SZQlF4iTiH00TopuCiziD5qjECw9-7MqC5KXwHLzQHLuNPjiTB3miHM0eoqdxOB8eHd_yI90uJP-D4zv6xAqafriWHo9yvL9wnhnw_IiUKsug3UN5ZGJ-NJGiITe6PEik59gjHW7woy_yDuIRS3iU4xeabEqF8iGCMyXOHP_hUJlI5MW35cGZYzqSH5kyHof54NNxvIdP_HiuoJKi4dHxJwKfo6ZyREpz6Bea3ag2nchz_LCeI3YeKE94nAqaR5rA8MKDUeKLKtSlFPqH_EskNMeHH83xJcE7xciPK4N_6Du85Ah35PiTB1eOMMXmoL0SPB-mpOlRSz5eYsqPLnliMNSn45qQRJtzHGHuoj4ek8Qn8nimoPkRnjl0USzmJFlyPN-RWwJzHvkCcTtq7UL-PFhz_LgTwnu24NOPL_nQo9F04wsVhLm0QUd6KUe9JXhQH0bv4c3xoxJ5PIk4RG-o4B-oFzpRPZmET3mCjxXhKLnwrNGQLF9RMBZjNE6O_cezo1lzVHQaQttS4z9OosyDv2iIifqJi0aoHEmUnMcjkbgePCKPDxVF-CE-PEkbXMcRykkP5UfwJAHTqM7xP0Pz4ceZhvionQhDJ0iUS_ga4YsFQJQhRAjEmhMOGCCYIQAIohQAhCIChAKQCGKcMUQpQowBgACKEFUEMOCgAABAwAygAgAGAISCAEEIQBAkAowjgCDmkAICAOUAAItCJAUQAHxgNEZKOkysAI4BIRRQSggnFHSKUKMcooQBBIBAlggirAdEGiEYAEIBjyxASCEhMDiEKSSFIkAJggigQgAAEVAUAgKYQggRhQhRhBgiEHKGIIYIMkYoQqRgQgChCBCUIESAAAgABRgBIhCACGBAIiOEAQIKQogShBhCOSECAQYcMgAgBAAkBiEnBBLAQQAokwBoQoQwkCtjjACKCSySIAIQAYSBAgHkjEEIswCBIkIYwZhhRhFQjGHGWoGgMMAYIg0ijBCiDGLOIYQYMYIAgoQBACAHFDAGMEWQkAYTxCBAhBiDEKWIICE8M4wIZQAxxgkCgQFKEACsFRIxQBgBhiIAgKAGCiaIEIIAMBggQjIDjAFMUgIEAAxwIQBBxAABCKEUCIAAEkIwQIgxUBhEBKAMIGQAMIYixoBSAADkCFQCAAMUYQgBpAQUADhohBKICCAoEogSQAwmRAiiDAIAESYAE0gxZQSIABhgBAEAAOQYoAIBIJBQwgEmjCFOAEKQEsIgJYgAgAGElBAKAAEEJc4gJAQzjCiCjBJEAESMEwxQAQghFSGmmCAACAMgVIAY4AxQhACEAHAMGAQNIBQIYpwgxjAAgJGIM6AMEZAgQIgxUgBFBCJCEMABAoooiQQFyggBAAMKAamUAEggBRRiAilgARMIAgaEcgQZyAQiQArjALBOASWQEGIIBgxABADOgKAAGEUIAEIRoqACEhIGBDCEIkEgoIwYIxgSABGjiAGBOMQQcBQAY4hTBAAFiFCECkGMQEgoaQBhRAhQIEYAQBAUUBIyIAQEiBEgJEEKAAXAUkoAioQQgDgAlAAGEQKAchQBAwBBzDjgAFFMCAENIUICpIgghDGAhABEMQAoYYQAoxgCyhEFOBAKKWKMMIAIAR0BAgjnAA&meta=recordings%20releasegroups%20compress
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      Accept:
+      - "*/*"
+      User-Agent:
+      - rest-client/2.1.0 (darwin20.3.0 x86_64) ruby/2.7.1p83
+      Accept-Encoding:
+      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+      Host:
+      - api.acoustid.org
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Date:
+      - Tue, 29 Jun 2021 13:32:19 GMT
+      Content-Type:
+      - application/json; charset=UTF-8
+      Transfer-Encoding:
+      - chunked
+      Connection:
+      - keep-alive
+      Vary:
+      - Accept-Encoding
+      Access-Control-Allow-Origin:
+      - "*"
+      X-Envoy-Upstream-Service-Time:
+      - '103'
+      Strict-Transport-Security:
+      - max-age=15724800; includeSubDomains
+    body:
+      encoding: ASCII-8BIT
+      string: '{"results": [{"id": "42d03677-7d8b-472e-b023-1753417a3e16", "recordings":
+        [{"artists": [{"id": "eea8a864-fcda-4602-9569-38ab446decd6", "name": "Louis
+        Armstrong"}], "duration": 148, "id": "074aa895-c7b5-4944-8f5c-e782f3dfa1fc",
+        "releasegroups": [{"id": "9c8ab851-c89f-4c0f-9a1c-35f22e78b741", "secondarytypes":
+        ["Compilation"], "title": "Milestones of a Jazz Legend"}], "title": "Comes
+        Love"}, {"artists": [{"id": "54799c0e-eb45-4eea-996d-c4d71a63c499", "joinphrase":
+        " & ", "name": "Ella Fitzgerald"}, {"id": "eea8a864-fcda-4602-9569-38ab446decd6",
+        "name": "Louis Armstrong"}], "duration": 147, "id": "33c71976-f1aa-400b-a6c9-432605ca8c99",
+        "releasegroups": [{"id": "162346df-76e5-4cd7-9169-f047b61421d6", "secondarytypes":
+        ["Compilation"], "title": "Ella & Louis", "type": "Album"}], "title": "Comes
+        Love"}, {"artists": [{"id": "54799c0e-eb45-4eea-996d-c4d71a63c499", "joinphrase":
+        " & ", "name": "Ella Fitzgerald"}, {"id": "eea8a864-fcda-4602-9569-38ab446decd6",
+        "name": "Louis Armstrong"}], "duration": 145, "id": "95c4210d-c62c-4dc6-89df-ebefd7d08925",
+        "releasegroups": [{"id": "162346df-76e5-4cd7-9169-f047b61421d6", "secondarytypes":
+        ["Compilation"], "title": "Ella & Louis", "type": "Album"}], "title": "Comes
+        Love"}, {"artists": [{"id": "54799c0e-eb45-4eea-996d-c4d71a63c499", "joinphrase":
+        " & ", "name": "Ella Fitzgerald"}, {"id": "eea8a864-fcda-4602-9569-38ab446decd6",
+        "name": "Louis Armstrong"}], "duration": 148, "id": "a153d351-f1cd-4f45-8681-e45a5cf48106",
+        "releasegroups": [{"artists": [{"id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+        "joinphrase": " & ", "name": "Ella Fitzgerald"}, {"id": "eea8a864-fcda-4602-9569-38ab446decd6",
+        "name": "Louis Armstrong"}], "id": "7108712f-b350-310b-9419-232dceaaba00",
+        "title": "Ella and Louis Again", "type": "Album"}, {"artists": [{"id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+        "name": "Ella Fitzgerald"}], "id": "3dcd39f2-5c4f-4043-9534-9581e7191a30",
+        "secondarytypes": ["Compilation"], "title": "Six Classic Albums, Volume 3",
+        "type": "Album"}, {"artists": [{"id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+        "joinphrase": " & ", "name": "Ella Fitzgerald"}, {"id": "eea8a864-fcda-4602-9569-38ab446decd6",
+        "name": "Louis Armstrong"}], "id": "0cbe776a-d90b-424c-bd31-a87a42025821",
+        "secondarytypes": ["Compilation"], "title": "Ella and Louis: The Anthology",
+        "type": "Album"}, {"artists": [{"id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+        "joinphrase": " & ", "name": "Ella Fitzgerald"}, {"id": "eea8a864-fcda-4602-9569-38ab446decd6",
+        "name": "Louis Armstrong"}], "id": "162346df-76e5-4cd7-9169-f047b61421d6",
+        "secondarytypes": ["Compilation"], "title": "Ella & Louis", "type": "Album"},
+        {"artists": [{"id": "54799c0e-eb45-4eea-996d-c4d71a63c499", "joinphrase":
+        " & ", "name": "Ella Fitzgerald"}, {"id": "eea8a864-fcda-4602-9569-38ab446decd6",
+        "name": "Louis Armstrong"}], "id": "50fece99-77bf-455b-97ae-aabb9a848b8b",
+        "title": "Ella and Louis", "type": "Album"}, {"artists": [{"id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+        "joinphrase": " & ", "name": "Ella Fitzgerald"}, {"id": "eea8a864-fcda-4602-9569-38ab446decd6",
+        "name": "Louis Armstrong"}], "id": "c4d57285-84d5-4413-8118-b92f402ad1da",
+        "secondarytypes": ["Compilation"], "title": "Cheek to Cheek: The Complete
+        Duet Recordings", "type": "Album"}, {"artists": [{"id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+        "joinphrase": " & ", "name": "Ella Fitzgerald"}, {"id": "eea8a864-fcda-4602-9569-38ab446decd6",
+        "name": "Louis Armstrong"}], "id": "24577902-0198-3733-b1cb-f10e8c2abb05",
+        "secondarytypes": ["Compilation"], "title": "Ella & Louis Classic Album Collection",
+        "type": "Album"}, {"artists": [{"id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+        "joinphrase": " & ", "name": "Ella Fitzgerald"}, {"id": "eea8a864-fcda-4602-9569-38ab446decd6",
+        "name": "Louis Armstrong"}], "id": "45aa0e31-ab75-4605-a3a3-f650d4fa4229",
+        "secondarytypes": ["Compilation"], "title": "Ella & Louis: The Complete Anthology",
+        "type": "Album"}, {"artists": [{"id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+        "joinphrase": " & ", "name": "Ella Fitzgerald"}, {"id": "eea8a864-fcda-4602-9569-38ab446decd6",
+        "name": "Louis Armstrong"}], "id": "6db7efe4-acd8-3063-aa1b-fb2890273652",
+        "secondarytypes": ["Compilation"], "title": "Jazz ''Round Midnight", "type":
+        "Album"}, {"id": "37012d18-8647-3648-87e7-7a66423b863b", "secondarytypes":
+        ["Compilation"], "title": "The Complete Ella and Louis on Verve", "type":
+        "Album"}], "title": "Comes Love"}, {"artists": [{"id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+        "joinphrase": " & ", "name": "Ella Fitzgerald"}, {"id": "eea8a864-fcda-4602-9569-38ab446decd6",
+        "name": "Louis Armstrong"}], "duration": 147, "id": "cf857a31-4b1b-4e1f-a08f-cd1d2061672f",
+        "releasegroups": [{"artists": [{"id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+        "name": "Ella Fitzgerald"}], "id": "a4b17d88-06dc-41a0-bc4b-d9e1477c55e3",
+        "secondarytypes": ["Compilation"], "title": "100 Songs for a Centennial",
+        "type": "Album"}], "title": "Comes Love"}], "score": 1.0}], "status": "ok"}'
+    http_version:
+  recorded_at: Tue, 29 Jun 2021 13:32:19 GMT
+recorded_with: VCR 3.0.3

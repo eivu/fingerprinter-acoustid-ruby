@@ -1,0 +1,105 @@
+---
+http_interactions:
+- request:
+    method: get
+    uri: https://api.acoustid.org/v2/lookup?client=<ACOUSTID_CLIENT_ID>&duration=460&fingerprint=AQADtIk4TuIS5FfxSD96-MZ_I39R4bvwQ9MvnEX44-jh9cSPhqpx7XhCpNcLfdGR5yYqScphhTIeVI-ITzgip0jiC_-Ip0wGN2WInzg5_Mfz4kbyTBWeSFGCUmhIkfhx4sdFXMbxQdMiGP2JF0U6jXh45F6g452NMFcuvD2ejCR6BY56oR2J33iLXSCXpEfMaIPUHDmPnU7QPGPQr8edPMOzB_eQLjH0Z4OrlMjTC29wRcIlXgzyqIYf4jvwoxcOH8Yv3Dzxw-TxFw4b9GGOK2gLnwkqbnhRHz_m5yiy_Nj-oO9wRUf-Q_aR_2i--OjJBI-O4_ATPHM-JJckInL1gE2x-gp6M3C54gmO8onwUPFwDc-mCZ-Du_CL58FfJBfC9OiPn8XjpLiMUs9R5ylORqiOZEGuGVfZDFcs9B_co84x8QGT5eCONJl2Csmzc9h_HG_yFLcyI1kQHs_x5MfTBq5ofHlxSsEz4c1T_EZPocnxJHkShNQlJDyuJEHaJFFaaH9ifHoQXMcTbUWSJbsiIXeKZwm4HNeFx4N__IvwLMePPUZ0SD8iij2eTBPq7FHwa-hLlOHR7Md3PG4S_ChzNEf-EHqIdMmDSw-HSyTwwNWRL6IF_cgv9E2K6zSuhEb-C4a29cN14uSgI4d5_A6FR6hfNIlz_B_-48YT_MePKT-RzROmB7L2BvmHy0ST60GPW8ajPAidFMmSB79SYVSVG_eSgM-jwRV-NMtyhJQsBUmZpsOUJ8nR48Nh_EL-IMm_4M6I4_iIb-iVwc9R5PjxCzwKikeP4viR9wRw16AXeGfQW3h2vOiPLHkIhSbi4KgP-6iNHr0ePAnuD89NNKGO6xlqJA_Ca-jx449wNKeCnsiVEMmFXw6aZNxRp8ez40yeCL1ENIfO44ng_sLx_HB8zFmS0mDoY8o7IfmRn8kx5XFEsMTU4zvq9Gh-BMmP57gkFm6Ii_iPZgzRl9hjEVkyJUcFfyLkZ_hv9EfLpQtO9HsGLQ6DPHoI5oW9HeeLO3jyYLuSDGecFLmQ_Lhx4wkTolQUM3gqJXiOp1kCh_bx6PiRH8nhl_jyYE8OHx8e_EiPLz1UioGWZUmOPjkm64yCxh8DPTtyCeWjBj4FR3xwo42DkjyaFPmnIHle9GjC40uOP2g-9Axu4L2Q-vhwPujxI93xHfmPhBdWnsfR1Dmer_jRJ_CPtngR5sqRbBv-g3lxWQnm53iOH_5xHNWNxA9i67jwjEfzJSiep9h1KYi4KIcaTsWliEPPQsuOOT-kPYiWHD_a5EfzH_9xPCe-NDScnXh04Wi-o_uOHz96-Cle_HgO_zjyHXIJ30OuHA9y_DiuWXgsXLiDHk9E_E-GJEx3wQS_w0-OJ3iEf9CPHlTiJccLo1a4I-I1qOeRM_iJDk244BGPPkWO4zwOmTf-Ix-Po8dxNOGE8IaaayTyoJfwK0CTqdzwCPEL8U2GP3CFp2Ghk8gD_wnx4HiC9zhCOxOS7NmLyl9A5jKeYGokxfiRI-GOfsd2_OmA6_CiJjgz8NKBXVGCZ8gpQSeLMFWk4rmmwKMs9GieoCLF46SToLc2NPXxLMGjiBReJuhHD8niB3l-vIdtPFumBf9YNNdW9GOOE4cWvkElZccze_AZXE2EXBeSS8uD2sfRJ8dlVFTw4k4UnMnxo5nG49mTBB-aKgzq5EDlS0Uz5kpwNUmKXxl-RHJySCeRZk8VdNOH1xz-GLvhPMpx5Jp0JJ6Y4k_gaDme4ZjiHH0e8Df-JC4UUhKFR4s83N5w-EzwnMTRo_meIE_2xUg4JezwH8ePzxKqBo2e4mcC_3ic4-eEprmCfviVI59E4aWh94j0fJgyH9XhpCG-HN_h4x1RHnqURvDxH8dzGm9w5guapRe0B__wORmuJD9-Dv7xZMePZzqSiUkQNXJeVKuM5s9xWKKE-EiWo2GOHrUueIlahHoOKSPCtDp6-Bks48HjFTScY9amo86DF4E-5HiOkzme-jiOPEgy8E2xJ0FMKTcSf8d5bDf-wJ5yRG-Q-PCxP2CyUJUw0ceH2jlsHfWL60mMkxQuLfgRnjBDK5GQXl5wqriDH4d5_PBb3MfhH8kRXYLbCybTBUw5C4_G5Kj4EQ1OiF2SNHgSTjj4HGeOXuUxCUp_4kR_XD_KjGGCX_iLHMmPihIaq8fVI6xqfPgFHz7y4j8oH7PgHe1RotGL_5iiFtpL_MG_vDh4PcUe3fjRKD2qI7-SIpeu4MO5w8cVmTjVo8sz-JaI8Pg7aNfhI8-PO4RHoeXRw6OOK_JxxMd1ZZCTBT9yJceRXsdzEVpHB816hLiCnoafJEbp4kbyI7wmwnl2HF-ewTWJP0WVSviO5EqQG1ce4ukV_AumPJjOHs-PD80UHvWD8-iFJsdPfAl-ornQ43eQHzrKJjne1Mjxz0GzLriOJ_vwWEQdL4GVD3d79AmO58h_JInIB5zOY_1x-MR_XDnMnEi-BLny4Beu43gWOvgjVPCL6sJzCXn8BFo6HXl6NFeIG716ePmOKlFqJJeeZEKeHUWD_XiiAwEMAYQSIQQxSBghCALQFEQJAwkoYwDwgFnBAEPSEaEIBAkBxpwSSCmCDELCHCEIUEYQwpQhwhggBDDAKOCQ0RYABYx0UlkliRBUOIYAQUAxgIQQRgBBoFHACGMEEIQQhwEggBAkHEHICcAIAoILCRyEACDnAHBEOeqEEEQA4YAwgBmhCGAOACQIMwIQowASxhgQEBIEIocEJYwgZrRIRhDhCDMOCIeIwwoAxQwgoAJkADJEGCOAMAiYLwlBgAICIAEUIUMsIYAQCRggjBhiBQAQGEsEUEYoJgAkBhnopARMSEIBF44cCQRQTglIiBIHaWEcI4AZRZjxBjoCBlMcCGSIIMAxRQwRIhgGESLAAACEoE5AC5gikBEgASIAAKIEIkAJIJABgBgjDESUGucAQAYEIcRSwDAEGENaKCWEMIJJAY1ABiAigDBACgEJUIABYoUUDClgAIGAMEKtMs4QQACGAhhFhFLiGoAIYYIRIRBSkglpHAIGKICAQowRZwwRCggqCFDIOUMBIqQgBaxIAIFlrFEUAAAMQIoZJZBUiAhogMKCIEWVMQAAYgzATDwAkGVGAEUFQooIEgkxGAiioKJGEIaAQZIAIZiUBECEhBEMMMIUAkoBQAAhBAsBABNCGAYWIAIgpCggRkshBBAgAAIIAVAJQoCRgDlyBBGACEAoQAI5IQRwQJiGHAEKMAYQIJAYQAgCiEBDqBXUSSAYAhAQQISwAAhAEEFAMUE8IQIYAIQGFgFDLJWCGkYWBQBABBiVRBAgDKJIAcEhItI5ZBAhRngnKDIOAoAUEg4hpQgAgCk4BTEAEOEAIwYJRg2FSAEmHDKaIAAUoYYJAagAADBgBAEKQAaMIARYBYwChCgBFAAEQEaQAJcJQoyQQAmlkBBCSGAMKQQYRhgGQgAAkSAMCAgYIxgJBhAQxAipuFDcASCEMBAQAxkVBhAjCLMAAEiwsg4AAh0SiABDECDAOMEMEAQYobgwAA&meta=recordings%20releasegroups%20compress
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      Accept:
+      - "*/*"
+      User-Agent:
+      - rest-client/2.1.0 (darwin20.3.0 x86_64) ruby/2.7.1p83
+      Accept-Encoding:
+      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+      Host:
+      - api.acoustid.org
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Date:
+      - Tue, 29 Jun 2021 13:32:28 GMT
+      Content-Type:
+      - application/json; charset=UTF-8
+      Transfer-Encoding:
+      - chunked
+      Connection:
+      - keep-alive
+      Vary:
+      - Accept-Encoding
+      Access-Control-Allow-Origin:
+      - "*"
+      X-Envoy-Upstream-Service-Time:
+      - '86'
+      Strict-Transport-Security:
+      - max-age=15724800; includeSubDomains
+    body:
+      encoding: ASCII-8BIT
+      string: '{"results": [{"id": "902ff53b-b854-4f94-9674-7f57f452a7c5", "recordings":
+        [{"artists": [{"id": "54799c0e-eb45-4eea-996d-c4d71a63c499", "joinphrase":
+        " & ", "name": "Ella Fitzgerald"}, {"id": "eea8a864-fcda-4602-9569-38ab446decd6",
+        "name": "Louis Armstrong"}], "duration": 460, "id": "68c3f135-52ac-4cff-8ee5-8546f8f8b044",
+        "releasegroups": [{"artists": [{"id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+        "name": "Ella Fitzgerald"}], "id": "1e951b97-f515-46df-8ec9-4c7b0ed8416b",
+        "secondarytypes": ["Compilation"], "title": "For the Love of Ella Fitzgerald",
+        "type": "Album"}, {"artists": [{"id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+        "name": "Ella Fitzgerald"}], "id": "3dcd39f2-5c4f-4043-9534-9581e7191a30",
+        "secondarytypes": ["Compilation"], "title": "Six Classic Albums, Volume 3",
+        "type": "Album"}, {"artists": [{"id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+        "joinphrase": " & ", "name": "Ella Fitzgerald"}, {"id": "eea8a864-fcda-4602-9569-38ab446decd6",
+        "name": "Louis Armstrong"}], "id": "0cbe776a-d90b-424c-bd31-a87a42025821",
+        "secondarytypes": ["Compilation"], "title": "Ella and Louis: The Anthology",
+        "type": "Album"}, {"artists": [{"id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+        "name": "Ella Fitzgerald"}], "id": "276af960-de9d-4863-90a3-893861d928d3",
+        "secondarytypes": ["Compilation"], "title": "Ella Fitzgerald: The Voice of
+        Jazz", "type": "Album"}, {"artists": [{"id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+        "joinphrase": " & ", "name": "Ella Fitzgerald"}, {"id": "eea8a864-fcda-4602-9569-38ab446decd6",
+        "name": "Louis Armstrong"}], "id": "37012d18-8647-3648-87e7-7a66423b863b",
+        "secondarytypes": ["Compilation"], "title": "The Complete Ella and Louis on
+        Verve", "type": "Album"}, {"artists": [{"id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+        "joinphrase": " & ", "name": "Ella Fitzgerald"}, {"id": "eea8a864-fcda-4602-9569-38ab446decd6",
+        "name": "Louis Armstrong"}], "id": "c4d57285-84d5-4413-8118-b92f402ad1da",
+        "secondarytypes": ["Compilation"], "title": "Cheek to Cheek: The Complete
+        Duet Recordings", "type": "Album"}, {"artists": [{"id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+        "joinphrase": " & ", "name": "Ella Fitzgerald"}, {"id": "eea8a864-fcda-4602-9569-38ab446decd6",
+        "name": "Louis Armstrong"}], "id": "162346df-76e5-4cd7-9169-f047b61421d6",
+        "secondarytypes": ["Compilation"], "title": "Ella & Louis", "type": "Album"},
+        {"id": "7108712f-b350-310b-9419-232dceaaba00", "title": "Ella and Louis Again",
+        "type": "Album"}], "title": "These Foolish Things"}, {"artists": [{"id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+        "name": "Ella Fitzgerald"}], "duration": 458, "id": "ae063822-100a-4ef4-bb3a-4c946fcaa2df",
+        "releasegroups": [{"id": "bc647880-c3d5-325a-8ab7-39ddc0282fad", "secondarytypes":
+        ["Compilation"], "title": "Verve Jazz Masters 6: Ella Fitzgerald", "type":
+        "Album"}], "title": "These Foolish Things"}, {"artists": [{"id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+        "joinphrase": " & ", "name": "Ella Fitzgerald"}, {"id": "eea8a864-fcda-4602-9569-38ab446decd6",
+        "name": "Louis Armstrong"}], "duration": 456, "id": "b6ad836e-0809-4232-91e1-22bb3cca80c6",
+        "releasegroups": [{"artists": [{"id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+        "joinphrase": " & ", "name": "Ella Fitzgerald"}, {"id": "eea8a864-fcda-4602-9569-38ab446decd6",
+        "name": "Louis Armstrong"}], "id": "50fece99-77bf-455b-97ae-aabb9a848b8b",
+        "title": "Ella and Louis", "type": "Album"}, {"id": "162346df-76e5-4cd7-9169-f047b61421d6",
+        "secondarytypes": ["Compilation"], "title": "Ella & Louis", "type": "Album"}],
+        "title": "These Foolish Things (Remind Me of You)"}, {"artists": [{"id": "eea8a864-fcda-4602-9569-38ab446decd6",
+        "name": "Louis Armstrong"}], "duration": 461, "id": "cb39dd1f-3a6e-4d41-ae11-f1eff2037ffd",
+        "releasegroups": [{"id": "9c8ab851-c89f-4c0f-9a1c-35f22e78b741", "secondarytypes":
+        ["Compilation"], "title": "Milestones of a Jazz Legend"}], "title": "These
+        Foolish Things (Remind Me of You)"}, {"artists": [{"id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+        "name": "Ella Fitzgerald"}], "duration": 456, "id": "d2e7ce0b-5764-4108-8e7c-bcdbed3b1ab5",
+        "releasegroups": [{"artists": [{"id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+        "name": "Ella Fitzgerald"}], "id": "0c78760d-a9d1-3965-b258-428c923dec54",
+        "secondarytypes": ["Compilation"], "title": "Gold", "type": "Album"}, {"artists":
+        [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}],
+        "id": "69cd4728-672c-4a5f-bf78-43fc02635c36", "secondarytypes": ["Compilation"],
+        "title": "Golden Jazz Box - The Six Best Albums From the Six Best Ladies of
+        Jazz", "type": "Album"}, {"id": "4d8231c3-9c6e-3459-94d0-8e5f2ab713ed", "secondarytypes":
+        ["Compilation"], "title": "Forever Ella", "type": "Album"}], "title": "These
+        Foolish Things"}, {"artists": [{"id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+        "joinphrase": " & ", "name": "Ella Fitzgerald"}, {"id": "eea8a864-fcda-4602-9569-38ab446decd6",
+        "name": "Louis Armstrong"}], "duration": 456, "id": "d851e719-c44f-4f25-bd92-57c13997c39d",
+        "releasegroups": [{"id": "162346df-76e5-4cd7-9169-f047b61421d6", "secondarytypes":
+        ["Compilation"], "title": "Ella & Louis", "type": "Album"}], "title": "These
+        Foolish Things"}], "score": 0.999868}], "status": "ok"}'
+    http_version:
+  recorded_at: Tue, 29 Jun 2021 13:32:29 GMT
+recorded_with: VCR 3.0.3

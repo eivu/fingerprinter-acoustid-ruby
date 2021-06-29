@@ -1,0 +1,50 @@
+---
+http_interactions:
+- request:
+    method: get
+    uri: https://api.acoustid.org/v2/lookup?client=<ACOUSTID_CLIENT_ID>&duration=219&fingerprint=AQADtEriaVGcgLpkXE10_Ogy_Tie40bzo0vB7cbFgzl85cj0XEjGpeiPbxfKp0KZKMeRdjs0Wcpw_IeuR8jDYxQPn3izoM4Fhzx6BZeCMPtQRcelQ0-IXDkccT--xJjhoz-opheuLAcVHM92wYsm4pqS4Mdx8Aoe4qGKfIGuJPCP6nGCRkpiEZqJfxnCHPwDjzna6TFCK1FwHpKyCuE2_B7e4y2NfIb-IC-eCJ9-PP6RMt_xQvpxYSIZ9MGzbfih6BH8480zVIu-4EQlqYcP4Qh_nMcjeQhnlfB4KOqjIFeHC5eUCr6G4xKayUfrxEKfHE3FB_maQeWO_ENFs2icLMd1BWiOSVwoPHONK1eO5HmGXIk--GmC_6gx58GTw6HCKcg_NH7xvHhi4VzwxKjGBxb_whEnBt8RZvzxaEE-NBdKOce9os8neDoUySe6Bs7iPCg3_biEH_0g6aiPZ2Xx5LhIC6TW7bgYMviPmkekXMjFGdVzWM1xJgz-4l-C5lmOI__w5MkRJh-6Mieu43kq6HJRR1Hg6-hz6LnQ1CiV4-NRfoLz4pluaE_q4k6VQjmCeoWbxniGiXiOnDk-Dc1JhPfRhyOs83BU9AxqBc0VDnmhXLTw5NCZ414QPguJ_3CU6Ef5I08I3chzNKEtdNNaNPEn1ImO8tmMjT889EetcGiSKCkX_FzQp2jq48E79Dya7wouBjnkcEfe8OgqEf9hH6eCFz--45uOJyr6FccTHP_hPHhEEs3mB6EP7UGaJ3jSIdehSUWecMctC_uOWskXIoy_QEfe4fJR7cdzTcjlIDlH-ApavGB7MFnpoFVoPDty5of0HreGRt3RE7FTMA4v3Do2RQ7iC9qR41qPanGKG--HP3CX4w2SB-kfNMfz4Mx1NFmco_MQ60jmB9ODXIQQ5rxQhvjxZ8P9oClR5pgbSWj-o8oe5GEV6HqRL0dJ5mie48eZGI-zw-PxhxF-TDnRM0WeQ0v0ocp4fB76FA0uOca5Hs-D64FK5cSZ_EF_iEkZRCITHGdG1AmDG_0SnLmCPGFQZSaaJkPER8HOGZEy7dC-HLkfXD4uKkdzTpjmCI-OivnRcDlK4grchKiVH3nQH2L0EKn8oKLxx_BxHY-O98hVI5mPxsePn0EXq0nwjekxK0nQ9Pix50EdB00kHV9QHmF-6DhlaLrgLnMQPkeTB1Wm7OgtoTn-BZeQJwl06QiaOEenMcNfPDqDWUcu9IrRlAoeqH7Q5RKu5MJrMFYP_UApQdeRKQuFd8XHo-bxGQ-Tg0bzIxmlRCFy9Cma5MbFHG1EKwh_HsmZ4xkqcYUT9XiuyGjWMTiD_oLrQGcOLzt6ZVFUVHk8bKF-PDmcH92cIRSS5wn8XMaPesCvo8-C5lmj4NYHp5nwHMml5Ehf7OB37Dma_UVfBU95_OjxFFeixBv05GgurbiS6MQa6cOjJXh6POdQ-2j84McPR2KKh0kuJOtIIT_xFyV7TIerC19uOFSOKsluAc0R_kgeHacyo7mCssez4peIOwn6XPBRUfmQ09CdG_HzBDmRhy1e_LieCCbZB9fRF67ywz9CmRkDpdtwTSgTCmGuDP_h99jn4Xmy4FmO_2i-5ETIjCh3VLyQ-8GD46JiYcuE8zh67ciSB_pOPLkQ2heuB1UKtvmKa8cUb6jk40kUHbeU4z5hXBqXCHES9oP4I08i1DGHZjIPL4-CX8XPo3oUHlOapcTRTKaC9B6SUV_wJAt-ZahyH0zyJHig5wzxRBfOPISPB6e040kg_6ieBE1-XAqeJMmHP8hpJC4dNKGIOskZ_HgO3riLtWcQJh004heSaSwTNEmLixvx43wGn0HSI1_y49lTodmNFze6RTnuE77wLMOv41OINH6h6zLSM8ejwZWs4pGV4D4qhTfCVMgTxnhGNMuOklmqEHcVXKsx2cGUH3-CicYfUM-GX9ii7EgcSUfc5Dhz-B7hC89keNeDeqGIM8eXFI30oTJyIXny4FzxJMWLUTkeoqIyx2DiKQz4HflH6NqIC5WPKdqCP2qQPMeTh_iu4BP-R3hywuWDJ52QZ-mg-ITPHFfAqIeoKUmOJtaG40na4Bo33PCR7UuMpzkuDY-yo5kUFmciJGvEjENEvTg14tIrNLxRfsKPb4aP5Eau5PjxHF8SWWgeJ-hz_MekhFFi5NJ8SLEQHc3-FKVXxIuSC96yZDgf3Kj0Il1CL8IjZ4WdF6eCW8OPPIeeB2HOFKeDH0eZ8Ei3RA80L0b-o1zyoYkSUUQjL0d_DfkZeMyRPMmFT3mEl4HPBc9x-iinpcvQ9LgV-FF4XBfgXMh34kXoB8113GjycOj4DX9CfIFHIXkkxDdx-MITXEzxIzy0LNFehIsyws8RytmI5JFx5ceTBN5f4eKEJ8mOP-iDZrmP-0FybUeuiFQxUSe4Hd32oKqLhjn-4VbG4Iqw73B84kyIS8d0MNkxXQqR8CHStjjz459R8sdv_HiSI89zTWiu4Ed6Hl8Uo5m0xBO-zDg-EldcWJGzIf-QVLmGPsVWUehr41sasD2cPcQTbcfD4PCcZLiOZEfqG-2YinjHJdiP4znuYNqOJkp15M-RvOiTHNRzfNENlMTN4EpV5NGQ5EMP60UlP6iVCw9z5Dx05IcTKx8-xGagbEuOGpWzB--Xw1GVQ4ezpDGu_EjVBz96GfmhOfBDdOHBKU9H_NBzZIGbHP_xJHDEwpd39Hh2XMwWNBETodMDTlyOZxYiHeKPkMfUHY40HR2PS1LAyMTHH14vPDrq6Ph2TEIYNdGRPJSOkZKFOqaM5sOPMgcAnAEEiEYUUIwBRARgCiAipHICEIKEQAYJaQiDnDDiACBGEgQQgEEQKC0HVBkkgAEAKaGIYkAQgSRCggFigCBAQESoQEgJBQgQggGsBGBKKeABQEoIw4QBDiChBEACAQWQQgQApwihgBFpAEDKCEsgoIAAAQBADmClFEMAAEWMEA4KCRBgAgBsDBICAEAJIEIQAQkygBggAHKMGUMAYEAQIoghhAMDhABGIAEQEI4IAYwCwCiFjAQAAEOQMUAowIAUBkhlKHLMCGOAJQIZAwAwABAkDAAAIGUII8AIIQiAhDBAjDSKkEIoEMARg5UhQDDphAKKOGCEQIIQgIAhBhiAFABOGEABEooQwgAwRAgIBDBACUOQIAACIIkyAhgBhFHEIAgEJwAiIgwTBBFqlEUAOCAAM8YwQxwRBQBggFBOcEMIBAYBpwgSCjCFkDFIGAccQEgoQ4ABBADhhBJMGeCMEQIxZARQABACHBEAAMCAUhxYQYVgQAFOEHICAAYoYAwx4QESwCCDjOGIGCkAEwQh4IgjVCHAAABAKCWKIwoQAIAACgBEAABIGYIIAgJQBQykhDgHCCIGGQGEQEwIBwASwBDBEHMEGACEWQgxAQighBBDCJGAISKkEEggIpQijiAMCDMGCkOAAQIYIhiCwAFClFACCUAQIwYYZhAAEgAnEAVOOAQUJAAAhIUxBDGmBCGMICOBQIAgQhwCAAqBhAAGMUIJoQgBgIghQgAgnAWIQIawIIQgYIAQBAAhDAKcMIEocQIiBBgXzBCjhAFCKEAAEkQABgEUBBAmQABACYAMIg4gAS5ClBiCjETCEAIYEogoQIggAAFEjBMEEYEEUFIIABARwBCDEEIACECtAUAY5ogDRAGEIDCKRUgJMYYrDLAQQhAgEEAACAOMEUgJJchwwAAhBDAQIaCIQEYBBSRBRiAkgAACIQQAY4g4BBwBhBgBDDAEAEEUAw&meta=recordings%20releasegroups%20compress
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      Accept:
+      - "*/*"
+      User-Agent:
+      - rest-client/2.1.0 (darwin20.3.0 x86_64) ruby/2.7.1p83
+      Accept-Encoding:
+      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+      Host:
+      - api.acoustid.org
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Date:
+      - Tue, 29 Jun 2021 13:32:39 GMT
+      Content-Type:
+      - application/json; charset=UTF-8
+      Transfer-Encoding:
+      - chunked
+      Connection:
+      - keep-alive
+      Vary:
+      - Accept-Encoding
+      Access-Control-Allow-Origin:
+      - "*"
+      X-Envoy-Upstream-Service-Time:
+      - '95'
+      Strict-Transport-Security:
+      - max-age=15724800; includeSubDomains
+    body:
+      encoding: ASCII-8BIT
+      string: '{"results": [{"id": "ac72dd23-6c44-40f8-afd9-93c8a6eb8a0a", "recordings":
+        [{"artists": [{"id": "54799c0e-eb45-4eea-996d-c4d71a63c499", "joinphrase":
+        " & ", "name": "Ella Fitzgerald"}, {"id": "eea8a864-fcda-4602-9569-38ab446decd6",
+        "name": "Louis Armstrong"}], "duration": 219, "id": "e5abc0ca-6a95-487f-895b-6c48b597758b",
+        "releasegroups": [{"id": "37012d18-8647-3648-87e7-7a66423b863b", "secondarytypes":
+        ["Compilation"], "title": "The Complete Ella and Louis on Verve", "type":
+        "Album"}], "title": "Undecided"}], "score": 0.999934}], "status": "ok"}'
+    http_version:
+  recorded_at: Tue, 29 Jun 2021 13:32:39 GMT
+recorded_with: VCR 3.0.3

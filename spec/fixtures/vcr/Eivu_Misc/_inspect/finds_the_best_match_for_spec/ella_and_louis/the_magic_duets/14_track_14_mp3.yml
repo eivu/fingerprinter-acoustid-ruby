@@ -1,0 +1,81 @@
+---
+http_interactions:
+- request:
+    method: get
+    uri: https://api.acoustid.org/v2/lookup?client=<ACOUSTID_CLIENT_ID>&duration=156&fingerprint=AQADtHqYJKGEO5F2fJOcBNWRFwmfoXxlPAqPfhocB-HDHd0O58ePfDq-HOcGpyHq4Ud5Iszx_NDED_4TfOTw5XhySjjqvLgy5DyepUIvXXDDC5d0VH-C99hf7HvxKDku4poY5LMVOI0PQfOOZjr0oK0-eEd14kf448OtI_fx405INM8D7UfTx8jT44L3B-fD40uOMJdZaHpwhsh1XPOGWpmFJpIYGU-o45krpH6CpOHwR_gOj8Hj48aUp2OEsDOkcEcTP3giZdGOH14f_MaNpwWTTYjUXUlwXRHhH99w5cW3ohb6kDHyI_Fhh8WVpSqeL8ENj4qOHz-20Dkehg6eSxmmnEPZGO-RJw-SRw_8jMHz48xhRzz-43nxnEfzo95iaFRyYWKW48f1oHlU9MF_ZIO4ZEPkhSceHulTC_9DqPFxNHOOXg_yPWh4_HCOJ_KLayl69GiaHntYIjwjiM81pPMLLzzqH88VPFoEn0Wu6IO6CCH5YptzlOmH705wJjm8IC-hp4zRNHqO0NrwEH8exMqPpzl-KHsYHNTNDHcu4tFxoY14eCxCo-dh36iOvCfxo-EKcVM-dPPxX8J1-IReCnk0H00dB5Vq48yJrtnh5SiPCFeOM3gjIdfRS_hI9FI4XDl-XLRQHc9-Ec2m47rwI0xHJOOOGs3xKPiP50yCeVJyCXGuI-l5PDKanWB-9A_evugmZsc_5JSJJ2HyFLGDow48jRtyJNFx_IePMWwm3PHxGBfyk9Cdh_iSHC-ugiGPMDmH68aTGOQ_XI5Q56iV44yD5LmC8BS2ZXgPV8cvNEXsE8_xMYrgVkauoakYF-VRo0kyH6MS5TiPpjrqJBxyiHOQJ8SXOOAy0cN5uBe-5AHDxMS9HD2y_QGv4yYx9UH1BZ8NXS--J9Ay9IyK5szQJUcsDW6CB7EVyB8Rf8F34XnQoyl3PFnkAA-D3Dr0ZNKCnNaDPmiiLsSThBbxZI-x74UfJMijHHz44M9Qnsf2IGRz6D_yB2fQfJRwyRGPTjpxifiRKyeUjw9C8YRFXUH15OA14Try5McfQ6GzBrszMD9SzEYTaseT48V3OMud4IpM3ESlH43K4Ep2JHkeI3Y-vDvaMUej4DkeSRaaOEkS406C5llCJBeJMBvqlbieBlUOc18IPycRGX6O3IG35HgXfGiS58FzXD_uVTLOODH6w5UStGpu7Dcg9zhxHT9-UI6Gt4zgiySSZ0ecZA8uvXjeoDn65CpyKc2hH3lxJkeeaG-QLE_RR5sSoj983DlEJWMGRzr6JJlS_ErgqzhTPNGHzzLCJ4mD5kw26PiFJ0ez5-i_Ivzhpjma8siTHBhzCtUhLl9wvTguJUePfMNNPBd-JWh8IjrxJ4S2Mkee5bg-PA4uSsIeoT8aPMOb4Izw7DVuC16cCI-OPQWvx-gzw6eOXEmghkf48PiFS6KUww_-EM-RfR-aRDqqp8e1EcgPH9_xbEbeQ8skqQjPo0nmNEZl6djhkx-e41mP70fzPnicI4_QaXhmoanjQ3uR4_rQJEmKUtmDMwr6Hf4_hCe0TIkuhEoSNxgfGw-a5-AjNEui43JIIT76sGg04n2gpxLuB4d-lBkjMNmLX3gaBU-k4JlyaNLhZckxfQ-OPWFGXPFwLw7CPUMTS3gIVj-YLPqGhO-UILwOXqjyBFmST8P1hFAeVSvyOEczcTqqBqGyQ3eKdP0xMZOKNxmO6_it4Qdx4T98FVfGHE8e_BLOuMG28BDeBj_h4vaCZ_mCJhkRagmrIvlTCj88Mg9O5BJT4oFuKLqOMOHxeMcP5kZz5dizw5GuBteINB_0d8EfxFl-7ALz4oEfXbjKaMS149oR_UjOw4-DKs1EjD5eeE1G_DGe4IvwhEeeEX05IXzGJXg-nEswBl7-IDlzBdGl4Onhgk_wvcHzHKrhX3iUNcaLZhemTg9xItl_RE-ycAG_SBKeB02a4wr4GH6Kz1SQLw-SbUo--EzhP5iPpsNztF2DNz8qIT6SM1inM-DKC3sON2mPFyaPi3h-uHzwSBFxKcifQj9idIt4XDs-E40eC0l94WahPVGMPEuMi7kx_0EZDlz6oG-NKaki_NmQ7BfCjNiP64nAR9_wESeaJQr6YN8fPIqGMJfSoBLu43KEME6ObnqEZ6mQX1B-ZDym5DlK8cFzNDv64w9OVsVDfBGeIxSS5cdVXXg0WRGuiMSUGn1Oo3bwZAlFJPNT5MlRli-aeAeZRC8-TMnjo59xTA-ibdMDLb-Q63icw2ec4JKPxDquFZHkLEcj5jjNBOcefDqY1JnRLcmOUTxeNEcpJePxJEezH_0YnEFyHjmqeDm28IabPOhzPDn6I3mRLtHxzBqFL2GCp4mK_3h2JD9Cv8fzoEdD8A6SLybx5-iN5Edlcfjh9BL-x3jBMIc_KqijZQly9NBynOlBB6qURVCu4_ERZmxR58YjE31WNE-H73guVDzC6EWSUi8uPeCP5kcvBbyUBA-RVnGD5Dl-1M9SNA6ejbiVw8_BvqAXlEquIDdJKH-O6mkQLj2c49GOKxE5TD-P4wSTpESlLAvXYNaT4Dl85IfaJHGCOLlx4ieaKnvQB02OfItyJNXKw9MT9DJxhnhwYSKZFFeG_Ap66EnCBeVJOBOaJFKOPzj6oCmDHb8Qi4yRN2OIaqdxoYkqPJMKfUffotZRjbPwMrFQiQ_-CeUFLUe-hManfXjWSfhmXAlOfMYXNsGTHFVmEs6OkJSgXsk5vHrwT8SUS1D2LDuhMUM66sGTSE_wBePxfxi_4HmO6xMej0Gy_4iUR8IT41IuHM964g_-gElSSqjoHM8RWczxhBf0ZClyEQcEiLBKCCKYMFogQhQwBEFiFCKEEIAII0IkpAwTABABhBAACiUUZUAQAAYxyigjgDCCCCMAYEABBgQARBBgiTEGMKaAMUgSAogBwkCElFiCECIZEkoYZxEhkDBJCAMMKEkQMQARIAhRyAgHABEAGuUQE0QI4gBTABgBFRDCIOgIBUAJLYwgwDBDEKJACMSAAEAKJIAmAgAFjAPAEwKMUoAIwIAhxhBAACMMGMEAYBxBBoQiRiCgBAIAAIUMAYk8AoAhAAAlCBWGEGAEUAIQ8CUjQilgIBOCAIAEEAgZBAAghCEiCCAKKOEAoYASZIgg1CAiBNLCGEcYEIIhowBzBhrBiAKICEUMYAABRYBQBBhmAKECGCG4AAABqRwAQgGhCDAAEGYEkQAhAYEgTCAAiCHEERAEBQQIQgAgwAAGCGCIEAAIUUIICwwyjjhEkDEAIKaFUAIKTYAgAACkAUIECkUIVAKIBYhwQBgljFKQMESAQs4wACAyRgABBAKOIiEsuQAI4oQHRiBimRBAEkAMoAAQZQAxAhBilABQeCAsIIAIBAAwEAFCIQGMKCCEJYIhgAkxBiCIBFNQQCERQFQIQAUChDogAACAACaMEEZBIBBURBikmAOCAAUcMgQwhRgRQEADjAAJOAgYJhYIQYyAQACJhFBWCGIMMVpQgJiGAgFAlRBIAgYAMAhpJwBhQCAkDSFACMIIEFIKRAwAxiMgCDFIAEQIcQAwgxATQgBAlCOGCYOAEEZIYgzgRAFiiSVAMCCQsYZJZRwXQCDMhaLEgAIMcAAAIoBSCgGAlAEEK6GAMJAAIBhwChFgBDSYEmMEMA4KSZwhwhkGgEIMAIeMMgwIRgQkjgAkhJAEAUC4MAQUZAQwxAhkBHPGGIAIJMIBBSBxAgAnDGXGCGOIMIQIATBYygAHhFWEWAmMUIYxjhAxShBmLCFIAcQAYJIIwoTzRBhkMXoGKQiAEAAoAAgCyAsCADGEICSMUI4hSgBxjCilAHHGcA&meta=recordings%20releasegroups%20compress
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      Accept:
+      - "*/*"
+      User-Agent:
+      - rest-client/2.1.0 (darwin20.3.0 x86_64) ruby/2.7.1p83
+      Accept-Encoding:
+      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+      Host:
+      - api.acoustid.org
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Date:
+      - Tue, 29 Jun 2021 13:32:51 GMT
+      Content-Type:
+      - application/json; charset=UTF-8
+      Transfer-Encoding:
+      - chunked
+      Connection:
+      - keep-alive
+      Vary:
+      - Accept-Encoding
+      Access-Control-Allow-Origin:
+      - "*"
+      X-Envoy-Upstream-Service-Time:
+      - '120'
+      X-Envoy-Decorator-Operation:
+      - acoustid-server-api.acoustid.svc.cluster.local:3031/*
+      Strict-Transport-Security:
+      - max-age=15724800; includeSubDomains
+    body:
+      encoding: ASCII-8BIT
+      string: '{"results": [{"id": "f151e970-e034-483c-84d6-086fc71c4ef7", "recordings":
+        [{"artists": [{"id": "eea8a864-fcda-4602-9569-38ab446decd6", "joinphrase":
+        " & ", "name": "Louis Armstrong"}, {"id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+        "joinphrase": " with ", "name": "Ella Fitzgerald"}, {"id": "ec47f07c-c7f8-461c-944d-e3cfe6d2a1fb",
+        "name": "Dave Barbour\u2019s Orchestra"}], "duration": 154, "id": "27ba034e-8ab6-4bad-824f-84251523aa58",
+        "releasegroups": [{"artists": [{"id": "eea8a864-fcda-4602-9569-38ab446decd6",
+        "joinphrase": " and ", "name": "Louis Armstrong"}, {"id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+        "name": "Ella Fitzgerald"}], "id": "9866badc-71b9-3e4e-952e-93a2e30bc98c",
+        "secondarytypes": ["Compilation"], "title": "Ella & Satchmo Together", "type":
+        "Album"}], "title": "Necessary Evil"}, {"artists": [{"id": "eea8a864-fcda-4602-9569-38ab446decd6",
+        "name": "Louis Armstrong"}], "duration": 151, "id": "39aa5177-045b-4621-8507-a2efcb047487",
+        "releasegroups": [{"id": "2c3e750e-b21c-30f4-802a-64303a61eb42", "secondarytypes":
+        ["Compilation"], "title": "Selection of Louis Armstrong", "type": "Album"}],
+        "title": "Necessary Evil"}, {"artists": [{"id": "eea8a864-fcda-4602-9569-38ab446decd6",
+        "name": "Louis Armstrong"}], "duration": 156, "id": "3a0e9cfa-c975-430d-b4c5-96374ef510ec",
+        "releasegroups": [{"artists": [{"id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+        "joinphrase": " & ", "name": "Ella Fitzgerald"}, {"id": "eea8a864-fcda-4602-9569-38ab446decd6",
+        "name": "Louis Armstrong"}], "id": "7c7a4217-fe23-4912-9d53-14a41913782b",
+        "secondarytypes": ["Compilation"], "title": "The Complete Fitzgerald & Armstrong
+        Studio Recorded Duets", "type": "Album"}], "title": "Necessary Evil"}, {"artists":
+        [{"id": "54799c0e-eb45-4eea-996d-c4d71a63c499", "joinphrase": " & ", "name":
+        "Ella Fitzgerald"}, {"id": "eea8a864-fcda-4602-9569-38ab446decd6", "name":
+        "Louis Armstrong"}], "duration": 156, "id": "6cc3352f-f761-4353-9ff8-936d229950a0",
+        "releasegroups": [{"id": "8a796362-8901-38d2-a271-b56a19d0395a", "secondarytypes":
+        ["Compilation"], "title": "The Magic Duets", "type": "Album"}], "title": "Necessary
+        Evil"}, {"artists": [{"id": "eea8a864-fcda-4602-9569-38ab446decd6", "name":
+        "Louis Armstrong"}], "duration": 153, "id": "c9145f95-cdb8-445b-9e0d-846ba3f1f2df",
+        "releasegroups": [{"id": "8d80301f-a239-4bbf-9959-0d3e5018f752", "secondarytypes":
+        ["Compilation"], "title": "Louis Armstrong & Guests", "type": "Album"}], "title":
+        "Necessary Evil"}, {"artists": [{"id": "eea8a864-fcda-4602-9569-38ab446decd6",
+        "joinphrase": " with ", "name": "Louis Armstrong"}, {"id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+        "name": "Ella Fitzgerald"}], "duration": 158, "id": "d20e25b1-bd47-4b76-b6f2-80572b6d1532",
+        "releasegroups": [{"artists": [{"id": "eea8a864-fcda-4602-9569-38ab446decd6",
+        "name": "Louis Armstrong"}], "id": "95c84950-64c1-3ef2-8dcb-a790ee465354",
+        "secondarytypes": ["Compilation"], "title": "Icons", "type": "Album"}], "title":
+        "Necessary Evil"}], "score": 0.929786}], "status": "ok"}'
+    http_version:
+  recorded_at: Tue, 29 Jun 2021 13:32:51 GMT
+recorded_with: VCR 3.0.3

@@ -1,0 +1,155 @@
+---
+http_interactions:
+- request:
+    method: get
+    uri: https://api.acoustid.org/v2/lookup?client=<ACOUSTID_CLIENT_ID>&duration=258&fingerprint=AQADtFSyWbgGL1EYHPkOXZrRQ8uRJ_TRoz-eH0_gh8f5CG-F9EFSHl8S4jkeHM2FvnnwH9ePX4cyMFZwU_Ao4fnBCZY5Gc7RE8_y4HwovInRLwkRKfkoJA_-4Mkx8mg-TErf4MYrIpmjLkH44xSeMHjinPgSXFDN7NjKpHj04HkS4nrB50iiXEa4H9eVCFf6BE-PpzmezXgzoc8JLQ4lBo963Pge41EKh9JHjGnOgPGxNTl65BTOHKqlo5uSJDOa9IW3Jkee5cXoK8HngIozPDHOEL_BhymOPYd7Hk-COD3Un9B5PD_OMIeTHrd-PFxOJDx-40mIE1d0wZ_xd_hSOUVyfTJC5in8o8-CVwnx44nKBaeM5EH6Hx9G_mAqJQ6a0gp2_HAYv0iayVSQZ-hx40Oz4NKZ4dliJLmGbJSO7kGTnfhz5Cy-HHpYOFGP2OnxIPwyQcuFnkGzLMiLLReLZ-ONhw-eHj139DueB-fwJDxS5ME1fMGzJ8SZUFwx5TzC74J-5MeT8LiywKfwE88QcynUMCby4Demq0Rz7vjz44ks-A-e4dvgB_mgI-hRZRwu5WHw-MLzoC_RE29yoml2VAqi_kiqLAdP4hH-gzmPLz_mDCf8COVx5SS-GCfhZSNuYmeOGxyjB5N1hNl3JFV-3Nlxo-fIoWGUGbsUhK-RLE2a4soD1kkGJ2K0CiM_PBfKZK7QnImDXETyh7iESE8ELTWeJAmDWMzBB33WIVmeIU-O8_iYwj-e8MJ3HUn-IMwv1Ayu4Ed_NLzxSdth68HH48qSB_KHBpOyHBfTFGeOH0ya5qiPfekR5pmEZGSC58WrBy_xVPCfpPiOKxvOBMmXBjkpBRO_otGCjDve5VAWJWeQJ3nwRCN8FX_wRKmIJ3Q0jG6FcC-0RHwiPDku5Ep1NNdRJS-uHLWIps6FHywF88ao4xl_5Ek4JMs_vPDDCmeGpjkuXbhGODKe8BP2SwGfMGE6TOcOLS-u4wmL5-ifoE8e9CKa7lD1KArO49sXLCcmHs6HOlqM_EfyofkDP5_RK_EQJ5JUqIpKhPlRa8eZCQ2LksF7NPjTBY2KK0d-_LgzqF2CEM2F5syH6g_67GhU5sOF-zh-5MR7yBfC48aXfSjTB_NZvAJ19Gjy1MKjBdcDcVEOVj8-Evwt9BEJ93hQXUdyhRNyRQ-qDVZICpUTk3iOV8vQ_GDk4wlz4XWxHw8eMQ7yQ8vaoz-eE7GSJkfZ6QjjC0mpXMFTS5j4HK0z4xEV_GGE5tiXI1nOBDGT4HOaIZQz6ki4JkevEbhY4ilC_ki4osxxPkyCZyl1TPmCfvCyPLiSakbOI9GXEI-CJzzqo4luPLmIJo-IXCaS5TgPnziqoxE4nkge-wizvPCYC70d3PiToFSKJArD4_h15HmOy_jxGfPwc3g2ZkL6acWh5UmOMtNx9tAdDj_RdIf2M0J2D9SPB--Of8Tp4XhR_0GYaCGRfMGPPUoPz8HV4w-e46kCpz8uB_lzXD_qF82YQ0f4wtVhJkGP59h1_MiWJsoxxblQ5ih_-NByQ09y5DqeEvGXHuIyHGFeYTL34MvwHZXOEVQcEmHHF8ceH1o2d6iV5cPRvFD05Ijz4McTNwpyxdGCHdoRprKCazg84Zlyw8kkh3h__EjOC-H3wOtSbNVRJ0cOP8Iz5MGXo8xzOEf3R7ji4kuOpF-OSGh-POFxWxIaVI-H5IkzIaek4lRO4U3R82isB0efI0zMH7pyOIqaQddmHM2XMSiT9NClRJqQJ5WKksmDZhmeBvsm4U0TVFfQpJGPR4mM5OKGo9rTwDcUMiFqKniO80GeRMa843bAJ2iqoI9wMUf-QFEUIcyY4S8caWxwHjmSXMF5gcfMlEcy5soQJlmeC6dXfHnQBw2LpkkQ-kh-_Eng5MrxnPginEMfOXCdHBVzhPmLZM-Jl8f4Bn6egJ_S4IFjGvmTMEjqHGyi4_vxK4SfDfvxN0KcJzmSpaaO52iOp_CPBzeOe7lxP3iMV8evDc-JUoqDL4fW1zhhJz9-PA5-Kfjx4wiz0tCL67hy_MFxHQ3jPBnmafhB9FCPaA96driP_cFzKcX1gDqJY9KRnoeTbQids8P1oHl49D5uMQnKJZfQLBGSI5iUKjlOJRsDv0OL41PQXCmSPTny440wOnxwP3hzhFbmQ8tz6EEu4lF6nGGDG42PPstx8UiePEGYLRd6fMcpoc2NZseP_EESWcnR3CHBDzuPp6kzNDuefcE3I3QKXcjz4e0YPMslhNIXiA7yHL2G4zl-uF6DSklENOOD5ERuYeRhP8ieaNAT3kIoPUdz48fE5kKYH8lz1OLhPHjmFM1WHd-HM8GdIE-WQ7MfCWEefEedrfAZIT88FtWW43lQcR6SKDbRo2krEr_w7HD1hniWHaqj5OilobkZPMe48DilK_gTw450XOFxxMqRZEmYOSMu6cEvnFGP_3gTZ2h0FRW3SjhJCU8U_KgdKE-Mi2KGM1fgLGl6VImMPIf2I-3x5ZHxRBmaK3iEpx9OJcdLwcd7Dg_CJDc0UciXcDvqH884HL6InvhCSfh2_A8-7EmJSzm84zlOHrmmQHqSB2GWHeXS40EZJMu0XEGepAkO_Ai7J0GyqLkIzszx7Xjy4K2OfvC-oD3-oh57nEnBxTzCnESyvmh-BVcO5j2a40qkI2teiBGzKEc-HU8mUBqTVDFuM8GZ5YJ5XI4W4UKy1EKeC0x2jEl4BY8iOB-D-3iCLxnCRMkeJFxP9MJfBWWWI23yQAyJdzlyBUY1HmcQejsaewxyqmieFD324cKTo9lTMG9xKMqFPjIAABUgVgNiFlNIEECYgEQJYYioAAiGGBCAIGWQoYIBwAQAxjBFhAIkCcMwAQQhZYgigFggGFFAMIKcQ8QYRhFRAChELBNCAEGEQAgKwg0DBAlhEDRAACEIEARo5IxjiAAjAADACCEAwVwIIQADxAGlICaCEkARM4IhRRjwEAmhgECAAoGIAAQg5JgBCghAGHJSIYOIRMQjZ4QARAAAiUKCKgIYIYxYhQggQhHQDCCAAAKyBEwAYgAlggEikKDCEiSgMsAYhAggWAFDEZDAAAAIgEAQg5RhAAGBCDBOI0IIJxIRQgxAggKDJDFKMUUYMMgBIggiyjCiACAOQOCIMEAAAwgHmCEkhRAGEEEkQx4QgoAhgglAMDQGEWYEIAY5RBgChijCiBAUCAMEM8gRZJ1mAgrkgAECEEORUoYgAwADAhIhkENEOkAMI8hIAwQCigEogACOCOEAEEQKBYqDAAAgNCKGGcaEo4IZo5wC3CsCGBJQCMeIAgoASgQCBigWECUKEgMEEQAwgIRAhAIgiEDCKCIYAghAIYBBhBExhLECKWCI4AIIRIiRAADigEJECBMUYEAoAAARWipGCCAGCWAIUI4JyYhlQBKBhARMEEKIAAIQpYRBCglACBBDAGiAUNIQIACCxAGAEAOEECgMM844YQQiADhgNKIUAIAkkEQxAYgRxgBDGADGEGIQwEgAARhAFDAgGKACEEOEAIoIwgQBAAHQhAXIggGAIgQjAQFSHghEEAAIIIKIBwgwQYQSCKEAEMuKECcwEAAIgYwyxBFKhEECIEMRIQAsphQxyAjACEDIIUEIUlIACAQ1kBmGgQAOMSSUIUIYYBCgCAEBEDMOMOEMEw4AAJwAjEgBACRIUUaMAQRAAQAlRGHFiBCSKKGIIYQBCASjBBgiAALMASWsIEKQghwBIkAogCBMOArIIQwpRRBwghEDAAMKCEQAgcgAAZACRDGiJDEAI2CZIEQQgowwjmBhhKDEMCmgIAA&meta=recordings%20releasegroups%20compress
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      Accept:
+      - "*/*"
+      User-Agent:
+      - rest-client/2.1.0 (darwin20.3.0 x86_64) ruby/2.7.1p83
+      Accept-Encoding:
+      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+      Host:
+      - api.acoustid.org
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Date:
+      - Tue, 29 Jun 2021 13:32:08 GMT
+      Content-Type:
+      - application/json; charset=UTF-8
+      Transfer-Encoding:
+      - chunked
+      Connection:
+      - keep-alive
+      Vary:
+      - Accept-Encoding
+      Access-Control-Allow-Origin:
+      - "*"
+      X-Envoy-Upstream-Service-Time:
+      - '99'
+      X-Envoy-Decorator-Operation:
+      - acoustid-server-api.acoustid.svc.cluster.local:3031/*
+      Strict-Transport-Security:
+      - max-age=15724800; includeSubDomains
+    body:
+      encoding: ASCII-8BIT
+      string: '{"results": [{"id": "a09baf7f-04cc-45aa-8ec7-0ec3305d2d56", "recordings":
+        [{"artists": [{"id": "54799c0e-eb45-4eea-996d-c4d71a63c499", "joinphrase":
+        " & ", "name": "Ella Fitzgerald"}, {"id": "eea8a864-fcda-4602-9569-38ab446decd6",
+        "name": "Louis Armstrong"}], "duration": 258, "id": "1ea4fb19-8200-4ef8-a3ff-c3ff87dbc165",
+        "releasegroups": [{"artists": [{"id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+        "name": "Ella Fitzgerald"}], "id": "3dcd39f2-5c4f-4043-9534-9581e7191a30",
+        "secondarytypes": ["Compilation"], "title": "Six Classic Albums, Volume 3",
+        "type": "Album"}, {"artists": [{"id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+        "joinphrase": " & ", "name": "Ella Fitzgerald"}, {"id": "eea8a864-fcda-4602-9569-38ab446decd6",
+        "name": "Louis Armstrong"}], "id": "50fece99-77bf-455b-97ae-aabb9a848b8b",
+        "title": "Ella and Louis", "type": "Album"}, {"artists": [{"id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+        "joinphrase": " & ", "name": "Ella Fitzgerald"}, {"id": "eea8a864-fcda-4602-9569-38ab446decd6",
+        "name": "Louis Armstrong"}], "id": "a66a7aa4-b334-43f3-9669-822700799082",
+        "secondarytypes": ["Compilation"], "title": "The Best Of Ella Fitzgerald &
+        Louis Armstrong", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "d2e6aaf4-b1b4-4b70-964d-3dd734dd9ffc",
+        "secondarytypes": ["Compilation"], "title": "Martinis at Midnight", "type":
+        "Album"}, {"artists": [{"id": "54799c0e-eb45-4eea-996d-c4d71a63c499", "joinphrase":
+        " & ", "name": "Ella Fitzgerald"}, {"id": "eea8a864-fcda-4602-9569-38ab446decd6",
+        "name": "Louis Armstrong"}], "id": "4c0ada80-1ed6-37a5-917a-b369dbf6f920",
+        "secondarytypes": ["Compilation"], "title": "Ella Fitzgerald & Louis Armstrong
+        for Lovers", "type": "Album"}, {"artists": [{"id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+        "joinphrase": " & ", "name": "Ella Fitzgerald"}, {"id": "eea8a864-fcda-4602-9569-38ab446decd6",
+        "name": "Louis Armstrong"}], "id": "162346df-76e5-4cd7-9169-f047b61421d6",
+        "secondarytypes": ["Compilation"], "title": "Ella & Louis", "type": "Album"},
+        {"artists": [{"id": "54799c0e-eb45-4eea-996d-c4d71a63c499", "joinphrase":
+        " & ", "name": "Ella Fitzgerald"}, {"id": "eea8a864-fcda-4602-9569-38ab446decd6",
+        "name": "Louis Armstrong"}], "id": "c70ee463-c59b-4146-a887-75d0f3b2b531",
+        "secondarytypes": ["Compilation"], "title": "Original Greatest Hits", "type":
+        "Album"}, {"artists": [{"id": "54799c0e-eb45-4eea-996d-c4d71a63c499", "joinphrase":
+        " & ", "name": "Ella Fitzgerald"}, {"id": "eea8a864-fcda-4602-9569-38ab446decd6",
+        "name": "Louis Armstrong"}], "id": "cdfb0201-8ffc-3a02-b42a-4abd66be7f01",
+        "secondarytypes": ["Compilation"], "title": "The Wonderful World of Ella Fitzgerald
+        & Louis Armstrong", "type": "Album"}, {"artists": [{"id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+        "joinphrase": " & ", "name": "Ella Fitzgerald"}, {"id": "eea8a864-fcda-4602-9569-38ab446decd6",
+        "name": "Louis Armstrong"}], "id": "c4d57285-84d5-4413-8118-b92f402ad1da",
+        "secondarytypes": ["Compilation"], "title": "Cheek to Cheek: The Complete
+        Duet Recordings", "type": "Album"}, {"artists": [{"id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+        "joinphrase": " & ", "name": "Ella Fitzgerald"}, {"id": "eea8a864-fcda-4602-9569-38ab446decd6",
+        "name": "Louis Armstrong"}], "id": "6a8ec885-544e-3b31-859a-a73289a01421",
+        "title": "Ella and Louis", "type": "Album"}, {"artists": [{"id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+        "joinphrase": " & ", "name": "Ella Fitzgerald"}, {"id": "eea8a864-fcda-4602-9569-38ab446decd6",
+        "name": "Louis Armstrong"}], "id": "6db7efe4-acd8-3063-aa1b-fb2890273652",
+        "secondarytypes": ["Compilation"], "title": "Jazz ''Round Midnight", "type":
+        "Album"}, {"artists": [{"id": "54799c0e-eb45-4eea-996d-c4d71a63c499", "joinphrase":
+        " & ", "name": "Ella Fitzgerald"}, {"id": "eea8a864-fcda-4602-9569-38ab446decd6",
+        "name": "Louis Armstrong"}], "id": "37012d18-8647-3648-87e7-7a66423b863b",
+        "secondarytypes": ["Compilation"], "title": "The Complete Ella and Louis on
+        Verve", "type": "Album"}, {"id": "276936da-1d1e-318d-bd3b-8d25c4815e73", "secondarytypes":
+        ["Compilation"], "title": "The Best of Ella Fitzgerald & Louis Armstrong on
+        Verve", "type": "Album"}], "title": "Under a Blanket of Blue"}, {"artists":
+        [{"id": "eea8a864-fcda-4602-9569-38ab446decd6", "name": "Louis Armstrong"}],
+        "duration": 259, "id": "2650b486-9358-48b6-8577-5ee6013a0703", "releasegroups":
+        [{"id": "3767884a-81a1-37b5-867e-1a5dff17a8e6", "secondarytypes": ["Compilation"],
+        "title": "Let''s Do It: Best of the Verve Years", "type": "Album"}], "title":
+        "Under a Blanket of Blue"}, {"artists": [{"id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+        "joinphrase": " & ", "name": "Ella"}, {"id": "eea8a864-fcda-4602-9569-38ab446decd6",
+        "name": "Louis"}], "duration": 257, "id": "2aecda0d-6fdb-4538-9c3e-2d2f7868eb2f",
+        "releasegroups": [{"artists": [{"id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+        "joinphrase": " & ", "name": "Ella Fitzgerald"}, {"id": "eea8a864-fcda-4602-9569-38ab446decd6",
+        "name": "Louis Armstrong"}], "id": "45aa0e31-ab75-4605-a3a3-f650d4fa4229",
+        "secondarytypes": ["Compilation"], "title": "Ella & Louis: The Complete Anthology",
+        "type": "Album"}], "title": "Under a Blanket of Blue"}, {"artists": [{"id":
+        "54799c0e-eb45-4eea-996d-c4d71a63c499", "name": "Ella Fitzgerald"}], "duration":
+        258, "id": "5a2e07b2-df6e-40cd-bf0c-ad3ce917933f", "releasegroups": [{"id":
+        "a87dd6e5-54bc-441b-b22a-7286a3b3a904", "secondarytypes": ["Compilation"],
+        "title": "Dearly Beloved", "type": "Album"}], "title": "Under a Blanket of
+        Blue"}, {"id": "5c8ea739-d635-4513-920d-06502b370eb7"}, {"artists": [{"id":
+        "54799c0e-eb45-4eea-996d-c4d71a63c499", "joinphrase": " & ", "name": "Ella
+        Fitzgerald"}, {"id": "eea8a864-fcda-4602-9569-38ab446decd6", "name": "Louis
+        Armstrong"}], "duration": 260, "id": "5f85b7a7-7dcd-4539-9647-f9f899accc5c",
+        "releasegroups": [{"id": "8ec69375-a2ab-3388-a15a-446133b29861", "secondarytypes":
+        ["Compilation"], "title": "Verve Jazz Masters 24: Ella Fitzgerald & Louis
+        Armstrong", "type": "Album"}], "title": "Under a Blanket of Blue"}, {"artists":
+        [{"id": "54799c0e-eb45-4eea-996d-c4d71a63c499", "joinphrase": " & ", "name":
+        "Ella Fitzgerald"}, {"id": "eea8a864-fcda-4602-9569-38ab446decd6", "name":
+        "Louis Armstrong"}], "duration": 255, "id": "64587e9a-436a-41fd-9a80-41691e436255",
+        "releasegroups": [{"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "e9ad97a1-7fbe-4e88-bcba-2e244a5e5a71",
+        "secondarytypes": ["Compilation"], "title": "In the Jazz Mood"}, {"artists":
+        [{"id": "eea8a864-fcda-4602-9569-38ab446decd6", "name": "Louis Armstrong"}],
+        "id": "8d80301f-a239-4bbf-9959-0d3e5018f752", "secondarytypes": ["Compilation"],
+        "title": "Louis Armstrong & Guests", "type": "Album"}, {"artists": [{"id":
+        "54799c0e-eb45-4eea-996d-c4d71a63c499", "joinphrase": " & ", "name": "Ella
+        Fitzgerald"}, {"id": "eea8a864-fcda-4602-9569-38ab446decd6", "name": "Louis
+        Armstrong"}], "id": "8edf2ffa-8ed0-3950-ae84-9ef4d078e3f2", "secondarytypes":
+        ["Compilation"], "title": "Ella and Louis", "type": "Album"}, {"artists":
+        [{"id": "54799c0e-eb45-4eea-996d-c4d71a63c499", "joinphrase": " & ", "name":
+        "Ella Fitzgerald"}, {"id": "eea8a864-fcda-4602-9569-38ab446decd6", "name":
+        "Louis Armstrong"}], "id": "24577902-0198-3733-b1cb-f10e8c2abb05", "secondarytypes":
+        ["Compilation"], "title": "Ella & Louis Classic Album Collection", "type":
+        "Album"}, {"artists": [{"id": "54799c0e-eb45-4eea-996d-c4d71a63c499", "joinphrase":
+        " & ", "name": "Ella Fitzgerald"}, {"id": "eea8a864-fcda-4602-9569-38ab446decd6",
+        "name": "Louis Armstrong"}], "id": "6d31f8f4-a8d9-3254-aaaf-98bde2865166",
+        "secondarytypes": ["Compilation"], "title": "Cheek to Cheek", "type": "Album"},
+        {"artists": [{"id": "54799c0e-eb45-4eea-996d-c4d71a63c499", "joinphrase":
+        "; ", "name": "Ella Fitzgerald"}, {"id": "eea8a864-fcda-4602-9569-38ab446decd6",
+        "name": "Louis Armstrong"}], "id": "da875444-e0f7-4f1a-b6c6-621329eea2b8",
+        "secondarytypes": ["Compilation"], "title": "Autumn in New York", "type":
+        "Album"}], "title": "Under a Blanket of Blue"}, {"artists": [{"id": "eea8a864-fcda-4602-9569-38ab446decd6",
+        "joinphrase": " & ", "name": "Louis Armstrong"}, {"id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+        "name": "Ella Fitzgerald"}], "duration": 259, "id": "ab61156c-5dd7-420a-827f-c0bd7abd073a",
+        "releasegroups": [{"artists": [{"id": "eea8a864-fcda-4602-9569-38ab446decd6",
+        "name": "Louis Armstrong"}], "id": "2559274b-520f-4df0-b5e4-3689d5a824a3",
+        "secondarytypes": ["Compilation"], "title": "Greatest Hits", "type": "Album"}],
+        "title": "Under a Blanket of Blue"}, {"artists": [{"id": "eea8a864-fcda-4602-9569-38ab446decd6",
+        "name": "Louis Armstrong"}], "duration": 259, "id": "bffd50dd-8a5d-4d45-a6a0-1ddb4097b2c4",
+        "releasegroups": [{"id": "9c8ab851-c89f-4c0f-9a1c-35f22e78b741", "secondarytypes":
+        ["Compilation"], "title": "Milestones of a Jazz Legend"}], "title": "Under
+        a Blanket of Blue"}], "score": 0.979708}], "status": "ok"}'
+    http_version:
+  recorded_at: Tue, 29 Jun 2021 13:32:08 GMT
+recorded_with: VCR 3.0.3

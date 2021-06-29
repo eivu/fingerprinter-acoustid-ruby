@@ -1,0 +1,62 @@
+---
+http_interactions:
+- request:
+    method: get
+    uri: https://api.acoustid.org/v2/lookup?client=<ACOUSTID_CLIENT_ID>&duration=236&fingerprint=AQADtIkWJVo1BTnx4-WxJ0L5R4Oz7CiPo3l2XIpy2DnaOziZg12CF2GPZMc74Q_-HbaD8-ijGGEeXIK2PAUTJjd0XSnuQ88J5kKYJzieB1eO8mjI5TjFNYjDE9c96Cb6BM2Ji2oEXVsRKuKO5uB1nLiuIPQPav2g6fg1ZM_R8_CDJjE49Tgz4TKO88JLmai-HK505NAyHf8Rix0YJT184sd2o0409EGYGldI3Mc9otwQ_zKOJzh-Chfn4vqQRFGFi0G-Cs_xfAipcQJ_iJOIOiHQHH0i6E_w7YgWOjGe42QMXzGi40eXV2DC6Aq-4z6-Ha4YnPgjfDy044PJBXFDdPjxg_FhPMHbw1SJPjGeHs_xH9dmhImzGPLBh3CcxfDx4w3xND8u4xp6GvrxoHKLVMaPdDG6_qiuB8peBX2G_tCPmym6LImO8HCOvsTTIvyF9JLww8_ho19wJWpwNEl5VM6D58eQE49yxF_wlMiaQ39kIUfzLEd1Fs_jYb9yXFLQ8BFuoWSBh1OG-UHTeESbzUmQ-0h2MImDJz-ePJh8NN-Pd_iP68aDXMrxPdj2UHjcCtkuFJ5lvEKrCI-PYIcenE9wIlRwPniQUxL8QGNHPMNjNM-O54lkaImTBz_u48HkHPmJXkJTZVkWomJCvOCR52LgKIfypcfbFM_Q6LhzfDF-4hdyeFIiC9V-dC_OE9FpQznS2UNP9MmOpsFHH69xoo_QlJsePCf-BVbyIxafQP-Q58LyHn6OK7jyoJt4fFyOPhfyC3oSZJ6MU7CWpniIH-GD5mSC5xSuJDJ0NDvCB_ssoo-UaXA-EudxZUZFJXiy5HiaCEe7I8ykQHmK-Dms4x6OPCva3mheIXZYvOxCXB_Y7HiS4y_2IJegJzki-niWD56-4L3whId_CWiOfgeTSkF_5C8U-YVTPBZ-4T2go6mDPDl-4jnyHhUTkvghkth2OH8gX0Md4VRHZDsefAvy4ctx8gm-VAD8I_fBNcLz4c7xC20cCekH8SG-_PBLlJRwZTzeBtIzGz9ypsez82hG-ugbfKgOBnmi49MOXUdDXsF15MSXyfjhI8d5iD965EyiB8_RH-mOhyZs_dCxdRl64dSOH7qOslqH3EqFG-eNJ4oGE-Gp4GxxnEfIZXAXGf-QHn0PlSLy5nie4E9Q8kZzRIf-ELlG8P2FV8SlDO2DRrmQg7GYIi8TTD_weniURMf1Cc6Pw89yXDpx7bgWE83DH92HiUdBk8ijI_EPX1HwHp_445MSXMTPo9RhJfcR_9DhKwSVH6W84n-Edjl89Mkg__hKVFQOCi1daIefvage5Mcf3BF6eA_BiCZ-5NLRZyIs_vhO7Dj8hwhNEj8eHD-O8wifHtaJC9fxouOh-_hR8glSBtVzzNOEb7i1I3Y04tKHh2CPpkaP24L2D5miw9IxUccTKccj9Xj-oKi2yhOe5Hh69KnQXE8wOkMgXciFJw8aPSExFRdufMhVtItevMfXw9eD48fzYZrGQ7-COznaMToaCxd-9BcufvA7aCx6Bn7CB_3Rw2eDMjz0CxXhD-KTDNXzHOcJ_hq-HL3hmD6UdUN4PCl640K71XjwsUG_FWFCG7pe_Mcjx0fz6OhRXdBy4ihbiDk6vDjCdzj648yOfR-4S1vxow92_MhNGP8k6LiuIMcLk8eP4w92oW_wP2D6I9YLZcjTmLhs5Id-ITz2U3i041KOyzqaB9Vx5Bm0jQ_6JFFxIk-Oh2ZwKkdfUKGKN3OKX1QwizdaSgh-fCi3w33xSAu8czjCBld043pwC808BZOiE--R_YHeUkh__MLDHLdwRmjOozxT5MEjQxMfaNGPHNdT_ErQ_gjzTMWhPWjSUFKQjQTnXQjzoE-hPyOeJ0GeG00T9Bz2IMycoQxzyA_64nxwoKmP5zgf4eHhpcoCnStOJcdZNB9uPKtwIfzx7OiT4z4mfQp6Fs2L-7iQh0pDJF9wJULJunhmTM9wpsGRK0n8QWcShCGHMnNxJP8RVxyeo9F1lFSSB1d44GqxXAyS3whK5mh4sLyE8zmuJRKeCf-RI_mB5yjJoDl-XCv8-PgRk0d9QsvwKRkeo_KRSuiLR0JFwUfl4qKEmyglHp6HXKENB1aeo1d0_AjdoMHFHE_xG5Mswajx8Phy4ByLcGE43Ki6D0etKPCPn3h1_LjiFdqDXUYPXflxs0L3TDhCoWF-8EkQe2iE6YXc5Dnu44erLNCPo3-wHdqH00fDPDLKH5XWREMY6UJ-PDq-BH8OHdeHLIzywNXR73iO40qsoAkTxSmeMEczZjly8jj0y8ieZGSGpnrQCx9-5Mlw9MmhJlxwHu2NSttB_cKP_9AP_9jxJ3iOT1fwH4d4BS9OdOnx4zyaBz1OBTc-ot1NhHyCx2hy9NuHs7ieoMkfRNJCnbiGk7gSufjx4zx23CceHuqG5nGOPniyyLie4TGaZV5SaP_xfMI_YvozMLlwZ9D6ozmJfkSYSLlAjhTxO0LJKUTOFRWTHWqmhMUlnF0QpglD1A8u41lQMaEDqZhgBgDhSDLEGEAcAoIwg4gAWiAmGFAAIWKMQwgR4wAhCCFAkDBEUGOAEAYJgIRCkhEFjADCIGUAEIBAIxBAggDVGDDEAcCNUshAJhygAiEiNCTEEAUMMpABIhxJThCgmBBAGcgUIExQ6gAAgjABlCTCAAGUEIYwoJAAFBjIGAAYIOYEQcIoAQACigFggENAEEYZE0IAQgxSQgBDgIECCWAEARIZYxBBHCBlCPEAAGIkIc4gAaUgwEBBgARAEKIQU4IJAIwRAiFhmQBIASWQUUQKgYRhQAEAADOKARCAQgggJBQDgGCAGCBCGAGAQwIJIA0ySBnFgCDEAKYEEAA4QoQhhhmCxLECQCMI0gQYAwwUAigCHDLGAUqIIlAZYAAyjEAjgAEAMBWVEggZgpByAkSWABAICKUEdYQIsoBSlBihgQCKUCSJooIBqpQjBpFAHABAEKAlEwwKgJQgFDBkgEIAACCAIoYQAwAhGADhgAAGGkAEEAgJgSBggFAACANaQEGMYAAAw4GhjjGoGFCAKIKMI0QIawziBDEDwKfEOGKRYUAIgJARChhmFCEKOmoYEEAAABBDhBgghAFICCEcAwARAwxQggAgiCDIIEwsVcwZhgQBRAhBlBQKASQgM0QYYJADwhGCgDgGWEKsRQgZIgQEzhDCgfAQIIIIA0DKKQATSgALBDDGQGgAE6AgRxgBjCigBJAAQQaEEkgBQZFxBAgklhJCAIQUEUYw4AAJCDHBAABCKMC4MQoKhAQiSFhAEGKCgSGIRUAxAYQAiAIiJBZICAAQQc4ARpAiCgGHkAHUAUYGQEQAQIAFhAijECKAAhGcEUgwpQRQBBhAHBBCCAGMU4CAYRQhgDAChFMOAQMgIcYRQRlGADhhDHCACEcZRAA6ABAChBggACTCASIkQAQIUBQgxhEDFBJEMOkAoEQBgSRBhDBkiGkCOEAsRQoJQwABQChKACBEAKMAZ4oz&meta=recordings%20releasegroups%20compress
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      Accept:
+      - "*/*"
+      User-Agent:
+      - rest-client/2.1.0 (darwin20.3.0 x86_64) ruby/2.7.1p83
+      Accept-Encoding:
+      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+      Host:
+      - api.acoustid.org
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Date:
+      - Tue, 29 Jun 2021 13:33:02 GMT
+      Content-Type:
+      - application/json; charset=UTF-8
+      Transfer-Encoding:
+      - chunked
+      Connection:
+      - keep-alive
+      Vary:
+      - Accept-Encoding
+      Access-Control-Allow-Origin:
+      - "*"
+      X-Envoy-Upstream-Service-Time:
+      - '88'
+      Strict-Transport-Security:
+      - max-age=15724800; includeSubDomains
+    body:
+      encoding: ASCII-8BIT
+      string: '{"results": [{"id": "f4fa854a-90dd-43cb-a6ed-afd98fc78a1a", "recordings":
+        [{"artists": [{"id": "a9ee533f-8871-4f62-a6bb-91eb264abc90", "name": "Fiona
+        Apple"}], "id": "0662781a-7411-4753-9e99-bb043d485c66", "releasegroups": [{"id":
+        "49648d3b-6d65-3bb6-a067-2c09a8b5cad7", "secondarytypes": ["Live"], "title":
+        "1997-10-27: Phoenix Theater, Toronto, ON, Canada", "type": "Album"}], "title":
+        "Shadowboxer"}, {"artists": [{"id": "a9ee533f-8871-4f62-a6bb-91eb264abc90",
+        "name": "Fiona Apple"}], "duration": 234, "id": "0dc9d2b0-5b2c-4e62-a7ad-ff5b9106f31b",
+        "releasegroups": [{"artists": [{"id": "a9ee533f-8871-4f62-a6bb-91eb264abc90",
+        "name": "Fiona Apple"}], "id": "b82bef40-53b7-4582-8561-8b660039dec9", "secondarytypes":
+        ["Compilation"], "title": "Original Album Classics", "type": "Album"}, {"artists":
+        [{"id": "a9ee533f-8871-4f62-a6bb-91eb264abc90", "name": "Fiona Apple"}], "id":
+        "82ba556e-99bf-380d-b9b5-5a97737f1cd1", "title": "Tidal", "type": "Album"},
+        {"id": "a5699755-a6ac-4b27-9720-4c290689d1b3", "secondarytypes": ["Compilation"],
+        "title": "Tidal / When the Pawn...", "type": "Album"}], "title": "Sullen Girl"},
+        {"artists": [{"id": "a9ee533f-8871-4f62-a6bb-91eb264abc90", "name": "Fiona
+        Apple"}], "duration": 244, "id": "5c7ccd14-d342-4ed5-83fb-1eeffa252a03", "releasegroups":
+        [{"id": "3ae8693e-0a98-39f2-a169-dd4c21f61048", "title": "Sleep to Dream",
+        "type": "Single"}], "title": "Sullen Girl (live)"}, {"id": "a704b5c4-f84d-43eb-a635-42f06bf27b18"}],
+        "score": 0.949565}], "status": "ok"}'
+    http_version:
+  recorded_at: Tue, 29 Jun 2021 13:33:02 GMT
+recorded_with: VCR 3.0.3

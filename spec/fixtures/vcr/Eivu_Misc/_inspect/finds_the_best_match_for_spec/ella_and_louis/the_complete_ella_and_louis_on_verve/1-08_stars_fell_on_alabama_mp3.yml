@@ -1,0 +1,273 @@
+---
+http_interactions:
+- request:
+    method: get
+    uri: https://api.acoustid.org/v2/lookup?client=<ACOUSTID_CLIENT_ID>&duration=215&fingerprint=AQADtGySJtuS4M2OS0rwKkZ5AjsyMekxSyfkHPFOvERzS2jKBz2uH3lCJKPgKBVOXIeP49WRttDUMEW-6PBuPFE44bqESdQD_-gn_PijDYwjuDrRp4EusIlywSOD48qM7_B6FfGiRkh-PAWjwY12dJMarfhzohea_0KOvcohNvXxkviDW8shPMtR3mia5rh0hEtzPKh8HE90TE4TIz3EFXF0XHKMo8dp5FBEJjLCLGNwXsH1YT-spDtyXOiDhnGD44Qv4cdRXsQpHCJlIj-8-9hxjN9RZTf4o_dxfIFA3UafXMGpTgGzjkHz4T2SZUUoJRemN07g2kePPNDyI9SXMcGf4zyaFyX-DatyMFoyHVOe5DiBHHr4IJZyoUyUwy-O58VOC72ZJGCoo-ECOXzww2cuvByegz_6KHrRTCuei8beoPnwX2h-XLrwi5g_MD3iXkhY6cOkiCxe5TiZBP6FE0-uo2eGMOcD5U9wlIeXEc-OPjieCX8y9MySBdQ3HOXxQ2MfvDAflFdQeK2E9oXOIws_mCtxRsfhSgtyRWj3oDw2tUfZB7HoDnVyuKOxC_6CXhpwK0fDJMYj8ehHI0H24_hxPgn25EaTNUOp4JyD9Dz0S8YDH4-S45KEH9aHF_uJQ1EUicYZJfiOP-g5XH0GPUly4UePMMePb5nRXPLQEz2sHPeuAe9RD0cO_QjTRGMiVE9ydEdzXPmhWO_xaE7hH8ePx-uR50FyLSaeHIcPnHOQ84EeS0ReoQ-o47h8pAf1Q_uCFz9yPOCF48iFajkhPTbS49zxWGhGWhGe41NuPBTS6ziU5zm-B_vRXNgY3PhxfHDyQ8OFf2hMFcedHq3c4cdto9FG9Dz6nPCZHMd2DpotBY3QH0-Mq8Gxp8RjEUL1EXmOU8efwkOPP8ehazeuoPRRXT1-WN2H39hTIXmCrMmWGaeHS0PzPMGJGoHaMCFOScf9QLzyILhw9AD8C8meB3nw46JhK0cOnUeu5niYJ9iJ8IeiFLly_MHzw8-DRs8WMNaP56jkYQp9CbmE5Alqpwr6o47g6cVxVC-e9viSIno2QuOP9EK-DM1YIfeF_BGSZ0eTHwzJ48uWHrmDyxP0xUi_HHtwMcc-4U8T5EmSIbn0YPuHM8WHicwVNM0X_Dj2BF6WBSeNP0cOPUGeHCeeYyc-Ch0XNL1x_KkavE-KX0afKMgY5fASHf8M7TLuIboknME65QzcfMJ3FfmFHspLaDbx48SdHU0UHt2NmznODD905QmaKgt6R8h74Q_e7cgToQmZR-gehcL4QjfY3NDfIDya-MH34owW_Dj4BHqHUkkxpZvxHT9-_Jj6SvC0PGB-vMePkm2OZuEF7gd_wZXWJMWbIEfCK8TDKHgm4zx-XDROPA3RX4Nj3XgE671QKUfOHlqO_EGdMMVx3EkO7niSI3cedOHRH3rwy1Ce-LiEL54G79mGl_hlnNdQ_TBPiD_840qF9_jRHf8DXdmFJ0YfFs2THyfuF8_x_XjhMcP14fXQKHIOjRkeXugQ6XiCPI7w8ZhP9IEOTzvymCRuosdvJD_i-CT-4z8aJwlqnjha8uifIP-Q5DlYSZKU40mVCNfRw2eOPnguJN-DPAelZsGHG7-Q5EK-LMeDC10Z-EJJfMcTPA_y9NCuoZFxFfF07MfR3Ed1aiAP3_iZNXh2Bu5xdOUR5mEJXUae4wGoB--FmNmhSQLFG96HRj94McRz6Bm6HvHRTNvxpOnw5_g1Ia1wRjijHboqoqmObtHxQz28cDExH6HVo2m04x1-fOh3VHjGB0-SnNBJTE-I5qSCn_i0B2yeC1X2oKlyGTn0KKAOWXkyjNQV9IEeXniCksL3IOSNJpmTeDhuU-hzfD5qGc-wRzqqoxmiG8mXAD_xKwmaPNlQbiKSONsR5omkos8y4sKTzAHz1HgWJMv4aIh1PMepBa6Jf0FyKRvy4n5wkth3VEfCOTxCPSR-nDxeHicz_Lh2HMlSZTlCb8h14dIe41CjmcEtWUj5YJa4FHkSnErgp2AzfVDMCL_RH951qObxcdCVI59w9PiHRwq-6UauDNtPCeeMHLyORkvQH_uOJ8ZPRM8mWImUQfokpcO_RoUuK0H5DCaaCQ8bqK2Fb2mEZFE-Gc_Q5EeOuzidQ7OYIswU9fjBJN_RPrgqB7mSqTiFZ9Czo1n2BCWvGLm6AvTawuoxOkcON7URSz8eph_22Dh4xYfHTC2eXMHbHw6dI4KsHfHRlEefJCET_JjXDE90ZK8UIpkeNEmPL8d1HMl55E-Eh3iUHFwiwlGA6FCZJhTyFz8aVSz6ROlx6chFwfeh_DnuElL-Fk2a4H4EPnCML8iTHA-6a8N7NAquHI-iLcdfpOfB99Cb5wiT5Rn649ETnBaqo3mJu8jiD9sF7T9-hD-sIlaMxtDf4Uf84z8qPVmQLrnQJ9Pxo-8DZXEOKTGehngiIT8uHd_S4RF2hD90aSLSPeg7fGMO_A0eXKnx5biC_8Tx6ShzpzgOP8nRMccfXMtx8_iPs4jW7EjOVAOe_2hAR6ELJzmFyumOpj564bjQ_ESfI8eRSMIl6XiWDOSvgM-HZiE88uiZAWWAUEAZ6AgyAAEkBVLaCWOgIUoQiIgjAjLFIWVKAWgYAEQYIIgCSCDiACBMGCQUMYwBIAFoDATDBBJCeCXCEkAIIBYCRCkIDEFKIAUAAURIBYCQQAIBCCTKAWWIIC4BZKiDSABnkAJIMYogEARAAghSDAmlnEaEOCgIIYIIIIQCziGECnGCOGUYIUIJgAwRYBgDmLCEECEcIUJdRJAxQAlgQECGAEUIICJAQoUEBAAEHEOWAAKIAAoARQwwWgMggEDOoOCBkQAgKxUARljhsIAUIiYsgwiQCwRwRFgngKBECQMEcI4YhRgGRiCiHBEEAgEEQMIMoAngzFlJhAGGGAAoUMQB4okBwhHCEWBEGCGEQYgIBQhxigGDhCAEOSGEEcIJBJhAyCJjBAKOXYCQUAYRIxBjTCgIiGAUIQMQKMIQAgwxRCAAFRFEgMQAIcwIRYkghgmFEAACGAYEAEoQoxgiwCgAiGEAKUEMIMAQYqAAQizhAFUQIeAEJJJQIQAWEAkBCCIGGCIIEEogZ4UwkAgkEDmKUoIEIgYoYpgAQhAjqGBEAAEUIsgwAAAGBhBkEACCAYSMAEIgoRgTngFAlIIGIWIBJABAgYxgFAgliBHAACYB0AwAJACDxHECEKGOMIQIEAgJRgAAnBFBhAURAAEoFoYBwBBAyBoiDEOAAMAEM4QRBgGhzFglgCEICIAUEQAoQA1RhhghjREuKOQEUgoYIKADhgCFkCJKGikMAUoBJowIgGEmmKDIAawaQggQgAxFAAgmHAAIYGoKEEgATYAjABGECCUSAACQZAgR5JRjABgJBBACUeSMQQS4IAhgGAGigAAKUwMYIdJAoRiDDAMpKILOGCIJIEYrARRwQiDBEHEgMAEAAggAowAAggAoGFPCEgQIAVAKAogGRjAiLBBMCWABEYAJhJBAVALAHDEEEicAgsUBEAnCzAgChAOCKUKAAEIoZikgAhCAmAKCCCAA&meta=recordings%20releasegroups%20compress
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      Accept:
+      - "*/*"
+      User-Agent:
+      - rest-client/2.1.0 (darwin20.3.0 x86_64) ruby/2.7.1p83
+      Accept-Encoding:
+      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+      Host:
+      - api.acoustid.org
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Date:
+      - Tue, 29 Jun 2021 13:32:10 GMT
+      Content-Type:
+      - application/json; charset=UTF-8
+      Transfer-Encoding:
+      - chunked
+      Connection:
+      - keep-alive
+      Vary:
+      - Accept-Encoding
+      Access-Control-Allow-Origin:
+      - "*"
+      X-Envoy-Upstream-Service-Time:
+      - '226'
+      Strict-Transport-Security:
+      - max-age=15724800; includeSubDomains
+    body:
+      encoding: ASCII-8BIT
+      string: '{"results": [{"id": "86885726-e677-48ec-8c3f-1ffded9b305b", "recordings":
+        [{"artists": [{"id": "eea8a864-fcda-4602-9569-38ab446decd6", "name": "Louis
+        Armstrong"}], "duration": 215, "id": "072e6d9a-d4b5-4b15-a882-c1564cdaf87a",
+        "releasegroups": [{"artists": [{"id": "eea8a864-fcda-4602-9569-38ab446decd6",
+        "name": "Louis Armstrong"}], "id": "97df66a5-6fdf-3eaf-98aa-0ea7945e0aa8",
+        "secondarytypes": ["Compilation"], "title": "An American Icon, Volume 2",
+        "type": "Album"}, {"id": "0edf75f2-d3f0-45a2-95b3-a18f9ac19af4", "secondarytypes":
+        ["Compilation"], "title": "An American Icon", "type": "Album"}], "title":
+        "Stars Fell on Alabama"}, {"artists": [{"id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+        "joinphrase": " & ", "name": "Ella Fitzgerald"}, {"id": "eea8a864-fcda-4602-9569-38ab446decd6",
+        "name": "Louis Armstrong"}], "duration": 214, "id": "10e54331-fed6-42f9-ad1f-56c83a6148ea",
+        "releasegroups": [{"artists": [{"id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+        "name": "Ella Fitzgerald"}], "id": "3dcd39f2-5c4f-4043-9534-9581e7191a30",
+        "secondarytypes": ["Compilation"], "title": "Six Classic Albums, Volume 3",
+        "type": "Album"}, {"artists": [{"id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+        "joinphrase": " & ", "name": "Ella Fitzgerald"}, {"id": "eea8a864-fcda-4602-9569-38ab446decd6",
+        "name": "Louis Armstrong"}], "id": "50fece99-77bf-455b-97ae-aabb9a848b8b",
+        "title": "Ella and Louis", "type": "Album"}, {"artists": [{"id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+        "joinphrase": " & ", "name": "Ella Fitzgerald"}, {"id": "eea8a864-fcda-4602-9569-38ab446decd6",
+        "name": "Louis Armstrong"}], "id": "a66a7aa4-b334-43f3-9669-822700799082",
+        "secondarytypes": ["Compilation"], "title": "The Best Of Ella Fitzgerald &
+        Louis Armstrong", "type": "Album"}, {"artists": [{"id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+        "joinphrase": " & ", "name": "Ella Fitzgerald"}, {"id": "eea8a864-fcda-4602-9569-38ab446decd6",
+        "name": "Louis Armstrong"}], "id": "37012d18-8647-3648-87e7-7a66423b863b",
+        "secondarytypes": ["Compilation"], "title": "The Complete Ella and Louis on
+        Verve", "type": "Album"}, {"artists": [{"id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+        "name": "Ella Fitzgerald"}], "id": "0a39f620-97cd-3409-a44c-f54771d6abb7",
+        "secondarytypes": ["Compilation"], "title": "Reader''s Digest: The Legendary
+        Ella Fitzgerald: Her Greatest Performances", "type": "Album"}, {"artists":
+        [{"id": "54799c0e-eb45-4eea-996d-c4d71a63c499", "joinphrase": " & ", "name":
+        "Ella Fitzgerald"}, {"id": "eea8a864-fcda-4602-9569-38ab446decd6", "name":
+        "Louis Armstrong"}], "id": "c70ee463-c59b-4146-a887-75d0f3b2b531", "secondarytypes":
+        ["Compilation"], "title": "Original Greatest Hits", "type": "Album"}, {"artists":
+        [{"id": "54799c0e-eb45-4eea-996d-c4d71a63c499", "joinphrase": " & ", "name":
+        "Ella Fitzgerald"}, {"id": "eea8a864-fcda-4602-9569-38ab446decd6", "name":
+        "Louis Armstrong"}], "id": "4c0ada80-1ed6-37a5-917a-b369dbf6f920", "secondarytypes":
+        ["Compilation"], "title": "Ella Fitzgerald & Louis Armstrong for Lovers",
+        "type": "Album"}, {"artists": [{"id": "eea8a864-fcda-4602-9569-38ab446decd6",
+        "name": "Louis Armstrong"}], "id": "8d80301f-a239-4bbf-9959-0d3e5018f752",
+        "secondarytypes": ["Compilation"], "title": "Louis Armstrong & Guests", "type":
+        "Album"}, {"artists": [{"id": "54799c0e-eb45-4eea-996d-c4d71a63c499", "joinphrase":
+        " & ", "name": "Ella Fitzgerald"}, {"id": "eea8a864-fcda-4602-9569-38ab446decd6",
+        "name": "Louis Armstrong"}], "id": "c4d57285-84d5-4413-8118-b92f402ad1da",
+        "secondarytypes": ["Compilation"], "title": "Cheek to Cheek: The Complete
+        Duet Recordings", "type": "Album"}, {"artists": [{"id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+        "joinphrase": " & ", "name": "Ella Fitzgerald"}, {"id": "eea8a864-fcda-4602-9569-38ab446decd6",
+        "name": "Louis Armstrong"}], "id": "6a8ec885-544e-3b31-859a-a73289a01421",
+        "title": "Ella and Louis", "type": "Album"}, {"artists": [{"id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+        "joinphrase": " & ", "name": "Ella Fitzgerald"}, {"id": "eea8a864-fcda-4602-9569-38ab446decd6",
+        "name": "Louis Armstrong"}], "id": "6d31f8f4-a8d9-3254-aaaf-98bde2865166",
+        "secondarytypes": ["Compilation"], "title": "Cheek to Cheek", "type": "Album"},
+        {"artists": [{"id": "54799c0e-eb45-4eea-996d-c4d71a63c499", "joinphrase":
+        " & ", "name": "Ella Fitzgerald"}, {"id": "eea8a864-fcda-4602-9569-38ab446decd6",
+        "name": "Louis Armstrong"}], "id": "6db7efe4-acd8-3063-aa1b-fb2890273652",
+        "secondarytypes": ["Compilation"], "title": "Jazz ''Round Midnight", "type":
+        "Album"}, {"artists": [{"id": "54799c0e-eb45-4eea-996d-c4d71a63c499", "joinphrase":
+        " & ", "name": "Ella Fitzgerald"}, {"id": "eea8a864-fcda-4602-9569-38ab446decd6",
+        "name": "Louis Armstrong"}], "id": "162346df-76e5-4cd7-9169-f047b61421d6",
+        "secondarytypes": ["Compilation"], "title": "Ella & Louis", "type": "Album"},
+        {"id": "276936da-1d1e-318d-bd3b-8d25c4815e73", "secondarytypes": ["Compilation"],
+        "title": "The Best of Ella Fitzgerald & Louis Armstrong on Verve", "type":
+        "Album"}], "title": "Stars Fell on Alabama"}, {"artists": [{"id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+        "joinphrase": " & ", "name": "Ella Fitzgerald"}, {"id": "eea8a864-fcda-4602-9569-38ab446decd6",
+        "name": "Louis Armstrong"}], "duration": 216, "id": "17e4fee3-8eeb-4a03-ba14-cb14ed0c3363",
+        "releasegroups": [{"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "29d63dff-7bfd-374e-9797-db3dfe4a125c",
+        "secondarytypes": ["Compilation"], "title": "A Jazz Romance: A Night in With
+        Verve", "type": "Album"}], "title": "Stars Fell on Alabama"}, {"artists":
+        [{"id": "eea8a864-fcda-4602-9569-38ab446decd6", "name": "Louis Armstrong"}],
+        "duration": 214, "id": "19c97034-99f8-4d6a-b092-e7fe2e67ab29", "releasegroups":
+        [{"artists": [{"id": "54799c0e-eb45-4eea-996d-c4d71a63c499", "joinphrase":
+        " & ", "name": "Ella Fitzgerald"}, {"id": "eea8a864-fcda-4602-9569-38ab446decd6",
+        "name": "Louis Armstrong"}], "id": "7c7a4217-fe23-4912-9d53-14a41913782b",
+        "secondarytypes": ["Compilation"], "title": "The Complete Fitzgerald & Armstrong
+        Studio Recorded Duets", "type": "Album"}], "title": "Stars Fell on Alabama"},
+        {"artists": [{"id": "54799c0e-eb45-4eea-996d-c4d71a63c499", "joinphrase":
+        " and ", "name": "Ella Fitzgerald"}, {"id": "eea8a864-fcda-4602-9569-38ab446decd6",
+        "name": "Louis Armstrong"}], "duration": 214, "id": "252aae3d-90d7-4c8f-8478-0e8bd03e08b3",
+        "releasegroups": [{"artists": [{"id": "eea8a864-fcda-4602-9569-38ab446decd6",
+        "name": "Louis Armstrong"}], "id": "7daadd01-5e0b-4511-bdf7-c24075ca2aaf",
+        "secondarytypes": ["Compilation"], "title": "\"Satchmo\": Ambassador of Jazz",
+        "type": "Album"}], "title": "Stars Fell on Alabama"}, {"artists": [{"id":
+        "54799c0e-eb45-4eea-996d-c4d71a63c499", "joinphrase": " & ", "name": "Ella
+        Fitzgerald"}, {"id": "eea8a864-fcda-4602-9569-38ab446decd6", "name": "Louis
+        Armstrong"}], "duration": 199, "id": "27f5b05a-db3a-40ea-881b-dc9202f40c7c",
+        "releasegroups": [{"id": "24577902-0198-3733-b1cb-f10e8c2abb05", "secondarytypes":
+        ["Compilation"], "title": "Ella & Louis Classic Album Collection", "type":
+        "Album"}], "title": "Stars Fell on Alabama"}, {"artists": [{"id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+        "joinphrase": " & ", "name": "Ella Fitzgerald"}, {"id": "eea8a864-fcda-4602-9569-38ab446decd6",
+        "name": "Louis Armstrong"}], "duration": 214, "id": "30a26cbd-363d-4ab2-85d4-0b5e8e7169ab",
+        "releasegroups": [{"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "6e304354-6b07-37d3-a340-7bb836b00709",
+        "secondarytypes": ["Compilation"], "title": "Jazz for Lovers, Volume 2", "type":
+        "Album"}], "title": "Stars Fell on Alabama"}, {"artists": [{"id": "eea8a864-fcda-4602-9569-38ab446decd6",
+        "joinphrase": " & ", "name": "Louis Armstrong"}, {"id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+        "name": "Ella Fitzgerald"}], "duration": 211, "id": "332f9fe0-e2ec-4977-b6b9-30d770f4939b",
+        "releasegroups": [{"artists": [{"id": "eea8a864-fcda-4602-9569-38ab446decd6",
+        "name": "Louis Armstrong"}], "id": "a887b083-423f-4842-8ebc-f3bf9f28e85a",
+        "secondarytypes": ["Compilation"], "title": "Satchmo: The Louis Armstrong
+        Collection", "type": "Album"}], "title": "Stars Fell on Alabama"}, {"artists":
+        [{"id": "eea8a864-fcda-4602-9569-38ab446decd6", "joinphrase": " feat. ", "name":
+        "Louis Armstrong"}, {"id": "54799c0e-eb45-4eea-996d-c4d71a63c499", "name":
+        "Ella Fitzgerald"}], "duration": 214, "id": "3fe774af-e688-436b-9eb5-500e9c2cc6a0",
+        "releasegroups": [{"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "39d7f557-c171-30c9-8bb5-0c3f6161b05e",
+        "secondarytypes": ["Compilation"], "title": "Jazz for Lovers, Volume 01",
+        "type": "Album"}], "title": "Stars Fell on Alabama"}, {"artists": [{"id":
+        "54799c0e-eb45-4eea-996d-c4d71a63c499", "joinphrase": " & ", "name": "Ella"},
+        {"id": "eea8a864-fcda-4602-9569-38ab446decd6", "name": "Louis"}], "duration":
+        213, "id": "40de87c8-f78a-4472-9a0b-12ff8174d50f", "releasegroups": [{"artists":
+        [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}],
+        "id": "2399fa00-0c18-4e52-a490-a9374f6dd100", "secondarytypes": ["Compilation"],
+        "title": "Jazz at First Sight", "type": "Album"}], "title": "Stars Fell on
+        Alabama"}, {"artists": [{"id": "54799c0e-eb45-4eea-996d-c4d71a63c499", "joinphrase":
+        " & ", "name": "Ella Fitzgerald"}, {"id": "eea8a864-fcda-4602-9569-38ab446decd6",
+        "name": "Louis Armstrong"}], "duration": 214, "id": "4cb5e0cb-977c-453a-9c19-c4b5c78dfccd",
+        "releasegroups": [{"artists": [{"id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+        "joinphrase": " & ", "name": "Ella Fitzgerald"}, {"id": "eea8a864-fcda-4602-9569-38ab446decd6",
+        "name": "Louis Armstrong"}], "id": "162346df-76e5-4cd7-9169-f047b61421d6",
+        "secondarytypes": ["Compilation"], "title": "Ella & Louis", "type": "Album"},
+        {"artists": [{"id": "54799c0e-eb45-4eea-996d-c4d71a63c499", "joinphrase":
+        " & ", "name": "Ella Fitzgerald"}, {"id": "eea8a864-fcda-4602-9569-38ab446decd6",
+        "name": "Louis Armstrong"}], "id": "6a165924-85e8-32a5-9d23-c43c71097b75",
+        "secondarytypes": ["Compilation"], "title": "Ella & Louis", "type": "Album"},
+        {"artists": [{"id": "eea8a864-fcda-4602-9569-38ab446decd6", "name": "Louis
+        Armstrong"}], "id": "dbb0d5bc-cfad-41dd-a38c-617802e6c407", "secondarytypes":
+        ["Compilation"], "title": "\u201cSatchmo\u201d \u2022 I gioielli di un genio",
+        "type": "Album"}], "title": "Stars Fell on Alabama"}, {"id": "4e310dab-79bb-4092-8062-4b2bc34cab8e"},
+        {"artists": [{"id": "eea8a864-fcda-4602-9569-38ab446decd6", "name": "Louis
+        Armstrong"}], "duration": 213, "id": "65e5e4af-1ff1-46d6-ad61-3897229b50bc",
+        "releasegroups": [{"id": "9c8ab851-c89f-4c0f-9a1c-35f22e78b741", "secondarytypes":
+        ["Compilation"], "title": "Milestones of a Jazz Legend"}], "title": "Stars
+        Fell on Alabama"}, {"artists": [{"id": "eea8a864-fcda-4602-9569-38ab446decd6",
+        "joinphrase": " & ", "name": "Louis Armstrong"}, {"id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+        "name": "Ella Fitzgerald"}], "duration": 215, "id": "7dfa4b14-3c63-4f5f-9e58-0983d83d0ed2",
+        "releasegroups": [{"artists": [{"id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+        "joinphrase": " & ", "name": "Ella Fitzgerald"}, {"id": "eea8a864-fcda-4602-9569-38ab446decd6",
+        "name": "Louis Armstrong"}], "id": "6a8ec885-544e-3b31-859a-a73289a01421",
+        "title": "Ella and Louis", "type": "Album"}], "title": "Stars fell on Alabama"},
+        {"id": "958521a0-8c19-4bed-ab29-d09e57dc4f6a"}, {"artists": [{"id": "eea8a864-fcda-4602-9569-38ab446decd6",
+        "joinphrase": " & ", "name": "Louis Armstrong"}, {"id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+        "name": "Ella Fitzgerald"}], "duration": 212, "id": "b6037ba2-bca8-44cc-adb1-b18999f8c581",
+        "releasegroups": [{"artists": [{"id": "eea8a864-fcda-4602-9569-38ab446decd6",
+        "name": "Louis Armstrong"}], "id": "3767884a-81a1-37b5-867e-1a5dff17a8e6",
+        "secondarytypes": ["Compilation"], "title": "Let''s Do It: Best of the Verve
+        Years", "type": "Album"}, {"artists": [{"id": "eea8a864-fcda-4602-9569-38ab446decd6",
+        "name": "Louis Armstrong"}], "id": "416fad2e-a9e0-3be0-82e4-a84290266cbf",
+        "secondarytypes": ["Compilation"], "title": "The Very Best of Louis Armstrong",
+        "type": "Album"}, {"artists": [{"id": "eea8a864-fcda-4602-9569-38ab446decd6",
+        "name": "Louis Armstrong"}], "id": "2a1ca9fb-5532-305a-94ff-1fb7cc349c4e",
+        "secondarytypes": ["Compilation"], "title": "Pure Louis", "type": "Album"},
+        {"artists": [{"id": "eea8a864-fcda-4602-9569-38ab446decd6", "name": "Louis
+        Armstrong"}], "id": "5ff3c409-0c91-3248-9b39-ac25c205205d", "secondarytypes":
+        ["Compilation"], "title": "The Very Best of Louis Armstrong", "type": "Album"}],
+        "title": "Stars Fell on Alabama"}, {"id": "c7397985-1cd7-4787-ade7-51a77cd493a1"},
+        {"artists": [{"id": "54799c0e-eb45-4eea-996d-c4d71a63c499", "name": "Ella
+        Fitzgerald"}], "duration": 196, "id": "d66ec5a6-2c86-49b6-9cb8-29f542328426",
+        "releasegroups": [{"artists": [{"id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+        "name": "Ella Fitzgerald"}], "id": "3fcdc92d-7f56-4043-827d-95b9c2a0ef3d",
+        "secondarytypes": ["Compilation"], "title": "Sings the Cole Porter & The Rodgers
+        and Hart Song Books", "type": "Album"}, {"artists": [{"id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+        "name": "Ella Fitzgerald"}], "id": "cfb7a271-851d-4161-b3e1-bc08208cc3e1",
+        "secondarytypes": ["Compilation"], "title": "Purely...", "type": "Album"},
+        {"artists": [{"id": "54799c0e-eb45-4eea-996d-c4d71a63c499", "name": "Ella
+        Fitzgerald"}], "id": "3b925458-026d-4fbd-8169-321c9c2ee413", "title": "Sings
+        Cole Porter", "type": "Album"}, {"artists": [{"id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+        "name": "Ella Fitzgerald"}], "id": "a9c89c7e-9ebd-4624-9ed5-7c6d29e8ec5d",
+        "secondarytypes": ["Compilation"], "title": "ICON: Love Songs", "type": "Album"},
+        {"artists": [{"id": "54799c0e-eb45-4eea-996d-c4d71a63c499", "name": "Ella
+        Fitzgerald"}], "id": "fe1c9c0d-6c45-4d54-85cd-8c02cc25ef71", "secondarytypes":
+        ["Compilation"], "title": "100 Hits Legends: Ella Fitzgerald", "type": "Album"},
+        {"artists": [{"id": "54799c0e-eb45-4eea-996d-c4d71a63c499", "name": "Ella
+        Fitzgerald"}], "id": "bf40c6ef-3d0a-4d97-a8bc-c4ebe3f75bf8", "secondarytypes":
+        ["Compilation"], "title": "Songbooks: Sings Cole Porter & Rogers and Hart",
+        "type": "Album"}, {"artists": [{"id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+        "name": "Ella Fitzgerald"}], "id": "dcc0d723-e27f-36e8-8438-dbbde7eb9a67",
+        "title": "Ella Fitzgerald Sings the Cole Porter Song Book", "type": "Album"},
+        {"artists": [{"id": "54799c0e-eb45-4eea-996d-c4d71a63c499", "name": "Ella
+        Fitzgerald"}], "id": "8b1b7f08-4796-3d14-bc34-f74c17127cbc", "secondarytypes":
+        ["Compilation"], "title": "Best of the Song Books: Love Songs", "type": "Album"},
+        {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various
+        Artists"}], "id": "1f0ac9f0-d2b9-4649-af71-0b2a924eb559", "title": "So Delightful",
+        "type": "Album"}, {"artists": [{"id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+        "name": "Ella Fitzgerald"}], "id": "2daa0e38-b923-329f-9f71-6c73e15758e6",
+        "secondarytypes": ["Compilation"], "title": "The Complete Ella Fitzgerald
+        Song Books", "type": "Album"}, {"artists": [{"id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+        "name": "Ella Fitzgerald"}], "id": "a4d6be51-614c-4205-bf99-ade89ba671ac",
+        "secondarytypes": ["Compilation"], "title": "Music & Moonlight: Songbook Selections
+        1956-1959", "type": "Album"}, {"artists": [{"id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+        "name": "Ella Fitzgerald"}], "id": "8929901c-f252-45b5-b3fd-198ee2ffa685",
+        "secondarytypes": ["Compilation"], "title": "Best of the Song Books: The Collection",
+        "type": "Album"}, {"id": "ece77bd4-8fbd-3bc9-92ce-3a90be13ff4b", "secondarytypes":
+        ["Compilation"], "title": "Selection of Ella Fitzgerald", "type": "Album"}],
+        "title": "From This Moment On"}, {"artists": [{"id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+        "name": "Ella Fitzgerald"}], "duration": 213, "id": "e07e3a6b-516d-4d36-81af-7247e4a37ef7",
+        "releasegroups": [{"id": "a87dd6e5-54bc-441b-b22a-7286a3b3a904", "secondarytypes":
+        ["Compilation"], "title": "Dearly Beloved", "type": "Album"}], "title": "Stars
+        Fell on Alabama"}, {"artists": [{"id": "eea8a864-fcda-4602-9569-38ab446decd6",
+        "joinphrase": " with ", "name": "Louis Armstrong"}, {"id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+        "name": "Ella Fitzgerald"}], "duration": 214, "id": "ec21941f-5149-410e-ba4b-7ce359f5e6ff",
+        "releasegroups": [{"artists": [{"id": "eea8a864-fcda-4602-9569-38ab446decd6",
+        "name": "Louis Armstrong"}], "id": "95c84950-64c1-3ef2-8dcb-a790ee465354",
+        "secondarytypes": ["Compilation"], "title": "Icons", "type": "Album"}], "title":
+        "Stars Fell on Alabama"}, {"artists": [{"id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+        "joinphrase": " & ", "name": "Ella Fitzgerald"}, {"id": "eea8a864-fcda-4602-9569-38ab446decd6",
+        "name": "Louis Armstrong"}], "duration": 212, "id": "f1c20cb4-da8b-4daf-8b9e-2f7cfd810cdc",
+        "releasegroups": [{"artists": [{"id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+        "joinphrase": " & ", "name": "Ella Fitzgerald"}, {"id": "eea8a864-fcda-4602-9569-38ab446decd6",
+        "name": "Louis Armstrong"}], "id": "241ccc14-c02f-4913-b938-cc24ab26b0fd",
+        "secondarytypes": ["Compilation"], "title": "Singing And Swinging Together",
+        "type": "Album"}, {"artists": [{"id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+        "joinphrase": " & ", "name": "Ella"}, {"id": "eea8a864-fcda-4602-9569-38ab446decd6",
+        "name": "Louis"}], "id": "60eafb58-0fbb-419e-88c4-33cf915071ee", "secondarytypes":
+        ["Compilation"], "title": "Singing and Swinging Together", "type": "Album"}],
+        "title": "Stars Fell on Alabama"}, {"artists": [{"id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+        "joinphrase": " & ", "name": "Ella"}, {"id": "eea8a864-fcda-4602-9569-38ab446decd6",
+        "name": "Louis"}], "duration": 213, "id": "f7739ce8-c217-4ab3-a21e-84805ba91ec2",
+        "releasegroups": [{"artists": [{"id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+        "joinphrase": " & ", "name": "Ella Fitzgerald"}, {"id": "eea8a864-fcda-4602-9569-38ab446decd6",
+        "name": "Louis Armstrong"}], "id": "45aa0e31-ab75-4605-a3a3-f650d4fa4229",
+        "secondarytypes": ["Compilation"], "title": "Ella & Louis: The Complete Anthology",
+        "type": "Album"}], "title": "Stars Fell on Alabama"}, {"artists": [{"id":
+        "54799c0e-eb45-4eea-996d-c4d71a63c499", "joinphrase": " & ", "name": "Ella
+        Fitzgerald"}, {"id": "eea8a864-fcda-4602-9569-38ab446decd6", "name": "Louis
+        Armstrong"}], "duration": 214, "id": "f8999573-f9ba-4356-a736-8e3712a838d7",
+        "releasegroups": [{"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "b92ca166-879b-4423-b089-cd519ef90baa",
+        "secondarytypes": ["Compilation"], "title": "Verve by Starlight", "type":
+        "Album"}], "title": "Stars Fell on Alabama"}], "score": 0.971717}], "status":
+        "ok"}'
+    http_version:
+  recorded_at: Tue, 29 Jun 2021 13:32:10 GMT
+recorded_with: VCR 3.0.3

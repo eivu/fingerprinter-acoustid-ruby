@@ -1,0 +1,218 @@
+---
+http_interactions:
+- request:
+    method: get
+    uri: https://api.acoustid.org/v2/lookup?client=<ACOUSTID_CLIENT_ID>&duration=192&fingerprint=AQADtFmYTAtT1M4kHBd6E2IdaJx-HM-jIbfgNFFyXCHKLiOa6viCZHmQ-4KbEFeW47EaHesfCeETQ0t1Egx3nB0UTooyDWEi6UX_405a_Az6GROzHL8OnuvgJpETItcf6NiFUjqepER5B02-Q9txJzpyLWwEu0euor9S9DmOH55yEc9RXmj-QEtWDSU7Bc8o4wwuBv7xQPfxXIe3XNCVJ5jy7Ogn4TKaPZDSCM-S6EJ8ZRMey2h84Xh2wSSLksWpfBGqsE7QdJNwjciRnNFx42EOxysTXOfww6k844kco7lI9HgeMEdDIrrhcTn05sEfvGYI58N_6HmGK0mKSfzRqMyUg9PxjCWa69B85DmJZ6iUWWiUvzhToz6o-0if5VDEk0G1E-l4F09iWPPRK4lR_WgukUGeCrtuXEl6_AIzw_mHPjkefyipQ09F5BbqNAenLMh5KNqOxr2CmC9xPMuSIswOTUyOfMqCX3iIptNRKsetPPiPVIb6Hj-eAyVNoVKyBad2NN2h7TnuIcw-VMo_PEOtKB6aWTnKHE1XHs-ToacawjPKUFuHPhFUM_iSE5eUYwr34kmSodfRNMd3-Arxg-LwHE8EipNCIfoHlcqP8ziVCxeLhk-P_sGJa4MdGs8zXBIdaEyU5QjTFH9wpsYJ3w9G9Qyu7DrCxTqSKGeM4j4qpo0S4kd_THkW4zmu5_iPhNeM-McfzFlx5ejh0DymZ8aT4gz8iXiGJ0Ez6kkQ6qUM7cgUhUrQTAmLZ7RwHdSDu8heaHlalA_xHNUpZImW4VSEs0WeJTs0kpSCtHmxX-hzXBuP6slxEZWU5MgThRV-aM-Dpj--MNCXiFKhLpoeeEecIj8O_UmQM3gy_DR6D65C-F-KX0j4INyE00UzlKki3FHgz_iMuDlyBdXhJ0YoJ5sgP1GHmMmNO8hzUXj5oOmpQnOOPBvuBFX6Isyj4HxwhuiPdtHxKkcfGuK1ok8-_AiTzxI6NkWp5WiCjwjzRDk0Hj-DK2iisUKe7KgaGoGOkJSJZuGOj8KZw8iPE2l-_Oh7VEyi48LzKEHTT6jTIWcIVUcYPket8HiH-_iRJ7QMPx9QKR-FJml46OLRNEf4o8-GX-gTcjhzPOpxGWGiLIsTaD-FPHwwnwOdK2i28Kj44x9OHzmSeTGuXODRfMQep4nwdNFxNKjH4UyMx_GRPEuEUGbgPUEb_biSoMmP5wmanESdHWG6BAkueH-GJ8oT4w0p9GgSTnhxHsmOMMPu43qGOwWr4Xi-CK6zg2-Qi0KzCIwVx5BKWvieVAipZJjST8UvNE-EMsefYFdmBXWGVJAe5BlzlFeGM6eQJ9XB8oIYJ-CPvsvQp1CaM8iT3EWRXsQVY18DPVuNOmeQH38QPkTzG-ePPMnWoHkyCpeJRslynMTI7Gjqo2-UIG-U7XhGQ3OOKSEPfhz2B-Efw_HRVMGjEJeyBPnxHGLtIU-i4Er0B0_MdXjGIkwVHho_fDyFa4H2JWjOI09sHJMvw2mObhu4o6bSHGHMY5cs6EKlnBzCKE-H88J7NA-P0FKCq8uhEqHCZNjqaETP4Q--IDt0HhGV5XiOH7aWDk9cMfiLHLU1uEmWGf1ThH9wp_iLlkuHKxdyBwq_LUeqN_hwHuyOR9mGP8ilKITGKkWYLztOCdfB7g2-GFmOZMyPd-kxpUeVKAf-S-iK5gke44xpXHjO4ZFTNNbRnWLwJyjzKSHSkZmg5ZkQk0L35DhGMUdf4QmyJIsOrSceMi7yHNHy4worPKENn1C_FPeO8alwHs1yocF1qEwySbBi_fiFh8blI5eO50JaCi_V49FiBc1ztEl8PMqNU_jToDlK5nh0Y3aOS07gX4dOHu3QOLmI_ELD50d5K8GRRyW0_Ef4i3iMP8aTPriSuLiCRp-CUDYtKN_xHPlnMD0aFs9jhG-YGFMiKdkD_Qvyo9kxndTxHByp4yG6-AiZZT1OWWga9LRwKSq2T9CDPjuaBoolHV8SRvhj_FpEfDnmHRe0X8iLw1GKSBY-jcefBrq0oYmYY5qOZlJQMU_wCdtxHreMR0uDJj80xiHyiDiY6Ap-Y8pxMSUerUOu0YO-I0yuxEHnUzge6vB0oa_QPFF69HPg4yh1xG2Kniua55D5BdOlBM9C9AenLIO3a3gScVCPraOL_MYN93iS5BPyBzp8KThTMXjUiniYQ8SdY48W4RktvBX2Q7ODpsmPi4nS4H7x5Did40l_6Dl-IX2UDVeLvSh5otGUHneC3GGgPTmmRNKhp0FzUkWfB_2hpbqDK8mRL0fPFE02OsKFK0eufBBPPEdOYs-VwFE_4sqO6zj2I8-hD-EPv_DRK7iyJ7jCL3h0JHyI6Iry4Ggi6cTHS2h0HBfCHz4RxlPw9cLHYL8WtCV-B-7QH8mPPD8q8YMT9SGaKc1x4w8L6w5ikTm-rHgOT7zwUI2G-1Cjxbh45PiF_jgzNAx34lxS4caRQ5WXDXN2PO7RL6kanD-2hTnqBBcN_ai2NmjkHPF2NFOmTKjtCPmF0cliaLnR5eCUC79AXbjLoWaOVCxRE-F1NHMX4YeuSEfVPQjz4puRP9CD8_ihazwY5Rc8T8TMdvB39Jj-Q9yN9hFxEb1OiIkiEeXD4GzEEFLioe9x9cd1ZIp2nOeQu1CGkeJxJia0jXkSPMXDC5EW2TgxqeIQpuJ0XODxg-yS44a-sAlYHlePp0j_4cbXBE3DwJO4o4qW5ThzHG6046RS4bkMahlT4VSGpxm-EtXLIVJUPTE-Q1fRKLkQUvSEpxOaw2eOcBcmKVwhJeeRK7yC_cG5ZB-aNVIj9F_wPELMlPgJXTp85niYPJh5XCIqimkiVLmO44eWCdV6PEv0QFJ1_FlTuFOOT_hxkdAmXqAiXgh94fHRY7vQE4-iFJcRz8lhOQfqlSAcEGEUAskIAAUQQAjNkDBEACQJMQYoIDBUSCBAATRCCCMMsgww4wwBCgEMgjAAGGIQUFAAIAxDDADCNDJAGAIgBMgyIpQwAADBiBAQEAUAIkAwgxgRgAEFgBACKQEMkIIARYgRAhFAkCFCOEAYcRIAAQIjABiGBLKICQcUcIwABDxAiAhhgDHMGI0QFYEBiAgQQgCAgAACEUYIgIIxQIABACiBEBMUEAYEEAAJIYhDAhAlCEBCAAgYAUoJSQgFTAAgjBAMEAGVYEgIoogAjjLShCAMGECAJQI4qIxEwCBBCADUASWRUAIACRQRgiFADACUAQSsZ5QBY5wkAgiHCDFKSQYUQAABAwgABGkFFFMCMAGhEFIIJQASHCDECGoAAQYEAcwAYiAFTlIhCAEMQYQGMwiRRQQRABhHgCBOKIEUAEIooIBSAgCnEDEYSCEMEsAYQMQQSggChFFACUGIMswgIAhgABlABHDKGyAFEhoIoBQAhAnlBCWBImCQIcR4wYwgFBBmgCAWSGuYUsIQYQSnABFAGDEAIAQKEAgAAgAEzFiEiVBKEEIAEMAQYZAEAgBjgECMACAQAAZRIgAAxDABAHBAOQCAQAYIYwAFRBiCjHDKCMWAEAAIAogATAAkBBBYIiWoAUYQAAEiUhEBgEFAIosJQ0gIBh5QFhGBgAAISKMAERAKASxyjCmkMCBAG6EMCEAQCZAjxAgCgEHMAGIAUAYAgYgA1ABJABFIIEQAIcIRZAATnBhAmIKCHGYYEQYQQgwAChiihACGOgQ0EAAYQQhABCgCBAAIQAIMJQIRBwhFAlhiCBQfACAYAIIALhR0gDGGEAAWMEEAYIgARCQQShAhBBGEOIAAEUAAgIDAiAFkCKBKAcNNNIIIgwBygEJFiGUQCAgQNcIR5hQDDBEBBCNCEECQYAwgQgAnhiFphCDACIU0IMggQKBARAk&meta=recordings%20releasegroups%20compress
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      Accept:
+      - "*/*"
+      User-Agent:
+      - rest-client/2.1.0 (darwin20.3.0 x86_64) ruby/2.7.1p83
+      Accept-Encoding:
+      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+      Host:
+      - api.acoustid.org
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Date:
+      - Tue, 29 Jun 2021 13:32:29 GMT
+      Content-Type:
+      - application/json; charset=UTF-8
+      Transfer-Encoding:
+      - chunked
+      Connection:
+      - keep-alive
+      Vary:
+      - Accept-Encoding
+      Access-Control-Allow-Origin:
+      - "*"
+      X-Envoy-Upstream-Service-Time:
+      - '181'
+      Strict-Transport-Security:
+      - max-age=15724800; includeSubDomains
+    body:
+      encoding: ASCII-8BIT
+      string: '{"results": [{"id": "bb6f108f-9a7a-43a6-af83-a04b014874d9", "recordings":
+        [{"artists": [{"id": "54799c0e-eb45-4eea-996d-c4d71a63c499", "joinphrase":
+        "; ", "name": "Ella Fitzgerald"}, {"id": "eea8a864-fcda-4602-9569-38ab446decd6",
+        "name": "Louis Armstrong"}], "duration": 189, "id": "16feea84-2a0e-4995-a27b-b73486154158",
+        "releasegroups": [{"id": "da875444-e0f7-4f1a-b6c6-621329eea2b8", "secondarytypes":
+        ["Compilation"], "title": "Autumn in New York", "type": "Album"}], "title":
+        "I''ve Got My Love To Keep Me Warm"}, {"artists": [{"id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+        "name": "Ella Fitzgerald"}], "duration": 192, "id": "34b09f99-7a8e-411b-a26c-b32f49f6b321",
+        "releasegroups": [{"artists": [{"id": "351d8bdf-33a1-45e2-8c04-c85fad20da55",
+        "name": "Sarah Vaughan"}], "id": "70e42abe-7bd5-4554-92d0-1b97296a49f4", "secondarytypes":
+        ["Compilation"], "title": "The 3 Divas", "type": "Album"}], "title": "I''ve
+        Got My Love To Keep Me Warm (with Louis Armstrong)"}, {"artists": [{"id":
+        "54799c0e-eb45-4eea-996d-c4d71a63c499", "joinphrase": " & ", "name": "Ella
+        Fitzgerald"}, {"id": "eea8a864-fcda-4602-9569-38ab446decd6", "name": "Louis
+        Armstrong"}], "duration": 190, "id": "3a390617-e492-4854-bb90-3f05ac631b73",
+        "releasegroups": [{"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "89d86760-0974-4db8-ad0d-7413252900bb",
+        "secondarytypes": ["Compilation"], "title": "Smooth Jazz", "type": "Album"}],
+        "title": "I''ve Got My Love To Keep Me Warm"}, {"artists": [{"id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+        "joinphrase": " & ", "name": "Ella Fitzgerald"}, {"id": "eea8a864-fcda-4602-9569-38ab446decd6",
+        "name": "Louis Armstrong"}], "duration": 188, "id": "4d352416-f857-4e7d-90d8-8b8b193ae66a",
+        "releasegroups": [{"id": "162346df-76e5-4cd7-9169-f047b61421d6", "secondarytypes":
+        ["Compilation"], "title": "Ella & Louis", "type": "Album"}], "title": "I''ve
+        Got My Love to Keep Me Warm"}, {"artists": [{"id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+        "joinphrase": " & ", "name": "Ella Fitzgerald"}, {"id": "eea8a864-fcda-4602-9569-38ab446decd6",
+        "name": "Louis Armstrong"}], "duration": 191, "id": "77c7d978-a646-4d0f-b802-b38e704b5b5b",
+        "releasegroups": [{"artists": [{"id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+        "joinphrase": " & ", "name": "Ella Fitzgerald"}, {"id": "eea8a864-fcda-4602-9569-38ab446decd6",
+        "name": "Louis Armstrong"}], "id": "f9852699-5df6-4ac1-8e76-462a68ec321b",
+        "secondarytypes": ["Compilation"], "title": "16 Great Songs", "type": "Album"},
+        {"id": "db1bfad9-232e-46b1-aa7e-01700f4320ce", "title": "Ella & Louis Christmas",
+        "type": "Album"}], "title": "I\u2019ve Got My Love to Keep Me Warm"}, {"artists":
+        [{"id": "54799c0e-eb45-4eea-996d-c4d71a63c499", "joinphrase": " & ", "name":
+        "Ella Fitzgerald"}, {"id": "eea8a864-fcda-4602-9569-38ab446decd6", "name":
+        "Louis Armstrong"}], "duration": 190, "id": "8bd956d3-f0bd-4694-9377-d98869b42404",
+        "releasegroups": [{"artists": [{"id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+        "name": "Ella Fitzgerald"}], "id": "a4b17d88-06dc-41a0-bc4b-d9e1477c55e3",
+        "secondarytypes": ["Compilation"], "title": "100 Songs for a Centennial",
+        "type": "Album"}], "title": "I''ve Got My Love to Keep Me Warm"}, {"artists":
+        [{"id": "eea8a864-fcda-4602-9569-38ab446decd6", "joinphrase": " & ", "name":
+        "Louis Armstrong"}, {"id": "54799c0e-eb45-4eea-996d-c4d71a63c499", "name":
+        "Ella Fitzgerald"}], "duration": 192, "id": "8f147554-affc-48ab-951b-1663a8206f2c",
+        "releasegroups": [{"artists": [{"id": "eea8a864-fcda-4602-9569-38ab446decd6",
+        "name": "Louis Armstrong"}], "id": "3767884a-81a1-37b5-867e-1a5dff17a8e6",
+        "secondarytypes": ["Compilation"], "title": "Let''s Do It: Best of the Verve
+        Years", "type": "Album"}], "title": "I''ve Got My Love to Keep Me Warm"},
+        {"artists": [{"id": "54799c0e-eb45-4eea-996d-c4d71a63c499", "joinphrase":
+        " & ", "name": "Ella Fitzgerald"}, {"id": "eea8a864-fcda-4602-9569-38ab446decd6",
+        "name": "Louis Armstrong"}], "duration": 189, "id": "a606a2e8-76d9-43d5-a49c-d63f315084e1",
+        "releasegroups": [{"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "9e8d1e5d-7fc1-4af3-a6a4-8d8274e1c273",
+        "secondarytypes": ["Compilation"], "title": "Martini Merry Christrmas", "type":
+        "Album"}, {"artists": [{"id": "54799c0e-eb45-4eea-996d-c4d71a63c499", "joinphrase":
+        " & ", "name": "Ella Fitzgerald"}, {"id": "eea8a864-fcda-4602-9569-38ab446decd6",
+        "name": "Louis Armstrong"}], "id": "24577902-0198-3733-b1cb-f10e8c2abb05",
+        "secondarytypes": ["Compilation"], "title": "Ella & Louis Classic Album Collection",
+        "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "8fc74274-df8e-3b1b-be01-06c6dd412fe2",
+        "secondarytypes": ["Compilation"], "title": "Pottery Barn Christmas Classics",
+        "type": "Album"}], "title": "I''ve Got My Love to Keep Me Warm"}, {"artists":
+        [{"id": "54799c0e-eb45-4eea-996d-c4d71a63c499", "name": "Ella Fitzgerald"}],
+        "duration": 192, "id": "a9b0fa4d-fcb2-444d-95ed-642672f4e868", "releasegroups":
+        [{"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various
+        Artists"}], "id": "370e8c7f-03e2-3f5e-a184-f7001749ba21", "secondarytypes":
+        ["Compilation"], "title": "Irving Berlin Always", "type": "Album"}], "title":
+        "I''ve Got My Love to Keep Me Warm"}, {"artists": [{"id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+        "joinphrase": " & ", "name": "Ella Fitzgerald"}, {"id": "eea8a864-fcda-4602-9569-38ab446decd6",
+        "name": "Louis Armstrong"}], "duration": 189, "id": "aa91fb97-c5eb-4531-a095-b223ee325202",
+        "releasegroups": [{"id": "a97c56bc-ead1-4692-ab21-96127890c603", "secondarytypes":
+        ["Compilation"], "title": "20th Century Masters / The Millennium Collection:
+        The Best of Ella Fitzgerald and Louis Armstrong", "type": "Album"}], "title":
+        "I''ve Got My Love to Keep Me Warm"}, {"artists": [{"id": "eea8a864-fcda-4602-9569-38ab446decd6",
+        "name": "Louis Armstrong"}], "duration": 192, "id": "ba857aaf-aa9f-48fb-8830-39f66916a0b8",
+        "releasegroups": [{"id": "9c8ab851-c89f-4c0f-9a1c-35f22e78b741", "secondarytypes":
+        ["Compilation"], "title": "Milestones of a Jazz Legend"}], "title": "I\u2019ve
+        Got My Love to Keep Me Warm"}, {"artists": [{"id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+        "name": "Ella Fitzgerald"}], "duration": 179, "id": "c5327883-76e9-41fe-b0ee-ec26ee81131b",
+        "releasegroups": [{"id": "fe1c9c0d-6c45-4d54-85cd-8c02cc25ef71", "secondarytypes":
+        ["Compilation"], "title": "100 Hits Legends: Ella Fitzgerald", "type": "Album"}],
+        "title": "I''ve Got My Love to Keep Me Warm"}, {"artists": [{"id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+        "joinphrase": " & ", "name": "Ella Fitzgerald"}, {"id": "eea8a864-fcda-4602-9569-38ab446decd6",
+        "name": "Louis Armstrong"}], "duration": 192, "id": "c82b721e-da77-4512-942d-1329f55d3d70",
+        "releasegroups": [{"artists": [{"id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+        "joinphrase": " & ", "name": "Ella Fitzgerald"}, {"id": "eea8a864-fcda-4602-9569-38ab446decd6",
+        "name": "Louis Armstrong"}], "id": "8ec69375-a2ab-3388-a15a-446133b29861",
+        "secondarytypes": ["Compilation"], "title": "Verve Jazz Masters 24: Ella Fitzgerald
+        & Louis Armstrong", "type": "Album"}, {"artists": [{"id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+        "joinphrase": " & ", "name": "Ella Fitzgerald"}, {"id": "eea8a864-fcda-4602-9569-38ab446decd6",
+        "name": "Louis Armstrong"}], "id": "7108712f-b350-310b-9419-232dceaaba00",
+        "title": "Ella and Louis Again", "type": "Album"}, {"artists": [{"id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+        "joinphrase": " & ", "name": "Ella Fitzgerald"}, {"id": "eea8a864-fcda-4602-9569-38ab446decd6",
+        "name": "Louis Armstrong"}], "id": "50fece99-77bf-455b-97ae-aabb9a848b8b",
+        "title": "Ella and Louis", "type": "Album"}, {"artists": [{"id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+        "joinphrase": " & ", "name": "Ella Fitzgerald"}, {"id": "eea8a864-fcda-4602-9569-38ab446decd6",
+        "name": "Louis Armstrong"}], "id": "a66a7aa4-b334-43f3-9669-822700799082",
+        "secondarytypes": ["Compilation"], "title": "The Best Of Ella Fitzgerald &
+        Louis Armstrong", "type": "Album"}, {"artists": [{"id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+        "joinphrase": " & ", "name": "Ella Fitzgerald"}, {"id": "eea8a864-fcda-4602-9569-38ab446decd6",
+        "name": "Louis Armstrong"}], "id": "0cbe776a-d90b-424c-bd31-a87a42025821",
+        "secondarytypes": ["Compilation"], "title": "Ella and Louis: The Anthology",
+        "type": "Album"}, {"artists": [{"id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+        "joinphrase": " & ", "name": "Ella Fitzgerald"}, {"id": "eea8a864-fcda-4602-9569-38ab446decd6",
+        "name": "Louis Armstrong"}], "id": "162346df-76e5-4cd7-9169-f047b61421d6",
+        "secondarytypes": ["Compilation"], "title": "Ella & Louis", "type": "Album"},
+        {"artists": [{"id": "54799c0e-eb45-4eea-996d-c4d71a63c499", "joinphrase":
+        " & ", "name": "Ella Fitzgerald"}, {"id": "eea8a864-fcda-4602-9569-38ab446decd6",
+        "name": "Louis Armstrong"}], "id": "c70ee463-c59b-4146-a887-75d0f3b2b531",
+        "secondarytypes": ["Compilation"], "title": "Original Greatest Hits", "type":
+        "Album"}, {"artists": [{"id": "54799c0e-eb45-4eea-996d-c4d71a63c499", "joinphrase":
+        " & ", "name": "Ella Fitzgerald"}, {"id": "eea8a864-fcda-4602-9569-38ab446decd6",
+        "name": "Louis Armstrong"}], "id": "cdfb0201-8ffc-3a02-b42a-4abd66be7f01",
+        "secondarytypes": ["Compilation"], "title": "The Wonderful World of Ella Fitzgerald
+        & Louis Armstrong", "type": "Album"}, {"artists": [{"id": "eea8a864-fcda-4602-9569-38ab446decd6",
+        "name": "Louis Armstrong"}], "id": "8d80301f-a239-4bbf-9959-0d3e5018f752",
+        "secondarytypes": ["Compilation"], "title": "Louis Armstrong & Guests", "type":
+        "Album"}, {"artists": [{"id": "54799c0e-eb45-4eea-996d-c4d71a63c499", "joinphrase":
+        " & ", "name": "Ella Fitzgerald"}, {"id": "eea8a864-fcda-4602-9569-38ab446decd6",
+        "name": "Louis Armstrong"}], "id": "c4d57285-84d5-4413-8118-b92f402ad1da",
+        "secondarytypes": ["Compilation"], "title": "Cheek to Cheek: The Complete
+        Duet Recordings", "type": "Album"}, {"artists": [{"id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+        "name": "Ella Fitzgerald"}], "id": "3dcd39f2-5c4f-4043-9534-9581e7191a30",
+        "secondarytypes": ["Compilation"], "title": "Six Classic Albums, Volume 3",
+        "type": "Album"}, {"artists": [{"id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+        "joinphrase": " & ", "name": "Ella Fitzgerald"}, {"id": "eea8a864-fcda-4602-9569-38ab446decd6",
+        "name": "Louis Armstrong"}], "id": "6d31f8f4-a8d9-3254-aaaf-98bde2865166",
+        "secondarytypes": ["Compilation"], "title": "Cheek to Cheek", "type": "Album"},
+        {"artists": [{"id": "54799c0e-eb45-4eea-996d-c4d71a63c499", "joinphrase":
+        " & ", "name": "Ella Fitzgerald"}, {"id": "eea8a864-fcda-4602-9569-38ab446decd6",
+        "name": "Louis Armstrong"}], "id": "6a165924-85e8-32a5-9d23-c43c71097b75",
+        "secondarytypes": ["Compilation"], "title": "Ella & Louis", "type": "Album"},
+        {"artists": [{"id": "54799c0e-eb45-4eea-996d-c4d71a63c499", "joinphrase":
+        " & ", "name": "Ella Fitzgerald"}, {"id": "eea8a864-fcda-4602-9569-38ab446decd6",
+        "name": "Louis Armstrong"}], "id": "37012d18-8647-3648-87e7-7a66423b863b",
+        "secondarytypes": ["Compilation"], "title": "The Complete Ella and Louis on
+        Verve", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "7069d345-9ba0-3aed-8b3e-f6c588837758",
+        "secondarytypes": ["Compilation"], "title": "Verve Jazz Masters 60: The Collection",
+        "type": "Album"}, {"artists": [{"id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+        "joinphrase": " & ", "name": "Ella Fitzgerald"}, {"id": "eea8a864-fcda-4602-9569-38ab446decd6",
+        "name": "Louis Armstrong"}], "id": "276936da-1d1e-318d-bd3b-8d25c4815e73",
+        "secondarytypes": ["Compilation"], "title": "The Best of Ella Fitzgerald &
+        Louis Armstrong on Verve", "type": "Album"}, {"artists": [{"id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+        "joinphrase": " & ", "name": "Ella Fitzgerald"}, {"id": "eea8a864-fcda-4602-9569-38ab446decd6",
+        "name": "Louis Armstrong"}], "id": "6db7efe4-acd8-3063-aa1b-fb2890273652",
+        "secondarytypes": ["Compilation"], "title": "Jazz ''Round Midnight", "type":
+        "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name":
+        "Various Artists"}], "id": "58b4db1e-59dc-429c-b71f-2d1258d20063", "secondarytypes":
+        ["Compilation"], "title": "Romance of Jazz", "type": "Album"}], "title": "I''ve
+        Got My Love To Keep Me Warm"}, {"artists": [{"id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+        "joinphrase": " & ", "name": "Ella Fitzgerald"}, {"id": "eea8a864-fcda-4602-9569-38ab446decd6",
+        "name": "Louis Armstrong"}], "duration": 191, "id": "d035dd0d-4e30-48f2-9725-5725e270baff",
+        "releasegroups": [{"id": "cac3ced3-b737-4bfc-99ee-8f1bcdfc29b4", "title":
+        "Christmas Together with Ella & Louis", "type": "Album"}], "title": "I''ve
+        Got My Love to Keep Me Warm"}, {"artists": [{"id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+        "joinphrase": " & ", "name": "Ella Fitzgerald"}, {"id": "eea8a864-fcda-4602-9569-38ab446decd6",
+        "name": "Louis Armstrong"}], "duration": 189, "id": "d9b247a9-fd85-4887-ab88-63b208b7cadf",
+        "releasegroups": [{"artists": [{"id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+        "joinphrase": " & ", "name": "Ella Fitzgerald"}, {"id": "eea8a864-fcda-4602-9569-38ab446decd6",
+        "name": "Louis Armstrong"}], "id": "241ccc14-c02f-4913-b938-cc24ab26b0fd",
+        "secondarytypes": ["Compilation"], "title": "Singing And Swinging Together",
+        "type": "Album"}, {"artists": [{"id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+        "joinphrase": " & ", "name": "Ella"}, {"id": "eea8a864-fcda-4602-9569-38ab446decd6",
+        "name": "Louis"}], "id": "60eafb58-0fbb-419e-88c4-33cf915071ee", "secondarytypes":
+        ["Compilation"], "title": "Singing and Swinging Together", "type": "Album"}],
+        "title": "I''ve Got My Love to Keep Me Warm"}, {"artists": [{"id": "3cd95572-1af4-466f-a7f2-a65f15c934b3",
+        "name": "Teddy Wilson and His Orchestra"}], "duration": 185, "id": "f3a8098e-283d-4162-87c5-cad00ffae0b4",
+        "releasegroups": [{"artists": [{"id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+        "name": "Ella Fitzgerald"}], "id": "39640e2a-f382-3859-a5e9-08cfffe10f4b",
+        "secondarytypes": ["Compilation"], "title": "The Quintessence, Vol. 1: New
+        York 1936\u20101948", "type": "Album"}], "title": "My Melancholy Baby"}, {"artists":
+        [{"id": "eea8a864-fcda-4602-9569-38ab446decd6", "name": "Louis Armstrong"}],
+        "duration": 191, "id": "fe4469b9-2e30-407d-bae8-9f572913184e", "releasegroups":
+        [{"id": "7b5195b9-d4f8-4082-86d7-c9142d023a4e", "title": "Louis Armstrong
+        Christmas Collection", "type": "Album"}], "title": "I\u2019ve Got My Love
+        to Keep Me Warm"}], "score": 0.934335}], "status": "ok"}'
+    http_version:
+  recorded_at: Tue, 29 Jun 2021 13:32:30 GMT
+recorded_with: VCR 3.0.3

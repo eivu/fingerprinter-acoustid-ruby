@@ -1,0 +1,63 @@
+---
+http_interactions:
+- request:
+    method: get
+    uri: https://api.acoustid.org/v2/lookup?client=<ACOUSTID_CLIENT_ID>&duration=141&fingerprint=AQADtHQUZQmTIFeGhFHw4zV-_NiNN1mC5BeyJ8eP_gGTC80T5ZjOD4_wqEatNkNypD-DOrHx8Hge5EepRHHQLMwa5Cea6Tqq6sP3qPB447uBGw--Yz_kPvjFgUoPfg3qm2hOXMyRJ86h_cELNYj44fThBmWCH0925AqD5DlxJTlxPvCy3BEenjju48Fn7HqC5BfyO2BMNJfBH36W48QsokwSOnizIOGRo44e_KnwIIe45Ee-B78IW8uDfDySE6-OMHwMrVmUB_lvNEp2lDKepUdz1CeSTmKD_MKlG2bS4OTQLoFH5ah-3C7O4Dfaoflx4kt244lMvPDDIfmRX8MxusYnG1yTpNVwRRp-6Due48zx4VbYFE7iD3l-JE_a4D_uoLl0MHISPcaTHMmV5MiXoopHBf2CXkfzJLiORwnuI9lfZMqNcA_Ux8gVET8DNsMfRPqRsJxQMRKOX3ifhDieWKKE70iiVApCnQPP43qgR_kxPckcNNeHl3gWoTkzVD7yHHqmI6-CZwpe_Jj0gObSYeOP8OxwGmoTHZ_0IFbx4MevINmHNGLwOYenhFSO6qisofnx3BrypYmQ5Dueo7mK6c9xRcvhJdvxJ2iecuiWEPmWZ9CpC48URjEcRTo-wn8SIT-ejCiVXEEzHg-T4jvuB89xB09TNIyOPnmKJzSOvEiehziPRs0WE31YnD6-psWPgbHTI69TaEZwHjca3UvQUyyehMV1XOJBlUlw_LiiK5jmK0FTbwpeBn9wZchz5B_yfNCo6IV7BqEu_DmuJMOj4qfwM3jyBfCHB8-RPE-KfA-8KMcl0scV_OiXEHsQSmmQqOKDSWEeND_-EIdz_Ej6B3kqZfgifAmHOePR9Oh5JM8RX3LwHM_xeagULoQ3odaFRF-UHbnBkniiRCG-gD-aw18ulImOJymDhuchRSLz4QLxG8-Gbcl6_MEvuNmRJyL-NNB8I4zxfPgzND-6iTjTFEefHc2oC8mPHPs3oQnzBGtk4Q_6B8l_BD6j4kys4TveH9qPP-hFZniHJxK-S3jzo7oSNMfT47rwI-F341lexLJiovuC5tgvIXlSI6Px7IYVq8UfLWAy9SiT-MF1JC-y5D_aB3zwC49F-D-O-0YTKZFShIooEkLKdcWFi9OCJ1fA_agSonmO_NhvPMeVBFpDoXGCw9oz_Eid406c4SP6wN3RTspy_B2ePMePH-mR_IrxwFalHDUfNEmPn0S6VAmSS-fwSGh2PDqa7EMVHc1-PEH4x9ByIs9xSXh4TKmDE03-DD-uTMqRP4OUdEd_pBaDfFRQPWh048xy4TqUPccz_ET1JwiTLJU0HHmCJwqa_lDESD_-EuE9It-OSXcC7UoJH40exMOTR8EPP0mOa3jwHbmoBckJv3ie48cbPAneJ-iOLdWh-cOPKwvxW1rQKLuSoNqSzfiQ_EN6lsJ3fEec7IeUn7jFBv0y3IeWZFJShNUW3FFT7Cqa50pQ4EoS4pHz4kdDRx9yJHuSE2eKJ_iwH29Wwn9wbgKPMMmjQSN_THfRMFscND-mG1fgjqnw8cOnRFmCH-IBMjryKKGDf2hOonaaIDsPRTuaJwliJlzxHU-CX8KzHmFW1FJmxE1y3I5w6ij84_PQY4ee4OIDK48W7FIaAlab4-rxKDT6Gumho0beId_xB7pyNF0iRtBI5M5hJzNxPTGa7EaXEz-OC9-G_YT-CC_-CNS1BpwPOz3OyDOeCuHTQj_y40OVL_h9NMtRnjgeHY8DPwo47RmOZsxCI9m34MedBxWbQEpKHfmOJy_6OYJ_9LhUPCuSMkN-NGcGP0yHPclMnERzHU9efPiFpt4CRWKCE68S8EevYFxu9Hh0VKQoSYj0JA0kRIpCVMqFx4yG8_BxVfiR3MiThB8uwQ9OHPs4XKKjQGoUXTiZEdN5NHuKH-54fFfgXcFIMUjsaWjio8RB7QF-FO_w48dzSDcO81BjDvGLwx2jCD3qg3qNiS2Pd0GyG-eRJ7nwwL9R3REiM4S-Id_xKMcTcD9-bKw5vMg3edCPJ9WQ_sSLEz-zoT9yJTSS5aLxbDae2MLXpPiJR-ijE1OQF8nxbhHufGhUKQhlZYY-5ImOPqMCnxx6nMSZ5eCJZEueIUzEnEItZkfjB_8CP3h2nCKe6AjjRPGRKB7xNJgyNUev4zzadriOdIqoBtotRP4GmnB07FtEPEfz0EF4QTf-B3mSJMf1o3liItSVQMc-Qc-RS1cCNg_h58bTD2eaEFd2wZ_xHBmS00aVJQMnZlbwJsNxnLzgo9SPLDtj8Cah6xA_nEcP_Yj34LnwBlX-wGOGZ8SJFz4-asfTHMzF4xFmn7gSp8GXkEKeXtC-I8x5DQ-eyYvxJHNgjplwPEfTRDwWhUwlTCuDO6uGMIWOME3C4uzQ52gu07hC4ZJQZYkZTHl2vBp-CcyFZuyK58SlZMTzCc2RTEeeD6fi4UmOL8fR_Eh2I3LRaDnuw2-H6ckDPseUGWGTBLpMIk10BxeX4zp-PLhw6fCihC2OH-uJPBJuFcqRL3nRLJGZoBf-oM-C9IeW4gup40rEQFMm5vCjIzXRZyluPXhy4fjx7Uh2iQjzjHj2Bd_x3fClKQgXTyo0f8fb429waBlzhNo-3MdD_JGEP7geJEduDU3RX8cXfD1OJzKeXEHzoux4CAProHqeBJuUS0XfJcdl9OMMj9mHZDLzI0_yHUdzBmV5XGkiH252fPvw4ydSRkbSXviQFxrCMMeTwyFHPMeV4_wBQ7hgkgGhFAFCWEMMYAIJIoGgAEBllAKACEWccBQJopRACBlBoACCOMcEoYwpIAgBSgjlHKKCCGQQMMQCxpgyyADQABLIEcAEIYABIYRhwDujiGAECQEQAJgkgCiASjkqoNFEMsOYA0YgQpgRCDAgHACWCAcIJEgRZiBQRDnjDGRCEEIUBQQRBQwRACjGDBLACCSIkggJBISwDjEjhRPKEAAYgkxAYQRBBkhgBBDGIYCUIsIQCIACjCJACEONIKAUBIApgYyDwiCEoHCEAAAEAEwRhQQiRgoImDMIQSQUZEQJoxgAjEKioVJAIUQFBsYh4pQAiAhIGBDCAEkUEEgAgwAQZEikiBMQCSKUAcwIAsgRQiAJAAKGKCSEAogIIaAAUCAEhCDEaWSQgQQAQogTiBADDADMKCCMwIIxIARIQBMEAEBAEiEQYEgxo5CxhAAChCFUAQKIF0YBA4gWDkgBIBNAKQKZAQUIAoCQRjEGGWBQIEeIAAI5pgQwRAADhEBEEWYAYdYYhAgQBDJGCIEMUIWAIYwpYRBAQAiACHBIAwCEAAJQQRhIACgCnJIGKCAQJUQwqZRQiBIICFKcCUIYwkAxITUnBhgBBBFUIWCRM8IgZJRillpBCDJgOOAYIYA4RjQDRkiFFJACkaKQEFBQoogAjAGigBLICIaMI04AA5xAyjDlAHGQQCEAYCQSAQQQhgNjlGDSEQKRIQwosSgHEABmCDPECAAxUAhBwBhCSBslFBPICKIAIwQKBhgDCxAgjBCcAQaAEAgpxAQhQkgHCGCIKCUEQoIwAAggBAEAGCJICAgEkAAJyhCxMBoCkTAAAucAAwgJhQ0g2FokkBCCMSCUUQAIEJBligDIGACAIEGZEEkRIAhXBBHHBERGQSSAEEoQIAxQXJBQKAYOKOAFkIwKpIgATABBhCIIEqMMQgABAARAQCCCiSCCCgENYQIRQDwFwBCEgBAAIEIAMEAgYABAAjkDAEPKKgANAkwA&meta=recordings%20releasegroups%20compress
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      Accept:
+      - "*/*"
+      User-Agent:
+      - rest-client/2.1.0 (darwin20.3.0 x86_64) ruby/2.7.1p83
+      Accept-Encoding:
+      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+      Host:
+      - api.acoustid.org
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Date:
+      - Tue, 29 Jun 2021 13:32:47 GMT
+      Content-Type:
+      - application/json; charset=UTF-8
+      Transfer-Encoding:
+      - chunked
+      Connection:
+      - keep-alive
+      Vary:
+      - Accept-Encoding
+      Access-Control-Allow-Origin:
+      - "*"
+      X-Envoy-Upstream-Service-Time:
+      - '106'
+      X-Envoy-Decorator-Operation:
+      - acoustid-server-api.acoustid.svc.cluster.local:3031/*
+      Strict-Transport-Security:
+      - max-age=15724800; includeSubDomains
+    body:
+      encoding: ASCII-8BIT
+      string: '{"results": [{"id": "875bf0f5-7161-4012-9fb9-61ddbe9b6a40", "recordings":
+        [{"artists": [{"id": "54799c0e-eb45-4eea-996d-c4d71a63c499", "joinphrase":
+        " & ", "name": "Ella Fitzgerald"}, {"id": "eea8a864-fcda-4602-9569-38ab446decd6",
+        "name": "Louis Armstrong"}], "duration": 141, "id": "57155fd8-d8e0-4ec8-a904-3132554fd955",
+        "releasegroups": [{"id": "8a796362-8901-38d2-a271-b56a19d0395a", "secondarytypes":
+        ["Compilation"], "title": "The Magic Duets", "type": "Album"}], "title": "Who
+        Walks in When I Walk Out"}, {"artists": [{"id": "eea8a864-fcda-4602-9569-38ab446decd6",
+        "name": "Louis Armstrong"}], "duration": 136, "id": "94564267-ab95-4853-b726-56fbb0615945",
+        "releasegroups": [{"id": "2c3e750e-b21c-30f4-802a-64303a61eb42", "secondarytypes":
+        ["Compilation"], "title": "Selection of Louis Armstrong", "type": "Album"}],
+        "title": "Who Walks in When I Walk Out"}, {"artists": [{"id": "eea8a864-fcda-4602-9569-38ab446decd6",
+        "name": "Louis Armstrong"}], "duration": 139, "id": "feb69fc0-5b81-43c1-bec0-a9d6baa43cc1",
+        "releasegroups": [{"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "abbc75ef-239b-41c2-bba2-2eedd28aa0e4",
+        "secondarytypes": ["Compilation"], "title": "The Best of Schmaltz, Vol. 2",
+        "type": "Album"}, {"id": "8d80301f-a239-4bbf-9959-0d3e5018f752", "secondarytypes":
+        ["Compilation"], "title": "Louis Armstrong & Guests", "type": "Album"}], "title":
+        "Who Walks In When I Walk Out"}], "score": 0.929325}], "status": "ok"}'
+    http_version:
+  recorded_at: Tue, 29 Jun 2021 13:32:48 GMT
+recorded_with: VCR 3.0.3

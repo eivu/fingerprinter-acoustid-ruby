@@ -1,0 +1,166 @@
+---
+http_interactions:
+- request:
+    method: get
+    uri: https://api.acoustid.org/v2/lookup?client=<ACOUSTID_CLIENT_ID>&duration=524&fingerprint=AQADtLISJQqZ4amDyjGsU_glNLfwnEhG2QhzKbiSF_3hG7uQ6dNyKNJ3Ic83BU_y4ZIyI3wOLT8upYReBZcq9Plx6TnEH2ce5DvaGT8uKVNwKTgRchHFFMmSLRcuncePLc6CSzgrgtURqRf8pLj2CGLjDA-aHzlTPB8-uaibBs0zPLjgF0-Pz0HvoDliZ4d-5MeX4CHxH9-o4Gfx_CumwzeypPGh-_Bz49aCW82CpE9yHNt04Wcm7MpCNBd6kOdRPbExZT3xO7h8HB9yDUl0UCbxB0-SPeh3nMaPUlcMOzdqhRw450F2CVLLIxcxSabR_IpC3AIaJ4yOk0fDeHgXCclLD3FOBTHVoVSOZFk4Cn_QHH0f4TmepdlxXgnRXEP54DkRHbp25IonXA-qB_9Bjyf6BeNOXPbxBM0f9LrwHDjm5GiSKHUEzllCAUN4BsmewIen6MHpVPjQDN9xH3WSXHCLIywXIzmP50bzJUalO_iOnkHDZMYsRXEQ_5D04GIm5GtTNNuH7UW_wD_-BWMu8AuPK4yCMvtCeDquIq0JTXky3EeewzPePPjRjNnRVH1w_fg9_IHXJXiG_Ap-6Jxwskba1ZiNZyIj5McZ2UItKUNIUtzwJVNE5JkR8sfDDo6LkpmDo0ezP9i1HEffo9lzfMeNHMmjC_wT_MEmFV_oo0fTHJeOwxez4Hjx5KhlBrOiw4muRSk4fUTxIsl5BH1IVMmYTMG4X-j5gsl5fPiwR0ETJg_xfOiP40cOfUOepDgvXNaF9dLxa_B6PD_OBT-aSW-E82gcCvyOWmgaDdmQU4uEKboWImSW6DiTQ4fzIe9yeLmEO3uCJzQuD89TNGfQLx_yB0kO1sH-oB8TPIct_A_K4-GH68Svo6InPOmOMLuhOCST4Svx50F36IpRMWKD59BIbwhzrqjy43wKPsd1TD_-4DoSUklIFb_wkDmaUHnR_tCDKciCOsauaAq-wjzRE89xvDfya4E2PxHy63CO-seJHz-Si0X0JMUdPFlXoUweNDv4ZHga1ogPPQny5PgelFFeXC_SC9qR58bd48vx5MFPoHIfNEuUG7myLoceHUxeo2eg_8gTp8HYHHFeiBZypfjxjIvQjFmVoBf2I811yNWRSamOOZFwpunRC01yTsHd4rnxeDiF5BHS6_hw5ai0L3iULdiO4n_gPwGt_bj24ksUI9IplD10Cs_yIUxyo5SeFZ9y4WIihD_88Dgf_IkgZsqxH5pSJUeuHEyeIVTDRMST5REutocPXVmIRzvR_OhLIzJ3PLqJ0Q_69bgOM8F8HPG5INkqkbiUJHnQLDmKXw5-otGSsEEXucFzHKfyDFcShcLLC9WqxGh-zEquBFdwNHuOkIqQHGi-DdOV4lGPy-EyPD-OpntiJHNc_OiqQMuYXMGpC8_x40ngB3qO58HhI0eehMdPHX9RMV7h_uhx4cdxJytu40RFTFmmByWTHFQyx5gu1Ajz48UX5EX9FVqs4_qRy2iWE73xpEqOtCSFpFK04zd8HL8O82Fw6czw6BOeKokiXNaRErp2hGnQ19hzHN7BphGHPSfyI2GTVmgi5uiS1cNfOEyyGtcW4WR0PCEqdYffCbWLw3Ue5NFxaAk_PBEXxCQlPOjxHvFVIXmwH40UgXG05MAmLw1-_IOtBYEeI33wRJfgMEf-QCfyHA-eZIF53MmPpGmRDw8iZXrgZ0bPtND-4MS5zXjKQL-QaSXa5DH-BD3eC9_BqDmOHmGayFCuHH20QswVVImMJy6O5hlxB1qmJMtR60eYeWHxJ8cqHo6k4nlw-MV75EXyBLUvPJrWoVoePDmuGgwPn0SkL0RyHk-Okj2uD_3xPcd_PHyD5BFF5Dz8jLiNfQ84Bm-WI1ZGQ9eDPFHgK3nwOdFwbDHxMPhyIuFt5OWKO8eTRsEXmccTpRl6Fn7gQ_txLTuuJWh2ow_mvMhJBkwaocqOhzueFM1po2eg58iz4FKC6mj0ItEf5E9x4UHzET2xJzzMGvkiJLyUGy9x5_iDtEqEtzn0vdBxMUOfSfCfpOg2uImOX4fXQM-DXJ2wC6F1-AiPJ8qDZnyC8IlySA8fIw01PGWOO8Wjow_6HjfyRDEU76gyixmq54EuZchz_EIZPgl-SUi4IY-0C2eS4OjxXhkudgmSB5EC5saJhH8RfU_weMSTw1FwJH-OPKHRPEUfPXg6hEopQoykjBPCMGmOV8YTuGmOK5GMJ8SfIlLzIHmOhiNyZjn4I3mfYUqTROgZ9PDyYOKP8AySCzsq50H3wflRJ8EllEfYCslxPsIV3nikXMSnB00-9MgXnIlwC9OfoHksQYoepWiUD-eIXD96TBE342J0nEe-HuIRc4dF48ua4C_6Mmiu4wuLJ_yxH7_RhWieZ3ioI18uJDuaH8_BcT-qwCf2Hn7W48eZKIeYKHvhPxl6HFfg9MeTKA-uC-WLtDpaLtGKh8dj-NijFboOf0eeH1_gUUpxKpvwKD-ybT6a9YJ2HWdU_MIX44ly4TsqZ4SaE31G6Ike4coF33gE5kET6cKe5EgsjkV1-vAzTM9wHbmSgioh5DmuD2WSigqaOQl3_A2OhzgegommcEoS3GMEZgkVHbmE_dA3I38aoiSahcfV4zme4xfeD3dCI0x0JGNOJdgVcgGfkMeYw3-C_8rwhbiQQzN9xE8SWMnYodK14XnxC1fQI02WExqlIz-uP2iGiktG4dk--MbzCN5xFsmF6MYznaioPArsWTnq5ugZoemPmwsYRg-ufDF-PDxIH9vNEJcHsTTqNMcz41fwE0QABMQBJARCEhABgDAIKIMccwgIRIyghAEmiEPKEQKAIEg5YwihAAujCHJACUQZg0gaRgwRwgECABGIEAcIIwJwo4BAIigADCFAXimABIIJY6ABBDAiACXEEEUMM1gARgACAgjGAFEGEiSIMMQRghQwAkLnhCEEGGcANBAJoIQwRgmBABGCIAcAIAgKpQgQihrgiANACIWQYko4QgQBEDilDACpAAKoQcA4YxQCDABkAEaAW0ImkwAQ5gwBQhABIAUGKMIgw1oYJABgABCGDEFcAAcAEwIAQ4BADABECGAESKEAI8YgYAQhwAlkEFIMGCAJQYICoADCRhCCkHQGAIQEFswIJxBgBAECGBLCEKEJMkg5b4FDyiBkCINUASAEJYoYQQRgRkhglDBEQUisMEhIBIgigAmEEHAqGQYAUgABARAwSiAmnAGCGAkYE0gZIZ1DQBAAAEEEKCIAUUQgAEECQAHDBFEuASIANABRIQgRSBECBBMACEAQgcIhARHCiikChBAEABKEZAApQwRyxCiGiADKKSCAAVI9QAQRSAAAABTGgIWQcdQhYgQwQAEmpFBMGgDAMsoYABAFwiiFJXKIAiIQUUAgAARDghGnGHLAcCqIEMggLYQAwCCEQCCMEAEUElAIgZRyACJCjBFACSCkIIAKIhRgChBnBWBMEMIAAQJAIwESAgulCKBAIGCIMQwQiBAijhAAqBBSAEYMBwoYCAgBzBAoJiFKCAGAowwSIZhAQiHFkCNEEEQAGgIAIwkQBgEDiRIGCUEBAQMBABUhwiFBgODMEQERUUohQJpAAAhhkCaMICAMM4IgCwhCBFgCIEBEGASAkMQhYARiDDhCDUCGAQEVMAQQaRECwgBFiBIMEIMAIEBwIIhARAGGJCGEGSOAIQhCooAAQArikCJIACAEQ4oYQwgBBCCCLBjMOMAcEEAAA4AQBiEhCEMQSEMskwIAhBAj0gAChBCGIAIZEcwwYohDhChmAA&meta=recordings%20releasegroups%20compress
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      Accept:
+      - "*/*"
+      User-Agent:
+      - rest-client/2.1.0 (darwin20.3.0 x86_64) ruby/2.7.1p83
+      Accept-Encoding:
+      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+      Host:
+      - api.acoustid.org
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Date:
+      - Tue, 29 Jun 2021 13:32:21 GMT
+      Content-Type:
+      - application/json; charset=UTF-8
+      Transfer-Encoding:
+      - chunked
+      Connection:
+      - keep-alive
+      Vary:
+      - Accept-Encoding
+      Access-Control-Allow-Origin:
+      - "*"
+      X-Envoy-Upstream-Service-Time:
+      - '144'
+      X-Envoy-Decorator-Operation:
+      - acoustid-server-api.acoustid.svc.cluster.local:3031/*
+      Strict-Transport-Security:
+      - max-age=15724800; includeSubDomains
+    body:
+      encoding: ASCII-8BIT
+      string: '{"results": [{"id": "97c1694d-01a8-40ab-859e-461cff8971d3", "recordings":
+        [{"artists": [{"id": "54799c0e-eb45-4eea-996d-c4d71a63c499", "joinphrase":
+        " & ", "name": "Ella Fitzgerald"}, {"id": "eea8a864-fcda-4602-9569-38ab446decd6",
+        "name": "Louis Armstrong"}], "duration": 522, "id": "0011190a-e82f-49bf-b234-dec7a672b929",
+        "releasegroups": [{"id": "162346df-76e5-4cd7-9169-f047b61421d6", "secondarytypes":
+        ["Compilation"], "title": "Ella & Louis", "type": "Album"}], "title": "Let''s
+        Do It"}, {"id": "39870b6a-79ca-4176-a573-9326d6a63f54"}, {"artists": [{"id":
+        "54799c0e-eb45-4eea-996d-c4d71a63c499", "joinphrase": " & ", "name": "Ella"},
+        {"id": "eea8a864-fcda-4602-9569-38ab446decd6", "name": "Louis"}], "duration":
+        523, "id": "44e490f1-e414-4230-ba77-fae107641294", "releasegroups": [{"artists":
+        [{"id": "54799c0e-eb45-4eea-996d-c4d71a63c499", "joinphrase": " & ", "name":
+        "Ella Fitzgerald"}, {"id": "eea8a864-fcda-4602-9569-38ab446decd6", "name":
+        "Louis Armstrong"}], "id": "45aa0e31-ab75-4605-a3a3-f650d4fa4229", "secondarytypes":
+        ["Compilation"], "title": "Ella & Louis: The Complete Anthology", "type":
+        "Album"}], "title": "Let\u2019s Do It (Let\u2019s Fall in Love)"}, {"artists":
+        [{"id": "54799c0e-eb45-4eea-996d-c4d71a63c499", "joinphrase": " & ", "name":
+        "Ella Fitzgerald"}, {"id": "eea8a864-fcda-4602-9569-38ab446decd6", "name":
+        "Louis Armstrong"}], "duration": 522, "id": "4cf3a8af-b743-4b59-b9b3-83f693e2b927",
+        "releasegroups": [{"id": "24577902-0198-3733-b1cb-f10e8c2abb05", "secondarytypes":
+        ["Compilation"], "title": "Ella & Louis Classic Album Collection", "type":
+        "Album"}], "title": "Let''s Do It"}, {"artists": [{"id": "eea8a864-fcda-4602-9569-38ab446decd6",
+        "name": "Louis Armstrong"}], "duration": 523, "id": "5f8f2f4b-4d4c-4fcb-977f-38eb54dc07e3",
+        "releasegroups": [{"id": "59fb4d9c-3785-372a-a72e-e7bc7258db39", "secondarytypes":
+        ["Compilation"], "title": "Louis for Lovers", "type": "Album"}], "title":
+        "Let''s Do It"}, {"artists": [{"id": "eea8a864-fcda-4602-9569-38ab446decd6",
+        "name": "Louis Armstrong"}], "duration": 524, "id": "66bf3d51-d86b-4a3a-89de-fbf803d90665",
+        "releasegroups": [{"id": "451eed7a-1226-363e-b5cf-8f323ff67e5a", "secondarytypes":
+        ["Compilation"], "title": "Jazz ''round Midnight", "type": "Album"}], "title":
+        "Let''s Do It (Let''s Fall in Love)"}, {"artists": [{"id": "eea8a864-fcda-4602-9569-38ab446decd6",
+        "name": "Louis Armstrong"}], "duration": 524, "id": "914a4085-8dfc-4dc2-b95d-5fcc504e299d",
+        "releasegroups": [{"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "b984e456-ccf4-3e95-8c67-b5de3a59fd16",
+        "secondarytypes": ["Compilation"], "title": "Voices of Jazz", "type": "Album"}],
+        "title": "Let''s Do It (Let''s Fall in Love)"}, {"artists": [{"id": "eea8a864-fcda-4602-9569-38ab446decd6",
+        "name": "Louis Armstrong"}], "duration": 521, "id": "9e76513f-a240-4bfd-ab5c-04900d82380f",
+        "releasegroups": [{"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "e9ef0e50-06ca-4d08-9320-581611b66af6",
+        "secondarytypes": ["Compilation"], "title": "Verve Jazz Box", "type": "Album"}],
+        "title": "Let''s Do It"}, {"artists": [{"id": "eea8a864-fcda-4602-9569-38ab446decd6",
+        "name": "Louis Armstrong"}], "duration": 529, "id": "a989c0c2-f2fe-47bf-9e6b-6658e8cbff7c",
+        "releasegroups": [{"artists": [{"id": "eea8a864-fcda-4602-9569-38ab446decd6",
+        "name": "Louis Armstrong"}], "id": "3767884a-81a1-37b5-867e-1a5dff17a8e6",
+        "secondarytypes": ["Compilation"], "title": "Let''s Do It: Best of the Verve
+        Years", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "c3fa99f2-38c7-3c20-bcd7-3685e6a73141",
+        "secondarytypes": ["Compilation"], "title": "Artist\u2019s Choice: Elvis Costello",
+        "type": "Album"}, {"id": "5ff3c409-0c91-3248-9b39-ac25c205205d", "secondarytypes":
+        ["Compilation"], "title": "The Very Best of Louis Armstrong", "type": "Album"}],
+        "title": "Let\u2019s Do It (Let\u2019s Fall in Love)"}, {"artists": [{"id":
+        "eea8a864-fcda-4602-9569-38ab446decd6", "name": "Louis Armstrong"}], "duration":
+        524, "id": "b6a92057-f4b8-40d3-8923-2be0310d2612", "releasegroups": [{"id":
+        "928622a5-39dd-4f42-aff8-5ebd2d70bad5", "secondarytypes": ["Compilation"],
+        "title": "The Complete Collection", "type": "Album"}], "title": "Let''s Do
+        It (Let''s Fall in Love)"}, {"artists": [{"id": "eea8a864-fcda-4602-9569-38ab446decd6",
+        "name": "Louis Armstrong"}], "duration": 524, "id": "bca0b21c-94b0-4657-8ce2-a6c15e363ffe",
+        "releasegroups": [{"id": "9c8ab851-c89f-4c0f-9a1c-35f22e78b741", "secondarytypes":
+        ["Compilation"], "title": "Milestones of a Jazz Legend"}], "title": "Let\u2019s
+        Do It (Let\u2019s Fall in Love)"}, {"artists": [{"id": "eea8a864-fcda-4602-9569-38ab446decd6",
+        "name": "Louis Armstrong"}], "duration": 522, "id": "c1a0a438-f5cc-4f63-afd3-a6c510dc7585",
+        "releasegroups": [{"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "44bf25bb-baf8-4408-a5a0-d28aa03f85d1",
+        "secondarytypes": ["Compilation"], "title": "Jazz for Lovers, Volume 3", "type":
+        "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name":
+        "Various Artists"}], "id": "9f6af89c-4bf9-349a-9366-5e15fa63cd17", "secondarytypes":
+        ["Compilation"], "title": "The Very Best of Cole Porter", "type": "Album"},
+        {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various
+        Artists"}], "id": "9635c6b9-3d0e-35ad-858e-08ae32433c22", "secondarytypes":
+        ["Compilation"], "title": "The Complete Cole Porter Songbooks", "type": "Album"},
+        {"artists": [{"id": "54799c0e-eb45-4eea-996d-c4d71a63c499", "joinphrase":
+        " & ", "name": "Ella Fitzgerald"}, {"id": "eea8a864-fcda-4602-9569-38ab446decd6",
+        "name": "Louis Armstrong"}], "id": "7108712f-b350-310b-9419-232dceaaba00",
+        "title": "Ella and Louis Again", "type": "Album"}, {"artists": [{"id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+        "name": "Ella Fitzgerald"}], "id": "3dcd39f2-5c4f-4043-9534-9581e7191a30",
+        "secondarytypes": ["Compilation"], "title": "Six Classic Albums, Volume 3",
+        "type": "Album"}, {"artists": [{"id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+        "joinphrase": " & ", "name": "Ella Fitzgerald"}, {"id": "eea8a864-fcda-4602-9569-38ab446decd6",
+        "name": "Louis Armstrong"}], "id": "0cbe776a-d90b-424c-bd31-a87a42025821",
+        "secondarytypes": ["Compilation"], "title": "Ella and Louis: The Anthology",
+        "type": "Album"}, {"artists": [{"id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+        "joinphrase": " & ", "name": "Ella Fitzgerald"}, {"id": "eea8a864-fcda-4602-9569-38ab446decd6",
+        "name": "Louis Armstrong"}], "id": "37012d18-8647-3648-87e7-7a66423b863b",
+        "secondarytypes": ["Compilation"], "title": "The Complete Ella and Louis on
+        Verve", "type": "Album"}, {"artists": [{"id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+        "joinphrase": " & ", "name": "Ella Fitzgerald"}, {"id": "eea8a864-fcda-4602-9569-38ab446decd6",
+        "name": "Louis Armstrong"}], "id": "4c0ada80-1ed6-37a5-917a-b369dbf6f920",
+        "secondarytypes": ["Compilation"], "title": "Ella Fitzgerald & Louis Armstrong
+        for Lovers", "type": "Album"}, {"artists": [{"id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+        "joinphrase": " & ", "name": "Ella Fitzgerald"}, {"id": "eea8a864-fcda-4602-9569-38ab446decd6",
+        "name": "Louis Armstrong"}], "id": "50fece99-77bf-455b-97ae-aabb9a848b8b",
+        "title": "Ella and Louis", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "6a39cc7e-9cfb-3a96-bdd0-189937974dc6",
+        "secondarytypes": ["Compilation"], "title": "Night and Day: The Cole Porter
+        Songbook", "type": "Album"}, {"artists": [{"id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+        "joinphrase": " & ", "name": "Ella Fitzgerald"}, {"id": "eea8a864-fcda-4602-9569-38ab446decd6",
+        "name": "Louis Armstrong"}], "id": "c4d57285-84d5-4413-8118-b92f402ad1da",
+        "secondarytypes": ["Compilation"], "title": "Cheek to Cheek: The Complete
+        Duet Recordings", "type": "Album"}, {"artists": [{"id": "eea8a864-fcda-4602-9569-38ab446decd6",
+        "name": "Louis Armstrong"}], "id": "78840314-3fd8-4185-b212-26d65ce07537",
+        "secondarytypes": ["Compilation"], "title": "The Very Best of Louis Armstrong",
+        "type": "Album"}, {"artists": [{"id": "eea8a864-fcda-4602-9569-38ab446decd6",
+        "name": "Louis Armstrong"}], "id": "5ef2fafd-fe62-3f23-8099-85167cd849c5",
+        "secondarytypes": ["Compilation"], "title": "Verve Jazz Masters 1", "type":
+        "Album"}, {"artists": [{"id": "eea8a864-fcda-4602-9569-38ab446decd6", "joinphrase":
+        " & ", "name": "Louis Armstrong"}, {"id": "ed801bdd-f057-41c0-94fb-76cb5676cd59",
+        "name": "Oscar Peterson"}], "id": "2cd03f5b-d935-326f-9368-f34583f46570",
+        "title": "Louis Armstrong Meets Oscar Peterson", "type": "Album"}, {"artists":
+        [{"id": "54799c0e-eb45-4eea-996d-c4d71a63c499", "joinphrase": " & ", "name":
+        "Ella Fitzgerald"}, {"id": "eea8a864-fcda-4602-9569-38ab446decd6", "name":
+        "Louis Armstrong"}], "id": "162346df-76e5-4cd7-9169-f047b61421d6", "secondarytypes":
+        ["Compilation"], "title": "Ella & Louis", "type": "Album"}], "title": "Let\u2019s
+        Do It (Let\u2019s Fall in Love)"}, {"id": "ccbb23a2-14ca-456e-a8b7-390104279a9d"},
+        {"artists": [{"id": "eea8a864-fcda-4602-9569-38ab446decd6", "name": "Louis
+        Armstrong"}], "duration": 521, "id": "d1ecd8b4-5cf0-445f-8ce7-6fa06c1cf7c0",
+        "releasegroups": [{"id": "95df9093-0343-4a64-984f-f46951ce534d", "secondarytypes":
+        ["Compilation"], "title": "Compact Jazz: Louis Armstrong", "type": "Album"}],
+        "title": "Let\u2019s Do It (Let\u2019s Fall in Love)"}, {"artists": [{"id":
+        "eea8a864-fcda-4602-9569-38ab446decd6", "name": "Louis Armstrong"}], "duration":
+        524, "id": "de227030-3d9c-48a2-bd67-7efc93f7a77d", "releasegroups": [{"id":
+        "49513110-0a4c-4d99-8f0f-c44944a29534", "secondarytypes": ["Compilation"],
+        "title": "Autour de minuit", "type": "Album"}], "title": "Let''s Do It (Let''s
+        Fall In Love)"}], "score": 0.999868}], "status": "ok"}'
+    http_version:
+  recorded_at: Tue, 29 Jun 2021 13:32:21 GMT
+recorded_with: VCR 3.0.3

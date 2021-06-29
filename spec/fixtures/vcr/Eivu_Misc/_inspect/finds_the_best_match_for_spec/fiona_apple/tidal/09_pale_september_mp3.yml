@@ -1,0 +1,73 @@
+---
+http_interactions:
+- request:
+    method: get
+    uri: https://api.acoustid.org/v2/lookup?client=<ACOUSTID_CLIENT_ID>&duration=352&fingerprint=AQADtFSiJzGD3DhxHSr3DI6IvBkX_Pj0jEGfD82O5-gmBv6OXsjxX2gV5kjH4EdODucy6Id_4TSxP9As6ugi5bDoohYvPAx0XIh-PE-QLzK-4jteqDv8D-_xfsNz4hspnA1KwyfRUtB8_MH9BT9yGiZ3xNJxqNfR60Loq2iUSC7OHEeYMIcmS9TRLwij4z3OC-eR_4KuJhXe6XgE_YcZnciPt9eQK1EGuTzCS0ODZ-FwmbiO5kUp_Ohf-Ee4Dxq15XhoCu6J_vjoQU-SHTWan8XxHvoeHGdynEoeyC_iJcX1EYcn5cFfxFOp4Y3CCfIY9PChox9u_KLQDz-uC7rwq0IeLixxHRfsB5GsC7qLXBIiiaEIn0J_yPGHpzeOs9A_5Eto4clxvST84fiRK1EYIXG4XEJf6nh4WMWL_vjxIVeeIbmS4yeaF32S45I648X1EWUuBs1zJD_C9EGtHJeOX0Ppo-GRlynxSTh54wnO6BHaozk96BquIA-zRKi-I2k0LQ7yx_CD2seb4sd_XA8qMWNQKc8U3CSuIM8y6Fl0nEaeXLh6JUHToyf6HK6eFNuY5KhETeHxZsd4Bel_6IKuLWHRSjuaScBt6Esi4g9x5dOgHe8LcSzyZDiPTziFXtGIJ_iJf_hOHE-O_IY4_cjzSGiu4wuDf_BXlESZZ8KJo8-Li8en4-VxGj_-4V2O7gkXNBNfJD_ChN5RFj9K-DScc0FeGQnDPij941kVPMU5oTY1OEfiRnlwpkinH_7RPiP-C8119EuDj_iPUzmRR-GH64Wr7PjxHO_04idxZUd56LgtpBNa0hF-PD3iI_mHq8d_9BpMwh2NnlbwXIh_JGcxa_iJO1kDkoXD2niPP8jaHDomW0fjoFZoqLDCDBeeEUUfPIeoHtXi40d-NEe59LgSoeE75FYELeGGPPvwoRkT9MWTHGuPZDey_XiPjcebC_6x6-COJHIyIh9xsUfDhUfPGyfCTDuSJxeeWS2uo8qPHycuEY_2CHF_iJrmI5QTBc0d4bh0EU-SE332wjqPkSp67Tjx5qLA_0juIN7xE7woVNc2bMkROsmhI7-JFi--wM-RU_iPOA38w71x4cyRfngOOcyl4As5XC-0e7iRZ0EP7yvqo2I-fEGfYkd-SOEZpKRysD8eRJ2gLzViHs6y4EpgR0e4HnouItQLjzwOrzye469wC3kVJH2Oo0zG4jyLp4dv4_nxE8m8xEQ64zfODn1wdceHHRmJ5DR29fDxo2SONIfOwD5iCV5GhF96CNGf4fjxr3jQ6_Dh45nR7DOeUgwq-IR_hD8uDjWhJYmiGc8FJrmoQZEcacUlKdBvhFneo9SPUxQcfsOTBd-PH89yXErECcno4jxEIQ8vfDmu7Rr-BfcFf0FS60cYVfnwBReLJ-lxihtRxTyaZhL0KaTwMg9-B0eYJ0mOZI52PNLxnHguNEePR01xKTtiJ8ohJj3yGyeeo8INJ4vxSwj8HLcER3QPrTHOBiF1TXh5eF2OThcic0iegqdlMJkfYiqv4JEYJGVChEfz48xiNLyF-jGuCDo2PA_49dgiBg-OB32S41mH3MeTHvnxEsexg1rxZNGhWFzRB_jy4riEMko-uMyD8MmhFznxsmi4_KiY4_vxHz_OMPh2XEd-6FIYnMqIfHgUNDvRD6c0nFSRlET4HD5-wsmDZ1mOUpLxoLnQE78QLzemKMrRQ2d-5AcvpmimaHgK5xWDSfgunDm-MEdzJNGDkDnRTMeYJTkq8zG8dB08DnXEI5eOF-EP58akOEdJRWCMXcZlG-HnQKyDHM_hJKKDf3hN5IT6pUceHTZKXUafxTl8fM9QMTl-xM4CXUI-PDn-4PlxJcrRw54ooa6I5BniTNLxD28VlDp84cM1CXk0DprFI_YlPEka4zLCqBd6E-p36Ep6XCfCPBd6vE9Rxz2aGtNz-DNcvQLz4zrm4w9-Cq2icfCJ_vjR41PwHTl0-IOZG31i6Bh3vMe1R9DB7kV65ThzBeg1PLvwlwKX8_jR-_iDEz_COMqEJHrT4wmJDz-OHu4low-P2EfSNPiNj0nQPMWxPcsO6kckZQqDZPIHWxd6_MWPH3mONjp0-HgOPfqQP_B44QuOV8JFpIoVaH-wn9B5ZNSFyVLyoLnwHc2D_mifwxKR8H0QSneCH8139Ekw5WCOiCJTJI0S7cL1Ec1RPMgzG8l3_LhJRsK3pcnR50CPb5jyHSGS73jzgtTxfhGoXMEb48ePZM8R5q2IH6OU41GNksOlItkRM8mFhzyeB_2H5j9-PBl-JL2CXEMffZiYHOeFH8cmHycJXTo-Hqes43nQbNGCPvjRR5DTHT_Oww6Nazmeo2UUHsiVHclDHz-qDS8ruBaKPVGOC3mh84j-oGRmONaD6jmuTBEeHUeY7kS1Hfp8IW8uXIqHZkeZ0Mg5NF-GMhH0B4f2pET6KCjz4zkuVgouwhXF4XdxpRtxRTnaJDouOAhvHIceT3iOK9CVHnqEn7gfuDp-xE87PCn6T3gX4SoeIf0C7QwZ4jllPMGPRxea6RpR5j0eXCvyT2gWRSjVXHh8VA-a4zHCB1pOnJk1vBHuB49x-rg-PMpD-MQZZg0e5tA1vJEQng8AYAQyBBEhiDCKOKEEIgIAxIQBABBEmIBIAHaMMwoKqxhAhABGBWLAMESAAAMIKxwhjDiJAJGEGEQMAAQAYxQhSIAgDGGEMIKoEEgQyxQxghEDhCBEIFMUAYYQd5ghEhBimWEQIaMEEEAgxZRBhBAinGQIEAaIYMAZAIgxRDmmwCEAEAEIQYoQgJwiCjEnhGNCA4GIEIAjg4AEACiiFQNIAQoNQgAwACQBhAAgiDBAIEAgIQIgrIRgTpvBjHBASKucEggIA4hAQADmECECKEIY4AoRAgASwDCIABCCMCsAM4gAQIQiiEgBECACEGCYAQwAQoxQThENlKGAEAOQEIACgBQCBBhoOEEIMaOIYkIog4gAxAgkDEGAEEkAEowAAJARwEBiCBAEUegIEcQQ5IEgRgBEAAMCIAIcdIIRQJAQogAkADBIAEoAoEAYwgASAhDCFAJQCUIcIM4pZJgChwBEADDCEUAFYIAAayQTyDiEANACEoMoAUaRQYCQQghBEBBAGCiJEgwKAZgQgCJgFGMEAYkUAMQogYgQQjhAABCEAQM4QEIwgpiADCEAjCCMEUQEgBAIJhxykBAiiCAEOMIYQQIxQ4QzwAiAiQjrEOsIA4gI4RUhgAklCEEICgEYgAoBYSABQigAJCQCCUMcQBQAoyQQQSBAHUFCKACAEYwYJAAhSikJjAKAWCMAQsIKhhQTwAhBgBFIAKkUMQQRIYgwgACGlBCcGKKIQAIqYg0EBiEggAKIuEWAMVAYgLAD0AhgBCEEAS4EchwCIAAg0AEjEGHMIQoMIEAYAiBSTBFAFUPCICUQAkgQABRwADiACAEIAIEUUQJoQBSGhlBGgADAAEEYIkRIAgRSBDmCAGIIMEcEIQ4AYIQHChlhgGBEAGABMAwJIowSgABhGEEESEIAMAQxIgCjQAEgCCHGgWMAAQAhJQAERygiHFLAAKQUEE4kaCAQgjhBgAWCCaKQg4IAACRSggDJjALOGCQWIIYgBAxAhgBBAIECAA&meta=recordings%20releasegroups%20compress
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      Accept:
+      - "*/*"
+      User-Agent:
+      - rest-client/2.1.0 (darwin20.3.0 x86_64) ruby/2.7.1p83
+      Accept-Encoding:
+      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+      Host:
+      - api.acoustid.org
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Date:
+      - Tue, 29 Jun 2021 13:33:08 GMT
+      Content-Type:
+      - application/json; charset=UTF-8
+      Transfer-Encoding:
+      - chunked
+      Connection:
+      - keep-alive
+      Vary:
+      - Accept-Encoding
+      Access-Control-Allow-Origin:
+      - "*"
+      X-Envoy-Upstream-Service-Time:
+      - '81'
+      Strict-Transport-Security:
+      - max-age=15724800; includeSubDomains
+    body:
+      encoding: ASCII-8BIT
+      string: '{"results": [{"id": "a1a27200-1541-4228-b015-3099f0f154fe", "recordings":
+        [{"artists": [{"id": "a9ee533f-8871-4f62-a6bb-91eb264abc90", "name": "Fiona
+        Apple"}], "duration": 352, "id": "3b734bd5-6268-4936-a559-629fe38e5c1e", "releasegroups":
+        [{"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various
+        Artists"}], "id": "32cd194b-0ca1-3e41-ad47-f5bb1554628b", "secondarytypes":
+        ["Compilation"], "title": "Lilith Fair: A Compilation to Benefit Breast Cancer
+        Awareness and Prevention", "type": "Album"}], "title": "Pale September"},
+        {"artists": [{"id": "a9ee533f-8871-4f62-a6bb-91eb264abc90", "name": "Fiona
+        Apple"}], "duration": 350, "id": "494fcc95-9235-4d5c-bf6e-4b4281e239c1", "releasegroups":
+        [{"id": "2e552187-13b4-3c2b-8c63-207923fe8443", "title": "Shadowboxer", "type":
+        "Single"}], "title": "Pale September"}, {"id": "78fb3aca-6357-4c39-973d-acbf7d537724"},
+        {"artists": [{"id": "a9ee533f-8871-4f62-a6bb-91eb264abc90", "name": "Fiona
+        Apple"}], "duration": 350, "id": "7fddd1e8-e168-46b7-b93e-9355a7ff0427", "releasegroups":
+        [{"artists": [{"id": "a9ee533f-8871-4f62-a6bb-91eb264abc90", "name": "Fiona
+        Apple"}], "id": "b82bef40-53b7-4582-8561-8b660039dec9", "secondarytypes":
+        ["Compilation"], "title": "Original Album Classics", "type": "Album"}, {"artists":
+        [{"id": "a9ee533f-8871-4f62-a6bb-91eb264abc90", "name": "Fiona Apple"}], "id":
+        "82ba556e-99bf-380d-b9b5-5a97737f1cd1", "title": "Tidal", "type": "Album"},
+        {"id": "a5699755-a6ac-4b27-9720-4c290689d1b3", "secondarytypes": ["Compilation"],
+        "title": "Tidal / When the Pawn...", "type": "Album"}], "title": "Pale September"},
+        {"artists": [{"id": "a9ee533f-8871-4f62-a6bb-91eb264abc90", "name": "Fiona
+        Apple"}], "duration": 352, "id": "85fb00f9-2505-48ff-9df5-ec9808336d31", "releasegroups":
+        [{"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various
+        Artists"}], "id": "9cf6a168-2d3e-3cf4-b619-5cdebfd160a5", "secondarytypes":
+        ["Compilation"], "title": "Fleetwood Mac Tour 97", "type": "Album"}], "title":
+        "Pale September"}, {"artists": [{"id": "a9ee533f-8871-4f62-a6bb-91eb264abc90",
+        "name": "Fiona Apple"}], "duration": 351, "id": "cb2f077f-98a3-4351-a991-d30f69cf9a02",
+        "releasegroups": [{"id": "3ae8693e-0a98-39f2-a169-dd4c21f61048", "title":
+        "Sleep to Dream", "type": "Single"}], "title": "Pale September (live)"}],
+        "score": 0.939082}], "status": "ok"}'
+    http_version:
+  recorded_at: Tue, 29 Jun 2021 13:33:08 GMT
+recorded_with: VCR 3.0.3

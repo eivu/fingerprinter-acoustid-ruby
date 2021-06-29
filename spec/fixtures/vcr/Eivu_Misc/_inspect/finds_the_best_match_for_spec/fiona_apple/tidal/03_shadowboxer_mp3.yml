@@ -1,0 +1,89 @@
+---
+http_interactions:
+- request:
+    method: get
+    uri: https://api.acoustid.org/v2/lookup?client=<ACOUSTID_CLIENT_ID>&duration=326&fingerprint=AQADtEmWRMmoTESIJiOLXwp-4_rhR8UP7qh_NP-CD0_eI9KhJUf4BI1yEe-Rh9CPT0aYqh4uFc3I4ss-hJSYB6J4IfSHfoP3FC1H_EF3IX2gH_3wRER5WGWOP3B5nD30w7OQLzssfehZ_Inx4_geRBQPHbmUZQNZqcWFHs07KXgfPL_AN3DNDf_x5GhykTFK4kEkKi60PMF9pN_x5cHzI7egNT-aKUmEP9AFH5eykEEu4xFFFT3yn9DXEHnPoDv644aPD-8GKxa-B24v_Md3xDTELwifHI0uotJfHMePmcyDIzYzI3mmiVhvtPrhMyg7Cw9-PMUXnGLR7D2SnSvyXML5IDSmVdgvIT8VISWj3Mh9fPhUOEx2fPCkDBdy4UoF9arQ47xgKcvhPQ66C_rxoxQtmB-6rESvOEje48vh9Ed-qD_yZfDRncevHJgP-seH-EIiNmRx-Thz1GjGMCT-4C-R-Ihx5WgqOmifHsiR9PiHNz_2R2gdC37QH0-C60ByqTOOKx-urGgmm9CWq-jhKMeZQH9wpTiekEgjH0-yH_mF5LFwUhY-HcfhSNtxPUPCHOFpnD12nAQvRQ7e49OFuVhNI_kR5kEphbhyVA-aT8xx9AsaRaaJ6zgDTpSQMNL040cYTse0F_kP7cWRJ9MRRpNW_Icm6kRj3ch1_EauPBBzI7fwvHhIEc3RbUdyI3dRvrgC6_hjJA_jIFdCwvuJdzjHoHli_Mj3IvmOq4ffCz9-lDdOwdrRH8lzIWePhkezH5eUYuUVVBfhRkHJY85H5NARHtWX4Il6XAgP_SnCF98p3MMnBkdbHakenKZwHT_EdcF1HN1PBJX0wVGUozaLZCtTIcev4tLxJDr8HPFHQf6CMDmNPziBWcRxcgJHZUV-JGAkwU2YC_3I4MdRWsZ_hNuRlDlOS0T5NDCPidCNzzku5kGn54EnCn2S43iO_EgeBmeOo3YueN8y_IEjfmjJ4kd4-Dn0fBkuccW3Hc905MP34MdzJB_SOj7u4Q_85Sipb7iF65i7G6eDjCySJ8RxNJF4tJSG-xNw_Dh7lBlx5aDKoz_-Cc8ejOqO5CfSXMXTB7-AOjma0yiJMFyWQree4D3iJ_gulJkuvMuMHzn-QD9OId1xCcn_II-D6vjQ5nCuFPl4JP4C50QfnDp2XA_4Cp8OOVWIp7jw6Aoc3gF_XNJgR0Pm7Dl-TFFIG9XDCz_uExdf5D_yQz_S5_jDDjuehxJY6cJzEeGRZC9q73h1fBx-vMIbo2H64CHcZTh-_BdyQjfS8cOZB_fR48ZzvJcx58H149mDHzGkh0W47DPMZZ3QK1WIk0eYJ8mgIfpePOeMSnkIn0d4Hskv3KnwtgumhVKOJmwoPA-Y8sGU8fgY_IhTBfrhHs8OfTn6PEPz4C_eH_rxKnhiCuEXEj9O4ThyiPvxDHmVEV2Oz0Tfw3uOlkf-HOH7DNbmCDG0Z8YfHe_x4xLKJEkkCr-FX_CLeuSRJ-SBfmj2Y6_C4spIMB3-oNKLvFCdI8yO9rh28Oh_ND8epmj65EG541uW40ekODkuffCjQz86jNKO-7h86B-aHuHDGHei48OOHlPIxRGORnoQSqSgnwj9wW4O10N_PBbO41KO50kS4RMq0zp8dP1xuiVySIl3VE8Q5kO_a_izojmL8HmEX2DyIZSY7CgToXnxgwcjqoat66iS7Ph5zGvw6CJK5sLRy0IeaYKeHOGO-sHpdMOFPjnR1Cni4we0RZuRXrhnNA_GJhPuXEAOHdFtXMeTUviJnxu6Zj6a57iPM02PHy_8NriNfT3iB_IehGLi4zleNOdTPCOuXPh1nMnQPOiP30fzHlOZI3mKGzmm48oR84Wm6bhy7MRzVNSDbSsmkQqCE3_QI8zCcrj4QRcd9IhW8XieHNVxfMejI5ezobc2OEeoNMH1GU-P5hfqCpdnfAoeIvchX4h36UJtw1uMPj9-HteF92j6Gv3RLNGOXtlxXPuCk0WYh4wgX0iPtzOa5xWO42h64k3QVOLw41SU4c1x5QpKiYf_HOdB5RKeCx-al8eLYzseyUZ-VDwH_fClEz-Ow8cJ_fgP_QOOw0d-_EdeHT_x4xX8o1-OB-XxLeHgH9_xw49i5Phx4sdxaR6cGutwUNnq4NFwYkwYfcFPPIT3D7Wi45mOn_jx6HBoBl_C4KOO7TJ-5CqSKYwcowmVJMQROUPyowkvBc8SMujDpMF5nAmeCMcXJEea9MOPH89w3DueJHtxmcNTWH6L0_h11NbR2MhVHlq-Ixd8ZUWP41mMizyqPFoG39xQRzsu5ngq_DgeH8-m40KzjEcvB2dFPIWT4cpj5DkuBboROrmMPseDHG8cqJ0yIjzxZB9-eFKPI3eh5zjCE58SvDeuBPnD4DyaLYd-wc9y_IbYX-iTHc_04xf0I9fxJHiihHiOXjD3JPgSGbt6IXqRjMuBH1d-FH2y4jz-PcgTZbiSQ8uP7qNwHyXzQEvT4HaGZsyhKVWOX8id47kRXoFOp8h5-EdfHn96XMJz4g9iQ19O5MIDH3_UBM-QJ4d-yoiZRwCDkABGEQFIAIAQAgSWAhgECFLOCECYEERCQxggAjhElCGKIaWAIZ5EYITgIBBDFBACCAmEkYAI4QADQgDGDAaECCwAEAJQJBAlBiEABCFYSIKIIJEKABIAApAooQCEKIGAY0AIIJgTCBoBDSJGCECUNMoQgwwSxhrIJDFAACAAcwwABQ0ggBggRGZEIKAEEhYRAJxRkGnAlIFOGgEEQhAgCBUUAEoiQASEAIIUBtwIgYmhDACHGCUAMGiQAUAIgwxwgjgjhFLMAGMJMEYYZhARQBpBBACGI8MUMwABAbgwiBCs3LSOACUEAMZAxhEhhBkJgQRCIQcAsUYgB5wzgIEGGCCGSGAQIkxIxgggAADJKILIEGcAEBIQIQxAggAmgEMGQQIBEMBBIAxDAkCYChEcGOIYMwAhQwhBwgHjIEEAKEGEAIQKLywUyAkghAREC4acU0wppBxQlCkBDAFCOGMEE0goYQCQggqBgHBEIIQcMMogZighijGGAABEMUAFQdwIwQBhjDBKiCFMCCKEEkoZJBBwTkhngWWAEgGMIIgKAABzghACuYAiGEk0AkwgJIQAQAFghAUEESIBMAZIAAFSiABKMUGQEAIAM4AAJQhCAhABiEJEKOIAAMIoBhBSxCCADMBEcCCEABoSAYQggBAHgFLOoEAIEcYYAwwwxDDAADIMYUGRMA0BYBAgQigAASCIeYARMAQRRoCgSABHBCKUCACAMIiMJ4BCyAiKDIEKAAIMIECohAgSyjGBgAJAKOOQAIIQQoQhhAJDACAMMAaYGEAgEBQQBhBpjBAGOCEBR0AololgAgMAnCLcGqWEIAI5RwQhQgBkEJFUCSEYNAggJYgwwDgDGWIIAGqYIBIxI6gCnCCAKDIEGQEEUYYhQgTQTDgUoBCECggABAYIo4FVBTgCIAIgCooAYIAYhwBzgBEhjDdGKGKgchQRKwQgTAjjEFFAMAUIMIAI4KgRzDCJLDICEYoYAgIAJwAQxBgBgBSIKCAMQcwi5oAUAAjDCCFOAYMoEA4AYBA&meta=recordings%20releasegroups%20compress
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      Accept:
+      - "*/*"
+      User-Agent:
+      - rest-client/2.1.0 (darwin20.3.0 x86_64) ruby/2.7.1p83
+      Accept-Encoding:
+      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+      Host:
+      - api.acoustid.org
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Date:
+      - Tue, 29 Jun 2021 13:33:03 GMT
+      Content-Type:
+      - application/json; charset=UTF-8
+      Transfer-Encoding:
+      - chunked
+      Connection:
+      - keep-alive
+      Vary:
+      - Accept-Encoding
+      Access-Control-Allow-Origin:
+      - "*"
+      X-Envoy-Upstream-Service-Time:
+      - '55'
+      Strict-Transport-Security:
+      - max-age=15724800; includeSubDomains
+    body:
+      encoding: ASCII-8BIT
+      string: '{"results": [{"id": "92c63a34-f3e9-4b44-811e-34ec45c74eaf", "recordings":
+        [{"artists": [{"id": "a9ee533f-8871-4f62-a6bb-91eb264abc90", "name": "Fiona
+        Apple"}], "duration": 324, "id": "6db0efa0-46e0-4f27-94ce-6803513787be", "releasegroups":
+        [{"artists": [{"id": "a9ee533f-8871-4f62-a6bb-91eb264abc90", "name": "Fiona
+        Apple"}], "id": "b82bef40-53b7-4582-8561-8b660039dec9", "secondarytypes":
+        ["Compilation"], "title": "Original Album Classics", "type": "Album"}, {"artists":
+        [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}],
+        "id": "2fdb9c54-a38d-4eb8-8b59-78f3a99cbcf7", "secondarytypes": ["Compilation"],
+        "title": "Rolling Stone - 20 Jahre", "type": "Album"}, {"artists": [{"id":
+        "a9ee533f-8871-4f62-a6bb-91eb264abc90", "name": "Fiona Apple"}], "id": "4e13dc1a-c184-3fa8-9488-7b29f671a83e",
+        "title": "Fiona Apple 1999", "type": "EP"}, {"artists": [{"id": "a9ee533f-8871-4f62-a6bb-91eb264abc90",
+        "name": "Fiona Apple"}], "id": "2e552187-13b4-3c2b-8c63-207923fe8443", "title":
+        "Shadowboxer", "type": "Single"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "9d788ca7-8a7e-3411-826d-831cfa34a0f6",
+        "secondarytypes": ["Compilation"], "title": "All Women", "type": "Album"},
+        {"artists": [{"id": "a9ee533f-8871-4f62-a6bb-91eb264abc90", "name": "Fiona
+        Apple"}], "id": "82ba556e-99bf-380d-b9b5-5a97737f1cd1", "title": "Tidal",
+        "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "63563364-86d7-3697-a71c-b35446ffd4c9",
+        "secondarytypes": ["Compilation"], "title": "Rolling Stone: New Voices, Volume
+        7", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "07105226-567c-31d3-bbe6-0ec6898f428f",
+        "secondarytypes": ["Compilation"], "title": "CMJ New Music Monthly, Volume
+        37: September 1996", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "e2d48a7a-5c0c-49cb-a9f5-3d9d21f0343a",
+        "secondarytypes": ["Compilation"], "title": "Greatest Ever! Acoustic: The
+        Definitive Collection", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "7d2bf7e5-940b-417f-bc60-66ef886dc85c",
+        "secondarytypes": ["Compilation"], "title": "Relax & Unwind", "type": "Album"},
+        {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various
+        Artists"}], "id": "1b0670c5-b210-3058-8d00-78324e328660", "secondarytypes":
+        ["Compilation"], "title": "Coffee Lounge", "type": "Album"}, {"id": "a5699755-a6ac-4b27-9720-4c290689d1b3",
+        "secondarytypes": ["Compilation"], "title": "Tidal / When the Pawn...", "type":
+        "Album"}], "title": "Shadowboxer"}, {"artists": [{"id": "34e56f20-ddda-48c9-a4bb-6bb12df57de0",
+        "name": "The Style Council"}], "duration": 311, "id": "cdf9df32-29c9-4a03-bacb-04a803c44052",
+        "releasegroups": [{"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "e2d48a7a-5c0c-49cb-a9f5-3d9d21f0343a",
+        "secondarytypes": ["Compilation"], "title": "Greatest Ever! Acoustic: The
+        Definitive Collection", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "d1555273-df40-40ab-a942-322d03877a0c",
+        "secondarytypes": ["Compilation"], "title": "Greatest Ever! Dad: The Definitive
+        Collection", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "cf380717-2010-3797-a33c-8ce0dda64126",
+        "secondarytypes": ["Compilation"], "title": "Greatest Ever! Love: The Definitive
+        Collection", "type": "Album"}], "title": "You''re the Best Thing"}], "score":
+        0.942576}], "status": "ok"}'
+    http_version:
+  recorded_at: Tue, 29 Jun 2021 13:33:03 GMT
+recorded_with: VCR 3.0.3

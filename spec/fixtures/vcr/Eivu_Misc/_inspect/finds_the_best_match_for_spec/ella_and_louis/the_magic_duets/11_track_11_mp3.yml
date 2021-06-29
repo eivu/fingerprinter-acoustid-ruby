@@ -1,0 +1,121 @@
+---
+http_interactions:
+- request:
+    method: get
+    uri: https://api.acoustid.org/v2/lookup?client=<ACOUSTID_CLIENT_ID>&duration=199&fingerprint=AQADtCKVnFGGkJlFollnaKeDOFN82KhsXMmDyzSuZ3jODDeRQ4ueIZSP87jSRCilo-Hx4xeO9IKeRRHOjEifIHpyqJaOOM3h4_mDPwmeXcOJ4_jx7mh49An-HHkP9T36PcGPTMSPv3iuwo8u4Sz6B09uXAnTDOmRHFPio3uCG5d0uDlyH3p35M8zxH6Q_LiSDE0Wx0eV3CGO58WTIP-g5Rmho3k27E_wLDSeb6A6b3jSIPzhJ0dzxXjSE98T9A_8G_-RI2l-VP_R5xHxH5cTFE9wHleYHH9C3B_i_EieDDyJo1J-4VlS3AfPCFOeIH8Y6BmP-DruHD18-EefHGg276iS7HieInpyUM8QujqaW8PBKEl2NNFmIkwVhtBu5I7wFBWdHc-LbafQHj_u4F1yJPOiachTpSiv4Dy6pXC-HP3Ro3lZXNGRS4eYE6szEwf7o9NzI6LI4-NhF7Vy_LiOB0lzI7_QhLnwhviyEf2yBTN1ZM2H5AmN3SH-49SVRLAa4o11fMErD56Vjsg7J9gPcdIJxjmaOE-CH-EeNPlwol7QJMx2nDRuBSX5DXkSFsmo48WF5_jhysfjcXjxvMETg-Fx_ETS6ESswy8eHMyPh_iHPoajXDG64D76o3k4JH9S5MdzFxf47uiHJs5xXLvwZPvQPA36GYc__MjFDNoRZvgs7Cnxy-jKDGGy-NAvFXlyXE_w4NNxnkGbnYGnPHhCTM-QPUhCC1XC6HjaBMcJnyv648H545EIa1s8_E_wH8fdQ-mLS1uKW6KCM1JRU0FzTcRbHQ9uGs_SBGeOKx_-w2Cex7hk5FD1fQj74b1wigGe0MNzvHiO_EjGvPAvUDf69GjOoT_BHz-uBnoi4kkelDr84OBXXB_yQCv6IFnuBT-N68EjxOKJhEnyMMePP_jGgnKOJ4qGKuGDZMmF6AyOHT_4G3VKNBXDYs-DXcGdI-KWOUNXRgn0IGWO_jjD4EfERzF0MvmQ-cVPuDg-JDyP-MF6JD_yTPjRD86jpOhjXAofPDuhB80Z1CJ-FWWoC94nvD3Q68EtQv-C_fiCPjua7nimI_8O9cifY9oS-D86H3k-6O2D40t4nNAD5B981DKaJj724zGqP2iSkHGMpwaP_NAJLZ8HellWhPkVGXci4cQvXMOno_mHS0PCOh0yNOmDR_zwk-hFhCn0HDmJG0-Yo8wlKWBS_LhSJFeCOEzwC6WUsfCyXDgpbMfLoXmGHz9yI7mOMiea-fgj4_yGH3cioT8i5Rf0B5ykREEVKYc45kd-wT9cPULxsNlxSZnwoxmS6MiFP8GnK0HjPApK7cMfjDqaJuGDHIku0nhk9Md7PJEtPH2Ec0aP5kP2I2n-CFMiMeEE-2iDr3iO41Tx48aeENePhnQklLyI7CZ0icfDBmkknXjk44d__LieGM-lwM87PM6GPzjS5ZCmB_k1fCn-nXiuo4efB-5yMMzx5cieLoGmZ0jd49nAH_4SPMsTeBdRH42TN-gP8ctxKseTvZiTL2h248OPXzRSIZke_CipBs2yU3iOHv7hKked5Mhz4VKESVYySE-RJ8tJ_Ic1HXuDenvx9Djx50jqRI8QmrngRR9KDTeaI4n0rIjjXGCOhtPxFOdwE0dk6dA0KciP_8iRLD_w3PiT4LmOck1m_EjcLJqIMKGf4GKPW9g_HA8y5VcCeWIYvNWR_QjTHoqYHnm94KmAm8OTwD2PnEkOfSRyH3svHNeRipEClYp-5IdHPMuO5gpq0cF98NmBJrmO6viDP0LjDO2Lh8h_hMeP8HhEaEmYCKEmHn9QP2ge87iFB26c4zrOwMk_3D-iD8qVD32OH-1y4VdChEfzXpie6tic49Iz_FFomIfP4zv8CeGh50eYxKis4wp-HJ-JKkYT4cXRC0waD_mD5BceVPnwH3WSoc2CG_7RJ0h6xEkiXJmH04S_HM8CJI9uhI2PhhdxwdXxb3hfMLqOH41zjJKOPMuhH8obPEIv_BhJY0sO7SHCw1dypFcH7dIY5ATvYc_xxBSaSHmiDP2FH8eDnCfkJCliHmUHs1fgH71YTM3wHA--o_mIk5FwxIe85DxiLscTB3ti4TluHrfwC8msxEMYk8N1ZXiSiQ5iCHnxNGiiC12S5Yj9Q8ehF-cDRxOj4xGP_I-C_mg0MRPiD8-R90dfNFUoPDn-56gSmgiD5MSjBSfwMdg74c-NPkeyhIjz4Qf1J4j0QN-Q-yHqTOkRJ_Gh94iN5vLRM2GO98ZTEk9g_tgXJD_qPIWWa8ivoEm-DMwSlsMlPrAT4xqqE0mUNUTUa_gUfEevCE-PUzmc9NhR6cKRL8fLBD-loNl1lC-ekMETocco9oQ2xQ_-HFWPMM9x4cSTkyjJcfAvvOHQjE-EqQt8VCZyBfqx58GPXMYjWsGPU2jWOcF34zh8HH1u_HiaB3g-pch96Ef-HO_R10lwVI5yXNGLoz4a68HHCz9e_PiC5j16NF2MXsgX6BnEHfGfZMLzSnCVKMSV4Evg5clxL3iYEc2PZD5yHc2YGFUk5vhBHv-wOsdztFGPCh-a_-gzGpewpwdfhM9oQtyxxznCbHqKI8cFh05VPM3GJPjxHzuTBDl54cmP_sefoXK4BJ_Q52hGHReeP6ieH8lS5MnSoKYk4WGD-seZHCCQIowIQgAjCiFoBBGOMYQwYAQ6SRggjglHGRNEAQEEAwYgAhAgHAlHCHAKEUWQEsASYAAVQAhgHCMAMEa8ccAJJAQhVAEgAAAACiMIEYwSA4AQgApAGXFACYIAFIZgAwQgAAgBgBPIKA2scMIwQgBAyBTMkGCEMGIRcFIBbQRBGhBiCNFCAAEQMBBI54xRDjKCHBHMECCAQURgICARkABUABWEWQwI8IqJI6CCTgilwGyCEEIRYAQBoZRhAAICmACIEEWo8sKIgwAQQEDCBHWEAKGoIAAhLpTwgAkFAGECUOAIAMoRQQBDSAkCATAAEKEIYAwa1JBQQggkDCAAIqIFMkJR-ZQAFhhAKDICIKMYtMQII9oxxhgDCiHCOCIgAwYQpRAQBjgoiMMIEkAUAlAIJJQRVBihnTCGIAGIMIAJIoxggKDBAKICCUSoEQgQTwwAyFDBnACAGmCIAEw4ABBQCiIgDYYMcICwM4QoZYASDFgCkBMGCAMEMYAAJp0CQAgCBZHAEKgcIQQJJxFUACDDlOEEekGEQQQQIBhhEgpriCIICAAE89I4BwBgQHhCDCaGGAUwcAQJRhgTQCgHiLBOACGZIQxoRYhRgHEAiCOIACqYIEQA5ZQQ3FAqOQIEASGFYUhIYwgyQAEELCsBAIMMRIICBIQAQhAjKHIAOEoEVYpAJCSBUEhlAJCOYAMZAkBAspAkhgAhiCFKUAGQAUAIIhEgAjDiDNDCGIAME4eBbJgiJADCqAAGEyYUIQQgYIFQBiABrBEGKeoQGA4ACAAxxBGihLHKqeGAMEQgRJ0TBCwBkDQGKIOYIAI4JIgCIo1EDCEAAKAAYcIAixgABCCEpEIAAGEJAYZqI4gDhAgBgAAUAEQsowwYIBBgGCCDHCBQGQS0A4YIwhwBgjiAEKJEEUGYUUYwJAxiQiFgDHFgDgIQkEQoAJgQjAABEQRCEwAoUcg6JAgygAgBBCUMUAWgNk4gZZgAiDCwABBEICIEEAR5DJiBAAhBiDEECGaEkUYIQQwACAIALA&meta=recordings%20releasegroups%20compress
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      Accept:
+      - "*/*"
+      User-Agent:
+      - rest-client/2.1.0 (darwin20.3.0 x86_64) ruby/2.7.1p83
+      Accept-Encoding:
+      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+      Host:
+      - api.acoustid.org
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Date:
+      - Tue, 29 Jun 2021 13:32:49 GMT
+      Content-Type:
+      - application/json; charset=UTF-8
+      Transfer-Encoding:
+      - chunked
+      Connection:
+      - keep-alive
+      Vary:
+      - Accept-Encoding
+      Access-Control-Allow-Origin:
+      - "*"
+      X-Envoy-Upstream-Service-Time:
+      - '97'
+      Strict-Transport-Security:
+      - max-age=15724800; includeSubDomains
+    body:
+      encoding: ASCII-8BIT
+      string: '{"results": [{"id": "eb04e104-30c7-484b-aebd-7a88db470102", "recordings":
+        [{"artists": [{"id": "54799c0e-eb45-4eea-996d-c4d71a63c499", "joinphrase":
+        " & ", "name": "Ella Fitzgerald"}, {"id": "eea8a864-fcda-4602-9569-38ab446decd6",
+        "name": "Louis Armstrong"}], "duration": 196, "id": "3712ac31-4f1a-4a73-b72a-502b337553a9",
+        "releasegroups": [{"id": "4c0ada80-1ed6-37a5-917a-b369dbf6f920", "secondarytypes":
+        ["Compilation"], "title": "Ella Fitzgerald & Louis Armstrong for Lovers",
+        "type": "Album"}], "title": "Would You Like to Take a Walk"}, {"artists":
+        [{"id": "54799c0e-eb45-4eea-996d-c4d71a63c499", "joinphrase": " & ", "name":
+        "Ella Fitzgerald"}, {"id": "eea8a864-fcda-4602-9569-38ab446decd6", "name":
+        "Louis Armstrong"}], "duration": 198, "id": "9cd62bb5-09fa-4117-9b68-055025dc31ab",
+        "releasegroups": [{"artists": [{"id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+        "name": "Ella Fitzgerald"}], "id": "c092bba6-f019-3f64-b4f4-c26c950f6ffe",
+        "secondarytypes": ["Compilation"], "title": "Ella: The Legendary Decca Recordings",
+        "type": "Album"}, {"artists": [{"id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+        "name": "Ella Fitzgerald"}], "id": "fd4ad03d-aa44-3cae-97ee-bc1041ee8618",
+        "secondarytypes": ["Compilation"], "title": "Ella Fitzgerald", "type": "Album"},
+        {"artists": [{"id": "54799c0e-eb45-4eea-996d-c4d71a63c499", "joinphrase":
+        " and ", "name": "Ella Fitzgerald"}, {"id": "eea8a864-fcda-4602-9569-38ab446decd6",
+        "name": "Louis Armstrong"}], "id": "8b467572-237d-4102-b72b-a2ef67a8bdf6",
+        "title": "Would You Like to Take a Walk / Who Walks in When I Walk Out", "type":
+        "Single"}, {"artists": [{"id": "54799c0e-eb45-4eea-996d-c4d71a63c499", "joinphrase":
+        " & ", "name": "Ella Fitzgerald"}, {"id": "eea8a864-fcda-4602-9569-38ab446decd6",
+        "name": "Louis Armstrong"}], "id": "db1bfad9-232e-46b1-aa7e-01700f4320ce",
+        "title": "Ella & Louis Christmas", "type": "Album"}, {"artists": [{"id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+        "joinphrase": " & ", "name": "Ella Fitzgerald"}, {"id": "eea8a864-fcda-4602-9569-38ab446decd6",
+        "name": "Louis Armstrong"}], "id": "241ccc14-c02f-4913-b938-cc24ab26b0fd",
+        "secondarytypes": ["Compilation"], "title": "Singing And Swinging Together",
+        "type": "Album"}, {"artists": [{"id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+        "joinphrase": " & ", "name": "Ella"}, {"id": "eea8a864-fcda-4602-9569-38ab446decd6",
+        "name": "Louis"}], "id": "60eafb58-0fbb-419e-88c4-33cf915071ee", "secondarytypes":
+        ["Compilation"], "title": "Singing and Swinging Together", "type": "Album"},
+        {"artists": [{"id": "54799c0e-eb45-4eea-996d-c4d71a63c499", "joinphrase":
+        " / ", "name": "Ella Fitzgerald"}, {"id": "1ba1d493-7114-45e2-b163-a36d49a0c065",
+        "name": "Chet Baker"}], "id": "68d9f0bb-a0ad-471c-b793-d2f6f0aac28c", "secondarytypes":
+        ["Compilation"], "title": "De legendes van de jazz", "type": "Album"}, {"artists":
+        [{"id": "54799c0e-eb45-4eea-996d-c4d71a63c499", "joinphrase": " & ", "name":
+        "Ella Fitzgerald"}, {"id": "eea8a864-fcda-4602-9569-38ab446decd6", "name":
+        "Louis Armstrong"}], "id": "8a796362-8901-38d2-a271-b56a19d0395a", "secondarytypes":
+        ["Compilation"], "title": "The Magic Duets", "type": "Album"}, {"artists":
+        [{"id": "54799c0e-eb45-4eea-996d-c4d71a63c499", "name": "Ella Fitzgerald"}],
+        "id": "16dfe8e7-9575-4da1-9118-3063e40f4e81", "secondarytypes": ["Compilation"],
+        "title": "The Chronological Classics: Ella Fitzgerald 1951", "type": "Album"},
+        {"artists": [{"id": "54799c0e-eb45-4eea-996d-c4d71a63c499", "name": "Ella
+        Fitzgerald"}], "id": "f2de6e22-3cdf-393f-9597-09789e3e61c0", "secondarytypes":
+        ["Compilation"], "title": "Ballads", "type": "Album"}, {"artists": [{"id":
+        "54799c0e-eb45-4eea-996d-c4d71a63c499", "name": "Ella Fitzgerald"}], "id":
+        "01cbc29a-1df1-4e16-836f-250b2e9f1cfb", "secondarytypes": ["Compilation"],
+        "title": "Quadromania Jazz Edition: Ella Fitzgerald: Airmail Special", "type":
+        "Album"}, {"artists": [{"id": "54799c0e-eb45-4eea-996d-c4d71a63c499", "joinphrase":
+        " & ", "name": "Ella Fitzgerald"}, {"id": "eea8a864-fcda-4602-9569-38ab446decd6",
+        "name": "Louis Armstrong"}], "id": "c4d57285-84d5-4413-8118-b92f402ad1da",
+        "secondarytypes": ["Compilation"], "title": "Cheek to Cheek: The Complete
+        Duet Recordings", "type": "Album"}, {"artists": [{"id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+        "joinphrase": " & Friends", "name": "Ella"}], "id": "e368b1ad-aa7a-3551-aa91-ecde49a06cfa",
+        "secondarytypes": ["Compilation"], "title": "Ella & Friends", "type": "Album"}],
+        "title": "Would You Like to Take a Walk?"}, {"artists": [{"id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+        "name": "Ella Fitzgerald"}], "duration": 198, "id": "9fbcfcfa-0c3e-4301-acf9-cffd1d77bc92",
+        "releasegroups": [{"id": "7c26f1dc-09bc-37de-b886-22dd16da1741", "secondarytypes":
+        ["Compilation"], "title": "BD Jazz, Volume 6: Ella Fitzgerald / Steg", "type":
+        "Album"}], "title": "Would You Like to Take a Walk"}, {"artists": [{"id":
+        "eea8a864-fcda-4602-9569-38ab446decd6", "joinphrase": " with ", "name": "Louis
+        Armstrong"}, {"id": "54799c0e-eb45-4eea-996d-c4d71a63c499", "name": "Ella
+        Fitzgerald"}], "duration": 201, "id": "d93024c8-3b33-425e-9a97-015feb011a1b",
+        "releasegroups": [{"artists": [{"id": "eea8a864-fcda-4602-9569-38ab446decd6",
+        "name": "Louis Armstrong"}], "id": "95c84950-64c1-3ef2-8dcb-a790ee465354",
+        "secondarytypes": ["Compilation"], "title": "Icons", "type": "Album"}], "title":
+        "Would You Like to Take a Walk?"}, {"artists": [{"id": "eea8a864-fcda-4602-9569-38ab446decd6",
+        "name": "Louis Armstrong"}], "duration": 198, "id": "f9de7828-cc5e-4f0c-9647-a4315d510724",
+        "releasegroups": [{"artists": [{"id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+        "joinphrase": " & ", "name": "Ella Fitzgerald"}, {"id": "eea8a864-fcda-4602-9569-38ab446decd6",
+        "name": "Louis Armstrong"}], "id": "7c7a4217-fe23-4912-9d53-14a41913782b",
+        "secondarytypes": ["Compilation"], "title": "The Complete Fitzgerald & Armstrong
+        Studio Recorded Duets", "type": "Album"}], "title": "Would You Like to Take
+        a Walk"}, {"artists": [{"id": "54799c0e-eb45-4eea-996d-c4d71a63c499", "name":
+        "Ella Fitzgerald"}], "duration": 197, "id": "fd395e4b-aba2-455c-9960-c75328af0ab6",
+        "releasegroups": [{"id": "1a448100-6368-300c-b740-b91785323d56", "secondarytypes":
+        ["Compilation"], "title": "Mr Paganini", "type": "Album"}], "title": "Would
+        You Like to Take a Walk?"}], "score": 0.936577}], "status": "ok"}'
+    http_version:
+  recorded_at: Tue, 29 Jun 2021 13:32:49 GMT
+recorded_with: VCR 3.0.3

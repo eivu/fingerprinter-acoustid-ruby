@@ -1,0 +1,158 @@
+---
+http_interactions:
+- request:
+    method: get
+    uri: https://api.acoustid.org/v2/lookup?client=<ACOUSTID_CLIENT_ID>&duration=377&fingerprint=AQADtFmShFeSDP0jBT_xJFPQPEdJkcqg7oqES8oThGly9A8-4kwYPEf8U5gcKblQyiKuyImMW7WCJwqDXJtENPmG8Bk-KMp9hI5mnIwTPKHwBy85XAhzB5qTFpckIc5x73gufDMVlI-I8yrs4UqiHD_K5LiDL9fRdA96HN-HEzePiT7yHzp5pMcjHB-eDE4_FfxhlUfJgw2PP8FR6gmaReC-IE21IxHj4EqPG9-JKwl6bOuPMseL5JKCfPGCn_iqoXHaHDM0Bsd5XHiGH1c-KcFzhehz6ETzHmeE08KVMI2GZ2RC4gcfFT7yQ9qGKj92JkeddMfegDp-7LnQR7CPMMcv_EP3Bs1PPHmCPEcPsQz2o9rBPMV_-MelTfjCQjfSJMcz8AqaSw_2LLHw4oqWBk2WRw3OINkeIj_xNHiTRCgzHV6HH26aI7oO3ymyvBv6H83xHe2DZtZxP3gCPc9R6mCD-zCOjmIVsDqeD_GPZF-Epzrq4wpOOfhz_A--HkmZIE_QPEef4ceTC7UP_PgP50d_lIf7o-1x8vgSTegvdDlyD7pEHH0WhInUOCL2HfeD48fxIyb0GPnx4ROe5Qoq6cqELw2DhDFO6tA-IZcwysFZkDNuE0-eI3kQbc-IfwGeaAu8hEmKL3nwX8F6UMePKw9qCmGeJEgw_MHzoUfz43iO-CGS5_gxJTpaEt8L7fCDnj-aY7qiBGeK58QfPA-0o4lzXMebHrsaBj8vPDv6FM214nmSIf2Ix8_xo04YaCmTg6WOHDtOXGFR5wqaHfHxKUZzS0J7CeF3uMGLIzp-G9JrWD7mG2m--MhzwJMIPQiv4EqE8a9Ahg9G5fjxpUEd7Wh6IamOONpDnOHxo2aORyGabgv-IbaQNP1QfkPD6fjxodnRJlIF9zhj3EHyG7kUDx-LOnXg5Yg-9Msp6EGt7NgTIdmPPTgebH-KkjrCKCH0HGFO9ObwA8kFM3iE_MLxIzyUSdOH_EFJHh8qo_lx6oilQ8oRhlSCN8en42YK3jnSQ0eugzcenEceVUiUK0T24-aIPxp8ZCmRg_nRPMdxaNmJkCEePCSa4zm84x-RHCGOH46jgxPxJ0d-6MyRZdPxcUHzH8eRP_jxBrmP4zuaP7hl-Ed-iFK2CHWOB-1fGIcYIg9aHP3RfPiPpGEU5EbzBWUnXBn-BJFCyviDZNEo4hF-GX-FHs2PXHF6JJWiB_0vNMe_HA_-Yj2S2ByeRjryWUKdIP0F9ZpQKdPxQy_yB7dj-MMvPCXOHpOTRMaZ4Qq6XDj1oE8WKUVTGx-PH9sdEsn0I8yJvziPh2o7VGyyCn5kCuGPZCn6XLgi6Tj5wMpjoqK0w_yDcnI5VM3xHBczIcneIzyYo3-C8cKey7jSHH8jNLqM_niPWFGIhE8D_nhm4X_w4ErEgHmyw8V1hP6hf8ij4ze6F352HFnuQ08z4Yf4HreDe3hyqNLRNDU6PZkQ_5g_5GagHzl-XErIoJqCpgoeBQ-JHHcG_bjx8kKeRwg_KPqRE_3xCeZRyseZZBmDVwmSH7HxZLOCK3sGnoefHJce4PPR9NuQ5clxCco_BI8-DZVNNNWLX0kOr2yKcx5KKQjTKCmRHP7x8PiHP_jR8ER_IfmJPMvx8cfH41yK8ujx41rQnEc353hGD2WP5vh7NM_RP8cj2fh-nImQZ0sYQd9gPZ2gK9WRPFGO_fgPXyme4hn-wX2T4_nwHO8wXoR_lMqC-_hf_IHRzi2uHE-PdjmaP8ITlEWyfAjRJGWKM8lzXLrQ52i4I2eSedBxJkyJfDvSOMsEHfmPo8-H3jiuwA_yKMURp_jRpH6CKU9EPMd54QsRPkgOW8fE3AquJMuGw88P__iPa7kwhkTtgzqF5Bxy9EJ7B1ulFf3QHk2uBPktJdCTfMg_XEdDJkXfZ0jCHHmCo-x6-PXQH3tw5UHyRBfSJy9upniyHJdyompaNH2UBP-RQ3uPJmob_IEehE-soXnG40HZyGjy4LvxH9NzpI-0I7su_MQWWjw8ZkDPpsOPnEfyRMeOg8l_9GuGB0eeRMuhNEL4zEfzZzie6MGr4xf65Nge5A_Kh9BzIdbCgzqDX7jNCGuWIydOBZquGD_ED_UefIgffEezB_13_GjGEJO--HgWPQkcEfwQRkeyhyx4_NgfNE-iKugm4T8aPkctFn2Pxsko5OKhv8hRJZKSo1qRL8d--NB3eDdU58JT5WiuVKjl48wFPc8xnYeTZjmqHie0T1rwEK5zhE6IHncuJFOaI_-CHctzXMaHh8f1NLD8IvYNPUdOKvCT4PwwpdtxJQeP9ehbBf0TNEsSIdeRHE1yPXA4xUGdWSh_-MWPJj8u8ZCXY0f3g0meWMGz48qRMNuLvHhcnGiaE_UdvMGLUy-uCFkqH1omIsfxDHly6McN8riYkYTWnQjTx_iFK8PdivgrBbVModESJFdm5EqOhw-a6Kh_PA8uJMuDsM3RdEHFJA_-Jrhu6DkO_hLcJEpwUfiSKzijJ0ZOJPvROMTzqPi1oZuyoyGjHGSV4z36TMTWGX0rPDma9UiiRznClfDDF8yi3OB3o9KDMzf6JAF_HLqSGN9udHkigvnxHx-afHmGOjie_vgdREfy8HCUHPeFJjEblImEK8QHPwuT4kfyBEAAMsQAAYQQ0DHhhBEICEGFBQwAAwlLSBDEEBDAIMIIoEQAxIiABgghiAFGSAXFAEBZIBxXQACjELCYCEQJEswA5hyDyAEhlCJIMAYI4QQRAQERCjjKnBFMEECYcAJIYJQFBlhHABSAEMIIEIYSQqhxSBAulGBIECIUAUAIBAkSVDDkCAaSIKM4MYABIwRRCAlGkVGOEAIAUUAK4AhgRkApECECCQsMFoRQQkkhRjjAlAGKACEYYUQAAKgmDjBBHGEMCMQEQURIRxwDQgAEEFHEASchwgoIIgQhBjCiAABAAkEgQYQhQxwRFgkiIHEAEEUMAwAQR5yxRhGgiSAEGCKIswxAoIBEHhEAmiDGkRKMgAwIRwAFAEyhDAXAAeSAMgQJCxhwWAFKCFOGCMAU9koh4oaEDhGnBZTMImOAEogKg4AwJkzAJAEGMaEAAogA6wCwxjKBACACgSiAQQYxZBEEgAgCEACAPEMIAYQAQJRESEhiCAAMOIAAIMIK44QFiAEglEJKAAEYEAYohIiwBgABBBMGCEkgQgICgAQAgCIApDAEICsAR4YgAQADTBoAiHGOWEeIEwoAiwwwAgtChBRNAMEcIQQKA5hwAADBAGICAKCMCogB4oAUVAipiBFCECOsoMgqRBgxQBgCgAGAKSGIwAQIQDgAxBBknAIACU6YJAQBYQAAiCBBgGECEEAUM1YwAAwgAoABLFKGoYoAMogIZFACBAQhAAGOEGEYQQsQAAAgwhjmBKDIFaCYR4YAIoBQRAiglGaAIK4AYQYBIQBQAgjCgCCOSCKUcMAAA4FQggDjkkHAQQMQoE4oAxwBiiDgDAHcOiEEEIIIYIBogjIjGADOAEQYBUZZQZAAkAgCACKEGACMAAAi4ZAAACliEmCOMCCIIM4QAgAxEggEBABBMKAZBYIwZA0QiCKCKEABaEwEIsoBRAijBhClEAJEMCWIkkogRBFEwgAHKCSOGEGAUYIRIB0gTilAFFUCAAeIY0AghQAwSAqGAAgGESGIMEQBIggYxAI&meta=recordings%20releasegroups%20compress
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      Accept:
+      - "*/*"
+      User-Agent:
+      - rest-client/2.1.0 (darwin20.3.0 x86_64) ruby/2.7.1p83
+      Accept-Encoding:
+      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+      Host:
+      - api.acoustid.org
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Date:
+      - Tue, 29 Jun 2021 13:31:38 GMT
+      Content-Type:
+      - application/json; charset=UTF-8
+      Transfer-Encoding:
+      - chunked
+      Connection:
+      - keep-alive
+      Vary:
+      - Accept-Encoding
+      Access-Control-Allow-Origin:
+      - "*"
+      X-Envoy-Upstream-Service-Time:
+      - '124'
+      Strict-Transport-Security:
+      - max-age=15724800; includeSubDomains
+    body:
+      encoding: ASCII-8BIT
+      string: '{"results": [{"id": "df3a4c99-3ea6-4036-a3b5-2f82f4dd7491", "recordings":
+        [{"artists": [{"id": "54799c0e-eb45-4eea-996d-c4d71a63c499", "joinphrase":
+        " & ", "name": "Ella Fitzgerald"}, {"id": "eea8a864-fcda-4602-9569-38ab446decd6",
+        "name": "Louis Armstrong"}], "duration": 378, "id": "02f5dc3e-8aca-41ee-9869-5292577d357d",
+        "releasegroups": [{"id": "8ec69375-a2ab-3388-a15a-446133b29861", "secondarytypes":
+        ["Compilation"], "title": "Verve Jazz Masters 24: Ella Fitzgerald & Louis
+        Armstrong", "type": "Album"}], "title": "Isn''t This a Lovely Day"}, {"id":
+        "1be183e8-2731-4c78-b5a4-1ca6e1f32d9f"}, {"artists": [{"id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+        "joinphrase": " & ", "name": "Ella Fitzgerald"}, {"id": "eea8a864-fcda-4602-9569-38ab446decd6",
+        "name": "Louis Armstrong"}], "duration": 377, "id": "201fa383-cdbf-4c8d-858b-2db306999b76",
+        "releasegroups": [{"id": "1e348262-82e6-3ca3-9089-634e66b517c1", "secondarytypes":
+        ["Compilation"], "title": "Ella & Louis Together", "type": "Album"}], "title":
+        "Isn''t This a Lovely Day"}, {"artists": [{"id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+        "name": "Ella Fitzgerald"}], "duration": 377, "id": "3ca18154-58c8-41ce-b162-027fddef12d8",
+        "releasegroups": [{"artists": [{"id": "351d8bdf-33a1-45e2-8c04-c85fad20da55",
+        "name": "Sarah Vaughan"}], "id": "70e42abe-7bd5-4554-92d0-1b97296a49f4", "secondarytypes":
+        ["Compilation"], "title": "The 3 Divas", "type": "Album"}], "title": "Isn''t
+        This A Lovely Day?"}, {"artists": [{"id": "eea8a864-fcda-4602-9569-38ab446decd6",
+        "joinphrase": " & ", "name": "Louis Armstrong"}, {"id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+        "name": "Ella Fitzgerald"}], "duration": 378, "id": "43b257f2-c651-41e6-aeac-e8f2551eb911",
+        "releasegroups": [{"artists": [{"id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+        "joinphrase": " & ", "name": "Ella Fitzgerald"}, {"id": "eea8a864-fcda-4602-9569-38ab446decd6",
+        "name": "Louis Armstrong"}], "id": "6a8ec885-544e-3b31-859a-a73289a01421",
+        "title": "Ella and Louis", "type": "Album"}], "title": "Isn''t this a lovely
+        day?"}, {"artists": [{"id": "eea8a864-fcda-4602-9569-38ab446decd6", "name":
+        "Louis Armstrong"}], "duration": 377, "id": "5f4d076f-4967-4ccc-9bb7-b46e1f991d1e",
+        "releasegroups": [{"id": "9c8ab851-c89f-4c0f-9a1c-35f22e78b741", "secondarytypes":
+        ["Compilation"], "title": "Milestones of a Jazz Legend"}], "title": "Isn\u2019t
+        This a Lovely Day"}, {"artists": [{"id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+        "joinphrase": " & ", "name": "Ella Fitzgerald"}, {"id": "eea8a864-fcda-4602-9569-38ab446decd6",
+        "name": "Louis Armstrong"}], "duration": 376, "id": "6606b5f9-a07d-47ae-ae9e-f9185fceee80",
+        "releasegroups": [{"artists": [{"id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+        "name": "Ella Fitzgerald"}], "id": "3dcd39f2-5c4f-4043-9534-9581e7191a30",
+        "secondarytypes": ["Compilation"], "title": "Six Classic Albums, Volume 3",
+        "type": "Album"}, {"artists": [{"id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+        "joinphrase": " & ", "name": "Ella Fitzgerald"}, {"id": "eea8a864-fcda-4602-9569-38ab446decd6",
+        "name": "Louis Armstrong"}], "id": "50fece99-77bf-455b-97ae-aabb9a848b8b",
+        "title": "Ella and Louis", "type": "Album"}, {"artists": [{"id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+        "joinphrase": " & ", "name": "Ella Fitzgerald"}, {"id": "eea8a864-fcda-4602-9569-38ab446decd6",
+        "name": "Louis Armstrong"}], "id": "4c0ada80-1ed6-37a5-917a-b369dbf6f920",
+        "secondarytypes": ["Compilation"], "title": "Ella Fitzgerald & Louis Armstrong
+        for Lovers", "type": "Album"}, {"artists": [{"id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+        "joinphrase": " & ", "name": "Ella Fitzgerald"}, {"id": "eea8a864-fcda-4602-9569-38ab446decd6",
+        "name": "Louis Armstrong"}], "id": "162346df-76e5-4cd7-9169-f047b61421d6",
+        "secondarytypes": ["Compilation"], "title": "Ella & Louis", "type": "Album"},
+        {"artists": [{"id": "54799c0e-eb45-4eea-996d-c4d71a63c499", "joinphrase":
+        " & ", "name": "Ella Fitzgerald"}, {"id": "eea8a864-fcda-4602-9569-38ab446decd6",
+        "name": "Louis Armstrong"}], "id": "c70ee463-c59b-4146-a887-75d0f3b2b531",
+        "secondarytypes": ["Compilation"], "title": "Original Greatest Hits", "type":
+        "Album"}, {"artists": [{"id": "54799c0e-eb45-4eea-996d-c4d71a63c499", "joinphrase":
+        " & ", "name": "Ella Fitzgerald"}, {"id": "eea8a864-fcda-4602-9569-38ab446decd6",
+        "name": "Louis Armstrong"}], "id": "6ad9fb99-1de4-487e-adcd-c916ba94ee7d",
+        "secondarytypes": ["Compilation"], "title": "Ella Fitzgerald & Louis Armstrong",
+        "type": "Album"}, {"artists": [{"id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+        "joinphrase": " & ", "name": "Ella Fitzgerald"}, {"id": "eea8a864-fcda-4602-9569-38ab446decd6",
+        "name": "Louis Armstrong"}], "id": "c4d57285-84d5-4413-8118-b92f402ad1da",
+        "secondarytypes": ["Compilation"], "title": "Cheek to Cheek: The Complete
+        Duet Recordings", "type": "Album"}, {"artists": [{"id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+        "joinphrase": " & ", "name": "Ella Fitzgerald"}, {"id": "eea8a864-fcda-4602-9569-38ab446decd6",
+        "name": "Louis Armstrong"}], "id": "6a8ec885-544e-3b31-859a-a73289a01421",
+        "title": "Ella and Louis", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "51458fb7-6b5e-4179-b39e-94f6d84318d7",
+        "secondarytypes": ["Compilation"], "title": "Positive Vibes Only", "type":
+        "Album"}, {"id": "37012d18-8647-3648-87e7-7a66423b863b", "secondarytypes":
+        ["Compilation"], "title": "The Complete Ella and Louis on Verve", "type":
+        "Album"}], "title": "Isn\u2019t This a Lovely Day"}, {"artists": [{"id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+        "name": "Ella Fitzgerald"}], "duration": 379, "id": "661d8bc1-167e-4967-a1f5-a981f5c63677",
+        "releasegroups": [{"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "62f4ceee-c325-4d42-91a9-218df6b34c86",
+        "secondarytypes": ["Compilation"], "title": "Blue Skies: The Irving Berlin
+        Songbook", "type": "Album"}], "title": "Isn''t This a Lovely Day?"}, {"artists":
+        [{"id": "eea8a864-fcda-4602-9569-38ab446decd6", "joinphrase": ", ", "name":
+        "Louis Armstrong"}, {"id": "d8a1a9e8-295d-4999-9c70-0a4c8bdb36e8", "joinphrase":
+        ", ", "name": "Ray Brown"}, {"id": "33ddc4a0-2d48-4da5-91f4-180c3283d2f9",
+        "joinphrase": ", ", "name": "Herb Ellis"}, {"id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+        "joinphrase": ", ", "name": "Ella Fitzgerald"}, {"id": "ed801bdd-f057-41c0-94fb-76cb5676cd59",
+        "joinphrase": " & ", "name": "Oscar Peterson"}, {"id": "8bad6c8e-c8a1-427d-b082-1275e3ebbe60",
+        "name": "Buddy Rich"}], "duration": 375, "id": "70f2eb62-24d1-40fe-a7db-3ed4543af8b2",
+        "releasegroups": [{"artists": [{"id": "5e645519-a175-4fe0-9a9b-eb9dc9f506b5",
+        "name": "Irving Berlin"}], "id": "8ca183da-0f92-426c-9021-cd1aa895f6f5", "secondarytypes":
+        ["Compilation"], "title": "Blue Skies: Irving Berlin Songbook", "type": "Album"}],
+        "title": "Isn''t This a Lovely Day?"}, {"artists": [{"id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+        "joinphrase": " & ", "name": "Ella Fitzgerald"}, {"id": "eea8a864-fcda-4602-9569-38ab446decd6",
+        "name": "Louis Armstrong"}], "duration": 365, "id": "a8705db3-0ff6-413e-97d1-446be12a85b4",
+        "releasegroups": [{"id": "24577902-0198-3733-b1cb-f10e8c2abb05", "secondarytypes":
+        ["Compilation"], "title": "Ella & Louis Classic Album Collection", "type":
+        "Album"}], "title": "Isn''t This a Lovely Day?"}, {"artists": [{"id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+        "name": "Ella Fitzgerald"}], "duration": 377, "id": "c9510500-d304-4bae-858c-2c2ed6ab2941",
+        "releasegroups": [{"id": "a87dd6e5-54bc-441b-b22a-7286a3b3a904", "secondarytypes":
+        ["Compilation"], "title": "Dearly Beloved", "type": "Album"}], "title": "Isn''t
+        This a Lovely Day?"}, {"artists": [{"id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+        "name": "Ella Fitzgerald"}], "duration": 208, "id": "d0a87d86-6bcc-4ffe-badc-394cbf5eca98",
+        "releasegroups": [{"artists": [{"id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+        "name": "Ella Fitzgerald"}], "id": "13c2976d-5c40-305e-959e-d00f70097b06",
+        "title": "Ella Fitzgerald Sings the Irving Berlin Song Book", "type": "Album"},
+        {"artists": [{"id": "5e645519-a175-4fe0-9a9b-eb9dc9f506b5", "name": "Irving
+        Berlin"}], "id": "fb50539d-a3be-4f47-b4f5-17d99a8da6f5", "secondarytypes":
+        ["Compilation"], "title": "The Very Best of the Irving Berlin Songbook", "type":
+        "Album"}], "title": "Isn''t This a Lovely Day"}, {"artists": [{"id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+        "joinphrase": " & ", "name": "Ella Fitzgerald"}, {"id": "eea8a864-fcda-4602-9569-38ab446decd6",
+        "name": "Louis Armstrong"}], "duration": 373, "id": "dc7c123e-e065-4afd-9ba6-f202b9412c40",
+        "releasegroups": [{"artists": [{"id": "eea8a864-fcda-4602-9569-38ab446decd6",
+        "name": "Louis Armstrong"}], "id": "8d80301f-a239-4bbf-9959-0d3e5018f752",
+        "secondarytypes": ["Compilation"], "title": "Louis Armstrong & Guests", "type":
+        "Album"}, {"id": "6d31f8f4-a8d9-3254-aaaf-98bde2865166", "secondarytypes":
+        ["Compilation"], "title": "Cheek to Cheek", "type": "Album"}], "title": "Isn''t
+        This a Lovely Day"}, {"artists": [{"id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+        "joinphrase": " & ", "name": "Ella"}, {"id": "eea8a864-fcda-4602-9569-38ab446decd6",
+        "name": "Louis"}], "duration": 376, "id": "efa2879c-d0f0-412f-bf57-eda9c7dbe307",
+        "releasegroups": [{"artists": [{"id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+        "joinphrase": " & ", "name": "Ella Fitzgerald"}, {"id": "eea8a864-fcda-4602-9569-38ab446decd6",
+        "name": "Louis Armstrong"}], "id": "45aa0e31-ab75-4605-a3a3-f650d4fa4229",
+        "secondarytypes": ["Compilation"], "title": "Ella & Louis: The Complete Anthology",
+        "type": "Album"}], "title": "Isn\u2019t This a Lovely Day?"}], "score": 0.999934}],
+        "status": "ok"}'
+    http_version:
+  recorded_at: Tue, 29 Jun 2021 13:31:38 GMT
+recorded_with: VCR 3.0.3

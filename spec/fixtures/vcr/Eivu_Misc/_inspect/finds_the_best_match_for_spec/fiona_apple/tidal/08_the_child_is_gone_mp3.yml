@@ -1,0 +1,54 @@
+---
+http_interactions:
+- request:
+    method: get
+    uri: https://api.acoustid.org/v2/lookup?client=<ACOUSTID_CLIENT_ID>&duration=256&fingerprint=AQADtEkjR0mkJGiS5CgZ_MHRPEOvHO-DJ4vw5Khu-DXqHX2Epj3uREOXDE3E4A-O5hl65XgfXIvwJEd1Cn43ot7RB02lXPijoUuGJmLwBy-aZ9Ds3Hi4B7Gk4WmD3vDnIbRSiehzaKn0IP6ORj8qZTl-PFfQP2jqTMhD6HqJnLiOG3myQH0iGeHi4-2F7_DZA-_x45Qa9OmBY8clCXk44z_eCJr249GR4zR-nE9xYk4SPHoJHw9R7xmB_BmSJ4lUlNsVfD98Fvjx4FOJ6ccPxNCH3InwN3jjET8m8fCPPonwf8GNssiTB3bFFE2FDz--EcnxBv2Dyzc2Hj_xo_zwScfP40B-Qo-CxxfylXiq4drxJEePnsaeCLlYHF2SI8yW4z8qqqie41GDH-9IPKioH_nh7tD3IyaL6TlePPhu48yIGs0T5DySF38qTM7xx0efoUd5PMuReHoyPDXu49DxRUcdHXp15I-wRTIeUkep5XjxH5eF57hOI6sf6HiyB7xOxOGNkTbxOEOuvMjR48nRm8ilxTgc5nim5zgeDzf0IxcTHL2uwGfw6MdjHNdxDl1ZxIeO6MKXLOCPpwd7nHkwHVaTJDt6PvhnPLh2hE6PQieuI37w-Gi6ZFSCTxd2Cf9hwicq8_iUEHGvgH8g_vi0BXcKH1-U4SETqeCLLok5eCxihyGaJ7ie4uFR6nAUHdOm486GJyKOPMcZXH3Q6smhH_kXwzzKHzfxHHe0GM82PJh4hLES6EJ-PE-O6ccpHX2SoA9ufEg8pUuQl0Lt43hyXMGHkDnyPvBn4XPQD2eEfcuHM8dzDp-TgysQ5g-0J-jfIMyO48vBLBccZ4aPPjn2H9fx6aiVMjgNPyVC-TqusIVO5OEY9FETOM1h_YTD4TSOUibOB99mHOcZNJkSHqEPIZQ-NPmOu7gSPDiNPuSCdEoOPUH4Z3h-HHsWXE_RTNkj9NHRVaLwCbWyULgu4cF8NHWOXjPy4xfR_OgTrGWH_EE25cb0JxBf5FngGE_wLXEO_6jUuTh54nxw5ch1aA_zoAn-BPtoQXoUEZGlCD_K9XBFoxOOj1eCyw2e41YwHc01Ij8uPVCz5MOP_9D5BL405DqeE8fRxMG0Cp9ePFFSXKl2_EST9Pi54ULPLsgdJMvIo8d5fMN0cvDZoxYD7jjI5_gVhOEPleqRM3hh9DPw46CqDz92XfjxMUaoJJ1x5xygKwfSs0OfA7VTPOSFKw_ifBCjCu8RpniSHmcqhEey_MKZScQTV8On40XzDD12HuELPzmy_MSYvBmuXELTtBrqIw905FLwh_jxZOHwZBjzI82hJ2MHdk9x5pguNNUzQT9e9CX8Jcgv1Dq-4zieSblxXUPYNwmS-McP5qHwN8CULzNqXbjSACXSSmugJ5EH58eYJiYyjZiYpTSePEF-_Hh5PA_84wmeiOJxZQyRPqqRa7jQjPkSVMo3PCUHLR2NPsR1oGFEtIdaIZ904-TQL7jQZMerxLi4I_yP5xfEUDd84y5s06hHo8xoaBmeI5eO_PAPdYt3hOuJJseTZfiUYSqPn6DOtZhOMSme0MWPfLkg_hmao_ijQO7SCPF1oT7xaPCSEX81PPlxqfAT6A-arcdz_ILjsMKL_ND0sghzFU-SjEOuQyemH35p-CJDhM4VTeAtoV8wJUf3HM55lDweZiseXkZ-6CJe9DnCjBd2nDmybMpCwSOx43cIn0cfFueIPNIJzxuuDXsOHttL4siZowy0hC-eI7fgpPrwHV-FnDmScT0a4tdxJx4aMUdF40mOf6hE17CUC9dzpA4fPMqFF7qO62ieqMcHNTwu5kGzHP2RO8VJ9EnQ_LiOdimeo36QPAryC1eMJlfQ-zgfvMvRLDumB7_AqCrq48yDMI4elPoJWTsuuEnLgT_-QDttTDmRpzIu9GhwU7iUNXiZrOh0XOORxscP_cjHDf1RRhqPdDyhHQiZTwrSMY_wFeJ1hD-uHdcx56icojmPH09wnB9RRsnxYBKVJHiqo7j0ICF15FuO38Fv3IQ1Bsmn6EeYJTueXnhQ_miWDEd-JNN3WMkGj8kn1KkVPHPw7PCYE8ePPjh6HZei4vqGSrJh9Rl6XEH147yCH_uPkzDzDC1uJcYzK0X-Q3OZCLlyVOaHL3Hx7MEVVObhL0ctfOCPSzmeHVeEylHQJJNwgmH0oBnDA_1BXQe_5HCS7kG1xwi5I39Q_HlQpbTQPMfx46OKi0f0DdpPRIq1PHh2CayO58SPpkdf4pISBVeDJmJ4hNBy1I5HsDfeUAiTKHOOXhfuC7OPu-jTEMk3Isf04NkiGU0UodT04JKRM0i-B190PNSDWyR8_MiRXBSaKGOOaUxu_B_qC-nDwT_KLJqRHzUVNC6NPzjRw9eRvAjpXPiWM3iC_jjxbtgT-fDBmDieI4mOnIffoYwS4eLx1MLzI5R6FSbEY-paBWEmZToY9RTiDLtz6Bd-POrQVB8uHdfRz4V2nNmQZ0epF3tisC8mf2jClHiLb8SBT3pQJ1EenMExXUR21NGhLOzQH7qEu_iDOwh_1Hg0HM0ToseFOksQJoSaHlfQLDlCLjz2gznG50gTJihOaE8SNLsOwAwIBiACCDGAAAOYAcEARIAgBhBgAGAGBAAMUQRgAwQTllhGBEIAEaI8EgYAo4QAWhiACGdIGQEoIYJpJokDVCjLCCBGGASE0looB5wyRCiFLMACCEAGctQICBEBBgCgNBEAGCMFUEYICoxgUiAHk0FMCOGEYeQQAQ1AwigmgCAAOeYIAsIQ7okjCAgnkSGAEAiYYAYhoggSyDEBhDECeOGgocYAAzilCAonhANMKEu4E1kQhqgQABkkBICEAIAoMYASYhBwwglCCBAKcSAsYYYBjhCQYCKCAAJSGcIBAswhRhRSlAkAEGJEk4MUgwYiKJBzACFBBAFCEUMAkSBQpgxRgCAHNEMEIKSMMYTIRSQkAkiBDNUQCgyEYURQgxQQwipgpAOGOUAAERIQgRQShBADmCDGCIGIBEYA4AJBCBElHAFOGecAAUoZhBBTgykgiHAAgGEYIUQLIRgEhDgAlBAFSaWcMgZJAgBhQAAlEABGEMOIUIwQQhEREgEgBAJEKbYkQQ4xYixQCAgFBQNMCYAoVIAABQhBBiAlCCFIIGQcMwQQKRACAADKAAGAKAAEI4IQhIABABjAEHVOQEMAAUZpxAwgCFkCBGEACGAUAMAJCwiAhCEknDSGCAURQ0AAAggyRhEEDENWEMcBUYAAIpAwSiEKuDCAAQYYQEowAgAwEEChgACCCEIAI0IgBhADyjBBAHCIOSUEc0AxQYCxCFgEDAAIAMWQEAaBSAAgAHFDnGIAGSwEI4AZJQCFwjElWkGEAkkUM4gIZgAQQAEDilMGC2IAQQRWpchAxABAJKBIKIYIIYowJYBjgBCFgHBmIEIJhZgBYoAgTAikDDAAGFmAIUIoA4jAzDBDARCGOoCEMMIgQKQGgCmCiCEAEQckYAgQgABgQjjAFCAGAACUwcwQAwDERgDCKJAAYKYQYIAQpoQjGBmmHAJQCMeEAQQwRhBAVhDgECKIQAUaQ4QYhAEBAA&meta=recordings%20releasegroups%20compress
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      Accept:
+      - "*/*"
+      User-Agent:
+      - rest-client/2.1.0 (darwin20.3.0 x86_64) ruby/2.7.1p83
+      Accept-Encoding:
+      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+      Host:
+      - api.acoustid.org
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Date:
+      - Tue, 29 Jun 2021 13:33:08 GMT
+      Content-Type:
+      - application/json; charset=UTF-8
+      Transfer-Encoding:
+      - chunked
+      Connection:
+      - keep-alive
+      Vary:
+      - Accept-Encoding
+      Access-Control-Allow-Origin:
+      - "*"
+      X-Envoy-Upstream-Service-Time:
+      - '965'
+      Strict-Transport-Security:
+      - max-age=15724800; includeSubDomains
+    body:
+      encoding: ASCII-8BIT
+      string: '{"results": [{"id": "ca3128c9-e3a1-4efb-b947-250e7009e155", "recordings":
+        [{"artists": [{"id": "a9ee533f-8871-4f62-a6bb-91eb264abc90", "name": "Fiona
+        Apple"}], "duration": 254, "id": "20260478-b7df-477d-bdad-d257ab13bbd2", "releasegroups":
+        [{"artists": [{"id": "a9ee533f-8871-4f62-a6bb-91eb264abc90", "name": "Fiona
+        Apple"}], "id": "b82bef40-53b7-4582-8561-8b660039dec9", "secondarytypes":
+        ["Compilation"], "title": "Original Album Classics", "type": "Album"}, {"artists":
+        [{"id": "a9ee533f-8871-4f62-a6bb-91eb264abc90", "name": "Fiona Apple"}], "id":
+        "82ba556e-99bf-380d-b9b5-5a97737f1cd1", "title": "Tidal", "type": "Album"},
+        {"id": "a5699755-a6ac-4b27-9720-4c290689d1b3", "secondarytypes": ["Compilation"],
+        "title": "Tidal / When the Pawn...", "type": "Album"}], "title": "The Child
+        Is Gone"}], "score": 0.934665}], "status": "ok"}'
+    http_version:
+  recorded_at: Tue, 29 Jun 2021 13:33:08 GMT
+recorded_with: VCR 3.0.3

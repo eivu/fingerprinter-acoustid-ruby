@@ -1,0 +1,77 @@
+---
+http_interactions:
+- request:
+    method: get
+    uri: https://api.acoustid.org/v2/lookup?client=<ACOUSTID_CLIENT_ID>&duration=167&fingerprint=AQADtKyYRUmCJhmJ5_hT5CIMnyKhk8j7EDeP47mO5yOuD33w4MoR8lBv5FkW9PlwHr1bNNzxOBS-KRLxkCjFwzHC-cePssO3KNDx4m2RH1ekhXhCHTVTHD0-nAq87EHJHEnzDKF9NGKC-yiaH0-G2MuRLBN5XDglwlGXI4duI8yX4-Fw9AmHJnmpIOlHIuSPhhF1nDnewGfS4kGc54SW_BFCEo-yGDmaHZq-H3HmoNkj9Bw-PEeow-rxKBya-MXRZNLyoP1aQWEyIUw3o8_wo7RQpkm44D6NT8ejGXy0IM8JjUdTiYMaKhFyHR-NPIarC_lw4TyOMjf8ToE_hPqJZId_4saFG_vxKKrwF2dxHf0RndBz5DmO_8HNnLiOLGmSY3r-IP9wUZKK9QX3SAu84u3B_AizQPE95NHxJEdFEc1T3AzyJjlO4Uw64fhED81JhP4rjM2H20tQ_Wia4DY8B1eON8eZI3yK5oR-hKx2WEkSkTgfw8_xZ2CzDD3y7BKSa6GU4okSmD9O_LiFZ0pSUCHyJFFG6D-kKZMZnBfeQOWOPHjgdyUwM_nRNmzQRCSFMNrYINmPVysuHNWNRs2V4mIWDclz5LhePHGCJ0poHM2CLswR_Uju4EdNPEe4JtBxZTT6NoH_IJmPO8P0wGJIoWSu4RRKiXmQLFWCnMUn4fiDixeakeGCikmG5LuRPzh2E1fSCNMYTYZTzagvtMOOPkfWd0hKY0_i4TxyyM2OXDkqZkoKV9nx4yeSP0XIJD2-WUETn6jy4plRN0iW5Qly5jGeXsHoHs165It0_IHLQ1WSBE_Yozn0C88j5DmuPMUlo4z1gcl-XImOf8jLNIHjt9A_zPpg7tD1QgyT4jF-DdPRHDmPh0Z0WYcepMmNM8cT5SifF81HCU0-rug2Ial2pEsenMaucEDa5IK-OYgTMnDWRfgd_MOdGGm3DGrDI4_wLXswWxaaawxCS7gWQlaOP0KY70IfJ0MuScdx7hCT45ga6Wg2JlUKnTqQjjm4jSkeuUnw5SkqSkJzIqYYBnryIP2x82iWPbiPtEjmMMKX4k_wwiquZF0wK7mGZDnCHzxj9D6mHEcs6HuCdK-FN8clH0-SK7DiNUGO5D7OoZTaY0-P3xKY_MNPZD905C2-SMGVDTkPhzpu4vgphGvRJ7iPikWY-UhCioetpanw8Kj4o7lxBuW2KWh44T2MOzxyyGEuhPzhJzqOL4KP33h2TCyPXBeSvWh-4QqPhzqaHL2CPMTZQqcc4ejRREx25EKPKdxxZcaVRgl6ZUQYFTryHCduWbgeXJUVXGSI52g6RHqg67iO8TzyXKg-NCSNmTZ4XBT2oOINq4w2OGL2oD_xRsenCLktPEdvaDl7xFIc4_rhSMqNXfiW5DDj4j8ei3h0JCopIVYeBf-HJl_A_AHHCF0kqR2aKM8MHuWNZsmZ481xhR2ePjmaPagcCRfG4zvc5LhYwqR5XLqQPOEapPmJG_fRHH2LK0HDmEJIJoKuOYhlHX-K78TlVEFt7LrhGj8sHZl2ouchh1CQJ0l0NJMD70fLkArq5GiqE7m3Q5EeI0t4cIyOWoiUQ4t0lM2DMGVQp8H34PiRPsbLHHnIY5eegQ_xJtrRXDm6_AreLiCjH4nGJBxyVGIPJlym4tg0HVeS4-LhhUmIvEXyEzfx6Dh_NL9QPcKpTA2SKj_SSQ3xGeFDaLkcxOrx6HFx4zEaHr0oBU5yJB-H-IKPm0nw3mjHoNlx5YjvIZmyJEni4DLCD8nIonmmBXt04lEX4dGCSt_RfNiPfa2DZznSfBl0Hk-0KFD8-MgT7riWo8EdNM9SHE-CMNGSH9qP_IkU9Dy-BBjp4ymeo6eGM8ePPA0FKXGk4Dv8Bw3iRDYeFz-YNB_6g0GQ_EdTGnwWnD1u_EVzTkkiIvSJpFnwnAtmPoH_DC_-IY8F_egRKcdzsNITPGhYBX6UH9OPKzhTHe0PLWqW4cWPf3ge9CKaKgme72j5w3-Cc1PgB6WOPBkZXGifBf6IKs2Dm8Yf5D7R7DlMhRlK5shjC4dvBcqb4074IVQ6NJeDP8zxJHpxPDmaUyvqHNeRs0TCKFHig3Ry_Mf2Y2ieo-SRR0gW5kGJg3JMoSmVNeiThMH-DOluPEmS4YZ_xA7DDqdKInGyMHqQ56jFCn4m9MeP3_iuJOh1Isnq1Egrquhz4RvxB73iIEt0PEtEQZEaKQ2aHfqYB6HEKA6aGyuDPfgzJRmeC5eyImcCDWFOHz-TI3QOLV-GXC-eREabJLkQKVnEo9EhpbnQbLEOTdyC6_h4NE141FQGrT3CfA74D5c2ZfCUZFEROfmRvHhRKcnEhWiSMcmS4cJuTPZQRk2R90HFo9FHvI6C48fDQMfJwN1S_ECfIsxn4cxVNHVGlMQz4iWaiUWbRFGKMWEOMQ9Ogg-eXcHMPDkcxnhG4xXeHekeJPOFpgmf4dkRZj_CYs9W5El-UJMyMtCL88gXGT74RSb244xK4cmOZDxS_MuDvsc7_PB1PDmu5MGPPkhvIZl3jAzYHM0-dDe-FOGPZHF048dFvMf3NEmRhdqOhA2mH7-CZwSix1CfHBHD6EPZB-ZQPtiRp9A1FqH2E41-nD9-oukVDnVs5Bf-GBJ1gyWhibmOtG_xDg_-HHlyiI-G8DGOKY12VMtnCc-D4llxOiVhH6H5QMulFSFT4jhfUTg_TEfjsDFOp8dx_HuQQ9GDPJLw4ItjlCQi6ciPlsfDD2d-XNJTPDyYuUfzP0i0H3mW4gmPWcJ5NEfPXLiKUjz8HnaPYzv-I05OsGEeaKmWCPmwX8hvEXouAGaAMUAIg4AYghDBhJIQYKMEAAJIRqQwAHgErWIUAGYZxYgQBQwhChDBBAgCEIYIIMYQgwAjwAgjMQAAOkeBMAaRARQTQAiHmEDUECMFcggRAIQhUgEBuVCIEMokQoIgZQwRAgCEiABEEWAEA4oISRBCDEAExAMAGGEcBEoYBiBgBgEFABHWGMIAZA5QCgBgxFhggDBAGoDcAwAAkQRkABkDnZICACGQBUpQgYQjThBClHEKMKAQEUyAoQxhhikgABIEAUGAAZIQ4gRQHDjCDEaECQmQAgAIYwACDDBBlYHIAGQAI1IIIYBiShACmIAKACEAAAAAJZwC1BBCBBCKCGIEQEAR6qDgAAGhiCLiCUIEIMYQCKARAggEjAPEMUOEMIgpYAEkSAgDHECMUCAcAAYIkSAwxABFGDDACGGFIEQKACwizgADAXBCAEQsEo4IAJzxVDhgBGLEWAMFEcAAQRgRgjICBFBKGICcAEAhIoCASCgBABHECAEoGIQAQYwghBCDiCLEAYIAMIZR0IQTpGggEBDCAEEIAMAQIhkRRDEECAGEEiGAkQIwKBACADFnJBGUESQQMpABABAggholAALSMACEUIwCBoAQRAghCAEMCAIgIUgAoIBHBClAgFEcIGAYMQJZopQCQiGGGADACASEMIQR4KgwCBAgBGFIEYcUAQYI4QCRDhEABCGCEIQoQIoDIQAwRAHEjAFIGCQIMowAQxGRTFggDCACEAMIJFIAZICBgCggjABCGAUFYIhAIAEDwACmhCLkCIKN49YQIiBRAiiGiWGEGAIAMc4pwaBBjhBigQYeGQIIgAAAAASQQBBGFFMKKUqRU4xIxAgCQFlBFEEECCOcAQIQQgBygChBJAEGEHGAUIZgToRwDCggCACCEEC4CIA5BBSgwiNhAANAEECAAYIohAyxAkgJhEAIGGgEI8gAJQA&meta=recordings%20releasegroups%20compress
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      Accept:
+      - "*/*"
+      User-Agent:
+      - rest-client/2.1.0 (darwin20.3.0 x86_64) ruby/2.7.1p83
+      Accept-Encoding:
+      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+      Host:
+      - api.acoustid.org
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Date:
+      - Tue, 29 Jun 2021 13:32:53 GMT
+      Content-Type:
+      - application/json; charset=UTF-8
+      Transfer-Encoding:
+      - chunked
+      Connection:
+      - keep-alive
+      Vary:
+      - Accept-Encoding
+      Access-Control-Allow-Origin:
+      - "*"
+      X-Envoy-Upstream-Service-Time:
+      - '78'
+      Strict-Transport-Security:
+      - max-age=15724800; includeSubDomains
+    body:
+      encoding: ASCII-8BIT
+      string: '{"results": [{"id": "9d47e03c-df69-4022-8671-bd4cbad0ed3e", "recordings":
+        [{"artists": [{"id": "54799c0e-eb45-4eea-996d-c4d71a63c499", "name": "Ella
+        Fitzgerald"}], "duration": 170, "id": "1c534ae7-8699-45d0-b982-bf5730e5f5f7",
+        "releasegroups": [{"id": "229cc2dd-90d7-49f3-9329-bfb8185b843d", "secondarytypes":
+        ["Compilation"], "title": "The Last Decca Years, 1949-1954", "type": "Album"}],
+        "title": "Blue Lou"}, {"artists": [{"id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+        "joinphrase": " & ", "name": "Ella Fitzgerald"}, {"id": "eea8a864-fcda-4602-9569-38ab446decd6",
+        "name": "Louis Armstrong"}], "duration": 167, "id": "2f6c6609-56ce-471e-b7bf-a2c7e5def396",
+        "releasegroups": [{"id": "8a796362-8901-38d2-a271-b56a19d0395a", "secondarytypes":
+        ["Compilation"], "title": "The Magic Duets", "type": "Album"}], "title": "Blue
+        Lou"}, {"artists": [{"id": "54799c0e-eb45-4eea-996d-c4d71a63c499", "name":
+        "Ella Fitzgerald"}], "duration": 168, "id": "384e6d10-5e08-406b-92e0-30f55a953b54",
+        "releasegroups": [{"artists": [{"id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+        "name": "Ella Fitzgerald"}], "id": "a88fd253-7bc1-3b4e-8153-eb3c3c4c30b2",
+        "secondarytypes": ["Compilation"], "title": "75th Birthday Celebration", "type":
+        "Album"}, {"id": "c092bba6-f019-3f64-b4f4-c26c950f6ffe", "secondarytypes":
+        ["Compilation"], "title": "Ella: The Legendary Decca Recordings", "type":
+        "Album"}], "title": "Blue Lou"}, {"artists": [{"id": "19cf8de0-cdde-4f64-8922-d067807e4c9f",
+        "name": "Sy Oliver and His Orchestra"}], "duration": 168, "id": "e570d0cb-1868-4aad-895c-886a00f3161b",
+        "releasegroups": [{"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "a7b9031d-4473-3087-a570-5f98e7e984eb",
+        "secondarytypes": ["Compilation"], "title": "The Ultimate Jazz Archive", "type":
+        "Album"}], "title": "Blue Lou"}, {"artists": [{"id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+        "name": "Ella Fitzgerald"}], "duration": 167, "id": "f2ee8bd6-abd4-4046-93b9-458a2e0d7648",
+        "releasegroups": [{"artists": [{"id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+        "name": "Ella Fitzgerald"}], "id": "c4421564-ad0b-440e-8381-235053928c99",
+        "secondarytypes": ["Compilation"], "title": "The Complete Decca Singles Vol.
+        4: 1950-1955", "type": "Album"}, {"artists": [{"id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+        "name": "Ella Fitzgerald"}], "id": "0f9ebcc2-6ede-3935-92fc-b6f47fa7da59",
+        "secondarytypes": ["Compilation"], "title": "Ella: The Best of Ella Fitzgerald",
+        "type": "Album"}, {"id": "15ccaa6d-15ab-40d9-ba00-86f97f5fddc1", "secondarytypes":
+        ["Compilation"], "title": "Cole\u00e7\u00e3o Folha grandes vozes, Volume 10:
+        Ella Fitzgerald", "type": "Album"}], "title": "Blue Lou"}], "score": 0.931501}],
+        "status": "ok"}'
+    http_version:
+  recorded_at: Tue, 29 Jun 2021 13:32:53 GMT
+recorded_with: VCR 3.0.3

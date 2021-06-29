@@ -1,0 +1,82 @@
+---
+http_interactions:
+- request:
+    method: get
+    uri: https://api.acoustid.org/v2/lookup?client=<ACOUSTID_CLIENT_ID>&duration=176&fingerprint=AQADtJGYhYwYPAmdQtdK6JmC8MdxHpd-XEHVHt8R0fyQ9Gh-fMGpB8_x5Wi4jCL6UEdy5cLxpzNCHh-qjMJLDbsY3Dpx9ngWQ1eqob_QTNQq_Cnm5fgDf3lwcuGg48LNH82ZEOGE5DymPEct5uCTL9j5BT03_MU7XD_8FX1wJO-RP8J54j3KNYf3E23wHN_QI620QXuUIrdyPPlxikb40BCdZ8i340R5YVeOy0MTjUcvUSCb40F_IdmR1yCbVbiNMM8J7Tl-5JkOK8mNH62E3EoX9KuCc7fw68jl7Hh2MH_gPEd_BDpiNamCtrJgfUU_C-3QHH0Wwxy5IqnIcGguFvlW4lzh88gvQZeC-De6LweTZS2uN0J_NFXjYI_wD2UioRmZYtfEjKiQnUf_DMqP_ch3PDlCU4eaTkf86DgPLwfVG-GR5NuLBw16zBLxJPikHEmJOMyF90Jz5OyhHXmOkit8wcmP6sfVPHiC0jq0PMefYMcvlDmaF4-uBPmF5Mfx08KT4JKZonHi4ugPaPOC_in-BLdxDk2pKKgcHdUfpD98Bj-XQosS4vyRH00RnsENXVJ8xFOi47vQ58OvFH0iBw2dG8nEK4i7E02PHg-e7EfVB2IdvMTUgxcx_sFhHefx4EL-DM2zHNqFh8mCS5qgfDqiJOuO_sCJ7yme4z9O3MQRCVKY4JowZjbOGM2YHX2KJ0RT8eiDfMSTozqs8rhuAic84fgF48Sj4j3eBM8l5Eey6sWJPHeFk2ugZw_8tMjRMEYf4Lkwc_nxK6g0HsnyRcgtFEysKIyCu0nQonIWfCGSpdIRPUuDh0fZIU-RzEmKKXlw4jmaHXU-8EvCEJclJD_yoyeYaBFTXA-eSsZ_aC-P_riiY89w3mj4oGR23MiP5EzRPBFCndCb4tOGz3hzaHmOUOYzXDmOJ0cl8kW4MISeI1RdND-eRUGzJh_C74auFm9JhEvGcEQT3XhDPDlqJ0d_4c4R_cdxVSHCjYczPSglLgV_9IwDv3B8QSypYqfw5PjhMVfQtx4u4TySI98NHxczlOGDMCoN5QJJ6F-gZ3kxHiiXHGah6biRHz2srMETG_eFZ8cnJLyQJylRSsej4_3QlEfXSMWtH87xKcebD88euAlz5MED_coRJsuDKlEu4XkSnHDj8PiDH3_gHU8kPIxUnCmJ6-gvuLmEE8lrpFF2TDfIH48x5SL6B_fx9pioBGGijGHwoxfCHM9xJUkLjtvhW3iwHg-tKGiUP8glHj-sRKFZXFJUBTW0E40v_MeD8Drh5KpQ8UNJekKeKPAV6P3xsEgViRLao3zQvAo-Bcm_IN8S9D-2fDyeJgrBnKgPH8yPZLmdYPIOPU2PnE3gZ7glfElE1FRKolm3RUTyHzn-4EmLbzFuwV9y5EpfJFZwVdKCvmiOZ1mGXNqRvEZlhmgUUVuC_8KPRz7KNRk--MERMsdjfA4OzQlKbR6eRMyGB07xJ4Ie5MsXNEsU9MF92MtxrQwqJ2oIS89xP7iOLSeDHpHSFBUdBk_1jPgpBeaD93hSQ8uFsLiKMX_Be8cVLUX0GGeO84QbPDq-IXyqIF12Qlf6oKmDHU-IMA9RWQqyKsmhPDdCiRmFf3lwHf2PN8SFerBz1McjIj-S5SGOJk1xKihzNAq1ZUjqtYhkXkPjFGi2ywj9BMpJGWHy6Og05aic3GiOZ0cO7ceTFM0RU8nxSyQqMSSaLh--GH2OZqqQ60byJeg3oenxTWgeGr1QT0fCF2aGkI0SacJ5lGuOxFJ45LyEJnTw7MZpBU88GM_Q5DO63CliZcyRnDmaiRt6uLpwqbgefIidnUisMR3O53Bz_HhsTM_QP7jyDRx14cvRqePQxNGD8BIaPg70I3xiNGdw6uB6rHuKOw88MjGeox5eoZYUXKHwhBL85PiF50nxhSnqoXmGXBqR7IqChrnQD16Ov2iezLjCYd_RPMgTFbpoJUSvKzh0aQnyJEfzo8_xY08e3EOsHMmT2sKdEU2dGeH54pFyqGMUEj2jouGh9_AjI7fwHU0SPkSPI8cZBjozTsgLFy8zlHLQ0MeZ4u3gJsZ14mmDZNqOMF9GnFfw2MKTyMWdCk-yjIWq-2guBbVyPPiJx5LQLLaCUT4SPUckJumN69iPN7i8I0806HmC_Mdv3HnwKTuS6Qhz49KPbzm-ZUdzHX9ybGklhEyOUsqQWkStPuhzTHmO52DDowkTmki2SUoQ0cHhKiyeh7iOHgmTTw5i0_g7wVxCCtd5WEMy9cgT5cRZD9fRPKiTZjh_JI-Ni2oGLckRnjHwJNbx4wl6Ho3F4jxCosmirtD14XzQPMvQFxfRXOjxREoITcnMoOIH_RXKJH0RZiSFZ7HwE1YSMSkePdirGNQl5NEO5dlD5FuKMMuPX4aW-HiP8KXR5A0-DbOSREeiJraC6DxuCr_Rw0uioxZxHj-2bMHzC3zR46LQNDYe0dhz5ENzJtCjEE0S5fjT4JkVTPmh5ygz5mCVOnh6HNND1IYuLyn6JEcT6oKTKD7yIH8S-PEE3Qny9LgCX48QOzuUnpIRH_zB8EK7GnuOZ8nRjNKR9LOCMHpwH09G4gqao_piPN6JW4iOPj2244S-D1fSQkSeGVXy4zie48oseI-KV-GQE32OLhdTfMzwI3Ty4DyeckhOB-n0o4qSZM0Q61ug-Ujtozb-5ajyo1QqPNEV6FsS4ubR_MRFC020MMcT4_iJPkb6zCvkIr_wHP5xZ4cdQrODH8eN8ceTROfw6ELl8Gge8EfyE3l0CbP0FWWuw7EUDV_xnAAEgBHWSGIEGMICiaAjBhIglCCIGyBMUAgQQBgSBgiEBGCWAAAAEQYwAQRQRjACnAAMEKSMEEIIIRwCQgABCBDECKYFYUAYEpBACAGBmJIAMCOEAIIIQYghxCgl0CFgEIYAI0gDQgAgwiFAiAFCCSM4oQogARgxTgFBKFhIGGKAAIBIZQASBBiEgDOOEAeQMAoqBxBDSGAlmEHOCYGEIAIwgJAARQAhEBJACEUUE4QI5Bw2gnmgFJgCGAMAEIAZkhBCAEgHWGBOUSSQBIIA4QxxxBACABWUYQIIAggWBgAwjAiBmDKKSMMIlggwyAgXSBECIAEKICCIEQIYhoAjxgmDgEBUEWwEBcoAAggQXBGghAMKEBSEMlYwYwAwEAiFjGhCAiKUQMARQhASBCgGQFGEIKAEAAIKAwQTwDNgAEGEEYGUQ1aAghgjRBEEnICCIoKAQggSqQQIgDBDAJAAAcAIAZIAAICgBgDGHNBQGIAAMAAgwhxARCgEhEBAUIYQBEAQYBERyBihADAGOSCEhMJTAYVTSEECAFDACSEEMAABBIEASBBACBIMQqGAMMwQwAAAzCAABFNAfAAQYAIgYxARFgmDiKFEIMCUUUQwB4AQigHmBGCAUQoEAdYSx4wXgAHoBBUCEcSMBQIAJwASSAFEgAIAEeIMI0IACRlAgAmKACBAEAMAEkBQJQgjQAihgAEESWQIY4QBEwBhhAAjiKEIAQEAQVY4wRQhziABmFCAEcEEQEIgRJAAhBiihCJYCYmEE0YuQ5wCBABiiCCEA4CEAIAIYoijQgArDCEAIEKIIYAwIpEwQCEhDCDEGIGMYYICyowzDIAAgFIUGkM0EgggBiyCChgAkCAACUYAMYoBQIglzAlkJAQSCEKkA4QqIygjgCgIAEoKESMEEYZIhhRFRhDlAHAEEqGYIAQZoaBQQDgCEQHCERAJIUAoBohCxBABCEIE&meta=recordings%20releasegroups%20compress
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      Accept:
+      - "*/*"
+      User-Agent:
+      - rest-client/2.1.0 (darwin20.3.0 x86_64) ruby/2.7.1p83
+      Accept-Encoding:
+      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+      Host:
+      - api.acoustid.org
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Date:
+      - Tue, 29 Jun 2021 13:32:46 GMT
+      Content-Type:
+      - application/json; charset=UTF-8
+      Transfer-Encoding:
+      - chunked
+      Connection:
+      - keep-alive
+      Vary:
+      - Accept-Encoding
+      Access-Control-Allow-Origin:
+      - "*"
+      X-Envoy-Upstream-Service-Time:
+      - '171'
+      Strict-Transport-Security:
+      - max-age=15724800; includeSubDomains
+    body:
+      encoding: ASCII-8BIT
+      string: '{"results": [{"id": "56238d46-3e04-41cb-9631-7edcf62ab896", "recordings":
+        [{"artists": [{"id": "54799c0e-eb45-4eea-996d-c4d71a63c499", "joinphrase":
+        " & ", "name": "Ella Fitzgerald"}, {"id": "eea8a864-fcda-4602-9569-38ab446decd6",
+        "name": "Louis Armstrong"}], "duration": 176, "id": "52613281-8ac4-4a84-8034-afcccbb67cc6",
+        "releasegroups": [{"artists": [{"id": "eea8a864-fcda-4602-9569-38ab446decd6",
+        "name": "Louis Armstrong"}], "id": "fb0df892-5ed7-34f2-9d90-9b6d80d685a4",
+        "secondarytypes": ["Compilation"], "title": "The Wonderful Duets", "type":
+        "Album"}, {"artists": [{"id": "54799c0e-eb45-4eea-996d-c4d71a63c499", "name":
+        "Ella Fitzgerald"}], "id": "f47b68d8-8fb4-4f17-a9d9-55845b0680bc", "secondarytypes":
+        ["Compilation"], "title": "The Great American Songbook", "type": "Album"},
+        {"artists": [{"id": "54799c0e-eb45-4eea-996d-c4d71a63c499", "name": "Ella
+        Fitzgerald"}], "id": "1b21e361-58bd-36f1-9756-fcf8febdf9f3", "secondarytypes":
+        ["Compilation"], "title": "18 Greatest", "type": "Album"}, {"artists": [{"id":
+        "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}], "id":
+        "465901cb-0b36-38f8-b98b-7c4b47ec26c7", "secondarytypes": ["Compilation"],
+        "title": "Sin\u00e9 : Vive le jazz !", "type": "Album"}, {"artists": [{"id":
+        "54799c0e-eb45-4eea-996d-c4d71a63c499", "joinphrase": " & ", "name": "Ella
+        Fitzgerald"}, {"id": "eea8a864-fcda-4602-9569-38ab446decd6", "name": "Louis
+        Armstrong"}], "id": "c4d57285-84d5-4413-8118-b92f402ad1da", "secondarytypes":
+        ["Compilation"], "title": "Cheek to Cheek: The Complete Duet Recordings",
+        "type": "Album"}, {"artists": [{"id": "eea8a864-fcda-4602-9569-38ab446decd6",
+        "name": "Louis Armstrong"}], "id": "eccdaf42-b948-3d91-98e6-ab45ee98ff92",
+        "secondarytypes": ["Compilation"], "title": "Satchel Mouth", "type": "Album"},
+        {"artists": [{"id": "54799c0e-eb45-4eea-996d-c4d71a63c499", "joinphrase":
+        " & ", "name": "Ella Fitzgerald"}, {"id": "eea8a864-fcda-4602-9569-38ab446decd6",
+        "name": "Louis Armstrong"}], "id": "8a796362-8901-38d2-a271-b56a19d0395a",
+        "secondarytypes": ["Compilation"], "title": "The Magic Duets", "type": "Album"},
+        {"artists": [{"id": "54799c0e-eb45-4eea-996d-c4d71a63c499", "joinphrase":
+        " & ", "name": "Ella Fitzgerald"}, {"id": "eea8a864-fcda-4602-9569-38ab446decd6",
+        "name": "Louis Armstrong"}], "id": "162346df-76e5-4cd7-9169-f047b61421d6",
+        "secondarytypes": ["Compilation"], "title": "Ella & Louis", "type": "Album"},
+        {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various
+        Artists"}], "id": "c2fa63c7-a775-48b4-b1d1-e129e150bb36", "secondarytypes":
+        ["Compilation"], "title": "L\u2019Histoire du jazz vocal - The Story of Vocal
+        Jazz: 1941\u20131953", "type": "Album"}, {"artists": [{"id": "eea8a864-fcda-4602-9569-38ab446decd6",
+        "name": "Louis Armstrong"}], "id": "e8edee5e-70fa-3af4-8e09-6e6768134649",
+        "secondarytypes": ["Compilation"], "title": "Jazz Portraits", "type": "Album"}],
+        "title": "You Won\u2019t Be Satisfied (Until You Break My Heart)"}], "score":
+        0.907569}], "status": "ok"}'
+    http_version:
+  recorded_at: Tue, 29 Jun 2021 13:32:46 GMT
+recorded_with: VCR 3.0.3

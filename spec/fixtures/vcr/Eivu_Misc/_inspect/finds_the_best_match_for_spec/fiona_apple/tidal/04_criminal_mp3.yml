@@ -1,0 +1,124 @@
+---
+http_interactions:
+- request:
+    method: get
+    uri: https://api.acoustid.org/v2/lookup?client=<ACOUSTID_CLIENT_ID>&duration=343&fingerprint=AQADtBObtEoC00dJKWOCZzijI0-Ko1l4QqMf6KGOK7HwG5Xy8GjkyILKIh9PPMfX4zlxOsIFP7jGPHiv4FZGTElmozKuoXYqhIfmJ2isIs5w8UfzFL0eIXouPC_-Q8-JM08Ox5CXdsEdTcidGM1zoXrG4A_yNM2hH2WOZlQOXRpyXDmunIOTPMzxmCGy50ie4zY-5niycbiGxslQiznxKjJyTh40RYezHMx3lNoC_cG1B41xKnhO_IqQVjke_Eapn3h0wtXRx8qQB1ou-UL4yFLwW8Iz40mW4oxxpCM3PEqUD1_2oFYuVLKCKskr-OgPvSyyXBdRrlGLZ3gWJrjhBw-PcxO46wjXFg6VHYdLRcPJJ3iOqsKY6cdPNHso9DkuevgX1PHxo8wDLXl-hP5wZkqHXwwa-aju4ieeaVGC5DoiEeakHx6XPEKY7vgiQ1Vy4fk2-MfzidCP7MPz472IPWjOo16O5yER_aik4zn8Hz9-Hs9yGQ2P5yN4wdGT40d1H42O6oPPGDfEacdFpFwfo_TxHHk4qLmR49_w7MGZ4-jRiFPC45KiC_mFM0uOKwWT6kJbOTJUsS_II8yPOnlwpQSaJ0Z_XBcehcjHQjtVvEG46MiVoKK4YMqeOMQVHGGm5KiUKB_6FFYTCTe6-UOedkie_WhqdFeOCzvcHg83JB_SHl-OkxbO5nCIH_mRPHlgLjgfET_6oWmSH9eJI30OhZ_waHuIPCKqw48x6bOOH42kYyJpfE-OnlEDV0cZSUce7dCuZILO47dR8ceTzBOhMxbC3BJ6nMqwMjTOIswZaJYeI3wWwxtO7OuDdxdyfGsPMZ2MuoJ-4nuEHD_-IFd2-IVC8_h4nLHRRFFWCT5641RG4pE-VFMueLrQS4mh_YJ3IpKWJMMa3bjRRyKainjx50N4pkPz4Ay-_AjjF8xxMEnSUUcyXcjR1OmGf_CTwFXio09xHX4OnU9wGr2OxjhGH82TC91N5Ikk41pC_Kh1aDdxEuXRMDf24BU0PvGQPjn8oqIzJniWNsd5NGwjtMTzILdSIbk-PNTC4JIksmh3ofnx6kEtpkfjEHkOzT3SHI-XCiflFF4ypQjfGPUCn9DYJVvwPIgzSzreZMlx9EET-nheBYkzJkN8Yc_xqPh6lIly-BdyEUl-_EedHmV4eA96oqkR6SmSctEwRd1R_ZjzBFeuwO9x4w1RT8KU6_jB54gbNIroBZqe8IheHUetw9aJesdzPCNy_JAjjJqDH9rFwifCH9fBH62mI8wOnTHyETc3oUp4-JGkodaEF7eQ74Ly4zGHUUwOLRqq-sjV4eGsCP2SBs11IoeeS_iR5ng4PGEb8NKD6Uj_4XAf9GF6XNlRNI9WqPGOK0f-40rCYj8KPwGj46PCoCqPSCnxWINOcgl-5PhRfodPfEePI36OxGOZ4Lh0Gs-MhpsQWrxwLXmg68IT4Tm06Ef5C8qPfAqYnOga4xitoflyoaJyDYl35Mc_fMN9NHlQSplEvDviHw-aSTtCTbrwo9F1tBFD49qHpj5eDW-C9AmU9wjz43rARjmePKhuoVGXrMWbHKVNwssNX0QvZZPxS2g-B6GlG8mlEz8eWrhIEz3hB_2Fhzu-DbGWD7KYD7Gj4L_w52gHP5oR6ST04yGPMHlwfUhrCz0fQnuQjjnq4_lwCn2MJjpyHXKTHXmIURfxPkiWaUf4aTx-_LhIRejRKKuFb0soRE-IZLnho6fxH1OP9EuhkWyQj8fDZsKPI6yiHMkyPMLT4g6aEFV-vMeN7-jRTMqwH_8w6SnCOFEM_UJ5C9sZpFzQH410o8_x6BeeEw1JdOHxXYidIVlKBWWPm8S1H29khkKjNkaNnCnk5EH4w90yWN6ONM2R_MHRLJoSHiePZE-pIT2eojmDtzq65kITSTXyIMmFd9txDiwzo4nyYNqUHkkZHjmeEc17VJTkIGKy5NCaHyF-8BU-NA4mWQkT4snExDjeNET8I_nRt0bz4GhUwh3KHzkfyFMsIVR3mM9a_A98HRMuHid-IZk25G3xw_owPVGOGzdCKRca54JO5Du6G86DWihXC55UhPpX_Jj2QSePh8pxLTnE-Ed94syFcB7CxDqh_8jOw2dyfBOFL7GKJtfBbMePI0G-BN8nXNIVPE0URWgq3igZ4SqegUdDTT9CSSuNxEdzVDweGqeywDmy80EP0YnwXJj14z_q6UOVe_gaXXiiXNB59KGI6BbqHl4UnqikHfzRE4125M0h5kKuHHOD7xR-9KmxuXiaI5nMGPkp4j1O5WB4PBHOjGh6Tki0sEcuHzcaPTr64NLxHI1-OM4VnEezBA8DHn6-ILb04klyqNKhM83QfBLRH4_2IXIyBSVvHM6N0EmEv8dPQzwe7VApHkj_BJdk4Zp6NMyGKrmCb8OLbb_w58iXSD60tMyCUGoeNOc1VMdjPEsYXMENH_cTXIke5EwUnEuhC_nxJDyaSHmC8PmOE7oQpn5wKQ3yZCmhH86F8DjPBc-LPkHzIM8lHOcFPfsEQ-eC7yLC5keTjUaO36ipQEvDID_-4wpe3MOz6PjEo4k_9Hh4IW_MQKUY5OioB14CR9QcPNiPxrmMK-xxHfk5iEyKqzLiw3LU4TzebBFuCk0c5eg14g817OWE_EIyHg1v_CgPymG84kokOA-6x7iZFXkeaFTCGGYsLoSfHSdRksWJmEmW48eNn2gUNwXD5BHyLod-VGSH_A1aGrmOvhBHKfiPsMfzBS8pIbfx5hV8yoS-CLoWPMaNBv2g-PkQ_obJozy-D_-xdkETl0h2Pcg_fMfRLBtqPQECAJHgGQIQgcAgQA0hhDgQGECCKMKAAEoAo5BAQAFGBEBQGIOwAchYQxAiAAjgEIEGGaC4gAJZ4CAgCAgIkFPIAUEQEhIAAQRAjBpACADCCGIIYRQohoBwigDjgDBACMIQUsQyIAQCwEhCCSJGAEAIAUAgCIhjBBhCNBIACCW0QkQABAABRkglEACOCgIO4AQBo4QzFBiiCAMKAEEYIcQAhYxBQDBiiRHaEQDiMYoJhAQABHijlAKMCEKcAUIxQYgiBBl3ABNCSAQAoQwRIAQCliAgCAAIIQKAMwIAQAQTgBknFFIKGSOUMAQxIIyxQgEFOGEAGGGJIUQoDKAkjACAFBLAYAawAFAIoAAhzDJhABAOEIKkEEQAwAQiACjrHCAAECcAQUQQAQ2hhBBApEIIAAacA1IwhghwjACFACFEAEIsMl4wChhSQghEnDLCIgOgUERACIwgghAgDAEMQQKIIIBABQAyCABmhCGGIC0AA0ggJAhSTklqgAKEMYCAYpRQIAAEgDoggBCMCUCBEdIwTxTCAAAkGAXMEEOcZMIAQZBwBBBgDABAIGEY0kIAYQRhSAgnnFGAAEUYUpQAoxAShhABmAQIWWCQEkoBLSQAwBLjFGWIKKQUOQYZg5AAFgigGABMMWWIIQQAwYRBiiEpCBCKASAANwRQABBrigBBiCaIkQAIIgJYg4gwgAggABSWKMEMAAoQhpSBFABChQDOEGCEcEwYYpAAQCAmBAEUDAMAAsJQDAShTAELjCBACWAAIYQQAoFwRhCCLEfAGWUAEgoQIRRDADAmhACUAIEg0oIQIpADgAimkTAICSMOAkQQixwwAgGjHBMCGAEAAcSCgDgjAiiAmDTCKAEE4wIAhJwDAAkqBCFAGQOUAAQA6iQhADwErANIECKgYAIQRKAQjiCEFIICAWKUNMg5RAVgAAhDGaLOIQSAREIIBgAwUDiBgBLYACAFEAARBwAAwBjlBDEA&meta=recordings%20releasegroups%20compress
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      Accept:
+      - "*/*"
+      User-Agent:
+      - rest-client/2.1.0 (darwin20.3.0 x86_64) ruby/2.7.1p83
+      Accept-Encoding:
+      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+      Host:
+      - api.acoustid.org
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Date:
+      - Tue, 29 Jun 2021 13:33:04 GMT
+      Content-Type:
+      - application/json; charset=UTF-8
+      Transfer-Encoding:
+      - chunked
+      Connection:
+      - keep-alive
+      Vary:
+      - Accept-Encoding
+      Access-Control-Allow-Origin:
+      - "*"
+      X-Envoy-Upstream-Service-Time:
+      - '122'
+      Strict-Transport-Security:
+      - max-age=15724800; includeSubDomains
+    body:
+      encoding: ASCII-8BIT
+      string: '{"results": [{"id": "09f484f5-44a1-4a30-9b95-28143d1287d2", "recordings":
+        [{"artists": [{"id": "a9ee533f-8871-4f62-a6bb-91eb264abc90", "name": "Fiona
+        Apple"}], "duration": 343, "id": "228b0381-acaf-4f83-bd69-32b91b8d1616", "releasegroups":
+        [{"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various
+        Artists"}], "id": "738ebd52-c2d2-46fd-a0ba-ffe5637855bc", "secondarytypes":
+        ["Compilation"], "title": "Audio\u2019s Audiophile, Volume 10: Power of Pop",
+        "type": "Album"}], "title": "Criminal"}, {"artists": [{"id": "a9ee533f-8871-4f62-a6bb-91eb264abc90",
+        "name": "Fiona Apple"}], "duration": 343, "id": "3c8f28a3-a1bb-4827-9f77-8d86edcd3248",
+        "releasegroups": [{"artists": [{"id": "a9ee533f-8871-4f62-a6bb-91eb264abc90",
+        "name": "Fiona Apple"}], "id": "f356c9fc-479f-3de8-893e-08c5bb92d74a", "title":
+        "Criminal", "type": "Single"}, {"artists": [{"id": "a9ee533f-8871-4f62-a6bb-91eb264abc90",
+        "name": "Fiona Apple"}], "id": "b82bef40-53b7-4582-8561-8b660039dec9", "secondarytypes":
+        ["Compilation"], "title": "Original Album Classics", "type": "Album"}, {"artists":
+        [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}],
+        "id": "07e34b5f-3b57-3b1e-a7e7-d0d5aad59ec6", "secondarytypes": ["Compilation"],
+        "title": "1998 GRAMMY Nominees", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "e642ddc5-63c0-44d0-ab11-f60d2f6cb51f",
+        "secondarytypes": ["Compilation"], "title": "Pure\u2026 Woman", "type": "Album"},
+        {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various
+        Artists"}], "id": "acacbc50-d8fc-3c03-bb95-b4e0fc9637f1", "secondarytypes":
+        ["Compilation"], "title": "Pop Music: The Modern Era 1976\u20131999", "type":
+        "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name":
+        "Various Artists"}], "id": "eb39cf66-c755-498a-91b4-ea9bb968d041", "secondarytypes":
+        ["Compilation"], "title": "90 Sweet 90s Hits!", "type": "Album"}, {"artists":
+        [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}],
+        "id": "418d56b0-6041-4e7c-b4a0-511c32e1ed08", "secondarytypes": ["Compilation"],
+        "title": "Single and Loving It", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "8aa534af-b1c3-41b5-89d1-1bef56cf164a",
+        "secondarytypes": ["Compilation"], "title": "Columbia House Presents the Best
+        of Modern Rock, Volume 2", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "bb2b2d23-052a-4229-94e6-ef829727e724",
+        "secondarytypes": ["Compilation"], "title": "Pure Woman", "type": "Album"},
+        {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various
+        Artists"}], "id": "2b0fb75e-94bc-4ccf-9df2-c5189ea5fb9b", "secondarytypes":
+        ["Compilation"], "title": "21 Sweet 90s Hits!", "type": "Album"}, {"artists":
+        [{"id": "a9ee533f-8871-4f62-a6bb-91eb264abc90", "name": "Fiona Apple"}], "id":
+        "82ba556e-99bf-380d-b9b5-5a97737f1cd1", "title": "Tidal", "type": "Album"},
+        {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various
+        Artists"}], "id": "2bf5039e-694f-4479-97b4-70f4757736e5", "secondarytypes":
+        ["Compilation"], "title": "Saved by the Girl", "type": "Album"}, {"artists":
+        [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}],
+        "id": "8832f9d6-7f2d-387d-bd93-77a5e6948409", "secondarytypes": ["Compilation"],
+        "title": "107.5: Songs We Know You Love", "type": "Album"}, {"id": "a5699755-a6ac-4b27-9720-4c290689d1b3",
+        "secondarytypes": ["Compilation"], "title": "Tidal / When the Pawn...", "type":
+        "Album"}], "title": "Criminal"}, {"artists": [{"id": "a9ee533f-8871-4f62-a6bb-91eb264abc90",
+        "name": "Fiona Apple"}], "duration": 341, "id": "426978f8-70e9-435a-8bf3-bf1a4e013bd2",
+        "releasegroups": [{"id": "f356c9fc-479f-3de8-893e-08c5bb92d74a", "title":
+        "Criminal", "type": "Single"}], "title": "Criminal (album version)"}, {"artists":
+        [{"id": "a9ee533f-8871-4f62-a6bb-91eb264abc90", "name": "Fiona Apple"}], "duration":
+        343, "id": "4d165339-ba91-42a1-b970-a2b87b134cd8", "releasegroups": [{"id":
+        "c51f207b-a0dc-3f89-877b-4c4c94af018c", "secondarytypes": ["Compilation"],
+        "title": "Fiona Has Wings", "type": "Album"}], "title": "Criminal"}, {"artists":
+        [{"id": "a9ee533f-8871-4f62-a6bb-91eb264abc90", "name": "Fiona Apple"}], "id":
+        "715e8941-b09f-4663-b483-3148787b57b5", "releasegroups": [{"id": "4e13dc1a-c184-3fa8-9488-7b29f671a83e",
+        "title": "Fiona Apple 1999", "type": "EP"}], "title": "Criminal"}, {"artists":
+        [{"id": "a9ee533f-8871-4f62-a6bb-91eb264abc90", "name": "Fiona Apple"}], "duration":
+        343, "id": "7fb1433f-8e85-475b-b7ab-9e94520535d5", "releasegroups": [{"artists":
+        [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}],
+        "id": "7cd9be07-ab95-4703-b686-ac9b62386521", "secondarytypes": ["Compilation"],
+        "title": "Ultimate Grammy Collection - Contemporary Rock", "type": "Album"}],
+        "title": "Criminal"}, {"id": "9d2ed6de-6ecf-463a-b4c0-b2ad995249fe"}, {"artists":
+        [{"id": "a9ee533f-8871-4f62-a6bb-91eb264abc90", "name": "Fiona Apple"}], "duration":
+        345, "id": "ad993c13-27ec-4b30-b987-35fcd692a6dc", "releasegroups": [{"artists":
+        [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}],
+        "id": "972c5a4b-ed8e-3db6-9e2f-63376d9ed8f1", "secondarytypes": ["Compilation"],
+        "title": "WTTS 92.3 Collector''s Edition, Volume 3", "type": "Album"}], "title":
+        "Criminal"}, {"artists": [{"id": "a9ee533f-8871-4f62-a6bb-91eb264abc90", "name":
+        "Fiona Apple"}], "duration": 340, "id": "c3756dae-7a38-4ec7-a518-854fc2778bfe",
+        "releasegroups": [{"id": "a8baf9c1-d5c8-376f-8a0a-a98768ee599d", "secondarytypes":
+        ["Live"], "title": "1999-10-29: MTV Spankin'' Live, New York City, NY, USA",
+        "type": "Album"}], "title": "Criminal"}, {"artists": [{"id": "a9ee533f-8871-4f62-a6bb-91eb264abc90",
+        "name": "Fiona Apple"}], "duration": 342, "id": "dab2ee84-209f-47e8-bb02-ece474f32d42",
+        "releasegroups": [{"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "7598204f-8add-3ff2-b1d6-5a8ce03dabe9",
+        "secondarytypes": ["Compilation"], "title": "Grouse New Music", "type": "Album"}],
+        "title": "Criminal"}, {"artists": [{"id": "a9ee533f-8871-4f62-a6bb-91eb264abc90",
+        "name": "Fiona Apple"}], "duration": 342, "id": "e22e41a2-253e-439d-b50f-5a0db44d27b1",
+        "releasegroups": [{"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "3c17e5b7-769f-3335-999e-60426e47abd1",
+        "secondarytypes": ["Compilation"], "title": "Total Hits, Volume 1", "type":
+        "Album"}], "title": "Criminal"}], "score": 0.989042}], "status": "ok"}'
+    http_version:
+  recorded_at: Tue, 29 Jun 2021 13:33:04 GMT
+recorded_with: VCR 3.0.3

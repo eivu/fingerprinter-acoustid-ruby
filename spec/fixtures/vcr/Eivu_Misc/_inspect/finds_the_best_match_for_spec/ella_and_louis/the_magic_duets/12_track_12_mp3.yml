@@ -1,0 +1,59 @@
+---
+http_interactions:
+- request:
+    method: get
+    uri: https://api.acoustid.org/v2/lookup?client=<ACOUSTID_CLIENT_ID>&duration=166&fingerprint=AQADtJkUhVSkJHiUnvjlQEfafLiDG47i45WPH-Nh_Tjx5Hj4oSQbNN_xIzSSpXlwkonwLYwIJ3NS4leAKfXRHy3cuEYtXuiD58FtNEyo4z3OHOGhJbSRL3FFPPxwNEdf45kmPD2cP_gPHe5x5QqaZUd3ozmS6UQuPsGV5PB13Hgs_MKxnciPJHvx43uIh4d_HMdzHI-PeoeTC73wJ3gqKkPupVCPPMPjhYHjJ8IvXMlxxiipxETzOyiarTl-4bUDPw-uH_vx5wEbTTpe8M-QNEcoUUfD7LiUHD8cZznuBH2RLEuCrDo5bM-OPzieHs19lF2K5_gV5FGeQ4-POFuGjyjZJkJ6JDxqHlOaLCibH1f44X2wGz18CWUeJH9ORPvB58F5fM_R_CiPZzkuPMakH01yIRcUZ1J6ZO2DEY3KB85HDf0xHU2P5EmO_Li_ZPjDCD-YBsmoJNGRD82PSgepGyOeZkeybC1C4w-O8cWjB2ayHz-eH1ca3EgkLdF1xHyCZ8lBjcRlXOiloEkU0Ue2E32gpckl4T70Fz2aZ0GcE2eOy3gKz8ceYteHH-GRdEn24cezEFu2E5eGJ4enwyvxITrOI7vCwgl7hPKRfMdzXFMT2HuKy8eUZVmGysfIBy9qHYmSMTuCXnAyRQ-odCv6g36J44c7DtEXJOeF_hOcPAvhfFOEWkSvCwmfI89s_DiFp8f3w4vwObhW49Rx9GHwXUHzhZmC8ImgHJme5MJP4a3xJI8SVPThhwd_9LmMCMkzpcJFBzvKrGiS-PgRpllyCcns4PHighNpolmOHtFDD8qR5Wj-4CuuJFEa5Ba0J5-ClEuSB0wf8NHANCOa__jxPseUckUyZzlyXFcx_UmGZskPTj2ep3DFYJ6G5-g344nRR4icBskXmniM-geVHBWVGHuG5LqQPx3OR9ijo5mIikmRNH6QH3xR65iyJEeV9MOPX-jjQ_dxPNODZxKuLUGPZsxRR8uEZOmNq8R4_HzQfOiSpNA1HnlFGhcH_7jM48rRX0et4zlSHombBx_uqGjyo3tQHqOyx6j34MmF0-jxHld2TMu54Mzygl-OQ1Ge-ejRp0dzPDuu5uieXHA-JHueGNHFFA_YTEfJ6GguHV-OSw-e9EbsLD6YH1OkBjnz4Acq52jGHzlzJA-uFX-OMtzRRH-xDqGYBMlyBf2J5vgxJ0meDNdxEhY1XMkF_cL0Hs2640n4oNTx4zwx5fmhP3iSG99yODl-5_iLP7rgF290xJZOJNyD49Nx6XgV_MYYHyfMJGCF5NERXsKU3fgePFGO6OKR8Dl-4k9w_fiPZkeZODvygXM-451YTEl31DpC9miW6BE-RfiRHvqRd0ca5cEzxYN-HtGP8_iF-gKTkU_wKcWdgzqSJ0SOJ1fwB8wNP-hjPEd8aMuSQ1V2RGwfPE2Uw9UH_5i-pHg0ZkJNMWDiZMH543lGvMGUmBy6KxV-4Tw-NLfRH8dO5DkkNTmRJzrOGBex5XnwoFRywUuUPMETo8kjE8jDBck7PA8uMTWaozp-XGKOJzt-JLsQJl-AP8i1HLegbDyu5NBNIXyMUTms8FGEeleCbknx5mhnxKpCKKfQOAwDRj-eb9ByZUH4Byxzos2LZkrc40EIPRdCmcePJ0K_41HAnCr2o2sewacoVJLa4JF2_LjRHJ8FX6hyGkeu7NBzpMVltPyGZquHH__w4tGRPDPS6scDNJNeokxSJ8izafChR8fzG1eSXGim7dD86MjT4V2HRzpuHq-OnziPyG9x6EoOqiIXvNDG_Gh6PA-DJOaD_oQf9DeuHI_kTHhzJHuCUMeDF83yhKiTPGj6HMn06MgfPIezLA-e4jtGDaFvJIsaGj9-gck_5OiZF_yFSL6NZkrO4UuOZuTRMxV2lNKOMEuSXEj2o3kk8DwcYVV4fNOJxulRXviDnQgzJgpEIuR8PB-YD04-HdWPS8nxOMWLWgwaHvmToRnpQbO0Cx-xq_gP-UOYOMTEH3_A68WOK8tR_kKz7FGhC8hzJLeDH42c6JiYGJwY7A_-4SO8Y88I1j8eJXpQUw8YbVmaEE-kE_x-fB-mVImM8jmePBid42GC5hf6Il-iC_qJdGSMZyeOxpFiMFSPfkfDEXyGJymiH8l-eF6De0e3DKfx8ML5DE0f4qmJK_hzdPuNL-nx40VaNdCFmFKOP42MkJmOP4O844c34tMJ_ULOHv3xi2j-oE9y9GgiSjh-2DbOJ8gvaD3Sw7EUPIGTjUffZ8KTHX9wODFxX0KuZEiyJgN_NF-cYeI9hFl-JPNvVH3QJDteofTh89g9_PB3JMty5Hex6yjsLMdLNEceaPklhM8TxImSRA6SJUq0ow-SE_meBM0TpSIqBt22Y0r0lHj4YHAV4seNME9yKJJ1Ic-PH8XZYzzKHQ8v_EdxHU0vPDmOZkdy0hqaZI4TnMlx9EvQXAqeJLh65MEpHic-hqgTonmSF3Nq4mRIPEl26A7ew8-HG-RzJNp1RMfR_ziRHNEO5iHW13ieI7cCPUj34CeSpUkQ-sL3KPgd1GqJR8HzBM2D-ZCaYU9t_OiPJg_u5cQZfMOPJsqOkHqhH7mCoz9-9Jij4-XxXEeTXgnqXTjxcEF6XEmCPEPOHdwjJFOuLByaisen4zrK5CUa50KpYwqHJ1BESjnc5KgSHdyOskOyPIiUDv104VLywImPi4eeE_7x4MO2JNENTl0aRMx8JPvQVMWzJDj14EL6PtCRH08e9DkeuFSQp6hyACOIUAsRIRDghhCAJDEKUcMIMMwxALgjiBjIAAgEOcsEUQQAIZAjCBEKDCAIEFINk4AxAA1gAClgHMEqAUUNAQRABRBSxBqAEHECEGQIYUQAhQyBhgAkuKBEAGEBAFIBxqBQABADNHYGACKQEwACIJAyQiAAFBKUMIQAAlAQgZSjhhABghAEOKeIgAwZR8AVDhgCGhCQCsCIgE4QJ4wFgpFAAEWUGKGUYkAYhzgSwEAiAbCEOIEQEUYpCQUgSmFFAYACEAQIYgoSzARhwDGHGEBACEsIMEQYAwAjBhAEKpAAQGu0IFAQKQQQAAAiGAGAoWQAAgwARiChAFADDAGKAAYMIMoQyQiwDhjBDBOEUvIAlQIAABiABjCAFEAAMeIJBII4qQhyjFEBjAIGGBaEVkQQBIQQQhCBIADAAaIMAEYIZIFRwBjCiBOEAEKQIZ4gA4AFTghkAKCCEYAAEAQhQgwQAAEgtCBGOCOUMMBYxphwwAEkCALMIaUIQEAIgIgwRhLLlCBCKACMAEIRZ4gCiihgCHCAKkQg8tQBIBSCghEhCKAAAOQoIoYZ6ZhwhBrDDJFAAISIMsIToRQyBkAhhMEIQMUIIAoBAwgRCgHAIECIIUGc0AIBAplA5FkCjDKIGAQhY4wQYhhhAhkADBAAAUmIAU44AJgAhCBLiCTASICVQEQhhgQggAADhFICEGWYAsAZYKQQhgBjBBDGEYUAARQQJyUxhAFggBSEGAUYAUQAIaQQDgFDkBLCcIMIEM4YZpAFAhAggBFCMCEIUQQQJQRghBkSjCNGACsABAQRpRADwAABBKDCECIEABAoI4wShhAiBQECOQEBUwYoCIAghDgHnFFACEAAQIooARxTwgghjAAWMaAUAAIpAKAghFkFkACCGEgYUMYQR6CwiFoNAAKFOIMUExoBRIwglAAAABLIGKCAQ1kbZYRgjhkHoCAIADEEYoRYAZBCmgJlPCkMQiYJAsAhQggiRAAKBKGIIiEhktohIJAgAAGmCEPCAUIECIAwoghwahs&meta=recordings%20releasegroups%20compress
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      Accept:
+      - "*/*"
+      User-Agent:
+      - rest-client/2.1.0 (darwin20.3.0 x86_64) ruby/2.7.1p83
+      Accept-Encoding:
+      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+      Host:
+      - api.acoustid.org
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Date:
+      - Tue, 29 Jun 2021 13:32:50 GMT
+      Content-Type:
+      - application/json; charset=UTF-8
+      Transfer-Encoding:
+      - chunked
+      Connection:
+      - keep-alive
+      Vary:
+      - Accept-Encoding
+      Access-Control-Allow-Origin:
+      - "*"
+      X-Envoy-Upstream-Service-Time:
+      - '65'
+      Strict-Transport-Security:
+      - max-age=15724800; includeSubDomains
+    body:
+      encoding: ASCII-8BIT
+      string: '{"results": [{"id": "4b66a768-4d93-454e-9ecb-571a1637595a", "recordings":
+        [{"artists": [{"id": "54799c0e-eb45-4eea-996d-c4d71a63c499", "joinphrase":
+        " & ", "name": "Ella Fitzgerald"}, {"id": "eea8a864-fcda-4602-9569-38ab446decd6",
+        "name": "Louis Armstrong"}], "duration": 166, "id": "25c8a8e6-5338-43c4-9ba0-38e5143e1e5b",
+        "releasegroups": [{"id": "8a796362-8901-38d2-a271-b56a19d0395a", "secondarytypes":
+        ["Compilation"], "title": "The Magic Duets", "type": "Album"}], "title": "Ramona"},
+        {"artists": [{"id": "eea8a864-fcda-4602-9569-38ab446decd6", "name": "Louis
+        Armstrong"}], "duration": 162, "id": "341b011f-667f-44c4-87a9-d133c28e6b65",
+        "releasegroups": [{"id": "2c3e750e-b21c-30f4-802a-64303a61eb42", "secondarytypes":
+        ["Compilation"], "title": "Selection of Louis Armstrong", "type": "Album"}],
+        "title": "Ramona"}, {"artists": [{"id": "f617ed55-7691-41cc-9671-c04a29641125",
+        "name": "Louis Armstrong & His All-Stars"}], "duration": 165, "id": "3450cd3d-d656-4c07-bcc2-04d6162dae7d",
+        "releasegroups": [{"id": "314cb58c-23d0-3d6d-99d0-f2cc035cb542", "secondarytypes":
+        ["Compilation"], "title": "The Complete Decca Studio Recordings of Louis Armstrong
+        and the All Stars", "type": "Album"}], "title": "Ramona"}], "score": 0.916205}],
+        "status": "ok"}'
+    http_version:
+  recorded_at: Tue, 29 Jun 2021 13:32:50 GMT
+recorded_with: VCR 3.0.3

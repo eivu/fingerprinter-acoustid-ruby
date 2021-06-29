@@ -1,0 +1,70 @@
+---
+http_interactions:
+- request:
+    method: get
+    uri: https://api.acoustid.org/v2/lookup?client=<ACOUSTID_CLIENT_ID>&duration=275&fingerprint=AQADtFEkKZqnBMmXoDlKSceVJHhKJsGXSeD1oEGPJ0-RK8kyHdqXIsyYZ8K3MbiUWehL4stJRFvyQ_vwP4HcTpiyWEe4UHLwlAZjH82SlHg6C--UBMnyITwe4okOlp2C68J0hPmhX8gjpgn29Gj0HH2GkzLyj4IisbGCdEouocySFxf6H85zIdwDhdaPXFGF0LnRRLkEOT2H-E0CfmkOV8GT7LgOsl2W4H8wHWF-6MiTH3eiJML0HM2PK-MUDo8eo2rgDuUfPLQi5Cl0KUOYOLOIUJm-pPj4QsuyLOij48-RzWGDaXkF80gm7i7y9EO1H-n0Y8qDd0OeL7gePMF_4S_-oj-a2eC15Lg0E7zyIekfhNF0ovqDK8djJEsehD8u4Vfwo7k-YtKJM1GC-0cY72h36KmCH32yo0mPOA2H5ujxkGichkO7DCVV3DneDv-RxEeaPbim4Tmq4j2uXajtHM3xpni0IRLzVGhqB3qgM8GPSlku-OizQDthKnh2eDviVPAqVM_R9oiUHD90CY30Cln0HB-OB1_1wOJX8DseFp-O9MexZz6uXYWyHHkxddmFxszxok8JP8HxUMYdxCYOsX0QN5LhbhEa4fiLJzOqK1bR6Hgi5Merozk0i8ehWVmMRj-uRIFDFcdDC81faJaGOEwUNKVQOcuE_mh-fAhlrdBSH7k2vMPxZSc-B06LR8eRSzEa6Yb2HPeOdlJ8NEEeJWhGCT3xsEezJ3h0fCYebbgoBTkSMviDPtzwJ8FvHM_RH_4c9Hh05Ds6HVoe_MWjQ4zxQ8sD7TdeNFyGHposhFGjBPt4VM_R-Nhx0wh3I1lO7LiIG9cSo4lplNuRhztuKUVz_HiTHSdTiNyRHx6JUo6PWjmab8SPqhEsLyp--D-SHOmPftmCXzn-4zruYPqxpVN6tH5wHV-OnIf54Lh19FmM5viO5smMHn0eiD9COTm6Do1t3AkaHvXxzyvCqJqh6ch5_LhwkUejOUV_XA2-2EOYM8ZrfDquQ6yIF2Em5THO4JV4NE60ovqESyjr4kdFMch3I5kLX0_QpdRwHtexJ3gu9DKm_DHeL3hzfDvC7EeFC0-SOGgiVBtjQcsY9NAenmh-yDmabMmM8JODPhn8ofrxbYgpKYWWX4j0XcKH441-dP_QtEmFPR9yofsDLW6KKzaeoblmlPoRe0Gfo4mMJzsqUzycXfAlYpdU3HyQvkg6OLmC5zgVB4-p4hH6HI-LMU8aNOmFPsiFS7Hg48PT5EezhSx645OPBjWNZv2g3UdbFWEiRiFeBj2aH8gjG72RsI3RHsd-4VuORs8x_fgRmz5aTbGg5bgwPQuc_ciZHVucBeWJnje8oo-I3tgyHhYjBXeG5BNyOF4c9FGEU_iOF6dRPUYjKcIe4cgrGb0ILbqPe9D0zGh-nDG0Rz-05MRDdKUgPkeYODm-xOgzY8rx4M4QdlqhRTnix3iOH-cuVHvQjLxxY_-QG36JHw8zaPVTNLuQJ0cXkvBj7HyMU9LhT-CT4xza50b0E4lf7ETl6PB19Bfx48QP5hOaRxXGHbmO_tAiApeUGWmMF22UHQ2uJT6mR9UM2zmujERsQrxy5PgRfYbIbDlyuEs3PHYCm8d1PAryG-KY48qN0HONPjqa6niHbwmqozlyS0g2KYe1ycTLwy8T9Mtx4Q-SG9H_oGuOD9-HC8l15EdP_KLwwx8u4SaRy9BuCg4lEWLSTA2mM8cP-FmQN0euE71yNE_w48c3Zmh0bagcfBfRRzgXQsyPVCGDasf54kGfYUodE28O4tGPWNJnTNfhOo6EPA9-WJsKR0lSTLSMyzPy4xvUg0t8Bc_RFP2DPjuE_3Cy8EIkaju-oT_8HPWOJsk2VEqOD2GeDprxGnkXTKJ4w0nDoyeRH01d8Etw_Pi4bLCOP2ii2cELHU1MVAmzpKB3zDzxI-2NT_iJ5_jxG_c21DaSh8ipHPeH38GPJsKONwyyX8V3oeGOf3Cu4zfERwe7DyaDUpqO50Z_Icx1_EYFJ-FTeBKJJ0ekQyd6hJls4swslEuO5iNy7fhSo9KMfCJxIe_h57B-qFRU2BNCMsvw48tRK_CD_ph0JYMvENZ4hL_wBFqeEXmyHj4ebSnoIx3qB_nECx92NC6eiIH_4A-cR0OSdUd44Xlx1ngdo-lJdI1D4tTxor_hKsReXMtxBp9yOAlzwg8fo0f0KIFOosn8oLtw6XhzofmhLVRixD_-dDieY9JXNDquDP8QU1IMHz-qTdDihDjCZMqOPhnuo3GSxehp9LRhRnC4CC-D_EjI4ntwRcO0_ziO408PXw_-48mHS3GM8NDy4DfGJkejCtXRXDp6Q4OfHd8hUkOoJxu60miO_MgRjpMDX0cSybrw43gT_Id1pcJ3PLPwKj7C3OiPPTT05IePnEGjRkF5VGLQOBSHo3JgfrgUpDp05D8cL9GCltGPXTge_Eb3-Gi8C9-eIldSnId4GT92ydCeo0mPKmXQPMeL5uirQUe66XhaDxcc4-qOd0kRag-SKI7wG9fx4dYMS8ezC_-QF_2DBudxJtmh5ccpRHvQBzN3oZkUjeiLdi-cpDiVw6Ek5DeSw5myOOiL_7gOPJj6FI04_UC8Rbj0Q8vToT-JD1WjGY2OZ2jiJUcP7Qyah4d6HWHE7Ohj9JGJ5lgR0US_Ckku5vD1ocePb8Q5xXB4PAKEGACOIE6UEAIZIogAjAEgBHOCCYMIdUAQgwQRhADBAFCAKwAMoAQYAwAigEBgADAGKFEQQAIRCoQigHgkCAAAEUMoQAQAIxARDBmFgBAMAAaAMwAIIABSghIjBJAOAWIEEIYYqJQAEGgGhABAgcYEeAARQIEAzghoiBCMKEOIVBgJAhRjACBCmAJUkCMEEgoAJgwDyAQEgBJQKWOAIpAAAxkQwgLmAADmGMgQWQAYQYASjAiFgAAkCgAEBoYhgIhgBhGAGHNAEsEAwwAA4RAwgBCBkBDACggEEQwIBYwHBigAiBBACMWAIEAZIZBDSAGggBHGICAEQoIA5gDAyiGnABAKAKCMcMIYJgRCRCAEhLFEEEqMEcIQARABjGlBABICUKGEEUAYB4QgwBADiGAAMIEUIRAgQBxjRDlDgBFEeIYAIIAhAgARFjDApELEAMKEcUhgJgAARAiCCADCEwG8Y8aIAIgQADAmBBAMCcIEUQASZRwjAgihiFSQCCIVQQBBAARiQBhhKCAQACsYFBIwB5gQDCAhGCLIM4QAMoRApxQBAiBFDKNGOQGUcQYQgoBBAEigBLdGOIIdU0AIY4ARRBCADFUKEEMUAQgQxBAhAAECFAMAMWWkE4gJRAQABAiriCCAOaQEEIJAohACBDnEFNOIKSQkcQgYYgwAxggwrACKKGUAIIQIAgUzggGJgGBCOWGkcogBMhQCBBhOkDMEICOQQkhYAZBAxhJCHBIGEEAAAAgCBYlgwCAAIAIAMkIEQEYYQJoR1DhCkRJEWCGQQJoBSATAjgkiCAAEKMIUosIYwQwgBhHhkDJCGAACBQAwwwxAjBFEAFZCAiYGAEIAghkwBAigGAPEMiMMA1QC5QTggAhHBFEIAAUcUYYwJxgSACgBAAKCciOMo4ABABgASBhHGDMCCAGMItgAAIR2BAjFAA&meta=recordings%20releasegroups%20compress
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      Accept:
+      - "*/*"
+      User-Agent:
+      - rest-client/2.1.0 (darwin20.3.0 x86_64) ruby/2.7.1p83
+      Accept-Encoding:
+      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+      Host:
+      - api.acoustid.org
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Date:
+      - Tue, 29 Jun 2021 13:33:23 GMT
+      Content-Type:
+      - application/json; charset=UTF-8
+      Transfer-Encoding:
+      - chunked
+      Connection:
+      - keep-alive
+      Vary:
+      - Accept-Encoding
+      Access-Control-Allow-Origin:
+      - "*"
+      X-Envoy-Upstream-Service-Time:
+      - '893'
+      Strict-Transport-Security:
+      - max-age=15724800; includeSubDomains
+    body:
+      encoding: ASCII-8BIT
+      string: '{"results": [{"id": "a2ea80b3-54e4-4eba-ad1a-362aecb906d2", "recordings":
+        [{"artists": [{"id": "164f0d73-1234-4e2c-8743-d77bf2191051", "joinphrase":
+        " & ", "name": "Kanye West"}, {"id": "f82bcf78-5b69-4622-a5ef-73800768d9ac",
+        "name": "Jay-Z"}], "duration": 277, "id": "39263422-5af1-47c5-a05b-9b53af3a72d8",
+        "releasegroups": [{"id": "79a65e45-7042-4440-b1e5-d030ed138307", "title":
+        "H\u2022A\u2022M", "type": "Single"}], "title": "H\u2022A\u2022M"}, {"artists":
+        [{"id": "f82bcf78-5b69-4622-a5ef-73800768d9ac", "joinphrase": " & ", "name":
+        "JAY-Z"}, {"id": "164f0d73-1234-4e2c-8743-d77bf2191051", "name": "Kanye West"}],
+        "duration": 279, "id": "3eb61c21-935f-4684-aec6-e2320a68a1eb", "releasegroups":
+        [{"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various
+        Artists"}], "id": "e910bb6d-a3d9-47ec-8790-574ab7f8f94e", "secondarytypes":
+        ["Compilation"], "title": "Objectif 2011, Volume 2", "type": "Album"}], "title":
+        "H\u2022A\u2022M"}, {"artists": [{"id": "f82bcf78-5b69-4622-a5ef-73800768d9ac",
+        "joinphrase": " & ", "name": "Jay-Z"}, {"id": "164f0d73-1234-4e2c-8743-d77bf2191051",
+        "name": "Kanye West"}], "duration": 275, "id": "4a849d57-e2cf-4234-b2c3-6b569b83a25f",
+        "releasegroups": [{"id": "a96597aa-93b4-4e14-9e6e-03892ab24979", "title":
+        "Watch the Throne", "type": "Album"}], "title": "H\u2022A\u2022M"}, {"artists":
+        [{"id": "164f0d73-1234-4e2c-8743-d77bf2191051", "joinphrase": " feat. ", "name":
+        "Kanye West"}, {"id": "f82bcf78-5b69-4622-a5ef-73800768d9ac", "name": "Jay-Z"}],
+        "duration": 277, "id": "f7203a68-e29b-4ea9-90d7-459ecb87ee15", "releasegroups":
+        [{"artists": [{"id": "164f0d73-1234-4e2c-8743-d77bf2191051", "name": "Kanye
+        West"}], "id": "0ab0315f-dd17-4b71-a163-d04ae2370f9b", "secondarytypes": ["Mixtape/Street"],
+        "title": "Eyes Closed", "type": "Album"}, {"artists": [{"id": "3aebd566-7ff8-4b29-b017-051b6ec55861",
+        "joinphrase": " & ", "name": "Travis Barker"}, {"id": "8167d73f-335b-410a-8e56-ea9afccfa542",
+        "name": "DJ Whoo Kid"}], "id": "a35249f4-b4c9-4ca5-a439-bce98f09b8a0", "secondarytypes":
+        ["Compilation", "Mixtape/Street"], "title": "Let the Drummer Get Wicked",
+        "type": "Album"}], "title": "H.A.M."}], "score": 0.92494}], "status": "ok"}'
+    http_version:
+  recorded_at: Tue, 29 Jun 2021 13:33:23 GMT
+recorded_with: VCR 3.0.3

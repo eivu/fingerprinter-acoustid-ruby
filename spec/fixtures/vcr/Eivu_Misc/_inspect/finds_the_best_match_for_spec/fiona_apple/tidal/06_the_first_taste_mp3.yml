@@ -1,0 +1,54 @@
+---
+http_interactions:
+- request:
+    method: get
+    uri: https://api.acoustid.org/v2/lookup?client=<ACOUSTID_CLIENT_ID>&duration=289&fingerprint=AQADtA21KU4UJLte5PnwNCxxA7seHMlyElHyPMFlvHi8oU0K19CJ5viDLyq-41mQTEiPnniNOzh2gbECjDueMBX-4LjwI6HDINLxHGfyDG9WXMkn8MeemKh3vGi0c_iuDH_QRwhj_NBz-LkYPFsn_PgUKPWRRd6wvfiGWomI59CF5_iJKrrh6FeEx8flI0iKlsd64fYnnPAzKIfx5EalPEHzPcKx89ALqskxcjuOP0OXoImYB5-RPEfuC08e9MoxZR9-MEoYOF_R4wUx5cIvpNOyD32Y48EPXPlhhXbwPaijQ0-CfE8wSfkJ9tjR3ESt4AmHXFmqIMx4POqxHWcFJkWeQTlmI21ygc52nNiOB8fhWjjiHzqPPkfu1DiOAzjuwB5cJLeQ4_iFH4ePfcieXEgi_7hCSrieTGgi9CJw4njQPwgzWngO1bKGpzmeWdAv_Mh_9ByaHk-y4DqJMDO0c8hxPKmCNoos5BCP_tDPDNeR_GgSJkc1fEetJDqaE9UpwUr2Zaj44sqxHU915FEMXaaQJ3nh8QrGC2N6PAn44y8ePkjUc4iOv0fjZEavHc9xC0cccyTO7Lh6_IVjlljYPCEi6kX7wntw_EJPPHhCSlClCM8X9CTxEtvpwM0JVjqmPEYs_kia45M4PLnQHFeQi0HCKric42dwnH2I7cQzJofaJMcdPKMN6od_oS-esMOuLBN8jM5w9lCe4_iHPzgXXEqC47g_vA_aBRdx4keeaIKr6AivNUWPZl9gLsl4XMqFK0W9Y8r4aICOH3zyYE-P58F7nEiX5RGSG09y_HiOt2jk6BuqH_-FPFeQ5HngDn3gHz_8oE-QNM4iGtn4BX8anA9OiE8_PJ-OP8N3VPnRPAqe48d_pIeOPAzxEOHpQbSQ3riOk_hnXIdTPcKFvNCO6yL0SwiNLT9-o9Gc4gnOI1J-6EyEMBWTYdfRSzHS0yihXEd-hIuO11D3BrkUwSeYN8VzoT_SCMkmTceFX0LPI8wlD3pyXEdlHmQTZYf_QLPiIMd7tIuCPNsgB9TjQVN35BtKMt2EhtOP76g0zYarEE82JIx4BBdT8HTgOIP1Iz6RXMd1PPRxKUuR00dSSXvQyMOZgxcZNNMuvISrLIoRtkcf6KKx5cdlvEJEZzc-_KhE5kSO_oKrDH_iQNKiEH6OHnqMs_B46MdnVD9cF8-RL0QeEu8MXYlypEpGTNLw4w2aI1wTBbqaY2KWI5RxHzlrtGojNIfU4x9y5qh4Y_uFkmEVhKeO38I3eDPqXtDPQF0WdUUjlEMoSZTxWPiOSymPB74QUofuC03Eo9vW4Op59MJfwhfE_oNP9ByR58eP_iJ8_Cly_cF_lA-NO8sRZtRRTTvO4Ykc-KmRk8EoRjK09UiZB9VRm4O5D7GZDo_EFZulFHpWXA_eRHEgMoKqI5Kq5bhEDo26oj04E00vRNJ2aLuREzfxB-mPpwz0EeFz4-KNHmeOnA-hSyOaH98pnIN2pA7x4znu7Al-TYErIf6hH3aSER-P-4LessinCaPxpwitB8nH4AqL5jrKx8FzSuhz9KGQjzlRiUE07UMvPUSP_yiz4c6wH8nFDdnT4fiFp-0w_UTTaDEu6Uh-5Aqao_KDNsvRJFKDfCu0jEH4FH0zoZmUSPgSWCGR1FkyRD_6yUMTJ8d6OJI9PPqMZFaOMDeeiagUafFxHQ96nMh_GZr24ymzouWOO0d_Q_tE_LgC7WjcePh4IaaOvtje4zqeIyeLC3pLNCvyG0-OLoKP-Q4-5MmxK8h1fA98Hf-RM_gP_Tns9GAo5Tj0LD2mD2Hy43mFK1EsfLXw4_CWLEFOStAXPeiNW-gV7KikHWGYRAqj4HkeIrzRPFGgE3cYNFM-PDsx5VXQQ8tlnPmCSyM-1YF-hHmWOJh-dMweNOFK3MjK4PiDSsyRajsmNT-O5vlw6fCTo5LZ4EkWJHmYIecmND2q33iZDr1wJwnKHLn-QA8dxEeTUDtqMXiO3PgTaF1mRJsk3Gi6Hj_KRG2CNE0CbbuQP_ik4MzR5_howVuPdseOR4GlDXl06LfQ6IXGg85d4UGY_UF_nCH-gw6PuDn0KCs8trgTxcJ1aGcRRqNwPXhuIj4bSCzChOjT4y-eDyG5QwxhVUOoKRmyQ3xo5D--w8fRZ0aW5McJOUwUzMmFJx-0HKE8RL9wSY8QOrkSGGEeHseLMEk2oUzGo_-Ghw7yG-IzhC_xHs2jg9FyXJikFTd-OKt-vA3CjocuB31kIf2NS9gU5sN3IX-MztAe-CgZ5fikkGiOWVvgHb1WvAzaC46T45kRfrh09EP6HX6ONNuPKpMUPBn2Hn2Ohj-e9KjFGGFOIfnYg2EJV2XQXKfw48wYPMLpI8-hcSF6vMshyrSh_sOZM8j8oOyCxvh9PArSWDqe6riHVBGP46Fx9thvXEfjHOH3QpeEGEduqtAZC2G25ENFB0OftGiifkisH6HEomke_PiH9FFCfAqhKevR7MzQX1CUB7mcHm-3BNPEY0cavYSi60csnQr6HPtOnNGwKczQH9WXI0wfC_MUHc2PN0E7SkQfqBQzdPplvJEQ2in-Y-Ok4CERyin-MKCrgxN3PLEH65mQb8e8K3iifPjRHOGhJ8df5ImOP8XMF5wiYPJYoXmI54gJLQtyJmiKK8XDF80yoTySWcuR5iEAIRQAADAZhOBmKNCMQQQAwiAXDDChQRKeMEIUMogoAQBgzDAGMBCCUAGMMghpBpiBgiCAkAMAKIGAYEKwAxFFwhEDCjOKCQEII0A6wowAwBAIBEGGKAeAcBwgowiwwnkkCOTMQoCAA4JYBBGRYhBtHBjKKCEMQooiRASBQCDCiCACCIaAUAwgp4ggxihECQGIGAAJY5AwQIiQjCFBAQECDCQEk4S4AAizgAgBmAOCEuAEAUAKIgQ0xELCgEGUAAGAQEQYYCQSlAAnkELMAMKCIIAh4oghxiPCDEEMMEOEQoAoQgiEQIBEEUCGCCGYQAopR6hBRBjBgDGAEOcYBZg5JhAiiCkBHLJGAEIEUYIoYyxwRiFgCABIMMSQUQwIAJhBQAAmBADOEQUQIE4YCYAhABFpEDEEOAGNIkYRwwAhCgmClEHECC8YUwQIYyB1QhGgBCFAEOEMAAAqRARTAADDgBHMOOSAokYRQgkXAAEAhBFECECIYJQAgoEBADADAACCMAAkBogIRYiggFCgDAOAWQEUMAYIBhQwgAFgMTAGACEIgMgaAIwBBiCAgBBGCASIUIIwQoBwgABimFAEGAGcMcIoAZwQBhJjABBEMeMEAAAAgAghhBKjjVIGCIEcEcgQoZQgTBlwgCJCCYMIAAYhIAxJwhgBBCLGMkUEAwc5AYACCCkiFAGMAAAcUAJAcBhFBpgAGDEEEKUMEAIYAYSRjDBBgALECQEMIQogIZ1DDghDATXEMEYEgEYAZAAQBACgEHAEYKAMIFaBQoBQjFAEEDBCMQQEYEIAIYwQDDpigQAECGCsMkIIBYEBAginlEKECICEQAoQxQBRAglBgATMMSAEAU4wAhwRwhhDlACMEACIcUQQYhBBgAnDEHEAECMEEAQoCAAhQBBAmAFAACUBIgAAQIggAgBGDEBEMIwYkgggIYjAQArQgAMU&meta=recordings%20releasegroups%20compress
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      Accept:
+      - "*/*"
+      User-Agent:
+      - rest-client/2.1.0 (darwin20.3.0 x86_64) ruby/2.7.1p83
+      Accept-Encoding:
+      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+      Host:
+      - api.acoustid.org
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Date:
+      - Tue, 29 Jun 2021 13:33:05 GMT
+      Content-Type:
+      - application/json; charset=UTF-8
+      Transfer-Encoding:
+      - chunked
+      Connection:
+      - keep-alive
+      Vary:
+      - Accept-Encoding
+      Access-Control-Allow-Origin:
+      - "*"
+      X-Envoy-Upstream-Service-Time:
+      - '57'
+      Strict-Transport-Security:
+      - max-age=15724800; includeSubDomains
+    body:
+      encoding: ASCII-8BIT
+      string: '{"results": [{"id": "4798cdc2-63ae-44c6-8d1e-11661ad0deb9", "recordings":
+        [{"artists": [{"id": "a9ee533f-8871-4f62-a6bb-91eb264abc90", "name": "Fiona
+        Apple"}], "duration": 286, "id": "8dc890c2-994b-4dc8-8228-bff4ea622609", "releasegroups":
+        [{"artists": [{"id": "a9ee533f-8871-4f62-a6bb-91eb264abc90", "name": "Fiona
+        Apple"}], "id": "b82bef40-53b7-4582-8561-8b660039dec9", "secondarytypes":
+        ["Compilation"], "title": "Original Album Classics", "type": "Album"}, {"artists":
+        [{"id": "a9ee533f-8871-4f62-a6bb-91eb264abc90", "name": "Fiona Apple"}], "id":
+        "82ba556e-99bf-380d-b9b5-5a97737f1cd1", "title": "Tidal", "type": "Album"},
+        {"id": "a5699755-a6ac-4b27-9720-4c290689d1b3", "secondarytypes": ["Compilation"],
+        "title": "Tidal / When the Pawn...", "type": "Album"}], "title": "The First
+        Taste"}], "score": 0.944027}], "status": "ok"}'
+    http_version:
+  recorded_at: Tue, 29 Jun 2021 13:33:05 GMT
+recorded_with: VCR 3.0.3

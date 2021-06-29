@@ -1,0 +1,53 @@
+---
+http_interactions:
+- request:
+    method: get
+    uri: https://api.acoustid.org/v2/lookup?client=<ACOUSTID_CLIENT_ID>&duration=241&fingerprint=AQADtJeohUuCE6GzBclShjiP40-C5zqqHlPO4cqDjwmSH3kPM2mOyw74BHsu6FWEE3uOi8wHMuHxx9jyE8eTRPiSL9AzKRHetbjiCVel4Kg7NN-RMwp0rhnC5BW66caP3BCfB_nR1EfJLA_CTmiSHCqpYDd-MOGFiuKhKZnOIceP8jge2wKvBWeQV0GPLcf_4Me5C1-O_vhx4g9-aDzCvPiPHuaN20PP41PwHz_-oh-OMH2QNAy34yst_EePpk7xPkAfoQlP_EbSH-lz_Dh6ScWFpIloId4Kr0kSMehF_PiOqjkamfiRIzlqKbhQynmC50J95mgeH9dxnEezLOiP5Ai-7CvWHZ-TDjfRXGiVHO6NM-DP4D7RNDbSC9XBX9AUpI8k1Awm-UejrCbijQ806kH64XAdHk74oaJzXImK5GKHXBKahccP_0Tv4DZuVD82VQOjath14ziPPkZT40mRvNyRD752fI2jIGl2LYgeF0x2-LhSwn_QN5gXWsgfiFeOnDl-PHgaXA-aLU9Rbzlx5ESvQleIhgqH4_mDsa-B8DhP3Ed__EVv-HiUB_1G_LiO5EeYT0GlJ2iTSZLQRMwyBe8hHueOXTdGGUt-4RvxGCKP6zgufrijCP1qPD8ep8KXvAit7MO7DPrxw2zRE-9xH302nEf-wR8OOCif4QuunDhSQse3HB6J40P7wt9xX-iuB6qXHN_RT0dahTi8G_ngaNApfGOKaD9-8IfjDxf-HWk1gt_hLIJsGox85DcwOXCVGf4Df0O7ApWTCxazpBFOHIB14z_gB4B_dD6qI4f4wzRy_Djh_MFjjkGvMLhwHGdO-HlwHGfwoc_RXDoesgoiinSQCHu-4MPh3XhOBl8u_MMVZUeyfJVw6EF44sdTfEb_olHxF8mTINeFHo2aFzfT4Db2pDd-HEFyH89x4cMfNL-CMkdyHzkqM4UfojjuHD_CQuyR4yMMbD9-PIfY8TiuGn7Q42OM-2iaJEeOZMeD77jLoYnIx-hRNM2Lw_3xPEguukO-vDgbC_VDpId6hGR3PFF2nHnQh3AVXFKoCP_RJztGqkX4RMkh3Tj2I3kJc-yC-ltQhdnxEbVo_DiQnA9yHu8yXPDzCD-OH-akDMeu42Cm6vjxQycKPM_BnYWPZwrAxEEf4dIxS4mL_E2GZPwEXz5Opeiy8LgS5TgbJfgJT-KhP3hxD80fTL4Orh8xhgnxBz-aqygXHj-aZ-if4C-eF6WFhFWF8MU-jUSUWQ9-iPobxEfyK0UYvrhynDiPyumQPwwpJJeOMwm-6MF9_Oh5NA_OXsKfEUd6H6eg65iq5Hg74M6LMfCPXyh0TI8ehPlxMIcP4xxvpMkf9IF-oKkYVB_yoslztD9O_Gi6oWcmY8e5bniu5MKPKw8uSUT7wVuHXbgF8gmme7iOXHGH5PBvnLkw5YuLKtdxpsEVMDluJmh-BaPxLDtqRUnQjNKCPWA3DpO1C811IT8SjlmF58T3C3c6-MeVcBue48KzHF9Chzh_9LQCP8_RB3t0_EkCqcmNPxip9qjiEw2u4xHqH-nDMAjjHDmS33juaGjyHL3wEHkJxTmyq2GGPaFxvGj-CmV-IrmS5CJyKQ-e4ySuZDkaU0dNH8k_FfFWC4-UHhVzwzf04IkOD7WupNjV4lKO_mAU_Eb8QkWOp8lU_MfzoOQUBj-QC9dymD-ycDqeMoZjydiDH6UaeJkWhPeQzA_cVPhhhMx0JD8eHq5qfIlEwI-KPHuC5EkiXOhzNEn3IOJX6Miaozwe8HuK5th1PDycf0iQHu-R57grQqMR_8Q9vIHH7DgDP8gxSz2oOMKW6A_640HzIzDz4AqeZ4QjHc849MePIz6S48KoS-jzJENzhnjRR0fzZHh_JPtxPCpu_AeEHMiP5PCL53B-o0-Oi_iP58lwJpnQJHOEZM-R9XswZ8Ef4rlyVFmDJrqOZ_yEp_CFJw-eKFF0_EKafCH0KBGF6AcfXMfTgx43lI-WENvLyOiJXMdPvGGOONOFO3iqhBp-3NDnD2eK7kVzariZNMYPPUmGJxzuzDijC_9xM9OK5uFRfcJ3CY-IX0az5jn6HPvk4whPQQxVRHXw4dGHVcF95EQC5jrwLHUSxNyF5PixLRFTPJk048f9Bld24k_wFseLnIdmOxxcKkX440ly4Yd__HhzTNKHhk_ASblMxNlx6tCXIVLG4_kHt0fVXCmu6Ji-I8x-SO8QMU8aHHayDA-H68Z_9EeLLqQDxwyD8Icu5UH-HHfhM8XzFTeao07S4yxqSUc6KbOCl4IuvUjVCmWG58cvPEMTGn3TAn-Exkue4EUTDs-PpEo85Az6dGi-4_iP-4iROAcqiof5HL9wGdsPvbhkWFTyYBJ1GX6O88RzJNcR6g6sMsck7inyg9eh79jy4-GO6oeWH79Q44e5IJY0oTseGz_yG_OS40cTEtKP_8Ut6NmJG99wOMdxuC9yfAN9uPhh7gryC758aMoZPEeTMRYU8T8aGyF7nBG-U8GkZCGaKguO8wBBmTKOAAgggEAyIRwhFAmHBAOIMGMMQgwAghQEkCCEAECAGCsAcAQyggyjyBqBiACCAIgAUQgKBJxhSBlABCGACCAkEEQyQVQgQCGiCGFGKEAVYAoMaSFBRACHUASECQAEFZZBY0QgDCBAADECCSalEIQIxqlxDAnDiADKIUKcMKIYgYCwQAEhBEnAAOOAIAIpBYBQgBFFWAAGeEYUQIohQA0wlADMFECCQMQQUQAAgJgihBBjBCMIEESBFEgoQIQzSLnhCbGMAIaEAMAAoRABgA1DgDBMYWEEAEAYSwAwwhhxDBBIGaONMBgJRwQwiCOCEKAMCAOBIAIiFQlwBCGCgFMCACQYcEYIpRRABCBHgSRMUoYMoIBJ6oQhQiGkAAFIEQosN0gIbEVgAljoAGKEIGKAMYIQBRQShAAhhCLIKYAAARAIgggHhBJHBEgMABCAF4QBYAJRkAACADBAIQWcEMQhYIghnBkJEABCAQYgEMIDAywxgmjKAAAMAGAEsUIwIAQwDAlCmEOAAGOcGAI4SywAgihGADACKOKkEAEAwIgExAgLCLLCI0IQAAYgwAQBDgACKDCGIICIYYwAQgQAQAACDGJECIUEYhQqASQmAiCjBBQeCOcAIAAIA4gnSCEAkEBEMeYEIFYICxQJTAiCJBAFAUGAUZAwAQ0QCBikBCACEYGco0ZgYYBAiCyjECNEAMMAMgIIxwxhChDEBIJCCiCUIIASYQgBglFgAYBEQLYAEQgBSJwgChAACCOIAAAIYRQZQogzigEDCCMEKGOoAE4QQgElBCgEHFEMAWIcAABBYRBQQCghCFlIEWCIYICgBxRSACAhCLCKAKEUQAwYQAZyDBBmFAUAAIGQEQYggoRQAggihAJIOEABA5QzIgBRQgBHSIAEWEGQVYJxRgwUzgHgDFRAAGCAIoIoTAxAiAAihRBCAAgUBUpBgRQRghEDCBBAICU4Mg4gxB0yyBBiJBACAAsApgI&meta=recordings%20releasegroups%20compress
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      Accept:
+      - "*/*"
+      User-Agent:
+      - rest-client/2.1.0 (darwin20.3.0 x86_64) ruby/2.7.1p83
+      Accept-Encoding:
+      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+      Host:
+      - api.acoustid.org
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Date:
+      - Tue, 29 Jun 2021 13:33:29 GMT
+      Content-Type:
+      - application/json; charset=UTF-8
+      Transfer-Encoding:
+      - chunked
+      Connection:
+      - keep-alive
+      Vary:
+      - Accept-Encoding
+      Access-Control-Allow-Origin:
+      - "*"
+      X-Envoy-Upstream-Service-Time:
+      - '892'
+      Strict-Transport-Security:
+      - max-age=15724800; includeSubDomains
+    body:
+      encoding: ASCII-8BIT
+      string: '{"results": [{"id": "c776a456-1d45-4773-8302-522ea8d98bd2", "recordings":
+        [{"artists": [{"id": "b5fb0f1a-2cd4-4759-9d80-648643f70c43", "name": "\u30b7\u30fc\u30c8\u30d9\u30eb\u30c4"}],
+        "duration": 241, "id": "16152636-39a6-446a-9722-09ea7d6cf550", "releasegroups":
+        [{"id": "ea45e38c-6882-30e2-b58b-a85945c700b6", "secondarytypes": ["Soundtrack"],
+        "title": "Cowboy Bebop: Tank! THE! BEST!", "type": "Album"}], "title": "DIAMONDS"},
+        {"artists": [{"id": "c8ca9709-d333-45fd-b2bb-e2209568aeb2", "name": "ILA"}],
+        "duration": 243, "id": "7f37d55d-2d6c-4110-bd8a-78099ef7b8dc", "releasegroups":
+        [{"id": "03e91677-1f48-4b69-b463-6a856901c2ba", "secondarytypes": ["Compilation"],
+        "title": "YOKO KANNO produce Cyber Bicci", "type": "Album"}], "title": "DIAMONDS"}],
+        "score": 0.999736}], "status": "ok"}'
+    http_version:
+  recorded_at: Tue, 29 Jun 2021 13:33:29 GMT
+recorded_with: VCR 3.0.3

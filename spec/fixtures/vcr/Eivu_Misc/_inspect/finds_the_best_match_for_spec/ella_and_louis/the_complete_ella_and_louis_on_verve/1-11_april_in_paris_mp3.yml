@@ -1,0 +1,287 @@
+---
+http_interactions:
+- request:
+    method: get
+    uri: https://api.acoustid.org/v2/lookup?client=<ACOUSTID_CLIENT_ID>&duration=396&fingerprint=AQADtImWRGQiKcGPZs-Gi7DF4od8HndyIMwv4ZeS4JicZEGY6ughsggfXbif4LRwnEGzJdGJMk3y4OSFDw-R7LeQfqjwZLguXHkSPAe_JEFuSEecoMkeTLwS_HgSfEK9IQx0IdfxP7giNNFzdCVCHc0P_Y2Digl9NEqh4seXE7-CJzmaR0KLJ9D3yFCO-PgxbrlxvuhhJzieIz-SscSFR9sSfDEa2qjSxvhw_egvhGlE4SeO5ocmEzd-ND96Cjpu5DRcHs9xKehz3HmQS5VxiXHR3MiZBb6O-8YxWSZc4rgu_BHyHMmVZAf8oFeKPg-acjGeI1-QRLnxJ0HFD8-RD8n94UyWHF6HBxcNN1PwJ0Ry5BQ8D7_w5THKC42-4MmGWDqhJ0HfEJZ4VBee48UPH_eJH_2Rw8ePF-cnPD1yJPyFvsOeH2-C-kJjH_-FZ0JlGLXCCl-PeDzYLceYLZ1wykEk_sgPaod2KRxyBT8u7_gTTsJ6RagupD_E77gjHLcg5kHnI1a4ECdyZQeUJ4oR5woqNNxxXHiC3ScqsRoiRfqRTDqP7UOplHiG8ymeHR-eS1CZpHDVBs9xmwy-4wqiH5roI02e48eFKKpCnDw0X0XOZzieo3kQisktfM6h40ThKcphRutwiA9OfMrxDP7xAzB-_MSbDscJ37gi48pwFv6CH_9xXIcOHbnh4ZM_XDx-vBLxw12JSg_UqBtuzErwg4yDOzmeI3mO7Dp6C_Hx6FAWpi8-w0-EH32eYD7Y8EG06imey0OOJ0lwCdqFZryIJzvCOEfolzjGo2jA48FspViVg0d5TLGILzqO4-cE_MeVox98IewlHDvxoFRUWEZ_vMfxPnh6fEnRXOi7Yz9O41GUIzoSpTlmSXrQcUlw5WiiGw0fPCOucjoSPi1y6XiJnEmI6jEDXfiO5zjxBN-hf_Bj1Bmuo3l49BnKH-6u4OnhE2jkIQfqwF2UodGLd0Y-7D_MMQ-k-0F_aLl05PVxtMXxCt6P4_MQfUTCW8vgkzjw9PiUHP30EE8kYyfe4wp6ZMkNOcwVxMo-PHlw4ToOf7iOJ7vwn_gz_Md7_DrSL0h-_DiJ6kH6gEkVnNAjIV-FKXFiIq03aOuL-sgZXCOs47hypI4LfUeKHz3xy6iWZvDRkUWYSKfQS4aWPUTYG--HvkH-nHhyQpPDoHlehN1x4PFxpLhJYc_UcHg51AcAHMeR4jhuHP6O4w_wA_5x_MM0U8P0wbyHcGYDVTLyRMeD5kmRf4G4B2GTHqX6oLmO5_iX4zvuI4-WQ8vCIiengPnU4OTxB2Ru7D-e5EcX6Rma_PiD5MiT4XmGi2nRPET74R9u5PfwT0h2vfjgKWdxXMf9o9pj_JTw5MuGHzoPPzz2g8OeBOeOHz2a4zjSEzqVGEqOxk2FUraCB7tDfDA-zfiHdnyCH_4RbhweG-jRTPGDHycinUiEzd6FPiku_MrhHm94-ML7ZfgJ_TCPEx9-TDqPpjmOwwuX4puQfkTyzMGN7ksFPw8eEz-oHk-g_TAdB_-D4w9q9WisB9fxII9iIXwtuEKPlsF2HMZ3ID30ID4q5riPP-iP5mGLPD7OB8-MajyaSzl-6HrwJBFVNHtyhP2B6zv-GKM79C2x7fBT_HCjoX7xI2yOKowe_DiX4DouHa6yI2cwWUHj4aAjvEak8oGYI--KfsOPrgz8ozeaCuH5QvkZhJt1UD0yNSKR5dHxYg2l40Wfosl4lIcf4i98Fd3y4yKPHyn7ODj2CInOKQxxWyEuwvkyPOTBBj-cH8ej4zlyPBP-JHjRREeZHHIRnvhTBSVPPMeNonGOhwtOHE7xH89x48yRjFYjpA9e-EclHkejLTOq4xJRJdbRZKwYXPNxH2cCP1OQ_AhO4buEO8IPd8fD40eeGW3EBz5OQs-UIs8P5x-mHZULHw_qEz1MJPuR36iD5nnwrnjQvDvqPccz_EfiHUcfaDny46OOL8LF41lwPhOaX0H4I_HS5LiHH01EPQgZj0gO7OFRSkzR5HmCOLpUJA9ONLX0oVYW4jduPBNO_Edu6McF_tCOPMePHMmLgzp6HEf3NfgB7XiDX3hhLjx-5BGS42C6nPgA-GhZhMdhkkCKPziM88hnKB98hE08_LjyIjzUpEN4Hc_xJA-a3-gb4VmQ-gmuC9ePR0kqaGEvFI1FB_VRPvB344blBdVRG55iaO3wCa9wRcfI4-h8-CgeXHhwo_wJX4iPg4d946AOH5OOOAuSi0EvNMtxP3hVws2MH7kT_IN8G90u-MeTGzp6HPvw4zn444HiHj96GN_hDwfOHSdOxkKPksfTw0d-CdOP88TLFD2ovngO_vBROcOk_PABgxxCEhjigDGEESUAIUgKBIDhVAghgEPEKWEMc8hBBZUgABghSDIEAAMcQAoZxQRgSnjDhDCNWEAQQwYAQgRgwCFrlBAKACUBExABQJBASBAxoQCWAGCoQQIJQpkAiAGAAADJEa4UMgQY5ogwyAggLAFKWYRUcIgBBZQDThgCrBAEEUAAFEwYop0TxhICCJOACoUUMoA4QwDCSAkBiCDSEEONAwoiYiQiCBhAIFgCKEGIcwQJ8gRJTCgKACLIKSJMZQZZxJQByBRpSACAEMeQUgoBChyThAKlqADACWgUUIQggBmziEAFGECSaoEQqIAgIIgSAAJqhGEKMIAEAoQYQQAhTiDjAAMCCKMM4A4gABwETBiEgJDGAMSEekQDgAAAwgkAAHOYAIGgAKACIQVghiHEECDMSCaxA1AIBgBTwAioAEFEUWGYlBYI5hAxTGiCjCTAKCAoIEYZApAByjCEEAEKWnHZuYgAgZgVSBgKIDEGHGmEAUAAApBxAhEDhGAIWAOEQkQYBIhUCyFkKCMAEKCEsQIBLYhgRCCCDIJAOAAQcQqRkJAwxFnCFHDOIKQBItoJwwQTSjgoiCIEMMiAAEyAUYQhARglHGDCAIEcYIwwIZRAnBRFrQeIOSCMEEAgBoEglhgkhBLAACEMtQYA4A1AgCKmCFDWIScYMwIKAggxkiBpLKBQASGMQQIQAQYwDAjjjALWOCehc0R7IYARRCFJiBsOMAIQxEwQzKQTBDFBkXIEMAocZIITBRQVhhAkkEXEMmEEIAYAAQQpQiiwkGLCKIQIMYIIhZDgAglIAFMEMOFABkYophxSYFDiwGSNmRCIFNYwISQAExvyMRoGBYAwcwRIJihUhCEhmAFKAKSIFQKAwwwhjBFFCKIEWEvEAk95Ih0ByCEKHCFKIQHFQxY4BBwiAmnEjBLIGQyBUUYJRhSBAiGnFHAG&meta=recordings%20releasegroups%20compress
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      Accept:
+      - "*/*"
+      User-Agent:
+      - rest-client/2.1.0 (darwin20.3.0 x86_64) ruby/2.7.1p83
+      Accept-Encoding:
+      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+      Host:
+      - api.acoustid.org
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Date:
+      - Tue, 29 Jun 2021 13:32:15 GMT
+      Content-Type:
+      - application/json; charset=UTF-8
+      Transfer-Encoding:
+      - chunked
+      Connection:
+      - keep-alive
+      Vary:
+      - Accept-Encoding
+      Access-Control-Allow-Origin:
+      - "*"
+      X-Envoy-Upstream-Service-Time:
+      - '123'
+      Strict-Transport-Security:
+      - max-age=15724800; includeSubDomains
+    body:
+      encoding: ASCII-8BIT
+      string: '{"results": [{"id": "1bc3a779-1f73-401f-9023-17a823c0195b", "recordings":
+        [{"artists": [{"id": "54799c0e-eb45-4eea-996d-c4d71a63c499", "joinphrase":
+        " & ", "name": "Ella Fitzgerald"}, {"id": "eea8a864-fcda-4602-9569-38ab446decd6",
+        "name": "Louis Armstrong"}], "duration": 394, "id": "315c90fa-a383-4d6e-a6af-3158e0abd15c",
+        "releasegroups": [{"artists": [{"id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+        "joinphrase": " & ", "name": "Ella Fitzgerald"}, {"id": "eea8a864-fcda-4602-9569-38ab446decd6",
+        "name": "Louis Armstrong"}], "id": "241ccc14-c02f-4913-b938-cc24ab26b0fd",
+        "secondarytypes": ["Compilation"], "title": "Singing And Swinging Together",
+        "type": "Album"}, {"artists": [{"id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+        "joinphrase": " & ", "name": "Ella"}, {"id": "eea8a864-fcda-4602-9569-38ab446decd6",
+        "name": "Louis"}], "id": "60eafb58-0fbb-419e-88c4-33cf915071ee", "secondarytypes":
+        ["Compilation"], "title": "Singing and Swinging Together", "type": "Album"}],
+        "title": "April in Paris"}, {"artists": [{"id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+        "joinphrase": " & ", "name": "Ella Fitzgerald"}, {"id": "eea8a864-fcda-4602-9569-38ab446decd6",
+        "name": "Louis Armstrong"}], "duration": 393, "id": "662e377a-dd22-4cb4-9b90-20e6a7f6d5d2",
+        "releasegroups": [{"artists": [{"id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+        "joinphrase": " & ", "name": "Ella Fitzgerald"}, {"id": "eea8a864-fcda-4602-9569-38ab446decd6",
+        "name": "Louis Armstrong"}], "id": "8ec69375-a2ab-3388-a15a-446133b29861",
+        "secondarytypes": ["Compilation"], "title": "Verve Jazz Masters 24: Ella Fitzgerald
+        & Louis Armstrong", "type": "Album"}, {"artists": [{"id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+        "joinphrase": " & ", "name": "Ella Fitzgerald"}, {"id": "eea8a864-fcda-4602-9569-38ab446decd6",
+        "name": "Louis Armstrong"}], "id": "6db7efe4-acd8-3063-aa1b-fb2890273652",
+        "secondarytypes": ["Compilation"], "title": "Jazz ''Round Midnight", "type":
+        "Album"}, {"artists": [{"id": "54799c0e-eb45-4eea-996d-c4d71a63c499", "joinphrase":
+        " & ", "name": "Ella Fitzgerald"}, {"id": "eea8a864-fcda-4602-9569-38ab446decd6",
+        "name": "Louis Armstrong"}], "id": "50fece99-77bf-455b-97ae-aabb9a848b8b",
+        "title": "Ella and Louis", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "bd85cd2d-6de9-4ef8-b997-2b9e4b52b19e",
+        "secondarytypes": ["Compilation"], "title": "Jazz Cafe Sit back relax to mellow
+        favourites", "type": "Album"}, {"artists": [{"id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+        "joinphrase": " & ", "name": "Ella Fitzgerald"}, {"id": "eea8a864-fcda-4602-9569-38ab446decd6",
+        "name": "Louis Armstrong"}], "id": "162346df-76e5-4cd7-9169-f047b61421d6",
+        "secondarytypes": ["Compilation"], "title": "Ella & Louis", "type": "Album"},
+        {"artists": [{"id": "54799c0e-eb45-4eea-996d-c4d71a63c499", "joinphrase":
+        " & ", "name": "Ella Fitzgerald"}, {"id": "eea8a864-fcda-4602-9569-38ab446decd6",
+        "name": "Louis Armstrong"}], "id": "c70ee463-c59b-4146-a887-75d0f3b2b531",
+        "secondarytypes": ["Compilation"], "title": "Original Greatest Hits", "type":
+        "Album"}, {"artists": [{"id": "54799c0e-eb45-4eea-996d-c4d71a63c499", "joinphrase":
+        " & ", "name": "Ella Fitzgerald"}, {"id": "eea8a864-fcda-4602-9569-38ab446decd6",
+        "name": "Louis Armstrong"}], "id": "37012d18-8647-3648-87e7-7a66423b863b",
+        "secondarytypes": ["Compilation"], "title": "The Complete Ella and Louis on
+        Verve", "type": "Album"}, {"artists": [{"id": "eea8a864-fcda-4602-9569-38ab446decd6",
+        "name": "Louis Armstrong"}], "id": "416fad2e-a9e0-3be0-82e4-a84290266cbf",
+        "secondarytypes": ["Compilation"], "title": "The Very Best of Louis Armstrong",
+        "type": "Album"}, {"artists": [{"id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+        "joinphrase": " & ", "name": "Ella Fitzgerald"}, {"id": "eea8a864-fcda-4602-9569-38ab446decd6",
+        "name": "Louis Armstrong"}], "id": "c4d57285-84d5-4413-8118-b92f402ad1da",
+        "secondarytypes": ["Compilation"], "title": "Cheek to Cheek: The Complete
+        Duet Recordings", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "dbcdc295-74e3-3d2b-a7a6-926109c2e9a2",
+        "secondarytypes": ["Compilation"], "title": "It''s Unforgettable", "type":
+        "Album"}, {"artists": [{"id": "54799c0e-eb45-4eea-996d-c4d71a63c499", "name":
+        "Ella Fitzgerald"}], "id": "3dcd39f2-5c4f-4043-9534-9581e7191a30", "secondarytypes":
+        ["Compilation"], "title": "Six Classic Albums, Volume 3", "type": "Album"},
+        {"artists": [{"id": "54799c0e-eb45-4eea-996d-c4d71a63c499", "joinphrase":
+        " & ", "name": "Ella Fitzgerald"}, {"id": "eea8a864-fcda-4602-9569-38ab446decd6",
+        "name": "Louis Armstrong"}], "id": "6a8ec885-544e-3b31-859a-a73289a01421",
+        "title": "Ella and Louis", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "c41fa432-81c6-4155-9343-096a7f8a02d8",
+        "secondarytypes": ["Compilation"], "title": "Jazz & The City", "type": "Album"},
+        {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various
+        Artists"}], "id": "1de16bb9-586e-3f2d-92e7-74dc71c7a426", "secondarytypes":
+        ["Soundtrack"], "title": "Forget Paris", "type": "Album"}, {"artists": [{"id":
+        "54799c0e-eb45-4eea-996d-c4d71a63c499", "name": "Ella Fitzgerald"}], "id":
+        "0a39f620-97cd-3409-a44c-f54771d6abb7", "secondarytypes": ["Compilation"],
+        "title": "Reader''s Digest: The Legendary Ella Fitzgerald: Her Greatest Performances",
+        "type": "Album"}], "title": "April in Paris"}, {"artists": [{"id": "eea8a864-fcda-4602-9569-38ab446decd6",
+        "name": "Louis Armstrong"}], "duration": 396, "id": "6b45ee80-dbb3-41c2-a187-f2ba08d16c6f",
+        "releasegroups": [{"id": "48addefc-0808-3d0f-b5d4-36811513681f", "secondarytypes":
+        ["Compilation"], "title": "What a Wonderful World", "type": "Album"}], "title":
+        "April in Paris"}, {"artists": [{"id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+        "joinphrase": " & ", "name": "Ella Fitzgerald"}, {"id": "eea8a864-fcda-4602-9569-38ab446decd6",
+        "name": "Louis Armstrong"}], "duration": 382, "id": "883e0b0f-cbaa-476e-946f-ea3cf11786d9",
+        "releasegroups": [{"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "042a78ef-448c-45f5-9c23-fab0a52c9be7",
+        "secondarytypes": ["Compilation"], "title": "Jazz Deluxe", "type": "Album"},
+        {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various
+        Artists"}], "id": "eead5edb-fb76-47c7-ad17-d4446ffc185f", "secondarytypes":
+        ["Compilation"], "title": "Divas of Jazz"}, {"artists": [{"id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+        "joinphrase": " & ", "name": "Ella Fitzgerald"}, {"id": "eea8a864-fcda-4602-9569-38ab446decd6",
+        "name": "Louis Armstrong"}], "id": "1e348262-82e6-3ca3-9089-634e66b517c1",
+        "secondarytypes": ["Compilation"], "title": "Ella & Louis Together", "type":
+        "Album"}, {"artists": [{"id": "54799c0e-eb45-4eea-996d-c4d71a63c499", "name":
+        "Ella Fitzgerald"}], "id": "be880cf1-afc6-4067-bc82-dd1abaea5007", "secondarytypes":
+        ["Compilation"], "title": "Flying Home", "type": "Album"}], "title": "April
+        in Paris"}, {"artists": [{"id": "54799c0e-eb45-4eea-996d-c4d71a63c499", "joinphrase":
+        " & ", "name": "Ella"}, {"id": "eea8a864-fcda-4602-9569-38ab446decd6", "name":
+        "Louis"}], "duration": 392, "id": "89e167e1-a8d3-45b7-b40c-9c637b555a28",
+        "releasegroups": [{"artists": [{"id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+        "joinphrase": " & ", "name": "Ella Fitzgerald"}, {"id": "eea8a864-fcda-4602-9569-38ab446decd6",
+        "name": "Louis Armstrong"}], "id": "45aa0e31-ab75-4605-a3a3-f650d4fa4229",
+        "secondarytypes": ["Compilation"], "title": "Ella & Louis: The Complete Anthology",
+        "type": "Album"}], "title": "April in Paris"}, {"id": "a04d389e-b7f3-4996-98e4-c611c97f2654"},
+        {"artists": [{"id": "eea8a864-fcda-4602-9569-38ab446decd6", "joinphrase":
+        " & ", "name": "Louis Armstrong"}, {"id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+        "name": "Ella Fitzgerald"}], "duration": 393, "id": "a6a27ea3-2fd6-404c-acf2-2569d26cf681",
+        "releasegroups": [{"artists": [{"id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+        "joinphrase": " & ", "name": "Ella Fitzgerald"}, {"id": "eea8a864-fcda-4602-9569-38ab446decd6",
+        "name": "Louis Armstrong"}], "id": "6a8ec885-544e-3b31-859a-a73289a01421",
+        "title": "Ella and Louis", "type": "Album"}], "title": "April in Paris"},
+        {"artists": [{"id": "54799c0e-eb45-4eea-996d-c4d71a63c499", "name": "Ella
+        Fitzgerald"}], "duration": 395, "id": "b2d4ee83-3fe7-4bb0-b37b-b68ad1b2ae12",
+        "releasegroups": [{"id": "a87dd6e5-54bc-441b-b22a-7286a3b3a904", "secondarytypes":
+        ["Compilation"], "title": "Dearly Beloved", "type": "Album"}], "title": "April
+        in Paris"}, {"artists": [{"id": "54799c0e-eb45-4eea-996d-c4d71a63c499", "name":
+        "Ella Fitzgerald"}], "duration": 394, "id": "bf934a5f-6567-47f5-8882-10aa2b5820e2",
+        "releasegroups": [{"artists": [{"id": "351d8bdf-33a1-45e2-8c04-c85fad20da55",
+        "name": "Sarah Vaughan"}], "id": "70e42abe-7bd5-4554-92d0-1b97296a49f4", "secondarytypes":
+        ["Compilation"], "title": "The 3 Divas", "type": "Album"}], "title": "April
+        In Paris"}, {"artists": [{"id": "eea8a864-fcda-4602-9569-38ab446decd6", "joinphrase":
+        " & ", "name": "Louis Armstrong"}, {"id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+        "name": "Ella Fitzgerald"}], "duration": 392, "id": "c185d774-abfc-41be-99d9-d2f47cf84631",
+        "releasegroups": [{"artists": [{"id": "eea8a864-fcda-4602-9569-38ab446decd6",
+        "name": "Louis Armstrong"}], "id": "a887b083-423f-4842-8ebc-f3bf9f28e85a",
+        "secondarytypes": ["Compilation"], "title": "Satchmo: The Louis Armstrong
+        Collection", "type": "Album"}], "title": "April in Paris"}, {"artists": [{"id":
+        "54799c0e-eb45-4eea-996d-c4d71a63c499", "joinphrase": " & ", "name": "Ella
+        Fitzgerald"}, {"id": "eea8a864-fcda-4602-9569-38ab446decd6", "name": "Louis
+        Armstrong"}], "duration": 392, "id": "d9878384-5525-4198-ae42-5f634c503cce",
+        "releasegroups": [{"id": "24577902-0198-3733-b1cb-f10e8c2abb05", "secondarytypes":
+        ["Compilation"], "title": "Ella & Louis Classic Album Collection", "type":
+        "Album"}], "title": "April in Paris"}, {"id": "f62fe0b6-d208-44e7-a715-9da297544969"}],
+        "score": 0.942247}, {"id": "8213501b-6dff-46a7-bfec-25ec2a15bbdb", "recordings":
+        [{"artists": [{"id": "eea8a864-fcda-4602-9569-38ab446decd6", "name": "Louis
+        Armstrong"}], "duration": 392, "id": "04c0b611-b82e-4507-918b-97ce733bd08f",
+        "releasegroups": [{"id": "9c8ab851-c89f-4c0f-9a1c-35f22e78b741", "secondarytypes":
+        ["Compilation"], "title": "Milestones of a Jazz Legend"}], "title": "April
+        in Paris"}, {"artists": [{"id": "54799c0e-eb45-4eea-996d-c4d71a63c499", "name":
+        "Ella Fitzgerald"}], "duration": 216, "id": "0fa069c4-0560-4bb8-bf45-c1e2f849a3da",
+        "releasegroups": [{"id": "af22f5ad-ddc8-3e72-a85c-8dfded8dede5", "secondarytypes":
+        ["Live"], "title": "Immortal Concerts: Ella Fitzgerald 1957-1958", "type":
+        "Album"}], "title": "April in Paris"}, {"id": "6232badb-8bc0-4580-8b66-0b066327856d"},
+        {"artists": [{"id": "54799c0e-eb45-4eea-996d-c4d71a63c499", "joinphrase":
+        " & ", "name": "Ella Fitzgerald"}, {"id": "eea8a864-fcda-4602-9569-38ab446decd6",
+        "name": "Louis Armstrong"}], "duration": 393, "id": "662e377a-dd22-4cb4-9b90-20e6a7f6d5d2",
+        "releasegroups": [{"artists": [{"id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+        "joinphrase": " & ", "name": "Ella Fitzgerald"}, {"id": "eea8a864-fcda-4602-9569-38ab446decd6",
+        "name": "Louis Armstrong"}], "id": "8ec69375-a2ab-3388-a15a-446133b29861",
+        "secondarytypes": ["Compilation"], "title": "Verve Jazz Masters 24: Ella Fitzgerald
+        & Louis Armstrong", "type": "Album"}, {"artists": [{"id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+        "joinphrase": " & ", "name": "Ella Fitzgerald"}, {"id": "eea8a864-fcda-4602-9569-38ab446decd6",
+        "name": "Louis Armstrong"}], "id": "6db7efe4-acd8-3063-aa1b-fb2890273652",
+        "secondarytypes": ["Compilation"], "title": "Jazz ''Round Midnight", "type":
+        "Album"}, {"artists": [{"id": "54799c0e-eb45-4eea-996d-c4d71a63c499", "joinphrase":
+        " & ", "name": "Ella Fitzgerald"}, {"id": "eea8a864-fcda-4602-9569-38ab446decd6",
+        "name": "Louis Armstrong"}], "id": "50fece99-77bf-455b-97ae-aabb9a848b8b",
+        "title": "Ella and Louis", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "bd85cd2d-6de9-4ef8-b997-2b9e4b52b19e",
+        "secondarytypes": ["Compilation"], "title": "Jazz Cafe Sit back relax to mellow
+        favourites", "type": "Album"}, {"artists": [{"id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+        "joinphrase": " & ", "name": "Ella Fitzgerald"}, {"id": "eea8a864-fcda-4602-9569-38ab446decd6",
+        "name": "Louis Armstrong"}], "id": "162346df-76e5-4cd7-9169-f047b61421d6",
+        "secondarytypes": ["Compilation"], "title": "Ella & Louis", "type": "Album"},
+        {"artists": [{"id": "54799c0e-eb45-4eea-996d-c4d71a63c499", "joinphrase":
+        " & ", "name": "Ella Fitzgerald"}, {"id": "eea8a864-fcda-4602-9569-38ab446decd6",
+        "name": "Louis Armstrong"}], "id": "c70ee463-c59b-4146-a887-75d0f3b2b531",
+        "secondarytypes": ["Compilation"], "title": "Original Greatest Hits", "type":
+        "Album"}, {"artists": [{"id": "54799c0e-eb45-4eea-996d-c4d71a63c499", "joinphrase":
+        " & ", "name": "Ella Fitzgerald"}, {"id": "eea8a864-fcda-4602-9569-38ab446decd6",
+        "name": "Louis Armstrong"}], "id": "37012d18-8647-3648-87e7-7a66423b863b",
+        "secondarytypes": ["Compilation"], "title": "The Complete Ella and Louis on
+        Verve", "type": "Album"}, {"artists": [{"id": "eea8a864-fcda-4602-9569-38ab446decd6",
+        "name": "Louis Armstrong"}], "id": "416fad2e-a9e0-3be0-82e4-a84290266cbf",
+        "secondarytypes": ["Compilation"], "title": "The Very Best of Louis Armstrong",
+        "type": "Album"}, {"artists": [{"id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+        "joinphrase": " & ", "name": "Ella Fitzgerald"}, {"id": "eea8a864-fcda-4602-9569-38ab446decd6",
+        "name": "Louis Armstrong"}], "id": "c4d57285-84d5-4413-8118-b92f402ad1da",
+        "secondarytypes": ["Compilation"], "title": "Cheek to Cheek: The Complete
+        Duet Recordings", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "dbcdc295-74e3-3d2b-a7a6-926109c2e9a2",
+        "secondarytypes": ["Compilation"], "title": "It''s Unforgettable", "type":
+        "Album"}, {"artists": [{"id": "54799c0e-eb45-4eea-996d-c4d71a63c499", "name":
+        "Ella Fitzgerald"}], "id": "3dcd39f2-5c4f-4043-9534-9581e7191a30", "secondarytypes":
+        ["Compilation"], "title": "Six Classic Albums, Volume 3", "type": "Album"},
+        {"artists": [{"id": "54799c0e-eb45-4eea-996d-c4d71a63c499", "joinphrase":
+        " & ", "name": "Ella Fitzgerald"}, {"id": "eea8a864-fcda-4602-9569-38ab446decd6",
+        "name": "Louis Armstrong"}], "id": "6a8ec885-544e-3b31-859a-a73289a01421",
+        "title": "Ella and Louis", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "c41fa432-81c6-4155-9343-096a7f8a02d8",
+        "secondarytypes": ["Compilation"], "title": "Jazz & The City", "type": "Album"},
+        {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various
+        Artists"}], "id": "1de16bb9-586e-3f2d-92e7-74dc71c7a426", "secondarytypes":
+        ["Soundtrack"], "title": "Forget Paris", "type": "Album"}, {"artists": [{"id":
+        "54799c0e-eb45-4eea-996d-c4d71a63c499", "name": "Ella Fitzgerald"}], "id":
+        "0a39f620-97cd-3409-a44c-f54771d6abb7", "secondarytypes": ["Compilation"],
+        "title": "Reader''s Digest: The Legendary Ella Fitzgerald: Her Greatest Performances",
+        "type": "Album"}], "title": "April in Paris"}], "score": 0.939773}, {"id":
+        "3eabc33f-b18a-4eae-b495-c0d6a31be5d8", "recordings": [{"artists": [{"id":
+        "54799c0e-eb45-4eea-996d-c4d71a63c499", "joinphrase": " & ", "name": "Ella
+        Fitzgerald"}, {"id": "eea8a864-fcda-4602-9569-38ab446decd6", "name": "Louis
+        Armstrong"}], "duration": 393, "id": "662e377a-dd22-4cb4-9b90-20e6a7f6d5d2",
+        "releasegroups": [{"artists": [{"id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+        "joinphrase": " & ", "name": "Ella Fitzgerald"}, {"id": "eea8a864-fcda-4602-9569-38ab446decd6",
+        "name": "Louis Armstrong"}], "id": "8ec69375-a2ab-3388-a15a-446133b29861",
+        "secondarytypes": ["Compilation"], "title": "Verve Jazz Masters 24: Ella Fitzgerald
+        & Louis Armstrong", "type": "Album"}, {"artists": [{"id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+        "joinphrase": " & ", "name": "Ella Fitzgerald"}, {"id": "eea8a864-fcda-4602-9569-38ab446decd6",
+        "name": "Louis Armstrong"}], "id": "6db7efe4-acd8-3063-aa1b-fb2890273652",
+        "secondarytypes": ["Compilation"], "title": "Jazz ''Round Midnight", "type":
+        "Album"}, {"artists": [{"id": "54799c0e-eb45-4eea-996d-c4d71a63c499", "joinphrase":
+        " & ", "name": "Ella Fitzgerald"}, {"id": "eea8a864-fcda-4602-9569-38ab446decd6",
+        "name": "Louis Armstrong"}], "id": "50fece99-77bf-455b-97ae-aabb9a848b8b",
+        "title": "Ella and Louis", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "bd85cd2d-6de9-4ef8-b997-2b9e4b52b19e",
+        "secondarytypes": ["Compilation"], "title": "Jazz Cafe Sit back relax to mellow
+        favourites", "type": "Album"}, {"artists": [{"id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+        "joinphrase": " & ", "name": "Ella Fitzgerald"}, {"id": "eea8a864-fcda-4602-9569-38ab446decd6",
+        "name": "Louis Armstrong"}], "id": "162346df-76e5-4cd7-9169-f047b61421d6",
+        "secondarytypes": ["Compilation"], "title": "Ella & Louis", "type": "Album"},
+        {"artists": [{"id": "54799c0e-eb45-4eea-996d-c4d71a63c499", "joinphrase":
+        " & ", "name": "Ella Fitzgerald"}, {"id": "eea8a864-fcda-4602-9569-38ab446decd6",
+        "name": "Louis Armstrong"}], "id": "c70ee463-c59b-4146-a887-75d0f3b2b531",
+        "secondarytypes": ["Compilation"], "title": "Original Greatest Hits", "type":
+        "Album"}, {"artists": [{"id": "54799c0e-eb45-4eea-996d-c4d71a63c499", "joinphrase":
+        " & ", "name": "Ella Fitzgerald"}, {"id": "eea8a864-fcda-4602-9569-38ab446decd6",
+        "name": "Louis Armstrong"}], "id": "37012d18-8647-3648-87e7-7a66423b863b",
+        "secondarytypes": ["Compilation"], "title": "The Complete Ella and Louis on
+        Verve", "type": "Album"}, {"artists": [{"id": "eea8a864-fcda-4602-9569-38ab446decd6",
+        "name": "Louis Armstrong"}], "id": "416fad2e-a9e0-3be0-82e4-a84290266cbf",
+        "secondarytypes": ["Compilation"], "title": "The Very Best of Louis Armstrong",
+        "type": "Album"}, {"artists": [{"id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+        "joinphrase": " & ", "name": "Ella Fitzgerald"}, {"id": "eea8a864-fcda-4602-9569-38ab446decd6",
+        "name": "Louis Armstrong"}], "id": "c4d57285-84d5-4413-8118-b92f402ad1da",
+        "secondarytypes": ["Compilation"], "title": "Cheek to Cheek: The Complete
+        Duet Recordings", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "dbcdc295-74e3-3d2b-a7a6-926109c2e9a2",
+        "secondarytypes": ["Compilation"], "title": "It''s Unforgettable", "type":
+        "Album"}, {"artists": [{"id": "54799c0e-eb45-4eea-996d-c4d71a63c499", "name":
+        "Ella Fitzgerald"}], "id": "3dcd39f2-5c4f-4043-9534-9581e7191a30", "secondarytypes":
+        ["Compilation"], "title": "Six Classic Albums, Volume 3", "type": "Album"},
+        {"artists": [{"id": "54799c0e-eb45-4eea-996d-c4d71a63c499", "joinphrase":
+        " & ", "name": "Ella Fitzgerald"}, {"id": "eea8a864-fcda-4602-9569-38ab446decd6",
+        "name": "Louis Armstrong"}], "id": "6a8ec885-544e-3b31-859a-a73289a01421",
+        "title": "Ella and Louis", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "c41fa432-81c6-4155-9343-096a7f8a02d8",
+        "secondarytypes": ["Compilation"], "title": "Jazz & The City", "type": "Album"},
+        {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various
+        Artists"}], "id": "1de16bb9-586e-3f2d-92e7-74dc71c7a426", "secondarytypes":
+        ["Soundtrack"], "title": "Forget Paris", "type": "Album"}, {"artists": [{"id":
+        "54799c0e-eb45-4eea-996d-c4d71a63c499", "name": "Ella Fitzgerald"}], "id":
+        "0a39f620-97cd-3409-a44c-f54771d6abb7", "secondarytypes": ["Compilation"],
+        "title": "Reader''s Digest: The Legendary Ella Fitzgerald: Her Greatest Performances",
+        "type": "Album"}], "title": "April in Paris"}], "score": 0.810522}], "status":
+        "ok"}'
+    http_version:
+  recorded_at: Tue, 29 Jun 2021 13:32:15 GMT
+recorded_with: VCR 3.0.3

@@ -1,0 +1,64 @@
+---
+http_interactions:
+- request:
+    method: get
+    uri: https://api.acoustid.org/v2/lookup?client=<ACOUSTID_CLIENT_ID>&duration=164&fingerprint=AQADtEqiKAkTJQmFl8e74Ap6GdWL9BCiTw6a4wl-1Md_5PsOdUrS4kpQ_1DR6KjEGPl5_PD14GpYNE50lA-uTBeuR0ir8EjS_Pjht8nwiMZ5dD6aBy_-GJ9YhEITE8-C72ji5YeeRClhPkJIZjnRODzqj_gJWMelHXlz3IEUikIY9mhGvmCeG7V3MJGX4r7wg8elHH2OhJ-P_BidKD2eHU96omGP7_iQHz5N6HuCB3uONxke7ghTaR3aZcdBjcxxcXjyo_nB_DjyHocZB_cmhCfSPEXDTIGOK0K657jyqzhOhHED7TNO5MdDHuYSZUMzMh3C4xMauyv6b_hwInZeoTb8hUF03RAfqUjLBo7mMeiU_bjO4EOdHD-iu4R4HdVv5BbB-ngyNH_wdqiN_Bb-Qz-YzAr6cZgsQguXBXky9KXQ5Dmu5aiM5sOP_oGrLMZhjIbVoHo2fA9qH640zAwN98jVQNUeIlyS4x-OyY7hRjvgH_2JE9kW5dA4WI0yojKO4uHx40inCT--4duJScqHFy-NRrtQmZRE5DmUBycXZOIYH7URKV-gf2ifw_mOjrtQaTnyCOlxHHmkGN9weKhy_OiNB-eRRzmSb8lxo9qxpg_RhJIwOS5OoXkwyUd-QSWP7MnxLDUmHk0dPMmM6NBz_BKupOiWHeKzgDkf5MKT-PB6_EM_C00dXGieoVfe4F8mnHgOhw5yb8Kh8RfCnEFTJUdJRriSw9Gj48nwHBmcHz_0JDXeHOleHGlURiNODf8RJtzSo88U5D5OC3yO_hC_FH107FF8aIl0dE02XNkVHH2OBMezlUTz4cTTY9cTJEzGIQ_gxyIeifjRPHvQPRq-485xSfDUpPgRX9ByGaESKVGIH6ZinOHB_GjcVHh2xH6RUA-u4cGlgeKNX1JhbayQS8frwUrp4zWuBz18WdCVUId_vMmIF__Bh0xylMs1_EcpQctxHdFR5dpQmRn2fMGPJ4rR50Aad4Q26uAs5Mf_GE_E40ekoOKiQCeLGuZyfGEkCdaIP4M_HbWCXAmPL-gVNC9-M3hONJg6csHHI9003IcuodIahJGWHKP0Ff3hikH1HGeOn8ih5emRw8uN_sinQz8mdjmazDneK-h6aCkVDpwWIs9ywneCt6lRCzcqn0SO94GU1Dn6F20UyVCUEz_CqImCP3CW7EHZoxd8TM8VnDzyQD_0sKgsoUkahXiYXviRc0X_CqkPzT7-IJTITAqYKImMOxd--NLxLAfnI78g70UoKWFgcsd55H6g3ciFHf0OTzemakcsbYe8LUWew-Fx5mCYHQ3-HV-ONJRk6EZ-XEouXEea1zhz6Ce8_9AVYpdQ6bgUXMyOviWuvFBNI71CvBEuHntb4zx8HrnRC2ovoYs2SMOPfBNRbsqFpjqeY7ymow-L90in6cGk6ZKgI2eO_sRhRxJ-MN4Z4sMvPNPBkGlx2jibIz10hNlTXPkFB9dy9NFBKcIXoeGLgzmPZuKOJ0e4SkGy_MWTHT-8_MDRNTvSH7ruwFwQ-8KXEifxGN4_VFuOKZMYoy_yQzuaJ0OoH18edOGDWFG54wqhJUe-wjps5UG35sJ9XPnx-XiP4viPnIeeIz3K7hF-nGmJ9mjinDglNHZR68KDouktXD3Oo0l-ophZwdeFR0h0BaE9NHuOhpyMksfko8lx_zi_YdehfQmYHJfyYD8aN6je4z6qXRqS9xHSSTn69viNvhRx0ZilDMnEqkOuEI226Oh7ZEdvQcu6H7kzPDoaPQfDZxuy-XgWaO-M5jkeHaWP5jvuHC_qo8nl4QsR_0cfMPkudF4QJjqeQ_uKMDu-o7F09C1-dD7CpIeuHmd09EOYI4_ygFOlQlOK5sIz6sgf_HiWoz-arMfzOIh_SJcs3Jlw_Gio4M1xhjFOaJKU48f8I_zhSAqOPuGRk4e2D2HG4EQ1HR88KcdZCzm0HzkjjNeGZ3pRMmge_MR5_AjfG2KOfDscUUeZ4OgTwqGeIsshH0c-lNqElHIl6Dz8Iz_hNOjDIpehnwM16fiF7GjYGWVz9DfCxEU_MHmGax_6Q9wLV1lQbcd5YnqI5iSeD-dx_dCP_kifFz--Dz_-Y0oS4pOE_vCIZ5fQjMdNHPHRiAkLTeLCIQ-OWgyL7_gD3wiXF-oiIuSSKIXR5yreYLKP4D-sjTt-I6cOH9-CXscVCn1omDMiH9rxGb2h7AtcJQpRTSWeFmfgZ0-hNgzOF-84WPpxDc2zOCFaHRH6BU77oDIe5UT0HNqPfBm667h-vMM-ol8OT0dYhQ0USluOX2i-HPU-Yd7x_NCeHEy0Cyc-BhqZwTw8HdooN2geB8xXvMd1TMdvXEI_C8_i449RKtrRPHgZ4s5Q_tDCKBxyJQ9OND9qpbgnVDSsIySzHDeaiPkwHZeE6YY_9IceIETj41_QPj9-fIK7RTg--NlxMQ9-OFuW4_jx78ihE4F79EzwHUcOldJU5Dzqoz-6r0Wab6iVHcqRG81u9DmaCyVn5MoCbiJyP6iu6Gj2D08rfF_BJJ8R_jruKHqgI5LDo37w9BuuHY3R7caPYzst40wYHkd6KcUb4JqegfZhPYyIc-uhPGieI1eOhg8uPWhC5UR3FbuCnEEfNBdOHTxUNofHUMJzNGGP8C2eZR8aLscv9FtVACKUMEgbhRwBAFAADAhKKgEoIQBBAYQizCDGgFCAIEUkYoIJYIwABACGGFASAEEQAUASwhQQwDCgCBCGEEQZIMQRAYQBpCFGALAMmCHFoBQoAQAAThMEgSBKEAAGEgoABADhBgEEkBFAEAQYgAAAhBQSRAhhFVOCGQeIVgoA4IABQhBiFSHQUAKRQEQApTgRwhAAADFIYVMSYgxYSBk0ggjKDQUIMAMYsUgkRCAwQABhjAGIKGCAAoQZAIAAxBBhlDKIMWMQIoYKYARDghGmoADEEAQMGQYhQQwgBiOhGACEOECZE5QyS5RyjADHGAGEKKWAApQQJYgAAjhBgDBACCYZMIBYAgw0ighAiEMAEYABEMAYBABwSDGFlFEGEGGAkwAoIJgwRAlBgBECAWGEIQIIAAxiCCFKBBGCMKQAJIoBZSgAECmiGLEQGEGMAcBAQoxRSCiCEBPAKSucMIwiIwwDQhABBRAAISKAAQQJZoRBmAHMjDBCEAKYMMJYKgCjiAggAFECAKAAIg5QAoQCQChBCGBMKAEAAU4IYxUTFhCCDBFIGm8EEcABB5ghCTBFlDAAAAEAQQwAiQVAAjgrBLFGEAGQIgITooQBAhEDiBAIAEaIAEwAYJQgACAGADHGEAaQYMIJATAAzAALETECWIOAM9ATQgAjwiHHhFBKAMQA4MQRIxgwUjjBDGACCEZEIEQoQYBSlhBkGQAYIMKBMQwogJSAQAgBJAHGEMAAEkoQQ4iAzAgCBBBKKAAUQ8AIAIxFxhBEsRHKCQABEEYZYIRQRhhlgBHCC6gAxUAgQYRCgBFgBBNMESAIEEAIAAEzABBGBACEcWYZIkARLAwARAADhBVAEIFUQIoAQzRiQmDNiAMAMES8QwQYAQR1yABEFQOIOAkQVI4gYwwRBBhAGBBEISAIEEIgwIggBDDmABAIIGAkAQAjxwBgQBggFBHIPOKgEEAACgA&meta=recordings%20releasegroups%20compress
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      Accept:
+      - "*/*"
+      User-Agent:
+      - rest-client/2.1.0 (darwin20.3.0 x86_64) ruby/2.7.1p83
+      Accept-Encoding:
+      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+      Host:
+      - api.acoustid.org
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Date:
+      - Tue, 29 Jun 2021 13:33:26 GMT
+      Content-Type:
+      - application/json; charset=UTF-8
+      Transfer-Encoding:
+      - chunked
+      Connection:
+      - keep-alive
+      Vary:
+      - Accept-Encoding
+      Access-Control-Allow-Origin:
+      - "*"
+      X-Envoy-Upstream-Service-Time:
+      - '93'
+      Strict-Transport-Security:
+      - max-age=15724800; includeSubDomains
+    body:
+      encoding: ASCII-8BIT
+      string: '{"results": [{"id": "61470c1c-9860-4134-bf98-a9494566a768", "recordings":
+        [{"artists": [{"id": "b5fb0f1a-2cd4-4759-9d80-648643f70c43", "name": "\u30b7\u30fc\u30c8\u30d9\u30eb\u30c4"}],
+        "duration": 271, "id": "30c361ed-1dec-4caf-989e-b91dac24a514", "releasegroups":
+        [{"id": "d717a824-ecce-352c-b448-1deb02bd9309", "secondarytypes": ["Soundtrack"],
+        "title": "Cowboy Bebop: Knockin\u2019 on Heaven\u2019s Door O.S.T. - Future
+        Blues", "type": "Album"}], "title": "What planet is this?!"}, {"artists":
+        [{"id": "b5fb0f1a-2cd4-4759-9d80-648643f70c43", "name": "\u30b7\u30fc\u30c8\u30d9\u30eb\u30c4"}],
+        "duration": 165, "id": "ca65558f-b342-444e-beb6-04970fa09832", "releasegroups":
+        [{"artists": [{"id": "b5fb0f1a-2cd4-4759-9d80-648643f70c43", "name": "\u30b7\u30fc\u30c8\u30d9\u30eb\u30c4"}],
+        "id": "338700ff-abbb-3546-ad07-10714d7d0a7c", "secondarytypes": ["Soundtrack"],
+        "title": "Cowboy Bebop: Ask DNA", "type": "Single"}, {"artists": [{"id": "b5fb0f1a-2cd4-4759-9d80-648643f70c43",
+        "name": "\u30b7\u30fc\u30c8\u30d9\u30eb\u30c4"}], "id": "d717a824-ecce-352c-b448-1deb02bd9309",
+        "secondarytypes": ["Soundtrack"], "title": "Cowboy Bebop: Knockin\u2019 on
+        Heaven\u2019s Door O.S.T. - Future Blues", "type": "Album"}, {"artists": [{"id":
+        "5ffb73c0-b739-4231-ba22-f8d361be1d45", "joinphrase": " ", "name": "YOKO KANNO"},
+        {"id": "b5fb0f1a-2cd4-4759-9d80-648643f70c43", "name": "\u30b7\u30fc\u30c8\u30d9\u30eb\u30c4"}],
+        "id": "3849056b-5b0a-450d-a082-a98fee7331fb", "secondarytypes": ["Compilation"],
+        "title": "SPACE BIO CHARGE", "type": "Album"}, {"id": "ea45e38c-6882-30e2-b58b-a85945c700b6",
+        "secondarytypes": ["Soundtrack"], "title": "Cowboy Bebop: Tank! THE! BEST!",
+        "type": "Album"}], "title": "WHAT PLANET IS THIS."}], "score": 0.943038}],
+        "status": "ok"}'
+    http_version:
+  recorded_at: Tue, 29 Jun 2021 13:33:26 GMT
+recorded_with: VCR 3.0.3

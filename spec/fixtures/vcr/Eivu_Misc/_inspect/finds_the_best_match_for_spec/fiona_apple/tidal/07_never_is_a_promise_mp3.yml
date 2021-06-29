@@ -1,0 +1,96 @@
+---
+http_interactions:
+- request:
+    method: get
+    uri: https://api.acoustid.org/v2/lookup?client=<ACOUSTID_CLIENT_ID>&duration=356&fingerprint=AQADtFGka6ECRU_RPDsu5kMe_PjxNQw-DvkoMXikQJH64MfhL4GG_OjBpPqHM92C70HJw8kR3jtUUkKuPFvw4_jxZF8QPqQSNM9HKCd-_Dl-Haq746EQPth--DT65cgJHWEusNMpNORSBZf0omt7hPmhC7m0FE9k5MkPHnpuhOSDRl7w7BnO7MaVIx_EMQqF2IyL4xRONJOSH0WOZnwzaMyyEw-DH2586BGe4gw-ScJ5JniWWMKL_vDRJ9CRS8kTXMklMBlZoVYnHPfx4-QuZHl4uKyhnRr-4IRe_Mifogl1ocpiDtmJB-J75DeamkKdBveR_vgtSJWCMM9RLe9w8kHzIFFO41eRSz-uHE-CHP2QLMsVHLeKM8yD5yI4H81D9BJiGvKH88d_PEkeKH-DUhmLEym6_LgSMUeu41L-QCd8XFKPJ0lCK8ED7UFTPcj7BXfwnGiOOk2DmMdzQvyPiM4a4bhSB91_OHvQR5mQxw7qxSR84Re-I1TCcEZ1Y3-K7UX4qEj-HC285gu-GT8XOEkWB8d1PE3xPRAnZcxx4010_JECp0mq4NKRD3onCnlD-MeR7xAXZRWuI7izDE5CHvTxMMVWdQqefki_ohceqFKaHZeowXGOG--IHLuSg1-kozqsOfkwKjvKByNRJw2sBrGPG8pGtOTxJRce6Wge1QhPXKnwPvCk6fiMC70uNM8iXMiPPRUqS3jozBAfMnjT4jpxKfCP8Cl6Hs2zB080MsKrDL3Co_nxI3Me8IT24p0jOCYTET_0Kbik8MRvBeKPiRdxKiWCkjnh0wrR_sKPI3zGwHUwHW_QZ3BSqMf1gHIT4-rh5SmeHCdyBg6VoeNxfiMeoVZyo1-SkbiJnwT9BD3C9CGS5ziYPMtRfsEJXFkaZF-O5LlwP_iPvmiOnNCNmD46Dk08gmXy4DnxFNHTDLqGMM_R50nwW3g-nAqOH-EPLUtEKtizI7ZGoqlxUT3CKMwsQZey4TzyFE2VEe189EPzbOino6mLx9lm_DGuo0-J4_gvPDooS0JdVojvxGiWKNGhKdmFn0H4SIc_wOcQOskS5kieSDq857gUXFnURMIPX-CUHBpJYoq2ZaiaE00_BaelGMmzBPnxXLiU4lGUH81_hHIG_UE-5UckJ1mcQMyWIeTxHU2VK5h04Uce8UiWKh76Bs9FVPiF-njI4YYfI1d2KJ-OHA_RoOfxe0XLNvgNRx6-Ho2afMTJ4DieUUETfzjCczruEPrQcDnCE30G6oly9MAe_MKPMOvRB78SETqj9Hh2Ic-HHz2a9xGe0cIT5jHyQD98QjnyBNeOHn7R8vjWEZ8QuyH0L0qQvsTd4816_MF3JEt2hLxxLYxRKxe-Qz8mb8ZrPKnRjDrCV0j6onOx3QFPpTiz48kT7Ik2BY1K_PiNnFFmJEuzDj1-CQ_-FFfOYB9-PAUf7MePPJJwZVnw0HiY49EJLeF1hGSOB89lpDeSUseztPgH_9gj4zyeyoB3JFVGIw-Z4JLwhzheNMvxlgFP43mI-vhz_MqG50gqHfnR52BSyvgSJ3iFH1d3xMrFQH2KcL5iNLkafPnxiEF--D_046nUCaM0FvlvNDlKPfhUT1ijoYketDs4HcnTIOfx7_jxo1aSY0qWPPiH-3B1fJUm7M4R0TH848ryQF1ulM0VwsmN_dCoCW9SPDeu4ZV6-BWeRNWRS_hTmCMVnAZHHW-WJnDq48mG5KEjRL6MhiPxLmGO-0iY8MiVJeiJN8HTLDV-4siTI7nhKFWKJ-_w4Pth7yl-nOg14lEk9EIszZC142IeIafx8MipobmSoKQunNh1vBeqRCKeCdcHu1nBUPbwot5INDZxNhS6H2F-3A-eoktbg8qPG6V0_DH6w_GUY5O4I5SEB_qhsyJa5kaY_Hi2Ixe-CWH4IFQiyxib5Al05pDybciPvscjysTToHrRVCf2JClO3fCI8_Ak3njYfDj1oDkRvoVe5PnxjHiJE8079JgTfMnx7IifKBC7aEGeB9-ReT4cKSLk4yd8HhefIXIi1DGs44ZDHVdmCWaTPChvXIj242EUsNqcEF6EE89ynIT2gwkbXAjjJD5q59jZBX2K9DqO6zg0JtFxXjH0d_h57OjRIDn6w7fQefhxJS9-3MF18DIu6ZAbXNOjgU187BF-NN3RH1-i4QmQZ0qC5MI_vHJEPMmPJjpCKzt0Mkcenfgx_cqwVRSaZVmOS8dnhGmPZM8S9ETDdD4aS6EU1FSI_NApwX_wYO6DihekxMUVPrh03McD7UrgJjd2GekVpGoilNkjKH4EnjmeiPCeoTumJNWgOzCT5Dj8EDfxOUHzB3UWyJMU5EczPuiDXyl2kSVik1CaNbyQ53hevIefP7hKfMeFekOoTqnwQz96OEyYE6GiJTj6w09RR8d_wLuO_3iwSz--DPlwfNCSE-Hn4s7x4uIRsiHEM5UQdkmXhDh7NF-OPsGD8C-0_Cn0CI9_cBeaP-iTHP3h8YFWzshp4Dv6HE2V4UrSI_uhf0inkUGVH01whigzHD--3GiOZ1sU_MWz6-gzB5n2HAmP2rrwHo22FH3G4NWx5hnu4NnxNEcyGz_C5MdzH09yzHke5EyPRwuapjY0KwtOIc9x_GyRKyQehmnw6ygyPUPP48d_fHlEMJSdBHaJOBMHMV8RPnGGK0f-CC_Y5NDYH-kvVMh4HmeaH2ce6MnBMwhzZQEvhGmS5cGND-IIGpU-TDnkKUPfGWFs5MczAKOAQsRgQwiARCCkqKAECkEMEgQQBRxRBREGADFKA8EEEIZRBABBZnsAEBEAQWaEAYAZJoBBQAlgBBHBWKSUgswBAigBSDhhDLDACgQIEM4RIghwQlCmhEKMSMIEAoAAIYRQQCCCFESICMCIQcIQAwAwDhgFhAMCGQQAQwAAMBQSiDFEABNGWAKEAAJRCoyiCgABBBAWCMYMAABAgIQhggBKEDWKMAAQYgAJRgjhRApBiADGWQiAEQQJBBgwxBiADDbAEAMIQEoRIAAgQBDFIBFEMASAAUYIZIAARHBBlBCOEAYYwQoB4xFAxCnhEKIAGa2EgQgBR4CCjBJDGBgQICIkAAZYyRBAQAgEkFQQEQYAgU4xkYRxCCmAhBKCAWAAYogKyRUhADKKADAACCEAQEAxAIgySDkhCDHOGiOAoJYAIgxgCFAYmmNEUNEMAkx44owjGggAiHCCGQUAAUQhi40jjEABBBAIAEEQIZQIQIBEihmBEQJCEmWwcsA45hgFQIBkFIEAGAAkFQ4YoQgDyhKCiDHIMKWgAIIZQihwAgABCGAIKYYUMoABQwwSgAgPgDGIACKAAkJZCCAAAAqiFHNCOEUEAIAoIYyiyhhLAELAEEGMcMw4AoARRlAAATCCAOAREAY5KphQgCgljBBmIIAoIgYAAhQSChhnjDAOCEUUMAoARJAghBGjADDAEYKEMQIIgIAAggkAkFKEAGYcIQxJoAQASglLgNCCUsAUgwQJYCwQkjktiCBAAMMMF4haAAUzVBKHGCACMmQAQkxyJIAQyikAhFNICECkgkIARiEShBgEmDDMQSMIcQQQBwEggDkFGBAWKSAUEAZgAAACSBjnlCJmCWSRMAQ5QJAAwEnClBHEAgoIA0hQZQSxQBAlkAHGGUGNIkwgAxQjBEGkiAfAEAEEUUoAYiyQgFCEmAUCAOMEAEJQ5hwExgBkBBAMC6KQEcIggKRTBgBBCAAAEeQIogahB4zCDA&meta=recordings%20releasegroups%20compress
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      Accept:
+      - "*/*"
+      User-Agent:
+      - rest-client/2.1.0 (darwin20.3.0 x86_64) ruby/2.7.1p83
+      Accept-Encoding:
+      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+      Host:
+      - api.acoustid.org
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Date:
+      - Tue, 29 Jun 2021 13:33:06 GMT
+      Content-Type:
+      - application/json; charset=UTF-8
+      Transfer-Encoding:
+      - chunked
+      Connection:
+      - keep-alive
+      Vary:
+      - Accept-Encoding
+      Access-Control-Allow-Origin:
+      - "*"
+      X-Envoy-Upstream-Service-Time:
+      - '85'
+      Strict-Transport-Security:
+      - max-age=15724800; includeSubDomains
+    body:
+      encoding: ASCII-8BIT
+      string: '{"results": [{"id": "fdfd3ced-97cb-4b1f-9da6-f6c1a4d11e0e", "recordings":
+        [{"artists": [{"id": "a9ee533f-8871-4f62-a6bb-91eb264abc90", "name": "Fiona
+        Apple"}], "duration": 355, "id": "0006e69e-6657-489d-9f34-e21fafbc1dd0", "releasegroups":
+        [{"id": "2e552187-13b4-3c2b-8c63-207923fe8443", "title": "Shadowboxer", "type":
+        "Single"}], "title": "Never Is a Promise"}, {"artists": [{"id": "a9ee533f-8871-4f62-a6bb-91eb264abc90",
+        "name": "Fiona Apple"}], "duration": 354, "id": "1260234c-45a3-4382-bb32-1250dd40128e",
+        "releasegroups": [{"id": "6c71a2fb-2aae-383b-8274-5e205819d980", "title":
+        "Never Is a Promise", "type": "Single"}], "title": "Never Is a Promise (album
+        version)"}, {"id": "33300ff9-684b-4e2a-b48b-7c54914b8bb6"}, {"artists": [{"id":
+        "a9ee533f-8871-4f62-a6bb-91eb264abc90", "name": "Fiona Apple"}], "duration":
+        355, "id": "34c191e4-0a68-454d-b70e-80d96faa2253", "releasegroups": [{"artists":
+        [{"id": "a9ee533f-8871-4f62-a6bb-91eb264abc90", "name": "Fiona Apple"}], "id":
+        "3ae8693e-0a98-39f2-a169-dd4c21f61048", "title": "Sleep to Dream", "type":
+        "Single"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name":
+        "Various Artists"}], "id": "0bd8e66b-ee5d-4bf3-b36b-944940f1ea19", "secondarytypes":
+        ["Compilation"], "title": "Q The Music 1", "type": "Other"}], "title": "Never
+        Is a Promise"}, {"artists": [{"id": "a9ee533f-8871-4f62-a6bb-91eb264abc90",
+        "name": "Fiona Apple"}], "duration": 354, "id": "68faa1ff-dcb0-42f4-a706-7b43da18ee1a",
+        "releasegroups": [{"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "090d967c-3724-3b61-80f9-a22437f325b0",
+        "secondarytypes": ["Live"], "title": "Y-100: Sonic Sessions, Volume 2", "type":
+        "Album"}], "title": "Never Is a Promise"}, {"artists": [{"id": "a9ee533f-8871-4f62-a6bb-91eb264abc90",
+        "name": "Fiona Apple"}], "duration": 354, "id": "8508b4b4-d562-4ccd-b48d-a9e4d64065ff",
+        "releasegroups": [{"id": "2e552187-13b4-3c2b-8c63-207923fe8443", "title":
+        "Shadowboxer", "type": "Single"}], "title": "Never Is a Promise"}, {"artists":
+        [{"id": "a9ee533f-8871-4f62-a6bb-91eb264abc90", "name": "Fiona Apple"}], "duration":
+        354, "id": "d5361af5-e097-4dbf-94ff-81aa3bbe00a7", "releasegroups": [{"id":
+        "3ae8693e-0a98-39f2-a169-dd4c21f61048", "title": "Sleep to Dream", "type":
+        "Single"}], "title": "Never Is a Promise"}, {"artists": [{"id": "a9ee533f-8871-4f62-a6bb-91eb264abc90",
+        "name": "Fiona Apple"}], "duration": 354, "id": "dcf58245-319c-4f02-a3d6-ebd6f43ec289",
+        "releasegroups": [{"artists": [{"id": "a9ee533f-8871-4f62-a6bb-91eb264abc90",
+        "name": "Fiona Apple"}], "id": "b82bef40-53b7-4582-8561-8b660039dec9", "secondarytypes":
+        ["Compilation"], "title": "Original Album Classics", "type": "Album"}, {"artists":
+        [{"id": "a9ee533f-8871-4f62-a6bb-91eb264abc90", "name": "Fiona Apple"}], "id":
+        "82ba556e-99bf-380d-b9b5-5a97737f1cd1", "title": "Tidal", "type": "Album"},
+        {"artists": [{"id": "a9ee533f-8871-4f62-a6bb-91eb264abc90", "name": "Fiona
+        Apple"}], "id": "a5699755-a6ac-4b27-9720-4c290689d1b3", "secondarytypes":
+        ["Compilation"], "title": "Tidal / When the Pawn...", "type": "Album"}, {"id":
+        "2fc6c171-df86-3d11-8cbc-0844ff4d26cb", "secondarytypes": ["Compilation"],
+        "title": "iTunes Originals", "type": "Album"}], "title": "Never Is a Promise"},
+        {"artists": [{"id": "a9ee533f-8871-4f62-a6bb-91eb264abc90", "name": "Fiona
+        Apple"}], "duration": 372, "id": "f9f86311-8f6d-41e6-8775-427c950aad92", "releasegroups":
+        [{"artists": [{"id": "a9ee533f-8871-4f62-a6bb-91eb264abc90", "name": "Fiona
+        Apple"}], "id": "3d3ff0b9-5858-33f3-9d67-8ba5977899a8", "title": "When the
+        Pawn Hits the Conflicts He Thinks Like a King What He Knows Throws the Blows
+        When He Goes to the Fight and He\u2019ll Win the Whole Thing \u2019Fore He
+        Enters the Ring There\u2019s No Body to Batter When Your Mind Is Your Might
+        So When You Go Solo, You Hold Your Own Hand and Remember That Depth Is the
+        Greatest of Heights and If You Know Where You Stand, Then You Know Where to
+        Land and If You Fall It Won\u2019t Matter, Cuz You\u2019ll Know That You\u2019re
+        Right", "type": "Album"}, {"id": "a5699755-a6ac-4b27-9720-4c290689d1b3", "secondarytypes":
+        ["Compilation"], "title": "Tidal / When the Pawn...", "type": "Album"}], "title":
+        "Never Is a Promise"}], "score": 0.931698}], "status": "ok"}'
+    http_version:
+  recorded_at: Tue, 29 Jun 2021 13:33:06 GMT
+recorded_with: VCR 3.0.3

@@ -1,0 +1,52 @@
+---
+http_interactions:
+- request:
+    method: get
+    uri: https://api.acoustid.org/v2/lookup?client=<ACOUSTID_CLIENT_ID>&duration=359&fingerprint=AQADtEkyJVGSJFo2XId-9LgO3ciHr4KZHyWaHz2P-8SeB78O9HBjfAfKCxeNXIO2IV1fNDk-OXhy1Ie3wOSDCulHQs4V5HlxjUHTLUevIzy08Ijcy_gTMD989AouZJMPNYqMXNEPHmewnfiN68iTHJ8LoSH6oDR8BSfU78GmC9mW5NhfwGsOnD4aZcEXHQ_OHM11hP2hSwx8_MOrGY2O0Oh1wXcq9Cue4zm-HJ-P5qiOnOmhR6EQ8z3KHD-cHy8qKi-O4w_qw6M-xCOS40dj8cZ1_PjhJjmOH76xHomOK1OOSOkfhDuOJof2pTim5vDxwkeo48iPsjSOQz8O_C50HzJu-Eh_wDisrziOIx8e7YSe8Pgg8vgVZH0MH48WeDo-jHvwC9V-BLrQPEf4ZDjCHkefY4hp8EeNBx-Q5_ihF7pwHKZf6HgK_8if4jz84kd-4xZ8pJNhH1_xaAc18riqw9WHB_kCcccvhPTBH1yPfIoi44eOkD9cY3paXFmKEs5LPLtQ0dGRP_iiozoJ6zumUwgPfi9-lNK14XqGm2EQ5gPTHM9xF5-aI2qkHDdz9JmLM0ev5XgShcTFo9rQyCOSCtGPK-CP_0JTSQVPjXCpByEz6P2RHbWlg0qbI3fgH-WUD_oDhj_CnDnylOChJVfQKyGRPxTOoIzg6fAf5IGWp3gqxE1-hI9y-BCfIjwu0Xiu4DzKLDnCJIcexMyH64EfTviD_7iShLgSpEnzENI3XBnyok5OuDzmw8uywpWUzeiP4whnHorSHvljNNUShB9eHRUkVUesacY34tUx6foRXdCHfDhR-_h5nIf1GOclhLFy6OKEkGl0XC_eCtN2HY-xvcF5DvkCdVEyhD98HV1q_B_QH5meI-GPWtrxpcYT4SWOpl9Q9ci9Q1eiI0MoH3bxQixlxPiN-3il4_qJf4d5tD0u5nh0dFOUGHdy5EF_JP-CPjncBw-_4ZKe4E30Bz-qR8eDnDnqwyMvUI-hfcOD8PCRl4Z_OD0m6BIz4dCPBtW5osWB6uih5cd_7DmaHuFE9C6aLD1u_OjxHT_cH_GhKUf0oN3xHv1xLS-OX-jhtOiLyLjQC77hHvXxc0AW9TB_9KgP_zBPvCp84TDeIOyN7ofaXBqyL3jgB_0xhOYKLU6OH2eUo8yzQvyDaI_BK6gwMckLj0f1G_1xLYGPB6fyI50_dPrxQ8u5oEdXpJ0C3EGOC6J09LTwDz28ov_wJbiHXhBP-CFyhXgtOGKU4_Dxw1fwGf2DpHyEOEdvwjt3lFl7vMgPLSeaUCF-_Glw9EKf5dBPjMuLJ9zR1A-Y-fiPsDc8HSnED6GaYg0z4nvwPegP58cn_D_6qcFx5EfjHA6V0tD2EvE3nCd-NDwmasdDE9x1WFMjjBfuEPaPpH-Q7-gFh0fjBpdonFdQI1Ko6vihHyWlo8mOQ6p05EK3zcNvPId7TM_xfLiO4wpCPRXUfAn-FOHxpUf5HN8MRxMF68d9nPKONG9hE9oOfeGIJm4Rcke_wpPw5Pg15NwDPTlyVZrQHA--8Xh2ofkQPssaJA-Ff7iUHM0Z9JmL60d06HkQelEu-B6-Bn4Phg_2H99xJQlqLfiPMDp05MSTOB9mJXxR3UJz5uBzAaNzarh0_CnyHsLxohd8nOnxFdHxJccPXyPgT0Gfdbgv5Dm0_sifoDvyZIaWuDZCZsWsHc9R8XDyE71mXLjx4LnwCyfRPUEaphL0C7GOk0e9Ez9aHZeG90b6HF8nqIvy4S7cHz6058Fp4ZlyqEVTZ0Kf4Zeh_fAYCr8W-HhnTJIWXDkhvUKvIkyMLyHy5qg2ZhCfHD9EX8KNfEzx5vDB3McTXMlmPMsRmlCUOBdiPD_O49HRFD2f4e3QnEMoSx-6QUuUpMGZQfmNnjHCRAebyBvuKGjSHr1wHN-Rv4ROZJ54HEfPGMdpUfji4xScJyn6HPNxJfGJ5BKe6kOnX3h5pJFOPDVMlH2QX0HyoGKKKZqEizl-_DieIJmVF2keo7tx_PiFL6Xh4MSZVUXeQ_uD-EVZfMf1w_rwG_mFBupGeM-RffvhdC-ap7g6nNMx_Wji5Eh-5OrwJcvxHyfxpIR7_Lh5PCaa56idH9-H68GjHH0F-6h99DkaDn-QQxOnEEYqHjgOHz8OHO6Po0TxYz8u9Lrw40j0sBLyo8eVL7gOPjquMPBzRKLEQD3ySvhRiVmK50GbMEcptUgPTfmGfMfFY8eVPKj34Tn-E825C3yi4zx-g9dTnMrRTCl1hHIOiUUlBv6yBdc32Ect5tAjvLiMlxfaS7iUC1d__McUIT6PFw6j7fiIyBeabNFxiRtuo9mP0-B6NM9kTCe6y7Cmcuhb6JgkHc2UKTXir3h21Ecj2sap43HhqseTHL2QxhGSiJmUDM-P40UTKkua4D96HHd0XLqGfBk0rkf0H35m9MK_gH9wPFFM5IEWZXzQSwEgiUJMckMUQUYAgBQRQGBELCLIMCaAFI4BYATxjDAkCDKOCCAMA0wRaJARgghAkVASGGBEEwQCAMAiwAihhCNCAUUEEAAhAQDRiAlADCFcAKQAQkAiAxnQSBMCACDgEMmQQxRJAS6g4AjBrCZMBGMqNsIAYQAQCCknBASEIACQowgIIB5wREhvQPBUKAKMUUQAYp00AgGAgDLEMAKUA0BSIAAiDCCkkEAAKISIQ0I4IBSTCBgAkGBAAEScY5wYRoQQwAACEDBECCcUIAoNIQVTglAChIACIYEQIkgYBZEBkjAFCCAMMkMUYAgIgRQRxAgjgACGmyIUIIASYBQRxABDKAJCIAEQUEYZhIQDihBmHBAMIQsNIkAQQAAQRCCiBBCCEWKAAkQQAABABjAqCDNIUYEQMQYw4YAIjBiDAGIAQEqEQUYhIhBwBgkllODMUGaQoEAQBgCDBBkGEEAGEEAUMQoBwpQwBhljgDAKkEAAAYRYJKwkgBCihGBCAACYQI4h4gRwVAgBFMJAQGCYEQgIoABQwAgBAIBEKUSAAIAIQeVxDCgGiBJGCQiQQEIAJRAxAiADANAWISAZAgIpAwVyhhGhjGACEYEIMIYIZZhAQgijBPIAACOApIAIIJBA3BCAJAEECWIMAUIQrwQACAACAEKCIEEEQQIAUAxTAAiAgANCAIAIA8AAIBJlhhkggIOEAOaAVAIoIRQyWAkGhDCACaCQMAIyYwwwiCtECGAEUSCUEEoAQJQATBiCiBACCPIRE8ALTKAJwlEnKAeACAAAAQoZZSAgxhHskDEEO4CIIEYYZJhghhCgjAHCAACEsYIIJZxQhBihiGIgAAMABIAghIxTyAgEgVLIKQEEDMIASqgCxipADFAIAWqEMQYwIaUQIDADACAKARCAEQBQoIQgBiBgBDLMKAmEQkAhAIAEiDAipCGKCIYAEAQqQBQDhgmEjHACKSAMAsMBQIAACBgACGFEDAA&meta=recordings%20releasegroups%20compress
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      Accept:
+      - "*/*"
+      User-Agent:
+      - rest-client/2.1.0 (darwin20.3.0 x86_64) ruby/2.7.1p83
+      Accept-Encoding:
+      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+      Host:
+      - api.acoustid.org
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Date:
+      - Tue, 29 Jun 2021 13:33:33 GMT
+      Content-Type:
+      - application/json; charset=UTF-8
+      Transfer-Encoding:
+      - chunked
+      Connection:
+      - keep-alive
+      Vary:
+      - Accept-Encoding
+      Access-Control-Allow-Origin:
+      - "*"
+      X-Envoy-Upstream-Service-Time:
+      - '101'
+      Strict-Transport-Security:
+      - max-age=15724800; includeSubDomains
+    body:
+      encoding: ASCII-8BIT
+      string: '{"results": [{"id": "d10964e6-5655-47bc-9c3e-9e87d7a23540", "recordings":
+        [{"artists": [{"id": "b5fb0f1a-2cd4-4759-9d80-648643f70c43", "name": "\u30b7\u30fc\u30c8\u30d9\u30eb\u30c4"}],
+        "duration": 361, "id": "6bd67df3-5acc-4325-a0f2-4fddf4b0b7d8", "releasegroups":
+        [{"artists": [{"id": "b5fb0f1a-2cd4-4759-9d80-648643f70c43", "name": "\u30b7\u30fc\u30c8\u30d9\u30eb\u30c4"}],
+        "id": "d717a824-ecce-352c-b448-1deb02bd9309", "secondarytypes": ["Soundtrack"],
+        "title": "Cowboy Bebop: Knockin\u2019 on Heaven\u2019s Door O.S.T. - Future
+        Blues", "type": "Album"}, {"id": "ea45e38c-6882-30e2-b58b-a85945c700b6", "secondarytypes":
+        ["Soundtrack"], "title": "Cowboy Bebop: Tank! THE! BEST!", "type": "Album"}],
+        "title": "No reply"}], "score": 0.997033}], "status": "ok"}'
+    http_version:
+  recorded_at: Tue, 29 Jun 2021 13:33:33 GMT
+recorded_with: VCR 3.0.3

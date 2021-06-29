@@ -1,0 +1,127 @@
+---
+http_interactions:
+- request:
+    method: get
+    uri: https://api.acoustid.org/v2/lookup?client=<ACOUSTID_CLIENT_ID>&duration=310&fingerprint=AQADtMoyJlsyBk-mH8wyqSp85piuE9cX_DiOkImyRdBTxPxwwbImVJbw4M_xHGcQ2hfENEfb46UTvNAjoUMa7qiUHXn0IKnpoffhH4ftEu_hC29fVFtVPA-aJ0adB88x5VoD7fgSHbyTwz6-OZieEM2H5FeQP4NvzEqSbcWlxNiD5_BJXFKW4kmSOTjx7-g_-KqOQ2OSHBePHz1GKVkMasnwYzvKW5CTe3j0CKdyCc3RJ_mGizryROGhPYcW9UeeG6WMMjNDPPNxHVfQxEXz2HiEfwgz5kjG7KhTNI-GK0d-hDqa5McdnMeHb8epovnRJ2uGPJ6QnBeOS84FL8uEE0-Ne2g0JTnsMOiPJwo3HFPObCJ8sOKPVJIERRKl2MiDx3iWZ8HXDH3R_HgeOEqWHLcO_eh7NJe34Zl8_EdzWL7RK15w3Ic_PElu4cdJ-DkeXA_OLDOaSYGsYxJ23I6E68LJoZGy4Vp-IiFyPzC5U_j8wMmO8zn8Fr0YJNeRwx-uzniW5MHlG_umKqjko1FznF8RvkKyOFl67Dieo_LRCBdvXHdy5Mki3EKO55jCB5V0LQFfY2sTPMWZ4j8iadMDPUing-XRhxVW_fgeodR-2EdtF1eQPEmiGqHRnF0wpuB4BZOjG814JD_y42fxRG8SnMcfHBtl5D9-Q0eWdNMxyVxQ5Yf3DR-J4znQXEEOnciNnupQdugNHO6Hnj3invgDuUWe5cd8IzsloU6K4ER5BnESKke_o_ow5RF0Bs2PJ9lRKo0WdOVW9NCS88QfXEqCJzB5HMdhrMsD_nAN4PiP5_iBo3xgvhCH-HBi6mCOK8dzXD7Qn0JzhcV_4vqQH8lvdA--C4eddpnwHeiPX8AV1FIuMPEZPJiZB-eN5hk6D8ePOclRSUr0oFcyIjnCy7g61GLAKFHiwj96PPjxFFN2MUnxJIe7BNfhpxmqH8cZC_61oM8VBcmVI_we_BWepMerobkkoqePb_h-PB_OBOZ0HNfxHc1F1E8SnMeoRMmDV8FX_GjIFaU-hJCWp6iO8Lh69EZM50iaTAoTggnDw2OP6ejRNEL9okneIf6R5KCO_XiGH-dxIjliqc9wdC38wQ925Eci7cZvfCrmB3FDKF9KhFzjBPx2XDjCZ1DGpwj_4Lxw_EsxJh6YPsEUI7-C5A92-AKvEFcQ_biYB_qF7mjiHBpJ-EgPhMelHleyD6qe4sxwlA6aZcmKp3GgK0Fu_Ap8XMej5MQfG37xH42CZBfuYT_8PMGTNB10bUduUD-eVLjSaTn2aEdFEY0-GcnOBPFx1Mrwo3nQHzeHPD-S78SjHKMTvdjOBFeO5xIehE4kjzBPOCdlaEqk4zaO4NIjWEvizIgNnWHRo-mu4AmDHz8DXxhPnAqPQ0-yIsz04jGanHhwD_nWQke-l5iYwnGOPRr6z3iiZzjC_OinQ08DNpE65Bl3NEc__Ad_4Ud_RMpT6GFe5MpxLcSfSbhtFd3hXEe_4Dhs5Uc9Bc2VI_ihpRFCj8d9PMd9waEyGdfRTT2aOBH0YMrB5JjzHFev4DucB9_xIPqSQ6eeQD9--B1y6ngShJkcgjmU2-hVIsxTPD_OnGijIz03o9_xD3on5B9-9M1xwcyJHs0dYSpzBbEcQUZa4dNj_Amxh4ffIX8cqPeE8OHRPDjxE-6H_0UH30etCXt0guwFj8kxxIzYQX8KPzruBGGiHt2MH-kj5CIlNG8WBfXYYO8Fdyt4PL6CiE-hMROufkHo7Die40OVXJiS6QnOzHgOXkd0Qv1Qpce259CuIM-PJ8Wjr6C-4MRPJO1VIVKbD76Ol4Z9_MLqI-kfZImbCicu7Ah7I1l2_MF39CncZEeVSEF8IfmH4ygXO2hO48gNHcGPUM7RJMePJyzyY-qKK7qQRdmXgLsMLUf4oz-eo06O5_iGH9t1HE_i4tLmDNuJn0guIdPRR0YzXbgqCrlUaD_S_yibgFtufPrxFvwVFAnL6AitxHiYo-JhHZX44FFulENTLkZeSHqOHG8TBmuWqfBynNKRG5VfyGUaVMqhUYuGpgkPxH5wLxWiRZcY6DqR98HhR8e149GHS1_wHk2-4lVwPEHYVND4g0ny41wePA-Y9AfTvciP5ksDxh4enMsOW3jy4Cd0HBdc5niOOeRkPOckXBKamEHoJUj84z4TtGPQnE0jPHNQZ9GF5hn8YlQGljnWPjkaVTLeEpqyJMEPPBfe4c2F50gWHuEz4XkwHomUdEL040OPpnqwBzmN5GEuPEnEEpyYJ9iFpmlQ0XiO_IeuxMWNnbgCaiH2JEvxhEgn5cGzE3-Gzw3Oo8_RdMGTQ88UfDaGx0UT6iXqXMFzKcatcMS2J7is4UqCi6jOwCPHZJiQ_EcunEITsS5qXQGfYydyB--hi4mRP3gjPCHipSWmRyVEmSOYE5GkNUd6Itlf_OgZ-OnRBz-Js8eVJR2SS0OI5jZG5_jhMAlffD2eRYFPIc8HPb0RmSH-YPqOTJ8wilIOUTqqPgvORsEfiXgP54RcBj9-E306whElSkIfGe_wXHjQ7EdfvPjw4wyaPBvkZQ1yoQyHn8efo84iuOZRHf6B5MeTpQki3gsu5FwOha-QpzHK8ITXo0Z9pD-SC02K70KfUNjmHT7yF5qP_MTxo9QBIgBgRiACJCcGMUIcYIQR5oQ11AAGgLAQCUoAAIgZBZBxQAiksCKEIeQpAIBQAYBgBohEBCMGCCkAMgAoYYARChgEFGECASQYFAYgZJV0UBAkCBIOKAGJUQAxCoEwhAAShKJEEAAMM4QYhAQDiCAkCBIoCGEAYgxQCgXwHikCgAACCAIQIAQAIqlAAAADqAFGCeOZJEQAABSAAkQgGCNCGMKFAgBABAwTyhAhsGDAAWCIIlw4wBA3QADjGCGkMqFYEIIgJ4BgABsEjKQICeEUANAgZAC7zCBIiIEISAKNRAQD6hhBRAABCCAMEKAcQEhAiyAhhACF4PBIECSAIAYySwVhECIJhABGACYEQIA4AgjQBBGCqJTQOASJYIZAogwxCgEjmNBMGKOMKIw05AhhQGGMEBJGMICAcEwAY4gRAQBGnDAEEGeAoYASMAwgQkCGFpZAiOQQIEIZoQwwVggChCQEACGMYZwp4wBjyggAACHACQoMAkIhAIAFyAMHsAGMGUWAowALxAghxBBgiYKAEWKAAIwKZggAglFEADSKIDYAEQQqIAUCwjjAMAIAAKGUU5YwIAh0CAiAFCAKCAEcEAIhJJgRTAjFhBKEGEAEBEAAgYgCAABBgEBIESaAkQAJA4hyABgCCLgEOUWUBRIBwYAkACkDHEcAECAIIoIBhBwSjiknlJBMiCOYV0wpBiEUkhAjjJDGGcGYgcwJBQkQAihMmBFGAmAMEYYJopRBDBllAEQBAIkNcEYIgQTBQDKACDDCGQuRMAIAoRQAjhHhBFMEKWghQkAgCgwQgBGBgAHIEyYYEsgRx4gQVFmjjAGAWMCdAIoK4igiwhHBkHEGQgcAIoQARhAQBBlhCDJGOaIUocQyKhBSAiBFlAGEICMgQIABpYBhRgDBmGBGEKOUEEgJY4wSgCnEFBeGGAAFECQQopVhQEEEDEbKOGGAQMQJCAWRAA&meta=recordings%20releasegroups%20compress
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      Accept:
+      - "*/*"
+      User-Agent:
+      - rest-client/2.1.0 (darwin20.3.0 x86_64) ruby/2.7.1p83
+      Accept-Encoding:
+      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+      Host:
+      - api.acoustid.org
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Date:
+      - Tue, 29 Jun 2021 13:32:51 GMT
+      Content-Type:
+      - application/json; charset=UTF-8
+      Transfer-Encoding:
+      - chunked
+      Connection:
+      - keep-alive
+      Vary:
+      - Accept-Encoding
+      Access-Control-Allow-Origin:
+      - "*"
+      X-Envoy-Upstream-Service-Time:
+      - '195'
+      X-Envoy-Decorator-Operation:
+      - acoustid-server-api.acoustid.svc.cluster.local:3031/*
+      Strict-Transport-Security:
+      - max-age=15724800; includeSubDomains
+    body:
+      encoding: ASCII-8BIT
+      string: '{"results": [{"id": "5fe6c111-1db6-4019-a803-b5428a666b49", "score":
+        0.900646}, {"id": "1a22b4e1-e1d9-476d-a55b-4572925560b2", "recordings": [{"artists":
+        [{"id": "54799c0e-eb45-4eea-996d-c4d71a63c499", "name": "Ella Fitzgerald"}],
+        "duration": 309, "id": "28d191c7-6ada-46cb-aac6-93a47c6a8b3a", "releasegroups":
+        [{"artists": [{"id": "54799c0e-eb45-4eea-996d-c4d71a63c499", "name": "Ella
+        Fitzgerald"}], "id": "535cb0ea-b5e9-4d9a-9da9-d8c4d6dd1c11", "secondarytypes":
+        ["Compilation"], "title": "Hall of Fame: Ella Fitzgerald", "type": "Album"},
+        {"artists": [{"id": "54799c0e-eb45-4eea-996d-c4d71a63c499", "name": "Ella
+        Fitzgerald"}], "id": "3b0ce0a7-9716-3b7a-8a0b-21258fa734ab", "title": "Sweet
+        and Hot", "type": "Album"}, {"artists": [{"id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+        "name": "Ella Fitzgerald"}], "id": "506a52f5-4ae9-3609-87ff-ebd38835ea31",
+        "title": "Lullabies of Birdland / Sweet and Hot", "type": "Album"}, {"artists":
+        [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}],
+        "id": "a7b9031d-4473-3087-a570-5f98e7e984eb", "secondarytypes": ["Compilation"],
+        "title": "The Ultimate Jazz Archive", "type": "Album"}, {"artists": [{"id":
+        "54799c0e-eb45-4eea-996d-c4d71a63c499", "name": "Ella Fitzgerald"}], "id":
+        "72d6fc79-4e8d-3746-bb61-360216f0d6ee", "secondarytypes": ["Compilation"],
+        "title": "The Very Best of Ella Fitzgerald", "type": "Album"}, {"artists":
+        [{"id": "54799c0e-eb45-4eea-996d-c4d71a63c499", "name": "Ella Fitzgerald"}],
+        "id": "0aa9c581-9a19-46d9-86ae-115e42b1e639", "secondarytypes": ["Compilation"],
+        "title": "R\u00e9trospective 1936-1956", "type": "Album"}, {"artists": [{"id":
+        "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}], "id":
+        "f0510bd9-ee8f-4d0e-b9ae-8dc629104a5c", "secondarytypes": ["Compilation"],
+        "title": "Divas of Jazz and Blues", "type": "Album"}, {"artists": [{"id":
+        "54799c0e-eb45-4eea-996d-c4d71a63c499", "name": "Ella Fitzgerald"}], "id":
+        "01c48dcf-fbe3-3acd-8701-5fb4de3e0aee", "secondarytypes": ["Compilation"],
+        "title": "Ella Fitzgerald", "type": "Album"}, {"artists": [{"id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+        "name": "Ella Fitzgerald"}], "id": "2d01f1aa-7af4-3836-8b4b-7558d4ab30ba",
+        "secondarytypes": ["Compilation"], "title": "Love, Ella: The Original Versions",
+        "type": "Album"}, {"artists": [{"id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+        "name": "Ella Fitzgerald"}], "id": "b3e4c671-649f-38a3-9a66-2fb21af8d211",
+        "secondarytypes": ["Compilation"], "title": "Mr. Paganini", "type": "Album"},
+        {"artists": [{"id": "54799c0e-eb45-4eea-996d-c4d71a63c499", "name": "Ella
+        Fitzgerald"}], "id": "01cbc29a-1df1-4e16-836f-250b2e9f1cfb", "secondarytypes":
+        ["Compilation"], "title": "Quadromania Jazz Edition: Ella Fitzgerald: Airmail
+        Special", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "4142cabd-c7f6-3d83-b6c9-aa67a3e8fcf5",
+        "secondarytypes": ["Compilation"], "title": "Giants of Jazz", "type": "Album"},
+        {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various
+        Artists"}], "id": "61044b02-6b30-442f-9cd8-2fb91df75e9c", "secondarytypes":
+        ["Compilation"], "title": "De Pre Historie ''60", "type": "Album"}], "title":
+        "(If You Can\u2019t Sing It) You\u2019ll Have to Swing It (Mr. Paganini)"},
+        {"artists": [{"id": "54799c0e-eb45-4eea-996d-c4d71a63c499", "name": "Ella
+        Fitzgerald"}], "duration": 312, "id": "44b1f290-fe90-45df-9fca-16149fc0ec64",
+        "releasegroups": [{"id": "b80f188a-81fb-491f-9811-bcb8033ac8e0", "secondarytypes":
+        ["Compilation"], "title": "Greatest Hits", "type": "Album"}], "title": "You''ll
+        Have To Swing It (Mr. Paganini), Pts. 1 & 2"}, {"artists": [{"id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+        "name": "Ella Fitzgerald"}], "duration": 310, "id": "4d23529a-559d-4e43-a0ea-d8988321a2e0",
+        "releasegroups": [{"artists": [{"id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+        "name": "Ella Fitzgerald"}], "id": "c092bba6-f019-3f64-b4f4-c26c950f6ffe",
+        "secondarytypes": ["Compilation"], "title": "Ella: The Legendary Decca Recordings",
+        "type": "Album"}, {"artists": [{"id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+        "name": "Ella Fitzgerald"}], "id": "f7557e77-9401-3793-8da9-0a2f49cb4f88",
+        "secondarytypes": ["Compilation"], "title": "Priceless Jazz Collection", "type":
+        "Album"}, {"artists": [{"id": "54799c0e-eb45-4eea-996d-c4d71a63c499", "name":
+        "Ella Fitzgerald"}], "id": "229cc2dd-90d7-49f3-9329-bfb8185b843d", "secondarytypes":
+        ["Compilation"], "title": "The Last Decca Years, 1949-1954", "type": "Album"},
+        {"artists": [{"id": "54799c0e-eb45-4eea-996d-c4d71a63c499", "name": "Ella
+        Fitzgerald"}], "id": "d5fd223d-6458-377a-ba1c-6a665a83bedf", "secondarytypes":
+        ["Compilation"], "title": "Gold", "type": "Album"}, {"artists": [{"id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+        "name": "Ella Fitzgerald"}], "id": "4b3437b2-1a84-48de-958e-a7040494069e",
+        "secondarytypes": ["Compilation"], "title": "The Best Of Ella Fitzgerald",
+        "type": "Album"}, {"artists": [{"id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+        "name": "Ella Fitzgerald"}], "id": "0f9ebcc2-6ede-3935-92fc-b6f47fa7da59",
+        "secondarytypes": ["Compilation"], "title": "Ella: The Best of Ella Fitzgerald",
+        "type": "Album"}, {"id": "15ccaa6d-15ab-40d9-ba00-86f97f5fddc1", "secondarytypes":
+        ["Compilation"], "title": "Cole\u00e7\u00e3o Folha grandes vozes, Volume 10:
+        Ella Fitzgerald", "type": "Album"}], "title": "You''ll Have to Swing It (Mr.
+        Paganini), Parts 1 & 2"}, {"artists": [{"id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+        "name": "Ella Fitzgerald"}], "duration": 312, "id": "89ce1983-199f-4ee6-acb3-553ff988dd80",
+        "releasegroups": [{"id": "fe1c9c0d-6c45-4d54-85cd-8c02cc25ef71", "secondarytypes":
+        ["Compilation"], "title": "100 Hits Legends: Ella Fitzgerald", "type": "Album"}],
+        "title": "You''ll Have to Swing It (Mr. Paganini) (If You Can''t Sing It)"},
+        {"artists": [{"id": "54799c0e-eb45-4eea-996d-c4d71a63c499", "name": "Ella
+        Fitzgerald"}], "duration": 310, "id": "ed44498e-26bb-4ae6-a107-679370d254c0",
+        "releasegroups": [{"artists": [{"id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+        "name": "Ella Fitzgerald"}], "id": "c4421564-ad0b-440e-8381-235053928c99",
+        "secondarytypes": ["Compilation"], "title": "The Complete Decca Singles Vol.
+        4: 1950-1955", "type": "Album"}, {"id": "34fa1520-e01b-389f-bbf8-a695ff7b436a",
+        "secondarytypes": ["Compilation"], "title": "The Diva Series", "type": "Album"}],
+        "title": "(You''ll Have to Swing It) Mr. Paganini, Parts 1 & 2"}], "score":
+        0.657107}], "status": "ok"}'
+    http_version:
+  recorded_at: Tue, 29 Jun 2021 13:32:51 GMT
+recorded_with: VCR 3.0.3

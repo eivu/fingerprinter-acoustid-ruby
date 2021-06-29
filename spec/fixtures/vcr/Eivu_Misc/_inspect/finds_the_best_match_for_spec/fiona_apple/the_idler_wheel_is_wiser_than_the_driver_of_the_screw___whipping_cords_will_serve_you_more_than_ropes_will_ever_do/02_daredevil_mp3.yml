@@ -1,0 +1,50 @@
+---
+http_interactions:
+- request:
+    method: get
+    uri: https://api.acoustid.org/v2/lookup?client=<ACOUSTID_CLIENT_ID>&duration=208&fingerprint=AQADtEmSREkiaZGUBI18HOfRHv5-4JIBUIItGj9yHHZj4T5O-Izx4zAfnEivy5Dn4MhFcJdx8KANf_hm5MdzwpMYaPkifLvwRhWeZFKGUJRdvMzxLcOPMw2aZ8TxFD-458FM4nmKPDkcKoQexA9xnvhxCX9w6UKzHMmeHtHxB1dIXMyPR9fxoM0O7wjPQHl5JH9SPCvOtPCTF19GXE_wnIRzIs6RPMcjeFlC4cSePAN_qaDzHE-PpH-CMD96FXvgM8c__MqEPnmGJjmDK9yRc0iOH2UWHU0kMWEGN2XwCj8uTMmSihZ41cbqmQhvIfmOS7nw8EmRfEKYBzWPSsqCZvnwYzz4G0mO3MGT_EWfH01y475wJXmKD7uyBDmJarHBROzxRckRXRseRtiqHk0O5nKQL8VdaEmPKg_yXnjlGLkoXBCdGvlBL8eUkZnwr8J2Zugug3UATUwuTDaOsjua4_hwTkEyPcmFi4lrNEr2DXq5I8_hXDiDZ4ngNImy4-mc4NEjYl9yBU-8IT80-DkRpzWcPejlo446NJ-q4CfYBmd2Fc91jI8lXMkPTwnxPNHxbIL_BX9w6ogTJUpio-Xh9QiP9zl-JfiOv0eYQ2MXhGGOK8pRPRWOYz94G3ry4z0a_ago5nhyXOHxxEKPJw9w-fgNM7KEHyuLczn64Any48zSQGNGJZIQ5lvwMniS4UceTHyhhTfo6MN14pKIrpqFJhf24T_iH98RaYRzaEfWicUlntgj_PjxKE-KH7EPUc-IXwpyTTYuRcbx7uiZoMdj1BJ8DT1ycT2eQ7mUB7yJKSeqQ1sIMzkq6Tj6BM2RH0-cCc-PniPSXNCeIO8x6njeHM_RHNOH50WthBvCxEMyJV12mM5R08IVLU1Qkl3QcMRL4nRQ3UcSpWlwMvhxQo8qKbhz_McDJj-NUsrSQW8HntCXVAgfHQ1zPEZFL0IjvSlOKdgP_3hPNPmOZAyXIxcu2N7xJ3gu4vKJPwpu5FmQ7AuT4Mss4Xyx73COPsGPI3-g6xLyPIabMDgp7LnwGz9uRcOjikFEPcePpw_8GbyYCTpySQr4HP3B5Dm-o7ukqGhCVUGr9gjTF4m8hJLRJ7hYUPpRfR8epkOeHImSoyeuPBPOHE2jg7lZXLmi4OGHH3yQnoeeHKeCMFfEHD1eNM-iHuXCD8dnNPoijQh1PAcdMQ7Ooz-aOsczo4euw2WSEeGDS3gmE_-It8bPDP4Z_LgNLlou5MyQnBlm4Q_2XBmOJ7iWHLmQHFUeJsFz_OCPT8B1JHwR_gmeLthFPMfUD3_QG_-JamwUClnyQmKO98QlmAsn5OCJmkmIfsd_PCEuJ1GQn0L_QssVZD_x9KjE3NhIeCT643gf5LtxHOKFq8N5IpIv4kyOVwR_UOSOX_hBycqRU2KxTVF2aHWInPqC38CjH_lniEd-hviIH8nTIJfxPAkcX7hwdUnwJEkQZg76Qj3eB_k1TMl2_EMaKOLxIzcemFmSHKeCU8iZQs-OeMeR75sm6EkcCbHV4H5RSR-aJFke5D90DjlwmcIeVbhPvEgZZYLy1Lh-VE4w5Xkgt4hFdkeb6Jgy6ciD5D7K7ZjCaEcv-MePPwwRw9cL7cfzI057VJNwPEsDHD4xckmCZFGFWKfwPHjww1UY_Ec-JH-Kx8KP18Qzp8aUNDxcBX0WZmDOozlG97hT_DrSy4R3JM8yC1fYoEmtfKglHW_2CM8UVLphZuHRE2eQdFw0IdeSoVkfVC3R90iWE_kr9A5qBT9-hF58JFEWLQ0xZXJq9DUeZ_DL4EmOZ3-GPbiV4yku-DF-8I_QdwjTDze1w2pwBXqTE_kSbBWPN93wH38w5XxATkFzHbsSJD0aNyHa5dA_OMIzKS2-6HiWCWXy4jqS5ccn_BFGHVxoMEYvPBFyIXl2fPrAf6jyPGjyjMJ7HGE2sYfW5RhF_TiJ_0bzBxPZQQ8aykcrsEff48Jk8XiqDF8OVTue4zwDRae4QMyPKh4uIp_xHEfjo5aOaoZ1HS-CpNzhnA_e4Mc_7MNXlMST4cF1XD3uJ4jTPIGWXwhvPLgSBw9ajksEz-NwCr5khL7xLIaeo6lR8nj2QXkWI8t57MSPDuVg7sGD6gtufCdykWgTUcLHQLyOUBde4fsxf-BTNH_APOtwHRWTVUgyHfHxdE4CY5tE4mEMdwfzo1cSGBEvWHlQfcVdPKHRTKJRHVE7nOOLC-ySB-0eXJYLJ0zUgnnxHtcR9gvE_fiQRQlT_Phy4VL6IszDogsJdch_fB_6dMTTUzCoLclxCheVwzmS5hVCXI9QRsdW6riaYIqTF8flHZ9VhFF0VJehH3-Q80HpE2mu5GBWqfhxKReu6UR5I0wcJbhk_MKDMOuhPVaQC_zwNDou6niuIYf2GNFC46KOMfPxox0fzH3xiEe94yeSqD_yo7lEMM6D8-iVo4kk4jp2ZWmI6jKSRT1y5Yxw9sGjY8oTHdV1PDEDMtqFcHoQZmyDXfiL6Rl88AyuHAmzOJqCSHxQb4Hdoz7upcmQN4N2eELV5NCC0MpS1FpIeFF2XNmP5lKKZ0f1oFGDPDSDD7q2FL6IJzn-QbwqfElcaO8RJmSHR9FjWLhEzPzRpB8Ya9OIPRmDBvXxLceDJs8ThOdx4nnwzhl83MeoWA-ypcmLi0b0BlqmG2Fx93gTNsHZEc-GI_yg5USc8jiVxfiJU_B5PMkzvEao9ZhSC3LK4i-iZjoaFhUVZUdkCuOWBAIIJwijQjHgLANMCAooaQQJrZwAgkAFEDMMeAiNAYwQhKxBwgCFiFACQAgYEAAQgogQSCCDEBIGGWUANxYSgohQAigjBBQKMOQMA4QgotAAgDPHgCUGEIIgUkpASowzBgBBgAEGESUEA0IAAQ6TkipAFDFKAQCAtAAAJAQAxABJCCECKAAEUwYQIgxggggACEEEEGAYEA4hR6AkQhhEHGAAOaKEZ8IJQAAhBAKlIIFCGUKAJQQogwwlTCCkpWBCIQAUEcYAASwogllBhSEKMQIMQZQIKbwBAhBnADRCKaqEcAQZQgQByhEhGEIEEaQIYUYAKDRBABgFgDAAEeKUYAgAJRgQzCSAEAPEAGCUMQIKZ5RjxgkFmAFMAWEVQgJRAZQARihnAECAEUAIgAII5QEUECAiBBDCAcUFIBIJYCUABAZAGWQOEMIEM9oAYJgBAjAKoEDKAOMYMk4ZpYAE1EFjjKACMCmAAQpAAiARBCgAEDDCCMEMApQoCApywDCBDEFAGSeEAIQ44wQQFAlgAFPCO0AEYYYjIoAwQhFCnGGAIgEUYpAAgBQhRAkjSTOEeEIAIwAAK4kSQDkAsDDAEGYAAoSZoIgCTSojDBMEMgKEEIACAQgDFCAghKBOCWcFMQAJxxDQxjGAABDAMQIZMAwoAADgABChkBLGCgAUMYYQQABjiCJFjFECSmCIIYAA4wwCQgABhEAACSeEEgApaRQBAgEkKGBPAGIhENYRYIVhkFgjgAEQAMMoBUApRYkxxjAgEAnUOGOJAAIwohgxAgFhiRIKCiENUgIQJhAQShCFAICMAAUAMAoQJhQQhiCjkEGOIEYIYAJhwogRQChNgCACKUSMMAgQgAgDVSFGHDBIECIAEQQgoIwwTAglCAAMGCAcItACqIghzCkjpEAGAQCYMAAApAgThghggAEGGQOoAgQQRAChhAKDiAFAAEQuVEBJCoQyiClFFA&meta=recordings%20releasegroups%20compress
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      Accept:
+      - "*/*"
+      User-Agent:
+      - rest-client/2.1.0 (darwin20.3.0 x86_64) ruby/2.7.1p83
+      Accept-Encoding:
+      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+      Host:
+      - api.acoustid.org
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Date:
+      - Tue, 29 Jun 2021 13:32:54 GMT
+      Content-Type:
+      - application/json; charset=UTF-8
+      Transfer-Encoding:
+      - chunked
+      Connection:
+      - keep-alive
+      Vary:
+      - Accept-Encoding
+      Access-Control-Allow-Origin:
+      - "*"
+      X-Envoy-Upstream-Service-Time:
+      - '57'
+      Strict-Transport-Security:
+      - max-age=15724800; includeSubDomains
+    body:
+      encoding: ASCII-8BIT
+      string: '{"results": [{"id": "83c79e8a-cc32-4a27-802c-d0c509f6087f", "recordings":
+        [{"artists": [{"id": "a9ee533f-8871-4f62-a6bb-91eb264abc90", "name": "Fiona
+        Apple"}], "duration": 208, "id": "d0bcf565-091f-408b-8fa3-1d45dcd26098", "releasegroups":
+        [{"id": "6086062c-f943-4b85-b1cb-43558425ec1c", "title": "The Idler Wheel
+        Is Wiser Than the Driver of the Screw and Whipping Cords Will Serve You More
+        Than Ropes Will Ever Do", "type": "Album"}], "title": "Daredevil"}], "score":
+        0.998022}], "status": "ok"}'
+    http_version:
+  recorded_at: Tue, 29 Jun 2021 13:32:55 GMT
+recorded_with: VCR 3.0.3

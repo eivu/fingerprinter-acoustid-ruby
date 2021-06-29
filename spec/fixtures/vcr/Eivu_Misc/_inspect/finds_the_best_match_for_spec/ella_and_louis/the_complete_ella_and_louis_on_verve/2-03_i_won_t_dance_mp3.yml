@@ -1,0 +1,140 @@
+---
+http_interactions:
+- request:
+    method: get
+    uri: https://api.acoustid.org/v2/lookup?client=<ACOUSTID_CLIENT_ID>&duration=287&fingerprint=AQADtAozRZKkRcibBok-G7UYTPnxTLgUHd0SHf5i3PzQHPnwBBqv4stxE2KjF7Up479w5lIK64V83EitnMInB9cD7DmeHLzyGH2jwknuDH2WQs-HNfrR3Amc50HN42Fy3IKetRkepmxw_mgc-EvR40bCM8iP_ccTPoajLMfVHG6Ss_iR9UGZKimmJA8FlTlqpUSY78UZjM_xMCW68A8cJkwEd2OGE1mYHw-US4GWax_6BRE7cBHyJ8KTSUHCC9c8Fk-e4o_gdRT-JMH_wD4S_cib41wD6glOjDmDS3vQNFkOn6jSy7j4oDmSXTry6Lh0tI6xzUfzKMFzCemXI9GYHqxkYmYeI9CSI_S44wteIo2yxEiuRMGd43wwZTn64ErQcD1CFgnsG5zSLg6uxQL5KDn6DM0SUUdS_cjz4Cd8fHEUnPtRposS_EpgVZOR8Ec6RZHQRsfTqbi6oOGOsrjSI-VwLYf65HjqY3uWCTm-H1MmZTmS6NORa8ePZkTlD9-URqgTKYOyHJVMPCMeS8ZFy7CbcEjeHHnU3GCOpgruF3nk-FCV0XiOT_PRLHEaSHmOI0ekC1p2BXmW6Hh6JYHDG891_DgxXfCV4w6aJpKO5MyRC18xPkekNIFGzReyprki_GlCPALVnfgS5AUvCjqqB2GeHnlS0HmxB0LzCz1f3DjCS1SE5nOOXCJy4dyuYoqiHFcegvk4PD9-9Cl-pOchhZYo5NlRLtGP5niwI7xmXBd-aDy6wx964xvyb7iFskcq3-hT_BHC484Hu-iZFn2voZl05MvyDKqOMD_64BLT4J2MMJoPTVsy5C9KNcJz4cdxB2lelH2h_Iilb0Hjoz72P3jg5YipLIaaRUO-Z8WP57iDHzGTPHikJ9DfBs1Rb4EaKSRyOUefHP6HPI9RHkmZDz8alTn6HX8Y4YlOdHyCVDMP7UEe_E-Eb7qCXTnuo1FfVE0e4ZfwPDryH3scaD_SppSCSjK6BGHi41mhH_UJby-e6PDVY5fwNxATH9pxPsiTXPjz4MwR7T3-Q5H7FI2tBLtkE4ryHNUf_EGev2iWJagT68hdHTqyZEwUtDuuB6zCMWh34gyR62ByadC3GE94PJ-O50SYHLXC48nRXOg1zMUVhDmPPg-eyMP7oxaa_Xhn6D_CNKcQiqOmFHKyL4h1TGgm_niSKE2C_4Hz5eBi42KO_IPo0Mjz4zlm5tj_4I4FRkm3Ck287vgKHumkfNCTFnnQK2h24UpcfIpxRXdwyphTRMtxFb6gp06wJdERK0nT4PCTCBdO5FvUoI6cREiWZXg-4mGxS8ED3omDM8ez53iOZPqQPikOR7zwSMkVo9mDT8cR-iXSZXlwgx9Oo2qjCE-MnF-Q8Au-LTWekGiOSWi-RQi_KkXy5METwWPyEU_x9XDY41mQ_0j44tHxBmeLZ_nx6PBDfNTxLIl4fDlyvPiJzzgTHnpx6dDVws-NJ8mPS0mu4Cm0nA_6BM-NS9EnNBeqp4McUkeuHNdOFfvRcNlFlNJx4yL6JSLCHDr1FFyOm0a_xKh7_Iqga01APcGPvSEhRoqOz0S-JUclJlwUNOdI5GR8JN-F5lmKcuEkTKZ1NDme402UG1SOBJHywH-IdjP2pDnwg3thHXly5piXoztCbxmLH_lz6H6EPGNiCqdCou_wC-N3PAzSbAfDQzGJfD3-cWi-C7fgKguqRrjEHE-oUMR15HFQanswhQlOQ8vDxgg7H_Xhw4w_dH6E5pdQ7cgKHbmuHLeLH-8SWZglHWF4IRm-4W-Eq03QDJWPj2jC5Ch5XFyT4FZ27MpqkE8x6seTWkFyMU0QZlJQZ8Zxj_AvXDmjYFY0nNGRJ0XyHk2VUCiVzHiWKBGc_MF_aWg-ob5Q7jAj8oHjHJ2e42B2NCWuTB4mScpT-CmaD_lxQdEUHWHSgz96mGOKsjvxC8-DXJQgxswU5Ec9o4mr48sdtEuJMNMD9cgZqUauSIdoxLTxrEzwoHlQDz_OIcy1QQqfID-mzA_6H8eZEI-P5idCBjqvIMxzHfV5nDlxB4-jIdKTQ8t_ZNOD_8gfXKqUgH0MPQy-DmEqnZieFveFJloRTlFwSUd_aKkTIh9-PEPToEz0FFfn42UewssRS1eD5OmPPlmKJs_x4wkTzGnAfGjODHwu9BEmKnmN8xZyR1GNfjnKQ8-NKz7-4LFepIqPb89xfBsafkfJPcETHZfDHXkOLRkRXkEdKkLT40Wvo9nxLBE1jClzJNMR5sLuNLgyFWWWCs0_vIj2VIKaSNkRL1FR8guaS8KlC3wW4jkcHXEOnUf2VWiaHxPl4mF5_FHgPDnyP9CViES-7YWf4sceo1ln9A_CG-KJfGmCKb2y4eXwKDiV5EgucUf-HGUOR5Jh6x1-_Nh-9DF-cHIcfIxBpiPyC8ozFnmO2sELXw_6vMgNbQ3ihvnxbGmGS4uOfDp6PIdCij60J0jHHI4fFWRSF3eSHM1T5IGKjNGDK0ou1Dqaq9iVqHh6XNosogob6ghT-kj-4UmIv8Gz8OgPv3CYBpZH1AxyqsenMA7y4w-mLEd4PccjYpKlKEyg5ciV40l4PHpw4cuKJ8cT5bh6CWGOvtC1TXgS5OKLZyf6IEweD3KU77iSQycmZlnQ7Da4R8hzYjp1dFOW4Uae6MKdY7ucgPvxtBA19ThzNIvHQPuH-3iaomsehIm941k4He8T9HmQ_xDD9JiU44_x44v0olYWaLl0PKklPCMercLro1muodQVQRc0xWJUNKVy5NpxvXhO1EqLPNHRPMejHC-2C3GOcx-OS_txxcSP11IRM8lhzTliMTP243hrPMkT_GhO9FnwI1ce2Dn0CeGlCU206EF3o3nwn2iOfpLw4zaHrnjQ49fxZDrOo06NXMyIoxkP_RJiUcOpHM-P5uiS4_rxjchTaLkAZJAgBCABADAIGkQZAIIASoBgUBiAEBBCCCIVQEYY5AAQACABKqBEKAIMQgBoxIQFghFFDCBCgIsAYUQSYpABgiEAgKFIIUMaAEAYoJBCRhBBIGCCKWKEYAABopglCBBiBCBKEcYgIkAAp4AVABBBBBAAAGGIQYAIIoURlAAEiAAaIAAYIkAw5g4QAgiEAGLOCeGQQAZE4QQQxDEBHBNAGKUFEkSxAYCjADAACBIKMcWUEMQAgRkIABgnMHRIEEOQgsIhIQAwxAigCAFCMYQYgNYJAwAFRhCmCDDMUWKBEkYIIJSBBAjoCFKMCIKIMUQxQAAQgioDCDIEGCGgMgY6hBQhBBgJELRICEqAYEAYZgQQgAhhAQAEGIAVcYYowwgChAhBrUNOMgiEQAAQAYABhCHhBDFECECQQUAZQDAiACAAISTgKqCQIFQC5EBh1AjIDASEECOAFsIcAIQjiiBCEBFCCgQEIYoQ6gQETAjjmCUEAWqgAwggIxkAAgDJjBIAEAEABUwgQAAwwiBAhAJGIYKAgEAApBAgDlpBABKCACCsJAI4SYQB1jEoBJCEEQAIEAIAJJAQCBRFiACUMAEBBRQopxQBQhAEAEIAICgUQhQJJggyRCBDJAFCCGZEAoQIAAAzkAggODTIEiYBtgRZwAyBAkBFiLMCUMKQgkgQwgQRBiIEEAECEAAAIFgIAIQRRAgDDTNOGSSAAYpBBw0QAkBDAFASMAMUIMQCYIAgkiiEmCJACCIUMQQoQwA0khEEIAEkCgIARgQwZghBjiKCCCCCAQIAEQAABKQjUgCmCAEAAUCQI8g5pQBh2ABoJFBACIIAIEAAohQlyhEgkFIAWIIIAkAgxIghQlhtDDCKCCAEkFgAwRjgECmiAOAaIYEIEIgIoJCRzAhChAGKAIIAUUYggQggghAlDAAQMoMcIQwQpgBAiAFECCHMCOMc4FACQhEAjkBDhUGgIYEQEEQZYgQhBAGANAMUMUMAEoYRI4ZgQCEkLAHAOAkB&meta=recordings%20releasegroups%20compress
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      Accept:
+      - "*/*"
+      User-Agent:
+      - rest-client/2.1.0 (darwin20.3.0 x86_64) ruby/2.7.1p83
+      Accept-Encoding:
+      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+      Host:
+      - api.acoustid.org
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Date:
+      - Tue, 29 Jun 2021 13:32:24 GMT
+      Content-Type:
+      - application/json; charset=UTF-8
+      Transfer-Encoding:
+      - chunked
+      Connection:
+      - keep-alive
+      Vary:
+      - Accept-Encoding
+      Access-Control-Allow-Origin:
+      - "*"
+      X-Envoy-Upstream-Service-Time:
+      - '75'
+      Strict-Transport-Security:
+      - max-age=15724800; includeSubDomains
+    body:
+      encoding: ASCII-8BIT
+      string: '{"results": [{"id": "90a4c0ff-5aaa-4c8a-95d8-b9b9af75e9ce", "recordings":
+        [{"artists": [{"id": "54799c0e-eb45-4eea-996d-c4d71a63c499", "joinphrase":
+        " & ", "name": "Ella Fitzgerald"}, {"id": "eea8a864-fcda-4602-9569-38ab446decd6",
+        "name": "Louis Armstrong"}], "duration": 287, "id": "0a8220a2-d942-422f-94ce-eb5b87bb261d",
+        "releasegroups": [{"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "8c503e18-24eb-4acb-8f8d-65df8ae8102d",
+        "secondarytypes": ["Compilation"], "title": "Verve New Releases", "type":
+        "Album"}, {"artists": [{"id": "54799c0e-eb45-4eea-996d-c4d71a63c499", "name":
+        "Ella Fitzgerald"}], "id": "3dcd39f2-5c4f-4043-9534-9581e7191a30", "secondarytypes":
+        ["Compilation"], "title": "Six Classic Albums, Volume 3", "type": "Album"},
+        {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various
+        Artists"}], "id": "99607328-e7de-4a72-a54f-200a1418ef87", "secondarytypes":
+        ["Compilation"], "title": "The Complete Jerome Kern Songbooks", "type": "Album"},
+        {"artists": [{"id": "54799c0e-eb45-4eea-996d-c4d71a63c499", "joinphrase":
+        " & ", "name": "Ella Fitzgerald"}, {"id": "eea8a864-fcda-4602-9569-38ab446decd6",
+        "name": "Louis Armstrong"}], "id": "cdfb0201-8ffc-3a02-b42a-4abd66be7f01",
+        "secondarytypes": ["Compilation"], "title": "The Wonderful World of Ella Fitzgerald
+        & Louis Armstrong", "type": "Album"}, {"artists": [{"id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+        "joinphrase": " & ", "name": "Ella Fitzgerald"}, {"id": "eea8a864-fcda-4602-9569-38ab446decd6",
+        "name": "Louis Armstrong"}], "id": "45aa0e31-ab75-4605-a3a3-f650d4fa4229",
+        "secondarytypes": ["Compilation"], "title": "Ella & Louis: The Complete Anthology",
+        "type": "Album"}, {"artists": [{"id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+        "joinphrase": " & ", "name": "Ella Fitzgerald"}, {"id": "eea8a864-fcda-4602-9569-38ab446decd6",
+        "name": "Louis Armstrong"}], "id": "6db7efe4-acd8-3063-aa1b-fb2890273652",
+        "secondarytypes": ["Compilation"], "title": "Jazz ''Round Midnight", "type":
+        "Album"}, {"artists": [{"id": "eea8a864-fcda-4602-9569-38ab446decd6", "name":
+        "Louis Armstrong"}], "id": "a0814c62-3f7c-300c-820f-c14672574642", "secondarytypes":
+        ["Compilation"], "title": "First Class Jazz", "type": "Album"}, {"artists":
+        [{"id": "54799c0e-eb45-4eea-996d-c4d71a63c499", "joinphrase": " & ", "name":
+        "Ella Fitzgerald"}, {"id": "eea8a864-fcda-4602-9569-38ab446decd6", "name":
+        "Louis Armstrong"}], "id": "f9852699-5df6-4ac1-8e76-462a68ec321b", "secondarytypes":
+        ["Compilation"], "title": "16 Great Songs", "type": "Album"}, {"artists":
+        [{"id": "54799c0e-eb45-4eea-996d-c4d71a63c499", "joinphrase": " & ", "name":
+        "Ella Fitzgerald"}, {"id": "eea8a864-fcda-4602-9569-38ab446decd6", "name":
+        "Louis Armstrong"}], "id": "7108712f-b350-310b-9419-232dceaaba00", "title":
+        "Ella and Louis Again", "type": "Album"}, {"artists": [{"id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+        "joinphrase": " & ", "name": "Ella Fitzgerald"}, {"id": "eea8a864-fcda-4602-9569-38ab446decd6",
+        "name": "Louis Armstrong"}], "id": "6a8ec885-544e-3b31-859a-a73289a01421",
+        "title": "Ella and Louis", "type": "Album"}, {"artists": [{"id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+        "joinphrase": " & ", "name": "Ella Fitzgerald"}, {"id": "eea8a864-fcda-4602-9569-38ab446decd6",
+        "name": "Louis Armstrong"}], "id": "37012d18-8647-3648-87e7-7a66423b863b",
+        "secondarytypes": ["Compilation"], "title": "The Complete Ella and Louis on
+        Verve", "type": "Album"}, {"artists": [{"id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+        "joinphrase": "; ", "name": "Ella Fitzgerald"}, {"id": "eea8a864-fcda-4602-9569-38ab446decd6",
+        "name": "Louis Armstrong"}], "id": "da875444-e0f7-4f1a-b6c6-621329eea2b8",
+        "secondarytypes": ["Compilation"], "title": "Autumn in New York", "type":
+        "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name":
+        "Various Artists"}], "id": "7a9887c9-e021-432c-a6a5-7379b7642642", "secondarytypes":
+        ["Compilation"], "title": "Verve New Releases April 1997", "type": "Album"},
+        {"artists": [{"id": "54799c0e-eb45-4eea-996d-c4d71a63c499", "joinphrase":
+        " & ", "name": "Ella Fitzgerald"}, {"id": "eea8a864-fcda-4602-9569-38ab446decd6",
+        "name": "Louis Armstrong"}], "id": "0cbe776a-d90b-424c-bd31-a87a42025821",
+        "secondarytypes": ["Compilation"], "title": "Ella and Louis: The Anthology",
+        "type": "Album"}, {"artists": [{"id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+        "joinphrase": " & ", "name": "Ella Fitzgerald"}, {"id": "eea8a864-fcda-4602-9569-38ab446decd6",
+        "name": "Louis Armstrong"}], "id": "c70ee463-c59b-4146-a887-75d0f3b2b531",
+        "secondarytypes": ["Compilation"], "title": "Original Greatest Hits", "type":
+        "Album"}, {"artists": [{"id": "54799c0e-eb45-4eea-996d-c4d71a63c499", "name":
+        "Ella Fitzgerald"}], "id": "ac395758-fc40-4070-90c3-f39d5c1a29d8", "secondarytypes":
+        ["Compilation"], "title": "Jazz Lady", "type": "Album"}, {"artists": [{"id":
+        "54799c0e-eb45-4eea-996d-c4d71a63c499", "joinphrase": " & ", "name": "Ella
+        Fitzgerald"}, {"id": "eea8a864-fcda-4602-9569-38ab446decd6", "name": "Louis
+        Armstrong"}], "id": "162346df-76e5-4cd7-9169-f047b61421d6", "secondarytypes":
+        ["Compilation"], "title": "Ella & Louis", "type": "Album"}, {"artists": [{"id":
+        "54799c0e-eb45-4eea-996d-c4d71a63c499", "joinphrase": " & ", "name": "Ella
+        Fitzgerald"}, {"id": "eea8a864-fcda-4602-9569-38ab446decd6", "name": "Louis
+        Armstrong"}], "id": "b73140b9-24ce-3c9d-a529-6609692f5f6f", "secondarytypes":
+        ["Compilation"], "title": "Compact Jazz: Ella Fitzgerald & Louis Armstrong",
+        "type": "Album"}, {"artists": [{"id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+        "joinphrase": " & ", "name": "Ella Fitzgerald"}, {"id": "eea8a864-fcda-4602-9569-38ab446decd6",
+        "name": "Louis Armstrong"}], "id": "50fece99-77bf-455b-97ae-aabb9a848b8b",
+        "title": "Ella and Louis", "type": "Album"}, {"artists": [{"id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+        "joinphrase": " & ", "name": "Ella Fitzgerald"}, {"id": "eea8a864-fcda-4602-9569-38ab446decd6",
+        "name": "Louis Armstrong"}], "id": "c4d57285-84d5-4413-8118-b92f402ad1da",
+        "secondarytypes": ["Compilation"], "title": "Cheek to Cheek: The Complete
+        Duet Recordings", "type": "Album"}, {"artists": [{"id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+        "joinphrase": " & ", "name": "Ella Fitzgerald"}, {"id": "eea8a864-fcda-4602-9569-38ab446decd6",
+        "name": "Louis Armstrong"}], "id": "24577902-0198-3733-b1cb-f10e8c2abb05",
+        "secondarytypes": ["Compilation"], "title": "Ella & Louis Classic Album Collection",
+        "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "202de15c-86d4-4b5f-82b2-3f047e2ab0ac",
+        "secondarytypes": ["Compilation"], "title": "Jazz Divas", "type": "Album"},
+        {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various
+        Artists"}], "id": "60c59696-d145-4daf-b969-9e5f6ccc23a3", "secondarytypes":
+        ["Compilation"], "title": "In The Cool of Evening", "type": "Album"}], "title":
+        "I Won''t Dance"}, {"id": "135ede66-e31c-4db9-b1fb-59739c441749"}, {"artists":
+        [{"id": "54799c0e-eb45-4eea-996d-c4d71a63c499", "name": "Ella Fitzgerald"}],
+        "duration": 277, "id": "306de598-c066-4e97-84ac-70e98e581d88", "releasegroups":
+        [{"id": "fe1c9c0d-6c45-4d54-85cd-8c02cc25ef71", "secondarytypes": ["Compilation"],
+        "title": "100 Hits Legends: Ella Fitzgerald", "type": "Album"}], "title":
+        "I Want to Stay Here (I Love You Porgy)"}, {"id": "90b59d8b-7122-4148-bc76-36ebc9a7ec93"},
+        {"id": "a2f544d0-af8e-4e49-8f16-22fd7fe6f903"}, {"id": "be6ba5c7-993b-4439-9437-157f7779e006"},
+        {"artists": [{"id": "eea8a864-fcda-4602-9569-38ab446decd6", "name": "Louis
+        Armstrong"}], "duration": 287, "id": "c74f15e0-8c02-4c64-a8bc-e0aafcb2138e",
+        "releasegroups": [{"id": "9c8ab851-c89f-4c0f-9a1c-35f22e78b741", "secondarytypes":
+        ["Compilation"], "title": "Milestones of a Jazz Legend"}], "title": "I Won\u2019t
+        Dance"}], "score": 0.999802}], "status": "ok"}'
+    http_version:
+  recorded_at: Tue, 29 Jun 2021 13:32:24 GMT
+recorded_with: VCR 3.0.3

@@ -45,6 +45,10 @@ module Eivu
         "#{SERVICE_LOOKUP_URL}?client=#{@client_id}&duration=#{@duration}&fingerprint=#{@fingerprint}&meta=#{SETTINGS}"
       end
 
+      def cleansed_fingerprint_url
+        fingerprint_url.gsub(@client_id, '<ACOUSTID_CLIENT_ID>')
+      end
+
       private
 
       def execute_binary(path_to_file)

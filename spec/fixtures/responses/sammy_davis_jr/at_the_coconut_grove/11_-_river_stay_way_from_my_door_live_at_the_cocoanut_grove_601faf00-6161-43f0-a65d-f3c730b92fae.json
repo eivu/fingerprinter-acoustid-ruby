@@ -1,0 +1,28 @@
+{
+  "results": [
+    {
+      "id": "529f38b7-62be-4bc0-ba6c-5220149b2fe0",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "4bc9e8c3-7eae-454f-a56c-bccf96f3926b",
+              "name": "Sammy Davis Jr."
+            }
+          ],
+          "duration": 150,
+          "id": "e2cbe581-814b-40fd-97e4-345fea57f77b",
+          "releasegroups": [
+            {
+              "id": "6fac76ed-b861-3519-9df3-04355946ec58",
+              "title": "At the Cocoanut Grove"
+            }
+          ],
+          "title": "River Stay 'Way From My Door"
+        }
+      ],
+      "score": 0.996967
+    }
+  ],
+  "status": "ok"
+}

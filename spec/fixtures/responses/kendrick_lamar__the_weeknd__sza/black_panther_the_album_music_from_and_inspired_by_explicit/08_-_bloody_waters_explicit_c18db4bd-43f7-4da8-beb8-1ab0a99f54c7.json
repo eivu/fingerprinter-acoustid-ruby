@@ -1,0 +1,85 @@
+{
+  "results": [
+    {
+      "id": "de0ae8c1-b694-449b-8f72-4f68a1f90452",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "acc12019-10e3-40aa-b4bf-66fbb4a692af",
+              "joinphrase": ", ",
+              "name": "Ab-Soul"
+            },
+            {
+              "id": "d02dd67e-f655-4600-bc47-f789f59e7367",
+              "joinphrase": " & ",
+              "name": "Anderson .Paak"
+            },
+            {
+              "id": "8dc08b1f-e393-4f85-a5dd-300f7693a8b8",
+              "name": "James Blake"
+            }
+          ],
+          "duration": 272,
+          "id": "520a2d08-bdf4-4c6e-985f-d869fa3f69df",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "381086ea-f511-4aba-bdf9-71c753dc5077",
+                  "name": "Kendrick Lamar"
+                }
+              ],
+              "id": "4e317e28-e6b2-46d7-81f7-306e349b3dd4",
+              "secondarytypes": [
+                "Soundtrack"
+              ],
+              "title": "Black Panther: The Album (Music From and Inspired By)",
+              "type": "Album"
+            }
+          ],
+          "title": "Bloody Waters"
+        },
+        {
+          "artists": [
+            {
+              "id": "acc12019-10e3-40aa-b4bf-66fbb4a692af",
+              "joinphrase": ", ",
+              "name": "Ab-Soul"
+            },
+            {
+              "id": "d02dd67e-f655-4600-bc47-f789f59e7367",
+              "joinphrase": " & ",
+              "name": "Anderson .Paak"
+            },
+            {
+              "id": "8dc08b1f-e393-4f85-a5dd-300f7693a8b8",
+              "name": "James Blake"
+            }
+          ],
+          "duration": 272,
+          "id": "fce5c7b8-8a76-4274-9153-4a6abdbdce7f",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "381086ea-f511-4aba-bdf9-71c753dc5077",
+                  "name": "Kendrick Lamar"
+                }
+              ],
+              "id": "4e317e28-e6b2-46d7-81f7-306e349b3dd4",
+              "secondarytypes": [
+                "Soundtrack"
+              ],
+              "title": "Black Panther: The Album (Music From and Inspired By)",
+              "type": "Album"
+            }
+          ],
+          "title": "Bloody Waters"
+        }
+      ],
+      "score": 0.989965
+    }
+  ],
+  "status": "ok"
+}

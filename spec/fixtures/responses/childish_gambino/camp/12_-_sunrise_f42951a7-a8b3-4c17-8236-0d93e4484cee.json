@@ -1,0 +1,32 @@
+{
+  "results": [
+    {
+      "id": "c468b7c9-700a-4b61-9c39-3b9a690fe5d0",
+      "recordings": [
+        {
+          "id": "44b303ae-225f-47de-85f8-cd1a6edac814"
+        },
+        {
+          "artists": [
+            {
+              "id": "7fb57fba-a6ef-44c2-abab-2fa3bdee607e",
+              "name": "Childish Gambino"
+            }
+          ],
+          "duration": 220,
+          "id": "f12890c9-1577-406f-996e-d9f8b7900172",
+          "releasegroups": [
+            {
+              "id": "5253c012-f7d3-440e-919b-5bac6d91ae7e",
+              "title": "Camp",
+              "type": "Album"
+            }
+          ],
+          "title": "Sunrise"
+        }
+      ],
+      "score": 0.952397
+    }
+  ],
+  "status": "ok"
+}

@@ -1,0 +1,28 @@
+{
+  "results": [
+    {
+      "id": "81ba8167-613b-473e-9b83-2d9d1a969339",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "4bc9e8c3-7eae-454f-a56c-bccf96f3926b",
+              "name": "Sammy Davis Jr."
+            }
+          ],
+          "duration": 45,
+          "id": "bc70b386-5eb7-45e6-a6ae-36db82450114",
+          "releasegroups": [
+            {
+              "id": "6fac76ed-b861-3519-9df3-04355946ec58",
+              "title": "At the Cocoanut Grove"
+            }
+          ],
+          "title": "Introduction"
+        }
+      ],
+      "score": 0.995066
+    }
+  ],
+  "status": "ok"
+}

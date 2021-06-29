@@ -1,0 +1,125 @@
+{
+  "results": [
+    {
+      "id": "153a603b-0b7b-4a20-8c57-5fab370a7a86",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "056e4f3e-d505-4dad-8ec1-d04f521cbb56",
+              "name": "Daft Punk"
+            }
+          ],
+          "duration": 161,
+          "id": "005bb566-a2c7-4bf3-811c-f9b3abc7396a",
+          "releasegroups": [
+            {
+              "id": "3ab059bc-281d-4719-90c6-ed130fa2bd20",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Greatest Hits",
+              "type": "Album"
+            }
+          ],
+          "title": "Ouverture"
+        },
+        {
+          "artists": [
+            {
+              "id": "1649c891-eea0-45b2-8caf-c85d985ff3bd",
+              "name": "CIV"
+            }
+          ],
+          "duration": 137,
+          "id": "25d8e24d-849f-46c5-a629-2d2315feb950",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "1649c891-eea0-45b2-8caf-c85d985ff3bd",
+                  "name": "CIV"
+                }
+              ],
+              "id": "02b79c6d-a741-3c4b-80e5-19aa109b857b",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Solid Bond: The Complete Discography",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "166dff79-3b9a-34b5-a5a5-30585cbe761a",
+              "secondarytypes": [
+                "Soundtrack"
+              ],
+              "title": "Music From and Inspired by John Carpenter's Escape From L.A.",
+              "type": "Album"
+            },
+            {
+              "id": "3916676b-7a43-3aaa-820b-a139b3ba43ab",
+              "title": "Set Your Goals",
+              "type": "Album"
+            }
+          ],
+          "title": "Et tu Bruté?"
+        },
+        {
+          "artists": [
+            {
+              "id": "056e4f3e-d505-4dad-8ec1-d04f521cbb56",
+              "name": "Daft Punk"
+            }
+          ],
+          "id": "d69d58ec-8ed1-4c3d-a8cc-7daec280667a",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "37570079-8d59-454a-82ff-3b0ca7774500",
+                  "name": "Oliver"
+                }
+              ],
+              "id": "7e8b72b4-f659-44f4-ab4b-63c11391bf43",
+              "secondarytypes": [
+                "DJ-mix"
+              ],
+              "title": "White Light 60",
+              "type": "Other"
+            }
+          ],
+          "title": "Ouverture"
+        },
+        {
+          "artists": [
+            {
+              "id": "056e4f3e-d505-4dad-8ec1-d04f521cbb56",
+              "name": "Daft Punk"
+            }
+          ],
+          "duration": 160,
+          "id": "e2bd618e-7ff7-469a-9dcd-c05de77fc74f",
+          "releasegroups": [
+            {
+              "id": "1fd2e0fe-90f6-35ca-92c0-d816ab3bb79c",
+              "secondarytypes": [
+                "Remix"
+              ],
+              "title": "Daft Club",
+              "type": "Album"
+            }
+          ],
+          "title": "Ouverture"
+        }
+      ],
+      "score": 0.985879
+    }
+  ],
+  "status": "ok"
+}

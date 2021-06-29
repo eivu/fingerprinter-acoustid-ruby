@@ -1,0 +1,32 @@
+{
+  "results": [
+    {
+      "id": "92724f20-ce5a-4dcc-a5a8-a99e7bfcc844",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "7fb57fba-a6ef-44c2-abab-2fa3bdee607e",
+              "name": "Childish Gambino"
+            }
+          ],
+          "duration": 270,
+          "id": "3f8ae947-fcee-4ec5-9e57-befa870a4259",
+          "releasegroups": [
+            {
+              "id": "5253c012-f7d3-440e-919b-5bac6d91ae7e",
+              "title": "Camp",
+              "type": "Album"
+            }
+          ],
+          "title": "Outside"
+        },
+        {
+          "id": "a85afbca-5487-43ee-9737-0246df2de8fd"
+        }
+      ],
+      "score": 0.9375
+    }
+  ],
+  "status": "ok"
+}

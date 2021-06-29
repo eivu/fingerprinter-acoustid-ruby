@@ -1,0 +1,29 @@
+{
+  "results": [
+    {
+      "id": "53c12638-d4b9-44f3-8f11-4f45ea197851",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "b7539c32-53e7-4908-bda3-81449c367da6",
+              "name": "Lana Del Rey"
+            }
+          ],
+          "duration": 222,
+          "id": "f1f21661-d4be-49c6-aeb6-050d35638d43",
+          "releasegroups": [
+            {
+              "id": "4b16a1bc-8644-48ae-9b3e-8ae36aa30cfc",
+              "title": "Born to Die",
+              "type": "Album"
+            }
+          ],
+          "title": "Diet Mountain Dew"
+        }
+      ],
+      "score": 0.935588
+    }
+  ],
+  "status": "ok"
+}

@@ -1,0 +1,28 @@
+{
+  "results": [
+    {
+      "id": "7c6356eb-fde4-4077-8599-f06e5009f045",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "4bc9e8c3-7eae-454f-a56c-bccf96f3926b",
+              "name": "Sammy Davis Jr."
+            }
+          ],
+          "duration": 226,
+          "id": "fb8bd282-60eb-410b-9157-cbf732774c99",
+          "releasegroups": [
+            {
+              "id": "6fac76ed-b861-3519-9df3-04355946ec58",
+              "title": "At the Cocoanut Grove"
+            }
+          ],
+          "title": "In the Still of the Night"
+        }
+      ],
+      "score": 0.997165
+    }
+  ],
+  "status": "ok"
+}

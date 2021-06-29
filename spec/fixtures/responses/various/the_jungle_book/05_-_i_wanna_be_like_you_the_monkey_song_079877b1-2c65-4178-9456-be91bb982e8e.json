@@ -1,0 +1,1034 @@
+{
+  "results": [
+    {
+      "id": "37c38e7c-4831-4b9f-a953-649e5435b2e3",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "b5997eef-2516-491a-a10e-5cee842bbcdc",
+              "joinphrase": ", ",
+              "name": "Louis Prima"
+            },
+            {
+              "id": "d10253ac-e1c5-47f3-846f-65cce388b7fb",
+              "joinphrase": " & ",
+              "name": "Phil Harris"
+            },
+            {
+              "id": "402107aa-56fc-4d06-831d-8150a95a9c84",
+              "name": "Bruce Reitherman"
+            }
+          ],
+          "duration": 278,
+          "id": "206bc701-3750-4903-b42b-e27d01f2d029",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "a27eb861-ef50-4600-80ab-873dac5a11f8",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Die größten Disney Filmhits",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "4744e12b-1720-3878-bc87-09e6c0e6636c",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "The Best Disney Album in the World ...Ever",
+              "type": "Album"
+            }
+          ],
+          "title": "I Wan'na Be Like You (The Jungle Book)"
+        },
+        {
+          "artists": [
+            {
+              "id": "c47026a1-3300-4cf7-80df-8b9462a884e4",
+              "joinphrase": " & ",
+              "name": "Richard M. Sherman"
+            },
+            {
+              "id": "d378dedb-444f-48f5-a6e6-3e8e31ef6c14",
+              "name": "Robert B. Sherman"
+            }
+          ],
+          "duration": 277,
+          "id": "2f5368bd-d376-49d8-b825-bfc5fb8e3a48",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "e1813e9b-84b5-35d1-b4e9-c8a949a6e617",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Disney's 75 Years of Music and Memories",
+              "type": "Album"
+            }
+          ],
+          "title": "I Wan'na Be Like You (The Monkey Song)"
+        },
+        {
+          "artists": [
+            {
+              "id": "66ea0139-149f-4a0c-8fbf-5ea9ec4a6e49",
+              "name": "[Disney]"
+            }
+          ],
+          "duration": 277,
+          "id": "4e45a486-cfbe-4f58-afe3-113ea0a37016",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "53a2ec1a-eaeb-4f69-a2fd-4c9b825e4b42",
+                  "name": "Ted Kryczko"
+                }
+              ],
+              "id": "5fef4aad-a56e-430e-acaa-53ab7cd8d69b",
+              "secondarytypes": [
+                "Soundtrack"
+              ],
+              "title": "Disney: The Music Behind The Magic",
+              "type": "Album"
+            }
+          ],
+          "title": "The Jungle Book / I Wan'na Be Like You"
+        },
+        {
+          "artists": [
+            {
+              "id": "b5997eef-2516-491a-a10e-5cee842bbcdc",
+              "joinphrase": ", ",
+              "name": "Louis Prima"
+            },
+            {
+              "id": "d10253ac-e1c5-47f3-846f-65cce388b7fb",
+              "joinphrase": " and ",
+              "name": "Phil Harris"
+            },
+            {
+              "id": "402107aa-56fc-4d06-831d-8150a95a9c84",
+              "name": "Bruce Reitherman"
+            }
+          ],
+          "duration": 278,
+          "id": "6077f1a9-ed12-4843-a054-4e5b1e13ecaa",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "ab70986e-7906-3b06-a9f6-6d06685f2bab",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Driving With Disney",
+              "type": "Album"
+            }
+          ],
+          "title": "I Wanna Be Like You"
+        },
+        {
+          "artists": [
+            {
+              "id": "b5997eef-2516-491a-a10e-5cee842bbcdc",
+              "joinphrase": ", ",
+              "name": "Louis Prima"
+            },
+            {
+              "id": "d10253ac-e1c5-47f3-846f-65cce388b7fb",
+              "joinphrase": " and ",
+              "name": "Phil Harris"
+            },
+            {
+              "id": "402107aa-56fc-4d06-831d-8150a95a9c84",
+              "name": "Bruce Reitherman"
+            }
+          ],
+          "duration": 279,
+          "id": "61c78316-602c-4eb4-b33f-4c21a10f7983",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "56973ba7-a38a-4a08-93bc-b29dd2e39927",
+              "title": "Disney: 26 Magical Songs from the Movies",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "fa1821a3-cb45-3c55-be75-b73314862a63",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Disney's Greatest Hits",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "cc47e837-4dca-478a-b63d-1c66a82e2cb1",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Classic Disney",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "4204e06b-d2e4-4823-b6f3-47f7593518cb",
+                  "joinphrase": ", ",
+                  "name": "George Bruns"
+                },
+                {
+                  "id": "c47026a1-3300-4cf7-80df-8b9462a884e4",
+                  "joinphrase": " & ",
+                  "name": "Richard M. Sherman"
+                },
+                {
+                  "id": "d378dedb-444f-48f5-a6e6-3e8e31ef6c14",
+                  "joinphrase": ", ",
+                  "name": "Robert B. Sherman"
+                },
+                {
+                  "id": "0a8df504-df94-4d77-a3c5-2b9e5c9727e2",
+                  "name": "Terry Gilkyson"
+                }
+              ],
+              "id": "1257fcdf-743f-3dff-9894-107b398fb777",
+              "secondarytypes": [
+                "Soundtrack"
+              ],
+              "title": "The Jungle Book: Original Cast Soundtrack",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "2018d2d8-1800-4fd1-a483-bc736c216dc8",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Disney Sing Your Heart Out",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "3d0f198e-e67e-4a2c-8ab3-9aaf5eaecb4a",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Absolute Disney: Volume 3",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "ac1160c1-df5e-3e49-956a-71230ffe6db2",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Disney: Greatest Musicals",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "6dbf6e3f-58b4-34a3-839b-1adc41182ac6",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Les Plus Grandes Chansons des films Disney",
+              "type": "Album"
+            }
+          ],
+          "title": "I Wan’na Be Like You (The Monkey Song)"
+        },
+        {
+          "id": "6cb87b62-4a8e-458c-97e2-949d85ccea89"
+        },
+        {
+          "artists": [
+            {
+              "id": "c47026a1-3300-4cf7-80df-8b9462a884e4",
+              "joinphrase": " & ",
+              "name": "Richard M. Sherman"
+            },
+            {
+              "id": "d378dedb-444f-48f5-a6e6-3e8e31ef6c14",
+              "name": "Robert B. Sherman"
+            }
+          ],
+          "duration": 278,
+          "id": "80deef4b-8ef3-40fd-9e7f-f8e7dc37cd47",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "4d2bb0c9-710b-343f-b61c-8af43fa571f4",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Disney's Greatest Hits",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "078dfd7b-d8be-3722-856c-f7d66ba1a084",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Disney's Greatest, Volume 1",
+              "type": "Album"
+            }
+          ],
+          "title": "I Wan'na Be Like You"
+        },
+        {
+          "artists": [
+            {
+              "id": "b5997eef-2516-491a-a10e-5cee842bbcdc",
+              "joinphrase": ", ",
+              "name": "Louis Prima"
+            },
+            {
+              "id": "d10253ac-e1c5-47f3-846f-65cce388b7fb",
+              "joinphrase": " and ",
+              "name": "Phil Harris"
+            },
+            {
+              "id": "402107aa-56fc-4d06-831d-8150a95a9c84",
+              "name": "Bruce Reitherman"
+            }
+          ],
+          "duration": 277,
+          "id": "a10dec8b-8bca-433b-928d-2ebb893c6c70",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "f309ccdd-0be3-442a-9db6-cd7217b4fe19",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Now That’s What I Call Disney!",
+              "type": "Album"
+            }
+          ],
+          "title": "I Wan'na Be Like You (The Monkey Song) (The Jungle Book)"
+        },
+        {
+          "artists": [
+            {
+              "id": "b5997eef-2516-491a-a10e-5cee842bbcdc",
+              "joinphrase": ", ",
+              "name": "Louis Prima"
+            },
+            {
+              "id": "d10253ac-e1c5-47f3-846f-65cce388b7fb",
+              "joinphrase": " & ",
+              "name": "Phil Harris"
+            },
+            {
+              "id": "402107aa-56fc-4d06-831d-8150a95a9c84",
+              "name": "Bruce Reitherman"
+            }
+          ],
+          "duration": 275,
+          "id": "b22edfbb-72f7-46f7-9dda-29c271ff2035",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "958f9984-e253-449f-8f19-4e2b95dd6b89",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "When Cool Was King",
+              "type": "Album"
+            }
+          ],
+          "title": "I Wanna Be Like You (The Monkey Song)"
+        },
+        {
+          "artists": [
+            {
+              "id": "b5997eef-2516-491a-a10e-5cee842bbcdc",
+              "name": "Louis Prima"
+            }
+          ],
+          "duration": 278,
+          "id": "ba0104d7-93fd-44a3-942e-8994b84be225",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "0e04c033-4acc-4618-94d7-3539291c261a",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Disney Villains: Simply Sinister Songs",
+              "type": "Album"
+            }
+          ],
+          "title": "I Wan'na Be Like You (The Monkey Song) - The Jungle Book"
+        }
+      ],
+      "score": 0.959586
+    },
+    {
+      "id": "9be8dbcb-f815-4b7e-8bae-0576c6457ddc",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "c47026a1-3300-4cf7-80df-8b9462a884e4",
+              "joinphrase": " & ",
+              "name": "Richard M. Sherman"
+            },
+            {
+              "id": "d378dedb-444f-48f5-a6e6-3e8e31ef6c14",
+              "name": "Robert B. Sherman"
+            }
+          ],
+          "duration": 278,
+          "id": "12236c53-3850-4f17-97c6-c60e3a002355",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "39c7db57-2460-3b59-a761-35177704d057",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Disney Magic",
+              "type": "Album"
+            }
+          ],
+          "title": "I Wan'na Be Like You (The Monkey Song)"
+        },
+        {
+          "artists": [
+            {
+              "id": "b5997eef-2516-491a-a10e-5cee842bbcdc",
+              "joinphrase": ", ",
+              "name": "Louis Prima"
+            },
+            {
+              "id": "d10253ac-e1c5-47f3-846f-65cce388b7fb",
+              "joinphrase": " & ",
+              "name": "Phil Harris"
+            },
+            {
+              "id": "402107aa-56fc-4d06-831d-8150a95a9c84",
+              "name": "Bruce Reitherman"
+            }
+          ],
+          "duration": 278,
+          "id": "206bc701-3750-4903-b42b-e27d01f2d029",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "a27eb861-ef50-4600-80ab-873dac5a11f8",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Die größten Disney Filmhits",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "4744e12b-1720-3878-bc87-09e6c0e6636c",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "The Best Disney Album in the World ...Ever",
+              "type": "Album"
+            }
+          ],
+          "title": "I Wan'na Be Like You (The Jungle Book)"
+        },
+        {
+          "artists": [
+            {
+              "id": "c47026a1-3300-4cf7-80df-8b9462a884e4",
+              "joinphrase": " & ",
+              "name": "Richard M. Sherman"
+            },
+            {
+              "id": "d378dedb-444f-48f5-a6e6-3e8e31ef6c14",
+              "name": "Robert B. Sherman"
+            }
+          ],
+          "duration": 277,
+          "id": "2f5368bd-d376-49d8-b825-bfc5fb8e3a48",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "e1813e9b-84b5-35d1-b4e9-c8a949a6e617",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Disney's 75 Years of Music and Memories",
+              "type": "Album"
+            }
+          ],
+          "title": "I Wan'na Be Like You (The Monkey Song)"
+        },
+        {
+          "artists": [
+            {
+              "id": "b5997eef-2516-491a-a10e-5cee842bbcdc",
+              "joinphrase": ", ",
+              "name": "Louis Prima"
+            },
+            {
+              "id": "d10253ac-e1c5-47f3-846f-65cce388b7fb",
+              "joinphrase": " & ",
+              "name": "Phil Harris"
+            },
+            {
+              "id": "402107aa-56fc-4d06-831d-8150a95a9c84",
+              "name": "Bruce Reitherman"
+            }
+          ],
+          "id": "530e61d7-0281-4a4b-8ee5-531a6499902d",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "2a34a8a2-b64c-4e78-bb7e-0fd34b4842a5",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "The Magic of Disney",
+              "type": "Album"
+            }
+          ],
+          "title": "I Wan'na Be Like You"
+        },
+        {
+          "artists": [
+            {
+              "id": "b5997eef-2516-491a-a10e-5cee842bbcdc",
+              "joinphrase": ", ",
+              "name": "Louis Prima"
+            },
+            {
+              "id": "d10253ac-e1c5-47f3-846f-65cce388b7fb",
+              "joinphrase": " & ",
+              "name": "Phil Harris"
+            },
+            {
+              "id": "402107aa-56fc-4d06-831d-8150a95a9c84",
+              "name": "Bruce Reitherman"
+            }
+          ],
+          "duration": 278,
+          "id": "56361393-4556-4039-8abc-345ba7ae425a",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "a3199c31-fbb7-462f-aba1-d5a8380986e8",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Songs and Story: The Jungle Book",
+              "type": "EP"
+            }
+          ],
+          "title": "I Wanna Be Like You (The Monkey Song)"
+        },
+        {
+          "artists": [
+            {
+              "id": "b5997eef-2516-491a-a10e-5cee842bbcdc",
+              "joinphrase": ", ",
+              "name": "Louis Prima"
+            },
+            {
+              "id": "d10253ac-e1c5-47f3-846f-65cce388b7fb",
+              "joinphrase": " and ",
+              "name": "Phil Harris"
+            },
+            {
+              "id": "402107aa-56fc-4d06-831d-8150a95a9c84",
+              "name": "Bruce Reitherman"
+            }
+          ],
+          "duration": 278,
+          "id": "6077f1a9-ed12-4843-a054-4e5b1e13ecaa",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "ab70986e-7906-3b06-a9f6-6d06685f2bab",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Driving With Disney",
+              "type": "Album"
+            }
+          ],
+          "title": "I Wanna Be Like You"
+        },
+        {
+          "artists": [
+            {
+              "id": "b5997eef-2516-491a-a10e-5cee842bbcdc",
+              "joinphrase": ", ",
+              "name": "Louis Prima"
+            },
+            {
+              "id": "d10253ac-e1c5-47f3-846f-65cce388b7fb",
+              "joinphrase": " and ",
+              "name": "Phil Harris"
+            },
+            {
+              "id": "402107aa-56fc-4d06-831d-8150a95a9c84",
+              "name": "Bruce Reitherman"
+            }
+          ],
+          "duration": 279,
+          "id": "61c78316-602c-4eb4-b33f-4c21a10f7983",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "56973ba7-a38a-4a08-93bc-b29dd2e39927",
+              "title": "Disney: 26 Magical Songs from the Movies",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "fa1821a3-cb45-3c55-be75-b73314862a63",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Disney's Greatest Hits",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "cc47e837-4dca-478a-b63d-1c66a82e2cb1",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Classic Disney",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "4204e06b-d2e4-4823-b6f3-47f7593518cb",
+                  "joinphrase": ", ",
+                  "name": "George Bruns"
+                },
+                {
+                  "id": "c47026a1-3300-4cf7-80df-8b9462a884e4",
+                  "joinphrase": " & ",
+                  "name": "Richard M. Sherman"
+                },
+                {
+                  "id": "d378dedb-444f-48f5-a6e6-3e8e31ef6c14",
+                  "joinphrase": ", ",
+                  "name": "Robert B. Sherman"
+                },
+                {
+                  "id": "0a8df504-df94-4d77-a3c5-2b9e5c9727e2",
+                  "name": "Terry Gilkyson"
+                }
+              ],
+              "id": "1257fcdf-743f-3dff-9894-107b398fb777",
+              "secondarytypes": [
+                "Soundtrack"
+              ],
+              "title": "The Jungle Book: Original Cast Soundtrack",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "2018d2d8-1800-4fd1-a483-bc736c216dc8",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Disney Sing Your Heart Out",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "3d0f198e-e67e-4a2c-8ab3-9aaf5eaecb4a",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Absolute Disney: Volume 3",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "ac1160c1-df5e-3e49-956a-71230ffe6db2",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Disney: Greatest Musicals",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "6dbf6e3f-58b4-34a3-839b-1adc41182ac6",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Les Plus Grandes Chansons des films Disney",
+              "type": "Album"
+            }
+          ],
+          "title": "I Wan’na Be Like You (The Monkey Song)"
+        },
+        {
+          "id": "6cb87b62-4a8e-458c-97e2-949d85ccea89"
+        },
+        {
+          "artists": [
+            {
+              "id": "c47026a1-3300-4cf7-80df-8b9462a884e4",
+              "joinphrase": " & ",
+              "name": "Richard M. Sherman"
+            },
+            {
+              "id": "d378dedb-444f-48f5-a6e6-3e8e31ef6c14",
+              "name": "Robert B. Sherman"
+            }
+          ],
+          "duration": 278,
+          "id": "80deef4b-8ef3-40fd-9e7f-f8e7dc37cd47",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "4d2bb0c9-710b-343f-b61c-8af43fa571f4",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Disney's Greatest Hits",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "078dfd7b-d8be-3722-856c-f7d66ba1a084",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Disney's Greatest, Volume 1",
+              "type": "Album"
+            }
+          ],
+          "title": "I Wan'na Be Like You"
+        },
+        {
+          "artists": [
+            {
+              "id": "b5997eef-2516-491a-a10e-5cee842bbcdc",
+              "name": "Louis Prima"
+            }
+          ],
+          "duration": 277,
+          "id": "934799cc-8a73-4613-af6b-d03a69334cd7",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "ca5349b9-2597-4fc8-aabb-31f7a00a7478",
+              "title": "Disney Ultimate Buddy Collection",
+              "type": "Album"
+            }
+          ],
+          "title": "I Wan'na Be Like You (The Monkey Song)"
+        },
+        {
+          "artists": [
+            {
+              "id": "b5997eef-2516-491a-a10e-5cee842bbcdc",
+              "joinphrase": ", ",
+              "name": "Louis Prima"
+            },
+            {
+              "id": "d10253ac-e1c5-47f3-846f-65cce388b7fb",
+              "joinphrase": " and ",
+              "name": "Phil Harris"
+            },
+            {
+              "id": "402107aa-56fc-4d06-831d-8150a95a9c84",
+              "name": "Bruce Reitherman"
+            }
+          ],
+          "duration": 277,
+          "id": "a10dec8b-8bca-433b-928d-2ebb893c6c70",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "f309ccdd-0be3-442a-9db6-cd7217b4fe19",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Now That’s What I Call Disney!",
+              "type": "Album"
+            }
+          ],
+          "title": "I Wan'na Be Like You (The Monkey Song) (The Jungle Book)"
+        },
+        {
+          "artists": [
+            {
+              "id": "b5997eef-2516-491a-a10e-5cee842bbcdc",
+              "name": "Louis Prima"
+            }
+          ],
+          "duration": 278,
+          "id": "ba0104d7-93fd-44a3-942e-8994b84be225",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "0e04c033-4acc-4618-94d7-3539291c261a",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Disney Villains: Simply Sinister Songs",
+              "type": "Album"
+            }
+          ],
+          "title": "I Wan'na Be Like You (The Monkey Song) - The Jungle Book"
+        },
+        {
+          "artists": [
+            {
+              "id": "b5997eef-2516-491a-a10e-5cee842bbcdc",
+              "joinphrase": ", ",
+              "name": "Louis Prima"
+            },
+            {
+              "id": "d10253ac-e1c5-47f3-846f-65cce388b7fb",
+              "joinphrase": " and ",
+              "name": "Phil Harris"
+            },
+            {
+              "id": "402107aa-56fc-4d06-831d-8150a95a9c84",
+              "name": "Bruce Reitherman"
+            }
+          ],
+          "duration": 278,
+          "id": "c2da25da-f8c0-4e49-8f54-326ff7a92b0a",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "41bf43f6-351d-464c-9299-60bc1f5b3a92",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Disney Soundtracks Collection",
+              "type": "Album"
+            }
+          ],
+          "title": "I Wan’na Be Like You (The Monkey Song)"
+        },
+        {
+          "artists": [
+            {
+              "id": "b5997eef-2516-491a-a10e-5cee842bbcdc",
+              "name": "Louis Prima"
+            }
+          ],
+          "duration": 279,
+          "id": "fc78bf67-2a33-41be-b96a-32e69b2927c5",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "08f8e09a-28d6-4d4b-ae03-a8399b786d55",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Now That’s What I Call Disney 2",
+              "type": "Album"
+            }
+          ],
+          "title": "I Wan’na Be Like You (The Monkey Song)"
+        }
+      ],
+      "score": 0.949169
+    }
+  ],
+  "status": "ok"
+}

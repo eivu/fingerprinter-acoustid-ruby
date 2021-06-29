@@ -1,0 +1,50 @@
+---
+http_interactions:
+- request:
+    method: get
+    uri: https://api.acoustid.org/v2/lookup?client=<ACOUSTID_CLIENT_ID>&duration=140&fingerprint=AQADtI2iJaHxTEHPDM8s9IJPC30U_CKePTiSkdGR6ziaM7iOP5Xg-3jC5PiPJ1GEdMwoJD-eHW-Od0zQHL_hBrUiDT-qf3BSHj0fPD2-D0dOQzuNtEp0VO7xnAyO_2g6403x02geUdCtGC-Jy3iOhsdvuCnRZ8F1hMrhmDn6PdBPPAly3BtqzYOt6EEljcejE2eOwxcuRclxEmFS70j2h3iPD3_QfLgOG2l36EifB_3xHb6EU8dz_A38Dc-OF1VUGU2k5sIzBd82hHwmNBxZqCri7MSzw1ckCz-eF70uNFWUGDGjUYR8_Ei5F0-JU1eCZ3jK4UNZeNkTVM7xKQsRN0p4uLiV4twWiDvi40t0nD38ZMJz3C6a_OgWakqEL4ig-EIqLRf-SjgTnMcnXMfVCy0_NApZnFsm4Q8uvmjo4NTQ7EHSI1SWE021bAnOLMcv_PB1ScJDTykeHCXCcJlFJM5znImOmkFzKcQfNCvaHRcfNNqiNEjaROHRFDqldPjiBeIexD-e3vgNj2GO47o4-DnkSJ3wJAk-9HqC5jp65fC0HU_0oqni4zrxLcvw9kFI6cQX5MdDOIlEEaGmDrokJaKQ5xle5SiZYAqHo5Rzw0mGU8cv7Ac89qiVHrlx6Edeeeh3OKRIoWPyoNSLMl_w46vQI4yLZD-apwouJRcaHiX-3Kgyw1NyHD9OGumXoxbuEDqenMhzVA8fWEtJ1MqDMq9QqQ-Or0IfHgmL9HrQpwpKHiYujG1eVImM_UB_eLeEPAvco44D6MlL5DkqMszRiL1wKQ_-Bq-HG5fRJzuSH-EfoaRSRWi4A80wSbrRJEtz9MR0pD_OVoIf1Mfj4oeuH7GPboUdiSQuKXzwPSHKesBXGeFD6Ihk5risoBkP5viHKjOcNuCF4ye2H-GDG08TQhfi4-PRaPzwZBeuj3joBV0v4_vxZAhlJLmDXnnwxhIaLgfj4_pRBY6G6yB-Y2cR5j8e5zh05OqJowmzfLgyFg97od0XvMd54doR6UhOvAo86grKgEdF37B-nAnBoj36DNFIHiVvPE146EaO98RnNKU5vMmOR6-EMnzw40etjEaSOUjLo1eqFOUVMOEOlHIOJ1mPU6DgIyfm8mgq3CEO1cmRW1TQ63CYWsSVa8JVOijz4cWn9OhDJFmOMI-DJw9R70czHvxxOkcVHhSjozjmG2Ge5ajxOIQu5A_x6KhIq4G1hMdzPG-Ckjnx47mFKd2Q8EL43bif4PsDah9-NPmFKlmDCzTaC9svhGTwQ4-DC_lxjyO6EXZIDqfC49kZomSOX8cT5CyS-ZiuVLieollOMNRxVG3gJDJ-8PCJ-eiDPMWdEHqQv8QdoWlmLqh9dGF4PM_Q4-vxBqHFI9nz409QOhem8AXYX6iy41LCgzowkejLws9RO9nxFA_-BxfC6Eiu5LjCMbiio5SOLwr-Gz9SFaoUIc-XFG-HX_jh5wleaiLyQD7C5Wi47LjIVHj24D1OEc9RZpfQRL2Cv4i5KDs0h2iOZ4miRSjJFM2FODXx7kaf0GjG4hf-wXke4Zkm5AmEMMsulF0snBfeG__x4kyO7kKzLC1OMQyesfgeNNPRqzh9JEsehEr0BQ9X9OmGZj9-4R_cJXlwJlkmIhfkI1V4PFxq3HyCZ3jL4RyOMrvQJGGuBGdoxFQiommIXtGGPNzR7AgPlfLxrBvC5AtKUsaPUr2EMBY36Bp-hEmEWhPOt-g1wQ_R7kIfHU-PvziHY5J6oTwabQuqHWEcI7knvJOygvmFZsWP_UUTYsyS4gdxHtFOQ3uWHHlq3BGO68fnoubhMLXxhg_K7ME__McVhA-FJA9qpsqEH82yox_Y50ZF48kCqsDMq_CL8HjCRIJu5PiHGxVpwk0fPAwrPHvQ45RxrYiE5Dv6PEVJWUJD8MNzVBkcpuAPzC_SD32gv3iOXLiHe2g0XkIfHqUUVnhmBj2OK0ey9wh_fMmDU5awcTkOPkclpXimD8Sx_UT6QnuQxwx-HNeJF03IdsGZ7LiuCWX44Mft41uR7EGk_zjzEM11oczBHtUPJzuuhCCOS4i2Ev3xONARO8H9Ev3gMPtQKzsq5RXKlhmOKzfeEMmO0Df2xAlKykTzfKDj48dD1GLAw-Ox80i_FLWOO9BxIfZcohth9wuuHM-boOyJ41QuvEiiI7xuPKmCZlKO9gP7o-I_PCxYCcZvzGSK9BlqG08T6Mhf4kNF9oHFHpdyJrjyBn084PKF8MmI5JjMOMZlJWgW5ejByii9D89hTviLH5eDS0mRMJIQTn1xbjmYX_Ak9HGIPnnhy_hi4T8-PFGONDmS6cdTBb2OZsxxsM9RZXCYEOzhY8d_hM-Jp4FunEecHp-NJsxOXNnxV3h4ZejxHw9CKyOS4YoTzNQF8_gH7jnOHqdA9Nh2CTnhH5pj_MgT_CW-oim_oE54lGWF5xmqF9_xajSS5UeY0nj0Ym6OhjsK3jmqsAcVCscM_0IfHvnxuFCz406O_EevHK4_PMlxlZPQJWdwnAp-JDtCWcauJFZQZi-a52B_4nRePNlxgXlhTHxK9NkRpscdXBCuF6FYWJwW3Dn-C2WWUvjxXPgR5kQy8ajCwz1eeDdcCm3CEA9-JEOYMw--6HiO5wROUaio5IR_4SI1XD1SpxV0NQUkGAYEOGDIUcYBwgwAAAjAhKQAEGCQMogZQQQBCCHDDAAAEGyAYQAIBBAzAhnBFAREEIYEJAAAYkghAgIhAACPKOMAB0oZCARCSiHDGGACOSKQA8QQJAQgDglgEMSGCEAMkcIBAAghgCBnCAGISQYAAEAxIpxQgAhDCBUAODAEUIwRCwgARggBjBLIACUIAUMIZogTQGCAgDBGCAaUkIIEICkxAgiEkHOCIWAAQJ4IQoQEBkDWBBFEEaaUEEIJohEwABhFhIFSCKUQUE4IgowgAAFDjAHKGSGCIEAgDRAgEAhjENCAKW4s4MQpIBBCogGgCAFECGEUFoAoSwBDiigEDEAIIQU8QQIAQoBQhhIpuDAGIAsQAkRBwAARgDAAFBBOMgSgBwpJIBQCwAhhgCNMAKAYAUwqLgBBiAkGBVNEEKAQAQIQYASQSBuCkAJIEcYJAIIAgoRQigomIIRNUUqEQcgBQABhFgmgBBAQACQUAAgKgARiAAgGkUAAGgqAYIIQZgihQgAGoQIIIQWZEEAQgAgCghhCHCBKGSYAAoJJAiBgijlkCHKIEGMIcQAoiAgQCEEnADMCEGcQMAgAgA0ACCCjnAOIAgEBMsJgR6ggAghikGpCMCOAIQhAgICBQnEBgAAEEQ2ZJIIYCRRhBnjKiHJKEICA8sAAQghAEBgKECCKNQYUBwYIgwRjSgpCAGECGASEEAgAIbVxgHAwDCJCCEMEQwBIhYBygAMujBFGESaQIoJgwBQVwiEpHACACYCQA0wIAoAQSADCJDeSEYUQVAYwQBQBxCFFCAEOOSgENIJhqAkBgiAChWUGEUIIEEgIxQRC0DCBgHQMGCSUE8wQwoCwABAmjASMqCAEUA4JoJggggmkAAFAECAEQEIAASSSQgilEAMAISAIZIARJCjBijEDABIIMgMBEgIAAg&meta=recordings%20releasegroups%20compress
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      Accept:
+      - "*/*"
+      User-Agent:
+      - rest-client/2.1.0 (darwin20.3.0 x86_64) ruby/2.7.1p83
+      Accept-Encoding:
+      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+      Host:
+      - api.acoustid.org
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Date:
+      - Tue, 29 Jun 2021 21:20:57 GMT
+      Content-Type:
+      - application/json; charset=UTF-8
+      Transfer-Encoding:
+      - chunked
+      Connection:
+      - keep-alive
+      Vary:
+      - Accept-Encoding
+      Access-Control-Allow-Origin:
+      - "*"
+      X-Envoy-Upstream-Service-Time:
+      - '52'
+      Strict-Transport-Security:
+      - max-age=15724800; includeSubDomains
+    body:
+      encoding: ASCII-8BIT
+      string: '{"results": [{"id": "827abdc2-b091-4120-bc74-e2ba4fed5648", "recordings":
+        [{"artists": [{"id": "f82bcf78-5b69-4622-a5ef-73800768d9ac", "joinphrase":
+        " & ", "name": "Jay-Z"}, {"id": "164f0d73-1234-4e2c-8743-d77bf2191051", "name":
+        "Kanye West"}], "duration": 140, "id": "baa41267-29bf-4c88-a5f1-635e73b6f964",
+        "releasegroups": [{"id": "a96597aa-93b4-4e14-9e6e-03892ab24979", "title":
+        "Watch the Throne", "type": "Album"}], "title": "Gotta Have It"}], "score":
+        0.962757}], "status": "ok"}'
+    http_version:
+  recorded_at: Tue, 29 Jun 2021 21:20:57 GMT
+recorded_with: VCR 3.0.3

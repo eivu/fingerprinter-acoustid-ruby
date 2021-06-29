@@ -1,0 +1,28 @@
+{
+  "results": [
+    {
+      "id": "1714aaa0-64c7-4962-b4a5-944e159b9b45",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "4bc9e8c3-7eae-454f-a56c-bccf96f3926b",
+              "name": "Sammy Davis Jr."
+            }
+          ],
+          "duration": 187,
+          "id": "3d3c2a42-ee74-44c0-9b19-2c2f81de68b3",
+          "releasegroups": [
+            {
+              "id": "6fac76ed-b861-3519-9df3-04355946ec58",
+              "title": "At the Cocoanut Grove"
+            }
+          ],
+          "title": "Meeting the President"
+        }
+      ],
+      "score": 0.996242
+    }
+  ],
+  "status": "ok"
+}

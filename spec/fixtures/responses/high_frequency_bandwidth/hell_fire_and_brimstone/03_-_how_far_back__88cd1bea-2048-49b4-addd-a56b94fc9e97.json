@@ -1,0 +1,29 @@
+{
+  "results": [
+    {
+      "id": "c4e579ea-7f37-4e9d-ad5f-bec2ec91c91c",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "9ddfc28e-9869-429e-8200-567dcf5ef008",
+              "name": "High Frequency Bandwidth"
+            }
+          ],
+          "duration": 113,
+          "id": "1394a02f-2c48-4db8-b8c6-6e5af5278482",
+          "releasegroups": [
+            {
+              "id": "f42dafb1-e799-47f8-960f-5039cc4c729d",
+              "title": "Hell Fire and Brimstone",
+              "type": "Album"
+            }
+          ],
+          "title": "How Far Back?"
+        }
+      ],
+      "score": 0.989118
+    }
+  ],
+  "status": "ok"
+}

@@ -1,0 +1,29 @@
+{
+  "results": [
+    {
+      "id": "637ee70f-11a4-4a78-9869-534a9e30a2ea",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "42c14c80-bd17-47e4-9bb2-a35897638c4d",
+              "name": "The Orb"
+            }
+          ],
+          "duration": 555,
+          "id": "49d5080d-edab-4a85-9374-69fdf9533ad1",
+          "releasegroups": [
+            {
+              "id": "27b682b2-dd29-3e15-8ef2-f6475f4d262f",
+              "title": "The Orb’s Adventures Beyond the Ultraworld",
+              "type": "Album"
+            }
+          ],
+          "title": "Into the Fourth Dimension"
+        }
+      ],
+      "score": 0.941215
+    }
+  ],
+  "status": "ok"
+}

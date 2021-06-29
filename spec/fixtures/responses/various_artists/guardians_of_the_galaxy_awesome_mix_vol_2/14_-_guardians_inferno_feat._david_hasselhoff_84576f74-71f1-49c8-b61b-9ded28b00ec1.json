@@ -1,0 +1,57 @@
+{
+  "results": [
+    {
+      "id": "87d134ad-ea34-4b09-9d15-2f973fd6671f",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "e754f5f1-ce1c-4282-ab5b-b2355b2c786b",
+              "joinphrase": " feat. ",
+              "name": "The Sneepers"
+            },
+            {
+              "id": "87d50f99-335e-40f4-ae09-5815fe98c4f4",
+              "name": "David Hasselhoff"
+            }
+          ],
+          "duration": 197,
+          "id": "204f3908-0e96-48f0-a4d7-83e6a830e53b",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "14d472d9-ef8d-43eb-9ec3-51adcfe36e96",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Movie Hits",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "7e836750-3cd3-4c71-aa9e-b5143bc56a2b",
+              "secondarytypes": [
+                "Soundtrack"
+              ],
+              "title": "Guardians of the Galaxy: Awesome Mix, Vol. 2 (Original Motion Picture Soundtrack)",
+              "type": "Album"
+            }
+          ],
+          "title": "Guardians Inferno"
+        }
+      ],
+      "score": 0.950158
+    }
+  ],
+  "status": "ok"
+}

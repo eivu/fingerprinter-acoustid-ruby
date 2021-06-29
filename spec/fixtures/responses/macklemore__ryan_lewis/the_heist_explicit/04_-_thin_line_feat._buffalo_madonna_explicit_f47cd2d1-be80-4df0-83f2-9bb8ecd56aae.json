@@ -1,0 +1,40 @@
+{
+  "results": [
+    {
+      "id": "1b4597af-4bfc-400f-9af5-e8450934154b",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "97b226c8-7140-4da3-91ac-15e62e131a81",
+              "joinphrase": " feat. ",
+              "name": "Macklemore & Ryan Lewis"
+            },
+            {
+              "id": "afe9e530-c9b6-42b8-b878-fa56fb0b19fc",
+              "name": "Buffalo Madonna"
+            }
+          ],
+          "duration": 256,
+          "id": "99420bf2-468b-4c63-949a-86fa7ab44c08",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "97b226c8-7140-4da3-91ac-15e62e131a81",
+                  "name": "Macklemore & Ryan Lewis"
+                }
+              ],
+              "id": "22315cdd-4ed9-427c-9492-560cf4afed58",
+              "title": "The Heist",
+              "type": "Album"
+            }
+          ],
+          "title": "Thin Line"
+        }
+      ],
+      "score": 0.93961
+    }
+  ],
+  "status": "ok"
+}

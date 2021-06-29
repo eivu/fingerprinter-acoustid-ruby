@@ -1,0 +1,186 @@
+{
+  "results": [
+    {
+      "id": "0cbb1999-688f-4660-bd70-c208ba515475",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "859d0860-d480-4efd-970c-c05d5f1776b8",
+              "name": "Beyoncé"
+            }
+          ],
+          "duration": 251,
+          "id": "18977802-5df1-4375-b78a-25e8833120c4",
+          "releasegroups": [
+            {
+              "id": "8596171e-23b2-4bdd-8f1c-11960df0ecbe",
+              "title": "BEYONCÉ",
+              "type": "Album"
+            }
+          ],
+          "title": "Flawless"
+        },
+        {
+          "artists": [
+            {
+              "id": "859d0860-d480-4efd-970c-c05d5f1776b8",
+              "joinphrase": " feat. ",
+              "name": "Beyoncé"
+            },
+            {
+              "id": "012fd9c9-1e34-4dc2-a8b8-da1136786771",
+              "name": "Chimamanda Ngozi Adichie"
+            }
+          ],
+          "duration": 250,
+          "id": "22d404f8-3229-41d3-bbd8-fd0661332fb9",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "859d0860-d480-4efd-970c-c05d5f1776b8",
+                  "name": "Beyoncé"
+                }
+              ],
+              "id": "8596171e-23b2-4bdd-8f1c-11960df0ecbe",
+              "title": "BEYONCÉ",
+              "type": "Album"
+            }
+          ],
+          "title": "***Flawless"
+        },
+        {
+          "artists": [
+            {
+              "id": "859d0860-d480-4efd-970c-c05d5f1776b8",
+              "joinphrase": " feat. ",
+              "name": "Beyoncé"
+            },
+            {
+              "id": "012fd9c9-1e34-4dc2-a8b8-da1136786771",
+              "name": "Chimamanda Ngozi Adichie"
+            }
+          ],
+          "duration": 252,
+          "id": "547967f0-f99d-448b-93cb-710fcba631a7",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "859d0860-d480-4efd-970c-c05d5f1776b8",
+                  "name": "Beyoncé"
+                }
+              ],
+              "id": "8596171e-23b2-4bdd-8f1c-11960df0ecbe",
+              "title": "BEYONCÉ",
+              "type": "Album"
+            }
+          ],
+          "title": "***Flawless"
+        },
+        {
+          "artists": [
+            {
+              "id": "859d0860-d480-4efd-970c-c05d5f1776b8",
+              "joinphrase": " feat. ",
+              "name": "Beyoncé"
+            },
+            {
+              "id": "012fd9c9-1e34-4dc2-a8b8-da1136786771",
+              "name": "Chimamanda Ngozi Adichie"
+            }
+          ],
+          "duration": 250,
+          "id": "56c6ec07-30c7-4a63-9df8-0af3cc311923",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "859d0860-d480-4efd-970c-c05d5f1776b8",
+                  "name": "Beyoncé"
+                }
+              ],
+              "id": "8596171e-23b2-4bdd-8f1c-11960df0ecbe",
+              "title": "BEYONCÉ",
+              "type": "Album"
+            }
+          ],
+          "title": "***Flawless"
+        }
+      ],
+      "score": 0.945187
+    },
+    {
+      "id": "ef4497b9-0e12-4945-955f-c459bc68a6d0",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "859d0860-d480-4efd-970c-c05d5f1776b8",
+              "joinphrase": " feat. ",
+              "name": "Beyoncé"
+            },
+            {
+              "id": "012fd9c9-1e34-4dc2-a8b8-da1136786771",
+              "name": "Chimamanda Ngozi Adichie"
+            }
+          ],
+          "duration": 250,
+          "id": "22d404f8-3229-41d3-bbd8-fd0661332fb9",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "859d0860-d480-4efd-970c-c05d5f1776b8",
+                  "name": "Beyoncé"
+                }
+              ],
+              "id": "8596171e-23b2-4bdd-8f1c-11960df0ecbe",
+              "title": "BEYONCÉ",
+              "type": "Album"
+            }
+          ],
+          "title": "***Flawless"
+        }
+      ],
+      "score": 0.927282
+    },
+    {
+      "id": "7e972aac-a1db-4d8e-968d-44f37be4a2bb",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "859d0860-d480-4efd-970c-c05d5f1776b8",
+              "joinphrase": " feat. ",
+              "name": "Beyoncé"
+            },
+            {
+              "id": "012fd9c9-1e34-4dc2-a8b8-da1136786771",
+              "name": "Chimamanda Ngozi Adichie"
+            }
+          ],
+          "duration": 250,
+          "id": "22d404f8-3229-41d3-bbd8-fd0661332fb9",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "859d0860-d480-4efd-970c-c05d5f1776b8",
+                  "name": "Beyoncé"
+                }
+              ],
+              "id": "8596171e-23b2-4bdd-8f1c-11960df0ecbe",
+              "title": "BEYONCÉ",
+              "type": "Album"
+            }
+          ],
+          "title": "***Flawless"
+        }
+      ],
+      "score": 0.530667
+    }
+  ],
+  "status": "ok"
+}

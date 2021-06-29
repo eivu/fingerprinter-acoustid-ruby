@@ -1,0 +1,167 @@
+{
+  "results": [
+    {
+      "id": "4d350ad8-b479-4cdb-bb98-5ccf8d55db8d",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "056e4f3e-d505-4dad-8ec1-d04f521cbb56",
+              "name": "Daft Punk"
+            }
+          ],
+          "duration": 132,
+          "id": "35952a89-5140-4db7-a08c-c8d93f723566",
+          "releasegroups": [
+            {
+              "id": "66ecf2c3-441f-3981-b85f-a005d9cc582d",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Musique, Volume 1: 1993–2005",
+              "type": "Album"
+            }
+          ],
+          "title": "Something About Us"
+        },
+        {
+          "artists": [
+            {
+              "id": "056e4f3e-d505-4dad-8ec1-d04f521cbb56",
+              "name": "Daft Punk"
+            }
+          ],
+          "duration": 133,
+          "id": "43c55fb8-d18f-4ff3-a0d8-c6b54da43e5b",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "056e4f3e-d505-4dad-8ec1-d04f521cbb56",
+                  "name": "Daft Punk"
+                }
+              ],
+              "id": "1fd2e0fe-90f6-35ca-92c0-d816ab3bb79c",
+              "secondarytypes": [
+                "Remix"
+              ],
+              "title": "Daft Club",
+              "type": "Album"
+            },
+            {
+              "id": "13ba6204-83e8-3bf2-aeb4-05b14acc9167",
+              "title": "Something About Us: Love Theme From Interstella 5555",
+              "type": "Single"
+            }
+          ],
+          "title": "Something About Us (Love Theme From Interstella 5555)"
+        },
+        {
+          "artists": [
+            {
+              "id": "056e4f3e-d505-4dad-8ec1-d04f521cbb56",
+              "name": "Daft Punk"
+            }
+          ],
+          "duration": 231,
+          "id": "defbfcb2-7a5c-4456-be28-b7e5ccf92cc2",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "056e4f3e-d505-4dad-8ec1-d04f521cbb56",
+                  "name": "Daft Punk"
+                }
+              ],
+              "id": "48117b90-a16e-34ca-a514-19c702df1158",
+              "title": "Discovery",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "909283d8-f8f2-32c7-9b9e-31f651a2a4e0",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Best in Lounge: Masters of Electronica",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "9b915452-d9f5-4c54-9683-1e258d99ce9d",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Relax and Unwind: Chilled Pop Throwback Classics",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "7cd0ada2-fc53-44c5-8f50-8ffd267d8a09",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "100 Greatest: Chillout",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "056e4f3e-d505-4dad-8ec1-d04f521cbb56",
+                  "name": "Daft Punk"
+                }
+              ],
+              "id": "13ba6204-83e8-3bf2-aeb4-05b14acc9167",
+              "title": "Something About Us: Love Theme From Interstella 5555",
+              "type": "Single"
+            },
+            {
+              "id": "66ecf2c3-441f-3981-b85f-a005d9cc582d",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Musique, Volume 1: 1993–2005",
+              "type": "Album"
+            }
+          ],
+          "title": "Something About Us"
+        },
+        {
+          "artists": [
+            {
+              "id": "056e4f3e-d505-4dad-8ec1-d04f521cbb56",
+              "name": "Daft Punk"
+            }
+          ],
+          "duration": 135,
+          "id": "ea0db885-44f3-47c8-adce-4181ef2fe64a",
+          "releasegroups": [
+            {
+              "id": "13ba6204-83e8-3bf2-aeb4-05b14acc9167",
+              "title": "Something About Us: Love Theme From Interstella 5555",
+              "type": "Single"
+            }
+          ],
+          "title": "Something About Us (Love Theme From Interstella 5555)"
+        }
+      ],
+      "score": 0.94673
+    }
+  ],
+  "status": "ok"
+}

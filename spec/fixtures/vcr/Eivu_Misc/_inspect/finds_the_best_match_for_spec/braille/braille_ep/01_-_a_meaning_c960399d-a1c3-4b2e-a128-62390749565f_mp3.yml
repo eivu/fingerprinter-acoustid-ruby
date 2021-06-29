@@ -21,7 +21,7 @@ http_interactions:
       message: OK
     headers:
       Date:
-      - Tue, 29 Jun 2021 13:42:15 GMT
+      - Tue, 29 Jun 2021 21:17:21 GMT
       Content-Type:
       - application/json; charset=UTF-8
       Transfer-Encoding:
@@ -33,7 +33,7 @@ http_interactions:
       Access-Control-Allow-Origin:
       - "*"
       X-Envoy-Upstream-Service-Time:
-      - '1108'
+      - '214'
       Strict-Transport-Security:
       - max-age=15724800; includeSubDomains
     body:
@@ -44,5 +44,5 @@ http_interactions:
         [{"id": "02deedd2-3874-4db0-bd23-110019cdcfb2", "title": "A Meaning", "type":
         "EP"}], "title": "A Meaning"}], "score": 0.983692}], "status": "ok"}'
     http_version:
-  recorded_at: Tue, 29 Jun 2021 13:42:16 GMT
+  recorded_at: Tue, 29 Jun 2021 21:17:21 GMT
 recorded_with: VCR 3.0.3

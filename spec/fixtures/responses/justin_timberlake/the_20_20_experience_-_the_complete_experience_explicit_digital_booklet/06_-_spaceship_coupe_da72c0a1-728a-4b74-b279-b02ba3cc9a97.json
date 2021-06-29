@@ -1,0 +1,43 @@
+{
+  "results": [
+    {
+      "id": "f4a44677-bb82-4b95-828e-07f39bead7c2",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "596ffa74-3d08-44ef-b113-765d43d12738",
+              "name": "Justin Timberlake"
+            }
+          ],
+          "duration": 437,
+          "id": "9dbacfba-4866-4bab-8bd6-f92aca6c6995",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "596ffa74-3d08-44ef-b113-765d43d12738",
+                  "name": "Justin Timberlake"
+                }
+              ],
+              "id": "deae6fc2-a675-4f35-9565-d2aaea4872c7",
+              "title": "The 20/20 Experience",
+              "type": "Album"
+            },
+            {
+              "id": "fe51b20f-83e4-49dd-9a36-b8d4da138325",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "The Complete 20/20 Experience",
+              "type": "Album"
+            }
+          ],
+          "title": "Spaceship Coupe"
+        }
+      ],
+      "score": 0.997165
+    }
+  ],
+  "status": "ok"
+}

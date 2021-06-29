@@ -1,0 +1,29 @@
+{
+  "results": [
+    {
+      "id": "10469b8a-9b8f-4f66-88c2-75ec4d8daf1d",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "8dd98bdc-80ec-4e93-8509-2f46bafc09a7",
+              "name": "Calvin Harris"
+            }
+          ],
+          "duration": 108,
+          "id": "1905359d-1d29-4715-83d7-4b3a80ab6fe8",
+          "releasegroups": [
+            {
+              "id": "98432828-5764-4892-9e3f-9c674cf70acb",
+              "title": "18 Months",
+              "type": "Album"
+            }
+          ],
+          "title": "School"
+        }
+      ],
+      "score": 0.937089
+    }
+  ],
+  "status": "ok"
+}

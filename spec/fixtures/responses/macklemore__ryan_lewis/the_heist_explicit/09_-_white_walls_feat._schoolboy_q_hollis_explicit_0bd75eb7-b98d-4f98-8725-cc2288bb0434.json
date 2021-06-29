@@ -1,0 +1,117 @@
+{
+  "results": [
+    {
+      "id": "17a4d7ab-a877-45ae-9902-8d0029d69019",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "97b226c8-7140-4da3-91ac-15e62e131a81",
+              "joinphrase": " feat. ",
+              "name": "Macklemore & Ryan Lewis"
+            },
+            {
+              "id": "bce6d667-cde8-485e-b078-c0a05adea36d",
+              "name": "ScHoolboy Q"
+            }
+          ],
+          "duration": 217,
+          "id": "28255062-0bfe-4439-a26e-816f9d733a4c",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "d42c1ad2-4543-4644-93af-a4acd0fea3db",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Promo Only: Mainstream Radio, October 2013",
+              "type": "Album"
+            }
+          ],
+          "title": "White Walls (Promo Only clean edit)"
+        },
+        {
+          "artists": [
+            {
+              "id": "97b226c8-7140-4da3-91ac-15e62e131a81",
+              "joinphrase": " feat. ",
+              "name": "Macklemore & Ryan Lewis"
+            },
+            {
+              "id": "bce6d667-cde8-485e-b078-c0a05adea36d",
+              "joinphrase": " & ",
+              "name": "ScHoolboy Q"
+            },
+            {
+              "id": "c020936a-65d2-486b-9f0e-d9d69d0b00a0",
+              "name": "Hollis"
+            }
+          ],
+          "duration": 220,
+          "id": "6790b014-44aa-4179-99e8-028c2c55b83a",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "0c2fdbce-04a5-4c91-bf7b-cb9670b0a7e3",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Bravo Hits 84",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "b6d7ec94-830c-44dd-b699-ce66556b7e55",
+                  "joinphrase": " & ",
+                  "name": "Macklemore"
+                },
+                {
+                  "id": "c01560d1-6f69-48cf-a3c6-c94b65f099b1",
+                  "joinphrase": " feat. ",
+                  "name": "Ryan Lewis"
+                },
+                {
+                  "id": "bce6d667-cde8-485e-b078-c0a05adea36d",
+                  "joinphrase": " & ",
+                  "name": "Schoolboy Q"
+                },
+                {
+                  "id": "c020936a-65d2-486b-9f0e-d9d69d0b00a0",
+                  "name": "Hollis"
+                }
+              ],
+              "id": "c63368ef-9a91-4597-b052-fca291f02459",
+              "title": "White Walls",
+              "type": "Single"
+            },
+            {
+              "artists": [
+                {
+                  "id": "97b226c8-7140-4da3-91ac-15e62e131a81",
+                  "name": "Macklemore & Ryan Lewis"
+                }
+              ],
+              "id": "22315cdd-4ed9-427c-9492-560cf4afed58",
+              "title": "The Heist",
+              "type": "Album"
+            }
+          ],
+          "title": "White Walls"
+        }
+      ],
+      "score": 0.963476
+    }
+  ],
+  "status": "ok"
+}

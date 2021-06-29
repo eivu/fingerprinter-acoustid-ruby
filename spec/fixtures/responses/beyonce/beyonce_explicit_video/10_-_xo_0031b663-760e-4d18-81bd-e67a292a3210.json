@@ -1,0 +1,131 @@
+{
+  "results": [
+    {
+      "id": "36320d98-5c30-4e72-a70d-cec26dba3469",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "859d0860-d480-4efd-970c-c05d5f1776b8",
+              "name": "Beyoncé"
+            }
+          ],
+          "duration": 215,
+          "id": "d6aba709-74bd-43ae-b01c-3169c3668acd",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "9d8271f2-f9bb-4bc3-a5a9-9aaebd490829",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Knuffelrock 2016",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "859d0860-d480-4efd-970c-c05d5f1776b8",
+                  "name": "Beyoncé"
+                }
+              ],
+              "id": "3e1387d0-c3c0-4b02-8abe-b6bb40b409b6",
+              "title": "XO/Drunk in Love",
+              "type": "Single"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "2c9987c4-aea9-42bb-b0fd-d4680a63957b",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Kuschelrock 29",
+              "type": "Album"
+            },
+            {
+              "id": "8596171e-23b2-4bdd-8f1c-11960df0ecbe",
+              "title": "BEYONCÉ",
+              "type": "Album"
+            }
+          ],
+          "title": "XO"
+        }
+      ],
+      "score": 0.99644
+    },
+    {
+      "id": "b45cf941-4247-4e4e-8e48-f842717d2424",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "859d0860-d480-4efd-970c-c05d5f1776b8",
+              "name": "Beyoncé"
+            }
+          ],
+          "duration": 215,
+          "id": "d6aba709-74bd-43ae-b01c-3169c3668acd",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "9d8271f2-f9bb-4bc3-a5a9-9aaebd490829",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Knuffelrock 2016",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "859d0860-d480-4efd-970c-c05d5f1776b8",
+                  "name": "Beyoncé"
+                }
+              ],
+              "id": "3e1387d0-c3c0-4b02-8abe-b6bb40b409b6",
+              "title": "XO/Drunk in Love",
+              "type": "Single"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "2c9987c4-aea9-42bb-b0fd-d4680a63957b",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Kuschelrock 29",
+              "type": "Album"
+            },
+            {
+              "id": "8596171e-23b2-4bdd-8f1c-11960df0ecbe",
+              "title": "BEYONCÉ",
+              "type": "Album"
+            }
+          ],
+          "title": "XO"
+        }
+      ],
+      "score": 0.943895
+    }
+  ],
+  "status": "ok"
+}

@@ -21,7 +21,7 @@ http_interactions:
       message: OK
     headers:
       Date:
-      - Tue, 29 Jun 2021 13:48:15 GMT
+      - Tue, 29 Jun 2021 21:24:02 GMT
       Content-Type:
       - application/json; charset=UTF-8
       Transfer-Encoding:
@@ -33,7 +33,7 @@ http_interactions:
       Access-Control-Allow-Origin:
       - "*"
       X-Envoy-Upstream-Service-Time:
-      - '1056'
+      - '260'
       Strict-Transport-Security:
       - max-age=15724800; includeSubDomains
     body:
@@ -1123,5 +1123,5 @@ http_interactions:
         {"id": "9652c93c-60db-45e9-a668-dacafd507f6d"}], "score": 0.967431}], "status":
         "ok"}'
     http_version:
-  recorded_at: Tue, 29 Jun 2021 13:48:15 GMT
+  recorded_at: Tue, 29 Jun 2021 21:24:02 GMT
 recorded_with: VCR 3.0.3

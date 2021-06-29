@@ -1,0 +1,730 @@
+{
+  "results": [
+    {
+      "id": "d3cc4ebb-30e2-4bd8-8a9d-44f3897fd5f6",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "b7539c32-53e7-4908-bda3-81449c367da6",
+              "name": "Lana Del Rey"
+            }
+          ],
+          "duration": 265,
+          "id": "8c712e50-1822-4caf-9eb1-6d9cf6f8556f",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "933beda1-1ef0-456e-b9f5-905dd7a47ed2",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Cafe Puls Hits 12",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "b7539c32-53e7-4908-bda3-81449c367da6",
+                  "name": "Lana Del Rey"
+                }
+              ],
+              "id": "4b16a1bc-8644-48ae-9b3e-8ae36aa30cfc",
+              "title": "Born to Die",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "b7539c32-53e7-4908-bda3-81449c367da6",
+                  "name": "Lana Del Rey"
+                }
+              ],
+              "id": "cb80cb03-f5f2-4a7d-a91f-914ba791a4f9",
+              "secondarytypes": [
+                "Remix"
+              ],
+              "title": "Summertime Sadness (The Remix EP)",
+              "type": "EP"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "35689ef9-56f2-4e8e-b93a-cf97930142a8",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Energy NRJ: Hit Music Only! Best of 2013, Volume 2",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "59d5f40e-f287-43c3-99b8-65c641fad6db",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Bravo Hits 78",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "168431c3-abb9-4af7-b3c9-4e38a0ee0871",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "W9 Hits 2014",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "f5fa6559-ef5d-4bd2-957d-f6efa092b05a",
+              "title": "Kuschelrock 27&28"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "6a1cc74e-7253-42b0-bcee-cbecaeb88365",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Bravo: The Hits 2012",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "91d6711a-d925-49ec-867d-4fd2f537eff6",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Chérie FM Pop Love Music",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "062e36db-cfd1-4def-8025-5e91e641797a",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "NRJ Hit Music Only! 2013 Vol. 2",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "b7539c32-53e7-4908-bda3-81449c367da6",
+                  "name": "Lana Del Rey"
+                }
+              ],
+              "id": "153a4039-dbef-44f2-ab4a-3135c3b3d9b0",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Greatest Hits",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "b7539c32-53e7-4908-bda3-81449c367da6",
+                  "name": "Lana Del Rey"
+                }
+              ],
+              "id": "3baea784-ef39-434f-ab72-95ca773029b0",
+              "title": "Summertime Sadness",
+              "type": "Single"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "49b0d35b-8b68-4f9a-b8d4-d3770d10c275",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Laidback Beats",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "a6730a4a-0a5c-4b87-8ddb-d3e8bcdcbf33",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Knuffelrock 2018",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "b7539c32-53e7-4908-bda3-81449c367da6",
+                  "name": "Lana Del Rey"
+                }
+              ],
+              "id": "c6c0ec90-3088-4bd2-8d05-d171adec6102",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Greatest Hits",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "901ddbca-5c31-4ee7-bd5b-819c54564513",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Kuschelrock 27",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "b7539c32-53e7-4908-bda3-81449c367da6",
+                  "name": "Lana Del Rey"
+                }
+              ],
+              "id": "968fa2f6-1b7e-428e-86ea-6d9dd2e6e204",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Greatest Songs",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "be2d64ba-2fc3-431f-8d49-51d70d4741d7",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "The Sound of Summer 2020",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "315cec62-3585-475e-ab80-ad0594c5b06a",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "NRJ Hits 2013, Volume 2",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "787e8aec-6578-464c-844e-3ad43e5f207a",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "100x Winter 2013",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "f160270c-e73f-4619-b008-05ad33ce94a0",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Your Winter Mix Tape 2015",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "3461ca3f-04ec-431a-9fb2-3ca419df9f1c",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Ö3 Greatest Hits 58",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "a4ef28b7-7fff-488a-9dea-f5df03f890b7",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Knuffelrock 2017",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "4d314866-633b-44aa-9a17-7db794d1115d",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "The Dome: Summer 2012",
+              "type": "Album"
+            }
+          ],
+          "title": "Summertime Sadness"
+        }
+      ],
+      "score": 0.986648
+    },
+    {
+      "id": "23726db0-91d6-440f-8c3d-295b9daedcb7",
+      "score": 0.977782
+    },
+    {
+      "id": "6b87a48e-09d9-4122-8c9e-c6f3b0a93b78",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "b7539c32-53e7-4908-bda3-81449c367da6",
+              "name": "Lana Del Rey"
+            }
+          ],
+          "duration": 265,
+          "id": "8c712e50-1822-4caf-9eb1-6d9cf6f8556f",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "933beda1-1ef0-456e-b9f5-905dd7a47ed2",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Cafe Puls Hits 12",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "b7539c32-53e7-4908-bda3-81449c367da6",
+                  "name": "Lana Del Rey"
+                }
+              ],
+              "id": "4b16a1bc-8644-48ae-9b3e-8ae36aa30cfc",
+              "title": "Born to Die",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "b7539c32-53e7-4908-bda3-81449c367da6",
+                  "name": "Lana Del Rey"
+                }
+              ],
+              "id": "cb80cb03-f5f2-4a7d-a91f-914ba791a4f9",
+              "secondarytypes": [
+                "Remix"
+              ],
+              "title": "Summertime Sadness (The Remix EP)",
+              "type": "EP"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "35689ef9-56f2-4e8e-b93a-cf97930142a8",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Energy NRJ: Hit Music Only! Best of 2013, Volume 2",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "59d5f40e-f287-43c3-99b8-65c641fad6db",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Bravo Hits 78",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "168431c3-abb9-4af7-b3c9-4e38a0ee0871",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "W9 Hits 2014",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "f5fa6559-ef5d-4bd2-957d-f6efa092b05a",
+              "title": "Kuschelrock 27&28"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "6a1cc74e-7253-42b0-bcee-cbecaeb88365",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Bravo: The Hits 2012",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "91d6711a-d925-49ec-867d-4fd2f537eff6",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Chérie FM Pop Love Music",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "062e36db-cfd1-4def-8025-5e91e641797a",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "NRJ Hit Music Only! 2013 Vol. 2",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "b7539c32-53e7-4908-bda3-81449c367da6",
+                  "name": "Lana Del Rey"
+                }
+              ],
+              "id": "153a4039-dbef-44f2-ab4a-3135c3b3d9b0",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Greatest Hits",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "b7539c32-53e7-4908-bda3-81449c367da6",
+                  "name": "Lana Del Rey"
+                }
+              ],
+              "id": "3baea784-ef39-434f-ab72-95ca773029b0",
+              "title": "Summertime Sadness",
+              "type": "Single"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "49b0d35b-8b68-4f9a-b8d4-d3770d10c275",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Laidback Beats",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "a6730a4a-0a5c-4b87-8ddb-d3e8bcdcbf33",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Knuffelrock 2018",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "b7539c32-53e7-4908-bda3-81449c367da6",
+                  "name": "Lana Del Rey"
+                }
+              ],
+              "id": "c6c0ec90-3088-4bd2-8d05-d171adec6102",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Greatest Hits",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "901ddbca-5c31-4ee7-bd5b-819c54564513",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Kuschelrock 27",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "b7539c32-53e7-4908-bda3-81449c367da6",
+                  "name": "Lana Del Rey"
+                }
+              ],
+              "id": "968fa2f6-1b7e-428e-86ea-6d9dd2e6e204",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Greatest Songs",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "be2d64ba-2fc3-431f-8d49-51d70d4741d7",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "The Sound of Summer 2020",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "315cec62-3585-475e-ab80-ad0594c5b06a",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "NRJ Hits 2013, Volume 2",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "787e8aec-6578-464c-844e-3ad43e5f207a",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "100x Winter 2013",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "f160270c-e73f-4619-b008-05ad33ce94a0",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Your Winter Mix Tape 2015",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "3461ca3f-04ec-431a-9fb2-3ca419df9f1c",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Ö3 Greatest Hits 58",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "a4ef28b7-7fff-488a-9dea-f5df03f890b7",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Knuffelrock 2017",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "4d314866-633b-44aa-9a17-7db794d1115d",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "The Dome: Summer 2012",
+              "type": "Album"
+            }
+          ],
+          "title": "Summertime Sadness"
+        },
+        {
+          "artists": [
+            {
+              "id": "b7539c32-53e7-4908-bda3-81449c367da6",
+              "name": "Lana Del Rey"
+            }
+          ],
+          "duration": 261,
+          "id": "af471904-7611-4a50-8ece-da749e3b0869",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "e78f0da9-537d-40a3-9faa-b00890de54a4",
+              "secondarytypes": [
+                "Compilation",
+                "DJ-mix"
+              ],
+              "title": "Ministry of Sound: Chillout Sessions XVI",
+              "type": "Album"
+            }
+          ],
+          "title": "Summertime Sadness (radio mix)"
+        },
+        {
+          "id": "b9893f7d-73bc-4fb6-a848-ddc07aaf9a76"
+        }
+      ],
+      "score": 0.938027
+    }
+  ],
+  "status": "ok"
+}

@@ -1,0 +1,32 @@
+{
+  "results": [
+    {
+      "id": "a7574c06-b298-4e34-9e60-fad185709233",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "7fb57fba-a6ef-44c2-abab-2fa3bdee607e",
+              "name": "Childish Gambino"
+            }
+          ],
+          "duration": 203,
+          "id": "6b50de5d-ab8a-472c-a4c0-2e6505e167db",
+          "releasegroups": [
+            {
+              "id": "5253c012-f7d3-440e-919b-5bac6d91ae7e",
+              "title": "Camp",
+              "type": "Album"
+            }
+          ],
+          "title": "Fire Fly"
+        },
+        {
+          "id": "e1814a81-5f1c-43a6-b824-cb2552cd73c3"
+        }
+      ],
+      "score": 0.97653
+    }
+  ],
+  "status": "ok"
+}

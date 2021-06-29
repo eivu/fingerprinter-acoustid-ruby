@@ -1,0 +1,65 @@
+{
+  "results": [
+    {
+      "id": "78dafd27-4c1f-4f99-9049-059bf39f666f",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "596ffa74-3d08-44ef-b113-765d43d12738",
+              "joinphrase": " feat. ",
+              "name": "Justin Timberlake"
+            },
+            {
+              "id": "f82bcf78-5b69-4622-a5ef-73800768d9ac",
+              "name": "Jay-Z"
+            }
+          ],
+          "duration": 326,
+          "id": "70003461-a6b3-4780-98e2-e1897cee0a7a",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "596ffa74-3d08-44ef-b113-765d43d12738",
+                  "name": "Justin Timberlake"
+                }
+              ],
+              "id": "deae6fc2-a675-4f35-9565-d2aaea4872c7",
+              "title": "The 20/20 Experience",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "596ffa74-3d08-44ef-b113-765d43d12738",
+                  "name": "Justin Timberlake"
+                }
+              ],
+              "id": "fe51b20f-83e4-49dd-9a36-b8d4da138325",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "The Complete 20/20 Experience",
+              "type": "Album"
+            },
+            {
+              "id": "8f24e37b-5035-4383-89ff-818417f143e8",
+              "title": "Suit & Tie",
+              "type": "Single"
+            }
+          ],
+          "title": "Suit & Tie"
+        },
+        {
+          "id": "89408e9d-7dc4-4b64-90fa-500109c81042"
+        },
+        {
+          "id": "c8569ec2-8e9b-4729-a081-dd010e5aaec4"
+        }
+      ],
+      "score": 0.938908
+    }
+  ],
+  "status": "ok"
+}

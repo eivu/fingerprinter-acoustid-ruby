@@ -1,0 +1,56 @@
+{
+  "results": [
+    {
+      "id": "eb6a90af-9396-404d-812a-53502191071b",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "c5c2ea1c-4bde-4f4d-bd0b-47b200bf99d6",
+              "name": "The xx"
+            }
+          ],
+          "duration": 158,
+          "id": "45e5789e-edf4-4cf0-a6a2-94aa06a7313a",
+          "releasegroups": [
+            {
+              "id": "23355caf-a543-4b5f-80fe-449101868fc1",
+              "title": "xx",
+              "type": "Album"
+            }
+          ],
+          "title": "Fantasy"
+        },
+        {
+          "artists": [
+            {
+              "id": "c5c2ea1c-4bde-4f4d-bd0b-47b200bf99d6",
+              "name": "The xx"
+            }
+          ],
+          "duration": 159,
+          "id": "9fc0f333-8b67-4f6a-baf9-0aef0acb92c2",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "34fccfaf-cdd8-4d75-acdc-7388bf61c7a9",
+              "secondarytypes": [
+                "Soundtrack"
+              ],
+              "title": "告白 オリジナル・サウンドトラック",
+              "type": "Album"
+            }
+          ],
+          "title": "Fantasy"
+        }
+      ],
+      "score": 0.93369
+    }
+  ],
+  "status": "ok"
+}

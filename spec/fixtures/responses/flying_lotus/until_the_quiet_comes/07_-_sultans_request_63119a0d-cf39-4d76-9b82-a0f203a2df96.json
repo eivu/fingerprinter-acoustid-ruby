@@ -1,0 +1,29 @@
+{
+  "results": [
+    {
+      "id": "a9e10685-e388-4651-af96-496adfa282af",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "fc7376fe-1a6f-4414-b4a7-83f50ed59c92",
+              "name": "Flying Lotus"
+            }
+          ],
+          "duration": 102,
+          "id": "4e2122c7-f260-41da-9766-1dec93609b1b",
+          "releasegroups": [
+            {
+              "id": "eb9e0983-2478-4494-a8e2-e4117c2ba40f",
+              "title": "Until the Quiet Comes",
+              "type": "Album"
+            }
+          ],
+          "title": "Sultan’s Request"
+        }
+      ],
+      "score": 0.948138
+    }
+  ],
+  "status": "ok"
+}

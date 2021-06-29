@@ -1,0 +1,28 @@
+{
+  "results": [
+    {
+      "id": "e66dde9c-45d4-4c1a-93e8-d620863fa65f",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "4bc9e8c3-7eae-454f-a56c-bccf96f3926b",
+              "name": "Sammy Davis Jr."
+            }
+          ],
+          "duration": 240,
+          "id": "ab5497d5-0388-4582-b012-08c902a77d65",
+          "releasegroups": [
+            {
+              "id": "6fac76ed-b861-3519-9df3-04355946ec58",
+              "title": "At the Cocoanut Grove"
+            }
+          ],
+          "title": "Falling in Love Again"
+        }
+      ],
+      "score": 0.998352
+    }
+  ],
+  "status": "ok"
+}

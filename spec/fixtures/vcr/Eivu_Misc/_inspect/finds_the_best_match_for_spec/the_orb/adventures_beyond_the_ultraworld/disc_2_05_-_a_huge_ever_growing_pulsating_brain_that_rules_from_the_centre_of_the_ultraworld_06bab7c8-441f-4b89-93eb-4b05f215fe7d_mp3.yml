@@ -1,0 +1,57 @@
+---
+http_interactions:
+- request:
+    method: get
+    uri: https://api.acoustid.org/v2/lookup?client=<ACOUSTID_CLIENT_ID>&duration=1126&fingerprint=AQADtFK1RFISDu-N5DdyZanQH03-4Cil8HiP1khOXkU-yehh_SiZHRdyaFwR_cTmHO_wId-h2Uf04LiLHpfgo81GfEeS9shRLszRkDouPOJxJhKSaxfiS0S5YwtHXDHO4zlRI9eL5CjJYArF4MVJvMi3HDo_RI-K6oePKrLwDsmVF_nw4zwmMjya0MYZXbi0Iz-J5JWMHR-4H88LRmOEZoqWEe-F5MiNM5gSbkc4Bueh88i5EvOL4wiXchDjpULY6MWPnUD5OMWHNIQcZQil7MSJX8QeHD8RShkvKJskEeGb48XxH32QRtqQzBkunMOfEP_xHlVyfOTwIy139KE56D1-PFdQSRuOJ7khXuiL5zjuKMNFGnoQWoetKEfdmMiPy1D1HN32IM2U46LRZ8Fj4cf1IT_U5EFQRzncLUa_4z_iaBJ0UTni6qgFX6i-4lElVKlQ5setGDlqG7akovahqkF7PLphF-7yAX7QE48P_bjQ4wucUui2HTf0HP9ihPbhRscf9MgtHbdk_IfyhUZ-7DRqoUmnvPj24zry7NBF9E2HtEOPsh--B-F6qDryxfjRG36OT0eZITYSU7vRMw4aTdHxH1dwKZHR13iRPER4Bd-LJl6JLsePL2h1pBxv6IVFzYOzCRf0LkV_RNaFd_iIrj2OhhGPF8mRU7BG5cOFi8eHXsdzJFd25Mfx44cn5ziP_BP0Izx-_EeP7Ud0CPl5fBm-w0mOPkdyjshF9MR5fOLx34h-JIzQZSGFyxR-odkw-ViPH-EHcV1WhI14lMOJf8GRwyeSSlMOv0S1H-fRNYPjWSnCE9qJ_PiEJuvxHUeTZTRKInwuDWJ3hBfG48hPqDp6mki56fgOpymiRjrEnAh8fIEb_XjwrnDM4smRnoVmB_2E0MWPH_mHil8gWjlCatfxPCSuCP_xiwh1MhB3Dh9ySQrqMPiJO4iPUo6hC54uhD-e4P-wNif-FM9RMseUSkqPPAt0PC-OJ2JQrkdTJR9ufDme7fhLXMmLsjvSI7x8nMHZQ1sU5XC2HydjHGKT45LxNHBO9Oqgh_iN3EafKHAyMR2q4w-e7PjCI3zhitB0_MaPCK8u5ONRslBQTzpCKuLhHC1PdNHhaFJiPCa840hz3DleQj9u-CM0KZOC81gpBeED_3iPXMyGH6I8xDoOn2h3oVaR5DqRi8Ir-B7ObMel5EG340eyH6nSiOiPG49y5CqEXPmCRuglnbgkHnk-NIf2FR9CH853HB-a7cZHfETOwwz0hTkuIsyP_vgy5Dk0T0HKHR1xXeh5pIeqHrmGA-P5wBf6Y9eRQ-8RPj0--Dhe7chPJOvx-Zi84ResH9UXDkeuINkvPDE8iUHl6FiJyke-kFBEiUeeETw3_EeVPASTE3misUguAT8-TEkmKUXoQLVV5MeNUT2NH8wuXM1GUDxCSid0VsgvHGWHLZljvEebC_mJ5MMr7MN_NApCjdKgvEeuD8-Oo_zhPPgRilEOPdGRPyEu4fTw4OoaPMkR5vyhOWE6XEJ-_LjIIIzmB2pVDnlyXOrQM8PxKxGq-Dg_lKmH0PoKPdKRfkEvPD_-OCiVSB7yZIf4EL2C4Beq-IH3HCFzCzoRXorx40El4smPUBQvuNEJ_SGKXAniC88jVMqLH-_xRIfYKYGGP3gyHpfEDI11BT_-40GV46mF9wN6uDuqTkeV7fgLPT96xsJ_hE4OP6jyxLgzCuEp6DJCZjteHH0-NKGDpw-e5UNJIWEX5XgvxDzu48fJ4EUy8kN-HH0OJzMqy3iRZ-ugJwxyHz2aXB8e__iPPDqS7zgaS6jVEdePqx8uIXweJD3-HK4kTuj84-LwCd-CnDSSixzOHj0P5xm6UblxLQseXsiF5BRxKUezSB8qScfxMEqK8NBaD_mDOztOoU9INJO74klyJKeOHGeKStphSRFCEVq3IF869DKOLxnxXWhyVGmiFLnIEMl1PD5qHV559JGOuviTI9lKSsib4xmLa0Vf-K2M7kcsuYOu5EMuEX3hGlXxRsN5Iek75MonlOvhivgSODruUcJPpNx1JHN6_DiJ5qnQ43uQVAsp5MmD6xIa_Sh-5SiPaNwhTj6iy8OFu4cvGTfyQycRlkqIT0e9PbCOfggFcS9yF1cIh-mH9zhu5shFiI2Q4xXREz8-oko6HmFeK9CRJ1KKN8d1XDzuBaGU-NDzIT16Eo-EPxuOK2eQn4OWH6Gz4f1w_Hg6fM8RZspRH6o_4VKQWzluHc-Nsxu-I2eKJkx4aJuS4y9-4xoejYPmC_4R_riZ4Y1wpavwH0fzoD8-HeFziOyLHE7KoBeqKg9c4ToqXEcu0viDK6ibHLaGWjqeHOVZPPXwbBd0OAh_zKSFvxj14D7qJDvcJihuIs-hUUFF9ehzNDqBH1eTov2Fa9CD9DicD__gqDuKI8x1aI-DmEaj76h05Ce0xkdKaTmq4-mI6UUT_cGVI9cOTe8QaR2qC76G3jhK5Uh-CSH9oPCFUgmN8xmuyfjxcUGyH2GGJ1OOMzuO7irsBjkzDwl_tMcf3Efz7EH34BeSkwZjgDDCCgKCMAAYYRRBBBJGGKEAWcgcJ4pJAJAwzABhnDGCIIAI4IYBAoAhlACEHANMCKAIABgCIwQSSDQAHBAEOCAUFsIJBggywwAgEBCAKG4IAEJQQgwRAhAIAgCiEMIkAQIABBiCQhhDhIQIKAKEFIgIAgCjiAFHlAACCEOEEA4wRAigABACgAICEEGAEEYIAgAQiABEAEBEIa0QIAYIwwwARChjkCIMISIQAoIyBgAEBEyhgDIEKEUAFdwCQJFgDEDBlAJCMgS8EAQBJxBRBjBAiAHCMGcYIwBQwQAQCDIACKFEGUaMYBQIaIwFRAqBEAIWASEKIAgwAwAAigBAgANCCoKEEQALI4wBEggAgCFOCUQcAgUIwIgzyAAAgBEMGGgEoQYBgwAhBgiGCCCKWQEAJoAAIAxwhkKAkPAACMIUoMoZaSgUiBBBkAEAAeaUYMIIZgwAAgChAEEACCaIQVIAgARRyAFpGCEIAYSAIAQISg4AwGEOiCCOAAAIANwARYRgThhgAFCEMOOYMAASAgAxRjHAjGBKImCcI0YgyAQxQiIgBIDMAoAAAAgSKAAQhgkJBCHEECIEgAIYgYwBzggBCEDACQEAYIAJwRAFDCAFgACAIAeEkoYQo5WwBAAgBFJEAQKEAwQBAxABQAElACDEGGYQUEQQAzUAgBAiBEHAMiCIAERICAwgABgkiAOCQQCIMIQBophQBABBkAGASIaYEIcBawQzwDAggAGCEEaAMAIIJogwRAhmBIBCCMQIQkgBgAhhABBMmFFAAKEEIAQYIggSAjkgDDSEEmAANIgwCYwghEgjARBACEEFAhBQAYBAhjBgACCAOKGIAcQAhgxQBgEBiABMMIAQMEhaIQkTAAAQBHFCAcIQMggCCaCQgAgGAAFAQaGAMMQUpQATDABAhBDAEKGMAwopwaAATBDiBDOAAAYFEIoIhAAgjCA&meta=recordings%20releasegroups%20compress
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      Accept:
+      - "*/*"
+      User-Agent:
+      - rest-client/2.1.0 (darwin20.3.0 x86_64) ruby/2.7.1p83
+      Accept-Encoding:
+      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+      Host:
+      - api.acoustid.org
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Date:
+      - Tue, 29 Jun 2021 21:23:21 GMT
+      Content-Type:
+      - application/json; charset=UTF-8
+      Transfer-Encoding:
+      - chunked
+      Connection:
+      - keep-alive
+      Vary:
+      - Accept-Encoding
+      Access-Control-Allow-Origin:
+      - "*"
+      X-Envoy-Upstream-Service-Time:
+      - '64'
+      Strict-Transport-Security:
+      - max-age=15724800; includeSubDomains
+    body:
+      encoding: ASCII-8BIT
+      string: '{"results": [{"id": "a6d27e32-dbf1-497c-a85a-60917f52c547", "recordings":
+        [{"id": "d6908dbb-3a5e-4a62-8526-ede1062d5ec8"}, {"artists": [{"id": "42c14c80-bd17-47e4-9bb2-a35897638c4d",
+        "name": "Orb"}], "duration": 1129, "id": "f36acf28-6801-4904-909d-c66183ae9ac4",
+        "releasegroups": [{"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "a3e61767-9840-45c2-9b2d-e5fbaa472d77",
+        "secondarytypes": ["Compilation"], "title": "Grand Theft Auto: Episodes From
+        Liberty City: Self-Actualization FM", "type": "Album"}, {"artists": [{"id":
+        "42c14c80-bd17-47e4-9bb2-a35897638c4d", "name": "The Orb"}], "id": "27b682b2-dd29-3e15-8ef2-f6475f4d262f",
+        "title": "The Orb\u2019s Adventures Beyond the Ultraworld", "type": "Album"},
+        {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various
+        Artists"}], "id": "2809f029-b482-448a-ba46-129fb3ae5ee1", "secondarytypes":
+        ["Soundtrack"], "title": "Grand Theft Auto IV Radio", "type": "Album"}], "title":
+        "A Huge Ever Growing Pulsating Brain That Rules From the Centre of the Ultraworld
+        (live mix mk 10)"}], "score": 0.947}], "status": "ok"}'
+    http_version:
+  recorded_at: Tue, 29 Jun 2021 21:23:21 GMT
+recorded_with: VCR 3.0.3

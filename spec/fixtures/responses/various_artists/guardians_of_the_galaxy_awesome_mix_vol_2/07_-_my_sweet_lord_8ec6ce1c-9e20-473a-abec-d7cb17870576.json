@@ -1,0 +1,408 @@
+{
+  "results": [
+    {
+      "id": "ae66ebf8-f312-4763-8634-386dc27bda79",
+      "recordings": [
+        {
+          "id": "17407acb-4538-42f4-9527-74332682c0af"
+        },
+        {
+          "artists": [
+            {
+              "id": "42a8f507-8412-4611-854f-926571049fa0",
+              "name": "George Harrison"
+            }
+          ],
+          "duration": 279,
+          "id": "7571a56b-994e-4829-ae8b-71abb84809be",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
+                  "name": "The Beatles"
+                }
+              ],
+              "id": "c529a513-c088-4712-b39c-7cefb6f89eda",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Instant Karma!",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "42a8f507-8412-4611-854f-926571049fa0",
+                  "name": "George Harrison"
+                }
+              ],
+              "id": "e5a2bdb8-f42f-351f-afb7-d24ab35967e8",
+              "title": "My Sweet Lord",
+              "type": "Single"
+            },
+            {
+              "artists": [
+                {
+                  "id": "42a8f507-8412-4611-854f-926571049fa0",
+                  "name": "George Harrison"
+                }
+              ],
+              "id": "23a581d7-d56c-3c92-a191-10fc9b4fd21d",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "The Best of George Harrison",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "23075ef5-2e00-4624-9982-e79c2a678194",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "The Complete Apple Singles Collection, Volume 2: 1969-1971",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "42a8f507-8412-4611-854f-926571049fa0",
+                  "name": "George Harrison"
+                }
+              ],
+              "id": "bea5dfc5-268c-4c97-b338-e6dc50d59eb1",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "The Apple Years 1968–75",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "42a8f507-8412-4611-854f-926571049fa0",
+                  "name": "George Harrison"
+                }
+              ],
+              "id": "cdad74c7-3b31-4afb-a02e-6b9a9d27d908",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Let It Roll: Songs by George Harrison",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "f6caf912-2b34-444e-85d0-5490243e8a86",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Mastermix Classic Cuts: 50 Years of Pop",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "0741a19c-8663-431d-b7e7-c58e4dd8e649",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "The No.1 DJ Collection: 70s (Digital Collection)",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "a12469b7-1df0-401a-bc86-bd790e283832",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "100 Hits Band on the Run",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "108fce0d-a411-31b8-bdef-9e98b0f875f1",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "The No.1 DJ Collection: 70's, Volume 1",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "42a8f507-8412-4611-854f-926571049fa0",
+                  "name": "George Harrison"
+                }
+              ],
+              "id": "d1488b2e-b9bb-408a-be11-0255041b3344",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Greatest Hits",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "42a8f507-8412-4611-854f-926571049fa0",
+                  "name": "George Harrison"
+                }
+              ],
+              "id": "d4b0f3e2-e3eb-3531-b305-ed8105cb5be4",
+              "title": "All Things Must Pass",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "618b6900-0618-4f1e-b835-bccb17f84294",
+                  "name": "Eric Clapton"
+                }
+              ],
+              "id": "f4da62c2-5eed-478d-bcda-2ba7b72de0b9",
+              "secondarytypes": [
+                "Compilation",
+                "Soundtrack"
+              ],
+              "title": "Life in 12 Bars",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "193dab6a-2cae-4ba7-b087-104e1a3c57e4",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "100 Hits She's a Lady",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "42a8f507-8412-4611-854f-926571049fa0",
+                  "name": "George Harrison"
+                }
+              ],
+              "id": "dbf35e58-4765-3728-9be3-7ac29cd7cc12",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Pirate Songs",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "42a8f507-8412-4611-854f-926571049fa0",
+                  "name": "George Harrison"
+                }
+              ],
+              "id": "2be1ec51-eaa0-4de2-b648-fae2acbd18e2",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Pirate Songs (Remastered Edition)",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "42a8f507-8412-4611-854f-926571049fa0",
+                  "name": "George Harrison"
+                }
+              ],
+              "id": "2bb5c04f-dbce-4eb9-b353-f7d24c0f162b",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "The Gold Collection",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "752bc3c8-709a-4db3-87e3-38f2359f6c67",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Capitol Records 50th Anniversary 1942–1992",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "8d87803a-ae9e-3be3-ae88-8ec7d5799542",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "The No.1 DJ Collection: 2000's, Volume 5",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "7e836750-3cd3-4c71-aa9e-b5143bc56a2b",
+              "secondarytypes": [
+                "Soundtrack"
+              ],
+              "title": "Guardians of the Galaxy: Awesome Mix, Vol. 2 (Original Motion Picture Soundtrack)",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "ce01f030-ffc3-4cd0-8bdf-e8296c160de8",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "The No.1 DJ Collection: 2000s (Digital Collection)",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "5adae889-f485-4775-bbf2-bd9a2e590ba9",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Mastermix Presents the 100 Collection: The 70s",
+              "type": "Album"
+            }
+          ],
+          "title": "My Sweet Lord"
+        },
+        {
+          "artists": [
+            {
+              "id": "42a8f507-8412-4611-854f-926571049fa0",
+              "name": "George Harrison"
+            }
+          ],
+          "duration": 278,
+          "id": "95d2d3f0-917d-4e6d-b3ad-8165922998d9",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "9aad83cc-6d1d-4fde-89b6-d200b8ec32d4",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "The Complete Apple Singles Collection 1968–1991",
+              "type": "Album"
+            }
+          ],
+          "title": "My Sweet Lord"
+        },
+        {
+          "artists": [
+            {
+              "id": "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
+              "name": "The Beatles"
+            }
+          ],
+          "duration": 278,
+          "id": "a5131506-3ff1-4a21-aba1-7158934c3175",
+          "releasegroups": [
+            {
+              "id": "dfc752a0-0b85-38c7-b95b-408fe7a8c4cf",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "The Black Album",
+              "type": "Album"
+            }
+          ],
+          "title": "George Harrison, “My Sweet Lord”"
+        },
+        {
+          "artists": [
+            {
+              "id": "42a8f507-8412-4611-854f-926571049fa0",
+              "name": "George Harrison"
+            }
+          ],
+          "duration": 278,
+          "id": "c2264dc5-9c85-42b7-b946-9bafe5dcc6d5",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "4a086b97-b747-4f41-a345-77464e2303be",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Classic Cuts Presents: 70s Night: The Definitive DJ Collection: G to K",
+              "type": "Album"
+            }
+          ],
+          "title": "My Sweet Lord"
+        },
+        {
+          "id": "dde365d2-31d4-4605-ae61-ebb6b4bf39e3"
+        }
+      ],
+      "score": 0.939214
+    }
+  ],
+  "status": "ok"
+}

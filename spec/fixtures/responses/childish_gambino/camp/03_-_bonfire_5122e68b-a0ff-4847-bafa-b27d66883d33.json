@@ -1,0 +1,43 @@
+{
+  "results": [
+    {
+      "id": "1c609256-a933-42bf-98cc-a28026262ea1",
+      "recordings": [
+        {
+          "id": "70325d64-2a9e-425f-a7a2-9277c6971d08"
+        },
+        {
+          "artists": [
+            {
+              "id": "7fb57fba-a6ef-44c2-abab-2fa3bdee607e",
+              "name": "Childish Gambino"
+            }
+          ],
+          "duration": 193,
+          "id": "8c18221a-becb-44d1-b23c-3d5e2b369b2e",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "7fb57fba-a6ef-44c2-abab-2fa3bdee607e",
+                  "name": "Childish Gambino"
+                }
+              ],
+              "id": "5253c012-f7d3-440e-919b-5bac6d91ae7e",
+              "title": "Camp",
+              "type": "Album"
+            },
+            {
+              "id": "26a2a782-90bf-43b3-9f86-fe566a6308ba",
+              "title": "Bonfire",
+              "type": "Single"
+            }
+          ],
+          "title": "Bonfire"
+        }
+      ],
+      "score": 0.965757
+    }
+  ],
+  "status": "ok"
+}

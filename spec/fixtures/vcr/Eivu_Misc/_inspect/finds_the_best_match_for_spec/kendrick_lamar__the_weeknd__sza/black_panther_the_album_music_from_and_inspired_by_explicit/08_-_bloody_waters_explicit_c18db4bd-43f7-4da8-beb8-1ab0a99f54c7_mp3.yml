@@ -1,0 +1,61 @@
+---
+http_interactions:
+- request:
+    method: get
+    uri: https://api.acoustid.org/v2/lookup?client=<ACOUSTID_CLIENT_ID>&duration=272&fingerprint=AQADtJMiPR0a9fieEVfKwy94rDr-BPF9HM-Negp8aLnwDx_uFPuNMxF-MIf44x_OHKp54Vi34dhaHYejg2GOvyh8nA4cdZSCKhqO5h3aLAePPjnMEX8EX8rh-Di-HecMg4MPPcUP5fiF7xmDrvgx5SH6EY8E5rgF_7ilHNbhMDn27XiR_tjx9XB4PE-Oal9wSsdzPMtxbjb-DHmUQlt6gkl1TshO_MdzJcePrzwO7piGWwsT9PFx4blxEdUWdDluyTgnnEmIJHwQZjray2CP3-h6NPlyXDp-RD-05IoxxvhxUD1-XIvxEz_sKTuqCyfeEWV4gdqHnviDsB2aiHw2_KiPLWKDOfyRI-EPPgn6E1dw_MeUowpr7DGSM_kQVlQOaj96pigFc_twNY9gVavwV5iYLM-R30Jy4bmwB1dvXHoOJ6ZiXMFD5fDD4_LxHLHWCDxJiFJ2FnlfsFdwxjveE3zKHD9-7EdXrUL_GL_w3PiGdqh0fMaJV8mQH0mUSBfaG-yJ38T7ovlROQvu40MSJVyUYp1y_AF13IeRfir-4Dl8BZ0__Bf6ZHDFIQ8SaaGO__iHw0lyBuVxHz9C_qCWo7fw5HgQKdWHJueCPHjiB1quEeFxaXFxPfj04GJSCs0kCT2uLMWzPEeyH7GqBE919E8w82iT52AyPUQfwxEnIq-CRlEefJfQnJERLj9-PMnxB9URpipxJTl-PBKa7EF3aPxB_cT04sWRD2FSH48SNG2SDjotPBnxxZEsdNfg46gVdsh19D88o1xzdFsE80VP9FmRHEGPU0yHS5MUHL6U41GkI27CQ1b0BNWN9MjloyQzPIHWI01Rq2gXWJVxRy_6bUgeI8-P4zxaJUuPBtdxH9fkHI-O3jo8XIyIa2XxHCZ6VE0WuDra6-ipIPqQbD84PsK3xHhkfC_6Gjm0LrtwijnyHH8CRnqOpkd24eE5fELFQ2x2XCeM2D3yHXV-oLnRF7rAh8czKj9-mnhwJiJeo--ghfnwKQqHZ4Ym5_BR5sEv7Hngi3hz6M7Rt0HDo0-J5jl0KcJ5nHTR6Ti8o5JU4TqhdT-MOmE6VFtGpEc_vMmM_DlUI0et4-LRcHiO5_hy9MV3-LiI7hn6JMfhHFeywNWJGzfj4lkjJNGP_OCdCZee4UGfGenzwdyNehn05MGJvzuaSiN6HY90HNUVhBFon0EY9DT25RDyo2KaoyEn1BLCTJo-PA8-K4fKo_0E67gY9ERYJfngA0_C45PhG19SPCO048dvPMkSRjiao4-SHA9DxFRyaP2E3xB341IItccHX8Ub4dm4wznKH7IzXMOFo2F86MmCH3nQJ8en47uGENaRT5zRPUOfBD8ctEpo1Dp83NuQL1CkI_9ncGyMMw3e405DhKdxaOL4IFfw5-COMGcOxtGORx9u1FXgTHsh7zAunsijpWDwI_yP5kuxi8aTZA-0Rcc7QpPzoH50NH6K63jGNEJJ2mie4T665iqamBmu4dBI6QhDUvhRodGGmzn6oVeRM8UVHfmLUD98aE9WXETX5DB6PAuaSZ9w3ImgPxmqV7g-nKioIz2Nox-R7_h89IePOzJy4lISD4ePT2Fw5fDxH7HKD8qNcAdfB59mHPeJ8ExxaFb4IFdwPseD5kVo5cez4zO6NoKz6SC841D4KHg0BV_RHyfOfNCP78GPXOkRvnCOc8iV5XiD9_CPp8aVGCb-4eGF5DLCfRd-XG1wKeiP5kqIG_lEQl1-dD-8o1aW4x1RNYF5vLiyHOZOqDdOJZkRLswQHy8a5uiTQSdjVC9yoWRy4tOOsMcfuCLyRsGF8_BRNT1K7cW3B97tYV8ihEOi_bg64tGo4BLuo19apDm0dMtxhTif42ge9PyhR8Fz_BkpdBecH2YP6cfcGc6Pf3iiTMePhj9-4nvwMFNxyRPR6cJ_iMelJUb-4lpyeOiPPjlSTcehM0QetExTPHmMK-tww8d5NbjIBA_xXUO4w4cuHXdW5EmQ0sePPjQ0J6LgHdfQhVmO3uju4c-E67gL88GvIfeOsxs6XcjhIReDchqJXjAv9HzwZEGbFz_S81CkG_kMcmfxawuO52jeEDnEkwibKMpx_XgA98ij46sP_REahQy-g-KJXceP86iQ60Fjo2QQ9mhuXEuOp9DFJkY338hzOC5-HD-O78N9XMcfhHpcJF_w4GKMa0aP5omOFzEVOegEPTBeBrkJOwmuC8dDmElOXCeSI80ThbgOK0e1E5fwhoGP2GegL8kz4uvRXvjh-biURUU4TjzK7AyM3sKzZBkaRkd5vIieI3kCMqqDx5g6ydg348xi5ETJbNATBl-e48IPqiORPMHb4z0qebAwHv6DXDwSTstQKc3xO3jhf7jw6TgzKaGQH48uFP6hfjlCN0SrwGfQH1fCI6R-iB_iWMevFOfxRCbK7XiFMA_R64G-c2jXQhEv_OgNKt_we9CkOCHOjCLyJ-iHNE8ELje0rEf0XECvEk0eSvgtHLmh5XlxKEoVaYgP0qge5fB3VD4-B80fVNWho8nRMVkaB_eJI9SF5EGnJc1xT8RxKjV4OkEuvRBzdRIeMogv4YwzAGMQIAaYwYwBECFrABCAEImoUYQhBgiBAGKHAHUgEIIIBcAwgQRCggIIBQBAAmm8AQgAwoQQSwnimFAEEAMhM4AZAQgFEjAAGCHGgoAAQwgRAARDxAFkAGCEAEQEBaRRpIgBBgDEjDQEAGGdAQYhZAggCAjgABECCAIEIAIIBakiwBhAmFHAEMAYEUApQoQABAFDgEZAAIQQcQgARpABSBgkCGIGUIuQAEY4hYBAyAMiCDSMOCAdEgQaCKiQAgjhEXFGGIUAEsYRpYRCABCCEAGCIGSMgOI4xCUAwQDGCATAIAWYBYUIBBBCBFNgGEDMCCKcAIoDY5ASBDEgFCGEACANQIBRhRAhIEhkHCLCCyCMIY4JIIyRQAoJDFFAESIMAAAQx5hSBADTmHGACEoUAAwQpAhgJCpgBBFCAcORUkwohAQCzCECpDEGmMCMBAIwYAggghANhADQUE6MQAIAQJghACGLFLPIGMeYEQ4YZIhQSiAhESHGKgMEABx4YBhFAiAAkAQEGC4cZQ4AwIxBggmCFJAACCMhwkgYAhUAwhACIAGAIEUEMIZy4gwQ0igECCLCIUQUEyAAIASjCIFjFACSWKQETAABRxwRCgTDERBcEKCAB8IgByRnQAAAMQHSEAMEABJUI4ABkigkAUMIASCREVYoZghQSBCnkACCYI8BgEgIgAgUhggSAEACCUmUQYBgYoACIAkBBALAAGIMoUY4AgQCwBCDjAKIAIcIIkIyAQACwQGBFCBGGYCURQghQZCgAhgBDIHKOYIIQOAILIAyQAonuACEGQZMEMgIEAwECAAGpUHCGCIYBIBBAJRTgjmlkAOICSGA8EgJ4JQVRjjQBDAeMEMRUQgAIByCBBGDlMCUUYOoIJ4AJEQzxBCJRDASAEEAcJgQYzBAAAHgBDNACMiAYIQQCQQAAiEnhVDECWKgAQoYQQASAlNghGACAYIOMMhABDgiBAjhFA&meta=recordings%20releasegroups%20compress
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      Accept:
+      - "*/*"
+      User-Agent:
+      - rest-client/2.1.0 (darwin20.3.0 x86_64) ruby/2.7.1p83
+      Accept-Encoding:
+      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+      Host:
+      - api.acoustid.org
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Date:
+      - Tue, 29 Jun 2021 21:21:39 GMT
+      Content-Type:
+      - application/json; charset=UTF-8
+      Transfer-Encoding:
+      - chunked
+      Connection:
+      - keep-alive
+      Vary:
+      - Accept-Encoding
+      Access-Control-Allow-Origin:
+      - "*"
+      X-Envoy-Upstream-Service-Time:
+      - '805'
+      Strict-Transport-Security:
+      - max-age=15724800; includeSubDomains
+    body:
+      encoding: ASCII-8BIT
+      string: '{"results": [{"id": "de0ae8c1-b694-449b-8f72-4f68a1f90452", "recordings":
+        [{"artists": [{"id": "acc12019-10e3-40aa-b4bf-66fbb4a692af", "joinphrase":
+        ", ", "name": "Ab-Soul"}, {"id": "d02dd67e-f655-4600-bc47-f789f59e7367", "joinphrase":
+        " & ", "name": "Anderson .Paak"}, {"id": "8dc08b1f-e393-4f85-a5dd-300f7693a8b8",
+        "name": "James Blake"}], "duration": 272, "id": "520a2d08-bdf4-4c6e-985f-d869fa3f69df",
+        "releasegroups": [{"artists": [{"id": "381086ea-f511-4aba-bdf9-71c753dc5077",
+        "name": "Kendrick Lamar"}], "id": "4e317e28-e6b2-46d7-81f7-306e349b3dd4",
+        "secondarytypes": ["Soundtrack"], "title": "Black Panther: The Album (Music
+        From and Inspired By)", "type": "Album"}], "title": "Bloody Waters"}, {"artists":
+        [{"id": "acc12019-10e3-40aa-b4bf-66fbb4a692af", "joinphrase": ", ", "name":
+        "Ab-Soul"}, {"id": "d02dd67e-f655-4600-bc47-f789f59e7367", "joinphrase": "
+        & ", "name": "Anderson .Paak"}, {"id": "8dc08b1f-e393-4f85-a5dd-300f7693a8b8",
+        "name": "James Blake"}], "duration": 272, "id": "fce5c7b8-8a76-4274-9153-4a6abdbdce7f",
+        "releasegroups": [{"artists": [{"id": "381086ea-f511-4aba-bdf9-71c753dc5077",
+        "name": "Kendrick Lamar"}], "id": "4e317e28-e6b2-46d7-81f7-306e349b3dd4",
+        "secondarytypes": ["Soundtrack"], "title": "Black Panther: The Album (Music
+        From and Inspired By)", "type": "Album"}], "title": "Bloody Waters"}], "score":
+        0.989965}], "status": "ok"}'
+    http_version:
+  recorded_at: Tue, 29 Jun 2021 21:21:39 GMT
+recorded_with: VCR 3.0.3

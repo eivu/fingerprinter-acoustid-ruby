@@ -1,0 +1,58 @@
+{
+  "results": [
+    {
+      "id": "c6a1b28a-b74e-4a72-830f-febb131cc4fe",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "c4b933ea-dfa3-4d56-81f9-9f924e2540ec",
+              "joinphrase": " feat. ",
+              "name": "Sepalcure"
+            },
+            {
+              "id": "0e0d5912-4026-47ef-be1c-c876c7108dd2",
+              "name": "Rochelle Jordan"
+            }
+          ],
+          "duration": 222,
+          "id": "28f7225a-b74f-4004-9936-c07ac4ce8c8f",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "c4b933ea-dfa3-4d56-81f9-9f924e2540ec",
+                  "name": "Sepalcure"
+                }
+              ],
+              "id": "1e5f2fba-55ea-491c-ac64-57828adce29d",
+              "title": "Fight for Us",
+              "type": "Single"
+            }
+          ],
+          "title": "Fight for Us"
+        },
+        {
+          "artists": [
+            {
+              "id": "c4b933ea-dfa3-4d56-81f9-9f924e2540ec",
+              "name": "Sepalcure"
+            }
+          ],
+          "duration": 220,
+          "id": "2d0f8458-15a4-4f48-aad9-74817cc5f98c",
+          "releasegroups": [
+            {
+              "id": "942ac51e-0d65-4968-ab58-d96c2cb03633",
+              "title": "Folding Time",
+              "type": "Album"
+            }
+          ],
+          "title": "Fight for Us"
+        }
+      ],
+      "score": 0.994386
+    }
+  ],
+  "status": "ok"
+}

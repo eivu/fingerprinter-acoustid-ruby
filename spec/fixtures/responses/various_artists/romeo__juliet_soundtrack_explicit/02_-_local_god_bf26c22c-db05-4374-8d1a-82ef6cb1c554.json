@@ -1,0 +1,258 @@
+{
+  "results": [
+    {
+      "id": "dae853e5-dbf7-4252-a11e-c78f1e6e0512",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "3604c99d-c146-4276-aa0c-9376d333aeb8",
+              "name": "Everclear"
+            }
+          ],
+          "duration": 234,
+          "id": "0184620b-54e9-47bd-a8aa-57a75a7bc8a5",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "3604c99d-c146-4276-aa0c-9376d333aeb8",
+                  "name": "Everclear"
+                }
+              ],
+              "id": "1ae96283-1d2b-3d8f-8dfc-ae3e2be909f5",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "The Best of Everclear",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "3604c99d-c146-4276-aa0c-9376d333aeb8",
+                  "name": "Everclear"
+                }
+              ],
+              "id": "5e95721c-3df4-334f-8ae1-bb8a1c855aad",
+              "title": "So Much for the Afterglow",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "3faf18b9-26a0-33e8-ad08-8446e2fcb21a",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "The Boardercross Sound",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "85e394ab-316b-446a-932c-4379764c1ab3",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Inhaled 2",
+              "type": "Album"
+            },
+            {
+              "id": "d5fe68df-cdbf-39c3-acd1-1b599d9e1d87",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "A Smile Makes a Lousy Umbrella",
+              "type": "Album"
+            }
+          ],
+          "title": "So Much for the Afterglow"
+        },
+        {
+          "artists": [
+            {
+              "id": "3604c99d-c146-4276-aa0c-9376d333aeb8",
+              "name": "Everclear"
+            }
+          ],
+          "duration": 234,
+          "id": "02796266-80d1-4671-b2fb-b3d914adec7a",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "432e08b3-f8e0-401f-b2d6-3df734730128",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "101 Sporting Anthems",
+              "type": "Album"
+            }
+          ],
+          "title": "Local God"
+        },
+        {
+          "artists": [
+            {
+              "id": "3604c99d-c146-4276-aa0c-9376d333aeb8",
+              "name": "Everclear"
+            }
+          ],
+          "duration": 240,
+          "id": "1dc5ae58-5e16-4c01-b7a5-67c46915cac3",
+          "releasegroups": [
+            {
+              "id": "32442324-5071-45c3-9c4c-07248648bbfc",
+              "title": "Father of Mine",
+              "type": "Single"
+            }
+          ],
+          "title": "Local God (live)"
+        },
+        {
+          "artists": [
+            {
+              "id": "3604c99d-c146-4276-aa0c-9376d333aeb8",
+              "name": "Everclear"
+            }
+          ],
+          "duration": 245,
+          "id": "a6ff3f2b-a347-4351-a604-dcb1bf422302",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "3604c99d-c146-4276-aa0c-9376d333aeb8",
+                  "name": "Everclear"
+                }
+              ],
+              "id": "c7ac5e72-d64a-3d57-ad10-ad75c35b722a",
+              "secondarytypes": [
+                "Live"
+              ],
+              "title": "Live Electric"
+            },
+            {
+              "id": "46e7b939-3dc0-32c5-adc0-4a0867cd9051",
+              "secondarytypes": [
+                "Live"
+              ],
+              "title": "Live From Toronto",
+              "type": "Album"
+            }
+          ],
+          "title": "Local God"
+        },
+        {
+          "artists": [
+            {
+              "id": "3604c99d-c146-4276-aa0c-9376d333aeb8",
+              "name": "Everclear"
+            }
+          ],
+          "duration": 235,
+          "id": "bd76e017-f79a-4327-8940-29bf67d0cbac",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "650ebbf1-e25c-3f13-ac2b-d98010c1c5ee",
+              "secondarytypes": [
+                "Soundtrack"
+              ],
+              "title": "William Shakespeare’s Romeo + Juliet: Music From the Motion Picture",
+              "type": "Album"
+            },
+            {
+              "id": "909b2dad-0a30-313d-8e4a-91d74abc306b",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Ten Years Gone: The Best of Everclear 1994–2004",
+              "type": "Album"
+            }
+          ],
+          "title": "Local God"
+        },
+        {
+          "artists": [
+            {
+              "id": "3604c99d-c146-4276-aa0c-9376d333aeb8",
+              "name": "Everclear"
+            }
+          ],
+          "duration": 235,
+          "id": "d26b82b6-2fdd-4905-8593-68657707e9f5",
+          "releasegroups": [
+            {
+              "id": "96d3cb49-83fd-3c94-9dd3-ea930c0ba1b6",
+              "title": "So Much for the Afterglow",
+              "type": "Single"
+            }
+          ],
+          "title": "So Much for the Afterglow"
+        }
+      ],
+      "score": 0.970003
+    },
+    {
+      "id": "6600eeb8-2094-4ad1-922e-248f28855195",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "3604c99d-c146-4276-aa0c-9376d333aeb8",
+              "name": "Everclear"
+            }
+          ],
+          "duration": 235,
+          "id": "bd76e017-f79a-4327-8940-29bf67d0cbac",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "650ebbf1-e25c-3f13-ac2b-d98010c1c5ee",
+              "secondarytypes": [
+                "Soundtrack"
+              ],
+              "title": "William Shakespeare’s Romeo + Juliet: Music From the Motion Picture",
+              "type": "Album"
+            },
+            {
+              "id": "909b2dad-0a30-313d-8e4a-91d74abc306b",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Ten Years Gone: The Best of Everclear 1994–2004",
+              "type": "Album"
+            }
+          ],
+          "title": "Local God"
+        }
+      ],
+      "score": 0.919699
+    }
+  ],
+  "status": "ok"
+}

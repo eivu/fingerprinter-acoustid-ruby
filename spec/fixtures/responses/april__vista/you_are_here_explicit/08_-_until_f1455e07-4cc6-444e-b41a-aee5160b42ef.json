@@ -1,0 +1,29 @@
+{
+  "results": [
+    {
+      "id": "3bdd035b-d276-44cc-8457-a26b36327377",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "2a5d430f-cb26-422a-a150-41dc4af15bf9",
+              "name": "April + Vista"
+            }
+          ],
+          "duration": 98,
+          "id": "acd0267c-f35f-45ff-9df0-b299079ff95d",
+          "releasegroups": [
+            {
+              "id": "d4669101-ccf6-422b-92b0-a67ae936381a",
+              "title": "You Are Here",
+              "type": "Album"
+            }
+          ],
+          "title": "Until"
+        }
+      ],
+      "score": 0.998214
+    }
+  ],
+  "status": "ok"
+}

@@ -1,0 +1,84 @@
+{
+  "results": [
+    {
+      "id": "84be67b3-f72b-48fe-ac6e-5ea8cf352f0e",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "f82bcf78-5b69-4622-a5ef-73800768d9ac",
+              "joinphrase": " & ",
+              "name": "Jay-Z"
+            },
+            {
+              "id": "164f0d73-1234-4e2c-8743-d77bf2191051",
+              "name": "Kanye West"
+            }
+          ],
+          "duration": 256,
+          "id": "25c83eb9-96e0-4093-b2a7-9248313767be",
+          "releasegroups": [
+            {
+              "id": "a96597aa-93b4-4e14-9e6e-03892ab24979",
+              "title": "Watch the Throne",
+              "type": "Album"
+            }
+          ],
+          "title": "Who Gon Stop Me"
+        },
+        {
+          "artists": [
+            {
+              "id": "b5e4e88c-4ba5-4555-aee2-83f7599f6576",
+              "name": "Market Price"
+            }
+          ],
+          "duration": 257,
+          "id": "9c9d9d65-fdd1-461e-9877-1e0b91d6d4f3",
+          "releasegroups": [
+            {
+              "id": "439f0ca6-f8f7-479f-82ca-7fb440bc0e2b",
+              "secondarytypes": [
+                "Remix"
+              ],
+              "title": "Mark The Throne",
+              "type": "Album"
+            }
+          ],
+          "title": "Who Gon Stop Me"
+        }
+      ],
+      "score": 0.932621
+    },
+    {
+      "id": "e28399ce-43a6-49ed-8163-2ba764bb5a0d",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "f82bcf78-5b69-4622-a5ef-73800768d9ac",
+              "joinphrase": " & ",
+              "name": "Jay-Z"
+            },
+            {
+              "id": "164f0d73-1234-4e2c-8743-d77bf2191051",
+              "name": "Kanye West"
+            }
+          ],
+          "duration": 256,
+          "id": "25c83eb9-96e0-4093-b2a7-9248313767be",
+          "releasegroups": [
+            {
+              "id": "a96597aa-93b4-4e14-9e6e-03892ab24979",
+              "title": "Watch the Throne",
+              "type": "Album"
+            }
+          ],
+          "title": "Who Gon Stop Me"
+        }
+      ],
+      "score": 0.928204
+    }
+  ],
+  "status": "ok"
+}

@@ -1,0 +1,53 @@
+---
+http_interactions:
+- request:
+    method: get
+    uri: https://api.acoustid.org/v2/lookup?client=<ACOUSTID_CLIENT_ID>&duration=294&fingerprint=AQADtFmSRFIqLYN-OD9aKkfI2fB39MH1jOjE4Rr8ox9y6ehziJE05MMmakGP_rCbC533IDy2mJmg467gHWWP4xuDRhOP_kPM4tIOd4uBH-0zNNr24siHJkdlHvqED9N-IbWGzi96OG2O_kNPbGeK_PiaDuL3o8LxRCl6wvnRC2HV413g8qh0oo3z4oFTHRfRB-EhTk2Pm4j2o-_xF83RazmOSKcg5sFVC3kG_xNC4UWnOGiu40euB9XioPlwnMsId8N55Bt6NA904SI6D9Gs5UKPzofdHNVHTD98psiPrxb85dD0AzoJWQpjNMcR1uGCShPh_OiNP0en8fgC_-iHSyNCylD24V6O1Bq6Fz2cNkc_Dj2inSl03BX8obpwXErRnOg_5PikPfAXnPjR5kcjJscRNNWhHdeEI1Lso9_xoh_s5qj-YTpSPsUPVXPh70fxFbLWo6myo4e-L2jVIJ22o8dPdAqVF95w5ehxEkWqPIeuDNEsHj2P_rDYoB-JH5FOiGcqXDUeeD3K4RQPrWOgRVYH5DuaLGmMfji-Z_B3PD-uHSfS5_hxaC-Jw_Dx3Eib4zl85KKQnigVfEJ7NPGLZziaUDxOoTmPH9cPp9uR70isHE3qHe2ytrgYXJsRxlMLzU2OPChP-OiRNEp05FIb_PiF5kLF4cp3XEaYe6hu1MiFy8Z1_Cj946nwHde048iXOYWYI58-fCz6HQ2nFw893MKjogmjHCXtIz_kH55EI550hJnEow_6Qxyzo-KReziT4OiHn0ilH3qOUL2KL-RRkkeYQ1c-hOl09HhzNInQIym_IhcbPLpwVLTQSMpx5_iBxunR48dz4hrRZ8Gj7WiPH3_x7mjGZ2h5jbg2I8-Mt9DVoHGIfsYnOtB0ojm-a8h5oNYHX0GVMjlySYXa5Ih0NCdxzXiDyhLxB44zzQg7Q3eC_Bp6KUQYSzn0o89h7kKuBhcpRNOWw9U4aOqUDfmNZyf-GVVFovmPB9dCJB_VIUwP36hFDmM11J-QJje0c8glof-MPsmMH-0SI32hPegP_8WkHXKzaMOl4zxCkzhL1MpMfGgk5UetRCOuJUcO0Qnywz_-4coRSUsHLZWOfHgucN-RX9DyCKEmPMKzBGlIGWqsTsgsHeeF6YzR8_h-PKaGMNGR7Hh_XKia8ENTEe-DHmFUJsd34Yyh5eiP99CsDKlvbKOM6iD94tmP84FHZkK-7JBzhAmVw46P2lzAPjLaZYVjxoG7DW3SFPtlPDKaC32OH9HDFC0P__hzNI424TNO6Mrx5UGYkUOv4DruozlCSofy4daMHNfRjRT8I5eGmiSeQ3sOa8outDvG1tC-4Ud6nfgMB7U4XBfC89CXI2ckeEevB1-Oo_tipHWgNRLyJsHXKMKPF1cm9BemTGLxS_iU4DoqHlN8hD-cETr-CB6VCtot48cPPXpQOQ_CRBce_Oh9GCGlD0qb5cg_XMe1EG0-2MmO_sF15JlQiyE2-agaGn1BvcUZnBF8xBTaa0MY7YF2sUG-oxcah8GXB_yD3sgvyBXCRhF-LcJ9PMNJo9eErUfX4taED48khElRnegPk8evCydV-EJ4InqOH_pyNHmO8MKr45hyhKKgdzkeIu-JXsZnwXGOvKh4ok906Mwhajt-vPWwr8d5pJQUXPCHHl8-hBaR2DkeCT765MF3FI_SID2hlUGuEF8z4TieaRmmt0IzqfiHT8Epodh8xD5MQvdwH1quVLiF__gDPTrCx0OzEw9-9D6aIVfmQXmLnD8uPXgj1CpMaSV65DvOBN3ECmKOPdygHzxSZ8EZHdfh5Mc3pFl0aA8bIU-EZpZRkinuHP1BFT_SQ5P1jMgV4TOOsMcUa5lSHD--IcyOdscdhBlzQzuRv8LzBH1xZsdP5NGRPIOV5YivVBxEOifCTh-ezBpKvSk88vBzpMseJHuGK4t2PGZw4qipHI3S4ZpxZ2mQZ8YHXXVQrkETHY_Y4I6OdDzeChanC2-WYsdoUmhsI7JeJH8Cr9jeFL0oXFSYTLhUXB-SIZ1-nES1J8vwZieqfReaFS96hKmI5KGO57g13EP9GGFyvI2hihlyNN6D70PzCM-Cdj_Spyb0I_yxcxLY6A_u4zeaE2XxRQ_Oa4jaHFOOXlfBRgnWQOV-hEczKQ-uEJdz3Cdao4mMxNvCIG7xb2g_eMxxEZV24tGDM0mk4lQY5EEyO8eVoBbxJ-i1onmOJzG-JcGVIMlfhAKfmPDNY-KFh4-C64ie1dBzZGd0PMEnNL-RTIi6qDhP_JmE41kWtbi-4QySEWGWnfiX4n0SozEqZRIxyknwIzGRxcceL_BPoj3xPHgf7DrOJNHxJQfbHGWWI8wePDkuKRjTJ0cuEZeOJ1uOPI2g74uRVjy-4A8cPsePR4mwJwlyIRkoH5_yY7pxHn-IIV8P6WmOD0-QLKMs_DivY9qCH8-P70Hy5shzNFv44ceL7Qz64Jl2nBGyJ9KhB6F4bHrwPCizE382xL6x59DTHn_x7OBzNH8EPTdCackxKZPg45p-mIp09BSuIcyiI5mV4Taa56h-PBGLuRmeIPmR_ah-WB8mZhdxnUF06N6RRwN_PNmH_NB4Ig0vXMGkbMf14jjVohfS5SGSw3Fw0XgSAGUcEcIRIIBQxCDlmCRKASGUMAoQAowAAAhlAETIKKAAAQIQSAQAVAgAiCBSACEQYQYoBaADCACxjJECKCGQQUYAI6xBwSElFQACAQKIEBQA4YwzRChBhCAICMUIIAIIJSgVgAAIgAAOACAZVsgpAjkBAChAhQCACIAIcIYIgIRyABKlEFEEUAEMNYAYRBwAgiFjCCFGOGKFUAYYQTQUQhDmnRCEQKCMMBIIRBhjyAEBJBeEACEQVcYQCoRgzAAiiEQESWAYNABQZAQCSigAobBEMQCQQsYoYIBRxBCBjGENSCqANdgBQIRyxCHIjAGEMUAEQgggIQQwxgJlBYCMCKcIQYIAJAQhAACAGANcAUGMMEACAJwCRDKgAMMIIOUkYIgJJSRVBgAAtWHEAGEAQQJ4bITQwgCMkAFUGIYQAgoIRIgjBAklGFACGaKIIABQQoghxgEotEEKJAMYYUYpAAwzwiihhCFCCAGMMQUQJCwCShjDCCPCQCgAEU4II4iTwAiDkECIASIIQspAoIwDUChgjBBKGiCAEpYARpgxwhABgADKEMQEMcIQACEQCgBjFBICIGUYAAowwhAFTDAkgEEUKIItA4IYQAwkBCgiiBMCCeIkMMIYIAgSzBrDAJEAG4AAAZgRBARQRmBglGGceAoNUEIQRgQhTEmDgABCAQcQEwgoIJABCgxmBDAICA8EcIooYh1gQAAhlAUGGECVEWIwIJgAQBEFkBAEIQGAIUYpIYDQxBBCACEMKgAYQR4ZACVAgiAhgQCOIEwMwQAxBxgQzHhCFCYACMKwMMBAhgQVAhiGgJWGAQI0YYpIAIRjBglFDDJIGGENAtYY4JwzEhACGBPAAYQIJE4oBQggRBkCmRBECmOJQIAAYhAQBAEiAGOWAgoAIZAI4iRhBihHjHEEEmUYMZQR6qhAyQM&meta=recordings%20releasegroups%20compress
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      Accept:
+      - "*/*"
+      User-Agent:
+      - rest-client/2.1.0 (darwin20.3.0 x86_64) ruby/2.7.1p83
+      Accept-Encoding:
+      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+      Host:
+      - api.acoustid.org
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Date:
+      - Tue, 29 Jun 2021 21:18:23 GMT
+      Content-Type:
+      - application/json; charset=UTF-8
+      Transfer-Encoding:
+      - chunked
+      Connection:
+      - keep-alive
+      Vary:
+      - Accept-Encoding
+      Access-Control-Allow-Origin:
+      - "*"
+      X-Envoy-Upstream-Service-Time:
+      - '78'
+      Strict-Transport-Security:
+      - max-age=15724800; includeSubDomains
+    body:
+      encoding: ASCII-8BIT
+      string: '{"results": [{"id": "1702f8a0-f1fc-446a-a12a-6f4c65c9e448", "recordings":
+        [{"artists": [{"id": "056e4f3e-d505-4dad-8ec1-d04f521cbb56", "name": "Daft
+        Punk"}], "duration": 294, "id": "15a30807-73e2-45ad-ad81-6e978686ab9c", "releasegroups":
+        [{"id": "1fd2e0fe-90f6-35ca-92c0-d816ab3bb79c", "secondarytypes": ["Remix"],
+        "title": "Daft Club", "type": "Album"}], "title": "Face to Face (Cosmo Vitelli
+        remix)"}, {"artists": [{"id": "056e4f3e-d505-4dad-8ec1-d04f521cbb56", "name":
+        "Daft Punk"}], "duration": 293, "id": "b3e6c7f5-12a5-494f-80fd-a590699ff9b1",
+        "releasegroups": [{"id": "c5afe0db-56f0-3af8-bc00-bf8b2aeaa40e", "title":
+        "Face to Face", "type": "Single"}], "title": "Face to Face (Cosmo Vitelli
+        remix)"}], "score": 0.994912}], "status": "ok"}'
+    http_version:
+  recorded_at: Tue, 29 Jun 2021 21:18:23 GMT
+recorded_with: VCR 3.0.3

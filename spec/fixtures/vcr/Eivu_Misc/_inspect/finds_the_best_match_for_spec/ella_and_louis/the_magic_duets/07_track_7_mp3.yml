@@ -21,7 +21,7 @@ http_interactions:
       message: OK
     headers:
       Date:
-      - Tue, 29 Jun 2021 13:32:46 GMT
+      - Tue, 29 Jun 2021 21:19:18 GMT
       Content-Type:
       - application/json; charset=UTF-8
       Transfer-Encoding:
@@ -33,7 +33,9 @@ http_interactions:
       Access-Control-Allow-Origin:
       - "*"
       X-Envoy-Upstream-Service-Time:
-      - '171'
+      - '104'
+      X-Envoy-Decorator-Operation:
+      - acoustid-server-api.acoustid.svc.cluster.local:3031/*
       Strict-Transport-Security:
       - max-age=15724800; includeSubDomains
     body:
@@ -78,5 +80,5 @@ http_interactions:
         "title": "You Won\u2019t Be Satisfied (Until You Break My Heart)"}], "score":
         0.907569}], "status": "ok"}'
     http_version:
-  recorded_at: Tue, 29 Jun 2021 13:32:46 GMT
+  recorded_at: Tue, 29 Jun 2021 21:19:18 GMT
 recorded_with: VCR 3.0.3

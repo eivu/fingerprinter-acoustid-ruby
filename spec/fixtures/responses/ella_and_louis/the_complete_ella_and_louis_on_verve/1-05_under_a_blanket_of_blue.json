@@ -1,0 +1,530 @@
+{
+  "results": [
+    {
+      "id": "a09baf7f-04cc-45aa-8ec7-0ec3305d2d56",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+              "joinphrase": " & ",
+              "name": "Ella Fitzgerald"
+            },
+            {
+              "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+              "name": "Louis Armstrong"
+            }
+          ],
+          "duration": 258,
+          "id": "1ea4fb19-8200-4ef8-a3ff-c3ff87dbc165",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+                  "name": "Ella Fitzgerald"
+                }
+              ],
+              "id": "3dcd39f2-5c4f-4043-9534-9581e7191a30",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Six Classic Albums, Volume 3",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+                  "joinphrase": " & ",
+                  "name": "Ella Fitzgerald"
+                },
+                {
+                  "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+                  "name": "Louis Armstrong"
+                }
+              ],
+              "id": "50fece99-77bf-455b-97ae-aabb9a848b8b",
+              "title": "Ella and Louis",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+                  "joinphrase": " & ",
+                  "name": "Ella Fitzgerald"
+                },
+                {
+                  "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+                  "name": "Louis Armstrong"
+                }
+              ],
+              "id": "a66a7aa4-b334-43f3-9669-822700799082",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "The Best Of Ella Fitzgerald & Louis Armstrong",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "d2e6aaf4-b1b4-4b70-964d-3dd734dd9ffc",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Martinis at Midnight",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+                  "joinphrase": " & ",
+                  "name": "Ella Fitzgerald"
+                },
+                {
+                  "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+                  "name": "Louis Armstrong"
+                }
+              ],
+              "id": "4c0ada80-1ed6-37a5-917a-b369dbf6f920",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Ella Fitzgerald & Louis Armstrong for Lovers",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+                  "joinphrase": " & ",
+                  "name": "Ella Fitzgerald"
+                },
+                {
+                  "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+                  "name": "Louis Armstrong"
+                }
+              ],
+              "id": "162346df-76e5-4cd7-9169-f047b61421d6",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Ella & Louis",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+                  "joinphrase": " & ",
+                  "name": "Ella Fitzgerald"
+                },
+                {
+                  "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+                  "name": "Louis Armstrong"
+                }
+              ],
+              "id": "c70ee463-c59b-4146-a887-75d0f3b2b531",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Original Greatest Hits",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+                  "joinphrase": " & ",
+                  "name": "Ella Fitzgerald"
+                },
+                {
+                  "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+                  "name": "Louis Armstrong"
+                }
+              ],
+              "id": "cdfb0201-8ffc-3a02-b42a-4abd66be7f01",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "The Wonderful World of Ella Fitzgerald & Louis Armstrong",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+                  "joinphrase": " & ",
+                  "name": "Ella Fitzgerald"
+                },
+                {
+                  "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+                  "name": "Louis Armstrong"
+                }
+              ],
+              "id": "c4d57285-84d5-4413-8118-b92f402ad1da",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Cheek to Cheek: The Complete Duet Recordings",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+                  "joinphrase": " & ",
+                  "name": "Ella Fitzgerald"
+                },
+                {
+                  "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+                  "name": "Louis Armstrong"
+                }
+              ],
+              "id": "6a8ec885-544e-3b31-859a-a73289a01421",
+              "title": "Ella and Louis",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+                  "joinphrase": " & ",
+                  "name": "Ella Fitzgerald"
+                },
+                {
+                  "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+                  "name": "Louis Armstrong"
+                }
+              ],
+              "id": "6db7efe4-acd8-3063-aa1b-fb2890273652",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Jazz 'Round Midnight",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+                  "joinphrase": " & ",
+                  "name": "Ella Fitzgerald"
+                },
+                {
+                  "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+                  "name": "Louis Armstrong"
+                }
+              ],
+              "id": "37012d18-8647-3648-87e7-7a66423b863b",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "The Complete Ella and Louis on Verve",
+              "type": "Album"
+            },
+            {
+              "id": "276936da-1d1e-318d-bd3b-8d25c4815e73",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "The Best of Ella Fitzgerald & Louis Armstrong on Verve",
+              "type": "Album"
+            }
+          ],
+          "title": "Under a Blanket of Blue"
+        },
+        {
+          "artists": [
+            {
+              "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+              "name": "Louis Armstrong"
+            }
+          ],
+          "duration": 259,
+          "id": "2650b486-9358-48b6-8577-5ee6013a0703",
+          "releasegroups": [
+            {
+              "id": "3767884a-81a1-37b5-867e-1a5dff17a8e6",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Let's Do It: Best of the Verve Years",
+              "type": "Album"
+            }
+          ],
+          "title": "Under a Blanket of Blue"
+        },
+        {
+          "artists": [
+            {
+              "id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+              "joinphrase": " & ",
+              "name": "Ella"
+            },
+            {
+              "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+              "name": "Louis"
+            }
+          ],
+          "duration": 257,
+          "id": "2aecda0d-6fdb-4538-9c3e-2d2f7868eb2f",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+                  "joinphrase": " & ",
+                  "name": "Ella Fitzgerald"
+                },
+                {
+                  "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+                  "name": "Louis Armstrong"
+                }
+              ],
+              "id": "45aa0e31-ab75-4605-a3a3-f650d4fa4229",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Ella & Louis: The Complete Anthology",
+              "type": "Album"
+            }
+          ],
+          "title": "Under a Blanket of Blue"
+        },
+        {
+          "artists": [
+            {
+              "id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+              "name": "Ella Fitzgerald"
+            }
+          ],
+          "duration": 258,
+          "id": "5a2e07b2-df6e-40cd-bf0c-ad3ce917933f",
+          "releasegroups": [
+            {
+              "id": "a87dd6e5-54bc-441b-b22a-7286a3b3a904",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Dearly Beloved",
+              "type": "Album"
+            }
+          ],
+          "title": "Under a Blanket of Blue"
+        },
+        {
+          "id": "5c8ea739-d635-4513-920d-06502b370eb7"
+        },
+        {
+          "artists": [
+            {
+              "id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+              "joinphrase": " & ",
+              "name": "Ella Fitzgerald"
+            },
+            {
+              "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+              "name": "Louis Armstrong"
+            }
+          ],
+          "duration": 260,
+          "id": "5f85b7a7-7dcd-4539-9647-f9f899accc5c",
+          "releasegroups": [
+            {
+              "id": "8ec69375-a2ab-3388-a15a-446133b29861",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Verve Jazz Masters 24: Ella Fitzgerald & Louis Armstrong",
+              "type": "Album"
+            }
+          ],
+          "title": "Under a Blanket of Blue"
+        },
+        {
+          "artists": [
+            {
+              "id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+              "joinphrase": " & ",
+              "name": "Ella Fitzgerald"
+            },
+            {
+              "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+              "name": "Louis Armstrong"
+            }
+          ],
+          "duration": 255,
+          "id": "64587e9a-436a-41fd-9a80-41691e436255",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "e9ad97a1-7fbe-4e88-bcba-2e244a5e5a71",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "In the Jazz Mood"
+            },
+            {
+              "artists": [
+                {
+                  "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+                  "name": "Louis Armstrong"
+                }
+              ],
+              "id": "8d80301f-a239-4bbf-9959-0d3e5018f752",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Louis Armstrong & Guests",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+                  "joinphrase": " & ",
+                  "name": "Ella Fitzgerald"
+                },
+                {
+                  "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+                  "name": "Louis Armstrong"
+                }
+              ],
+              "id": "8edf2ffa-8ed0-3950-ae84-9ef4d078e3f2",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Ella and Louis",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+                  "joinphrase": " & ",
+                  "name": "Ella Fitzgerald"
+                },
+                {
+                  "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+                  "name": "Louis Armstrong"
+                }
+              ],
+              "id": "24577902-0198-3733-b1cb-f10e8c2abb05",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Ella & Louis Classic Album Collection",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+                  "joinphrase": " & ",
+                  "name": "Ella Fitzgerald"
+                },
+                {
+                  "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+                  "name": "Louis Armstrong"
+                }
+              ],
+              "id": "6d31f8f4-a8d9-3254-aaaf-98bde2865166",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Cheek to Cheek",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+                  "joinphrase": "; ",
+                  "name": "Ella Fitzgerald"
+                },
+                {
+                  "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+                  "name": "Louis Armstrong"
+                }
+              ],
+              "id": "da875444-e0f7-4f1a-b6c6-621329eea2b8",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Autumn in New York",
+              "type": "Album"
+            }
+          ],
+          "title": "Under a Blanket of Blue"
+        },
+        {
+          "artists": [
+            {
+              "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+              "joinphrase": " & ",
+              "name": "Louis Armstrong"
+            },
+            {
+              "id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+              "name": "Ella Fitzgerald"
+            }
+          ],
+          "duration": 259,
+          "id": "ab61156c-5dd7-420a-827f-c0bd7abd073a",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+                  "name": "Louis Armstrong"
+                }
+              ],
+              "id": "2559274b-520f-4df0-b5e4-3689d5a824a3",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Greatest Hits",
+              "type": "Album"
+            }
+          ],
+          "title": "Under a Blanket of Blue"
+        },
+        {
+          "artists": [
+            {
+              "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+              "name": "Louis Armstrong"
+            }
+          ],
+          "duration": 259,
+          "id": "bffd50dd-8a5d-4d45-a6a0-1ddb4097b2c4",
+          "releasegroups": [
+            {
+              "id": "9c8ab851-c89f-4c0f-9a1c-35f22e78b741",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Milestones of a Jazz Legend"
+            }
+          ],
+          "title": "Under a Blanket of Blue"
+        }
+      ],
+      "score": 0.979708
+    }
+  ],
+  "status": "ok"
+}

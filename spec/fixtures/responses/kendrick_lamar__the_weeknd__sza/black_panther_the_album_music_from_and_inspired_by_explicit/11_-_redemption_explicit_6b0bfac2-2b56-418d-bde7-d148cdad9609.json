@@ -1,0 +1,75 @@
+{
+  "results": [
+    {
+      "id": "e66d49f1-1ab3-438b-9199-1c37f098a51a",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "0d7b68b7-6039-4883-8214-9eeb13f8c283",
+              "joinphrase": " & ",
+              "name": "Zacari"
+            },
+            {
+              "id": "d8b9e0dd-2d22-49f3-9b19-6440527f1c8b",
+              "name": "Babes Wodumo"
+            }
+          ],
+          "duration": 222,
+          "id": "381aaa7d-01d8-4999-a2ff-04fbaa016d19",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "381086ea-f511-4aba-bdf9-71c753dc5077",
+                  "name": "Kendrick Lamar"
+                }
+              ],
+              "id": "4e317e28-e6b2-46d7-81f7-306e349b3dd4",
+              "secondarytypes": [
+                "Soundtrack"
+              ],
+              "title": "Black Panther: The Album (Music From and Inspired By)",
+              "type": "Album"
+            }
+          ],
+          "title": "Redemption"
+        },
+        {
+          "artists": [
+            {
+              "id": "0d7b68b7-6039-4883-8214-9eeb13f8c283",
+              "joinphrase": " & ",
+              "name": "Zacari"
+            },
+            {
+              "id": "d8b9e0dd-2d22-49f3-9b19-6440527f1c8b",
+              "name": "Babes Wodumo"
+            }
+          ],
+          "duration": 222,
+          "id": "9c22ada6-6d9d-4523-85ea-3ee134589db1",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "381086ea-f511-4aba-bdf9-71c753dc5077",
+                  "name": "Kendrick Lamar"
+                }
+              ],
+              "id": "4e317e28-e6b2-46d7-81f7-306e349b3dd4",
+              "secondarytypes": [
+                "Soundtrack"
+              ],
+              "title": "Black Panther: The Album (Music From and Inspired By)",
+              "type": "Album"
+            }
+          ],
+          "title": "Redemption"
+        }
+      ],
+      "score": 0.98893
+    }
+  ],
+  "status": "ok"
+}

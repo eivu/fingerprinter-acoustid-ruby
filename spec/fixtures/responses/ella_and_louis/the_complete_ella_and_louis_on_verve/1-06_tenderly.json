@@ -1,0 +1,2058 @@
+{
+  "results": [
+    {
+      "id": "c9162c7d-af31-42c6-948e-ae4131676511",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+              "name": "Louis Armstrong"
+            }
+          ],
+          "duration": 309,
+          "id": "08dbc913-ac2e-4f82-a32d-e404d9588e08",
+          "releasegroups": [
+            {
+              "id": "48addefc-0808-3d0f-b5d4-36811513681f",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "What a Wonderful World",
+              "type": "Album"
+            }
+          ],
+          "title": "Tenderly"
+        },
+        {
+          "artists": [
+            {
+              "id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+              "name": "Ella Fitzgerald"
+            }
+          ],
+          "duration": 308,
+          "id": "2ddb29df-6f11-4ee6-bff0-353f03ac5ea5",
+          "releasegroups": [
+            {
+              "id": "0c78760d-a9d1-3965-b258-428c923dec54",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Gold",
+              "type": "Album"
+            }
+          ],
+          "title": "Tenderly"
+        },
+        {
+          "artists": [
+            {
+              "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+              "name": "Louis Armstrong"
+            }
+          ],
+          "duration": 309,
+          "id": "45aea545-8df0-41e3-a537-b1c2fda1bd55",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+                  "name": "Louis Armstrong"
+                }
+              ],
+              "id": "3767884a-81a1-37b5-867e-1a5dff17a8e6",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Let's Do It: Best of the Verve Years",
+              "type": "Album"
+            },
+            {
+              "id": "dbb0d5bc-cfad-41dd-a38c-617802e6c407",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "“Satchmo” • I gioielli di un genio",
+              "type": "Album"
+            }
+          ],
+          "title": "Tenderly"
+        },
+        {
+          "artists": [
+            {
+              "id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+              "joinphrase": " & ",
+              "name": "Ella Fitzgerald"
+            },
+            {
+              "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+              "name": "Louis Armstrong"
+            }
+          ],
+          "duration": 302,
+          "id": "59e1ce9e-feb0-44ad-b106-c83f3e43f91e",
+          "releasegroups": [
+            {
+              "id": "24577902-0198-3733-b1cb-f10e8c2abb05",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Ella & Louis Classic Album Collection",
+              "type": "Album"
+            }
+          ],
+          "title": "Tenderly"
+        },
+        {
+          "artists": [
+            {
+              "id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+              "name": "Ella Fitzgerald"
+            }
+          ],
+          "duration": 308,
+          "id": "5bd6fd1b-20e5-4f78-a102-614224021327",
+          "releasegroups": [
+            {
+              "id": "a87dd6e5-54bc-441b-b22a-7286a3b3a904",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Dearly Beloved",
+              "type": "Album"
+            }
+          ],
+          "title": "Tenderly"
+        },
+        {
+          "artists": [
+            {
+              "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+              "name": "Louis Armstrong"
+            }
+          ],
+          "duration": 309,
+          "id": "6bf9faa1-7eea-41bc-bafe-f7a8920bda57",
+          "releasegroups": [
+            {
+              "id": "a0ef125b-b918-3b6c-b55f-a5dbcc4c43bb",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "The Wonderful World of Louis Armstrong",
+              "type": "Album"
+            }
+          ],
+          "title": "Tenderly"
+        },
+        {
+          "artists": [
+            {
+              "id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+              "name": "Ella Fitzgerald"
+            }
+          ],
+          "duration": 308,
+          "id": "7d1f2a36-f63f-44b7-8520-2590a544c77c",
+          "releasegroups": [
+            {
+              "id": "0c78760d-a9d1-3965-b258-428c923dec54",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Gold",
+              "type": "Album"
+            }
+          ],
+          "title": "Tenderly"
+        },
+        {
+          "artists": [
+            {
+              "id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+              "name": "Ella Fitzgerald"
+            }
+          ],
+          "duration": 308,
+          "id": "821cebc4-5f81-4c53-b88b-390fc9a7a523",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "c8404bf2-71d8-383b-b37f-2650d095fdea",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "The Only Jazz Album You’ll Ever Need!",
+              "type": "Album"
+            },
+            {
+              "id": "4d8231c3-9c6e-3459-94d0-8e5f2ab713ed",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Forever Ella",
+              "type": "Album"
+            }
+          ],
+          "title": "Tenderly"
+        },
+        {
+          "artists": [
+            {
+              "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+              "name": "Louis Armstrong"
+            }
+          ],
+          "duration": 308,
+          "id": "837716e0-7edf-4fba-8637-e3b065f1c6d9",
+          "releasegroups": [
+            {
+              "id": "9c8ab851-c89f-4c0f-9a1c-35f22e78b741",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Milestones of a Jazz Legend"
+            }
+          ],
+          "title": "Tenderly"
+        },
+        {
+          "artists": [
+            {
+              "id": "2f43e416-f1bf-4f04-8853-a0019aa12441",
+              "name": "Joe Pass"
+            }
+          ],
+          "duration": 306,
+          "id": "87221b41-c761-4b81-9729-dc353e63b2c0",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "2f43e416-f1bf-4f04-8853-a0019aa12441",
+                  "name": "Joe Pass"
+                }
+              ],
+              "id": "3c36a6ee-2ba3-3e1b-b9f8-669d3325d0d8",
+              "title": "Guitar Virtuoso",
+              "type": "Album"
+            },
+            {
+              "id": "7818df95-c134-3de6-9e7b-9e418a79c9cc",
+              "title": "Appassionato",
+              "type": "Album"
+            }
+          ],
+          "title": "Tenderly"
+        },
+        {
+          "artists": [
+            {
+              "id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+              "name": "Ella Fitzgerald"
+            }
+          ],
+          "duration": 307,
+          "id": "96ccd5cb-081d-452b-b3c8-3b0aa9d1f2cd",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "351d8bdf-33a1-45e2-8c04-c85fad20da55",
+                  "name": "Sarah Vaughan"
+                }
+              ],
+              "id": "70e42abe-7bd5-4554-92d0-1b97296a49f4",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "The 3 Divas",
+              "type": "Album"
+            }
+          ],
+          "title": "Tenderly"
+        },
+        {
+          "artists": [
+            {
+              "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+              "name": "Louis Armstrong"
+            }
+          ],
+          "duration": 306,
+          "id": "993dfc8c-edc4-44a8-80e2-3c56ac3d3392",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+                  "name": "Louis Armstrong"
+                }
+              ],
+              "id": "2a1ca9fb-5532-305a-94ff-1fb7cc349c4e",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Pure Louis",
+              "type": "Album"
+            },
+            {
+              "id": "5ff3c409-0c91-3248-9b39-ac25c205205d",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "The Very Best of Louis Armstrong",
+              "type": "Album"
+            }
+          ],
+          "title": "Tenderly"
+        },
+        {
+          "artists": [
+            {
+              "id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+              "joinphrase": " & ",
+              "name": "Ella"
+            },
+            {
+              "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+              "name": "Louis"
+            }
+          ],
+          "duration": 308,
+          "id": "a233e590-32dc-4875-a96c-687e040236fe",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+                  "joinphrase": " & ",
+                  "name": "Ella Fitzgerald"
+                },
+                {
+                  "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+                  "name": "Louis Armstrong"
+                }
+              ],
+              "id": "45aa0e31-ab75-4605-a3a3-f650d4fa4229",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Ella & Louis: The Complete Anthology",
+              "type": "Album"
+            }
+          ],
+          "title": "Tenderly"
+        },
+        {
+          "artists": [
+            {
+              "id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+              "name": "Ella Fitzgerald"
+            }
+          ],
+          "duration": 308,
+          "id": "a33bc7ae-b933-4a6e-ba19-b2195f4fb3a0",
+          "releasegroups": [
+            {
+              "id": "b80f188a-81fb-491f-9811-bcb8033ac8e0",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Greatest Hits",
+              "type": "Album"
+            }
+          ],
+          "title": "Tenderly"
+        },
+        {
+          "artists": [
+            {
+              "id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+              "joinphrase": " & ",
+              "name": "Ella Fitzgerald"
+            },
+            {
+              "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+              "name": "Louis Armstrong"
+            }
+          ],
+          "duration": 307,
+          "id": "a5d12245-5547-4e44-b7ae-84f4b8a349ad",
+          "releasegroups": [
+            {
+              "id": "a97c56bc-ead1-4692-ab21-96127890c603",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "20th Century Masters / The Millennium Collection: The Best of Ella Fitzgerald and Louis Armstrong",
+              "type": "Album"
+            }
+          ],
+          "title": "Tenderly"
+        },
+        {
+          "artists": [
+            {
+              "id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+              "joinphrase": " & ",
+              "name": "Ella Fitzgerald"
+            },
+            {
+              "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+              "name": "Louis Armstrong"
+            }
+          ],
+          "duration": 307,
+          "id": "ac1ea5ef-bf98-48bc-b0fe-a8471ffe89f5",
+          "releasegroups": [
+            {
+              "id": "1e348262-82e6-3ca3-9089-634e66b517c1",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Ella & Louis Together",
+              "type": "Album"
+            }
+          ],
+          "title": "Tenderly"
+        },
+        {
+          "artists": [
+            {
+              "id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+              "joinphrase": " & ",
+              "name": "Ella Fitzgerald"
+            },
+            {
+              "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+              "name": "Louis Armstrong"
+            }
+          ],
+          "duration": 306,
+          "id": "b5ce24d7-9d43-447a-a369-5dc6ed9a00ae",
+          "releasegroups": [
+            {
+              "id": "4c0ada80-1ed6-37a5-917a-b369dbf6f920",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Ella Fitzgerald & Louis Armstrong for Lovers",
+              "type": "Album"
+            }
+          ],
+          "title": "Tenderly"
+        },
+        {
+          "artists": [
+            {
+              "id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+              "name": "Ella Fitzgerald"
+            }
+          ],
+          "duration": 307,
+          "id": "b7231f8b-115f-42fe-bbf4-dd1c798c5450",
+          "releasegroups": [
+            {
+              "id": "9e6a5a92-950d-46e6-a33b-c232a2b7353a",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Ella Fitzgerald the Verve Recordings 1956-1959",
+              "type": "Album"
+            }
+          ],
+          "title": "Tenderly"
+        },
+        {
+          "artists": [
+            {
+              "id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+              "joinphrase": " & ",
+              "name": "Ella Fitzgerald"
+            },
+            {
+              "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+              "name": "Louis Armstrong"
+            }
+          ],
+          "duration": 309,
+          "id": "b9059f6e-c4f1-4de1-97c2-e030be5f50d8",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+                  "joinphrase": " & ",
+                  "name": "Ella Fitzgerald"
+                },
+                {
+                  "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+                  "name": "Louis Armstrong"
+                }
+              ],
+              "id": "af05e9ed-a201-31f6-a86b-36eb271d51ed",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "A Fine Romance",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+                  "name": "Ella Fitzgerald"
+                }
+              ],
+              "id": "3dcd39f2-5c4f-4043-9534-9581e7191a30",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Six Classic Albums, Volume 3",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+                  "joinphrase": " & ",
+                  "name": "Ella Fitzgerald"
+                },
+                {
+                  "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+                  "name": "Louis Armstrong"
+                }
+              ],
+              "id": "8ec69375-a2ab-3388-a15a-446133b29861",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Verve Jazz Masters 24: Ella Fitzgerald & Louis Armstrong",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+                  "name": "Ella Fitzgerald"
+                }
+              ],
+              "id": "0a39f620-97cd-3409-a44c-f54771d6abb7",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Reader's Digest: The Legendary Ella Fitzgerald: Her Greatest Performances",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+                  "joinphrase": " & ",
+                  "name": "Ella Fitzgerald"
+                },
+                {
+                  "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+                  "name": "Louis Armstrong"
+                }
+              ],
+              "id": "cdfb0201-8ffc-3a02-b42a-4abd66be7f01",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "The Wonderful World of Ella Fitzgerald & Louis Armstrong",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+                  "joinphrase": " & ",
+                  "name": "Ella Fitzgerald"
+                },
+                {
+                  "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+                  "name": "Louis Armstrong"
+                }
+              ],
+              "id": "6a165924-85e8-32a5-9d23-c43c71097b75",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Ella & Louis",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+                  "joinphrase": " & ",
+                  "name": "Ella Fitzgerald"
+                },
+                {
+                  "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+                  "name": "Louis Armstrong"
+                }
+              ],
+              "id": "f9852699-5df6-4ac1-8e76-462a68ec321b",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "16 Great Songs",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+                  "name": "Louis Armstrong"
+                }
+              ],
+              "id": "22508933-dbbe-3167-904a-a66cecb085d5",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Louis Armstrong at His Very Best",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+                  "joinphrase": " & ",
+                  "name": "Ella Fitzgerald"
+                },
+                {
+                  "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+                  "name": "Louis Armstrong"
+                }
+              ],
+              "id": "a66a7aa4-b334-43f3-9669-822700799082",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "The Best Of Ella Fitzgerald & Louis Armstrong",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+                  "joinphrase": " & ",
+                  "name": "Ella"
+                },
+                {
+                  "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+                  "name": "Louis"
+                }
+              ],
+              "id": "d877c35d-dcaf-4654-98af-94b847a117b2",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "More Than a Dream",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+                  "joinphrase": " & ",
+                  "name": "Ella Fitzgerald"
+                },
+                {
+                  "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+                  "name": "Louis Armstrong"
+                }
+              ],
+              "id": "6a8ec885-544e-3b31-859a-a73289a01421",
+              "title": "Ella and Louis",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+                  "joinphrase": " & ",
+                  "name": "Ella Fitzgerald"
+                },
+                {
+                  "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+                  "name": "Louis Armstrong"
+                }
+              ],
+              "id": "37012d18-8647-3648-87e7-7a66423b863b",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "The Complete Ella and Louis on Verve",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+                  "joinphrase": "; ",
+                  "name": "Ella Fitzgerald"
+                },
+                {
+                  "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+                  "name": "Louis Armstrong"
+                }
+              ],
+              "id": "da875444-e0f7-4f1a-b6c6-621329eea2b8",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Autumn in New York",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+                  "joinphrase": " & ",
+                  "name": "Ella Fitzgerald"
+                },
+                {
+                  "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+                  "name": "Louis Armstrong"
+                }
+              ],
+              "id": "6ca21a3b-ee39-3a41-88f7-8a457c59f04d",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Midnite Jazz & Blues: Cheek to Cheek",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "e9ad97a1-7fbe-4e88-bcba-2e244a5e5a71",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "In the Jazz Mood"
+            },
+            {
+              "artists": [
+                {
+                  "id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+                  "joinphrase": " & ",
+                  "name": "Ella Fitzgerald"
+                },
+                {
+                  "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+                  "name": "Louis Armstrong"
+                }
+              ],
+              "id": "2b4575cb-09e2-38a0-9aa5-d5deb4fd589e",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Ella & Louis",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+                  "name": "Ella Fitzgerald"
+                }
+              ],
+              "id": "685eb7ca-8e29-4b60-842c-60842c820a14",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "The World of Ella Fitzgerald",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+                  "joinphrase": " & ",
+                  "name": "Ella Fitzgerald"
+                },
+                {
+                  "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+                  "name": "Louis Armstrong"
+                }
+              ],
+              "id": "c70ee463-c59b-4146-a887-75d0f3b2b531",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Original Greatest Hits",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+                  "joinphrase": " & ",
+                  "name": "Ella Fitzgerald"
+                },
+                {
+                  "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+                  "name": "Louis Armstrong"
+                }
+              ],
+              "id": "162346df-76e5-4cd7-9169-f047b61421d6",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Ella & Louis",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+                  "joinphrase": " & ",
+                  "name": "Ella Fitzgerald"
+                },
+                {
+                  "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+                  "name": "Louis Armstrong"
+                }
+              ],
+              "id": "276936da-1d1e-318d-bd3b-8d25c4815e73",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "The Best of Ella Fitzgerald & Louis Armstrong on Verve",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+                  "joinphrase": " & ",
+                  "name": "Ella Fitzgerald"
+                },
+                {
+                  "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+                  "name": "Louis Armstrong"
+                }
+              ],
+              "id": "460cd5f8-4a0b-480a-8d30-6fdd2b0daab5",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Ella & Louis",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+                  "joinphrase": " & ",
+                  "name": "Ella Fitzgerald"
+                },
+                {
+                  "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+                  "name": "Louis Armstrong"
+                }
+              ],
+              "id": "50fece99-77bf-455b-97ae-aabb9a848b8b",
+              "title": "Ella and Louis",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+                  "joinphrase": " & ",
+                  "name": "Ella Fitzgerald"
+                },
+                {
+                  "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+                  "name": "Louis Armstrong"
+                }
+              ],
+              "id": "c4d57285-84d5-4413-8118-b92f402ad1da",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Cheek to Cheek: The Complete Duet Recordings",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "d0b93f1d-b81e-379b-bdd0-273733c11ccd",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Tenderly",
+              "type": "Album"
+            }
+          ],
+          "title": "Tenderly"
+        },
+        {
+          "artists": [
+            {
+              "id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+              "name": "Ella Fitzgerald"
+            }
+          ],
+          "duration": 307,
+          "id": "f5ae08e1-1129-454b-bd47-18127b4c6bb0",
+          "releasegroups": [
+            {
+              "id": "fe1c9c0d-6c45-4d54-85cd-8c02cc25ef71",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "100 Hits Legends: Ella Fitzgerald",
+              "type": "Album"
+            }
+          ],
+          "title": "Tenderly"
+        },
+        {
+          "id": "f9e82ff2-a26b-481a-9802-1c0ac4843f5b"
+        }
+      ],
+      "score": 0.958004
+    },
+    {
+      "id": "a7e7f0df-2e3c-4c55-bbae-c913f9742413",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+              "joinphrase": " & ",
+              "name": "Ella Fitzgerald"
+            },
+            {
+              "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+              "name": "Louis Armstrong"
+            }
+          ],
+          "duration": 306,
+          "id": "067770dd-0bfc-4933-a2f7-1132c4f05535",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+                  "joinphrase": " & ",
+                  "name": "Ella Fitzgerald"
+                },
+                {
+                  "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+                  "name": "Louis Armstrong"
+                }
+              ],
+              "id": "241ccc14-c02f-4913-b938-cc24ab26b0fd",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Singing And Swinging Together",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+                  "joinphrase": " & ",
+                  "name": "Ella"
+                },
+                {
+                  "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+                  "name": "Louis"
+                }
+              ],
+              "id": "60eafb58-0fbb-419e-88c4-33cf915071ee",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Singing and Swinging Together",
+              "type": "Album"
+            }
+          ],
+          "title": "Tenderly"
+        },
+        {
+          "artists": [
+            {
+              "id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+              "joinphrase": " & ",
+              "name": "Ella Fitzgerald"
+            },
+            {
+              "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+              "name": "Louis Armstrong"
+            }
+          ],
+          "duration": 300,
+          "id": "2517c0d1-38f4-4140-9f1a-520aab8c113c",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+                  "joinphrase": " & ",
+                  "name": "Ella Fitzgerald"
+                },
+                {
+                  "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+                  "name": "Louis Armstrong"
+                }
+              ],
+              "id": "0cbe776a-d90b-424c-bd31-a87a42025821",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Ella and Louis: The Anthology",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+                  "name": "Louis Armstrong"
+                }
+              ],
+              "id": "8d80301f-a239-4bbf-9959-0d3e5018f752",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Louis Armstrong & Guests",
+              "type": "Album"
+            },
+            {
+              "id": "6d31f8f4-a8d9-3254-aaaf-98bde2865166",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Cheek to Cheek",
+              "type": "Album"
+            }
+          ],
+          "title": "Tenderly"
+        },
+        {
+          "artists": [
+            {
+              "id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+              "joinphrase": " & ",
+              "name": "Ella Fitzgerald"
+            },
+            {
+              "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+              "name": "Louis Armstrong"
+            }
+          ],
+          "duration": 302,
+          "id": "59e1ce9e-feb0-44ad-b106-c83f3e43f91e",
+          "releasegroups": [
+            {
+              "id": "24577902-0198-3733-b1cb-f10e8c2abb05",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Ella & Louis Classic Album Collection",
+              "type": "Album"
+            }
+          ],
+          "title": "Tenderly"
+        },
+        {
+          "artists": [
+            {
+              "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+              "name": "Louis Armstrong"
+            }
+          ],
+          "duration": 306,
+          "id": "993dfc8c-edc4-44a8-80e2-3c56ac3d3392",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+                  "name": "Louis Armstrong"
+                }
+              ],
+              "id": "2a1ca9fb-5532-305a-94ff-1fb7cc349c4e",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Pure Louis",
+              "type": "Album"
+            },
+            {
+              "id": "5ff3c409-0c91-3248-9b39-ac25c205205d",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "The Very Best of Louis Armstrong",
+              "type": "Album"
+            }
+          ],
+          "title": "Tenderly"
+        },
+        {
+          "artists": [
+            {
+              "id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+              "name": "Ella Fitzgerald"
+            }
+          ],
+          "duration": 308,
+          "id": "a33bc7ae-b933-4a6e-ba19-b2195f4fb3a0",
+          "releasegroups": [
+            {
+              "id": "b80f188a-81fb-491f-9811-bcb8033ac8e0",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Greatest Hits",
+              "type": "Album"
+            }
+          ],
+          "title": "Tenderly"
+        },
+        {
+          "artists": [
+            {
+              "id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+              "joinphrase": " & ",
+              "name": "Ella Fitzgerald"
+            },
+            {
+              "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+              "name": "Louis Armstrong"
+            }
+          ],
+          "duration": 309,
+          "id": "b9059f6e-c4f1-4de1-97c2-e030be5f50d8",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+                  "joinphrase": " & ",
+                  "name": "Ella Fitzgerald"
+                },
+                {
+                  "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+                  "name": "Louis Armstrong"
+                }
+              ],
+              "id": "af05e9ed-a201-31f6-a86b-36eb271d51ed",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "A Fine Romance",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+                  "name": "Ella Fitzgerald"
+                }
+              ],
+              "id": "3dcd39f2-5c4f-4043-9534-9581e7191a30",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Six Classic Albums, Volume 3",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+                  "joinphrase": " & ",
+                  "name": "Ella Fitzgerald"
+                },
+                {
+                  "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+                  "name": "Louis Armstrong"
+                }
+              ],
+              "id": "8ec69375-a2ab-3388-a15a-446133b29861",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Verve Jazz Masters 24: Ella Fitzgerald & Louis Armstrong",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+                  "name": "Ella Fitzgerald"
+                }
+              ],
+              "id": "0a39f620-97cd-3409-a44c-f54771d6abb7",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Reader's Digest: The Legendary Ella Fitzgerald: Her Greatest Performances",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+                  "joinphrase": " & ",
+                  "name": "Ella Fitzgerald"
+                },
+                {
+                  "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+                  "name": "Louis Armstrong"
+                }
+              ],
+              "id": "cdfb0201-8ffc-3a02-b42a-4abd66be7f01",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "The Wonderful World of Ella Fitzgerald & Louis Armstrong",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+                  "joinphrase": " & ",
+                  "name": "Ella Fitzgerald"
+                },
+                {
+                  "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+                  "name": "Louis Armstrong"
+                }
+              ],
+              "id": "6a165924-85e8-32a5-9d23-c43c71097b75",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Ella & Louis",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+                  "joinphrase": " & ",
+                  "name": "Ella Fitzgerald"
+                },
+                {
+                  "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+                  "name": "Louis Armstrong"
+                }
+              ],
+              "id": "f9852699-5df6-4ac1-8e76-462a68ec321b",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "16 Great Songs",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+                  "name": "Louis Armstrong"
+                }
+              ],
+              "id": "22508933-dbbe-3167-904a-a66cecb085d5",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Louis Armstrong at His Very Best",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+                  "joinphrase": " & ",
+                  "name": "Ella Fitzgerald"
+                },
+                {
+                  "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+                  "name": "Louis Armstrong"
+                }
+              ],
+              "id": "a66a7aa4-b334-43f3-9669-822700799082",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "The Best Of Ella Fitzgerald & Louis Armstrong",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+                  "joinphrase": " & ",
+                  "name": "Ella"
+                },
+                {
+                  "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+                  "name": "Louis"
+                }
+              ],
+              "id": "d877c35d-dcaf-4654-98af-94b847a117b2",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "More Than a Dream",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+                  "joinphrase": " & ",
+                  "name": "Ella Fitzgerald"
+                },
+                {
+                  "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+                  "name": "Louis Armstrong"
+                }
+              ],
+              "id": "6a8ec885-544e-3b31-859a-a73289a01421",
+              "title": "Ella and Louis",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+                  "joinphrase": " & ",
+                  "name": "Ella Fitzgerald"
+                },
+                {
+                  "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+                  "name": "Louis Armstrong"
+                }
+              ],
+              "id": "37012d18-8647-3648-87e7-7a66423b863b",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "The Complete Ella and Louis on Verve",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+                  "joinphrase": "; ",
+                  "name": "Ella Fitzgerald"
+                },
+                {
+                  "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+                  "name": "Louis Armstrong"
+                }
+              ],
+              "id": "da875444-e0f7-4f1a-b6c6-621329eea2b8",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Autumn in New York",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+                  "joinphrase": " & ",
+                  "name": "Ella Fitzgerald"
+                },
+                {
+                  "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+                  "name": "Louis Armstrong"
+                }
+              ],
+              "id": "6ca21a3b-ee39-3a41-88f7-8a457c59f04d",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Midnite Jazz & Blues: Cheek to Cheek",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "e9ad97a1-7fbe-4e88-bcba-2e244a5e5a71",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "In the Jazz Mood"
+            },
+            {
+              "artists": [
+                {
+                  "id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+                  "joinphrase": " & ",
+                  "name": "Ella Fitzgerald"
+                },
+                {
+                  "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+                  "name": "Louis Armstrong"
+                }
+              ],
+              "id": "2b4575cb-09e2-38a0-9aa5-d5deb4fd589e",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Ella & Louis",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+                  "name": "Ella Fitzgerald"
+                }
+              ],
+              "id": "685eb7ca-8e29-4b60-842c-60842c820a14",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "The World of Ella Fitzgerald",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+                  "joinphrase": " & ",
+                  "name": "Ella Fitzgerald"
+                },
+                {
+                  "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+                  "name": "Louis Armstrong"
+                }
+              ],
+              "id": "c70ee463-c59b-4146-a887-75d0f3b2b531",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Original Greatest Hits",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+                  "joinphrase": " & ",
+                  "name": "Ella Fitzgerald"
+                },
+                {
+                  "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+                  "name": "Louis Armstrong"
+                }
+              ],
+              "id": "162346df-76e5-4cd7-9169-f047b61421d6",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Ella & Louis",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+                  "joinphrase": " & ",
+                  "name": "Ella Fitzgerald"
+                },
+                {
+                  "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+                  "name": "Louis Armstrong"
+                }
+              ],
+              "id": "276936da-1d1e-318d-bd3b-8d25c4815e73",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "The Best of Ella Fitzgerald & Louis Armstrong on Verve",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+                  "joinphrase": " & ",
+                  "name": "Ella Fitzgerald"
+                },
+                {
+                  "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+                  "name": "Louis Armstrong"
+                }
+              ],
+              "id": "460cd5f8-4a0b-480a-8d30-6fdd2b0daab5",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Ella & Louis",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+                  "joinphrase": " & ",
+                  "name": "Ella Fitzgerald"
+                },
+                {
+                  "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+                  "name": "Louis Armstrong"
+                }
+              ],
+              "id": "50fece99-77bf-455b-97ae-aabb9a848b8b",
+              "title": "Ella and Louis",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+                  "joinphrase": " & ",
+                  "name": "Ella Fitzgerald"
+                },
+                {
+                  "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+                  "name": "Louis Armstrong"
+                }
+              ],
+              "id": "c4d57285-84d5-4413-8118-b92f402ad1da",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Cheek to Cheek: The Complete Duet Recordings",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "d0b93f1d-b81e-379b-bdd0-273733c11ccd",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Tenderly",
+              "type": "Album"
+            }
+          ],
+          "title": "Tenderly"
+        }
+      ],
+      "score": 0.934335
+    },
+    {
+      "id": "53a52ee1-c4a4-4ef8-9004-afda5d188b64",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+              "joinphrase": " & ",
+              "name": "Louis Armstrong"
+            },
+            {
+              "id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+              "name": "Ella Fitzgerald"
+            }
+          ],
+          "duration": 313,
+          "id": "9d21bd8e-ac77-4006-94ec-9e0444edb2f6",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+                  "joinphrase": " & ",
+                  "name": "Ella Fitzgerald"
+                },
+                {
+                  "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+                  "name": "Louis Armstrong"
+                }
+              ],
+              "id": "6a8ec885-544e-3b31-859a-a73289a01421",
+              "title": "Ella and Louis",
+              "type": "Album"
+            }
+          ],
+          "title": "Tenderly"
+        },
+        {
+          "artists": [
+            {
+              "id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+              "joinphrase": " & ",
+              "name": "Ella Fitzgerald"
+            },
+            {
+              "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+              "name": "Louis Armstrong"
+            }
+          ],
+          "duration": 309,
+          "id": "b9059f6e-c4f1-4de1-97c2-e030be5f50d8",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+                  "joinphrase": " & ",
+                  "name": "Ella Fitzgerald"
+                },
+                {
+                  "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+                  "name": "Louis Armstrong"
+                }
+              ],
+              "id": "af05e9ed-a201-31f6-a86b-36eb271d51ed",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "A Fine Romance",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+                  "name": "Ella Fitzgerald"
+                }
+              ],
+              "id": "3dcd39f2-5c4f-4043-9534-9581e7191a30",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Six Classic Albums, Volume 3",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+                  "joinphrase": " & ",
+                  "name": "Ella Fitzgerald"
+                },
+                {
+                  "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+                  "name": "Louis Armstrong"
+                }
+              ],
+              "id": "8ec69375-a2ab-3388-a15a-446133b29861",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Verve Jazz Masters 24: Ella Fitzgerald & Louis Armstrong",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+                  "name": "Ella Fitzgerald"
+                }
+              ],
+              "id": "0a39f620-97cd-3409-a44c-f54771d6abb7",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Reader's Digest: The Legendary Ella Fitzgerald: Her Greatest Performances",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+                  "joinphrase": " & ",
+                  "name": "Ella Fitzgerald"
+                },
+                {
+                  "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+                  "name": "Louis Armstrong"
+                }
+              ],
+              "id": "cdfb0201-8ffc-3a02-b42a-4abd66be7f01",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "The Wonderful World of Ella Fitzgerald & Louis Armstrong",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+                  "joinphrase": " & ",
+                  "name": "Ella Fitzgerald"
+                },
+                {
+                  "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+                  "name": "Louis Armstrong"
+                }
+              ],
+              "id": "6a165924-85e8-32a5-9d23-c43c71097b75",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Ella & Louis",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+                  "joinphrase": " & ",
+                  "name": "Ella Fitzgerald"
+                },
+                {
+                  "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+                  "name": "Louis Armstrong"
+                }
+              ],
+              "id": "f9852699-5df6-4ac1-8e76-462a68ec321b",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "16 Great Songs",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+                  "name": "Louis Armstrong"
+                }
+              ],
+              "id": "22508933-dbbe-3167-904a-a66cecb085d5",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Louis Armstrong at His Very Best",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+                  "joinphrase": " & ",
+                  "name": "Ella Fitzgerald"
+                },
+                {
+                  "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+                  "name": "Louis Armstrong"
+                }
+              ],
+              "id": "a66a7aa4-b334-43f3-9669-822700799082",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "The Best Of Ella Fitzgerald & Louis Armstrong",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+                  "joinphrase": " & ",
+                  "name": "Ella"
+                },
+                {
+                  "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+                  "name": "Louis"
+                }
+              ],
+              "id": "d877c35d-dcaf-4654-98af-94b847a117b2",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "More Than a Dream",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+                  "joinphrase": " & ",
+                  "name": "Ella Fitzgerald"
+                },
+                {
+                  "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+                  "name": "Louis Armstrong"
+                }
+              ],
+              "id": "6a8ec885-544e-3b31-859a-a73289a01421",
+              "title": "Ella and Louis",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+                  "joinphrase": " & ",
+                  "name": "Ella Fitzgerald"
+                },
+                {
+                  "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+                  "name": "Louis Armstrong"
+                }
+              ],
+              "id": "37012d18-8647-3648-87e7-7a66423b863b",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "The Complete Ella and Louis on Verve",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+                  "joinphrase": "; ",
+                  "name": "Ella Fitzgerald"
+                },
+                {
+                  "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+                  "name": "Louis Armstrong"
+                }
+              ],
+              "id": "da875444-e0f7-4f1a-b6c6-621329eea2b8",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Autumn in New York",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+                  "joinphrase": " & ",
+                  "name": "Ella Fitzgerald"
+                },
+                {
+                  "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+                  "name": "Louis Armstrong"
+                }
+              ],
+              "id": "6ca21a3b-ee39-3a41-88f7-8a457c59f04d",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Midnite Jazz & Blues: Cheek to Cheek",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "e9ad97a1-7fbe-4e88-bcba-2e244a5e5a71",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "In the Jazz Mood"
+            },
+            {
+              "artists": [
+                {
+                  "id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+                  "joinphrase": " & ",
+                  "name": "Ella Fitzgerald"
+                },
+                {
+                  "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+                  "name": "Louis Armstrong"
+                }
+              ],
+              "id": "2b4575cb-09e2-38a0-9aa5-d5deb4fd589e",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Ella & Louis",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+                  "name": "Ella Fitzgerald"
+                }
+              ],
+              "id": "685eb7ca-8e29-4b60-842c-60842c820a14",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "The World of Ella Fitzgerald",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+                  "joinphrase": " & ",
+                  "name": "Ella Fitzgerald"
+                },
+                {
+                  "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+                  "name": "Louis Armstrong"
+                }
+              ],
+              "id": "c70ee463-c59b-4146-a887-75d0f3b2b531",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Original Greatest Hits",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+                  "joinphrase": " & ",
+                  "name": "Ella Fitzgerald"
+                },
+                {
+                  "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+                  "name": "Louis Armstrong"
+                }
+              ],
+              "id": "162346df-76e5-4cd7-9169-f047b61421d6",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Ella & Louis",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+                  "joinphrase": " & ",
+                  "name": "Ella Fitzgerald"
+                },
+                {
+                  "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+                  "name": "Louis Armstrong"
+                }
+              ],
+              "id": "276936da-1d1e-318d-bd3b-8d25c4815e73",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "The Best of Ella Fitzgerald & Louis Armstrong on Verve",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+                  "joinphrase": " & ",
+                  "name": "Ella Fitzgerald"
+                },
+                {
+                  "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+                  "name": "Louis Armstrong"
+                }
+              ],
+              "id": "460cd5f8-4a0b-480a-8d30-6fdd2b0daab5",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Ella & Louis",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+                  "joinphrase": " & ",
+                  "name": "Ella Fitzgerald"
+                },
+                {
+                  "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+                  "name": "Louis Armstrong"
+                }
+              ],
+              "id": "50fece99-77bf-455b-97ae-aabb9a848b8b",
+              "title": "Ella and Louis",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+                  "joinphrase": " & ",
+                  "name": "Ella Fitzgerald"
+                },
+                {
+                  "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+                  "name": "Louis Armstrong"
+                }
+              ],
+              "id": "c4d57285-84d5-4413-8118-b92f402ad1da",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Cheek to Cheek: The Complete Duet Recordings",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "d0b93f1d-b81e-379b-bdd0-273733c11ccd",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Tenderly",
+              "type": "Album"
+            }
+          ],
+          "title": "Tenderly"
+        }
+      ],
+      "score": 0.857265
+    }
+  ],
+  "status": "ok"
+}

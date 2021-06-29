@@ -1,0 +1,38 @@
+{
+  "results": [
+    {
+      "id": "e19682f1-8b9f-4bbf-b389-4fd4361b4ce4",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "417719c4-24db-46c0-ac49-8a8989cb716f",
+              "name": "One Inch Punch"
+            }
+          ],
+          "duration": 292,
+          "id": "b5e94440-b2be-4a82-8e30-488dd8c75643",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "650ebbf1-e25c-3f13-ac2b-d98010c1c5ee",
+              "secondarytypes": [
+                "Soundtrack"
+              ],
+              "title": "William Shakespeare’s Romeo + Juliet: Music From the Motion Picture",
+              "type": "Album"
+            }
+          ],
+          "title": "Pretty Piece of Flesh"
+        }
+      ],
+      "score": 0.974452
+    }
+  ],
+  "status": "ok"
+}

@@ -1,0 +1,40 @@
+{
+  "results": [
+    {
+      "id": "e9b63ef4-7b9f-43c8-a41b-766f3658d157",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "94c64122-dbd4-4927-b2fa-f204b0b4b0c2",
+              "joinphrase": " feat. ",
+              "name": "Ravyn Lenae"
+            },
+            {
+              "id": "a4427870-c931-4582-acad-22cea35c1b49",
+              "name": "Appleby"
+            }
+          ],
+          "duration": 217,
+          "id": "5f26eaec-b8e3-4e12-ab83-bd2bc37d2371",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "94c64122-dbd4-4927-b2fa-f204b0b4b0c2",
+                  "name": "Ravyn Lenae"
+                }
+              ],
+              "id": "74223740-723a-4b35-96c4-147d71c0d335",
+              "title": "Moon Shoes",
+              "type": "EP"
+            }
+          ],
+          "title": "Free Room"
+        }
+      ],
+      "score": 0.995055
+    }
+  ],
+  "status": "ok"
+}

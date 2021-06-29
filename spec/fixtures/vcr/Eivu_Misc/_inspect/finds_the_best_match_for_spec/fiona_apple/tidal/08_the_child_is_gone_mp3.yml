@@ -21,7 +21,7 @@ http_interactions:
       message: OK
     headers:
       Date:
-      - Tue, 29 Jun 2021 13:33:08 GMT
+      - Tue, 29 Jun 2021 21:19:48 GMT
       Content-Type:
       - application/json; charset=UTF-8
       Transfer-Encoding:
@@ -33,7 +33,7 @@ http_interactions:
       Access-Control-Allow-Origin:
       - "*"
       X-Envoy-Upstream-Service-Time:
-      - '965'
+      - '87'
       Strict-Transport-Security:
       - max-age=15724800; includeSubDomains
     body:
@@ -50,5 +50,5 @@ http_interactions:
         "title": "Tidal / When the Pawn...", "type": "Album"}], "title": "The Child
         Is Gone"}], "score": 0.934665}], "status": "ok"}'
     http_version:
-  recorded_at: Tue, 29 Jun 2021 13:33:08 GMT
+  recorded_at: Tue, 29 Jun 2021 21:19:48 GMT
 recorded_with: VCR 3.0.3

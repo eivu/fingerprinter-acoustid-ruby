@@ -1,0 +1,53 @@
+{
+  "results": [
+    {
+      "id": "014fe346-ea57-4af9-8114-7ea0f1dbfcb5",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "d10253ac-e1c5-47f3-846f-65cce388b7fb",
+              "name": "Phil Harris"
+            }
+          ],
+          "duration": 182,
+          "id": "fb680ef8-7319-4acc-aa5b-838668211cc6",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "4204e06b-d2e4-4823-b6f3-47f7593518cb",
+                  "joinphrase": ", ",
+                  "name": "George Bruns"
+                },
+                {
+                  "id": "c47026a1-3300-4cf7-80df-8b9462a884e4",
+                  "joinphrase": " & ",
+                  "name": "Richard M. Sherman"
+                },
+                {
+                  "id": "d378dedb-444f-48f5-a6e6-3e8e31ef6c14",
+                  "joinphrase": ", ",
+                  "name": "Robert B. Sherman"
+                },
+                {
+                  "id": "0a8df504-df94-4d77-a3c5-2b9e5c9727e2",
+                  "name": "Terry Gilkyson"
+                }
+              ],
+              "id": "1257fcdf-743f-3dff-9894-107b398fb777",
+              "secondarytypes": [
+                "Soundtrack"
+              ],
+              "title": "The Jungle Book: Original Cast Soundtrack",
+              "type": "Album"
+            }
+          ],
+          "title": "Baloo’s Blues"
+        }
+      ],
+      "score": 0.978046
+    }
+  ],
+  "status": "ok"
+}

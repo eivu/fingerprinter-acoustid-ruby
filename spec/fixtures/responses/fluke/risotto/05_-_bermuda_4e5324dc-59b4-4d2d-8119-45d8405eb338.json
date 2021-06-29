@@ -1,0 +1,43 @@
+{
+  "results": [
+    {
+      "id": "8d6c7ad6-2158-4924-a79e-d0f88fd2b998",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "3c3d3ad8-3935-4c00-affb-768563916f36",
+              "name": "Fluke"
+            }
+          ],
+          "duration": 477,
+          "id": "7a9ab1f2-80d4-4c8b-9250-ef77b580d324",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "3c3d3ad8-3935-4c00-affb-768563916f36",
+                  "name": "Fluke"
+                }
+              ],
+              "id": "50615933-ee44-33a2-b6e1-75f9dd35b937",
+              "title": "Risotto",
+              "type": "Album"
+            },
+            {
+              "id": "a4895282-39ae-3fda-bdec-fef9bba3fc0c",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Progressive History XXX",
+              "type": "Album"
+            }
+          ],
+          "title": "Bermuda"
+        }
+      ],
+      "score": 0.949451
+    }
+  ],
+  "status": "ok"
+}

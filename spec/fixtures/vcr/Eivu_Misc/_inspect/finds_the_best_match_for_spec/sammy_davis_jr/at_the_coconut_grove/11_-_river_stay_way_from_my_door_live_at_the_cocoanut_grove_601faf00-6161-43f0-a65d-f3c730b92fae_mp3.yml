@@ -1,0 +1,49 @@
+---
+http_interactions:
+- request:
+    method: get
+    uri: https://api.acoustid.org/v2/lookup?client=<ACOUSTID_CLIENT_ID>&duration=150&fingerprint=AQADtFGUJGEUSZpwjdmCpif6XMjBt_COZ7vAiNkTNOdxhtiP9DmSHw_NoM7x7PjRvMPzET_eJJlxL0SdUIf3Ij-SfRlOPMWT0HEwSVJQJcfJHH3QNHnw43gQDckZ4tmPJw-qXjj87OgTNfiDK805XMk2PN8Q0lbQLA-eHU8u_DO0xArCVYqj4sptXAqeoD_h76jE5HjiSEh6Tcid4Unq4Lrg_Ql-Jngq6fiSZJGQ60h2MmiWZxJe5UGOJMxxRiPY2WgWnuhfnB6a-By6H4nyKCfSralQJQnxozmFOrpS_BR-zGERCZoeIdzSgwqXA3uCMEts4Us-aKm8okd-PDpaHs3I7Mg__Jj0g9JtKDvqXLgk_XiWo4_QXMgvPGrw49I0-C_wJCluJ8PDoDea6ngmPMgDJ56F5yFUo3yVoVkSPcRZjcajE9ovNEqWBRca50oGbVNGIriyXHjhMzz2RZTwHuTEOHBoIj-Sp4efpSKOZ8cbHGdyDbUY3EN2JKy-GJXzJZiXDP00NCF1nMUT4shTJKOixzCj5yh7_Mc3hcc7JcYfoNpzNE2Qhw7uK2gWLQi9Dg16ZsIsZRyeH8z1wWmPWomQ6EPuCu_Rx-AOLjm2E72O56FwHWceNHwQKtEPtWKDHBeaT2HQ8jhiZocoLwp-wblIrOmh92DEHWEaHT_6ZYRHHk2YBxmnlMdxHqm25bhizFMr3EYfOK5MlNPwocoDH8_hcy0u4USYE_od5MfdolHuo39wHeEVGd8LMT-eB_4P7fnxI58DZ1FO7LuEk0dzGv2BG0ZeEnpwjcHVMSglnPIhXrCbMcGVL3AOZsuPS8PJIyuFV0H5w0wihHYO3TFCjUfD4eSOeRf8eBPORmjUHJOsozlCMiz0TEd0BvvB5MxRZTvGLg9-DxV_WEcoHheayU2MsIzS4T1uYVKSg8mv4D-SI_Lx8MqAph_qREozPDd-TDfCLFsZJG8kCuca9NThqrgjHacI76nQk8iP5OHxHH2D_UT54llQUUejZVaQPEoRW8dHnAqeJD-u40dzoXKOXNJ4KGVTZNF1ND6x60FD6gjFBzJ1hMnyoWSOH3mOZKmiC1Wj40ke4TrOYDoTJHqWCdGJn2iqLETy5EeeBL56VEfz4Nc-XAsemDiDj0Jz_Gge3DKeB8153DJM-bjYxviK9ISWzTvyiMb5ceiPLx-eZeMyNBEtPOvhH_mhy3HwKBlNpFWOm8ObC43SDGVGHi85nIpjPDuaf0Gp44pyhFamQUvy4YdGhlCUJcYbXYjTvZhu2AlKD8_xCxVzwUmLPod-NE1TojaOHk2SG1d4BtdyNE1C4jLKLDP-I_ErhF9bXMoD10Kl5kWXXInR5MSL5DLy0PjxUxiVBVUiJxMaMxu-DJd0vJjiXYLfCqUvXPuR39ClwgsjGtcNedmRnvh_lNzRLDtxnBSmdItRIXmOPA_2KC_KhYbrozvCjLuQzFuDhzGao1SRd_hR-pD1I18u-IRPPDw-wVZ0XFqO6jGxD-_R5gzRbDk-HcfZ43uQqPaCMNnxWDmaGAevo3mOySbxJMqDfFWgKsdD4clyNBfU5MnxLB_sEJ7-Be1xqTmeWYSeK2hQOQu6E02sB_klPM_wYGJyNDs4H50XHbV3JE-E_McfwnGWCfvSBNfw7BjF7HgeGdSbYHeO_PjH4S3xJtlwbRQuHXkSHz_Ky4jHJfCO8NjFCVwXjbgfzFGD68dTBkcy6TnCMEpxOdLxpMI_KcKjB5V4fEXaQz9OaNeJZyT-H9FjnJk8WHPwHz8ehLGbINkP7nhSHpfAMybuGFMmPQg1CXJ03IyI6EbzoPY2XEqyHPkIjXB5ZHk4vBGNo8m3o2OGLxX840dyzQh3GYzkc3iKKeiPfymeqA4cUsGL5NKRc0FzB31wGSMVkBmPKVHQB_lUQT8u5OiT5cbJD15ChA_xHT1cpIsalDLuEldKhGkaaExF5FyOZ3ng7hmeHGdwpUR3B8kyJUwXjEqUHLyCJ4X4REPO4znqd2gSugli7oD-EfyP8AxmZquQUsfzxKLgeSlOP9A4DVdUhCQPy0cfXMfT4MqxKztBHqP4xMjzBn0OLcdzISY3XEty_ELc5oH2E2kPj1limNdxH57EdIPdyyh1IX-QVBlzfPgbvMdzGT8eXA-SfNGMXHLRF-ZuVAdZXvjiHF8lScgdQ7uH7dqJJhwhW3hdlMyO9Jmwi4YfHc5doisf_OjhKYKrXugRPhfEOg9CrscjBk1yobqKl8ZzDeFP6A1CZkxE_EKTo8rwLBniayy6JC-2SFMW4vCPnIHv4mKwJY_BUGxx7EWyz4j2DGUehNk-aD_ynME_RUSp4gkoTsSEIzmf4yoFd8uDm3iGB77SIJ-x48PxH0_D4nyK6H2QTIT_4AmO5yhlIs8E7ckXIQ-mnBWeZZvA6sGe4NHxHFUjH811JF-sJAjfEBd-NIuUHZfww_ly7Dp-4dGRfMmQXi_-4s7wzDo8JXqOT8cVaWi-c-hxHRmT5USy9Ojx42aiCz_-47uE-3hyJO_CoUcWUkfDRQmDSufwHDnBKsmhM0HYw8dBRw_m7cJFZziRQ0935CSeB7Xy4LkoPHke9AuJH1ci4aGEZNEp5Hti_HmIDw-aH9Of4MzCpUjkiMiHS8djYX8RniS8aXnQi0R-vOgy7YXz4MnhM8JEGR9zMD-Loxpz5PmR5Duu52gYW0H54haamNGG_sGPik2IKRGJXIf-CHxyhPISIroXnNmhT8dFGlvfBKKWHP3B6EGY89h1HM0otJlT5DqSnWjyHOfxHZdRS2jicEzxXPjR59jcRXh2lFNI3HvgpDqujEgQ5k1QHs0S5ehTEgeABAFFAECAIA4gBgRxQAEMmKCMICCcIYQaQZBQyEGoCAAAOoaMkIYAAARgBhmkACBIGAGEEAYxAYBBwABhDCDCQUAAYwIYQZhRBBmijWGeACm8gQYhgwwhQAJAACHKMEIIdAQYRKVE1FMAEGBCCGIAIEAIgJkgAKBCCAdGECEEAIFKhAABwgkEkFNCESEIAwAR4gjBUggjECPGCCWMVwRJAQwEQkAiBSFKuCKAA8gQZDBwUBDAJBBAUACBEYQwIYQBgkAKEEBECGFIUkAApRCQgAGDpAMAEiAQAkAgQCAjQCDADDDIKkkAA0IZgR0BAhAACUDACUKcNYAARxgCihhELTUIIEKNNYIABQQCgBhChRTACQCYlsRQQwzwCkAhBCCIOUA8RooASAxwwBAihEEAEAaAE4AIBIwBiBEgDMCMGSCEJYwhJIhwzhgAkGFAEEGAEAhxpihxwDHFhBAAEEAAUkICAYARiCEDIACCEcWBE8ABBgBgQBDCjCYIIASoA04AoUQRwCqgmFAEOUAIIIIIRggREDiDhEaAECCIgQYSRYBDwiCAEDEQaGOcEl4KYpABjAsCBBOGKIOAkQgZQgAAHAAHjGTCaGGAQEoChwAhTgCKgAOMKSOEEhQAIZGgiDJmlVLMA0CAYMwwJAQDBBkCCKASCEGUksQJIoQDgAGhgCCIQCaENQIoBRgUgCmggAIKQKCANxYYgRgAzhEEDBNAAEaMAgAAJAARAABTlABAGAAMAwJAh4QyzDKDAKDUEACUUAoIYBwRQgEAEGHeOCIcAIoQIQGpyCDAEFGECkCIIEQgRxUQBADBgCQaAIIAIEAIBKAQEAiDAEIAOEIgMAoRQ4AFAoBDEGBMCeQUMAJJQgAQACJFCFFAEEAZMEYQgRwTSgDCqAFGIWYEAUwAIAQBAhhKjIAAAieQIEBIQJQFBjijuGDCIEQIEsYRphxBgBiEnAUY&meta=recordings%20releasegroups%20compress
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      Accept:
+      - "*/*"
+      User-Agent:
+      - rest-client/2.1.0 (darwin20.3.0 x86_64) ruby/2.7.1p83
+      Accept-Encoding:
+      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+      Host:
+      - api.acoustid.org
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Date:
+      - Tue, 29 Jun 2021 21:22:41 GMT
+      Content-Type:
+      - application/json; charset=UTF-8
+      Transfer-Encoding:
+      - chunked
+      Connection:
+      - keep-alive
+      Vary:
+      - Accept-Encoding
+      Access-Control-Allow-Origin:
+      - "*"
+      X-Envoy-Upstream-Service-Time:
+      - '71'
+      Strict-Transport-Security:
+      - max-age=15724800; includeSubDomains
+    body:
+      encoding: ASCII-8BIT
+      string: '{"results": [{"id": "529f38b7-62be-4bc0-ba6c-5220149b2fe0", "recordings":
+        [{"artists": [{"id": "4bc9e8c3-7eae-454f-a56c-bccf96f3926b", "name": "Sammy
+        Davis Jr."}], "duration": 150, "id": "e2cbe581-814b-40fd-97e4-345fea57f77b",
+        "releasegroups": [{"id": "6fac76ed-b861-3519-9df3-04355946ec58", "title":
+        "At the Cocoanut Grove"}], "title": "River Stay ''Way From My Door"}], "score":
+        0.996967}], "status": "ok"}'
+    http_version:
+  recorded_at: Tue, 29 Jun 2021 21:22:41 GMT
+recorded_with: VCR 3.0.3

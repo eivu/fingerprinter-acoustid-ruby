@@ -1,0 +1,43 @@
+{
+  "results": [
+    {
+      "id": "bcc08987-63da-4135-8dc2-1c4d0b12a94b",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "8dd98bdc-80ec-4e93-8509-2f46bafc09a7",
+              "name": "Calvin Harris"
+            }
+          ],
+          "duration": 129,
+          "id": "cf8c1c04-c2ee-41f9-8142-b5528812d28d",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "7c43d928-bf2f-4533-8d98-437caee4c655",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Elektrisch",
+              "type": "Album"
+            },
+            {
+              "id": "98432828-5764-4892-9e3f-9c674cf70acb",
+              "title": "18 Months",
+              "type": "Album"
+            }
+          ],
+          "title": "Mansion"
+        }
+      ],
+      "score": 0.962887
+    }
+  ],
+  "status": "ok"
+}

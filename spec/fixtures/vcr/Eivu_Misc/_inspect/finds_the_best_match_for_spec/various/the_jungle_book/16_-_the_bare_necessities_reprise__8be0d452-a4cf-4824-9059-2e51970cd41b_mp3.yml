@@ -1,0 +1,77 @@
+---
+http_interactions:
+- request:
+    method: get
+    uri: https://api.acoustid.org/v2/lookup?client=<ACOUSTID_CLIENT_ID>&duration=56&fingerprint=AQABtBmtR0HhH22OfMe1IXouVLkSDY6kC3p05BeY42yN5nEWVD5mKVFWNI50oVb24Q-uHN9DmE_xoOThLXGMZFeQo4_QuCFeE2P2odqZoM-KMz_OxAjTZIS-KPA_ISQzY86UpEGYQ3Mi4cqC8ITzJnDyVIPPjwgpxSJ0TRlyKTPu41IeNHl0dMWZC5fqoMqL5guj4HaCXNCOMM_xoXQjVIqH9zsuJXrQKprhdUay1EWO_LzgJTcUM5Ej5GEquD-4Bz_4o48yofmR9EkVIZ_BKdJRCs0Dns_wD9fRakKYyWlRHk1GGlrGoHuPAz-kHCVJ4UsUo5mOvjlYbUflR9CmhfixH-V-uM_wPMXNQs_yIj_64krwLMEzD7Goo10eQUs44i8uQoua5XCOkEyU4hqP3tPQPOijC_4x38iTow9TQ0d6nCJeEcwikYORP0FS-oLPoGSOBzEdPIeF_4ImSYGdQ9MlnEdz1LogPcshneiiHq-OVmEcPF-Q9UR3OFoRdsy4CJcC6egRn-iPm0IY4lFENLGGk4OuYNeDukmh5chz9A-8TRam1DH-yygbNMtxB3-Fs8fxo8yQRkzs4ZDYdPCDqzvSZTsOO4lgTV2J87iSHX_xHw554jH8RQzGH-7xJEIzPscnBDrCZ9lxHu2YYJK06IFNMuCV7EEYJceoC3qOPJpRKjm85ArRm7gxN9vBE0_0EBGL5iy6k8FXC6eybPgRPjGaUjEu_MihSsqRM0d9OGZ29DvxFFdO1IquIMwVI7lQKx-uKM_xREcR_UGyeGoUlKokvAvaH56UCw7zDD_CF4lCND--s3ik4FKP5lGOH3ZyeBKd4D9-WNPR72CSjUbfBP-R6yKSPA8qH35wUUSffMgFLXvGIOy4HffxhphefFpgS6hJ4keMHlLw5UQO8jKeEc2KOsh1yEfzEW124fuxizl-9JC3w6ZwbdAfeD_w70V6PEfU9KDHHJp1jNWFhh9K5tARe8nhJ8KPZker4_dQOwgj59CHXMLEB02PKz-YfOjz4EczFiXzgD9-VFuOHNatQtN45DmmH0f-QX_wI9dxNNWO7_hy5DzUrUeYdQ9x-Aye4fDIo6p2tDxM4GvwIz4eiMWnFzmP4yzC5hN6iOiNEEd6-McBQyxxHIh2nDjO44X_ITfxDNKjPQAAAAAAAAAAAAAEMEAMIWEEcMYRAggTwCBLFDDLQOIUEQwAQpCAyCkChBDMMAAUAAAIJCRSThBABAUECOSAdYQBAhQBBhHgCHHKAAAZMhQAQoATFAECCABEQIYUMEQR5AwSAACAhFISWMgAkAIQ6YQBAkkBlCMMAeMYUY5QjQghDHBiBOHGCAEkRUAoBxRIABDADADEKEOIJMZgYoSFQhBFgDFGC4qUkQQSAw0BzBiFFCEAKUIMIQQQaAAwAAlmgANMUAGQUAoQIZAjACEDHWHMACKUIQIhALwgwgCmCBSCGUCNkcoQBoRzlhkiABACAEQFQoIIxQQQzCkiDNoOCgCAIIAYgK0wniAICFBKAEEBIiQ4gJxQAjDAYACIIAYoAYZ4Cizj2gjJrfLIAkuEYUQA&meta=recordings%20releasegroups%20compress
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      Accept:
+      - "*/*"
+      User-Agent:
+      - rest-client/2.1.0 (darwin20.3.0 x86_64) ruby/2.7.1p83
+      Accept-Encoding:
+      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+      Host:
+      - api.acoustid.org
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Date:
+      - Tue, 29 Jun 2021 21:24:53 GMT
+      Content-Type:
+      - application/json; charset=UTF-8
+      Transfer-Encoding:
+      - chunked
+      Connection:
+      - keep-alive
+      Vary:
+      - Accept-Encoding
+      Access-Control-Allow-Origin:
+      - "*"
+      X-Envoy-Upstream-Service-Time:
+      - '61'
+      Strict-Transport-Security:
+      - max-age=15724800; includeSubDomains
+    body:
+      encoding: ASCII-8BIT
+      string: '{"results": [{"id": "1d41a89e-3881-4b5e-828c-b265bbaa6caa", "recordings":
+        [{"artists": [{"id": "d10253ac-e1c5-47f3-846f-65cce388b7fb", "joinphrase":
+        " and ", "name": "Phil Harris"}, {"id": "af2eb4da-3d69-45f0-9591-3b0f9a8b7379",
+        "name": "Sebastian Cabot"}], "duration": 57, "id": "3c37b323-8999-49f9-a1a8-5564e106f51f",
+        "releasegroups": [{"artists": [{"id": "4204e06b-d2e4-4823-b6f3-47f7593518cb",
+        "joinphrase": ", ", "name": "George Bruns"}, {"id": "c47026a1-3300-4cf7-80df-8b9462a884e4",
+        "joinphrase": " & ", "name": "Richard M. Sherman"}, {"id": "d378dedb-444f-48f5-a6e6-3e8e31ef6c14",
+        "joinphrase": ", ", "name": "Robert B. Sherman"}, {"id": "0a8df504-df94-4d77-a3c5-2b9e5c9727e2",
+        "name": "Terry Gilkyson"}], "id": "1257fcdf-743f-3dff-9894-107b398fb777",
+        "secondarytypes": ["Soundtrack"], "title": "The Jungle Book: Original Cast
+        Soundtrack", "type": "Album"}], "title": "The Bare Necessities (reprise)"}],
+        "score": 0.959346}, {"id": "6a19e32d-c78b-4faa-b667-93568868cfcb", "recordings":
+        [{"artists": [{"id": "d10253ac-e1c5-47f3-846f-65cce388b7fb", "joinphrase":
+        " and ", "name": "Phil Harris"}, {"id": "af2eb4da-3d69-45f0-9591-3b0f9a8b7379",
+        "name": "Sebastian Cabot"}], "duration": 57, "id": "3c37b323-8999-49f9-a1a8-5564e106f51f",
+        "releasegroups": [{"artists": [{"id": "4204e06b-d2e4-4823-b6f3-47f7593518cb",
+        "joinphrase": ", ", "name": "George Bruns"}, {"id": "c47026a1-3300-4cf7-80df-8b9462a884e4",
+        "joinphrase": " & ", "name": "Richard M. Sherman"}, {"id": "d378dedb-444f-48f5-a6e6-3e8e31ef6c14",
+        "joinphrase": ", ", "name": "Robert B. Sherman"}, {"id": "0a8df504-df94-4d77-a3c5-2b9e5c9727e2",
+        "name": "Terry Gilkyson"}], "id": "1257fcdf-743f-3dff-9894-107b398fb777",
+        "secondarytypes": ["Soundtrack"], "title": "The Jungle Book: Original Cast
+        Soundtrack", "type": "Album"}], "title": "The Bare Necessities (reprise)"}],
+        "score": 0.938636}, {"id": "5f3ed6a9-405a-4f46-abc3-bdd74b28f0e0", "recordings":
+        [{"artists": [{"id": "d10253ac-e1c5-47f3-846f-65cce388b7fb", "joinphrase":
+        " and ", "name": "Phil Harris"}, {"id": "af2eb4da-3d69-45f0-9591-3b0f9a8b7379",
+        "name": "Sebastian Cabot"}], "duration": 57, "id": "3c37b323-8999-49f9-a1a8-5564e106f51f",
+        "releasegroups": [{"artists": [{"id": "4204e06b-d2e4-4823-b6f3-47f7593518cb",
+        "joinphrase": ", ", "name": "George Bruns"}, {"id": "c47026a1-3300-4cf7-80df-8b9462a884e4",
+        "joinphrase": " & ", "name": "Richard M. Sherman"}, {"id": "d378dedb-444f-48f5-a6e6-3e8e31ef6c14",
+        "joinphrase": ", ", "name": "Robert B. Sherman"}, {"id": "0a8df504-df94-4d77-a3c5-2b9e5c9727e2",
+        "name": "Terry Gilkyson"}], "id": "1257fcdf-743f-3dff-9894-107b398fb777",
+        "secondarytypes": ["Soundtrack"], "title": "The Jungle Book: Original Cast
+        Soundtrack", "type": "Album"}], "title": "The Bare Necessities (reprise)"}],
+        "score": 0.882042}], "status": "ok"}'
+    http_version:
+  recorded_at: Tue, 29 Jun 2021 21:24:53 GMT
+recorded_with: VCR 3.0.3

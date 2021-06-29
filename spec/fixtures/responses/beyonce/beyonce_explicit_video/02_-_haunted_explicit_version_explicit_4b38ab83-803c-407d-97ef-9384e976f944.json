@@ -1,0 +1,140 @@
+{
+  "results": [
+    {
+      "id": "7de83ff6-6026-4638-82dd-15d04572a1c3",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "859d0860-d480-4efd-970c-c05d5f1776b8",
+              "name": "Beyoncé"
+            }
+          ],
+          "duration": 308,
+          "id": "49f2e1a2-d1a1-483c-ab85-db7c51fb0170",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "85852629-ce4c-4bb8-8d4a-50299d56a06c",
+              "secondarytypes": [
+                "Soundtrack"
+              ],
+              "title": "Fifty Shades of Grey",
+              "type": "Album"
+            }
+          ],
+          "title": "Haunted (Michael Diamond remix)"
+        },
+        {
+          "artists": [
+            {
+              "id": "859d0860-d480-4efd-970c-c05d5f1776b8",
+              "name": "Beyoncé"
+            }
+          ],
+          "duration": 369,
+          "id": "6491949b-bb40-4716-bf6a-056ad620d27c",
+          "releasegroups": [
+            {
+              "id": "8596171e-23b2-4bdd-8f1c-11960df0ecbe",
+              "title": "BEYONCÉ",
+              "type": "Album"
+            }
+          ],
+          "title": "Haunted"
+        },
+        {
+          "artists": [
+            {
+              "id": "859d0860-d480-4efd-970c-c05d5f1776b8",
+              "name": "Beyoncé"
+            }
+          ],
+          "duration": 369,
+          "id": "8a545575-898b-45d0-98f3-8f0f1929fa8f",
+          "releasegroups": [
+            {
+              "id": "8596171e-23b2-4bdd-8f1c-11960df0ecbe",
+              "title": "BEYONCÉ",
+              "type": "Album"
+            }
+          ],
+          "title": "Haunted"
+        },
+        {
+          "artists": [
+            {
+              "id": "859d0860-d480-4efd-970c-c05d5f1776b8",
+              "name": "Beyoncé"
+            }
+          ],
+          "duration": 151,
+          "id": "c8e87dc3-05cf-48bb-b40f-97c32d8cb0ad",
+          "releasegroups": [
+            {
+              "id": "8596171e-23b2-4bdd-8f1c-11960df0ecbe",
+              "title": "BEYONCÉ",
+              "type": "Album"
+            }
+          ],
+          "title": "Ghost"
+        }
+      ],
+      "score": 0.940104
+    },
+    {
+      "id": "df370a0f-6305-4214-85b8-8e46debccf61",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "859d0860-d480-4efd-970c-c05d5f1776b8",
+              "name": "Beyoncé"
+            }
+          ],
+          "duration": 369,
+          "id": "8a545575-898b-45d0-98f3-8f0f1929fa8f",
+          "releasegroups": [
+            {
+              "id": "8596171e-23b2-4bdd-8f1c-11960df0ecbe",
+              "title": "BEYONCÉ",
+              "type": "Album"
+            }
+          ],
+          "title": "Haunted"
+        }
+      ],
+      "score": 0.570763
+    },
+    {
+      "id": "dba96112-e1b2-434e-b250-6f3456cb3af4",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "859d0860-d480-4efd-970c-c05d5f1776b8",
+              "name": "Beyoncé"
+            }
+          ],
+          "duration": 369,
+          "id": "8a545575-898b-45d0-98f3-8f0f1929fa8f",
+          "releasegroups": [
+            {
+              "id": "8596171e-23b2-4bdd-8f1c-11960df0ecbe",
+              "title": "BEYONCÉ",
+              "type": "Album"
+            }
+          ],
+          "title": "Haunted"
+        }
+      ],
+      "score": 0.439618
+    }
+  ],
+  "status": "ok"
+}

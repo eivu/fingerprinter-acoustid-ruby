@@ -21,7 +21,7 @@ http_interactions:
       message: OK
     headers:
       Date:
-      - Tue, 29 Jun 2021 13:47:58 GMT
+      - Tue, 29 Jun 2021 21:23:48 GMT
       Content-Type:
       - application/json; charset=UTF-8
       Transfer-Encoding:
@@ -33,7 +33,7 @@ http_interactions:
       Access-Control-Allow-Origin:
       - "*"
       X-Envoy-Upstream-Service-Time:
-      - '155'
+      - '233'
       Strict-Transport-Security:
       - max-age=15724800; includeSubDomains
     body:
@@ -556,5 +556,5 @@ http_interactions:
         "Album"}], "title": "Hooked on a Feeling"}], "score": 0.986748}], "status":
         "ok"}'
     http_version:
-  recorded_at: Tue, 29 Jun 2021 13:47:58 GMT
+  recorded_at: Tue, 29 Jun 2021 21:23:48 GMT
 recorded_with: VCR 3.0.3

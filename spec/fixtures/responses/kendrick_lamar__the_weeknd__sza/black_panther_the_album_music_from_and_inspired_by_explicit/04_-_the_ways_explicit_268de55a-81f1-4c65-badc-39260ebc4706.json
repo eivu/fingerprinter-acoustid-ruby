@@ -1,0 +1,75 @@
+{
+  "results": [
+    {
+      "id": "32d4c9e1-c1c0-4e17-bc16-8fc808e22dfc",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "28737730-ec70-4da5-89c5-77ac13c5c34d",
+              "joinphrase": " & ",
+              "name": "Khalid"
+            },
+            {
+              "id": "a17ce9c3-8f6f-4dcc-a1b7-2a04ab9e31f0",
+              "name": "Swae Lee"
+            }
+          ],
+          "duration": 238,
+          "id": "89f6191c-5295-4420-ab5f-c4957b15cb41",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "381086ea-f511-4aba-bdf9-71c753dc5077",
+                  "name": "Kendrick Lamar"
+                }
+              ],
+              "id": "4e317e28-e6b2-46d7-81f7-306e349b3dd4",
+              "secondarytypes": [
+                "Soundtrack"
+              ],
+              "title": "Black Panther: The Album (Music From and Inspired By)",
+              "type": "Album"
+            }
+          ],
+          "title": "The Ways"
+        },
+        {
+          "artists": [
+            {
+              "id": "28737730-ec70-4da5-89c5-77ac13c5c34d",
+              "joinphrase": " & ",
+              "name": "Khalid"
+            },
+            {
+              "id": "a17ce9c3-8f6f-4dcc-a1b7-2a04ab9e31f0",
+              "name": "Swae Lee"
+            }
+          ],
+          "duration": 238,
+          "id": "a4073401-17c6-48e8-8df7-62b10c96c3f5",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "381086ea-f511-4aba-bdf9-71c753dc5077",
+                  "name": "Kendrick Lamar"
+                }
+              ],
+              "id": "4e317e28-e6b2-46d7-81f7-306e349b3dd4",
+              "secondarytypes": [
+                "Soundtrack"
+              ],
+              "title": "Black Panther: The Album (Music From and Inspired By)",
+              "type": "Album"
+            }
+          ],
+          "title": "The Ways"
+        }
+      ],
+      "score": 0.990263
+    }
+  ],
+  "status": "ok"
+}

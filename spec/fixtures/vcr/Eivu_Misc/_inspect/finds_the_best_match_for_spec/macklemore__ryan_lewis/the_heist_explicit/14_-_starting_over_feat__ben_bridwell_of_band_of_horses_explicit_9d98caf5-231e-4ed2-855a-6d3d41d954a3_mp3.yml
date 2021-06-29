@@ -1,0 +1,53 @@
+---
+http_interactions:
+- request:
+    method: get
+    uri: https://api.acoustid.org/v2/lookup?client=<ACOUSTID_CLIENT_ID>&duration=251&fingerprint=AQADtGI1ag5-2OkJHHvQHMxfPMmR5NmR68a3B428-Ah5CPn0GD_OYz9xcD7CTUqCJEq06Pjxc7jQnHnQR_ge_EFzCb2KKwv-43lQX4KfPfhwCb6EP8PHFJ6FTzuaq9Ad_MePKfnBWEzxo96O7cXzB82O83iMMEk25dBEBkL0gzd25cX3GD0cqkcVJjz-4cenPHiX5Mgt6EO5pghTscJxH89SC6eKIze0PJVQSsSTJBhzaLqCXDoeGlTzolb0CM_xGz-62UKTemAaJWguysjRMA-NkL3wFvsX9MeUizguKckHenkCjbeEMwND5hYexcHfJGh-Kaif49mxKwjjNtCebMh5fDye8BGuocmPniHe44ncouMRJjShs_h_PDm-Y3KPSxmhdxvCB__RZBGDcsnw8UHJKEEmVkVC5cH_bLhC4id-4T1OfMmxZc-QjFaRH72IqM0y6EH4LyCTpdpw2QeTHPWOd8TVZgTjB45bPFNulCtlsMmW5jh2YfuR00WiPCdu8rgFH31wZjiT6DiOidkFP8-QPkFP4kevHVryBefRdQ4846eQ58OJqy187BceHe9B_vA-9MlxZkfzNUN4JPKpFQ-PRzL6Y8pVoYf5ojvy5dD7w6GDH1qVFH4_5JIa_EIpuWglaXCkzQivG_8R8_iOXXzxp2hu9PiDxkL9iEhqCrkV_HiFklJwZSe49rjgU0U_vMd_4EwRJi2hURf4I_SIfTvcoS9y48cvaI1y4B_ews-D9mi3B_KRH7_xX9iq41ngbhZ6fcLx7Lh4ML_RVBlupkMu-IOuIP_xYEYjxcE7ccOPPsdnVMePHv_xC1VYIx0THfsDrzluSBqLT4OvYDpyD89x-kG_He6FT3iw48V3PM-Fh5FxHdXx_DgvPEH9HsfOw8dfvGhKGnmgP9EQr7pw9AwcKhf24kf_4kfF5rgHZqXRPzhJaUh85cjWD_7Qp98wWUTzBedx8UK-EckTPLFI9IWpPPC044MRUmOgS8-CH_GNZovQvsGlNrizo2_hZ6jFVPgeDB7J41kshNeh5T3yTCO-TMfRnDluHc2zHA-aKhx-_Clq5fgjfC5CJoaW7sMfI87xYu7ROLrQHueNfoETHz-aiFdw4zquonmNp_An4kN6QZcUItQ4XMffIT60_Ai7vvhwHP0xBfmhNuIi5A9ORdTAXmik5cQpHt4AV4yF_riO33iTpUL3I_0FaVoYIk-P_cK9w0dFScezFH835NILXRERJvoR6sXzQeOywzqPsMuDVukJ6wiPQ-dxSUetOtCiH--NMJEUvD6-wyf6HPcPN0kUIjcF5cgTnDba0aA6fNfwHV-O_sWxA7lrQeaESMyW43oMXDuyCvpoeMbRPNj5Q9WSI0yi6EJ59EVzEVfR7EKf44uDhzJ6_MK0szLOC32IH6WcRgyOpkefoteOMBd0kUMuY4zu4CMmHw8zXHPhiyLa4cebg36FULKgpccT5HqM5h3BPMeVfQgzicGe2tCS4wmjUPhy3Md33GiOPviUHTnCHdfxHGWVow98oU9xZ5BrDk0u9Ea-5OhzXDumBzmPauchij9OaYPxCe1zXEf94zNS-BxxZKtgpTlOmMfDQOPBR5CZeILz4zL0QTtOHncO65lxqR8UaYtU9OmGvPCD8ugzmEcfcqh1pNmmQz_CaBzyRMexj9BiHz3yLUR4HXqy4NIR6kZ_-Oia6_iJTzf4Hj3hMUuF9_hET2ijjMfRXwjz7Ei6o5QynJEE37jJBiwTHccpB3kOXUfKo2Q-PBXGH30Il8KDG-nWFFOXWdDJo8reIMw7XOTxUEeJHzV6C82zHieF_FAdITfxo3mW4hJBMrzgH98Jyzwmizh-PEes1R20cHwxP8ePa4M5BqfQL3hzxB3IDRd5tJ2F68IzUC8YmvhwtGtabOUx5TF-XHnwoz_hqse2H49x_Mi1QydCS3geFY8jlD78HOuU4Q0vHD34472MH9eOPEoKTb_hg1l76IWc7BhNJ0O_HM1P_Ck-RToeRviO_2jzo_kRO3iGPo3gS_Bz9EOOQ8uTKUU1rsGpQ7sOPx9y4o3hLseP_7h-3DmSHumPiUo-PEr04GCP6rfQlDr4hAmS_siPsjGcjRe6KHaM8wh_JMuTY6KSwkyD8rgw5SwmEufxF0_TI4ynB9qDfMHxnPB5XBcuHcmmE2HSZEG_aGjq4Ct6I8yZDTqz40SoZDzSOsE5_BCnH_l6uHqCdsxR0YeTDBf-w6_R5_iHWiv8oxJ54Tvi5UFyDD-egGr2gY4iHTf-IuFT5Dqa5gbzDDyf4M43RMqNUkl2yIpqXNLxZMgf-Dm-ZMZfVPyGRvqDS1vw49eC5uizdKgsE8nyJMgvzDkuJceVF_zRF01MnFuOH_zxI9klhFHktHh04TemhGKKUsOVJUdTo7QRiA-R87hQNcnhcwnCQ0d-oTzhmEe_hMSHMqqFMHGiPDihLYeWtPnwZUeYkUKfBT9-NL_wCmEe9UiuMPglfA8a5Y_QM8eb4Ed_46LQ6_iOH2F-aOePiHrwHJ907HWE3sZ5mNmFNupxHPkNLXuIHyIV5qjidUHQKxzSWMMf9CP048cDP8SD_9BzwnvwRMfxY1rOHd8O8ceHv0gPx4A83hgojBAGEMABUQxIQxwzSBkHAiCGEIcEAooBqICADhBnkAIGKQG4AYoaTIAARRoirBDEGEUQAsAIBIAQDhiApEMEOiUoAYQBAQFihCghFAGUCCEYAMAAAQixVihBIBHcCEEIQYoIIIhSxjBgDTFCQGAEUsoBphhhAAhjACACUGYYEIIdQ4wQwFBgmRAmGECQcAQAQARwyDCgCHFIECAUIEwIDBhQAgnGKFGEAGYAEFAIIaRwRApCoFIIIWGMRAKBYAFjgjDLBAGIAiOgooIBIwU4ACBAABOCACYQAApYwYBgjlAAnLNOCmCERQAAg4wQDogAgFDMiYeIAsJAR4VBQClAKAIkAaUAAEQggoRQUBCFBAEICQAEE4QoAxgiUAgCDSBASUAUYcYAAABxQBABDAJGSAUAIYAyhRAkhgBHiDkMAkZIMEwIKREBBH7ipAICGQMIIYgyAQgAUhCGlICACSKEEAIxQAxQgBKKiGFAMKAAUkgBIIRhihCFiCNCIYcAEAoIBoQByggEkAXIGAQkAApYAJ4CgCIhqBQAKYeUUMogJQAgwgpGgDAYKQGEtUApJARWQDAiKFGAKCMAAMAIwBgAREhkHXOCCKIYEYAIAoBwAAjBgAIKAEAYMcAQxRTABCCgiEFCIECsAgAIoQAxShFiBAAICIaBMxIIAxRjAEAlhIGAAIUQAUp4CoAwihFCEACCOKW0EwYIwYAETjhBkQUIUECIQAIIZBhAgEFFlCBUAEMcUEQAI4gDBgACBAACKIUoEEgIAyggTBkCAAFCEAWMAV4DIAAATAhgmADGMQGcIkABRYgCgiABHBEOAiCAMNQAJoRigDIBBGAWECIEZJxZMAA0AAlGFAFAEAeEcgQJwgwEACiFHBJECgYYQhpYABQFHABBFBWGAGGQQUwRAABhgnhhhGBKOSIYQIwI4AQRADBBBASIGQsQAoBAYI0wgBHCFBdCQAIIEwQpxhhQBhkkBDNAUSEAE4wxJAA&meta=recordings%20releasegroups%20compress
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      Accept:
+      - "*/*"
+      User-Agent:
+      - rest-client/2.1.0 (darwin20.3.0 x86_64) ruby/2.7.1p83
+      Accept-Encoding:
+      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+      Host:
+      - api.acoustid.org
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Date:
+      - Tue, 29 Jun 2021 21:22:16 GMT
+      Content-Type:
+      - application/json; charset=UTF-8
+      Transfer-Encoding:
+      - chunked
+      Connection:
+      - keep-alive
+      Vary:
+      - Accept-Encoding
+      Access-Control-Allow-Origin:
+      - "*"
+      X-Envoy-Upstream-Service-Time:
+      - '88'
+      X-Envoy-Decorator-Operation:
+      - acoustid-server-api.acoustid.svc.cluster.local:3031/*
+      Strict-Transport-Security:
+      - max-age=15724800; includeSubDomains
+    body:
+      encoding: ASCII-8BIT
+      string: '{"results": [{"id": "6b9410e1-463b-4648-8a51-99ab0f2a510c", "recordings":
+        [{"artists": [{"id": "97b226c8-7140-4da3-91ac-15e62e131a81", "joinphrase":
+        " feat. ", "name": "Macklemore & Ryan Lewis"}, {"id": "c82451f4-e55e-4258-97c5-1ce43b0a5da5",
+        "name": "Ben Bridwell"}], "duration": 251, "id": "2f774c88-513e-4752-92f1-3222cde68079",
+        "releasegroups": [{"artists": [{"id": "97b226c8-7140-4da3-91ac-15e62e131a81",
+        "name": "Macklemore & Ryan Lewis"}], "id": "22315cdd-4ed9-427c-9492-560cf4afed58",
+        "title": "The Heist", "type": "Album"}], "title": "Starting Over"}], "score":
+        0.949367}], "status": "ok"}'
+    http_version:
+  recorded_at: Tue, 29 Jun 2021 21:22:16 GMT
+recorded_with: VCR 3.0.3

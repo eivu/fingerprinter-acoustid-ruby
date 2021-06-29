@@ -1,0 +1,128 @@
+{
+  "results": [
+    {
+      "id": "a23aa1ca-4171-4640-a81d-c94420b3edd3",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "596ffa74-3d08-44ef-b113-765d43d12738",
+              "name": "Justin Timberlake"
+            }
+          ],
+          "duration": 326,
+          "id": "1c46625b-bf29-498d-b7fe-afa8f997f769",
+          "releasegroups": [
+            {
+              "id": "fe51b20f-83e4-49dd-9a36-b8d4da138325",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "The Complete 20/20 Experience",
+              "type": "Album"
+            }
+          ],
+          "title": "Not a Bad Thing"
+        },
+        {
+          "artists": [
+            {
+              "id": "596ffa74-3d08-44ef-b113-765d43d12738",
+              "name": "Justin Timberlake"
+            }
+          ],
+          "duration": 691,
+          "id": "6c35d742-4ef4-43eb-93cb-0559c1621d95",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "596ffa74-3d08-44ef-b113-765d43d12738",
+                  "name": "Justin Timberlake"
+                }
+              ],
+              "id": "7cc6c164-bd3d-4920-9342-9cb8cd87d8de",
+              "title": "The 20/20 Experience (2 of 2)",
+              "type": "Album"
+            },
+            {
+              "id": "fe51b20f-83e4-49dd-9a36-b8d4da138325",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "The Complete 20/20 Experience",
+              "type": "Album"
+            }
+          ],
+          "title": "Not a Bad Thing / Pair of Wings"
+        },
+        {
+          "artists": [
+            {
+              "id": "596ffa74-3d08-44ef-b113-765d43d12738",
+              "name": "Justin Timberlake"
+            }
+          ],
+          "duration": 307,
+          "id": "8c44927c-e663-4214-9c6b-d664cd03b41c",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "596ffa74-3d08-44ef-b113-765d43d12738",
+                  "name": "Justin Timberlake"
+                }
+              ],
+              "id": "7cc6c164-bd3d-4920-9342-9cb8cd87d8de",
+              "title": "The 20/20 Experience (2 of 2)",
+              "type": "Album"
+            },
+            {
+              "id": "fe51b20f-83e4-49dd-9a36-b8d4da138325",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "The Complete 20/20 Experience",
+              "type": "Album"
+            }
+          ],
+          "title": "Not a Bad Thing"
+        },
+        {
+          "artists": [
+            {
+              "id": "596ffa74-3d08-44ef-b113-765d43d12738",
+              "name": "Justin Timberlake"
+            }
+          ],
+          "duration": 691,
+          "id": "bbb4e425-394e-43ed-974d-a322d4e6fc70",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "596ffa74-3d08-44ef-b113-765d43d12738",
+                  "name": "Justin Timberlake"
+                }
+              ],
+              "id": "7cc6c164-bd3d-4920-9342-9cb8cd87d8de",
+              "title": "The 20/20 Experience (2 of 2)",
+              "type": "Album"
+            },
+            {
+              "id": "fe51b20f-83e4-49dd-9a36-b8d4da138325",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "The Complete 20/20 Experience",
+              "type": "Album"
+            }
+          ],
+          "title": "Not a Bad Thing / Pair of Wings"
+        }
+      ],
+      "score": 0.946203
+    }
+  ],
+  "status": "ok"
+}

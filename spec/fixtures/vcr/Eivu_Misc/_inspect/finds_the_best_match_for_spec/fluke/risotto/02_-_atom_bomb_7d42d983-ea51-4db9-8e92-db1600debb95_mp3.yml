@@ -21,7 +21,7 @@ http_interactions:
       message: OK
     headers:
       Date:
-      - Tue, 29 Jun 2021 13:43:55 GMT
+      - Tue, 29 Jun 2021 21:19:52 GMT
       Content-Type:
       - application/json; charset=UTF-8
       Transfer-Encoding:
@@ -33,9 +33,7 @@ http_interactions:
       Access-Control-Allow-Origin:
       - "*"
       X-Envoy-Upstream-Service-Time:
-      - '135'
-      X-Envoy-Decorator-Operation:
-      - acoustid-server-api.acoustid.svc.cluster.local:3031/*
+      - '945'
       Strict-Transport-Security:
       - max-age=15724800; includeSubDomains
     body:
@@ -75,5 +73,5 @@ http_interactions:
         Real Driving Simulator", "type": "Album"}], "title": "Atom Bomb"}], "score":
         0.83283}], "status": "ok"}'
     http_version:
-  recorded_at: Tue, 29 Jun 2021 13:43:55 GMT
+  recorded_at: Tue, 29 Jun 2021 21:19:52 GMT
 recorded_with: VCR 3.0.3

@@ -1,0 +1,29 @@
+{
+  "results": [
+    {
+      "id": "ebdac04f-49ab-40cb-bc40-541dd888f356",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "fc7376fe-1a6f-4414-b4a7-83f50ed59c92",
+              "name": "Flying Lotus"
+            }
+          ],
+          "duration": 184,
+          "id": "04f1b6d7-5517-40a8-9e5c-658bff919bb8",
+          "releasegroups": [
+            {
+              "id": "eb9e0983-2478-4494-a8e2-e4117c2ba40f",
+              "title": "Until the Quiet Comes",
+              "type": "Album"
+            }
+          ],
+          "title": "Tiny Tortures"
+        }
+      ],
+      "score": 0.948004
+    }
+  ],
+  "status": "ok"
+}

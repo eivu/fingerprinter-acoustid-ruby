@@ -1,0 +1,28 @@
+{
+  "results": [
+    {
+      "id": "7af92eea-c912-4d76-9657-3505f63d5b80",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "4bc9e8c3-7eae-454f-a56c-bccf96f3926b",
+              "name": "Sammy Davis Jr."
+            }
+          ],
+          "duration": 219,
+          "id": "3fc72770-6fd9-4c8e-94dd-b3262b9af4af",
+          "releasegroups": [
+            {
+              "id": "6fac76ed-b861-3519-9df3-04355946ec58",
+              "title": "At the Cocoanut Grove"
+            }
+          ],
+          "title": "Medley: Hound Dog / What'd I Say"
+        }
+      ],
+      "score": 0.998022
+    }
+  ],
+  "status": "ok"
+}

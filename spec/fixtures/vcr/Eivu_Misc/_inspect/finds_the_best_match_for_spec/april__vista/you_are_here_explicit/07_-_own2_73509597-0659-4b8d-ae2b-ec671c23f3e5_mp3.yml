@@ -1,0 +1,49 @@
+---
+http_interactions:
+- request:
+    method: get
+    uri: https://api.acoustid.org/v2/lookup?client=<ACOUSTID_CLIENT_ID>&duration=217&fingerprint=AQADtEmiKEkUjYqEK2LBT0F3QjX8C5oWHXqGRie0Rin0o58iHI4boaLC4g-0D42UE_nxDeEOx-gvfNHxwDrx7Hig7RPiw9WFPtGJhxeqH420IqJz6PEQUsePw5-E_sNvXM6FxCzCZPHRHmc-XDqao-eRK0VyVGIeNHWKezivoFHGFhUl5fiIn4iO5B-abjrBPAy-oyS2KkA0r4f6XMgZHs5xbMeNZ_iFE0njrEizG3hyHIePfOGg8DriHE94HDueIz8Un8iPv_iNOrhu_GAd4-ORNDOFSDc86diLS-i_4Dx283iOF2kN-TmRK7zQJyZszujKI6-CU4eWSQ_Ch_jxHKWmw49SfESSIyR51HvBxA1-9ME25rgOe0fE00h8HW9w7LhxmLzgh4ifI2l03HB1_DiMXkH0cEYy5bjDwwZsY8-x-8ih_kKc96iNBz_xg9WRSwqSfkWTRDexY8cnB_0VHBMvJFz2IPVRPcfn49SJHvmhnenR10GYJUox0fB5MK_QB3PzwE-O1kgvHbqyIE8O7_hSHM-HijqiZid0TSnSiMNkDr-Nb2iTw8cJZ9MRR5SgXQi9w1NyHNeP_rhWYpQTI1R6iNYw8cKLGul_HPmRRDM73Mdz_AaPH3mmHAq1bUKo7PBx4qsY9JilI3mOSDbhtDmenZjy4z_YFNGRLNdRp2lwZR1-NAp39Am-kzivoqJPwU6NRjuSOiwR5jx6UfiCiRcaLkctpC_U8sivwHHQH8d0Hi78HJeQ9EGa6Kht9DmMF_4RdkmPd7mgLeuRxiGOw8yPH-mN5Mdj9jhTHU2P4z5y50NyD5-SpfhR6fCL_rhy7Al5HD-Y5HJSRFq94A7R_Gh56HGMiJLT4Uty3BTR7PHQHqwchGlyaHKWI2JyNM_RJicuZRciHeKRC1cTET-OI304qBdyphX-HU0f3OgbTOly5Cx0RkGcX6gEV0e5C0cPkzn6BUmYj4ibHMcuHPVYmN8RQuOJ3IQr3uiP89g9sEbOH2pmI5KY4wf8o89KXMfb7EgeH2Gkonqs4Jw-fItJNE1yxI-O5GScoMcVPDwupfBxG88rhFRyadCOnDwmUEezRFmMH1Me9DYQfj2U5Tly9rhTnKkwXISZ4zl8IumzIk2O58dzHB_8JMee498R5zn05Ah__Ct-4Q_64_oRKuIEVTriVPgCXsKRT9MG_UckfthpHE3S4D6e4R8-puiP5hmFLx_inEVyNA9OXMqDKYyS483hfB3iKD70HZHShPjy4NRxBQl_I_NywccvDde0wPpx5khjaM-RUzKaozrxY3Jy_PADsztCOUmO5MOPOkdzvMKPmBOSaFzxv3hwEviCtC90EWmMKv7x4ngWBX9aEN-RcwmUU0HID3sGJ-ZROcdz_MTxyTLCJA00fQyeF4d2FtqV49GOWcoTaMmVoWMRc8f8o2EkpcR1vAefC3kgnmSRH82kHH2yYNvRp8YR6T3EPEd-vMGJ4T5cnDlOJH3WIU10_HiOwx_SR9AjRLyNX8YdHMN_RPt3HGKUFeHCDL9xSniigzeOfNqh_JkQ8sEpOEcVH2c-_MXx3ejRfCke7UTME_qI8Bl89BqDL0kV9IaT7YiR7BcmB1fg56ArPBWRHGGO50EVc3COwz6eI_k0I41z_Dg253hOwE9CCbk2JPjxHccLH72SI5Je_FDxVMh1HFd1HO2Kq0dOqMeXIJ9xsMelZRIi8YcuIk_RiMLOHD_-EPt0fEiKVIry4id-og9OH0-TJ0G-qRBLI-SSHReDif4E92iT_HhUCcx1pH-Q7EefwB1-bFXx4Ef6EOp15D1e0Tg-_DCJvsQTIZmCNPtRo89xww9sBdFvqNeQF07Fw9jx4zzyQ_mR5-Fw_-iDHwcrIpdkqHRChEniBz-Oi_iFkvjR7BYi6Vyg5QgXssc3XGdQ_sLHFLecBOGTQz9OpPmDK8eeH-zRn0h_Q9HDIxca__iOHx4PR1KOcMfUD-IclEwwHbrgQ1mR8yB79KxxH5ekYxKjBA13PB-OpOKH0AqJhop8XH1wS3j4ED9-4U_xRGsxxUctGs_B43nAiVI4RIyWD7qFkPOEv3hxNGPO4B9xxUXOJNOhmQ_CEE-FL4mOC80nhKMW4uqhR7mQH4171EoU_MGz44o-YaJeI8wF_UbOHMzRTFuMPhkD_xKOD3FXJNTzoJrW4jimo3Fx8eiPHwmTJivyEddhJ8cVIw_8_NCOKjdi14V_pNRxHcpF_EeMLuXxH08kvAtuAlmXLIQeUUT0HeWNK3COSWnxZ_jxCx9TwyuL88RDxFF2aDpyZeh3fMmDZiv64NyHOC-S-aMIakqkoz_OHPkFjQ_SX4P7wdaF_cYZ7DqeI4cuIeKJ47jw4szR-kiaD_FRw06OHz_y5IMiNQrCncJ_PMWJwxXyQzyFWDyq-HjxhHiaGBwZXMcT5FEnJH_R04J_nEaV5niO_9g_NFw-hEpJCeriEHiM8Mmowj3yaUyEUxkFbRn-IbRz-HiyF6WW4_zxx0KknEj2B82ZCbUI5jr8DzNN7Ef6EGquA-GQAEgbZJgwzAFGLCQAIG-MAgcLIIxQihDGjBWCAUiMEgwgZAwghgiEnCFGJQQAMkQIoJAYykAiAULgCiSUVEIUAxhFzAhDCRLQAAcQpEQQJQRVgAAjBCGCGAEEolIY8QDCgiDjCFDAIoUMAUJQpJAFigABGEICGEMUMlAhIoAwThCxIDFGCMCAJYIAIRCAQAFAiDKOMmWEIAIpoJExxhSACDEGKmGAFhBBpZBBhBHEFEOaAIaAIYgAIoFAQEkBBBECAKUchEQAQKAoQhAJGEAWGAIEIAoIEQSAgAAgGTSCICCkUkogJQSxQgDCCBQICIaVBBQQwJAwFDhFBACAMAQIFAQwZa0ABFqujDCAAIIUIwAo4oAQxAIkGCEAAcKARkgwAQxATBGsIBKACAEUcAo6YgAxCigEIgAEAQYIMBAw4hBwRANAAFTMCsGIMgAJUqxRCgBEFKIICAWAkgYhAyACQCIBCCDSAAMAwkYYK4RAQgkLBTBAGQIlIYwCIIghzhlnKUKQGGGMU4YYIIQVSlEkDJFAEQCEUIYIBghwShgiAUBKIVCAMcIAggAAQJBhgSLICwiAYwgxgRwxRgkgkFJIGKCUQgRYCBChDkFjiDBAGACUAcgoSwCggiikREIgWIUR8uAIAJEByBIJHGTAOaEABIAIhAwRzBiABFNKMWSJAEACh6wwDhCAKGJAAEEQMAYjZABBAgBkUCFWkOSEcQIxAIBxwBCAiHAEEAQMAUYAJYQABhELFJGACCEsIgATAQTkkBAAGSDMYGCAYhRJ4QgSlgJGhAGCEkIVAcIIJ5gBChhDIVCMACAYGIA5jIghgBBkJIRCAEiEwsRBRwgAhgAAhRUCISoQJtIQQYFxAhihgCKAIWKEBAIIAQQgwgAAEQALMUMMMAYpBJRQwChlFGXOWIYAQYoAIxQAiiIimLDEIU4AAIggowwBRCAiADCCEEoAAA&meta=recordings%20releasegroups%20compress
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      Accept:
+      - "*/*"
+      User-Agent:
+      - rest-client/2.1.0 (darwin20.3.0 x86_64) ruby/2.7.1p83
+      Accept-Encoding:
+      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+      Host:
+      - api.acoustid.org
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Date:
+      - Tue, 29 Jun 2021 21:17:00 GMT
+      Content-Type:
+      - application/json; charset=UTF-8
+      Transfer-Encoding:
+      - chunked
+      Connection:
+      - keep-alive
+      Vary:
+      - Accept-Encoding
+      Access-Control-Allow-Origin:
+      - "*"
+      X-Envoy-Upstream-Service-Time:
+      - '87'
+      Strict-Transport-Security:
+      - max-age=15724800; includeSubDomains
+    body:
+      encoding: ASCII-8BIT
+      string: '{"results": [{"id": "588c5c3b-aadd-4d34-bc26-a071abdba590", "recordings":
+        [{"artists": [{"id": "2a5d430f-cb26-422a-a150-41dc4af15bf9", "name": "April
+        + Vista"}], "duration": 217, "id": "2b871964-2de8-4954-8c81-2ce3c3c3c6fe",
+        "releasegroups": [{"id": "d4669101-ccf6-422b-92b0-a67ae936381a", "title":
+        "You Are Here", "type": "Album"}], "title": "Own2"}], "score": 0.950788}],
+        "status": "ok"}'
+    http_version:
+  recorded_at: Tue, 29 Jun 2021 21:17:00 GMT
+recorded_with: VCR 3.0.3

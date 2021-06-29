@@ -1,0 +1,185 @@
+{
+  "results": [
+    {
+      "id": "2e66f0a3-17ff-4770-855e-26e86572c472",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "c5c2ea1c-4bde-4f4d-bd0b-47b200bf99d6",
+              "name": "The xx"
+            }
+          ],
+          "duration": 160,
+          "id": "4b95b3fb-3c50-4940-b8bf-d39f77a9691f",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "c5c2ea1c-4bde-4f4d-bd0b-47b200bf99d6",
+                  "name": "The xx"
+                }
+              ],
+              "id": "23355caf-a543-4b5f-80fe-449101868fc1",
+              "title": "xx",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "4f22f4a1-f387-46ba-a6b3-5083059fb566",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Pukkelpop: 30 Years",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "e3943cb0-4283-4bca-8833-6c29e48b97f1",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Pure FM Volume 1",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "e7b7a3a0-ef3e-444d-97f3-9cf11f3b6c7a",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "De Afrekening 48",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "8bf40f5d-31d9-4cb5-8449-2a21d02f1e6d",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Brit Awards 2011",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "1c10568e-8b52-477a-bae5-e975acc0d7b7",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Life Is Music 2010.1",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "c5c2ea1c-4bde-4f4d-bd0b-47b200bf99d6",
+                  "name": "The xx"
+                }
+              ],
+              "id": "f33d4a02-11fb-473b-a9ae-ee586948db47",
+              "title": "Islands",
+              "type": "Single"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "ade6c60b-53b1-46d8-96ff-43a1e632147a",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Alle 40 goed - Alternative",
+              "type": "Album"
+            }
+          ],
+          "title": "Islands"
+        },
+        {
+          "artists": [
+            {
+              "id": "c5c2ea1c-4bde-4f4d-bd0b-47b200bf99d6",
+              "name": "The xx"
+            }
+          ],
+          "duration": 157,
+          "id": "c5ddfe7e-d648-46bd-bdf8-6ab24d7bdb1c",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "7a65ec6a-a912-44dc-8b7c-ab6105358f88",
+              "secondarytypes": [
+                "Compilation",
+                "DJ-mix"
+              ],
+              "title": "Ministry of Sound: Chillout Sessions Classics",
+              "type": "Album"
+            }
+          ],
+          "title": "Islands"
+        },
+        {
+          "artists": [
+            {
+              "id": "c5c2ea1c-4bde-4f4d-bd0b-47b200bf99d6",
+              "name": "The XX"
+            }
+          ],
+          "duration": 162,
+          "id": "d078b06c-b869-4a5c-8468-c7b1a6372258",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "dd4cd92f-42bd-4ac1-b242-cf7d426256c1",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "De Tijdloze, Vol. 6",
+              "type": "Album"
+            }
+          ],
+          "title": "Islands"
+        }
+      ],
+      "score": 0.649921
+    }
+  ],
+  "status": "ok"
+}

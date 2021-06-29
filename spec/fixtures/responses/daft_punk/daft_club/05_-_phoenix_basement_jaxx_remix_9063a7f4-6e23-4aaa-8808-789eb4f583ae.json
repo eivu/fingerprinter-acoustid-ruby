@@ -1,0 +1,78 @@
+{
+  "results": [
+    {
+      "id": "683090af-ecb8-43e4-a74c-7d817811bf06",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "056e4f3e-d505-4dad-8ec1-d04f521cbb56",
+              "name": "Daft Punk"
+            }
+          ],
+          "duration": 473,
+          "id": "2e52ca0b-f443-4565-8d97-1d37049030b1",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "056e4f3e-d505-4dad-8ec1-d04f521cbb56",
+                  "name": "Daft Punk"
+                }
+              ],
+              "id": "93341465-cd7e-4558-aeeb-05676210acb8",
+              "title": "Daft Club Net Songs",
+              "type": "Other"
+            },
+            {
+              "artists": [
+                {
+                  "id": "056e4f3e-d505-4dad-8ec1-d04f521cbb56",
+                  "name": "Daft Punk"
+                }
+              ],
+              "id": "1fd2e0fe-90f6-35ca-92c0-d816ab3bb79c",
+              "secondarytypes": [
+                "Remix"
+              ],
+              "title": "Daft Club",
+              "type": "Album"
+            },
+            {
+              "id": "713cfc38-0c43-4ec3-bdaa-d9977f6ee950",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Deep Cuts",
+              "type": "Album"
+            }
+          ],
+          "title": "Phoenix (Basement Jaxx remix)"
+        },
+        {
+          "artists": [
+            {
+              "id": "056e4f3e-d505-4dad-8ec1-d04f521cbb56",
+              "name": "Daft Punk"
+            }
+          ],
+          "duration": 473,
+          "id": "3abe2e92-3021-484d-b5d9-7d86c9cbe2dc",
+          "releasegroups": [
+            {
+              "id": "2a7840ab-9567-37f4-85b8-3208db09434b",
+              "secondarytypes": [
+                "Remix"
+              ],
+              "title": "Discovery: Bonus Tracks From daftclub.com",
+              "type": "Album"
+            }
+          ],
+          "title": "Phoenix (Basement Jaxx remix)"
+        }
+      ],
+      "score": 0.925699
+    }
+  ],
+  "status": "ok"
+}

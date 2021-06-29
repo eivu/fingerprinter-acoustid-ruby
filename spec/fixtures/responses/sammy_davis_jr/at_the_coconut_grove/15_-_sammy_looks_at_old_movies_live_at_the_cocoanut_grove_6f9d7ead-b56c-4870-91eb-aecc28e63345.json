@@ -1,0 +1,28 @@
+{
+  "results": [
+    {
+      "id": "a39d6afe-b038-4b6e-960d-761fb4c8a5c5",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "4bc9e8c3-7eae-454f-a56c-bccf96f3926b",
+              "name": "Sammy Davis Jr."
+            }
+          ],
+          "duration": 285,
+          "id": "a94b5c75-12c8-4828-93e8-bab996ac0e2d",
+          "releasegroups": [
+            {
+              "id": "6fac76ed-b861-3519-9df3-04355946ec58",
+              "title": "At the Cocoanut Grove"
+            }
+          ],
+          "title": "Sammy Looks at Old Movies"
+        }
+      ],
+      "score": 0.997627
+    }
+  ],
+  "status": "ok"
+}

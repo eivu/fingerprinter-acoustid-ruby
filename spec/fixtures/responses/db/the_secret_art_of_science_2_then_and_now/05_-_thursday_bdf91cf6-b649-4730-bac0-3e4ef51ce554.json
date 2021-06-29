@@ -1,0 +1,29 @@
+{
+  "results": [
+    {
+      "id": "dc843745-bf2d-46d7-948e-b2c42aa6785a",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "022b58ea-6098-411d-b88a-652821d4c191",
+              "name": "DJ DB"
+            }
+          ],
+          "duration": 195,
+          "id": "64add10a-fe79-4f7e-ac79-d1ba0d8a081e",
+          "releasegroups": [
+            {
+              "id": "c4ec56dc-8c9d-4079-b899-a096beffdcc0",
+              "title": "The Secret Art Of Science 2",
+              "type": "Album"
+            }
+          ],
+          "title": "Thursday"
+        }
+      ],
+      "score": 0.981191
+    }
+  ],
+  "status": "ok"
+}

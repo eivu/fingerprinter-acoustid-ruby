@@ -1,0 +1,29 @@
+{
+  "results": [
+    {
+      "id": "04909b14-e228-4cd9-86c3-3a3674ddc8f6",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "94c64122-dbd4-4927-b2fa-f204b0b4b0c2",
+              "name": "Ravyn Lenae"
+            }
+          ],
+          "duration": 211,
+          "id": "bb61e178-0fba-4533-8e22-08b9c90175df",
+          "releasegroups": [
+            {
+              "id": "74223740-723a-4b35-96c4-147d71c0d335",
+              "title": "Moon Shoes",
+              "type": "EP"
+            }
+          ],
+          "title": "Everything Above"
+        }
+      ],
+      "score": 0.996885
+    }
+  ],
+  "status": "ok"
+}

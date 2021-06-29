@@ -21,7 +21,7 @@ http_interactions:
       message: OK
     headers:
       Date:
-      - Tue, 29 Jun 2021 13:48:51 GMT
+      - Tue, 29 Jun 2021 21:24:38 GMT
       Content-Type:
       - application/json; charset=UTF-8
       Transfer-Encoding:
@@ -64,5 +64,5 @@ http_interactions:
         Soundtrack", "type": "Album"}], "title": "Baby"}], "score": 0.983518}], "status":
         "ok"}'
     http_version:
-  recorded_at: Tue, 29 Jun 2021 13:48:51 GMT
+  recorded_at: Tue, 29 Jun 2021 21:24:38 GMT
 recorded_with: VCR 3.0.3

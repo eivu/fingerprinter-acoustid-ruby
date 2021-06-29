@@ -1,0 +1,56 @@
+---
+http_interactions:
+- request:
+    method: get
+    uri: https://api.acoustid.org/v2/lookup?client=<ACOUSTID_CLIENT_ID>&duration=258&fingerprint=AQADtEoSJY4SzdhxXDvc-LhVtMdFESeRr4Ec0sePJwtcZeqh-8h5eEpz_BQOv0IOPbERncWTa_iSHdePX8bDo_B3VPzxJOjKDOn1InmER3qGS8cnnTAfhCe050aaq_AZolaOo3nQZgePKwmHpGlyhNoHvvh4DP_gRsRF4UO7Ez9uD_nSHLqOczdsH7qCH6EdNFN6_EPPxGie4Q3i7NDDHBEf3EfDMT5KKXgTXITVLDxu_KgoIeFv5D487UerHaFlET6040eY80jXZSiVGnpGFd6DJ8dRZwYV6XiyQzfuDH6OH-2OC-2yQNzRg1nCpWiiG9nRp_CHfvjR78cPX7hFuEKyI86O63iOnsaPH81zHDmeKNDR7AyqD2GWSUFZxciPnunQyMN9vIe2VDEgPsdzlNKOG7WywIqP9vgP7Tn-w3vQHj9eBVqeoTz6glJCFpWQnUfPFM3xDrdU9D_8CMdFI8yhHnEi5_hxHr3h5_jQH0c-PIqg-USYJCcY6YK5ZMXE4wmaqkV_xHqgRo-KvHuQC1fI4Q_EMcRxjNLRMMkDienwr_CPP2h5_GinQTzKg-GLRiKLWAdPozmDHu9QWurxw49wi3ARHkmf44mM5_iL_vCPZ0c_5Liga2hOlCcqUTLCLFRS5DiNRs1y9MdTdHkOPYf4Hc9RqsePWi0so_SH59A-4_CVHO_RHp-ErlkgHiUY5i4apUsR-2Cews_QDz_6H8_hC7cIV0iGOPtxHc_xo__hH89RIriiQM8UNNEZZFFelBlTNGtk7EedMEXTKca74MeXR7iNBzEPTWl2hLmCR0keDJ5sPA1KJkTDFZ9DPImOH2EWMyOuDT_0LXCUF6GS5XgL5glc9OrwV2gZ-TAbHLeIpkLSI86c4zl-9DT8HN_R48iFS4P2E2F2jJ_QKJlWlIoeHP3R_MgPHXkqPNIRa1fwPLC1QCfxYW6C7hc88gJPiHjwwz_-xPgVQNfRRDni5MezFM3B-DhV9FJVPB984RbhHuGR9METGT_Oo3cEfz3QB_lxQdfQJCdC6RTKm2gYZSl-DieaisnR54j1Q1P0ICSjHDl-PIcnHfqCS0fPEVTy4pIYC2KH68JzeMXxqHiuQ3tw5aiU6EGY5CmeoU4Ol13xH5_043lhWrjFoqmQ6Ijz4JLx_DiN_vDX4SgRXFGgK2i2E6HOYFoopWgWaRauCz0Df0f4BzpuJchFxIry4A_84dMCdcOFNUt0oomog18MERd-_HCOPyrUXyie5EOTRDpCvfjQD56-4S5-H6fgD55M9Eei_Yjz4MmPk-jh5zj65Dhy4tOg6UST5MiHZplWlMVPoW_Q_MgPOTnyEidyD0_sQBzxDZeCZke1D-Uv6MmHw3vQHkefQSTKo3xBSWQRSgeP5i16vMMb9uhl-MKtwN0RHkmPJ3KOH-fRO_DXFeiR4xQ-7dByojxRyfKQclFSlEdOozmDPseTo4t16Dr8Q-9Qhjquo29hbSj94Tm0D_9xHV6OPjh6DSKJ8uhyF83CpYiP02ie5ehxF73Uw8-H41YGF8mOOD8u4fnxo7mO_8h_JKPC4DgTHc-DJkedD7V4fCkShFeLJ86DKziao07T4EfIQwrD48dL9DOoSMeT8dBxZ_BzPEd_vEKfBeKOHl3CpWAS3ch-9EzRfPjwF_18-MNxUURzJEe-4zl-9DR-_Gie48jxRIGOZmdQfQizTEpRVkF-9O3QHI-P99CWKoY_6Dqeo5R23OimLGjmD8d_aM_xH96D9vjRToN4lEdfUErIotKRnWjOFD3e4ZZ69Icf4SdcIjzUI07kHD_Oo3fgHx_6I8eHRxE0nwiT5AQjXTCXrJh4PEXTLegR61CjR0XePciFK-SCH-IY4jhG6WiY5IHEdPhX-McftDx-tNMgHuXB8C4aJVyK-OBpNGfQH3fRSz2ewxduES7CI-lzPJHxHH_RH_5XnCg7BI-gD82J8kQlSkaYhUqKHKeHRs2C0sd7aMsDP4e-4zlKHd9Rq4XloPzwHNpnHL6S4z3aHa_QNQvEHQXDPC2aJJ2RH8xTNM_wDjeL3ocfXLgoojkSxNmP63iOnsZzHM1zHMEVJdAzoYnOIIvyCc0yBmUj48fkZEkxpZvxBx_y5SKSPzjxHM_yoOTR_PizC--RVEfK3Chlw3GOXQ9-_Ap8HM9GmNFVNGt04Wxy5ElyaBfC7GiXbwgz6cFznPkhPsMTfDWS3MWjFZyP_kUz5hWuM_jht3iOo4-OMA_ONtCW7IL04znUy_CZIr_wDw880iL65_hRTgvS8Hhy-DkqH7lSUM2PS_jheDqe47QUPIguaEdao2RY4-mD6gj0x4hky8JzXAKbJkHeQ_mRX0nwEyUNk0d_XBmFT1pqXEKYF72OiczSDM3zYD1-6EcTJomgXTt-B98QLkzQBHkSNsH1wQv0z9i74ujh5Dmu42INHT_M4B-OP4fzQceTa4Gj5QiVp_jQw2Uj_BU-6fCzAqMJQYQzIAAQSiCjgEDCAYYMAEAQABhiwAmAEDBIECWEAEIQA5BShDHApAEEEayAQ4AhAowgTEJmBICICESEAJRoLoBQgACiiMEACMGQVAJBYQhxCEIwtBKQGAIAFIZwABSxQgQokCCQQcMUEkQYggRhgiJGBCBCGAEYQwZAS4AQkBAiCCXACIMIVBRARYhRAjmICHFACEMMg0whAYQigDAkoIMEEAgcIUQYAQhiRgEqnCDCIYZAE0YQAJQgggDAkCCOQCEIccYCpAAkRgHghCFAAEUsMwoAIqhAxCiDIBEOMKQAMYAiZJiBjBGGGBDECEuMIIhgQQEUijAEAGTGNCAMBBIYgxgBAAhgDCGICAAEgUwABhQxThgChQEGEaiIQAI4hJAgiAFCAADGUUAAU8wAABQyAEAABCcIEaaIAQYAJ4gogCDAMCAUMcAQEkIgAIVQDAnCgDEGASKFAEYQhBAChBkgDBHMKEKMIJYCiAQhRkHMgBAGAiCYJIgZIwASFjBRoIMEEEiAEQQIA4RBBCqihDGCIagAQYIBBZQAACEhiCMCCCmAZQIKyoCwxAAhJBFGAIIAMwRIIAwQhghAlABOAAIQpcYCaBBQAnBhCGECGQHBIEgITQwRRBIgAiCIYCECFEgQyKBhCgkhhCGEEcIEFYYIQIQwAjCGBLSQAAIJIIQQIYwwiEBFBVREICWQgwg7IIQhhkGmkABCEUAYElBQAgghBjhhiDACEMSMAkQ4xhgCTRgChGCCAMWEI45AIQhBBgKFFIBECSEJAAIoYgUIEAmCiFEMQUEZQAohQIgBAgAkjBJEIIUEME4YAJgRShCDHAMAMCYUEgAIQyBgVikipFBCAQGYYYAKAKgTAgCAHEHAIMIEEsUCAyZgkAlKEAPICUERIEpII6hhhAkGjDHIAIKQBAASoBQhBAgABCQGEQeIMU4A&meta=recordings%20releasegroups%20compress
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      Accept:
+      - "*/*"
+      User-Agent:
+      - rest-client/2.1.0 (darwin20.3.0 x86_64) ruby/2.7.1p83
+      Accept-Encoding:
+      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+      Host:
+      - api.acoustid.org
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Date:
+      - Tue, 29 Jun 2021 21:20:21 GMT
+      Content-Type:
+      - application/json; charset=UTF-8
+      Transfer-Encoding:
+      - chunked
+      Connection:
+      - keep-alive
+      Vary:
+      - Accept-Encoding
+      Access-Control-Allow-Origin:
+      - "*"
+      X-Envoy-Upstream-Service-Time:
+      - '122'
+      Strict-Transport-Security:
+      - max-age=15724800; includeSubDomains
+    body:
+      encoding: ASCII-8BIT
+      string: '{"results": [{"id": "6e5fa490-3730-422a-bb5b-faa20c6a81b6", "recordings":
+        [{"artists": [{"id": "48262e82-db9f-4a92-b650-dfef979b73ec", "joinphrase":
+        " feat. ", "name": "Future"}, {"id": "381086ea-f511-4aba-bdf9-71c753dc5077",
+        "name": "Kendrick Lamar"}], "duration": 258, "id": "236a9c99-a2b7-4b88-b80b-6be921b334d1",
+        "releasegroups": [{"artists": [{"id": "48262e82-db9f-4a92-b650-dfef979b73ec",
+        "name": "Future"}], "id": "98c84b94-3445-4dcc-ad01-9e5e3e1271e2", "title":
+        "FUTURE", "type": "Album"}], "title": "Mask Off (remix)"}, {"artists": [{"id":
+        "48262e82-db9f-4a92-b650-dfef979b73ec", "joinphrase": " feat. ", "name": "Future"},
+        {"id": "381086ea-f511-4aba-bdf9-71c753dc5077", "name": "Kendrick Lamar"}],
+        "duration": 257, "id": "ba9153c8-0d6d-4ea9-b556-43e7fc8adee2", "releasegroups":
+        [{"id": "440822f5-218b-418c-9a62-8fcadceaea34", "secondarytypes": ["Remix"],
+        "title": "Mask Off (remix)", "type": "Single"}], "title": "Mask Off (remix)"}],
+        "score": 0.95132}], "status": "ok"}'
+    http_version:
+  recorded_at: Tue, 29 Jun 2021 21:20:21 GMT
+recorded_with: VCR 3.0.3

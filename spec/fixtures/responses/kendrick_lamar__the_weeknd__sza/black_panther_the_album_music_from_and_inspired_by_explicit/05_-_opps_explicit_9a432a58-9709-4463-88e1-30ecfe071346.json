@@ -1,0 +1,75 @@
+{
+  "results": [
+    {
+      "id": "3b613943-3283-42ef-87c3-52dbdb309819",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "78e854b8-9713-4ff2-9218-6b3784893bff",
+              "joinphrase": " & ",
+              "name": "Vince Staples"
+            },
+            {
+              "id": "aa79cc40-28ce-4625-9b58-8b3d2af8142f",
+              "name": "Yugen Blakrok"
+            }
+          ],
+          "duration": 180,
+          "id": "7d53ad18-318c-4cc9-bded-636d036e6dd1",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "381086ea-f511-4aba-bdf9-71c753dc5077",
+                  "name": "Kendrick Lamar"
+                }
+              ],
+              "id": "4e317e28-e6b2-46d7-81f7-306e349b3dd4",
+              "secondarytypes": [
+                "Soundtrack"
+              ],
+              "title": "Black Panther: The Album (Music From and Inspired By)",
+              "type": "Album"
+            }
+          ],
+          "title": "Opps"
+        },
+        {
+          "artists": [
+            {
+              "id": "78e854b8-9713-4ff2-9218-6b3784893bff",
+              "joinphrase": " & ",
+              "name": "Vince Staples"
+            },
+            {
+              "id": "aa79cc40-28ce-4625-9b58-8b3d2af8142f",
+              "name": "Yugen Blakrok"
+            }
+          ],
+          "duration": 180,
+          "id": "c3652a06-1d3f-4ab9-bf94-5ad5dfd0d7e1",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "381086ea-f511-4aba-bdf9-71c753dc5077",
+                  "name": "Kendrick Lamar"
+                }
+              ],
+              "id": "4e317e28-e6b2-46d7-81f7-306e349b3dd4",
+              "secondarytypes": [
+                "Soundtrack"
+              ],
+              "title": "Black Panther: The Album (Music From and Inspired By)",
+              "type": "Album"
+            }
+          ],
+          "title": "Opps"
+        }
+      ],
+      "score": 0.992875
+    }
+  ],
+  "status": "ok"
+}

@@ -1,0 +1,733 @@
+{
+  "results": [
+    {
+      "id": "c83ca034-b401-4881-ab15-8bd6ae2e34fc",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "067bf834-c35f-414f-8389-a77558669cc1",
+              "name": "Louis Armstrong & His Orchestra"
+            }
+          ],
+          "duration": 213,
+          "id": "5d66ee30-f4dc-41a1-838b-998ac47a748c",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "5a898087-a744-4d2f-a88a-f6a6c499e8fc",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "The Encyclopedia of Jazz, Part 1/5: Classic Jazz - From New Orleans to Harlem",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "98817f58-d2ff-43e3-828f-876a673c81df",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Funeral Songs / Dead Man Blues",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+                  "name": "Louis Armstrong"
+                }
+              ],
+              "id": "d42f919f-d260-41c8-8350-b1b383069d51",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "The Complete Masters 1925–1945",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "067bf834-c35f-414f-8389-a77558669cc1",
+                  "name": "Louis Armstrong & His Orchestra"
+                }
+              ],
+              "id": "b3a2b783-7487-4ce4-b43d-c26dd58d4fb3",
+              "title": "Struttin’ With Some Barbecue / Lonesome Road",
+              "type": "Single"
+            },
+            {
+              "artists": [
+                {
+                  "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+                  "name": "Louis Armstrong"
+                }
+              ],
+              "id": "2a34c761-89e7-4440-84ef-25ce42b6f3b1",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Louis Armstrong - The Vocalist",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+                  "name": "Louis Armstrong"
+                }
+              ],
+              "id": "1a7003ac-8671-496f-b8f1-d739511a7c9e",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "The Genius of Louis Armstrong Volume 1: 1923-1933",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+                  "name": "Louis Armstrong"
+                }
+              ],
+              "id": "cd71d604-95d4-44d0-bbf4-11294b254ef5",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Complete Jazz Series: 1931-1932",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+                  "name": "Louis Armstrong"
+                }
+              ],
+              "id": "f6af57e2-8d8c-37f4-89cc-a80afbf6a11f",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "The Big Band Sides: 1930-1932",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+                  "name": "Louis Armstrong"
+                }
+              ],
+              "id": "a2fe5666-3e50-46fd-94b4-6aa0c13acec5",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Louis Armstrong: The Big Band Recordings 1930 - 1932",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+                  "name": "Louis Armstrong"
+                }
+              ],
+              "id": "f065719c-0cb1-4500-a4c4-edf1b8ca2133",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "When It's Sleepy Time Down South",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+                  "name": "Louis Armstrong"
+                }
+              ],
+              "id": "e33d78d1-50a9-3f37-85e2-9109e1cd94fb",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Stardust",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "067bf834-c35f-414f-8389-a77558669cc1",
+                  "name": "Louis Armstrong & His Orchestra"
+                }
+              ],
+              "id": "38ee01e3-4513-4688-88d7-0e934fa1fa08",
+              "title": "You Can Depend on Me / The Lonesome Road",
+              "type": "Single"
+            },
+            {
+              "artists": [
+                {
+                  "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+                  "name": "Louis Armstrong"
+                }
+              ],
+              "id": "163b0fce-cfcf-3fc8-b06f-9bc07eb3cd7c",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "I Wish You Were Dead, You Rascal You",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+                  "name": "Louis Armstrong"
+                }
+              ],
+              "id": "bc846f0c-e1c3-4bbe-9e86-e6e1d9b24792",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "V.S.O.P. Vol. 7/8",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+                  "name": "Louis Armstrong"
+                }
+              ],
+              "id": "5e8b6f32-2134-4150-b67a-747f0f8d6c2a",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "The Satchmo Era",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "067bf834-c35f-414f-8389-a77558669cc1",
+                  "name": "Louis Armstrong and His Orchestra"
+                }
+              ],
+              "id": "c761b7a0-267c-4553-813a-1e33962cb86c",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "The Chronological Classics: Louis Armstrong and His Orchestra 1931-1932",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+                  "name": "Louis Armstrong"
+                }
+              ],
+              "id": "af4a0fdf-6fd4-3782-8472-501fc9c5d068",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Louis Armstrong, Volume 2: I've Got the World on a String, Original Recordings 1930-1933",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+                  "name": "Louis Armstrong"
+                }
+              ],
+              "id": "49c75b77-a6b1-4c6e-a68a-a2d8995def70",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Reflections of Louis Armstrong",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+                  "name": "Louis Armstrong"
+                }
+              ],
+              "id": "c35fee62-9f21-4757-a40c-9a70d18c93e5",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Original Album Classics: The Okeh, Columbia & RCA Victor Recordings 1925-1933",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+                  "name": "Louis Armstrong"
+                }
+              ],
+              "id": "d6560c46-8452-3d2f-8ef9-1d5a11e44410",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Louis Armstrong",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+                  "name": "Louis Armstrong"
+                }
+              ],
+              "id": "72d279ff-5b76-475e-91b4-6cc513935a0a",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "New Orleans in Chicago",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+                  "name": "Louis Armstrong"
+                }
+              ],
+              "id": "1921c8bf-b780-43c4-83fa-c8040fe58f58",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "The Chronological Classics: Louis Armstrong, Volume 1: 1925-1932",
+              "type": "Album"
+            }
+          ],
+          "title": "The Lonesome Road"
+        },
+        {
+          "artists": [
+            {
+              "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+              "joinphrase": ", ",
+              "name": "Louis Armstrong"
+            },
+            {
+              "id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+              "name": "Ella Fitzgerald"
+            }
+          ],
+          "duration": 229,
+          "id": "6da2e850-6a31-475e-b58c-33ae0a3b24eb",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "65744963-191a-44ef-a3c7-b693a808a158",
+                  "name": "George Gershwin"
+                }
+              ],
+              "id": "e7fbcc6b-b6fe-3ae6-8e9e-d9d795a81d96",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "I Got Rhythm: The Music of George Gershwin: A Smithsonian Collection in Four Volumes",
+              "type": "Album"
+            }
+          ],
+          "title": "They All Laughed"
+        },
+        {
+          "artists": [
+            {
+              "id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+              "name": "Ella Fitzgerald"
+            }
+          ],
+          "duration": 228,
+          "id": "87a57b56-89ed-4356-96cd-5f8fbdc70536",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+                  "name": "Ella Fitzgerald"
+                }
+              ],
+              "id": "d5fd223d-6458-377a-ba1c-6a665a83bedf",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Gold",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "8fc51b83-fcc1-4ca6-b3ef-c0c3e3f790e0",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Let’s Do the Hop : Hasse & Marie",
+              "type": "Album"
+            }
+          ],
+          "title": "They All Laughed"
+        },
+        {
+          "artists": [
+            {
+              "id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+              "name": "Ella Fitzgerald"
+            }
+          ],
+          "duration": 228,
+          "id": "a0cd67f8-d8bf-4563-8bc7-45740d6b9336",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "351d8bdf-33a1-45e2-8c04-c85fad20da55",
+                  "name": "Sarah Vaughan"
+                }
+              ],
+              "id": "70e42abe-7bd5-4554-92d0-1b97296a49f4",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "The 3 Divas",
+              "type": "Album"
+            }
+          ],
+          "title": "They All Laughed"
+        },
+        {
+          "artists": [
+            {
+              "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+              "name": "Louis Armstrong"
+            }
+          ],
+          "duration": 230,
+          "id": "acc1fbb4-18e7-4992-8169-fac6c6963ba3",
+          "releasegroups": [
+            {
+              "id": "9c8ab851-c89f-4c0f-9a1c-35f22e78b741",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Milestones of a Jazz Legend"
+            }
+          ],
+          "title": "They All Laughed"
+        },
+        {
+          "artists": [
+            {
+              "id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+              "joinphrase": " & ",
+              "name": "Ella Fitzgerald"
+            },
+            {
+              "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+              "name": "Louis Armstrong"
+            }
+          ],
+          "duration": 229,
+          "id": "eb087875-ea04-4582-9072-f88a3ea89444",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+                  "joinphrase": " & ",
+                  "name": "Ella Fitzgerald"
+                },
+                {
+                  "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+                  "name": "Louis Armstrong"
+                }
+              ],
+              "id": "8ec69375-a2ab-3388-a15a-446133b29861",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Verve Jazz Masters 24: Ella Fitzgerald & Louis Armstrong",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+                  "joinphrase": " & ",
+                  "name": "Ella Fitzgerald"
+                },
+                {
+                  "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+                  "name": "Louis Armstrong"
+                }
+              ],
+              "id": "1e348262-82e6-3ca3-9089-634e66b517c1",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Ella & Louis Together",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+                  "joinphrase": " & ",
+                  "name": "Ella Fitzgerald"
+                },
+                {
+                  "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+                  "name": "Louis Armstrong"
+                }
+              ],
+              "id": "7108712f-b350-310b-9419-232dceaaba00",
+              "title": "Ella and Louis Again",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+                  "joinphrase": " & ",
+                  "name": "Ella Fitzgerald"
+                },
+                {
+                  "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+                  "name": "Louis Armstrong"
+                }
+              ],
+              "id": "50fece99-77bf-455b-97ae-aabb9a848b8b",
+              "title": "Ella and Louis",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+                  "joinphrase": " & ",
+                  "name": "Ella Fitzgerald"
+                },
+                {
+                  "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+                  "name": "Louis Armstrong"
+                }
+              ],
+              "id": "0cbe776a-d90b-424c-bd31-a87a42025821",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Ella and Louis: The Anthology",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+                  "joinphrase": " & ",
+                  "name": "Ella Fitzgerald"
+                },
+                {
+                  "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+                  "name": "Louis Armstrong"
+                }
+              ],
+              "id": "162346df-76e5-4cd7-9169-f047b61421d6",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Ella & Louis",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+                  "joinphrase": " & ",
+                  "name": "Ella Fitzgerald"
+                },
+                {
+                  "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+                  "name": "Louis Armstrong"
+                }
+              ],
+              "id": "c70ee463-c59b-4146-a887-75d0f3b2b531",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Original Greatest Hits",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+                  "joinphrase": " & ",
+                  "name": "Ella Fitzgerald"
+                },
+                {
+                  "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+                  "name": "Louis Armstrong"
+                }
+              ],
+              "id": "1f161e74-10c7-3314-b59a-4c583e00ff87",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Our Love Is Here to Stay: Ella & Louis Sing Gershwin",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+                  "joinphrase": " & ",
+                  "name": "Ella Fitzgerald"
+                },
+                {
+                  "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+                  "name": "Louis Armstrong"
+                }
+              ],
+              "id": "c4d57285-84d5-4413-8118-b92f402ad1da",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Cheek to Cheek: The Complete Duet Recordings",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+                  "joinphrase": " & ",
+                  "name": "Ella Fitzgerald"
+                },
+                {
+                  "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+                  "name": "Louis Armstrong"
+                }
+              ],
+              "id": "24577902-0198-3733-b1cb-f10e8c2abb05",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Ella & Louis Classic Album Collection",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+                  "name": "Ella Fitzgerald"
+                }
+              ],
+              "id": "3dcd39f2-5c4f-4043-9534-9581e7191a30",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Six Classic Albums, Volume 3",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+                  "joinphrase": " & ",
+                  "name": "Ella Fitzgerald"
+                },
+                {
+                  "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+                  "name": "Louis Armstrong"
+                }
+              ],
+              "id": "45aa0e31-ab75-4605-a3a3-f650d4fa4229",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Ella & Louis: The Complete Anthology",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+                  "joinphrase": " & ",
+                  "name": "Ella Fitzgerald"
+                },
+                {
+                  "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+                  "name": "Louis Armstrong"
+                }
+              ],
+              "id": "6db7efe4-acd8-3063-aa1b-fb2890273652",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Jazz 'Round Midnight",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+                  "joinphrase": " & ",
+                  "name": "Ella Fitzgerald"
+                },
+                {
+                  "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+                  "name": "Louis Armstrong"
+                }
+              ],
+              "id": "37012d18-8647-3648-87e7-7a66423b863b",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "The Complete Ella and Louis on Verve",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "caf4b5d6-71b2-3811-a790-bff82653c171",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Jazz 'round Midnight: Gershwin",
+              "type": "Album"
+            }
+          ],
+          "title": "They All Laughed"
+        }
+      ],
+      "score": 0.962619
+    }
+  ],
+  "status": "ok"
+}

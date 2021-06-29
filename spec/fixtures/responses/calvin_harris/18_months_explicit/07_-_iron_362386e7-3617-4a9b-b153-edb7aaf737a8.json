@@ -1,0 +1,64 @@
+{
+  "results": [
+    {
+      "id": "eca48524-e5ba-420b-953f-f67702292cd0",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "8dd98bdc-80ec-4e93-8509-2f46bafc09a7",
+              "name": "Calvin Harris"
+            }
+          ],
+          "duration": 221,
+          "id": "cdba6c79-8817-4f30-94e2-88408fc91e82",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "bd8c0793-b080-495c-9a7e-87c3b800431e",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "DJ Top 100, Volume 3: Autumn 2013",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "8dd98bdc-80ec-4e93-8509-2f46bafc09a7",
+                  "name": "Calvin Harris"
+                }
+              ],
+              "id": "98432828-5764-4892-9e3f-9c674cf70acb",
+              "title": "18 Months",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "662646b5-8298-43a7-848c-9f160fc99ae9",
+                  "name": "The Disco Boys"
+                }
+              ],
+              "id": "baad44d2-f03a-4be8-9c67-7c6a11f90c62",
+              "secondarytypes": [
+                "Compilation",
+                "DJ-mix"
+              ],
+              "title": "The Disco Boys, Volume 14",
+              "type": "Album"
+            }
+          ],
+          "title": "Iron"
+        }
+      ],
+      "score": 0.946728
+    }
+  ],
+  "status": "ok"
+}

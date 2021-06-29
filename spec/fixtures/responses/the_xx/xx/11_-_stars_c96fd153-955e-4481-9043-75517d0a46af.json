@@ -1,0 +1,53 @@
+{
+  "results": [
+    {
+      "id": "200470d9-6f64-447c-83bd-5eda77d704f0",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "c5c2ea1c-4bde-4f4d-bd0b-47b200bf99d6",
+              "name": "The xx"
+            }
+          ],
+          "duration": 262,
+          "id": "3b2d8c3a-ca92-4cfb-bd40-1e629008ec70",
+          "releasegroups": [
+            {
+              "id": "23355caf-a543-4b5f-80fe-449101868fc1",
+              "title": "xx",
+              "type": "Album"
+            }
+          ],
+          "title": "Stars"
+        }
+      ],
+      "score": 0.994001
+    },
+    {
+      "id": "9bf4460a-846d-40ba-896c-157bd68b9993",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "c5c2ea1c-4bde-4f4d-bd0b-47b200bf99d6",
+              "name": "The xx"
+            }
+          ],
+          "duration": 262,
+          "id": "3b2d8c3a-ca92-4cfb-bd40-1e629008ec70",
+          "releasegroups": [
+            {
+              "id": "23355caf-a543-4b5f-80fe-449101868fc1",
+              "title": "xx",
+              "type": "Album"
+            }
+          ],
+          "title": "Stars"
+        }
+      ],
+      "score": 0.933215
+    }
+  ],
+  "status": "ok"
+}

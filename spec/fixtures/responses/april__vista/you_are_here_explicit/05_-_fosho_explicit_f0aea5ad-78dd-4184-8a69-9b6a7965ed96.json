@@ -1,0 +1,29 @@
+{
+  "results": [
+    {
+      "id": "7f470634-ee5f-4ef8-8025-8eed022804d3",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "2a5d430f-cb26-422a-a150-41dc4af15bf9",
+              "name": "April + Vista"
+            }
+          ],
+          "duration": 109,
+          "id": "0e50103d-d5f7-465c-bdfd-02797c1b994f",
+          "releasegroups": [
+            {
+              "id": "d4669101-ccf6-422b-92b0-a67ae936381a",
+              "title": "You Are Here",
+              "type": "Album"
+            }
+          ],
+          "title": "Fo'Sho"
+        }
+      ],
+      "score": 0.971658
+    }
+  ],
+  "status": "ok"
+}

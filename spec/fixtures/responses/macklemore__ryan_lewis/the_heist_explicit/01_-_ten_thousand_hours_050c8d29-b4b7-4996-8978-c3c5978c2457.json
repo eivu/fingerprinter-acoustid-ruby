@@ -1,0 +1,53 @@
+{
+  "results": [
+    {
+      "id": "c35e04e1-c752-48b7-8a7b-1d2ee767b609",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "97b226c8-7140-4da3-91ac-15e62e131a81",
+              "name": "Macklemore & Ryan Lewis"
+            }
+          ],
+          "duration": 249,
+          "id": "3490e693-334c-4e04-bed6-a8c8f29edb66",
+          "releasegroups": [
+            {
+              "id": "22315cdd-4ed9-427c-9492-560cf4afed58",
+              "title": "The Heist",
+              "type": "Album"
+            }
+          ],
+          "title": "Ten Thousand Hours"
+        }
+      ],
+      "score": 0.93783
+    },
+    {
+      "id": "d03e1d24-0e40-4b5e-b25b-646e2a3522d2",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "97b226c8-7140-4da3-91ac-15e62e131a81",
+              "name": "Macklemore & Ryan Lewis"
+            }
+          ],
+          "duration": 249,
+          "id": "3490e693-334c-4e04-bed6-a8c8f29edb66",
+          "releasegroups": [
+            {
+              "id": "22315cdd-4ed9-427c-9492-560cf4afed58",
+              "title": "The Heist",
+              "type": "Album"
+            }
+          ],
+          "title": "Ten Thousand Hours"
+        }
+      ],
+      "score": 0.903349
+    }
+  ],
+  "status": "ok"
+}

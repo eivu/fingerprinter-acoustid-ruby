@@ -1,0 +1,72 @@
+---
+http_interactions:
+- request:
+    method: get
+    uri: https://api.acoustid.org/v2/lookup?client=<ACOUSTID_CLIENT_ID>&duration=228&fingerprint=AQADtEmWMGm0TEEiqUzxi8Sb45EWxih9MMmRH0n445IsfHnQq2iOMznxTDlu4woe_DiVQg-eHE9-VMovvGJg43vRy_iNHMl1PNHRRCQlxMFz9EQuJxUe7egPezqeq8H5DrAlFb1QWUIjnEIyKUueINp4TO_x_Ki46bD64TrMKkKPdlKNq2pi2JE8nOLxI_SWIzmuH_0SVEmGO8aPH31x4g-ahS-S67gGPYwQi-3xJ2jEoD_x70IOXYp2hDyeo58nPOXRoE6i40ejJgpRVcfVDY9WXETyI3eK60fDKEe5W6iVpTgdPEfP4wkT4ceTRCmaPQn6CPvx5Br4DxeqeIiU_NA1IleEMPsFRbeRR_qQS9JxdLnQnA90IdPC4ze2H3_Qp0YT6nh6eOdx6UYOjT_C8HhD4zd6KUKzKj4uGQ9uPEnw4TvcHj-eZTnGRDaSJUzIIcvR_ML1gsk_fMeDaz_C5IGmTEde7McTXBd6Bk3S489yHE-S4_7wI1J5Q9wR-sZ93JVwfsFlND88hkd7PCFyHsmIfg165Id2xDKaJOEjXEgfJPtx9CV-44uq4Yf1Fz1xT8RznHikw7_wMFksZFv2IR-YG2HqcNBlI6adoIoTFb1C_MGZF0-eBMmlIMyZo0op_Bf4HFeKpxZuhDmqlBEUOsOxQz8eSVug_YUeOE-OKo4g9Qzy8AmO5oG7nagePEmUgtoi4QuSE9FzwtaDG3-E53DEjBs-MUfMHNoRZmQQ5jv64_yRxtLxRXNxakF6_NHxQ1acHLk0ox9-PMuIpsKPQPvx58Z0PDoYdTrs49ClnNjI4UfQ5FbwsdrwJUL7DLlI5DOKX5VQ_Qua46FxNJOOnsd1oeQDP8e-ItN3iN2PqaKQK7PwXEMz5gglPAr0oR3TCGJkGf_xCz175PjRPETPDzeF5rzQTYlS9AuN9EoC_UYahQilpyq-E7VOaHEuPIfO4dOGLhPCqDfy48JDp9B1oa2JRl0MnSEx-0j5dLikB2_yEE11gznxN7gc2BqOvWgeB911fD9CnKgV5K7QtDn6HT2P63j642QO_3iPygxOTCb8fSiXgsuMXMMoKfAPPWjhGPdiVA-HHCfD4j0ah0e_sLilo3uOWxquJQsqngifKILIKUf44WGLH72NpsijXPiS4JYIPWiq4zp-Hi-h6cdTkdinIU8wZzlOphHuTWgaoXiqC_HVCddzKNeOK2j2bCHu7Eiv46ByMMyy4KKOR8IUZgtC_uizQERoPElOlN3hH_5RHDdFNG5IVFQqXMeltPiOV8S9cELDc5jeHC-yZFaMZKdnnMfQ7ongycZzwR9-uEd0KTk0mcMP1he-YJ6goak0I8dZlMx09D6e4z2a64hES9AXZNNzfB4uEi96TDlb_MUvBfdx5niKP2g4Jg36HUnMHWH0gPmI2keT4rqwf1qR_oKuLMgv9HDFH_-CB__R4ziHPAyavuhVLsJ95M_wHE84dFvE4c1RWw324pBQHj4msk3x41awBxeRK4duESyPhhk00SLuCU-Nb-hjKMpzCVHFHaPR1IGP6Sl6pCf640d4FScFah3CtcbRPIOiH3-DzsohHp-GlIFP9NtxrzmuEa6KJzxi6sMDbVPRODkuNceXHbmeCJMjFv7Q4yly7XiIhM-Pm8Tz4cJ11EqQnjm008j54VKOvpuQMyfEKjnCH8ePd9HQRtnxR-gyLUcvDW6LHg8f5NEjAVfwlpCkPDmuXPiDPkeY99gp48fZH43YoKIk40h_4FmGK8vx4tFD7BesiEe2hjTqSYgucUH9QMd_orSCpsPxB-cLzaGORuURUcwHnh_cSXjCfETZGc0zXOh9pNZSSPoR6sdzCsf1DE-CM2h-9MhP4tFCou9xDnZ0lLiMkCecHGl-4ZEUPFmO5_jRa3gLR0qCE9qKJs4yvDF6PEFIJhfyGf0C90jHF9XUxqgSKxca88guaEyPMHuO44RTPNtx5FUSpyjTG36uILRMcCGus-h_mEJ-iM-F_MKWo5sSfEks_A5CieEUJOyHjsmHH7s-XIkoNHt2JFOaI58iNF8mtD9iH9qO1Cm2aEnxv8GXwJqOPg7-oZTo4Ulxw4y54upSdEOP-J6g5wi54EqUw_FCrE2O63iSEJeN5B2y5NnR77ikIIwD3S8iJV-K9TgzFf1hLjnSf9AefDn6H0-GLU2i4zR0hT56SsfxE222Q0zDQDuO5vvR47PQHVrW_chPtKGOiyR6fCn2vOgH6gyPHxOVpEf-4A3OBjI39EHzHNrh_chn44RzvLnRpw12P8hlMB6hq8ck7sI1d9ASE-WhL_rRmMd1hPnx_Xi89PCJR8zxtRnuGH2JMHXwEXUSUoJ4HZ_gw9GDMifuhcHpwM9x5bh-nMvRSFIUVP-Af0aTSYcupsR9yF4m4j48D_0VfA_ywMyDP8duXMvBZPrQ5fiCSfvRXMeP0DgjVA2PQ8tnoXJ2VKYLLU6DC2Geo0fX4151rH1xHg4bUJl8hBYPpddQ6WiqXMiXoymP_qi2GlZ6OB9qF8-OU0cTMw46D6eYDD-a6hzCLzrU7whnoXyOWFmOG5rFxGjc4D9xaEuXEz46H1eRjx5KiXmRxtHxH3k4ofnxHGcm4kwDh8nx0fiPNzrOBXWOMD32HDq1imAS5wiHCs2jgCWDi0fjJMPkI9QXiD_CHj8qKaHwHcYPH70afBl-ACAQIAYAZwgxBiEggCVQUoGMYkACQBgiggoLlDGMaEEMQYAIYhQnghFliBDAKQKYMMQgIyCB1AGBiiNIOQCQIgoIgAhwRBkmGCCJMQY4QkYgwhgShCIlABEOCWNAAIAAAJQQwjghuCFCKSqEIBIQJOAgQgAjBKIIJMUMNMRQIqQQwgKEAAAASUQIFgIYgJgggiKkDSACEAqoAKAQYyERBCQhLWHIQSSIIIQhhogASCtjGCDEIAAAAIAYQhCTChKDADJECQKSsMBRBgSCgEghlBaGICIMEEABAAknRALDIIAAEKAFFIgFQqARBCgnBAGYKUwAQ0hQAAQhBkiCCBPAEUEMYUAIAoACSggHCHQGGCSsYAQBAwACwkihCEIIEEYAQ0QAAhBCAhBDEEFMCBAYEUQSJAQBgAAGjJBUOCWAMQAqpZABBBhgFCIICECAAQYJQAARBAkloCCMICAkRMQyR4wAACBBmFFSKAYNkU4AABAAhhJljBBAMIUEQ0QpwBBDiBBCDCAKCACJFEAAACgRhDwqDUBCCMekElBOaiRhzBBjIAIICCEBEAIBJBkJwBEDKUBEEOAUMGABZIhQwDQDEDACAEYMAkwQRgxQwiAFmSAAQGEEIQAwJQhgzAiGiHAACOGAZUgB4QAjxgEDAKcAAKQIEQYIJhhAUgBCCTFEESGQEcIYRCQgBikmoMAMIUAII1QQIZAA4AEAhQEAECKAUQJAgAADRDgiEBKCWAGIkQAAZgQQCgMAgENAAGGQBIIgRACgTBECCEMCCCAFI0AQ0YgxBABClAWCCgEYQ4QAgxxQCAIMFBMCOEuQAsIJBIQiQBACCQFAAAKNIohoIBgRSjAEEGKCEACAI4gQIoUwyCDEgBAKKOMAAIiAAjARBAHCCECGGMEgEE4oAoQiiAHlDDFCCEAgEEgKZBQBABKhACCWMCYAAUQZrYwDBiDDAQUSKQechMYhCw&meta=recordings%20releasegroups%20compress
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      Accept:
+      - "*/*"
+      User-Agent:
+      - rest-client/2.1.0 (darwin20.3.0 x86_64) ruby/2.7.1p83
+      Accept-Encoding:
+      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+      Host:
+      - api.acoustid.org
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Date:
+      - Tue, 29 Jun 2021 21:22:00 GMT
+      Content-Type:
+      - application/json; charset=UTF-8
+      Transfer-Encoding:
+      - chunked
+      Connection:
+      - keep-alive
+      Vary:
+      - Accept-Encoding
+      Access-Control-Allow-Origin:
+      - "*"
+      X-Envoy-Upstream-Service-Time:
+      - '90'
+      Strict-Transport-Security:
+      - max-age=15724800; includeSubDomains
+    body:
+      encoding: ASCII-8BIT
+      string: '{"results": [{"id": "e1b8d6c3-5de7-4ed8-b3ba-e5f5cf96550d", "recordings":
+        [{"artists": [{"id": "b7539c32-53e7-4908-bda3-81449c367da6", "name": "Lana
+        Del Rey"}], "duration": 229, "id": "6cb27367-424b-45f3-b26c-e9d16e4142ee",
+        "releasegroups": [{"artists": [{"id": "b7539c32-53e7-4908-bda3-81449c367da6",
+        "name": "Lana Del Rey"}], "id": "c6c0ec90-3088-4bd2-8d05-d171adec6102", "secondarytypes":
+        ["Compilation"], "title": "Greatest Hits", "type": "Album"}, {"artists": [{"id":
+        "b7539c32-53e7-4908-bda3-81449c367da6", "name": "Lana Del Rey"}], "id": "4b16a1bc-8644-48ae-9b3e-8ae36aa30cfc",
+        "title": "Born to Die", "type": "Album"}, {"id": "153a4039-dbef-44f2-ab4a-3135c3b3d9b0",
+        "secondarytypes": ["Compilation"], "title": "Greatest Hits", "type": "Album"}],
+        "title": "Without You"}, {"id": "c5310344-1c59-430f-aa98-e218c8e56696"}],
+        "score": 0.988858}, {"id": "25cc0926-411d-4bd7-8e2d-36a944ddc48c", "recordings":
+        [{"artists": [{"id": "b7539c32-53e7-4908-bda3-81449c367da6", "name": "Lana
+        Del Rey"}], "duration": 229, "id": "6cb27367-424b-45f3-b26c-e9d16e4142ee",
+        "releasegroups": [{"artists": [{"id": "b7539c32-53e7-4908-bda3-81449c367da6",
+        "name": "Lana Del Rey"}], "id": "c6c0ec90-3088-4bd2-8d05-d171adec6102", "secondarytypes":
+        ["Compilation"], "title": "Greatest Hits", "type": "Album"}, {"artists": [{"id":
+        "b7539c32-53e7-4908-bda3-81449c367da6", "name": "Lana Del Rey"}], "id": "4b16a1bc-8644-48ae-9b3e-8ae36aa30cfc",
+        "title": "Born to Die", "type": "Album"}, {"id": "153a4039-dbef-44f2-ab4a-3135c3b3d9b0",
+        "secondarytypes": ["Compilation"], "title": "Greatest Hits", "type": "Album"}],
+        "title": "Without You"}], "score": 0.935852}, {"id": "b8926fc9-6033-47a1-a5b7-84381879acc2",
+        "recordings": [{"artists": [{"id": "b7539c32-53e7-4908-bda3-81449c367da6",
+        "name": "Lana Del Rey"}], "duration": 229, "id": "6cb27367-424b-45f3-b26c-e9d16e4142ee",
+        "releasegroups": [{"artists": [{"id": "b7539c32-53e7-4908-bda3-81449c367da6",
+        "name": "Lana Del Rey"}], "id": "c6c0ec90-3088-4bd2-8d05-d171adec6102", "secondarytypes":
+        ["Compilation"], "title": "Greatest Hits", "type": "Album"}, {"artists": [{"id":
+        "b7539c32-53e7-4908-bda3-81449c367da6", "name": "Lana Del Rey"}], "id": "4b16a1bc-8644-48ae-9b3e-8ae36aa30cfc",
+        "title": "Born to Die", "type": "Album"}, {"id": "153a4039-dbef-44f2-ab4a-3135c3b3d9b0",
+        "secondarytypes": ["Compilation"], "title": "Greatest Hits", "type": "Album"}],
+        "title": "Without You"}], "score": 0.600738}], "status": "ok"}'
+    http_version:
+  recorded_at: Tue, 29 Jun 2021 21:22:00 GMT
+recorded_with: VCR 3.0.3

@@ -1,0 +1,280 @@
+{
+  "results": [
+    {
+      "id": "352ce66c-3ce5-49d8-8d9b-145c915258b8",
+      "recordings": [
+        {
+          "id": "5c384c70-0444-4efb-82ea-9b32b2cf3f44"
+        },
+        {
+          "artists": [
+            {
+              "id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+              "joinphrase": " & ",
+              "name": "Ella Fitzgerald"
+            },
+            {
+              "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+              "name": "Louis Armstrong"
+            }
+          ],
+          "duration": 224,
+          "id": "9e056d2b-8c5a-45f3-8d2a-5630c1d39b36",
+          "releasegroups": [
+            {
+              "id": "c4d57285-84d5-4413-8118-b92f402ad1da",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Cheek to Cheek: The Complete Duet Recordings",
+              "type": "Album"
+            }
+          ],
+          "title": "Ill Wind"
+        },
+        {
+          "artists": [
+            {
+              "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+              "name": "Louis Armstrong"
+            }
+          ],
+          "duration": 224,
+          "id": "ae3ad190-6ed4-443b-8ddc-c70f024dbb69",
+          "releasegroups": [
+            {
+              "id": "9c8ab851-c89f-4c0f-9a1c-35f22e78b741",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Milestones of a Jazz Legend"
+            }
+          ],
+          "title": "I’ll Wind"
+        },
+        {
+          "artists": [
+            {
+              "id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+              "name": "Ella Fitzgerald"
+            }
+          ],
+          "duration": 213,
+          "id": "d8c85fd4-370b-4e77-82a9-06ec683732c4",
+          "releasegroups": [
+            {
+              "id": "fe1c9c0d-6c45-4d54-85cd-8c02cc25ef71",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "100 Hits Legends: Ella Fitzgerald",
+              "type": "Album"
+            }
+          ],
+          "title": "Please Be Kind"
+        },
+        {
+          "artists": [
+            {
+              "id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+              "joinphrase": " & ",
+              "name": "Ella Fitzgerald"
+            },
+            {
+              "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+              "name": "Louis Armstrong"
+            }
+          ],
+          "duration": 221,
+          "id": "de2c2ec9-fb04-42be-8739-1cc97fe301fb",
+          "releasegroups": [
+            {
+              "id": "162346df-76e5-4cd7-9169-f047b61421d6",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Ella & Louis",
+              "type": "Album"
+            }
+          ],
+          "title": "Ill Wind"
+        },
+        {
+          "artists": [
+            {
+              "id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+              "joinphrase": " & ",
+              "name": "Ella Fitzgerald"
+            },
+            {
+              "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+              "name": "Louis Armstrong"
+            }
+          ],
+          "duration": 224,
+          "id": "e4d5f400-a65a-4974-9175-91005a0154fc",
+          "releasegroups": [
+            {
+              "id": "24577902-0198-3733-b1cb-f10e8c2abb05",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Ella & Louis Classic Album Collection",
+              "type": "Album"
+            }
+          ],
+          "title": "Ill Wind"
+        },
+        {
+          "artists": [
+            {
+              "id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+              "joinphrase": " & ",
+              "name": "Ella Fitzgerald"
+            },
+            {
+              "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+              "name": "Louis Armstrong"
+            }
+          ],
+          "duration": 225,
+          "id": "edd013da-7608-430c-98ce-b75035cb2c28",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+                  "joinphrase": " & ",
+                  "name": "Ella Fitzgerald"
+                },
+                {
+                  "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+                  "name": "Louis Armstrong"
+                }
+              ],
+              "id": "7108712f-b350-310b-9419-232dceaaba00",
+              "title": "Ella and Louis Again",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+                  "name": "Ella Fitzgerald"
+                }
+              ],
+              "id": "3dcd39f2-5c4f-4043-9534-9581e7191a30",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Six Classic Albums, Volume 3",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+                  "joinphrase": " & ",
+                  "name": "Ella Fitzgerald"
+                },
+                {
+                  "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+                  "name": "Louis Armstrong"
+                }
+              ],
+              "id": "0cbe776a-d90b-424c-bd31-a87a42025821",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Ella and Louis: The Anthology",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+                  "joinphrase": " & ",
+                  "name": "Ella Fitzgerald"
+                },
+                {
+                  "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+                  "name": "Louis Armstrong"
+                }
+              ],
+              "id": "37012d18-8647-3648-87e7-7a66423b863b",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "The Complete Ella and Louis on Verve",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+                  "joinphrase": " & ",
+                  "name": "Ella Fitzgerald"
+                },
+                {
+                  "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+                  "name": "Louis Armstrong"
+                }
+              ],
+              "id": "50fece99-77bf-455b-97ae-aabb9a848b8b",
+              "title": "Ella and Louis",
+              "type": "Album"
+            },
+            {
+              "id": "162346df-76e5-4cd7-9169-f047b61421d6",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Ella & Louis",
+              "type": "Album"
+            }
+          ],
+          "title": "Ill Wind"
+        },
+        {
+          "artists": [
+            {
+              "id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+              "joinphrase": " & ",
+              "name": "Ella"
+            },
+            {
+              "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+              "name": "Louis"
+            }
+          ],
+          "duration": 223,
+          "id": "fe967dc5-1fe2-45da-b150-04726ada73f9",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+                  "joinphrase": " & ",
+                  "name": "Ella Fitzgerald"
+                },
+                {
+                  "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+                  "name": "Louis Armstrong"
+                }
+              ],
+              "id": "45aa0e31-ab75-4605-a3a3-f650d4fa4229",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Ella & Louis: The Complete Anthology",
+              "type": "Album"
+            }
+          ],
+          "title": "Ill Wind"
+        }
+      ],
+      "score": 1.0
+    }
+  ],
+  "status": "ok"
+}

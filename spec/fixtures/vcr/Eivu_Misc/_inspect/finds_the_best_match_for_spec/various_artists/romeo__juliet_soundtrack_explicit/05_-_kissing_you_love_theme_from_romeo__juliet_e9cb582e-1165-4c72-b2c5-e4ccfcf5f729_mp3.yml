@@ -1,0 +1,281 @@
+---
+http_interactions:
+- request:
+    method: get
+    uri: https://api.acoustid.org/v2/lookup?client=<ACOUSTID_CLIENT_ID>&duration=297&fingerprint=AQADtFGUSYqiJEuE9F7w40c_NI_wlMKJPEFPQ4f4o8fxp-AnXCn0C-2R_vhxPDjAI0Sy_bAmTA5P_PiOHn0u_BnyJUIyO1GwjTtaPvjxB7mCpjkO_jCOHsWBXMHhaBdc_uB1nEe5H8-D88SD66iMMEmZQ9eeCHkWbsVz_Gg-9Hg5XBaRa4OmI3iDn3Cf4_B-9OiXozmJ5C9y5sGVHMc7dIRzDccj-Dj8Az6PE9_hqsgPVQKYP8gdPDt-zAqe03h-HD5-fA-eC6W8xDB3SyiP5BvyPfhxPE2C58SRPIj-wH9wPM9ALwtKiYth_Ig_ETobeEXfIX-PPGiOUMfRxYFz7FSKJ5mPH94NHz3-InrEQ3uG5uvxVHgOHafyQHtwCs9x8APMwzouIT9-4NEH5vhf_BlxHcd9OE6UIXmC_KHwxFTw8PjKYy9O1IJzEvmYQIwopFRy1MfRH8-D_sOPn5ji8AgPPXmQSw6uo6LgC1W-4ULf4zBzwj_84yOOm0XaJMSh40fGoj-eHZeOnTp-B76MP_guXLnhL5WAH6F0F8m8RPgyaRivon-KZscT57gOXkh36Jl1IQ-ij9AnYjzCOLnAWD_-o8z2Ab-wI-SD-9BPhPlQHsdvDp5-Yr2E-6gP8DxSL9Bs5MfxD78VojnDERXxHNWP5kSO5MnRKG5c1EHPw6-CkMdUonmOPA-ayehzfJi-47qD48eXI3GOHJ6OiiklfE6CG4enpELMHfqDSMszwXyHSiSZ4GnwjXjoCH3QTMyR70j248fY0AlRhcePpi_RA8lyOjnC5wleHD9-9JnxfZHg8_iLF278EaSDF9RxfMefwMwP5yhPHJy943SGs2hC5iH6Qz-e449R_qim5njCTLh-MDfCIPkPX6twHRcOJruKSnkmJHNy_MZ04jihB7sN7TvcF7zQ4Dz-JJguNHuGH9qR49GJz8bRM_iJPOMAPTyiJzquD-0sCl5lIychKqLyICxrVMKL57BvvG3w2PhxfEEymUdOnPhTnEni42i4DFV6xId-5BOS3S1yFj4eBb7xIyYSi4Jf9EcP80OH5EczxJqLvin6yfBRN-gRw4eOFv0A60eODxfO43zAA74RI00WXD9uNBfx4wn2KJ4y_KgtmEcoPUie4Rd-nMGH03h9nIuLKcclH02PnGiuo48InIRWPCiR4wiPH8FwGB6OH0fyIzx-_biP6nCO-_iR_kiYB-UxJw9-_AGvHf-NpiX65AglJXQOURsx7hGavYXOIze8P_iSBs2botKDh8cX5Id4HX-QMwk-fDieBOmHH7oa5B56NORxHI89zAqy_If1QjzCA8dx5Inwoz2E9zhO4TkOHz0eHKeC8nECfwieCMfhY0fFFD9-FdOHhj8ench_JEczhqFQ5RfxCxeuHKFtQuQzlPfwSHgFHSe1HM2DfseN89CP_oj2B8cF-HjwHt_xoxd-JHukHLnwo7mwH3_AHz-u8EJ8JMd_XHlwGcyN97A2Cyeu5guo4rh2_Cb-DT_-wCcR9o-QXGLwV_iFPyH-Fx9xn-jRlEfyInyYGg73wfoR07h65D7-4TysX-iPP0ebi2h-fKJwJEOK0nJw9IePIxd-7Ie245BFfMd5NI6OUOdx3CeOn4h1dNFOiLmCzzBj5MlC_HjRxOGMb8dVXMdH7AgLHfmO8zh8HX50EGUe5B3-CPrhK0EsCw-eJ2hOg3mNpw-YoomO7DvELkeOwyHx3PgjMDyR79CR9zB8BDeOH-WNF1omdOaFfOgreD28fGLR40Zf_MgpJONxPcDxPOhkFjx85vgFO_RwGk-PC67w4RsqEYmPUGySg4mT_Wh-lEvyJXh24cJ_9ISWG1eG5_gUcsWPE50P_w3YZceHH-ZxeM0E_LlAVWfwwBd-5IEtQYefo_qPvHjhMQuuHfzR487R50F_7EfqrDjXYv0D9chBXWhjPNmx_2giVJms48lwH8-DPCeS66iVo0k_YtaDf8GdFbdyNKEQOskDvUR4ojmLd1vwLzzcFEfmscO1Dr1WGA_y44L_I_vhlcOJXMMr2BG-oj9-_Dz6Bc1yBfWO5LWRmxseDn10PCfO48JkuUWYVEsINRy2R8eNe-i9If2PV3lwKTEO34mG7ukQH3qQJ_BbI1ceSF-Qb8e7o6J4nGzwHOag4-hFGk8eVBcs_eiJpJ2OMCd--MIrB3_hI9yMZHAqHn_wG843_DhaH_1g5THCFzrCI0x6vOghZuTxwwk05BsOvjgT4jp-PPOxhbZxfPvwXDiS8UcYRknwSEsnTJIeAcGYQ8YQwgUEglRmDAgOCEOIUFQFAqiDhingEHCAKmYMkww4YwKmAiiAHCJGEQchIgAIxUBQogEgFFMKgKIUQYAgYZiQATMDUqAKUEcQEApAY5URAgKQpERIKUEUUApBIgTTxgBAhiROIWGAMEg7KhBhSADlFDEKEMIgAAQQKSCQElilEESGCGEYcEg4xgRhiBjvHYCACMMIIwgQKaQRyklCESDMAaeUp4iIYBlCCggACCSIEoSUsE4JJ4wgTklAgFCKSCEAEYA4A6EBQBIKjgACKmeBxAQMZgBAxDjEABJCCeQAUEYRI4RVCEkJCYPwIiMAQhQ6ZBSzDBEFMAAKEGYUZAoAQJxAwEOAkFJESSEAEMQYZBlBShkEkCGMMAAcYQgBhBShJjqCgEBKACuNFocIARcRAjlhiJJCUSCIISBYpU1SRDCJIaOCCU0dUsZgRpwDmlTJDTJAIWiQpkQJiwgIQWEtODKKMkeMIYoRwqCQxAnSoDNvGNCkJwAAIii4QEAgjVMACEoAAEgYIQQCSAiHkDLOSQGII8RST4kUAAHyDDHAaBQAZMQhYs31gkJFkQDEsCsicgxZgRAyREECgCRGAOeQAUBKQJgQliGhIPmuGAGckd4Y4JD2xggIDVNIWKOAAIAYBhQQSAkEiKCOEAQIUAw4AYFABAkFQAAGKGMAENIAoQiQQCFBqCSEAG-cUMoKRZAAjChglCMIOYQUBcYipAwhyBkCBCFCIMWEMMIBJogzQCjJACOCUCkMhRJBZxBoUmDQhJQMAciQAQAIpwSIDhIAgADEIEeEUIg4AsRDAACHDBcBCKEQcQIiAQwAQEFiNBJCCCUAAASLpYBQRCjEKHAEGQoUFIYwwoUgABDEiEGKCAAUEQEhRgwAxhCGjIGEEUEsB4BgBYwABAlErEDAEEAIkMQ4IZJQBAlBBEDKGMA0goIIQKhixjEgEraAeAMBMZo4ABQyFLBhFAI&meta=recordings%20releasegroups%20compress
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      Accept:
+      - "*/*"
+      User-Agent:
+      - rest-client/2.1.0 (darwin20.3.0 x86_64) ruby/2.7.1p83
+      Accept-Encoding:
+      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+      Host:
+      - api.acoustid.org
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Date:
+      - Tue, 29 Jun 2021 21:24:22 GMT
+      Content-Type:
+      - application/json; charset=UTF-8
+      Transfer-Encoding:
+      - chunked
+      Connection:
+      - keep-alive
+      Vary:
+      - Accept-Encoding
+      Access-Control-Allow-Origin:
+      - "*"
+      X-Envoy-Upstream-Service-Time:
+      - '171'
+      Strict-Transport-Security:
+      - max-age=15724800; includeSubDomains
+    body:
+      encoding: ASCII-8BIT
+      string: '{"results": [{"id": "b9b38065-743c-4911-8f54-0bdd04df2192", "recordings":
+        [{"artists": [{"id": "250504d4-eca1-4b23-bea6-db1dc7d2eaf9", "name": "Des\u2019ree"}],
+        "duration": 297, "id": "7e071b94-22d6-4ba4-80a4-1147fae7038f", "releasegroups":
+        [{"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various
+        Artists"}], "id": "650ebbf1-e25c-3f13-ac2b-d98010c1c5ee", "secondarytypes":
+        ["Soundtrack"], "title": "William Shakespeare\u2019s Romeo + Juliet: Music
+        From the Motion Picture", "type": "Album"}], "title": "Kissing You (Love Theme
+        from Romeo + Juliet)"}, {"artists": [{"id": "250504d4-eca1-4b23-bea6-db1dc7d2eaf9",
+        "name": "Des\u2019ree"}], "duration": 292, "id": "bf194c45-780e-4ec6-9ce4-36bfa94a37a2",
+        "releasegroups": [{"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "6fc99ffb-ad3e-33bb-98fc-75f8f7bac2dc",
+        "secondarytypes": ["Compilation"], "title": "Knuffelrock 10", "type": "Album"},
+        {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various
+        Artists"}], "id": "e8337997-48cd-3e27-b1f6-17d71d08c4b5", "secondarytypes":
+        ["Compilation"], "title": "Big Softies", "type": "Album"}, {"artists": [{"id":
+        "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}], "id":
+        "ccc9ad61-f79e-3a8f-8ceb-4d0dc25b4d04", "secondarytypes": ["Compilation"],
+        "title": "Kuschelrock 12", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "de05abbf-7ebd-4209-bc6b-b585ec7bf50c",
+        "secondarytypes": ["Compilation"], "title": "A Night at the Movies", "type":
+        "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name":
+        "Various Artists"}], "id": "e692a6c3-2dcc-3151-a730-9ca502c286c2", "secondarytypes":
+        ["Compilation"], "title": "The All Time Greatest Movie Songs", "type": "Album"},
+        {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various
+        Artists"}], "id": "2e525eea-7f57-4d53-a8ac-d29dbae24ed9", "secondarytypes":
+        ["Compilation"], "title": "Herzschmerz: The New Sad Songs", "type": "Album"},
+        {"artists": [{"id": "250504d4-eca1-4b23-bea6-db1dc7d2eaf9", "name": "Des\u2019ree"}],
+        "id": "17f069e2-83a0-3018-9e89-36c52b862fff", "title": "Life", "type": "Single"},
+        {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various
+        Artists"}], "id": "920ffcad-72b0-4f7b-b88f-affbaa57fcb4", "secondarytypes":
+        ["Compilation"], "title": "Very Best of Late Night Moods", "type": "Album"},
+        {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various
+        Artists"}], "id": "d89424af-8a4e-3f9d-8e02-52c966c26bc6", "secondarytypes":
+        ["Compilation"], "title": "The Very Best of Back to the Movies", "type": "Album"},
+        {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various
+        Artists"}], "id": "bdaf2827-c575-32dd-adcc-8432590f27b8", "secondarytypes":
+        ["Compilation"], "title": "New Woman: Hits From the Chick Flicks", "type":
+        "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name":
+        "Various Artists"}], "id": "2b99bc41-6cf8-4850-b946-ba25eef8dc2b", "secondarytypes":
+        ["Compilation"], "title": "I Love You: La Compilation des amoureux", "type":
+        "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name":
+        "Various Artists"}], "id": "fc11b5c4-55ec-3ff2-ba76-9340d3c3ef35", "secondarytypes":
+        ["Compilation"], "title": "The All Time Greatest Love Songs of the 60\u2019s,
+        70\u2019s, 80\u2019s & 90\u2019s, Volume III", "type": "Album"}, {"artists":
+        [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}],
+        "id": "3ef649db-dfec-341d-bdf5-86a1f81801e1", "secondarytypes": ["Compilation"],
+        "title": "Cinema Hits", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "819bc18c-1972-490c-b788-593bc91589f5",
+        "secondarytypes": ["Compilation"], "title": "The Party Mix - Movies", "type":
+        "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name":
+        "Various Artists"}], "id": "55fd5006-80b5-4ab7-9dc3-2487485db45b", "secondarytypes":
+        ["Compilation"], "title": "Forever Friends: Always and Forever", "type": "Album"},
+        {"artists": [{"id": "250504d4-eca1-4b23-bea6-db1dc7d2eaf9", "name": "Des\u2019ree"}],
+        "id": "ea429d9e-55dd-3551-a6f9-b1548a7af011", "secondarytypes": ["Compilation"],
+        "title": "The Best Singles Collection", "type": "Album"}, {"artists": [{"id":
+        "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}], "id":
+        "a5ddf7a2-43e5-339a-9673-f14b6d5ffe4f", "secondarytypes": ["Compilation"],
+        "title": "Kuschelrock, Volume 2", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "b1981986-2427-33cb-b57d-fc423084dc21",
+        "secondarytypes": ["Compilation"], "title": "Hit Machine, Volume 17", "type":
+        "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name":
+        "Various Artists"}], "id": "0c89d651-72da-4d05-aad8-f50a754db7b7", "secondarytypes":
+        ["Compilation"], "title": "Heart & Soul", "type": "Album"}, {"artists": [{"id":
+        "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}], "id":
+        "e4b8d782-6e52-4994-bf14-759f7f8b5fae", "secondarytypes": ["Compilation"],
+        "title": "The All Time Greatest Movie Songs 2", "type": "Album"}, {"artists":
+        [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}],
+        "id": "8839417d-b0a2-3ef7-8d85-3c925bc3d824", "secondarytypes": ["Compilation"],
+        "title": "The All Time Greatest Movie Songs, Volume Two", "type": "Album"},
+        {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various
+        Artists"}], "id": "05f43f41-8bab-3cb8-b8fe-a21c46873aa5", "secondarytypes":
+        ["Compilation"], "title": "All Time Greatest Love Songs, Volume 2", "type":
+        "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name":
+        "Various Artists"}], "id": "53729bda-6e9b-4fe9-89bf-828fe7c5d01e", "secondarytypes":
+        ["Compilation"], "title": "101 Love Songs", "type": "Album"}, {"artists":
+        [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}],
+        "id": "8a97a1a3-c29c-3ad0-ab97-43cf8902d1ac", "secondarytypes": ["Compilation"],
+        "title": "Smash Hits: Summer ''97", "type": "Album"}, {"artists": [{"id":
+        "250504d4-eca1-4b23-bea6-db1dc7d2eaf9", "name": "Des\u2019ree"}], "id": "98ada820-36af-3fa7-8d4e-a229a7cefed5",
+        "secondarytypes": ["Compilation"], "title": "Millenium Hits", "type": "Album"},
+        {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various
+        Artists"}], "id": "1997c913-d5f9-49c9-83dc-9809e9ddb533", "secondarytypes":
+        ["Compilation"], "title": "Her Best Love", "type": "Album"}, {"artists": [{"id":
+        "250504d4-eca1-4b23-bea6-db1dc7d2eaf9", "name": "Des\u2019ree"}], "id": "7f505523-a7aa-32ad-ae43-d63f635dfb46",
+        "title": "Supernatural", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "0049ab55-d520-43fc-a828-1509493cafcb",
+        "secondarytypes": ["Compilation"], "title": "Elokuvien 100 suosituinta", "type":
+        "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name":
+        "Various Artists"}], "id": "8ccf0c18-7331-4141-a951-d8fc37a40399", "secondarytypes":
+        ["Compilation"], "title": "Las mejores canciones de cine vol. 2", "type":
+        "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name":
+        "Various Artists"}], "id": "1bb29250-0a91-3ce9-ae93-fa75887de117", "secondarytypes":
+        ["Compilation"], "title": "The All Time Greatest Movie Songs, Volume 2", "type":
+        "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name":
+        "Various Artists"}], "id": "a9191c12-b710-4df7-bc10-7f7434ef312d", "secondarytypes":
+        ["Compilation"], "title": "Top 40: Movies", "type": "Album"}, {"artists":
+        [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}],
+        "id": "fe4f316d-c37b-4fa8-a950-14471e4357d0", "secondarytypes": ["Compilation"],
+        "title": "Ultimate Movies", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "03bd7378-02fc-33dc-96cb-75913063dcac",
+        "secondarytypes": ["Compilation"], "title": "The Ultimate Chick Flick Love
+        Songs", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "318af601-1383-4ee6-ac0c-160582bdd222",
+        "secondarytypes": ["Compilation"], "title": "101 Movie Songs", "type": "Album"},
+        {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various
+        Artists"}], "id": "b7467e26-26ba-48d6-bd82-f7350044e40e", "secondarytypes":
+        ["Compilation"], "title": "Girls Night In", "type": "Album"}], "title": "I\u2019m
+        Kissing You"}], "score": 0.942576}, {"id": "511c251a-5e56-4f4c-8e9b-81f29fb99b53",
+        "recordings": [{"artists": [{"id": "250504d4-eca1-4b23-bea6-db1dc7d2eaf9",
+        "name": "Des\u2019ree"}], "duration": 293, "id": "49609855-0145-4298-b7dc-efdb0461638d",
+        "releasegroups": [{"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "745dc312-ba89-33c8-ad70-4e3fe75c14d7",
+        "secondarytypes": ["Compilation"], "title": "Movies'' Greatest Love Songs",
+        "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "6a93ae2c-2031-466e-95ca-3b697e826684",
+        "secondarytypes": ["Compilation"], "title": "Greatest Ever! Smooth: The Definitive
+        Collection", "type": "Album"}], "title": "Kissing You"}, {"id": "6d123865-b030-4381-8400-5236dc977785"},
+        {"artists": [{"id": "250504d4-eca1-4b23-bea6-db1dc7d2eaf9", "name": "Des''ree"}],
+        "duration": 296, "id": "71c81da4-9dcc-4fab-8b22-1594e709bfa5", "releasegroups":
+        [{"artists": [{"id": "250504d4-eca1-4b23-bea6-db1dc7d2eaf9", "name": "Des\u2019ree"}],
+        "id": "b5c5f85b-6e29-3b08-a166-4086f969e158", "title": "I''m Kissing You",
+        "type": "Single"}], "title": "I''m Kissing You"}, {"artists": [{"id": "250504d4-eca1-4b23-bea6-db1dc7d2eaf9",
+        "name": "Des\u2019ree"}], "duration": 297, "id": "7e071b94-22d6-4ba4-80a4-1147fae7038f",
+        "releasegroups": [{"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "650ebbf1-e25c-3f13-ac2b-d98010c1c5ee",
+        "secondarytypes": ["Soundtrack"], "title": "William Shakespeare\u2019s Romeo
+        + Juliet: Music From the Motion Picture", "type": "Album"}], "title": "Kissing
+        You (Love Theme from Romeo + Juliet)"}, {"artists": [{"id": "250504d4-eca1-4b23-bea6-db1dc7d2eaf9",
+        "name": "Des\u2019ree"}], "duration": 292, "id": "bf194c45-780e-4ec6-9ce4-36bfa94a37a2",
+        "releasegroups": [{"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "6fc99ffb-ad3e-33bb-98fc-75f8f7bac2dc",
+        "secondarytypes": ["Compilation"], "title": "Knuffelrock 10", "type": "Album"},
+        {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various
+        Artists"}], "id": "e8337997-48cd-3e27-b1f6-17d71d08c4b5", "secondarytypes":
+        ["Compilation"], "title": "Big Softies", "type": "Album"}, {"artists": [{"id":
+        "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}], "id":
+        "ccc9ad61-f79e-3a8f-8ceb-4d0dc25b4d04", "secondarytypes": ["Compilation"],
+        "title": "Kuschelrock 12", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "de05abbf-7ebd-4209-bc6b-b585ec7bf50c",
+        "secondarytypes": ["Compilation"], "title": "A Night at the Movies", "type":
+        "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name":
+        "Various Artists"}], "id": "e692a6c3-2dcc-3151-a730-9ca502c286c2", "secondarytypes":
+        ["Compilation"], "title": "The All Time Greatest Movie Songs", "type": "Album"},
+        {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various
+        Artists"}], "id": "2e525eea-7f57-4d53-a8ac-d29dbae24ed9", "secondarytypes":
+        ["Compilation"], "title": "Herzschmerz: The New Sad Songs", "type": "Album"},
+        {"artists": [{"id": "250504d4-eca1-4b23-bea6-db1dc7d2eaf9", "name": "Des\u2019ree"}],
+        "id": "17f069e2-83a0-3018-9e89-36c52b862fff", "title": "Life", "type": "Single"},
+        {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various
+        Artists"}], "id": "920ffcad-72b0-4f7b-b88f-affbaa57fcb4", "secondarytypes":
+        ["Compilation"], "title": "Very Best of Late Night Moods", "type": "Album"},
+        {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various
+        Artists"}], "id": "d89424af-8a4e-3f9d-8e02-52c966c26bc6", "secondarytypes":
+        ["Compilation"], "title": "The Very Best of Back to the Movies", "type": "Album"},
+        {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various
+        Artists"}], "id": "bdaf2827-c575-32dd-adcc-8432590f27b8", "secondarytypes":
+        ["Compilation"], "title": "New Woman: Hits From the Chick Flicks", "type":
+        "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name":
+        "Various Artists"}], "id": "2b99bc41-6cf8-4850-b946-ba25eef8dc2b", "secondarytypes":
+        ["Compilation"], "title": "I Love You: La Compilation des amoureux", "type":
+        "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name":
+        "Various Artists"}], "id": "fc11b5c4-55ec-3ff2-ba76-9340d3c3ef35", "secondarytypes":
+        ["Compilation"], "title": "The All Time Greatest Love Songs of the 60\u2019s,
+        70\u2019s, 80\u2019s & 90\u2019s, Volume III", "type": "Album"}, {"artists":
+        [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}],
+        "id": "3ef649db-dfec-341d-bdf5-86a1f81801e1", "secondarytypes": ["Compilation"],
+        "title": "Cinema Hits", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "819bc18c-1972-490c-b788-593bc91589f5",
+        "secondarytypes": ["Compilation"], "title": "The Party Mix - Movies", "type":
+        "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name":
+        "Various Artists"}], "id": "55fd5006-80b5-4ab7-9dc3-2487485db45b", "secondarytypes":
+        ["Compilation"], "title": "Forever Friends: Always and Forever", "type": "Album"},
+        {"artists": [{"id": "250504d4-eca1-4b23-bea6-db1dc7d2eaf9", "name": "Des\u2019ree"}],
+        "id": "ea429d9e-55dd-3551-a6f9-b1548a7af011", "secondarytypes": ["Compilation"],
+        "title": "The Best Singles Collection", "type": "Album"}, {"artists": [{"id":
+        "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}], "id":
+        "a5ddf7a2-43e5-339a-9673-f14b6d5ffe4f", "secondarytypes": ["Compilation"],
+        "title": "Kuschelrock, Volume 2", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "b1981986-2427-33cb-b57d-fc423084dc21",
+        "secondarytypes": ["Compilation"], "title": "Hit Machine, Volume 17", "type":
+        "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name":
+        "Various Artists"}], "id": "0c89d651-72da-4d05-aad8-f50a754db7b7", "secondarytypes":
+        ["Compilation"], "title": "Heart & Soul", "type": "Album"}, {"artists": [{"id":
+        "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}], "id":
+        "e4b8d782-6e52-4994-bf14-759f7f8b5fae", "secondarytypes": ["Compilation"],
+        "title": "The All Time Greatest Movie Songs 2", "type": "Album"}, {"artists":
+        [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}],
+        "id": "8839417d-b0a2-3ef7-8d85-3c925bc3d824", "secondarytypes": ["Compilation"],
+        "title": "The All Time Greatest Movie Songs, Volume Two", "type": "Album"},
+        {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various
+        Artists"}], "id": "05f43f41-8bab-3cb8-b8fe-a21c46873aa5", "secondarytypes":
+        ["Compilation"], "title": "All Time Greatest Love Songs, Volume 2", "type":
+        "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name":
+        "Various Artists"}], "id": "53729bda-6e9b-4fe9-89bf-828fe7c5d01e", "secondarytypes":
+        ["Compilation"], "title": "101 Love Songs", "type": "Album"}, {"artists":
+        [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}],
+        "id": "8a97a1a3-c29c-3ad0-ab97-43cf8902d1ac", "secondarytypes": ["Compilation"],
+        "title": "Smash Hits: Summer ''97", "type": "Album"}, {"artists": [{"id":
+        "250504d4-eca1-4b23-bea6-db1dc7d2eaf9", "name": "Des\u2019ree"}], "id": "98ada820-36af-3fa7-8d4e-a229a7cefed5",
+        "secondarytypes": ["Compilation"], "title": "Millenium Hits", "type": "Album"},
+        {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various
+        Artists"}], "id": "1997c913-d5f9-49c9-83dc-9809e9ddb533", "secondarytypes":
+        ["Compilation"], "title": "Her Best Love", "type": "Album"}, {"artists": [{"id":
+        "250504d4-eca1-4b23-bea6-db1dc7d2eaf9", "name": "Des\u2019ree"}], "id": "7f505523-a7aa-32ad-ae43-d63f635dfb46",
+        "title": "Supernatural", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "0049ab55-d520-43fc-a828-1509493cafcb",
+        "secondarytypes": ["Compilation"], "title": "Elokuvien 100 suosituinta", "type":
+        "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name":
+        "Various Artists"}], "id": "8ccf0c18-7331-4141-a951-d8fc37a40399", "secondarytypes":
+        ["Compilation"], "title": "Las mejores canciones de cine vol. 2", "type":
+        "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name":
+        "Various Artists"}], "id": "1bb29250-0a91-3ce9-ae93-fa75887de117", "secondarytypes":
+        ["Compilation"], "title": "The All Time Greatest Movie Songs, Volume 2", "type":
+        "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name":
+        "Various Artists"}], "id": "a9191c12-b710-4df7-bc10-7f7434ef312d", "secondarytypes":
+        ["Compilation"], "title": "Top 40: Movies", "type": "Album"}, {"artists":
+        [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}],
+        "id": "fe4f316d-c37b-4fa8-a950-14471e4357d0", "secondarytypes": ["Compilation"],
+        "title": "Ultimate Movies", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "03bd7378-02fc-33dc-96cb-75913063dcac",
+        "secondarytypes": ["Compilation"], "title": "The Ultimate Chick Flick Love
+        Songs", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "318af601-1383-4ee6-ac0c-160582bdd222",
+        "secondarytypes": ["Compilation"], "title": "101 Movie Songs", "type": "Album"},
+        {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various
+        Artists"}], "id": "b7467e26-26ba-48d6-bd82-f7350044e40e", "secondarytypes":
+        ["Compilation"], "title": "Girls Night In", "type": "Album"}], "title": "I\u2019m
+        Kissing You"}, {"artists": [{"id": "250504d4-eca1-4b23-bea6-db1dc7d2eaf9",
+        "name": "Des\u2019ree"}], "duration": 296, "id": "d7e784f9-987d-41e4-a3c8-77ba54ca3a84",
+        "releasegroups": [{"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "ee1cd1df-575d-427e-9ab8-8975bbb5ef4b",
+        "secondarytypes": ["Compilation"], "title": "Women That Move You", "type":
+        "Album"}], "title": "I\u2019m Kissing You"}, {"artists": [{"id": "250504d4-eca1-4b23-bea6-db1dc7d2eaf9",
+        "name": "Des\u2019ree"}], "duration": 295, "id": "f82aa46d-a825-4a19-9b2f-c4a9db0b8653",
+        "releasegroups": [{"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "1106b9f5-582c-405c-b805-991fbf0b49dd",
+        "secondarytypes": ["Compilation"], "title": "All Woman", "type": "Album"}],
+        "title": "I''m Kissing You"}], "score": 0.932621}], "status": "ok"}'
+    http_version:
+  recorded_at: Tue, 29 Jun 2021 21:24:22 GMT
+recorded_with: VCR 3.0.3

@@ -1,0 +1,88 @@
+{
+  "results": [
+    {
+      "id": "0511f641-60f4-49c0-af8c-ec6414e399d8",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "6ac47f31-3b2e-4f95-bef0-ce869af4ee98",
+              "name": "Stina Nordenstam"
+            }
+          ],
+          "duration": 219,
+          "id": "5b1190bd-e264-4a59-951c-12295306851a",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "560d622c-4793-4687-be4e-d6c6d993c934",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Voices",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "bc3f48ef-56fc-3e2d-9416-e48f71700332",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Warner Music: New Releases",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "6ac47f31-3b2e-4f95-bef0-ce869af4ee98",
+                  "name": "Stina Nordenstam"
+                }
+              ],
+              "id": "e43fe9f3-7d61-3cdb-b1c9-25eb3e1d2192",
+              "title": "And She Closed Her Eyes",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "6ac47f31-3b2e-4f95-bef0-ce869af4ee98",
+                  "name": "Stina Nordenstam"
+                }
+              ],
+              "id": "bd94e06f-09a5-348a-9217-5cfded04ec4f",
+              "title": "Little Star",
+              "type": "Single"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "650ebbf1-e25c-3f13-ac2b-d98010c1c5ee",
+              "secondarytypes": [
+                "Soundtrack"
+              ],
+              "title": "William Shakespeare’s Romeo + Juliet: Music From the Motion Picture",
+              "type": "Album"
+            }
+          ],
+          "title": "Little Star"
+        }
+      ],
+      "score": 0.990506
+    }
+  ],
+  "status": "ok"
+}

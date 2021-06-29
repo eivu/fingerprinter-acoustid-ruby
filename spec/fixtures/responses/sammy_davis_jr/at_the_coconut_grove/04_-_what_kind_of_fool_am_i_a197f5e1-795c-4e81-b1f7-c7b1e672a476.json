@@ -1,0 +1,29 @@
+{
+  "results": [
+    {
+      "id": "e1f32c34-33ab-4b07-b8ba-cd4e8b515c20",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "4bc9e8c3-7eae-454f-a56c-bccf96f3926b",
+              "name": "Sammy Davis Jr."
+            }
+          ],
+          "duration": 191,
+          "id": "e3d92a15-3f7f-4cca-bbaa-42e90d358c06",
+          "releasegroups": [
+            {
+              "id": "515cf724-5ee4-35f7-84e7-7389be65ecba",
+              "title": "That's All!",
+              "type": "Album"
+            }
+          ],
+          "title": "What Kind of Fool Am I"
+        }
+      ],
+      "score": 0.963014
+    }
+  ],
+  "status": "ok"
+}

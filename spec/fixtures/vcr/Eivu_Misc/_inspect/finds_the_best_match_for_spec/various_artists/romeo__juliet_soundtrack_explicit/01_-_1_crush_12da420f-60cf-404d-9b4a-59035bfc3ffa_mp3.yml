@@ -1,0 +1,107 @@
+---
+http_interactions:
+- request:
+    method: get
+    uri: https://api.acoustid.org/v2/lookup?client=<ACOUSTID_CLIENT_ID>&duration=286&fingerprint=AQADtFIiJoqiLAqOJErobEfO49SHT2hGHW0UXcPjI_4L7Tl8I48YHyb6oN8F55iUZhlqHXYSfEsE_-h5XEb8Q1tfOC3yB7uOR0V--MdLKEqeHC9j3BkeaJQOH9cPeVNytDquo7CO3sGXoc7hHz_-xHg2Ek_wwzxeHncW6Aqu4zqs59Cz6MGVHT-840En7oEm5vD04OIJ-cen5Hhy5DhS-kP1xXh6aCl-VPiq44nOQD-KRsfxZUfTHP3xo5MT5BsX5AkO03h5PMtxCQ88Hv9xxXlw4dKP5_ChiUqUF62iY-uFj8TxKOsEXXmRS_rgH21VDs-CH9fR_EimKUceKUuFo2SS5Gg4KeB0PLuYDU9y-A9y4znOQ02DPH02nE1GNPnBHE8Y_LiP-IG23QgTXfiOMkwKJnvwnMOZB_WOMC_04zn-I9-z4cx2_DGo4z2u4jr2Dkn4IIymVqiMT9HhMVmEH1z2bHiOtMqhp2BzXD9yH2f6DGeSo_qP5nhCPNjdIxcUiV8QRi9-tExyNLMCLj9x3nhUIz0D_TIePD5yH1ybxzjjw7mP9_iP_fiR9IgUvULFV7jGw8uS4A9HcPmNMzlc5cihX8aP94iz9DFOZQQfw8d7nDve4Eey-EIoOk1wlEySoOEkgX044tmNM8mJ9HSgG89xpsj14syUMcYD_-B__MeFt0fiE2m043aCS0fDJUGlE-Q5nEkehKkO7S_y3Pjx48sznNGPH5Rw8cJz7DmL6D6S8oN1B8-Pb4oIj8nA_fhxJnmQhnpCIXEuXDke_HiaMcjlo2Gfg-ENXccT5RE-r_iPPiG0OHh65BOa-OiVox1zHK5xBj-yo94CPSR6-MV2olWCCzkuCk3G6LB-9EfuQ14To4luocfp44NffA_iPPjiH-VsuO9RHS_uLMco5Aq0I0uyH-ePMwG14yePZx-e5Ej_FDqO54jTE8-UxzgTwj_IHxeD_7iPpC_CKLpQXTg1MOGSHOVzPHuHNz_SKoeO33iQ_3iWPsapHI_hH2TxHzfxmUSYHsn0GK9wJjrMKcH1cHh2PDlcHUeeQxVz5H3xNFxwJkfz5kJX_MePoXqEJIqO3MJlNGRyVHoCcsebM6iVozmD_FCVI_dx-hmeKcefHgYZ5jh1_Dl-5kgWlQgtPvhxMdFBcUrwPMd5PPrh48hznEdSx8WXZ8MZES-s_gKn4vh4jPmIZNkRiuaEhxZKJsOUpdHxd3iO5ieH2oh1Q06-CqF8MFYePI2KF16eg6WOH18yDg8XNHnwS3iRnEg5ovJROYsFo8-HiieoHDn0Iw3V4cyxFd-SHf5RK8JxPD76RUQyIe_Q62g0p4lx_3gSA03oopMT5FeQVOKD_sfp4h8c5yh5nNhxKj8S0UeYmCnOwWTig5EePCeePKiVoznyXPihxojpZ3imqHiowznI8PiI6_gbFaFyJMv0STjOZKA4Rcd14dmDJzn840WeHzriGE8zZjiTG_3BRD8u4stxH_FzaJGiB7Fb9ENLoZmVgzvxLHlQKxea40eeQ88RZzqJZ1ODP9RB5fjxRMOPtyRyHuIpxLxwDeaSHOwzPA_O5GiqHOHxQ88RH1_6DGeSEf2P5uASHg_u45-OZNERSnIjHGWYCExm5fjxLMeVw7-CI88PPYgzHc-UMcOTwz94PBPO_HiPuA-0aDfCC980NGOSg9GDnziTZ0NT5aiOPLkFVbiPPCWDOyr-g9qPT7jS41M4VCc-Hb6Qh4ROpA6PnniXopoCV0P-VDiXQ1J8OKMS5Mphe-gxdcyG5riOHzcqS8c9JBOVHDmqJxyc_EEb6ccTwK2CHOqYK0a4-Xhd_HCOHvdy3Me4I5-OZMki-mCOT6DGJD1-fA_O5PBz_EEe6Ed8fCmZ4UxyNK8O5sdDnAp-Ev8RpkcySWeEG2WDhmmC6_iNikNzKfhD5D-0rA_CH_3RHCwjwpyU48lw5qhMNBI_JP8Q06lwmJSOWzn-Fj_caMh64zc08gif486Dc-qMSwyMB6dwDg-D_ISW8IwQjmFQrQeTcccn_CyaH-GYHNeh9cifo8_xTJGLR83RXEaHi8HFFzdCiUFClVzQZiw-lFWK5spxPzjzwVWO58aP_DT-S9BzxJQUHe9CgspxfMSO3IYmLTnCqDy-SenxHeUSicOUfC9-IT8S6niP60SZ7KivgO-MJwxKCg23H5yOR8ZFJUZ_9ImCH2GX5xAdDXlyfIcV8uCzxHBa4g9yHl-WQyfS59izDT36GI2T4cOFfg5MhbGQ9oJ2HfF1_BOcjE9wSc4B9wieKkIy0U8C6_hJOIQz9LhX7MgL_UwRJrfAtAPzoRkT_MZ5NMmio8eP54j_QN6NPJHy4UuH5j66gHPwEZeCLB0rQ0s-5FPY4R2aPEH5HH_xF051xNIPWbiO68j34msYFXmkwzsjnNaRnaichXjOwccfMD8qMctBqaSUIc-gR-gJtkJuPDFRwzqJaz26aEMfw2mO5_gO48GZHMmZCPEeNCqOm8HDHPV2NEec_JgY-A_Sf_iWYj6uMKHR6xF2vDROxKIUH712RO2FnNNw6DkaBY8afM_xgg9-MIuMp_B5PEM4TiluYpbyI_5xXUGjJjq0B5OaIyUqsUdfNEkf5MxzSM6R4_h__FxwfkYPG1QeI1wJtcnxGfGFZifR6UGzZQEXgAIKVACMEAIhIhQRxhoEBFBGCIWQUAYQ4YgSAAkLhBAMCcGAAwJgIQySRAoBABIAECAEIUwAChwDggAkkCECACQYEsAAhIQFyAkBsDFkEAYAEsAIARRBQCgEKDPSASCEMQwhJYFBADABBELAeEIINQJAIgKjSEDgIBOAAkYscEQDAIADAAgyJEDUScOAcUoRjoBBwAKBgAAEBCaENwYgRwSAiAFFgDQCICCEsABII5CTBDBCBAJAERCUIUQKhKCwQAJBCRwAAgAgwcQoIAkgwgAgERAEIeYIBcgoIADhAAiGAIAASAYEEUQZhAQwUDCAjAKYMYGEAAAiQQQBBihBCCJCieYgM0wBDioBghhiBEGGKGQoAAIIL4ACFgAkhCHAAAARAoYbJhUCSBImABMECYQkgQIAAxQgnjjCAAECAQgNABIIZSxxQACokBGDSQAQUkQAABiFUgIoHBCACaeBAAIBIAwEgggAEABAAicEABAhQMVghAqGoBDGCEgUAwZYAQQyCFFDBGKEEkOEMsA4SYRTwBgEFDlEAEOAEYoRAhABwlBJNRDCICIAQ4pYgQgXCBInARIGSAAIAwI4hIDBggGAkDCACWAAEhAgwxxQwBInNAICAUEck4BRAJBSDApAgSKYOKCBEMgAAiVDAiAgKQMWOISAIIIBpBB0ElBAAFHCAAugEQwoQgFzxiAIAAAGGWUUIUABQYQgQBpjBhMKYSKEOwQIocQAAGkkBAKCAQSYMcAIBxQgxAlrgECAECkEAEZAwIACWgBIIDFIMCYJAYopghAkBACHnDDOCIGAAIxZypQwRAEIFCHMCAYEQkIAgASFhCEhCBDCAIEAAMQhIcgDxxAAnBBCEIaIgsAYxRAQkBEmBEMCKMAAIIQoYBAC1inFoBHCSCAMMQQ4YBQSQwMEjKACQGQJJw4IZwQjwnAADBAEYKEIE8AhxQghBCBAhFDACASkcogRgbChwjFIEAKEUSIIkAQAgYQxQCAKAHDGOeEAAFwDoARiABgCECHYIGCEIFhQAIgQBBBrAIQCAA&meta=recordings%20releasegroups%20compress
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      Accept:
+      - "*/*"
+      User-Agent:
+      - rest-client/2.1.0 (darwin20.3.0 x86_64) ruby/2.7.1p83
+      Accept-Encoding:
+      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+      Host:
+      - api.acoustid.org
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Date:
+      - Tue, 29 Jun 2021 21:24:18 GMT
+      Content-Type:
+      - application/json; charset=UTF-8
+      Transfer-Encoding:
+      - chunked
+      Connection:
+      - keep-alive
+      Vary:
+      - Accept-Encoding
+      Access-Control-Allow-Origin:
+      - "*"
+      X-Envoy-Upstream-Service-Time:
+      - '190'
+      Strict-Transport-Security:
+      - max-age=15724800; includeSubDomains
+    body:
+      encoding: ASCII-8BIT
+      string: '{"results": [{"id": "6c68cbcd-fbaf-4eac-9029-557f01753ddc", "recordings":
+        [{"id": "1603f847-6ff5-4e24-a16c-f43c6f73b52a"}, {"artists": [{"id": "f9ef7a22-4262-4596-a2a8-1d19345b8e50",
+        "name": "Garbage"}], "id": "17d586fb-8c9e-4726-8f9e-acfd5b3a2c0a", "releasegroups":
+        [{"id": "416bb36b-a0af-4186-ac0a-a8f82ed4ea9a", "title": "Garbage Video",
+        "type": "Other"}], "title": "Sleep"}, {"id": "313164bf-691b-4c81-9bf9-f2786de88494"},
+        {"artists": [{"id": "f9ef7a22-4262-4596-a2a8-1d19345b8e50", "name": "Garbage"}],
+        "duration": 139, "id": "e101e098-9418-44b2-bec3-dc148d022a57", "releasegroups":
+        [{"id": "dcad245f-9d95-3751-9e69-d50ca399b46a", "title": "Garbage", "type":
+        "Album"}], "title": "Sleep"}, {"artists": [{"id": "f9ef7a22-4262-4596-a2a8-1d19345b8e50",
+        "name": "Garbage"}], "duration": 291, "id": "f6815e32-a1f0-4c7e-a1e2-84d5f1f472a2",
+        "releasegroups": [{"artists": [{"id": "f9ef7a22-4262-4596-a2a8-1d19345b8e50",
+        "name": "Garbage"}], "id": "416128be-7322-35ce-90ed-12b55534ae6b", "secondarytypes":
+        ["Compilation"], "title": "Complete Garbage", "type": "Album"}, {"artists":
+        [{"id": "f9ef7a22-4262-4596-a2a8-1d19345b8e50", "name": "Garbage"}], "id":
+        "ef913259-113e-3867-aeea-e52a40a40986", "title": "Independent Access", "type":
+        "EP"}, {"artists": [{"id": "f9ef7a22-4262-4596-a2a8-1d19345b8e50", "name":
+        "Garbage"}], "id": "5857ef77-a8bb-3a3a-824c-67c830385bbd", "title": "Subhuman",
+        "type": "Single"}, {"artists": [{"id": "f9ef7a22-4262-4596-a2a8-1d19345b8e50",
+        "name": "Garbage"}], "id": "7c14d304-c322-37ca-b80e-1654fd0da3fe", "title":
+        "Vow", "type": "Single"}, {"artists": [{"id": "f9ef7a22-4262-4596-a2a8-1d19345b8e50",
+        "name": "Garbage"}], "id": "0de6711b-a628-39fc-a294-85bd703ee7c0", "secondarytypes":
+        ["Compilation"], "title": "B\u2010Sides", "type": "Album"}, {"artists": [{"id":
+        "f9ef7a22-4262-4596-a2a8-1d19345b8e50", "name": "Garbage"}], "id": "dcad245f-9d95-3751-9e69-d50ca399b46a",
+        "title": "Garbage", "type": "Album"}, {"artists": [{"id": "f9ef7a22-4262-4596-a2a8-1d19345b8e50",
+        "name": "Garbage"}], "id": "c87f282e-be91-4764-9700-ac31489601c3", "title":
+        "Garbage", "type": "EP"}, {"artists": [{"id": "f9ef7a22-4262-4596-a2a8-1d19345b8e50",
+        "name": "Garbage"}], "id": "fecd4728-a9fa-45a6-9e30-abf398ccd8ea", "secondarytypes":
+        ["Compilation"], "title": "Rare Track Collection", "type": "EP"}, {"artists":
+        [{"id": "f9ef7a22-4262-4596-a2a8-1d19345b8e50", "name": "Garbage"}], "id":
+        "ea0e4c98-6349-3ae6-800f-1dc6ee40b2b6", "secondarytypes": ["Compilation"],
+        "title": "The G-Side Collection", "type": "Album"}, {"id": "884c6fca-e99a-4334-b20d-7f125568c67a",
+        "secondarytypes": ["Compilation"], "title": "Hit Collection 2000", "type":
+        "Album"}], "title": "#1 Crush"}, {"artists": [{"id": "f9ef7a22-4262-4596-a2a8-1d19345b8e50",
+        "name": "Garbage"}], "duration": 268, "id": "fdf29609-5ce9-4811-8ba5-42de646caf53",
+        "releasegroups": [{"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "a070a2e5-cdc5-418b-92e5-bdd671208e57",
+        "secondarytypes": ["Compilation"], "title": "100% Hits of \u201997", "type":
+        "Album"}], "title": "Crush"}], "score": 0.964535}, {"id": "6df2cc25-1d77-4372-89d2-6a6a229694e3",
+        "recordings": [{"id": "1603f847-6ff5-4e24-a16c-f43c6f73b52a"}], "score": 0.946648},
+        {"id": "e44212b5-c56c-44da-a116-4251a2b3b842", "recordings": [{"id": "313164bf-691b-4c81-9bf9-f2786de88494"},
+        {"artists": [{"id": "f9ef7a22-4262-4596-a2a8-1d19345b8e50", "name": "Garbage"}],
+        "duration": 291, "id": "f6815e32-a1f0-4c7e-a1e2-84d5f1f472a2", "releasegroups":
+        [{"artists": [{"id": "f9ef7a22-4262-4596-a2a8-1d19345b8e50", "name": "Garbage"}],
+        "id": "416128be-7322-35ce-90ed-12b55534ae6b", "secondarytypes": ["Compilation"],
+        "title": "Complete Garbage", "type": "Album"}, {"artists": [{"id": "f9ef7a22-4262-4596-a2a8-1d19345b8e50",
+        "name": "Garbage"}], "id": "ef913259-113e-3867-aeea-e52a40a40986", "title":
+        "Independent Access", "type": "EP"}, {"artists": [{"id": "f9ef7a22-4262-4596-a2a8-1d19345b8e50",
+        "name": "Garbage"}], "id": "5857ef77-a8bb-3a3a-824c-67c830385bbd", "title":
+        "Subhuman", "type": "Single"}, {"artists": [{"id": "f9ef7a22-4262-4596-a2a8-1d19345b8e50",
+        "name": "Garbage"}], "id": "7c14d304-c322-37ca-b80e-1654fd0da3fe", "title":
+        "Vow", "type": "Single"}, {"artists": [{"id": "f9ef7a22-4262-4596-a2a8-1d19345b8e50",
+        "name": "Garbage"}], "id": "0de6711b-a628-39fc-a294-85bd703ee7c0", "secondarytypes":
+        ["Compilation"], "title": "B\u2010Sides", "type": "Album"}, {"artists": [{"id":
+        "f9ef7a22-4262-4596-a2a8-1d19345b8e50", "name": "Garbage"}], "id": "dcad245f-9d95-3751-9e69-d50ca399b46a",
+        "title": "Garbage", "type": "Album"}, {"artists": [{"id": "f9ef7a22-4262-4596-a2a8-1d19345b8e50",
+        "name": "Garbage"}], "id": "c87f282e-be91-4764-9700-ac31489601c3", "title":
+        "Garbage", "type": "EP"}, {"artists": [{"id": "f9ef7a22-4262-4596-a2a8-1d19345b8e50",
+        "name": "Garbage"}], "id": "fecd4728-a9fa-45a6-9e30-abf398ccd8ea", "secondarytypes":
+        ["Compilation"], "title": "Rare Track Collection", "type": "EP"}, {"artists":
+        [{"id": "f9ef7a22-4262-4596-a2a8-1d19345b8e50", "name": "Garbage"}], "id":
+        "ea0e4c98-6349-3ae6-800f-1dc6ee40b2b6", "secondarytypes": ["Compilation"],
+        "title": "The G-Side Collection", "type": "Album"}, {"id": "884c6fca-e99a-4334-b20d-7f125568c67a",
+        "secondarytypes": ["Compilation"], "title": "Hit Collection 2000", "type":
+        "Album"}], "title": "#1 Crush"}], "score": 0.892415}], "status": "ok"}'
+    http_version:
+  recorded_at: Tue, 29 Jun 2021 21:24:18 GMT
+recorded_with: VCR 3.0.3

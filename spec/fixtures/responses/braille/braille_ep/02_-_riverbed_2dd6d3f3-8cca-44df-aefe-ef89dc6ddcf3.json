@@ -1,0 +1,29 @@
+{
+  "results": [
+    {
+      "id": "31dba513-c501-4805-91ed-fe3573ff595d",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "d20cbbbb-7359-47eb-b724-a17274989b42",
+              "name": "Braille"
+            }
+          ],
+          "duration": 368,
+          "id": "068fb203-f0fd-4989-9568-8e17de714b63",
+          "releasegroups": [
+            {
+              "id": "02deedd2-3874-4db0-bd23-110019cdcfb2",
+              "title": "A Meaning",
+              "type": "EP"
+            }
+          ],
+          "title": "Riverbed"
+        }
+      ],
+      "score": 0.993167
+    }
+  ],
+  "status": "ok"
+}

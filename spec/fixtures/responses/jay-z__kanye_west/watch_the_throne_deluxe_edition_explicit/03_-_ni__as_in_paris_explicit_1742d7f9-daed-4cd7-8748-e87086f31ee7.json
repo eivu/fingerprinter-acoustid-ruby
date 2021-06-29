@@ -1,0 +1,222 @@
+{
+  "results": [
+    {
+      "id": "b4c008df-ce21-4950-b7ef-5e7f032bfb32",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "f82bcf78-5b69-4622-a5ef-73800768d9ac",
+              "joinphrase": " & ",
+              "name": "Jay-Z"
+            },
+            {
+              "id": "164f0d73-1234-4e2c-8743-d77bf2191051",
+              "name": "Kanye West"
+            }
+          ],
+          "duration": 219,
+          "id": "5212a44f-799d-4de9-a569-373632bfa616",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "f82bcf78-5b69-4622-a5ef-73800768d9ac",
+                  "joinphrase": " & ",
+                  "name": "Jay-Z"
+                },
+                {
+                  "id": "164f0d73-1234-4e2c-8743-d77bf2191051",
+                  "name": "Kanye West"
+                }
+              ],
+              "id": "a96597aa-93b4-4e14-9e6e-03892ab24979",
+              "title": "Watch the Throne",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "bb7c0b5f-617c-4e05-8a6e-8d2c22a5e7d6",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Promo Only: Mainstream Radio, December 2011",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "f82bcf78-5b69-4622-a5ef-73800768d9ac",
+                  "name": "Jay-Z"
+                }
+              ],
+              "id": "5552a11f-a6db-4641-b337-3b5c6d8ad5e3",
+              "title": "Niggas in Paris"
+            }
+          ],
+          "title": "Niggas in Paris"
+        },
+        {
+          "artists": [
+            {
+              "id": "f82bcf78-5b69-4622-a5ef-73800768d9ac",
+              "joinphrase": " feat. ",
+              "name": "Jay-Z"
+            },
+            {
+              "id": "164f0d73-1234-4e2c-8743-d77bf2191051",
+              "name": "Kanye West"
+            }
+          ],
+          "duration": 228,
+          "id": "9585b676-9880-4c61-a69b-b931080ceea6",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "f82bcf78-5b69-4622-a5ef-73800768d9ac",
+                  "name": "Jay-Z"
+                }
+              ],
+              "id": "5552a11f-a6db-4641-b337-3b5c6d8ad5e3",
+              "title": "Niggas in Paris"
+            }
+          ],
+          "title": "Niggas In Paris"
+        }
+      ],
+      "score": 0.960047
+    },
+    {
+      "id": "1844c1f9-2711-41c5-9064-bb9b1e588bb9",
+      "recordings": [
+        {
+          "id": "51deb297-769f-49e5-9200-a2f86aa2a260"
+        },
+        {
+          "artists": [
+            {
+              "id": "f82bcf78-5b69-4622-a5ef-73800768d9ac",
+              "joinphrase": " & ",
+              "name": "Jay-Z"
+            },
+            {
+              "id": "164f0d73-1234-4e2c-8743-d77bf2191051",
+              "name": "Kanye West"
+            }
+          ],
+          "duration": 219,
+          "id": "5212a44f-799d-4de9-a569-373632bfa616",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "f82bcf78-5b69-4622-a5ef-73800768d9ac",
+                  "joinphrase": " & ",
+                  "name": "Jay-Z"
+                },
+                {
+                  "id": "164f0d73-1234-4e2c-8743-d77bf2191051",
+                  "name": "Kanye West"
+                }
+              ],
+              "id": "a96597aa-93b4-4e14-9e6e-03892ab24979",
+              "title": "Watch the Throne",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "bb7c0b5f-617c-4e05-8a6e-8d2c22a5e7d6",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Promo Only: Mainstream Radio, December 2011",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "f82bcf78-5b69-4622-a5ef-73800768d9ac",
+                  "name": "Jay-Z"
+                }
+              ],
+              "id": "5552a11f-a6db-4641-b337-3b5c6d8ad5e3",
+              "title": "Niggas in Paris"
+            }
+          ],
+          "title": "Niggas in Paris"
+        },
+        {
+          "artists": [
+            {
+              "id": "f82bcf78-5b69-4622-a5ef-73800768d9ac",
+              "joinphrase": " feat. ",
+              "name": "Jay-Z"
+            },
+            {
+              "id": "164f0d73-1234-4e2c-8743-d77bf2191051",
+              "name": "Kanye West"
+            }
+          ],
+          "duration": 228,
+          "id": "9585b676-9880-4c61-a69b-b931080ceea6",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "f82bcf78-5b69-4622-a5ef-73800768d9ac",
+                  "name": "Jay-Z"
+                }
+              ],
+              "id": "5552a11f-a6db-4641-b337-3b5c6d8ad5e3",
+              "title": "Niggas in Paris"
+            }
+          ],
+          "title": "Niggas In Paris"
+        },
+        {
+          "artists": [
+            {
+              "id": "f82bcf78-5b69-4622-a5ef-73800768d9ac",
+              "joinphrase": " & ",
+              "name": "Jay-Z"
+            },
+            {
+              "id": "164f0d73-1234-4e2c-8743-d77bf2191051",
+              "name": "Kanye West"
+            }
+          ],
+          "id": "ab52ebc6-28f4-4eec-a357-dc5a9d0fab2e",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "24090467-a5c2-4ac9-91d8-f3d099a1ec69",
+                  "name": "Boy Bruynzeel"
+                }
+              ],
+              "id": "9b1089e9-0b31-4db0-be09-8679872d2ebf",
+              "secondarytypes": [
+                "DJ-mix"
+              ],
+              "title": "The Video Year Mix 2012"
+            }
+          ],
+          "title": "Ni**as in Paris"
+        }
+      ],
+      "score": 0.756659
+    }
+  ],
+  "status": "ok"
+}

@@ -1,0 +1,54 @@
+---
+http_interactions:
+- request:
+    method: get
+    uri: https://api.acoustid.org/v2/lookup?client=<ACOUSTID_CLIENT_ID>&duration=588&fingerprint=AQADtIuoUFITIcxZIRmT4wr6EM0PzsKLKe_QRX-g7ziZCqfyYMpRKznYhzgeKhnuRjLyRyG0TMqE8Exw5fiJKcmVaagkN7g1XBGaMxdC8oTOoTnK8tifoD_R7BR-9IGPHyfeCsfRLsd1vERvnDmqL_hx_bh69CxhHVo__DmeoxYjNBmHi3j0oDmPepxkPPTwozwaRtCjBF9V3Og-OC76zMJRfsUviCtqEYeOWoVe7PnwBX1KYqiM48hx_DiAqCZ8XICP40d6PJfw6Qj8QsejY0fe4-qQ48Nx6MXxWbhwXMRxHDphHmuO4yf2wwcuZVCNH8dFHMeRA8fhC8eBR_CR_sCHGyKDGz-OwxfeGIePF6dSvMDxitjTww9e6PCD49hMQv9x6kgZgd-GazjxG-m14j80pcMd5EcP-0MZ4vrRH8dnAj_6ow_yG47I4_ANHZeC44dq5MFx8KngLTiP-3hyJMgtDf1xOcXhTceF8WGQ54GGi8fNITiR44eIH_lx3FXwC94d7DGsZzjH4CJ86CEOHv7xFwY_nBtxHHl-mNmAR4e5YtQ0HA8cJ-Lg_XiORpqU4R-e4w-ak5j0KMdxPA-uob1h_Ftw3NDhqoi_Yzpl1Njj4XhT5EjSD-5llPvwH4UtHj1xhN_h3tAvvNg-_PiKK4YePMd3_PD64x9O-Ayewzt-Fl8O8cKRvfh-XMYPH0eny0F-aFaQxoyIq-CPEiGh_8gJ78ddpcCH1MyhI-2O5xG8RCNxjC0u5jh8_Yj9aCghz8WnQ_fRuA3a4yyuXELo48gd-ISY4-HRKjlRSQ924j_049uRwzHxwz3-HTk-eMye43AdPM2Oa_Fx4jJ0V7jglccPZx-clEUP_cJThHHRLh9OfNSE6lgjRN_xEd5xDs_Q4kd9WMeJj4MIVxl65mgXiMcJMcOV48SP9ziH75BD7Grgdch3_PCO9DguHD_EHz_W4zgh3MdxHMdXyIePF8cPiDze4GGIH_jwAzqsGz-Ow3Fx6HjwjceF48AJHMIFnMfxQcQJH7hxT_Bw6OfwwsALnThx_MCFI8fx4z_84_BlIWdhHPrxEV6P4x90fBFweDeOF8cPeOUBvMfx_MDxw_hx-Di-QjzO7Ijd1dgo4dSOY7_x43gu40hYHbnxHV8emMsL9jgl8Bfx44e_Dz_SH__h4yI-6DsuXCF-MPlxk4fm4yOO80F6POh-BM059Az4QTu-hEWeGt9xfPtw7YXP4wf3wZ9aJJ4R-6AWHj_cGffxBz_-DwnSFs9y4jt8Cr9k5AxZqNSRM6CIf8EDPzvS6lA1tOjSwy76Hp-y45AiH9cO_wCVbaGRB3_xw-eDesN_3EWTJxtC_niPylkhHoyVC_ckhDkRWsHJhuBRzQN7yMfxYbNwVeiP-_gz4kc-1IcbD-Fy9Dj64cLKoj4Ov8PhqsgZFT_Mg9VVHL6MHIfE9PjhHT9-GCfkVMd3HC-PS8CPw8P1Q8fXwzZ-_MdOlbjwHlcP5zt-XMePejw6HmkoobqM36ioY3MiXC-Ok0N64kd-XMIf_IKLfEdCPkV_nMfNoMen4w58vCe-I3kJR3Lw4xk2tVmh5_gEH9CP_LiHf4d3nNhzXA8OG6EqpUHyKOjh6Qo68bjeonA99MfQLxV-nMhP-HyhC79wHDcuiI_wD8cPXUd-PBaOD5527MiP5Dqso-RxDmUP13nQ4ypCmM-hscOPHse54cHx_dCLT8OPTPFx4jCPw5OQQ--QH72H68KD9Ew26BmyHxeOozrMHTl8wGuhzwbcFtHxHT88xUd-_ME5fPjR2zh6aPkm4xOix45Qgj9uuEV_lL-ME0epI_zRnMEvtNGgT8i44_i04ZGOzUeeQT-Cf4TX4z4uHQ714EWqtkMfQVGP1zmO6IfvHseNH8d__IpQazGe4z9yTQvEL5WRJ06OecoHske_TMF21MQV_XhMDtfxJibeHGFWHi2vBDkf2EceOK2gR_gn_MKUN8V3_DNsD_9xfMTx40g7vAh1osdzyC1qBW8ieTiPKT2JHqCIVkASgRQgAJkHlCHKAEQYAkwBAAR1RgCCmCJKKcMUI8wQpQQg1AFiACHGGaAMYAABhRxEhBohHlOWA0IM8EIZxpxAwDGkmBAYKEMMYIggzpAzyAqT5HJUBGAEIgZR5Kxg1hkpr1VOWGaF40ogwBwhDghLnEIJKACUIJopAIBCCGFBlFDIOsSFEYYAoygRUiolCiAGAKYEIgZQA5AxwFlAmaAMIgOIcQAaAA0CRCEAQwBGUUQBYAIAoxQCQChmEBUAiGQAFMIw4QAxAgCFCAHKCAWwQZIBgxgSBgAGmDCCGGSQEcBJB4AFSjnDCAOEACAEIgKBBMAQAAAkBSAIEI4EFEoAC5RASihBIXBAUAOABAIwahBxEghLGBWMWIAcI5RQIAkQAjkECCGCGAcEYRQQQRA3SChhGDJCSWKdFJtwhgQTRBlnqTGOcAoYMJg5J4QjwhBhhQGCOUiEAdJZawUhDghhFAPQCEYINZI4IowjhJkjAEdAMMctgkIRgYxyBgAgFVaGGIKAAwI5BQATCAohEDCKeAQMIsIIy4zRlggkLGdKGAsUUQJQAIAiBFIBjFAAEAIIAwAAJYiigCgkhHBkEQWUEogpAQCgjAghGDAKEQoNE0QowAwAlAGhLCHAACKYkkAYqpmBkAkrmDGCCOAoFAMQgARyRECAFEEAAGOBgBI4I5gixBABDJCAKQMZAFAQ46wDiBRiBCSSCcOwUgZgJgAhAAFCoVYGEMYIBoABYAiRpjQEhGHIKYOYssZAZglxyCCgACBIKhKEA4AohpwyQoiIpBEAEoCII6QZATgAghEgGDCSOuYAI0AIAyxgAgjDlABEAkGZYIAACZBFwChCBWIAAiMAUohCwwQByDEEmADCGIIIEQQZAYAAghCpACIMOAGAEAYEpxRnCAkKGBEa&meta=recordings%20releasegroups%20compress
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      Accept:
+      - "*/*"
+      User-Agent:
+      - rest-client/2.1.0 (darwin20.3.0 x86_64) ruby/2.7.1p83
+      Accept-Encoding:
+      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+      Host:
+      - api.acoustid.org
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Date:
+      - Tue, 29 Jun 2021 21:23:23 GMT
+      Content-Type:
+      - application/json; charset=UTF-8
+      Transfer-Encoding:
+      - chunked
+      Connection:
+      - keep-alive
+      Vary:
+      - Accept-Encoding
+      Access-Control-Allow-Origin:
+      - "*"
+      X-Envoy-Upstream-Service-Time:
+      - '64'
+      Strict-Transport-Security:
+      - max-age=15724800; includeSubDomains
+    body:
+      encoding: ASCII-8BIT
+      string: '{"results": [{"id": "68794079-767b-4aae-bee9-4cc157e4deff", "recordings":
+        [{"artists": [{"id": "42c14c80-bd17-47e4-9bb2-a35897638c4d", "name": "The
+        Orb"}], "duration": 474, "id": "e350ace1-5cc8-4f0d-be7b-a1fa6ae8d64c", "releasegroups":
+        [{"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various
+        Artists"}], "id": "e8511f7e-c56c-34b9-a1c4-d68222d1170d", "secondarytypes":
+        ["Compilation"], "title": "Space Night Vol. II", "type": "Album"}], "title":
+        "Earth (Gaia)"}, {"artists": [{"id": "42c14c80-bd17-47e4-9bb2-a35897638c4d",
+        "name": "The Orb"}], "duration": 588, "id": "e9c094c3-b788-46b6-b8c8-ca525f59693a",
+        "releasegroups": [{"id": "27b682b2-dd29-3e15-8ef2-f6475f4d262f", "title":
+        "The Orb\u2019s Adventures Beyond the Ultraworld", "type": "Album"}], "title":
+        "Earth (Gaia)"}], "score": 0.980565}], "status": "ok"}'
+    http_version:
+  recorded_at: Tue, 29 Jun 2021 21:23:23 GMT
+recorded_with: VCR 3.0.3

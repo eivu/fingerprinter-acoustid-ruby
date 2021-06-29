@@ -21,7 +21,7 @@ http_interactions:
       message: OK
     headers:
       Date:
-      - Tue, 29 Jun 2021 13:48:12 GMT
+      - Tue, 29 Jun 2021 21:24:00 GMT
       Content-Type:
       - application/json; charset=UTF-8
       Transfer-Encoding:
@@ -33,7 +33,7 @@ http_interactions:
       Access-Control-Allow-Origin:
       - "*"
       X-Envoy-Upstream-Service-Time:
-      - '979'
+      - '125'
       Strict-Transport-Security:
       - max-age=15724800; includeSubDomains
     body:
@@ -444,5 +444,5 @@ http_interactions:
         "title": "Entertainment Weekly: Lite Gold", "type": "Album"}], "title": "O\u2010o\u2010h
         Child"}], "score": 0.434278}], "status": "ok"}'
     http_version:
-  recorded_at: Tue, 29 Jun 2021 13:48:12 GMT
+  recorded_at: Tue, 29 Jun 2021 21:24:00 GMT
 recorded_with: VCR 3.0.3

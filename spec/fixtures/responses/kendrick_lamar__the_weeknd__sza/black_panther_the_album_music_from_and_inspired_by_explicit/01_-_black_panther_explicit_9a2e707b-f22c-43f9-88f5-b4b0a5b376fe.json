@@ -1,0 +1,53 @@
+{
+  "results": [
+    {
+      "id": "6e94c05b-3367-4b09-bde0-c5a7e0092ea1",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "381086ea-f511-4aba-bdf9-71c753dc5077",
+              "name": "Kendrick Lamar"
+            }
+          ],
+          "duration": 130,
+          "id": "6019f190-a500-4f43-896d-fdb4c88066be",
+          "releasegroups": [
+            {
+              "id": "4e317e28-e6b2-46d7-81f7-306e349b3dd4",
+              "secondarytypes": [
+                "Soundtrack"
+              ],
+              "title": "Black Panther: The Album (Music From and Inspired By)",
+              "type": "Album"
+            }
+          ],
+          "title": "Black Panther"
+        },
+        {
+          "artists": [
+            {
+              "id": "381086ea-f511-4aba-bdf9-71c753dc5077",
+              "name": "Kendrick Lamar"
+            }
+          ],
+          "duration": 130,
+          "id": "76d73a59-cebc-4c21-aec6-acf093502423",
+          "releasegroups": [
+            {
+              "id": "4e317e28-e6b2-46d7-81f7-306e349b3dd4",
+              "secondarytypes": [
+                "Soundtrack"
+              ],
+              "title": "Black Panther: The Album (Music From and Inspired By)",
+              "type": "Album"
+            }
+          ],
+          "title": "Black Panther"
+        }
+      ],
+      "score": 0.993803
+    }
+  ],
+  "status": "ok"
+}

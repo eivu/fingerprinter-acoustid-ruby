@@ -1,0 +1,40 @@
+{
+  "results": [
+    {
+      "id": "46e0c20d-94fa-4091-a7a3-181704440019",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "fc7376fe-1a6f-4414-b4a7-83f50ed59c92",
+              "joinphrase": " feat. ",
+              "name": "Flying Lotus"
+            },
+            {
+              "id": "8ed2e0b3-aa4c-4e13-bec3-dc7393ed4d6b",
+              "name": "Thom Yorke"
+            }
+          ],
+          "duration": 212,
+          "id": "04c8d85d-6aa0-4ac3-ae83-72a82474fd1d",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "fc7376fe-1a6f-4414-b4a7-83f50ed59c92",
+                  "name": "Flying Lotus"
+                }
+              ],
+              "id": "eb9e0983-2478-4494-a8e2-e4117c2ba40f",
+              "title": "Until the Quiet Comes",
+              "type": "Album"
+            }
+          ],
+          "title": "Electric Candyman"
+        }
+      ],
+      "score": 0.996491
+    }
+  ],
+  "status": "ok"
+}

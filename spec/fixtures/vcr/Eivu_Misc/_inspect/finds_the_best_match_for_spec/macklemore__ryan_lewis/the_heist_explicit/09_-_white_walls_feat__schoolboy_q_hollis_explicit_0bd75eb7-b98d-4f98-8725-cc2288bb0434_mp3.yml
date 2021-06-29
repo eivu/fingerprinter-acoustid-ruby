@@ -1,0 +1,67 @@
+---
+http_interactions:
+- request:
+    method: get
+    uri: https://api.acoustid.org/v2/lookup?client=<ACOUSTID_CLIENT_ID>&duration=220&fingerprint=AQADtOK2OhKOo2n1EFWF_0IsHoo-NFQYPI-IPEHRJKFIVI8OV0HP4VcS5PmhWUGYK7g-NFFK4nwK_7iZx4iuHVoW5HyGJm7x4EjOzEaeJiYx0cePgsqLMlGyCiGXPQkUpUe-4cePJ0r0IZKTxYLPQ0NO4RqePWjI-ehyHLtCopmyHGEnQlPSI0zeJPhjXDuuJkcphDmjQXXwBHOqFE9A7MfDBzmP50Ft2FE0o1Z24Q9-H0mTLDRCuQyaMsGn41JX4tkRJ8uJpHyDBj1-PA_ODr9y5HqIpGp-NEKf4iJ-tIc5ohkZXOGQC40P7ZUwJdQRsnOEiwlI9WiiMWmEPgJ_NF-O8GB7EX_QMA_Ch9hJfBfOHU1RJ0eeH9rjoLmCeCM-Z8h1qPyI6Am-HwyJKfLxh8ctUUH-Q1U2dUh3fLHQM8drXEcahUfShI1xnXiYwxdROgnCRFFIaMqU4mFU5FSE5olQStOQT1CYSFkQJndQn3jQo2ZSPBXmHnEuoano4M2gD-FfXMeD4zyuMCXC70iWRccl4bHRXOgfXEeYX0h21PAlOLkyVN1RppgyvXh05PGgvUaYSY8HTpGOKntgNAd4YZuaPHiU5MaRJkdSfnjgJBKPt8dlonlyhM8FHXEUvbhzvCi7Isxz_FAz5ohfeGQYPEsZHM_ROAzSQ1XCFHkkXXDEHP8IL7xw-FGEXsGFR4pR3sjFbNBe_FHwf3iyQaOOMM1xHauPK8V-4UF4aGmO_EVzCSVDo8mPPsEv5EPjrdBERQ90YTx09nieIGOv4Ek4MKIO_8lxo1doXMqR54fK5cLuoCH64hn-48c5ozlzqD_SKotQJ0OTB3d0NM9RbbTQNAnX4kf8Q0Nz4k2m4Tn-o12WCU3Fo8_RTI6RE_6MUyvGTHtwJfmCSbyKdCd0lMgzH5fG4D8eHb6UEeeP0A4aJ0PtQ1yjCP5iPFqCMFNy4UcOjUeYH8_xTvi0o1ETHbWOqskO9yN69EZzybgn5_iUD2fWosdh3giv4zn-HM-h_-gv7DkeuJKOPgsF7UhjBo0W3fiWKviR61D2B0-Qq8xwPLPgOsSq5TilInyyw62gbMyMWohNCx0TisLPIN2PFjpzvESPJj9unDn6own9QI-De9iPb0IzGb1O5FIt_Gh4TI-kIZeO_3jEFFOsI9w2i_jGHM2OvkeNpgljPJHxz_DSIk7DHCp1PEeYKpdQ5hZ-7miSWEQfIV_wQ3-EvId_fMuO_kaTLUuRBz80-whzHFdyxOWhUSrR3Av2UTgTBZr1wyYjhKKIp1GCpzdxIT-S45mFX3hQnYQrlD7-IA_DCcmP-8F3VH_QjMWF_8Mr6aj2CYf_4cQNf0LOhEgYeyh3dHrxpYV_PJ1wMYcjMRla_MEbpkfRnHh1XMvCoXmUoI0fXBo7hCtPaHEQ_qnQRDyeScGrJOiN7nhD4yEb9Eez48g5JIye4scl5Tgv-Bty6EeOa8nx6shz6MH_BaF-eNKH-2hxIT90ShR-RciP5kKlSThy3biCayvQ_GijWtAzo7skpGLD4Aocyww-acdHIW2M5Bs2jhxKduCcpcWY4zmDnRlKPwUTjshDXA7U8MWRn8WO3vAT9I9wiRZyJVmDk4NyJcaPMLO1oR6NXNeRTA0Twd_B3PiIh0bzoD_iTEHCHH8U4SKLMc1XND32zHiGLOSJLwuhH7NyB99D_PihHb5RUl9wDt9xPnizCeoxjYj_gvJMfBuHR8JzHJ8UVLxwJd2CWLyQ7EHzHPPxB-1SJ4QdBdPBoM-gt7jlBM9rPNhz_EfzEmEN9euQJw_-Y-AvTE1eoT4i6odOpgij5qiOL8clPPiN6w0SiVyK2NLxWvg_NORR6wLCZPKRbHFxR8d1NB9CTpMEjfmC7B-qOMfDF_GVQFymCzmDv5j8Dc0oHXuCM2DCvSiuH086B66JRwmuHzuaa15RxkcTaabQMUyFH2hG9C8-HTlk_UYTa0d7fFGgzDmUN4Z2Bo6DcKpw_RHiihVyHiWazEG-Qz_-IMyn4w4LV0Sd5DkehHnQU7hwKk9wJbWCHj40bfiF2NLxHxdKMkcYHR9raE74IKeCX7COowmNR4yDB-Gh5YjF6MGpHf_xo12GpmKIL0Q9VviOPsH1FJ-kNMKn5ELtwDjC7nhG4T-eCzrR0EmH6UPDJAyFj4e_VDicLVEOUeUROuGDXcmMo3lQUieeIc-PpLfQ54K5Yk9oNAyP6wgTS4F25MrwK7idYNKJlOjxPPgD9ce3HFN0BZVfXDy0UFqO2sWJ8EfTpMdJHXkzD7sOTZfRPDg3PIUW_agcUkGeowl1dI6CiJQL_UPa4z34uHB2jAmZMcKVYA-LZiaynCb0kMcPvceTI_bxYyJMBhN_fJFucG0YYQ9ehKSHhFFOXPDD48cnbI_x_EFVDteC_EOiE80DpruGM08xJiSP83h-TGdBXUGfI3_xpMmUFM9e3A9yRN9dlBDvFqG3Y0-LU-LBHZc_lOF1-NmLq9qC_kGs4YmMUDn8uCil48HBH82zXKiZaChdhEmSKIwMTc0FV7lQ8sdHC0_DoYlOaFaCJ8h1HP2F5sKs7fjGI4wyQTuDvMd4_IMrBVeLXJTQh9DCq9h541KiQIszDrWkI05DVLLQpsVv5DOSOzg14UPv4CfhSiiP80FydkL-BxdPVM1TeEcf4sL_4ZeKamtx-EOfITxEykOeG6cbwTyO6_iEKwr-HWVu5CS-YA9O-Hh67GLw8Wi6cBn0owl9XAFCggDOEMPAQJoowQggQCAMACBKGKcAEQ4YABxFQBJAAOMMAAQEQ4gRAgwCAHrAgDCECWiIAEoQgwxQjDKCCAAECQIACIgjAAUCBCohAFGICIOFE5YJgYhAAnBAGACGACAARAIphAgiChAqATKCcaKYIoIATkAjSBEDABIIEgPAYAIywASxBiBADJOAKWCYMIIYBABIACICiGUABCGYIBAYAIQRTgBhBEAMGGAMucogYAwWEADkgCHMIAMIIIQBA4BwgkkgBGWAGGEEQAw5KYCQAggkAJKCCCOAIEswQAwAgCAAADAIggkQI4YhYQgQCgAgCGBeCcEMIAIAAYgBTCAnLEIMOmAEM5QZAAACQgAimAGMIEEEEUYAAAQ0TigFjDAGGOcAI0AwZQQAQAjDFFGCIIGEEMACpBkihgCCACCAIGIZQ2Ipw4AjSCghhAEACSBEEc4o4QRBwCFDHCBICCAAEIQYAoQDBDDiDAADGAUIA6AAIAREEAhghBAEKEgUYcgIoxwjAgFkBFIUEQEUFUAYKwAihBABCEBCOKUgAkoaAIAS0BgIgGAMOEIAMMwhoKQCzjDDrRJAICSENAIhJIARkAgBIGDCIAGcEEAJg4hyhAgkACBGCEAYQ4gYpQQQQgHimFHAEUAQARoQhAhhTAIhIEJCEAAMYYARQR0ARDhDICCCeUcAAQACCIQBQEMkIhHECUIAI04IAAQgMjAgCIBQIwO0EUIYQxggAAkiiAMKKISQYIICIQwBBgnjBDJAAAaMBFYg5LABijECkBAIGGIIQMZRQBDQgjIDmLQWEEGUhAAwIIBCBBggmBAGEEA8EIAQJAggAACBFCAEIQKKAkIYAgwQzihQDFXACIQsUkooYgSBhCHoQAPKGgKAIEgYJwwQRhBRCWIIAIKsQgIYIJxAVBgGEFIAAg&meta=recordings%20releasegroups%20compress
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      Accept:
+      - "*/*"
+      User-Agent:
+      - rest-client/2.1.0 (darwin20.3.0 x86_64) ruby/2.7.1p83
+      Accept-Encoding:
+      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+      Host:
+      - api.acoustid.org
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Date:
+      - Tue, 29 Jun 2021 21:22:12 GMT
+      Content-Type:
+      - application/json; charset=UTF-8
+      Transfer-Encoding:
+      - chunked
+      Connection:
+      - keep-alive
+      Vary:
+      - Accept-Encoding
+      Access-Control-Allow-Origin:
+      - "*"
+      X-Envoy-Upstream-Service-Time:
+      - '103'
+      Strict-Transport-Security:
+      - max-age=15724800; includeSubDomains
+    body:
+      encoding: ASCII-8BIT
+      string: '{"results": [{"id": "17a4d7ab-a877-45ae-9902-8d0029d69019", "recordings":
+        [{"artists": [{"id": "97b226c8-7140-4da3-91ac-15e62e131a81", "joinphrase":
+        " feat. ", "name": "Macklemore & Ryan Lewis"}, {"id": "bce6d667-cde8-485e-b078-c0a05adea36d",
+        "name": "ScHoolboy Q"}], "duration": 217, "id": "28255062-0bfe-4439-a26e-816f9d733a4c",
+        "releasegroups": [{"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "d42c1ad2-4543-4644-93af-a4acd0fea3db",
+        "secondarytypes": ["Compilation"], "title": "Promo Only: Mainstream Radio,
+        October 2013", "type": "Album"}], "title": "White Walls (Promo Only clean
+        edit)"}, {"artists": [{"id": "97b226c8-7140-4da3-91ac-15e62e131a81", "joinphrase":
+        " feat. ", "name": "Macklemore & Ryan Lewis"}, {"id": "bce6d667-cde8-485e-b078-c0a05adea36d",
+        "joinphrase": " & ", "name": "ScHoolboy Q"}, {"id": "c020936a-65d2-486b-9f0e-d9d69d0b00a0",
+        "name": "Hollis"}], "duration": 220, "id": "6790b014-44aa-4179-99e8-028c2c55b83a",
+        "releasegroups": [{"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "0c2fdbce-04a5-4c91-bf7b-cb9670b0a7e3",
+        "secondarytypes": ["Compilation"], "title": "Bravo Hits 84", "type": "Album"},
+        {"artists": [{"id": "b6d7ec94-830c-44dd-b699-ce66556b7e55", "joinphrase":
+        " & ", "name": "Macklemore"}, {"id": "c01560d1-6f69-48cf-a3c6-c94b65f099b1",
+        "joinphrase": " feat. ", "name": "Ryan Lewis"}, {"id": "bce6d667-cde8-485e-b078-c0a05adea36d",
+        "joinphrase": " & ", "name": "Schoolboy Q"}, {"id": "c020936a-65d2-486b-9f0e-d9d69d0b00a0",
+        "name": "Hollis"}], "id": "c63368ef-9a91-4597-b052-fca291f02459", "title":
+        "White Walls", "type": "Single"}, {"artists": [{"id": "97b226c8-7140-4da3-91ac-15e62e131a81",
+        "name": "Macklemore & Ryan Lewis"}], "id": "22315cdd-4ed9-427c-9492-560cf4afed58",
+        "title": "The Heist", "type": "Album"}], "title": "White Walls"}], "score":
+        0.963476}], "status": "ok"}'
+    http_version:
+  recorded_at: Tue, 29 Jun 2021 21:22:12 GMT
+recorded_with: VCR 3.0.3

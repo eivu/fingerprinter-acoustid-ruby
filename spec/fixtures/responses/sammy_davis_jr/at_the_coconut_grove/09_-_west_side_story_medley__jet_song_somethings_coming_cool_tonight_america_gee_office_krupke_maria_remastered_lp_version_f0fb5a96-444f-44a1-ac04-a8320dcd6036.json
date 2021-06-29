@@ -1,0 +1,28 @@
+{
+  "results": [
+    {
+      "id": "21c7d6e0-c2d3-4ccd-8c26-7576c2952ea8",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "4bc9e8c3-7eae-454f-a56c-bccf96f3926b",
+              "name": "Sammy Davis Jr."
+            }
+          ],
+          "duration": 298,
+          "id": "64951154-7f2c-4ceb-b3e2-a6c23dcd15d1",
+          "releasegroups": [
+            {
+              "id": "6fac76ed-b861-3519-9df3-04355946ec58",
+              "title": "At the Cocoanut Grove"
+            }
+          ],
+          "title": "West Side Story Medley: Jet Song / Something's Coming / Cool / Tonight / A-Me-Ri-Ca / Gee / Officer Krupke / Maria"
+        }
+      ],
+      "score": 0.997429
+    }
+  ],
+  "status": "ok"
+}

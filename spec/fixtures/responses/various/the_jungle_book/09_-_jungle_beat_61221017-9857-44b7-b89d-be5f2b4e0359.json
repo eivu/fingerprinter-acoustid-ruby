@@ -1,0 +1,153 @@
+{
+  "results": [
+    {
+      "id": "ff05c57f-9019-461d-859a-184434aa8023",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "c47026a1-3300-4cf7-80df-8b9462a884e4",
+              "joinphrase": " & ",
+              "name": "Richard M. Sherman"
+            },
+            {
+              "id": "d378dedb-444f-48f5-a6e6-3e8e31ef6c14",
+              "name": "Robert B. Sherman"
+            }
+          ],
+          "duration": 81,
+          "id": "18dbaba8-27ab-4272-8fca-79c1f98fef32",
+          "releasegroups": [
+            {
+              "id": "094618e5-1dde-3f3e-a2fd-cefec8929675",
+              "secondarytypes": [
+                "Soundtrack"
+              ],
+              "title": "Das Dschungelbuch",
+              "type": "Album"
+            }
+          ],
+          "title": "Dschungelbeat"
+        },
+        {
+          "artists": [
+            {
+              "id": "4204e06b-d2e4-4823-b6f3-47f7593518cb",
+              "name": "George Bruns"
+            }
+          ],
+          "duration": 81,
+          "id": "86557993-d6fb-487a-8304-b4e7d474bb52",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "4204e06b-d2e4-4823-b6f3-47f7593518cb",
+                  "joinphrase": ", ",
+                  "name": "George Bruns"
+                },
+                {
+                  "id": "0a8df504-df94-4d77-a3c5-2b9e5c9727e2",
+                  "joinphrase": ", ",
+                  "name": "Terry Gilkyson"
+                },
+                {
+                  "id": "c47026a1-3300-4cf7-80df-8b9462a884e4",
+                  "joinphrase": " & ",
+                  "name": "Richard M. Sherman"
+                },
+                {
+                  "id": "d378dedb-444f-48f5-a6e6-3e8e31ef6c14",
+                  "name": "Robert B. Sherman"
+                }
+              ],
+              "id": "44243185-02f8-4901-bfd2-1551bf42823d",
+              "secondarytypes": [
+                "Soundtrack"
+              ],
+              "title": "Le Livre de la jungle",
+              "type": "Album"
+            }
+          ],
+          "title": "Le Rythme de la jungle (instrumental)"
+        },
+        {
+          "artists": [
+            {
+              "id": "4204e06b-d2e4-4823-b6f3-47f7593518cb",
+              "name": "George Bruns"
+            }
+          ],
+          "duration": 82,
+          "id": "91f7a1c2-6481-4857-8c1d-58b05c2e7e01",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "4204e06b-d2e4-4823-b6f3-47f7593518cb",
+                  "joinphrase": ", ",
+                  "name": "George Bruns"
+                },
+                {
+                  "id": "c47026a1-3300-4cf7-80df-8b9462a884e4",
+                  "joinphrase": " & ",
+                  "name": "Richard M. Sherman"
+                },
+                {
+                  "id": "d378dedb-444f-48f5-a6e6-3e8e31ef6c14",
+                  "joinphrase": ", ",
+                  "name": "Robert B. Sherman"
+                },
+                {
+                  "id": "0a8df504-df94-4d77-a3c5-2b9e5c9727e2",
+                  "name": "Terry Gilkyson"
+                }
+              ],
+              "id": "1257fcdf-743f-3dff-9894-107b398fb777",
+              "secondarytypes": [
+                "Soundtrack"
+              ],
+              "title": "The Jungle Book: Original Cast Soundtrack",
+              "type": "Album"
+            }
+          ],
+          "title": "Jungle Beat"
+        }
+      ],
+      "score": 0.977819
+    },
+    {
+      "id": "01f86997-72b1-4637-8bce-977f3301fc25",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "c47026a1-3300-4cf7-80df-8b9462a884e4",
+              "joinphrase": " & ",
+              "name": "Richard M. Sherman"
+            },
+            {
+              "id": "d378dedb-444f-48f5-a6e6-3e8e31ef6c14",
+              "name": "Robert B. Sherman"
+            }
+          ],
+          "duration": 81,
+          "id": "18dbaba8-27ab-4272-8fca-79c1f98fef32",
+          "releasegroups": [
+            {
+              "id": "094618e5-1dde-3f3e-a2fd-cefec8929675",
+              "secondarytypes": [
+                "Soundtrack"
+              ],
+              "title": "Das Dschungelbuch",
+              "type": "Album"
+            }
+          ],
+          "title": "Dschungelbeat"
+        }
+      ],
+      "score": 0.928164
+    }
+  ],
+  "status": "ok"
+}

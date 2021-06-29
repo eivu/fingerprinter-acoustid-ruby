@@ -1,0 +1,50 @@
+{
+  "results": [
+    {
+      "id": "1702f8a0-f1fc-446a-a12a-6f4c65c9e448",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "056e4f3e-d505-4dad-8ec1-d04f521cbb56",
+              "name": "Daft Punk"
+            }
+          ],
+          "duration": 294,
+          "id": "15a30807-73e2-45ad-ad81-6e978686ab9c",
+          "releasegroups": [
+            {
+              "id": "1fd2e0fe-90f6-35ca-92c0-d816ab3bb79c",
+              "secondarytypes": [
+                "Remix"
+              ],
+              "title": "Daft Club",
+              "type": "Album"
+            }
+          ],
+          "title": "Face to Face (Cosmo Vitelli remix)"
+        },
+        {
+          "artists": [
+            {
+              "id": "056e4f3e-d505-4dad-8ec1-d04f521cbb56",
+              "name": "Daft Punk"
+            }
+          ],
+          "duration": 293,
+          "id": "b3e6c7f5-12a5-494f-80fd-a590699ff9b1",
+          "releasegroups": [
+            {
+              "id": "c5afe0db-56f0-3af8-bc00-bf8b2aeaa40e",
+              "title": "Face to Face",
+              "type": "Single"
+            }
+          ],
+          "title": "Face to Face (Cosmo Vitelli remix)"
+        }
+      ],
+      "score": 0.994912
+    }
+  ],
+  "status": "ok"
+}

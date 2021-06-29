@@ -1,0 +1,29 @@
+{
+  "results": [
+    {
+      "id": "30c26477-4cd4-4d67-a39f-95a5a40b0e46",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "42c14c80-bd17-47e4-9bb2-a35897638c4d",
+              "name": "The Orb"
+            }
+          ],
+          "duration": 716,
+          "id": "5bdb3b6f-b16f-494b-8b5e-03526a51053d",
+          "releasegroups": [
+            {
+              "id": "27b682b2-dd29-3e15-8ef2-f6475f4d262f",
+              "title": "The Orb’s Adventures Beyond the Ultraworld",
+              "type": "Album"
+            }
+          ],
+          "title": "Supernova at the End of the Universe"
+        }
+      ],
+      "score": 0.960406
+    }
+  ],
+  "status": "ok"
+}

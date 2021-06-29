@@ -21,7 +21,7 @@ http_interactions:
       message: OK
     headers:
       Date:
-      - Tue, 29 Jun 2021 13:33:04 GMT
+      - Tue, 29 Jun 2021 21:19:43 GMT
       Content-Type:
       - application/json; charset=UTF-8
       Transfer-Encoding:
@@ -33,7 +33,7 @@ http_interactions:
       Access-Control-Allow-Origin:
       - "*"
       X-Envoy-Upstream-Service-Time:
-      - '122'
+      - '925'
       Strict-Transport-Security:
       - max-age=15724800; includeSubDomains
     body:
@@ -120,5 +120,5 @@ http_interactions:
         "secondarytypes": ["Compilation"], "title": "Total Hits, Volume 1", "type":
         "Album"}], "title": "Criminal"}], "score": 0.989042}], "status": "ok"}'
     http_version:
-  recorded_at: Tue, 29 Jun 2021 13:33:04 GMT
+  recorded_at: Tue, 29 Jun 2021 21:19:43 GMT
 recorded_with: VCR 3.0.3

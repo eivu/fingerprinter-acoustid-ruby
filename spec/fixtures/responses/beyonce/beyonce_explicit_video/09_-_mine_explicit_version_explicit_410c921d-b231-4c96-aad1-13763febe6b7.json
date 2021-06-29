@@ -1,0 +1,69 @@
+{
+  "results": [
+    {
+      "id": "3789a49b-9cd2-45aa-bf35-8683bdbacaeb",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "859d0860-d480-4efd-970c-c05d5f1776b8",
+              "joinphrase": " feat. ",
+              "name": "Beyoncé"
+            },
+            {
+              "id": "9fff2f8a-21e6-47de-a2b8-7f449929d43f",
+              "name": "Drake"
+            }
+          ],
+          "duration": 378,
+          "id": "09a438dd-fd68-4cf4-b4e6-9cf51fc23e8f",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "859d0860-d480-4efd-970c-c05d5f1776b8",
+                  "name": "Beyoncé"
+                }
+              ],
+              "id": "8596171e-23b2-4bdd-8f1c-11960df0ecbe",
+              "title": "BEYONCÉ",
+              "type": "Album"
+            }
+          ],
+          "title": "Mine"
+        },
+        {
+          "artists": [
+            {
+              "id": "859d0860-d480-4efd-970c-c05d5f1776b8",
+              "joinphrase": " feat. ",
+              "name": "Beyoncé"
+            },
+            {
+              "id": "9fff2f8a-21e6-47de-a2b8-7f449929d43f",
+              "name": "Drake"
+            }
+          ],
+          "duration": 378,
+          "id": "36772797-4d48-49af-bde4-0f12c80492d8",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "859d0860-d480-4efd-970c-c05d5f1776b8",
+                  "name": "Beyoncé"
+                }
+              ],
+              "id": "8596171e-23b2-4bdd-8f1c-11960df0ecbe",
+              "title": "BEYONCÉ",
+              "type": "Album"
+            }
+          ],
+          "title": "Mine"
+        }
+      ],
+      "score": 0.966179
+    }
+  ],
+  "status": "ok"
+}

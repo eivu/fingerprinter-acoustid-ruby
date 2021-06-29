@@ -1,0 +1,40 @@
+{
+  "results": [
+    {
+      "id": "449b013a-f4ac-46f4-8343-5a9d892ae9ba",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "fc7376fe-1a6f-4414-b4a7-83f50ed59c92",
+              "joinphrase": " feat. ",
+              "name": "Flying Lotus"
+            },
+            {
+              "id": "69d8a18e-e182-4a9f-9e31-e5c0767340e1",
+              "name": "Niki Randa"
+            }
+          ],
+          "duration": 109,
+          "id": "cd398e60-5921-423b-80b7-0cd9b69cabe7",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "fc7376fe-1a6f-4414-b4a7-83f50ed59c92",
+                  "name": "Flying Lotus"
+                }
+              ],
+              "id": "eb9e0983-2478-4494-a8e2-e4117c2ba40f",
+              "title": "Until the Quiet Comes",
+              "type": "Album"
+            }
+          ],
+          "title": "Getting There"
+        }
+      ],
+      "score": 0.965632
+    }
+  ],
+  "status": "ok"
+}

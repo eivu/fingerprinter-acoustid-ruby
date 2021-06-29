@@ -1,0 +1,29 @@
+{
+  "results": [
+    {
+      "id": "c625b226-27d0-4fd9-8ff1-db145501aa3b",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "fc7376fe-1a6f-4414-b4a7-83f50ed59c92",
+              "name": "Flying Lotus"
+            }
+          ],
+          "duration": 99,
+          "id": "47feb465-5b97-4085-bc62-41390cc61230",
+          "releasegroups": [
+            {
+              "id": "eb9e0983-2478-4494-a8e2-e4117c2ba40f",
+              "title": "Until the Quiet Comes",
+              "type": "Album"
+            }
+          ],
+          "title": "Dream to Me"
+        }
+      ],
+      "score": 0.950231
+    }
+  ],
+  "status": "ok"
+}

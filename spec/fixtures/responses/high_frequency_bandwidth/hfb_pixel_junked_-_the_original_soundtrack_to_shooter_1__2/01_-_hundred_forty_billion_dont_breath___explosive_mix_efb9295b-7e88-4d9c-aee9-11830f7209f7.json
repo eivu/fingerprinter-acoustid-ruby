@@ -1,0 +1,47 @@
+{
+  "results": [
+    {
+      "id": "338ef560-82ae-49eb-bede-ce738c504d16",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "9ddfc28e-9869-429e-8200-567dcf5ef008",
+              "name": "High Frequency Bandwidth"
+            }
+          ],
+          "duration": 317,
+          "id": "b027f7e2-dee0-4e2f-9e22-16f432d8093c",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "4a9ae90e-1488-482f-937a-8578d09c8bfc",
+              "secondarytypes": [
+                "Compilation",
+                "Soundtrack"
+              ],
+              "title": "Vocal Pack",
+              "type": "Album"
+            },
+            {
+              "id": "6e99b843-94e4-4ead-aa69-4ef2c29b63f2",
+              "secondarytypes": [
+                "Soundtrack"
+              ],
+              "title": "HFB: PixelJunked - The Original Soundtrack to Shooter 1 + 2",
+              "type": "Album"
+            }
+          ],
+          "title": "Hundred Forty Billion (Don't Breath / Explosive mix)"
+        }
+      ],
+      "score": 0.989392
+    }
+  ],
+  "status": "ok"
+}

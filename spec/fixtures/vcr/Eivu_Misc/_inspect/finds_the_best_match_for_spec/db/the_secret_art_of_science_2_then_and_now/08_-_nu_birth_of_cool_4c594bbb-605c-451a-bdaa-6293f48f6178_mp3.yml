@@ -1,0 +1,49 @@
+---
+http_interactions:
+- request:
+    method: get
+    uri: https://api.acoustid.org/v2/lookup?client=<ACOUSTID_CLIENT_ID>&duration=207&fingerprint=AQADtEoiTvoUTOpRwzHz4RsaR3hwJMuHfIeFa_hxcQ5-HL6QjEVuC6204_rxwzv-4AkP_PDxH9uPrIouKNOmJAjgHS1OHkfzFP3Qo5mKU6htDX6PH8eF79jxgPoRHal5_Pjxw_iPHz7MvLjQIL-G5EmDfyh5_Bb8JcIT7XiyfMB_PA6LnFCeN8jUNEKbTZiPo_vhu7jwB801PMmSIxmTG_mHniLxHn2x6VmJWjm47jgmyj58BrbQD8l0IT2P77BMXMePv3iOozmSazvyC7324xoPXMd_PONx4zh8YbIfZOGkHMo6BjkO80bZ4fnQG82DF81R48LnVGh-_DgePMJ-0CT8Y3BwCT9--Dj-wx0L6zpOND-S58iz47rQ38N_wuSOS5SEJ_twXEKX3MOfIYmeI0uaJsa14VeKoz2akSlWYHsyHA-RU4f2w0flWriUJEjmO7AKPjNGHc5TlNrRaOnROUmQbEcuNMuy4LyCh7qCo0dzPEHSHPNjgVt2lAr844d-iGFyPC8yLe8xkdnxD54yH88rhKweJNRxHZXCZcUVPcL14Ggu9DmOPKdw9ej4wC_6QEd-PEqWFQ8v_IHP44ySFU_CC_mD5BF65mi4HF-e4NyFh2he9MFf_LgYWUHhSMeT0EjqI9WHOw-edESzxMb74D-sVIrx6AqS50Eu9IzRLNzxRMkV_MHhMyyeHrmP0cSnsPhxPegDSQ2FfMoD_vCLaUYLT4mW4RfSWIP2C6HQLFTw5bi0B2cOnzhzTDmRF02IH0fXHeIZge-RqcpwKpiO5ifaJGF2XEd4JHw7vILlUUKlRLgSF31moTkTvIh0giHOsbiEo1YgVsWzI1OVo7uH9the1Eke_AhzQ1uR62iO-viSo0fDFfsRRj3Rg0l_9MF3HM2loVOiQZfxC1mSj8W0HPWOJwkq60d4HVqO_LgSKscVPcE_9CP8YAKZKscVTYmDS3haHOWNpo6O5w5y5kh0NEmZHdNR7whz6ImR6-hx3cd96Erh5ugbBr6OkUzx9MI6Hb-L6JcCjVFeHKL4IO0WWN4xPfiDRx-eRMhlB3qK-LBCfMGVOsJzoTn2oAS3TMmFR5mOS_jxdETzaqhTOfiN5MiyEs2z7IiuHGKMPAnO6_iF7jG-0Yc-PEdTtegfTClTvNvx6cfn40euK4VGKYaoHXlqPDrWBxWe4dXx6EK-NEgeo_mOSsQTTcL94OkwnWgOlsSTRMmDiyZu4ig7mLkmo000HXlPJJpheRn2I5l3hMlxXsEvFb1h6WmONEbyCK6Yo6cDX8dIJjQe5lgVHb9DRL8EjdkLfbD2IE-Df5iO48cT5ApjqFdi5LNghcWX44or_OhTbAdDHl8U6XiUubjw4-kWtGvRNJWN50FyZFmJKc-yI1cOMQ3iPsHP4kenx7jpI_mQOkf9og-mlCneaMf3Y5-P_UiuK0UpBaKOPN1w5zgmHSfefHjEI_nSIPqMPmgiFk8SF6fc4C0OJkfZHXuyJMesS7jx7ug1mPHRJqoYxOqR6LC8DDuPZB7CPPiX4ken4--RI3mSwzV6psF2HScTGg_D44pwh8gvQWOUF2KHL3WQdoTlHdNx4fLx5MgjxVAfI1cMJ2HxnLhSD-eDh8F0NA84JVpyPMpE4gp-3DvKw0wuyWgjPkicIzumPDxiDlqOPAnO6_iFTo-P01A52EGt1mhi5UEpGmuWHvuKH78RqbpS6AxE8chN4TmmFceT4cmRK9kDnSlyoYnRJTEuZQ-erxh_405AHdeUfJiTTA924cF59BvMiInRJnqKvEg0w_Jy7EjmHWEe_Av-o9Od4E-P3EieBE19nAkDX8dIJjQuhTmuY76LyLoUaIzyQuzwfEHu4Md0HM_xREfuTAmSU_jhKDuuHHclPEuFfsV2MFJ3PGEy4hE__DgeZmiuCH3l4DcEZiWmPMuRD2KKuA_-pfjR6Q3uI_mQOketFs31YBKZ4kwvXMfv4pcihNULXQrc46yhO0N_HHuy43lxccUepvjRVxGaQ7jE4xOTItzkCUyiGyf2B-GPPpahHFVCcnCWJFHAUDoO_Zhy4TWechAr_Uhz4al--Jj44nnwHM179DyG9wjj-RAjSbIQ9qLwvEHTF_3xoz4-qjiPjScukYMvIbEvZId3CfV-XLnxH9MFq0e8Q7MelMqFP3gH-fg_pLzxI-2N9RCjqchMZcd-I90n4twhH19ZpCE-XFyOE889vMejHF91JJ-Qhjs-wztRKcpxNMez4CfOV4juQB9cxUBAHWfCH6l59CkqB8106MajGM1R_vgYZNXKCHkOLd-MPsW-IX7wyjxKOMvxo8evMOh3WNqR97BzQl-UHD07HI2Tozbeo7MEjyzaH7GKOvngcIeVJ_gOTyf6BD9uNOOSI3xmjDueg0mV4RLxHTtK6QhPivCPnSitVMgJxnKhH-klEeOFH52PkoKPR7qQ38L54EsHK4L_QGeMF6d2-Dgv5FFwfSkcPah2CzNj1DKsJjr4o_zxTSIRHp6CXRd67Cl-aF5gZ9dwSk7w9OgHR1mQXA6Dh85wPiA_OD-eHG-JPxKS3QnCcDluHS_6ZEey3AryV0KnHj7-GN-FR4fGPNiH_4F_HWERoiQIZxwhAmJhABHAEYmAAQRiQgQCiBCnEgEDCAOBQ4YYBIQCgApnKAAUaOCUE0ghIgQBCAgDCEYGUoMQEwIgooQSlChiHRJASECUNIhABJwRBijCABBEEKeAMU5YcogARTCnEPFKAGYBYIYoBBQFDlnhDBDCKCIAAoQJQwiABAnLAYFEEMNQAE4QoAAGgAhjAHTEAEAaYAwoYpwhSjEgBGDGGAAIM0QgAw0BZACglCKOAiKMgEAQAoxSAiiBAKCIAEKkEMgAgBAhAACCEHGEAIEQBUwIJBRASABDCECMEIGAYQIQhKgjighBrAeOEIeAIwI4AQRWRhgJDJKKEe0EckgIEwRABgsAqGCKEECAYgoYIphhAgHQmEAICESFAlQLY4UAwBAqgFCEGCIMcghBYJwgAhpAGFEGCMIZEgA5AIQAHBhAHAGCKCkMIIIAgxAkhBkqlCOEOOYEEcBQQYwgTAQggFNAAkSUAoAgAYRCBAlCEFFGEGmBIAIwAAlDCjgABGhIGAeAMMAgQyQAgkhgAREIACSgINIgI5wjhhiFkACMYgKIYQQwQYkTEhkiHUBCESiAAAoIbAwSSFrAiDOGGUAYoAIQARoQgAChCECQAwOIA4ABJBk1hgBlqAGMOAEQA4IRBAAkgGhGkEICOSCRIQ4AYIQiigEhECLGICQMRdI6ZpCBgiiCECPAGCGYEkMBIgEyBhkiBbBEAiEIIoYgowATREBhAJGAOCMQMUBYKARBBpJIMENCAAAIVoQxApgBiCAhBAFEQIYIg0QA5owwBgFAAIMAEEaJIJAIQJAAADhLDAAOEEIMIAwpoRBCDFgigAQDAMSAZEQIgxQShAigGMFAEMMMQAIIYgQjRAAAAAFImSAIkM4grIQxhgAECIWAGiCEE0wQw4SgBCkmCACKEAGwkNZRAxAQBCjgHBPEEIYYAVIIRQRACkhjEAQIAAKEAA&meta=recordings%20releasegroups%20compress
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      Accept:
+      - "*/*"
+      User-Agent:
+      - rest-client/2.1.0 (darwin20.3.0 x86_64) ruby/2.7.1p83
+      Accept-Encoding:
+      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+      Host:
+      - api.acoustid.org
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Date:
+      - Tue, 29 Jun 2021 21:18:09 GMT
+      Content-Type:
+      - application/json; charset=UTF-8
+      Transfer-Encoding:
+      - chunked
+      Connection:
+      - keep-alive
+      Vary:
+      - Accept-Encoding
+      Access-Control-Allow-Origin:
+      - "*"
+      X-Envoy-Upstream-Service-Time:
+      - '102'
+      Strict-Transport-Security:
+      - max-age=15724800; includeSubDomains
+    body:
+      encoding: ASCII-8BIT
+      string: '{"results": [{"id": "dee53639-2472-476f-bdbe-0f4f1ee7c7d2", "recordings":
+        [{"artists": [{"id": "022b58ea-6098-411d-b88a-652821d4c191", "name": "DJ DB"}],
+        "duration": 207, "id": "8f2cc73e-1035-4712-946b-8bbe4af9d033", "releasegroups":
+        [{"id": "c4ec56dc-8c9d-4079-b899-a096beffdcc0", "title": "The Secret Art Of
+        Science 2", "type": "Album"}], "title": "Nu Birth of Cool"}], "score": 0.989228}],
+        "status": "ok"}'
+    http_version:
+  recorded_at: Tue, 29 Jun 2021 21:18:09 GMT
+recorded_with: VCR 3.0.3

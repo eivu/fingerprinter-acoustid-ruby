@@ -1,0 +1,40 @@
+{
+  "results": [
+    {
+      "id": "760ba522-26af-41e2-aa9d-aca683e00c10",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "859d0860-d480-4efd-970c-c05d5f1776b8",
+              "joinphrase": " feat. ",
+              "name": "Beyoncé"
+            },
+            {
+              "id": "e520459c-dff4-491d-a6e4-c97be35e0044",
+              "name": "Frank Ocean"
+            }
+          ],
+          "duration": 276,
+          "id": "bd3140b8-09f4-4348-bd26-333e4cbc3d79",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "859d0860-d480-4efd-970c-c05d5f1776b8",
+                  "name": "Beyoncé"
+                }
+              ],
+              "id": "8596171e-23b2-4bdd-8f1c-11960df0ecbe",
+              "title": "BEYONCÉ",
+              "type": "Album"
+            }
+          ],
+          "title": "Superpower"
+        }
+      ],
+      "score": 0.962553
+    }
+  ],
+  "status": "ok"
+}

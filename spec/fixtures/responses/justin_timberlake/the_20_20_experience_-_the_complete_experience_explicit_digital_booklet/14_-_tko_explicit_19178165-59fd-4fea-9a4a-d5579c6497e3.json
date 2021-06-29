@@ -1,0 +1,89 @@
+{
+  "results": [
+    {
+      "id": "418669b6-84bd-4f67-94ee-fb2d12761ffc",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "596ffa74-3d08-44ef-b113-765d43d12738",
+              "name": "Justin Timberlake"
+            }
+          ],
+          "duration": 424,
+          "id": "0652e097-d48e-4934-9a1b-c5649f5e98b8",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "596ffa74-3d08-44ef-b113-765d43d12738",
+                  "name": "Justin Timberlake"
+                }
+              ],
+              "id": "7cc6c164-bd3d-4920-9342-9cb8cd87d8de",
+              "title": "The 20/20 Experience (2 of 2)",
+              "type": "Album"
+            },
+            {
+              "id": "fe51b20f-83e4-49dd-9a36-b8d4da138325",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "The Complete 20/20 Experience",
+              "type": "Album"
+            }
+          ],
+          "title": "TKO"
+        },
+        {
+          "artists": [
+            {
+              "id": "596ffa74-3d08-44ef-b113-765d43d12738",
+              "name": "Justin Timberlake"
+            }
+          ],
+          "duration": 424,
+          "id": "1cd56799-2398-4bb9-98b7-5967a293c6de",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "596ffa74-3d08-44ef-b113-765d43d12738",
+                  "name": "Justin Timberlake"
+                }
+              ],
+              "id": "5b618c9f-13d2-4fd4-b356-235898708a39",
+              "title": "TKO",
+              "type": "Single"
+            },
+            {
+              "artists": [
+                {
+                  "id": "596ffa74-3d08-44ef-b113-765d43d12738",
+                  "name": "Justin Timberlake"
+                }
+              ],
+              "id": "7cc6c164-bd3d-4920-9342-9cb8cd87d8de",
+              "title": "The 20/20 Experience (2 of 2)",
+              "type": "Album"
+            },
+            {
+              "id": "fe51b20f-83e4-49dd-9a36-b8d4da138325",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "The Complete 20/20 Experience",
+              "type": "Album"
+            }
+          ],
+          "title": "TKO"
+        },
+        {
+          "id": "62f22bc3-0eee-4c44-8a2b-e0faedb16078"
+        }
+      ],
+      "score": 0.97675
+    }
+  ],
+  "status": "ok"
+}

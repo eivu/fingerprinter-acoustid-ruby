@@ -1,0 +1,29 @@
+{
+  "results": [
+    {
+      "id": "6bb38c5d-0429-4dcc-b83d-787c312af0ab",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "fc7376fe-1a6f-4414-b4a7-83f50ed59c92",
+              "name": "Flying Lotus"
+            }
+          ],
+          "duration": 103,
+          "id": "a4ae3696-5a13-4bc6-8705-14d5666eaabe",
+          "releasegroups": [
+            {
+              "id": "eb9e0983-2478-4494-a8e2-e4117c2ba40f",
+              "title": "Until the Quiet Comes",
+              "type": "Album"
+            }
+          ],
+          "title": "Only If You Wanna"
+        }
+      ],
+      "score": 0.928949
+    }
+  ],
+  "status": "ok"
+}

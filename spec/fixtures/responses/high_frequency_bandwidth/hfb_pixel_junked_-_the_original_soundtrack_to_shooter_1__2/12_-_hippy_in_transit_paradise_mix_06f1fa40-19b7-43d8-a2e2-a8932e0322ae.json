@@ -1,0 +1,47 @@
+{
+  "results": [
+    {
+      "id": "6e36430d-0168-426b-a989-597d98b7ce05",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "9ddfc28e-9869-429e-8200-567dcf5ef008",
+              "name": "High Frequency Bandwidth"
+            }
+          ],
+          "duration": 337,
+          "id": "cc32b73f-3ab0-46c6-a060-5040dbbeb601",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "4a9ae90e-1488-482f-937a-8578d09c8bfc",
+              "secondarytypes": [
+                "Compilation",
+                "Soundtrack"
+              ],
+              "title": "Vocal Pack",
+              "type": "Album"
+            },
+            {
+              "id": "6e99b843-94e4-4ead-aa69-4ef2c29b63f2",
+              "secondarytypes": [
+                "Soundtrack"
+              ],
+              "title": "HFB: PixelJunked - The Original Soundtrack to Shooter 1 + 2",
+              "type": "Album"
+            }
+          ],
+          "title": "Hippy in Transit (Paradise mix)"
+        }
+      ],
+      "score": 0.938093
+    }
+  ],
+  "status": "ok"
+}

@@ -1,0 +1,29 @@
+{
+  "results": [
+    {
+      "id": "bde26759-4b25-47b3-bbb8-582775ed62be",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "022b58ea-6098-411d-b88a-652821d4c191",
+              "name": "DJ DB"
+            }
+          ],
+          "duration": 364,
+          "id": "65ca02ca-d5f5-4fc9-b394-f155f93d0174",
+          "releasegroups": [
+            {
+              "id": "c4ec56dc-8c9d-4079-b899-a096beffdcc0",
+              "title": "The Secret Art Of Science 2",
+              "type": "Album"
+            }
+          ],
+          "title": "Droppin' Science, Volume 2 (EZ Rollers mix)"
+        }
+      ],
+      "score": 0.985048
+    }
+  ],
+  "status": "ok"
+}

@@ -1,0 +1,29 @@
+{
+  "results": [
+    {
+      "id": "588c5c3b-aadd-4d34-bc26-a071abdba590",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "2a5d430f-cb26-422a-a150-41dc4af15bf9",
+              "name": "April + Vista"
+            }
+          ],
+          "duration": 217,
+          "id": "2b871964-2de8-4954-8c81-2ce3c3c3c6fe",
+          "releasegroups": [
+            {
+              "id": "d4669101-ccf6-422b-92b0-a67ae936381a",
+              "title": "You Are Here",
+              "type": "Album"
+            }
+          ],
+          "title": "Own2"
+        }
+      ],
+      "score": 0.950788
+    }
+  ],
+  "status": "ok"
+}

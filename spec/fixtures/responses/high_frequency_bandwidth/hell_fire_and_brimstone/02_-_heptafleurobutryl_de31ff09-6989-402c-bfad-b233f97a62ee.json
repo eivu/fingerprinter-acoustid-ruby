@@ -1,0 +1,29 @@
+{
+  "results": [
+    {
+      "id": "0f7c6c07-4b0f-4f39-af09-5f05677b2697",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "9ddfc28e-9869-429e-8200-567dcf5ef008",
+              "name": "High Frequency Bandwidth"
+            }
+          ],
+          "duration": 375,
+          "id": "05a6e206-b9ac-4427-892d-e369da4db8dd",
+          "releasegroups": [
+            {
+              "id": "f42dafb1-e799-47f8-960f-5039cc4c729d",
+              "title": "Hell Fire and Brimstone",
+              "type": "Album"
+            }
+          ],
+          "title": "Heptafleurobutryl"
+        }
+      ],
+      "score": 0.99288
+    }
+  ],
+  "status": "ok"
+}

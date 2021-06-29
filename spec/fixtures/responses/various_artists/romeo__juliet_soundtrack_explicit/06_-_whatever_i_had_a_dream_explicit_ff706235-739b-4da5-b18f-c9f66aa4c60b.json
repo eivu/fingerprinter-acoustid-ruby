@@ -1,0 +1,251 @@
+{
+  "results": [
+    {
+      "id": "311bbff4-85db-4978-bb57-c0585eee60ea",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "2339bc21-aa92-4850-86f0-4bb9433910c8",
+              "name": "Butthole Surfers"
+            }
+          ],
+          "duration": 249,
+          "id": "16b3af3a-2ca9-4e93-b2ba-987367e7e9d3",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "650ebbf1-e25c-3f13-ac2b-d98010c1c5ee",
+              "secondarytypes": [
+                "Soundtrack"
+              ],
+              "title": "William Shakespeare’s Romeo + Juliet: Music From the Motion Picture",
+              "type": "Album"
+            }
+          ],
+          "title": "Whatever (I Had a Dream)"
+        },
+        {
+          "artists": [
+            {
+              "id": "2339bc21-aa92-4850-86f0-4bb9433910c8",
+              "name": "Butthole Surfers"
+            }
+          ],
+          "duration": 248,
+          "id": "550da6d6-1067-46c9-a3e0-d4ac9b9ff8cd",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "7a1ab612-4118-4360-9e84-daec4928877e",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Zoo Magazine CD Sampler 06",
+              "type": "Album"
+            }
+          ],
+          "title": "Whatever"
+        },
+        {
+          "artists": [
+            {
+              "id": "2339bc21-aa92-4850-86f0-4bb9433910c8",
+              "name": "Butthole Surfers"
+            }
+          ],
+          "duration": 236,
+          "id": "8676c033-6507-40ed-9c71-5244a76a712c",
+          "releasegroups": [
+            {
+              "id": "4cf02237-50e7-3bf7-b7a8-0c736135acaf",
+              "title": "Electriclarryland",
+              "type": "Album"
+            }
+          ],
+          "title": "Whatever (i had a dream) (Alt Master Mix)"
+        },
+        {
+          "artists": [
+            {
+              "id": "9a883a69-436b-4d17-9ffd-122a9bf4419a",
+              "name": "En Vogue"
+            }
+          ],
+          "duration": 250,
+          "id": "a76925cd-adaa-400c-b476-e32f5c101a1f",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "16010d08-9d23-392c-9b99-a634ed4859ba",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Bravo Hits 17",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "6dbed32e-4e8a-39de-bc4e-76ad1c6dc913",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Fresh Hits 1997",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "0d0c6088-57b5-3ee7-89dd-22db482592c9",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Promo Only: Mainstream Radio, June 1997",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "4d91d756-3613-3502-9343-85135226cbe4",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Platin, Volume 3: Das Album der Megastars",
+              "type": "Album"
+            }
+          ],
+          "title": "Whatever"
+        },
+        {
+          "artists": [
+            {
+              "id": "9a883a69-436b-4d17-9ffd-122a9bf4419a",
+              "name": "En Vogue"
+            }
+          ],
+          "duration": 261,
+          "id": "d4aaaeb2-0a09-4388-a934-de7918e17778",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "9a883a69-436b-4d17-9ffd-122a9bf4419a",
+                  "name": "En Vogue"
+                }
+              ],
+              "id": "c0ac31cf-a16d-3eca-bac2-9c74c2ad8efd",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "The Very Best of En Vogue",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "9a883a69-436b-4d17-9ffd-122a9bf4419a",
+                  "name": "En Vogue"
+                }
+              ],
+              "id": "4d65000f-272d-32ad-a0be-8718ad5481ab",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Hold On and Other Hits",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "9a883a69-436b-4d17-9ffd-122a9bf4419a",
+                  "name": "En Vogue"
+                }
+              ],
+              "id": "7d81ac8d-445d-4d96-ac0b-de9b6987c016",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "The Platinum Collection",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "9a883a69-436b-4d17-9ffd-122a9bf4419a",
+                  "name": "En Vogue"
+                }
+              ],
+              "id": "4beaf3b2-2a8e-484b-a96b-80d8e4bcdf45",
+              "title": "Whatever",
+              "type": "Single"
+            },
+            {
+              "artists": [
+                {
+                  "id": "9a883a69-436b-4d17-9ffd-122a9bf4419a",
+                  "name": "En Vogue"
+                }
+              ],
+              "id": "9f581a07-4fce-319e-991b-377be9d270f2",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Best of En Vogue",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "9a883a69-436b-4d17-9ffd-122a9bf4419a",
+                  "name": "En Vogue"
+                }
+              ],
+              "id": "d55dd1eb-253b-30e1-9dd9-8e136b63a3f6",
+              "title": "EV3",
+              "type": "Album"
+            },
+            {
+              "id": "1f8c4126-e74f-4b42-98f5-cb875dee90b2",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Don't Let Go: The Very Best of...",
+              "type": "Album"
+            }
+          ],
+          "title": "Whatever"
+        }
+      ],
+      "score": 0.972774
+    }
+  ],
+  "status": "ok"
+}

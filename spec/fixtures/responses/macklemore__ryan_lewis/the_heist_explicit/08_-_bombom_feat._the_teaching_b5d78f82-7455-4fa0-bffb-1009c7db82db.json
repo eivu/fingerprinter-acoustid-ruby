@@ -1,0 +1,40 @@
+{
+  "results": [
+    {
+      "id": "354b6925-1d69-47a9-be99-656a81dda222",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "97b226c8-7140-4da3-91ac-15e62e131a81",
+              "joinphrase": " feat. ",
+              "name": "Macklemore & Ryan Lewis"
+            },
+            {
+              "id": "aca6f846-59c6-44e1-80c2-59d99442b78e",
+              "name": "The Teaching"
+            }
+          ],
+          "duration": 295,
+          "id": "15ad175a-8520-4d58-b39c-33d06e1ec3db",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "97b226c8-7140-4da3-91ac-15e62e131a81",
+                  "name": "Macklemore & Ryan Lewis"
+                }
+              ],
+              "id": "22315cdd-4ed9-427c-9492-560cf4afed58",
+              "title": "The Heist",
+              "type": "Album"
+            }
+          ],
+          "title": "BomBom"
+        }
+      ],
+      "score": 0.952113
+    }
+  ],
+  "status": "ok"
+}

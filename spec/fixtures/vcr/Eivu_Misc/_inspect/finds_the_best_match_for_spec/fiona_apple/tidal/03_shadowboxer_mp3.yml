@@ -21,7 +21,7 @@ http_interactions:
       message: OK
     headers:
       Date:
-      - Tue, 29 Jun 2021 13:33:03 GMT
+      - Tue, 29 Jun 2021 21:19:41 GMT
       Content-Type:
       - application/json; charset=UTF-8
       Transfer-Encoding:
@@ -33,7 +33,7 @@ http_interactions:
       Access-Control-Allow-Origin:
       - "*"
       X-Envoy-Upstream-Service-Time:
-      - '55'
+      - '174'
       Strict-Transport-Security:
       - max-age=15724800; includeSubDomains
     body:
@@ -85,5 +85,5 @@ http_interactions:
         Collection", "type": "Album"}], "title": "You''re the Best Thing"}], "score":
         0.942576}], "status": "ok"}'
     http_version:
-  recorded_at: Tue, 29 Jun 2021 13:33:03 GMT
+  recorded_at: Tue, 29 Jun 2021 21:19:41 GMT
 recorded_with: VCR 3.0.3

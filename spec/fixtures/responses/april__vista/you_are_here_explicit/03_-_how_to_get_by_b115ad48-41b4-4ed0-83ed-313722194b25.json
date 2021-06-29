@@ -1,0 +1,29 @@
+{
+  "results": [
+    {
+      "id": "5124f4de-8340-4ef1-b612-dc7ae6c6436e",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "2a5d430f-cb26-422a-a150-41dc4af15bf9",
+              "name": "April + Vista"
+            }
+          ],
+          "duration": 151,
+          "id": "830c6cd2-0f90-4913-9539-2989af41c102",
+          "releasegroups": [
+            {
+              "id": "d4669101-ccf6-422b-92b0-a67ae936381a",
+              "title": "You Are Here",
+              "type": "Album"
+            }
+          ],
+          "title": "How To Get By"
+        }
+      ],
+      "score": 0.998154
+    }
+  ],
+  "status": "ok"
+}

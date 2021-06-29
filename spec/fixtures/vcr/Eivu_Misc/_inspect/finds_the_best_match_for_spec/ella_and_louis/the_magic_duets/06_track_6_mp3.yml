@@ -21,7 +21,7 @@ http_interactions:
       message: OK
     headers:
       Date:
-      - Tue, 29 Jun 2021 13:32:45 GMT
+      - Tue, 29 Jun 2021 21:19:17 GMT
       Content-Type:
       - application/json; charset=UTF-8
       Transfer-Encoding:
@@ -33,7 +33,7 @@ http_interactions:
       Access-Control-Allow-Origin:
       - "*"
       X-Envoy-Upstream-Service-Time:
-      - '68'
+      - '45'
       Strict-Transport-Security:
       - max-age=15724800; includeSubDomains
     body:
@@ -46,5 +46,5 @@ http_interactions:
         ["Compilation"], "title": "The Magic Duets", "type": "Album"}], "title": "Sentimental
         Journey"}], "score": 0.932226}], "status": "ok"}'
     http_version:
-  recorded_at: Tue, 29 Jun 2021 13:32:45 GMT
+  recorded_at: Tue, 29 Jun 2021 21:19:17 GMT
 recorded_with: VCR 3.0.3

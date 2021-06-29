@@ -1,0 +1,63 @@
+---
+http_interactions:
+- request:
+    method: get
+    uri: https://api.acoustid.org/v2/lookup?client=<ACOUSTID_CLIENT_ID>&duration=233&fingerprint=AQADtEmUJEySJLEUoFMqBj8eFOmHPD6uojN9HL1g9IcunGgP08cZHC9-XKCOQt-B_rDFFDgu4ycOn-Bx4MdxFz8uQYR9HD9uGpAOC8cPHumRATeBGxRgmcQPMweO7wVVXDrk4Uee48c2VcXTHCf8oHj-BBF96EfWBKeLXokFJmke_DiP6zh2BV_4SLiGR_GFJMqlI7RSB3w4lMrRLDGFfUGPizmDTgw3XBrSRmmQPDr2FycSKshzxNeFOdO2BFpeog_OBNaUHH-OK-kLN5E6HPsH_kFE3aiSXCSeI5Skot2h5TnuDHmOJ7hTTPmE3gJZtgj3qNheBlqipEfeB8-RH3qQG3mmZxCdXCnyj2hzvBa-EM6nBdacI6mWC0-USEOeKsNV4keYPtCTDM-YZsgvoQnFaRmqJgt2PFMM3kbTNEIvSUrw6giZQVljDpolH5WDRr5SKNcYg5VWBuq0oxlyUsd1VO_x40ezNQj3QnL4AM2eTAo0K3nwdEJ2I_2x5sT_INmZUEHD5fiPj7hxEeOSo6Qk-E0C7rPgpoi0mdASRyihB09k5fiRd3D245Ee5EmWHn_ga7jYDl92fIei7MiNxmHEFF8efMcptEmPJnyMNzPux_jxq7APlVKCztHR_Pgc4ZEy6_jkHI_gMcuREzpD5LlwHg-PmQ_RG2GuDLp0HD-eEXoUCc-TIN-IPwnML3iG70JOBlqUNUeI_yg5oWVuXNjjCWDCfZge-ojv4NCiaMdLwWJ6vNnxLUV_6M-GW8elvNi6h9CFy0a0SXnwMsT4oz88HU8fMF0iK8Oz4EopxNQHNUvyIB_hY7-MH0-aChMbHfmhKfsQ9xmuH1OOD83zGNGP5AkPOkLJHE0uSgS5gzfi7kgO18cupQrOPDiMHzmURzq0TBEHH5FIL8f7DB8-PD-O8Auc49WhevFQ38EjokGPPDvCsDr6KNAyKxWuS0GYOCbWE3fuIcwkaE1OhEH5oKnXgHEixUjOJEcuFE3y4HuOTx8m6kJT9bhwSTfyI2H0DH_whMlRKyd8nMcTZVFRp0_xPCHCxIkK7T9xPMU-FrmpoE41NC_GkXhCnjjqfENT_MFTHY8Mn8kxhtPBHSEfQst1RD6HL_CD44SnaFg15khuTwj3E0yOC7mSQNF-IUyGfZmD8xZwPMeu442O0FGUCtqPHE-Uw1szDjf-o6_RNGKPpjqqnMVH4vozPGEa48qN_0if4syD0T9CZVINJtZRasrRnPiKH4_wR-i-lGjUnPgnoj-co3myIofu4FYR_viOEFLy8OiPI9cR5mGHjsnxTNCCesd1-BY4MYdOHv-E3lDvIAzxShmuXMInNP_Q5_hueDz-BfFZJCeOekR17Bn-5GiWZejyIinfJMUPJE-u4zr8ZCGeSscdYXsV_OAp9BnC3Ieex0GsP9jEH2-GP4d_4VgvnGk4XA8ifYN3TM3R85D0pYjhRHnxHG0I3gn-C3UCT0rwEF4e9LKxOw-ms0Rz5WBzYdSOessF_-iPBz9wIA-TBNquRwjDHEcpUSdqfIh7XB8U5VKKbxeaRTWyahvBoHlePEoTTIeb48qC9HiuQGMfHKcPmVuKi5EQMrODHKIpI3wk_HgilI0Mnw-qNAolXHjIo1ISD5_Q7GGMP_hZ5FKOJMfx41mOH5Wzoql0_DH-BL8QPiz0B-10lA-aRynUJzhN4wsR_g8oXUG6H21eaCyaM8f740_xH1oeZMmI88ZVXCsm6mhkVH_RPBOOkjyaHLkg3ziehTO-T_htyH3QxNlR49GQD5595GGC5FtzfIE_3A_ew5V2nA_-Y02QUzh5_AHFQ9eG3EXzIHyiGfkTOCFxUkSzLkSZC-Of4CkxZiqav-jpDOzxpDym5i2adcfxoH_QNCouWXiOSHIILWqQ_RgrPMMfJI-Qa7gsGWV0Ie0-aH-E_LiK80WTPC36CN_xIzmPSIwm1mheCQ9HMMezIwkd5Cf24fLRNLELPnNwGk0sCqHyCVK-FumUhCfKpDhLnA4eYkqpPOinI2mezMiXH_CLJ8N7ReiqJ0bT1rgW_PCD_VnA-cZxc_iPk3hC4R-eb0hKG_km4z2Fo1EjacEneOngof-ERLEyR4j24hmZItUPjTQRK_s2NEetfnCcCz_-KLi6HMdHfBmDHia145S2wU0X5MwO1c3gkwif4-h3xLyhdDmyWegj4dnxX8PDGlOaMGEQyTr046IQ5mESZLkwXNqhJjvyLA_GP9heXMGfDX9wMQnMSGqFq9mCXMpDVD4a_YjP4g7-wF2UI18KPfmLnEyDU3iOJndQ5biSF6eS40cuIXnhL02IS8Pz4Mc_YS3yUC2ksAuD-AuuS_gJpKGh_UF_IcwSJXhIolcCH6lyaEyO8PDn41-EEufB4kMS5UF-NO-E-6iSRpmE5lbg6zku4EyNT6EivJGKZ87QDs2vIBfDoLG2ouSD6xK-RDlK2WjCFOuUBRfeo-QDLY0WXD6hOH3wndD54lrw4y3CdJdRsg-eBw1FpUiuXMgv-Kie4-kcNIyOSkqCC1eEHmFy1LuQTjk-otkt_CcOXwidGlomsshR_WgSDb0OT4ryo__Q68hViCdSHBX-4EmUJziPD-kjnfgD_QgZlUGzSpGCUwumHD0PtlGOMhEixamhrzTioySjHeZIBaW-Ck-UBLeO7fh6ZOyVBAqdo06JMK9yXAz2F-lz4eqD3goUahS6JPpRcQRlRYXAAEQEIk4KZ4WESBODjDXCGaGdFV4Y54BVWChnnNdCWsYEFMYAy4xxSHABgDCAMoIEAIoQrgmwCgBhFUIBECgcgEgCQCkgRABgRBJEEYQIJUIIhJAwxABBKJNICSGIIJhQBACRDjJAiFCCAkGAAcYooYwBDAlRBCAKEOAMAIIQILQgUAGEBFJSCGGMABwBY4CiBgFGIAECIEqQAkwBJwAwhhkiASMEGUUMgoQRyIgAQjBDJABCCCSEAIoc5QgyhABBhBCGGCEME0QhIKEQVCOCmEGaKEQAgEwIoQyQhjHqhCFEPaqCM8IIi5AwlDhhgMMKGIGEAQRBACRBQgCikAICeEYBMoYSQQQAQgCChAFAuEcEMQwIwYRSAhIGABCEIEEYIMYyZAACECkiEBVACGEcEAIhYoBDhCignDDMMcCAAIggB4wUTAgJiGDiMEAUEgIpIBBgRCDCkRDGEIkMEGUjARQBVBhAkETAAKIUFoABIYBAAhgDCADAGeOcAAIo5AgAlgkBADGMIQQsQMgyAYRTwiGEABKGOKgRIsxg4IAIDBEBmHBWOKKIQOZRQAAhBhqEmBDASSAkcAQAKBgARhjhiCAQIeMYMwCZIRgAzQhBmFAKISK0AkoopAABAABIHAPICmUAAwIJJJwRAFAqGIKQGAYFUkQABoxTADCGDBSGAAYAowAQQpgTADMGgBCGACkIEQwAIAijAhhHiCMMMCHAEAAwBwRFQAThAKAGMQIEAEIxogAShBJgGEAOLIIYEUQCgAAUEBiBLEGAMgUQAERgpoBlAiGGiRGYAcSBEM4BqIQRQhCCFBYCAIMcEiAAhAQAiCEAgDDKAKOAEYYIwwAhCjEGADMECOIREAYyZRUyBAhBhUJMECAAMsIIRoUgxCgAoGEUGAEUwUQg4qQBggiBgBGOACUQ&meta=recordings%20releasegroups%20compress
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      Accept:
+      - "*/*"
+      User-Agent:
+      - rest-client/2.1.0 (darwin20.3.0 x86_64) ruby/2.7.1p83
+      Accept-Encoding:
+      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+      Host:
+      - api.acoustid.org
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Date:
+      - Tue, 29 Jun 2021 21:19:10 GMT
+      Content-Type:
+      - application/json; charset=UTF-8
+      Transfer-Encoding:
+      - chunked
+      Connection:
+      - keep-alive
+      Vary:
+      - Accept-Encoding
+      Access-Control-Allow-Origin:
+      - "*"
+      X-Envoy-Upstream-Service-Time:
+      - '64'
+      Strict-Transport-Security:
+      - max-age=15724800; includeSubDomains
+    body:
+      encoding: ASCII-8BIT
+      string: '{"results": [{"id": "fe7d4f46-33f5-49b8-90f0-843701aee068", "recordings":
+        [{"artists": [{"id": "54799c0e-eb45-4eea-996d-c4d71a63c499", "joinphrase":
+        " & ", "name": "Ella Fitzgerald"}, {"id": "eea8a864-fcda-4602-9569-38ab446decd6",
+        "name": "Louis Armstrong"}], "duration": 234, "id": "14560ca0-ef46-40f3-a2f8-5bb2b36a4367",
+        "releasegroups": [{"artists": [{"id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+        "joinphrase": " & ", "name": "Ella Fitzgerald"}, {"id": "eea8a864-fcda-4602-9569-38ab446decd6",
+        "name": "Louis Armstrong"}], "id": "241ccc14-c02f-4913-b938-cc24ab26b0fd",
+        "secondarytypes": ["Compilation"], "title": "Singing And Swinging Together",
+        "type": "Album"}, {"artists": [{"id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+        "joinphrase": " & ", "name": "Ella"}, {"id": "eea8a864-fcda-4602-9569-38ab446decd6",
+        "name": "Louis"}], "id": "60eafb58-0fbb-419e-88c4-33cf915071ee", "secondarytypes":
+        ["Compilation"], "title": "Singing and Swinging Together", "type": "Album"}],
+        "title": "You Won''t Be Satisfied (Until You Break My Heart)"}, {"artists":
+        [{"id": "54799c0e-eb45-4eea-996d-c4d71a63c499", "joinphrase": " & ", "name":
+        "Ella Fitzgerald"}, {"id": "eea8a864-fcda-4602-9569-38ab446decd6", "name":
+        "Louis Armstrong"}], "duration": 233, "id": "8b2c5950-5e35-4a18-9267-df5281af7331",
+        "releasegroups": [{"id": "37012d18-8647-3648-87e7-7a66423b863b", "secondarytypes":
+        ["Compilation"], "title": "The Complete Ella and Louis on Verve", "type":
+        "Album"}], "title": "You Won''t Be Satisfied (Until You Break My Heart)"}],
+        "score": 1.0}], "status": "ok"}'
+    http_version:
+  recorded_at: Tue, 29 Jun 2021 21:19:09 GMT
+recorded_with: VCR 3.0.3

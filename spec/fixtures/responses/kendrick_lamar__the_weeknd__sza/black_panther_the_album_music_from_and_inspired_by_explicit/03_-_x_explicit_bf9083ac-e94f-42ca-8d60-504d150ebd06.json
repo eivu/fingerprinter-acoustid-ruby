@@ -1,0 +1,85 @@
+{
+  "results": [
+    {
+      "id": "5c2020f0-5791-44ad-9c99-7b2547db32d9",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "bce6d667-cde8-485e-b078-c0a05adea36d",
+              "joinphrase": ", ",
+              "name": "ScHoolboy Q"
+            },
+            {
+              "id": "dff0d392-4cd5-4052-9fbb-f485df3891e5",
+              "joinphrase": " & ",
+              "name": "2 Chainz"
+            },
+            {
+              "id": "433240e6-093e-44ce-98cb-1b70d40f22c0",
+              "name": "Saudi"
+            }
+          ],
+          "duration": 267,
+          "id": "4a0f4ac3-3b2a-4c51-ac49-1bffc3507a15",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "381086ea-f511-4aba-bdf9-71c753dc5077",
+                  "name": "Kendrick Lamar"
+                }
+              ],
+              "id": "4e317e28-e6b2-46d7-81f7-306e349b3dd4",
+              "secondarytypes": [
+                "Soundtrack"
+              ],
+              "title": "Black Panther: The Album (Music From and Inspired By)",
+              "type": "Album"
+            }
+          ],
+          "title": "X"
+        },
+        {
+          "artists": [
+            {
+              "id": "bce6d667-cde8-485e-b078-c0a05adea36d",
+              "joinphrase": ", ",
+              "name": "ScHoolboy Q"
+            },
+            {
+              "id": "dff0d392-4cd5-4052-9fbb-f485df3891e5",
+              "joinphrase": " & ",
+              "name": "2 Chainz"
+            },
+            {
+              "id": "433240e6-093e-44ce-98cb-1b70d40f22c0",
+              "name": "Saudi"
+            }
+          ],
+          "duration": 267,
+          "id": "974a6b14-6a19-4b08-add2-d4d33795d644",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "381086ea-f511-4aba-bdf9-71c753dc5077",
+                  "name": "Kendrick Lamar"
+                }
+              ],
+              "id": "4e317e28-e6b2-46d7-81f7-306e349b3dd4",
+              "secondarytypes": [
+                "Soundtrack"
+              ],
+              "title": "Black Panther: The Album (Music From and Inspired By)",
+              "type": "Album"
+            }
+          ],
+          "title": "X"
+        }
+      ],
+      "score": 0.993381
+    }
+  ],
+  "status": "ok"
+}

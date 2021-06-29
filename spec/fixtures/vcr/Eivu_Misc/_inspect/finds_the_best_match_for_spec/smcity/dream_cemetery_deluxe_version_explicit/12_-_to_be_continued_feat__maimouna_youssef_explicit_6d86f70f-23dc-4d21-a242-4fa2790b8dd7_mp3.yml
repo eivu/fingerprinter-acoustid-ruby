@@ -1,0 +1,42 @@
+---
+http_interactions:
+- request:
+    method: get
+    uri: https://api.acoustid.org/v2/lookup?client=<ACOUSTID_CLIENT_ID>&duration=287&fingerprint=AQADtErCJUkmCX1QJOSI-LgGPweNEd-Dfjhx8bjRU8iPZr2gM_h6Dm-OHziP48IRHz_in7h4VD7xHedQKT7eHPGPH49xNPpRGcefpMTpoXkehEcSNdThTSzcH32GkXiPWhn0Cz2VBJ-Oo_lRJ8eHHMkyGWV29MpMRErYC3Ks49uD8sb2L_ihFdeN3j4OVy1-_IcWMcR_jJaMF0cTo5vC49fRH83D4RduhMmObwucJyhX_EJ1NOeRH7qCZtOIO0g5vgjZZai9CV7kB6os48cTpXCO6_hNXD969IJ__Ljg9Hh-HH5lvMRzuMrx73DSEtGjcPiCJzj8ECfyBK9Q_fiIRh-0o0dz-jhahT6ae3iG_-h6XMerYfpyaId3QfjxlDg8EnZy4Q10HY4fdM1xHWEo8ehRHh4RPkSP74ZlQh_MBeVyosKfHT6so8cj6DlxSS9C7fDDDY902Dbqozqah0I-R_igSTsaRgzRpcrRPLgzo5nEQyujyMGXJ-iRPhMexCeefEWPnoehh1ZxGD9uOD3-4BauQvyRBlV87FnwSfhh5_iM--jfoidiikJdGVrk4OjRnEd-9GiuI2dStOqMT8f0Q7t2wIMBH296_McX4eGNR8cD50a3E70Oc0dv9OPQPMGq5RbOo4cPPYN9HIdzHpfhM9DO4w6uHWcchPthZoSPLzU-pCqPPh_Unzh64ppw7bhj6FfwiyizZBN6-Eef7HhaOdB0wUPRHw0HrTy2ozreo-IHLefxyPhRtYKPpyH0Iz_66DiPpouO6cPXC2FOovrwwZq0D_qPb_DxB1_hB7sKuS20kMcv-EMfHvygXQK14iaOq7hI-Dn8CvCLrjlq9YLJow-aG32CH-1htUd_VNMG8TkqET2uDM5Ro4mXYHpwvDFkRTrCjB3uHP2Z4Y5wEkUjI6IGDe0YVNzRJHlSsMyGpuLRMsoDnU9wo1fg_ODyRcKPCxeMK_APgeOPC2JKGcep4D7SHyd1UHGOXBM-Ejd6TGcGd0dlXDsuNJ-EHrqO6Ufz6kBDLkdP_GilTZSg-_hxHJdwQIc4HnyDE--FH7dgNUcP5kdD4gyFSkeTD7-Poz_ME1bxQt3x8vCBs4JP9NA_HJVgdZLxBf4SBZ92HOLRHyUsZjkeLrgP8VmHH80SMch7nPnQHL12IU9O_Bm-G5-GHn6I58FxHscPH35x5TgePDusqQ9xhZjYfbiK5tAoBScaKjXqDT3RfOIgNxF6VkLTG6_wFT6-JcfR7vCF3zCJ38D5oQ_-Y_rhLzhOEcdjBY4zFhcV2BraoTnKHuWOX8cLk8cbfIUf_IS-A__gwz80i8Wj4zq6w4yywHmOawyuHH6hPQuua-hyeFEYfHpg6GGHptI4POGM80N-2D7y4MKLc0fnHRfx4zf848UrHj5--Lhw4tzw8sFZDhul6Cj54UcTS4EefC0sRaFRNBe0Z0d_NFVxDR_h48d_XCGa6-jRE9aJAjsf_JXRwzHx4-qK41rgWIrxZrDDGD2OPjya4z8uQXvh4xrM8cNT_PigF7m64ERP4jmuojoaaaEQWhC3FLWiC0Wjb8FxHo2LU1ECKz-qMUpR8oRY3SinpRI-UkEz9FLwJjuq3MIvQ8fxw48O_HgPUT6uw_-gVofOw-FxtoimKSS-E1_QH7eE5igjhGQWvDKq41-EpkYZHvqOFz5xnH7QKAyN33hxVM2N6YdPnMjx4DhsHW5zIocYT0e4BteF6-iP5sZ_9ET64DrEazjhE89O4Lhz6KiO58h3vMd9NNKKB97CGOGH6xOaZ9Bm5cN5lDsaRsxRqcphPYUmZ0MziQ9aKasQkh985INzWMT1CvpxXPADHcfxHc7BU7D14oT_4HsIK5UHrkd6GZ5etI_xY5vEvDiP97iOikwSCamaQbuOHo17_AjDo2eOPCGPTh9-4j52qMeh48iXw_jxZYedWUjrC_qRqkEv_HiK5kWPe0eYH9KOhkodPAhDEj1y9DtuuMQP5-iz48cVHXKPsAtBnYe3MIe74z9-_IgPcUdMMbBEhKpoQefRE14kHrkEXw_yw-GuZfgPR-jRGw2uoD_8Fyd-wZQPRRpXQEsaoqgy7fBD4nvgq0Stow8abgp-aF8LLaczfCK6Hs2WZPgpNGt2tFGH6dASfNnwzOh6weGWQxKuA_BwaC8eVHrgw9UVVEeTH52PH1pe1DuaF71xISzyx_A1nDCV4IR-ws9w-HhQXdgPXQoeHY30IG-EPxveZEdoHQ8-MSMq5_B2KOqDSkt2WE8KTdzQwwsXGadkCffxTXi1g9JX_PioAzfMKNCP4wf5woVzXMIpF_qR1ioAhRgwhhHCiBPKAQSAAAAcSMC5VCCCiHAIISIhcISCRjARTBAEABMASqCMkEQKZA4ABBihAHGEAeAQB0YhwDABAAiAADIMCIOYFgAoggBgiBmFBAFEQASQUxIDQ5xgChlAEGBKBIO4IQwQIoAVyBmDrARAMAGsUlIgZ5BCSgkosFFMAUCoUQwRABwQAkqgEAUICGIUchIIBiAyAQhihFSACmqcU9AhQKAJABDGgABMKQeEBIoIYRQwxFIEkGAECUOZVYqQgCAQBCBACMHECSUA0AIIBJBhClMgAJCIKGUFAkAwJDBAhCBAHFDECACYUERo5YgBhgIigCBESQQAQsAIBBRg1DGCABJLClAIQIAAZoAQwFADGCFETGSMMcIbgBARQhgjllAKCCCMIgYBJpg1TAhHAjJLGAUANoYrwQQgBJDBBJMEYQeEIswAApgiwBAEBFOCCEEFQUAZRggACgllrGIKIMEoE8AAhJgAAgADgIJFKCMkJAQYQATggAmiDAYGMAOMIIwhhQQgDABEjADIIIEAQwIJIhBCDHRCnGKIKWAZEMYhRRwQgjAEDCJGCEWUUY5RAIwQjEiFBDFWIYoEUUMARQwTghEBDDSICUYIFcYBAgRQwAhgCCHOMgQMswAACYQwAAkCABHGCoQFIUBZIBkwhjklqHBcWSoACwgpJIQyiBArODBCMCuENAwoQBAAjCCDBFACASIEdQAQZ8QFIgFhlFMMASAcUMARwAQhCBhnATNAMCUAY4oh64ATBCAjkBDYIQOUAEqJpwRRihkkhAQEIUAAYEII4wyVSAiiCDAACAFMQwgqAQQCAhglkHBICKAAY8pJxBRSSgpBDDLGSIAAVkACR4gTgFJgDFAGCGAAMVIQCoDQBAEIDAGSCIsYA0hAA6AD&meta=recordings%20releasegroups%20compress
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      Accept:
+      - "*/*"
+      User-Agent:
+      - rest-client/2.1.0 (darwin20.3.0 x86_64) ruby/2.7.1p83
+      Accept-Encoding:
+      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+      Host:
+      - api.acoustid.org
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Date:
+      - Tue, 29 Jun 2021 21:23:13 GMT
+      Content-Type:
+      - application/json; charset=UTF-8
+      Content-Length:
+      - '31'
+      Connection:
+      - keep-alive
+      Access-Control-Allow-Origin:
+      - "*"
+      X-Envoy-Upstream-Service-Time:
+      - '92'
+      Strict-Transport-Security:
+      - max-age=15724800; includeSubDomains
+    body:
+      encoding: UTF-8
+      string: '{"results": [], "status": "ok"}'
+    http_version:
+  recorded_at: Tue, 29 Jun 2021 21:23:13 GMT
+recorded_with: VCR 3.0.3

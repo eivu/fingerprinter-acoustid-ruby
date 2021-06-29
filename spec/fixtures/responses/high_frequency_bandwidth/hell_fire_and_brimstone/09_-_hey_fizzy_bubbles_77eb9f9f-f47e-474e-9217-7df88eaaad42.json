@@ -1,0 +1,29 @@
+{
+  "results": [
+    {
+      "id": "a92ef4e3-5966-4b7d-aa3d-3de47379dc1d",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "9ddfc28e-9869-429e-8200-567dcf5ef008",
+              "name": "High Frequency Bandwidth"
+            }
+          ],
+          "duration": 81,
+          "id": "fec7125f-61a9-4c09-9777-e6ebaf50db7a",
+          "releasegroups": [
+            {
+              "id": "f42dafb1-e799-47f8-960f-5039cc4c729d",
+              "title": "Hell Fire and Brimstone",
+              "type": "Album"
+            }
+          ],
+          "title": "Hey, Fizzy Bubbles!"
+        }
+      ],
+      "score": 0.992653
+    }
+  ],
+  "status": "ok"
+}

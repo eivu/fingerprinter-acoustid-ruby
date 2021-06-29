@@ -1,0 +1,29 @@
+{
+  "results": [
+    {
+      "id": "67242c40-6d70-4ebc-85d5-ec69f3a69031",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "a9ee533f-8871-4f62-a6bb-91eb264abc90",
+              "name": "Fiona Apple"
+            }
+          ],
+          "duration": 280,
+          "id": "5bcd7c96-476b-462b-8ff4-60dd1b9cc4ef",
+          "releasegroups": [
+            {
+              "id": "6086062c-f943-4b85-b1cb-43558425ec1c",
+              "title": "The Idler Wheel Is Wiser Than the Driver of the Screw and Whipping Cords Will Serve You More Than Ropes Will Ever Do",
+              "type": "Album"
+            }
+          ],
+          "title": "Anything We Want"
+        }
+      ],
+      "score": 0.997033
+    }
+  ],
+  "status": "ok"
+}

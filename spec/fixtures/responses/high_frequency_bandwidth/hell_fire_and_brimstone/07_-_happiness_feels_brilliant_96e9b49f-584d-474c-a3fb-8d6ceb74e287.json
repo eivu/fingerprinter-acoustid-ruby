@@ -1,0 +1,29 @@
+{
+  "results": [
+    {
+      "id": "36364883-8ac5-458c-a6fb-11a1a9d038bb",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "9ddfc28e-9869-429e-8200-567dcf5ef008",
+              "name": "High Frequency Bandwidth"
+            }
+          ],
+          "duration": 197,
+          "id": "eabe7516-381d-4d6a-a148-785dc70b12d0",
+          "releasegroups": [
+            {
+              "id": "f42dafb1-e799-47f8-960f-5039cc4c729d",
+              "title": "Hell Fire and Brimstone",
+              "type": "Album"
+            }
+          ],
+          "title": "Happiness Feels Brilliant"
+        }
+      ],
+      "score": 0.991453
+    }
+  ],
+  "status": "ok"
+}

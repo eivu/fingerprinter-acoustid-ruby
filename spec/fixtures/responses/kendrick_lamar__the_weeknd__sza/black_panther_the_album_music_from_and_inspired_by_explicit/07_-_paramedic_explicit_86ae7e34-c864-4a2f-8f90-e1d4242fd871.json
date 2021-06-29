@@ -1,0 +1,65 @@
+{
+  "results": [
+    {
+      "id": "67e49374-143d-4fb8-840f-9ee582195a4f",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "4072e225-336f-49f9-bac1-c94be913cb65",
+              "name": "SOB X RBE"
+            }
+          ],
+          "duration": 219,
+          "id": "576008e7-b365-4656-ac62-5257120ad2c8",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "381086ea-f511-4aba-bdf9-71c753dc5077",
+                  "name": "Kendrick Lamar"
+                }
+              ],
+              "id": "4e317e28-e6b2-46d7-81f7-306e349b3dd4",
+              "secondarytypes": [
+                "Soundtrack"
+              ],
+              "title": "Black Panther: The Album (Music From and Inspired By)",
+              "type": "Album"
+            }
+          ],
+          "title": "Paramedic!"
+        },
+        {
+          "artists": [
+            {
+              "id": "4072e225-336f-49f9-bac1-c94be913cb65",
+              "name": "SOB X RBE"
+            }
+          ],
+          "duration": 219,
+          "id": "a4b1ede3-5a67-421d-af05-773a3a5e7d26",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "381086ea-f511-4aba-bdf9-71c753dc5077",
+                  "name": "Kendrick Lamar"
+                }
+              ],
+              "id": "4e317e28-e6b2-46d7-81f7-306e349b3dd4",
+              "secondarytypes": [
+                "Soundtrack"
+              ],
+              "title": "Black Panther: The Album (Music From and Inspired By)",
+              "type": "Album"
+            }
+          ],
+          "title": "Paramedic!"
+        }
+      ],
+      "score": 0.983878
+    }
+  ],
+  "status": "ok"
+}

@@ -1,0 +1,29 @@
+{
+  "results": [
+    {
+      "id": "0db5068a-47a2-4165-b48b-3c6d5c0d1a6e",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "57843aed-c1c1-4f45-9859-478dd999bc18",
+              "name": "School of Seven Bells"
+            }
+          ],
+          "duration": 306,
+          "id": "01e8a960-a492-4124-a266-efef78b7d060",
+          "releasegroups": [
+            {
+              "id": "8a2d9685-b7df-4aa7-9e07-39b7efe63ea2",
+              "title": "Disconnect From Desire",
+              "type": "Album"
+            }
+          ],
+          "title": "Joviann"
+        }
+      ],
+      "score": 0.982354
+    }
+  ],
+  "status": "ok"
+}

@@ -1,0 +1,65 @@
+{
+  "results": [
+    {
+      "id": "5143d02b-6759-4bb8-adc9-7e8a43e7cb1a",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "0d7b68b7-6039-4883-8214-9eeb13f8c283",
+              "name": "Zacari"
+            }
+          ],
+          "duration": 85,
+          "id": "06d3d74c-6670-41d6-a311-a81bbc755594",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "381086ea-f511-4aba-bdf9-71c753dc5077",
+                  "name": "Kendrick Lamar"
+                }
+              ],
+              "id": "4e317e28-e6b2-46d7-81f7-306e349b3dd4",
+              "secondarytypes": [
+                "Soundtrack"
+              ],
+              "title": "Black Panther: The Album (Music From and Inspired By)",
+              "type": "Album"
+            }
+          ],
+          "title": "Redemption Interlude"
+        },
+        {
+          "artists": [
+            {
+              "id": "0d7b68b7-6039-4883-8214-9eeb13f8c283",
+              "name": "Zacari"
+            }
+          ],
+          "duration": 85,
+          "id": "ed65a59b-4f0a-4b18-b026-8c31f2f084ac",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "381086ea-f511-4aba-bdf9-71c753dc5077",
+                  "name": "Kendrick Lamar"
+                }
+              ],
+              "id": "4e317e28-e6b2-46d7-81f7-306e349b3dd4",
+              "secondarytypes": [
+                "Soundtrack"
+              ],
+              "title": "Black Panther: The Album (Music From and Inspired By)",
+              "type": "Album"
+            }
+          ],
+          "title": "Redemption Interlude"
+        }
+      ],
+      "score": 0.993347
+    }
+  ],
+  "status": "ok"
+}

@@ -1,0 +1,29 @@
+{
+  "results": [
+    {
+      "id": "b4659671-36aa-48b7-adca-11fd7ba03a91",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "fc7376fe-1a6f-4414-b4a7-83f50ed59c92",
+              "name": "Flying Lotus"
+            }
+          ],
+          "duration": 209,
+          "id": "c79ff945-5f63-4dd0-89ab-f48e8dfec342",
+          "releasegroups": [
+            {
+              "id": "eb9e0983-2478-4494-a8e2-e4117c2ba40f",
+              "title": "Until the Quiet Comes",
+              "type": "Album"
+            }
+          ],
+          "title": "The Nightcaller"
+        }
+      ],
+      "score": 0.930688
+    }
+  ],
+  "status": "ok"
+}

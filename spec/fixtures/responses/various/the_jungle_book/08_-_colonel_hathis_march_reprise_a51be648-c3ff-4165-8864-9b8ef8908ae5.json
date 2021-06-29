@@ -1,0 +1,195 @@
+{
+  "results": [
+    {
+      "id": "b800db3d-c06f-442f-9215-b7f23cb428b9",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "c47026a1-3300-4cf7-80df-8b9462a884e4",
+              "joinphrase": " & ",
+              "name": "Richard M. Sherman"
+            },
+            {
+              "id": "d378dedb-444f-48f5-a6e6-3e8e31ef6c14",
+              "name": "Robert B. Sherman"
+            }
+          ],
+          "duration": 119,
+          "id": "797471ea-1fa6-439a-9cae-2450ad29775b",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "4204e06b-d2e4-4823-b6f3-47f7593518cb",
+                  "joinphrase": ", ",
+                  "name": "George Bruns"
+                },
+                {
+                  "id": "0a8df504-df94-4d77-a3c5-2b9e5c9727e2",
+                  "joinphrase": ", ",
+                  "name": "Terry Gilkyson"
+                },
+                {
+                  "id": "c47026a1-3300-4cf7-80df-8b9462a884e4",
+                  "joinphrase": " & ",
+                  "name": "Richard M. Sherman"
+                },
+                {
+                  "id": "d378dedb-444f-48f5-a6e6-3e8e31ef6c14",
+                  "name": "Robert B. Sherman"
+                }
+              ],
+              "id": "3e3b66c7-12b2-408d-a46d-15552bf39b63",
+              "secondarytypes": [
+                "Soundtrack"
+              ],
+              "title": "El libro de la selva",
+              "type": "Album"
+            }
+          ],
+          "title": "Marcha de los elefantes (repetición) (Colonel Hathi's March: Reprise)"
+        },
+        {
+          "artists": [
+            {
+              "id": "29690718-02ca-4c57-9133-b33aa6fae401",
+              "joinphrase": ", ",
+              "name": "J. Pat O'Malley"
+            },
+            {
+              "id": "9d053b32-5de6-4d1a-9ce2-d01fe74ff5f1",
+              "joinphrase": " and ",
+              "name": "Verna Felton"
+            },
+            {
+              "id": "96f836f3-35a1-4606-bce4-ead16f36da30",
+              "name": "Chorus"
+            }
+          ],
+          "duration": 120,
+          "id": "7aa31c6a-0407-4d7a-babe-fc74b874dd81",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "4204e06b-d2e4-4823-b6f3-47f7593518cb",
+                  "joinphrase": ", ",
+                  "name": "George Bruns"
+                },
+                {
+                  "id": "c47026a1-3300-4cf7-80df-8b9462a884e4",
+                  "joinphrase": " & ",
+                  "name": "Richard M. Sherman"
+                },
+                {
+                  "id": "d378dedb-444f-48f5-a6e6-3e8e31ef6c14",
+                  "joinphrase": ", ",
+                  "name": "Robert B. Sherman"
+                },
+                {
+                  "id": "0a8df504-df94-4d77-a3c5-2b9e5c9727e2",
+                  "name": "Terry Gilkyson"
+                }
+              ],
+              "id": "1257fcdf-743f-3dff-9894-107b398fb777",
+              "secondarytypes": [
+                "Soundtrack"
+              ],
+              "title": "The Jungle Book: Original Cast Soundtrack",
+              "type": "Album"
+            }
+          ],
+          "title": "Colonel Hathi’s March (reprise)"
+        },
+        {
+          "artists": [
+            {
+              "id": "4204e06b-d2e4-4823-b6f3-47f7593518cb",
+              "name": "George Bruns"
+            }
+          ],
+          "duration": 119,
+          "id": "98804850-edab-40b3-be1a-6c200f1e076d",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "321052e7-c31f-32c7-9ef9-dc7b5fbde2cf",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Disney's Jungle Boogie: 14 Favorite Songs From Jungle Book, the Lion King, Jungle Cubs, Timon & Pumbaa",
+              "type": "Album"
+            }
+          ],
+          "title": "Colonel Hathi's March (The Jungle Book)"
+        }
+      ],
+      "score": 0.975546
+    },
+    {
+      "id": "d617afd0-7a79-4051-96d5-5cd31b8a346c",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "29690718-02ca-4c57-9133-b33aa6fae401",
+              "joinphrase": ", ",
+              "name": "J. Pat O'Malley"
+            },
+            {
+              "id": "9d053b32-5de6-4d1a-9ce2-d01fe74ff5f1",
+              "joinphrase": " and ",
+              "name": "Verna Felton"
+            },
+            {
+              "id": "96f836f3-35a1-4606-bce4-ead16f36da30",
+              "name": "Chorus"
+            }
+          ],
+          "duration": 120,
+          "id": "7aa31c6a-0407-4d7a-babe-fc74b874dd81",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "4204e06b-d2e4-4823-b6f3-47f7593518cb",
+                  "joinphrase": ", ",
+                  "name": "George Bruns"
+                },
+                {
+                  "id": "c47026a1-3300-4cf7-80df-8b9462a884e4",
+                  "joinphrase": " & ",
+                  "name": "Richard M. Sherman"
+                },
+                {
+                  "id": "d378dedb-444f-48f5-a6e6-3e8e31ef6c14",
+                  "joinphrase": ", ",
+                  "name": "Robert B. Sherman"
+                },
+                {
+                  "id": "0a8df504-df94-4d77-a3c5-2b9e5c9727e2",
+                  "name": "Terry Gilkyson"
+                }
+              ],
+              "id": "1257fcdf-743f-3dff-9894-107b398fb777",
+              "secondarytypes": [
+                "Soundtrack"
+              ],
+              "title": "The Jungle Book: Original Cast Soundtrack",
+              "type": "Album"
+            }
+          ],
+          "title": "Colonel Hathi’s March (reprise)"
+        }
+      ],
+      "score": 0.680283
+    }
+  ],
+  "status": "ok"
+}

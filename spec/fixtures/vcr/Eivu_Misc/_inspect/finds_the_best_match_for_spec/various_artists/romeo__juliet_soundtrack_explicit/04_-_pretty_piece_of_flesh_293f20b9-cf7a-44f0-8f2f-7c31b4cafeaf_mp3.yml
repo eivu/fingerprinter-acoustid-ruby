@@ -1,0 +1,51 @@
+---
+http_interactions:
+- request:
+    method: get
+    uri: https://api.acoustid.org/v2/lookup?client=<ACOUSTID_CLIENT_ID>&duration=292&fingerprint=AQADtEmiyFGoJFHQHf_ht8V1HD-uLcbxH7oAP7gH1y6keTssRyh50Beuo_Lhoyd-6_ihPyoaouuP_UcPHz2uQzsanvhRmTlc5eh19AxEUuiP8C8uwslc2DouHodr9A2-o7mNfvijkMi9InmOS8d39Dx8Hj-qH1eRT8oIVdnRSzpyZejxCs0ooXbxH_2G5sSba3iRLtUFVWsiGjn6lELTDUfzBH2SVOiPMFFHFmqUFLku9Cf8w89Rpyq-B81RPdSC98hX_NCPkAeOb4fPoGq34v7xjTqe419nXEWu1EP41njhI_ZyoeyyIZ-OLzFKHo46dOaDJxqHazHKIz2SLSX-SXjyDLWD5jnx6_icD1-SzEKyHD3-Ca-FXFGOM83xH81R6Tmucjijb3guhDmSyblw9rhKRSifCs0zPK5IXHrwJPmC8PB-lD9iZ9mQD4nZHP9ROTsamVbwMBwe5XiDZie0FReD5xnqqmi47MEv_MOzhDXCF1qyQy9uzcGXuEgaNjd-NDG6H1e84ZmOkhcaHR-SOhzxTR7CnkqIZpQS_Di3I4-SRAmPX2h-FPq04c2FXEyO5jHewNcPZxlRMT2eGYGoH_GHJ7vwJkZzGj_uGqGWKJIEXbVwoTn6bEJ8PEtzNAyew3nwbSwaJh_eKCLyI1keVOrxTA4eG83IHD0Rp9IDfYpSfC_6Q8sP_cF_4VKPNLpxovyHNjrxhDizI0fCnLi6HL9QjnHQPAuOMEohZk-FXtGF6_jhPT7-IZ-PL2nQ8_iN60TjHo_EGPkjQ8vDItS4441xxUZzKRXK5rhzIlcSBroSGZXMojmeI1bH4UuPanHg4c5gpUQjKSTO7MgPLRdCqcSNhw_MtcKP5yLiZdCTMMSPBj3yZQvOH196NBnuDJazwQ1zFbUSqbi-DWEO7YidRQqeHmZEH1_QZ8WPsEkyEac-I_cR5qlQkjn0jMKnBmGOp4ngH02WRThznNlxJBxyE1_C47rRnKJQ5UV-qE2iFL-K6miOnA8-hccZaiT8HF92VDvq6PhG5Be0C2HyxPjwPEKpZEnRfMdzhHl4iJGSo81m6Dya_NCOpzlCLZlyuDw8EtdhHa2KZ8clJMuJcMaXxnimGM2ZCb3waEeeJEqhS5TxH01-hHyGH48So5QPX8fVCM-IOjry5dCRBiePKztqp2ie4UI4kdCcD5eUHDqaHNqV4d2RK2mKJpKNHtVhfYc3Bi1znKaQLBfC4dIy1KmDhqdwJ8rxRscXLUeeZCn0Fc0Q0jr-xbiSsqgkDs2PnniPVkTOQKcQBj0jXDaeOjDHHO_x-Eie4k2mojUaXE_wLxVyo1PSwMeJTT9MTcd0fcVNhGeRLMe3rBLO9Gh4oZeCmzc-R8OjPQi1Gz6qHzqn4UoQii-aHWeO_kM1Ucf7EO9iNEey46mS4sxDhGGcGiWXIxSeB3U0Co-O-DDijdlw5kfipUHN45gWOUebMBf8oOQR6dCiPEfMzajzobmPJ8px3EuOM5mFuyjCHI8DndfwzAiTy8IzOLphJjpKtXiE3kiWvDiLPGgmx0e10cKtHf-Rh5rxaDGO5lCk57h3IV7SDHUDj_CXC5c2Fo2U6MF5PEiWE5Hmq7j0CE9Se_CZ4Md_DY-OsEnyQP3QHLmOn9Nw5WjCuAKOL0edicRT5IeoI-9wSVmKZzrMp7gozcYRS1s04UmI_vCOSn-gc0Uc5SgVJtXhw8-OShoto01KNApz4UT4JIaWI070oUzCOGjO_PhR_cijH9USPbgRZj_CHy83qPxRRUmP9PCJf4OZHKUU_AgPLc8RS2Lw8Gg4puiP_8i3UYK6JMlS6GgOTciVbME_VBOTCs1ROQ8sLzCTo96ME8mPVMc_42I4NE_RB__xOUe8JMmDq2h-aMezbEG86HiWBs1xSvhH1DqeJHmGu4jfIGHwScIrC23iw8-M54LjsELKSBLqJBduaA_CPMbVD8_SoGFsHP5iONyONtFxpshzGeJp5OlxhsfDVWjGRCyq42GGPAkLdRHVQTuae8J_4dkkqFk2mLERnWh_-CSDpgkuRSvyQktuIWSZ47Fw9bDKFGU1pFF3aGnH4UlCBwpPNEePeznOQ3MYTkg5OB9Owj764EcOLSfCxnh69EwFH6HiHXq2VHhy6B18Q1csfCTyB1NV-LA8_JkDM-lRsaPwHEnEB2EU6zi3MHhywf_xkKgsdLuKPFFkvOih5XmMfHnxhSGa0DmKylFg_WimaMSVHHcQHsmycnjuYc-Pvmh-VJp6_EfaQSdR8cfBqHkKfxt043B28MZB9-hZPJBiHl4H_8dvRD9anjjCs4d_aD4eERdz5B9-PEesB08y7NGDX3ggXQgTcUQn5rgeESf4ZJhyojzy7IL2sEfx49KFKwk3fLpx4Te-LDv640yPyQqPr05wGmwDTQ-a4znyLhuW88EvhNlRC3pyXDy-7dCp48eeFrGUZLg-EDkm9jicp-ieQ9UV7FEheeQwQz_6HD6K_yOeaMeX4osOORKPL2h35DdCJ8TJ46wTPDOO9UGYo1KPfa3wC_2QdodoXEqKMBET4Tse5scvPEYkSjnaPTjBB9pHRErEBNceRNQn8ER0BX6FP8izvEKtCj1-6Et0vJzwDb_wouWPH4-mCmFXBzlTPFC0UEEY_Di3BHNPfA8cIT_04DyuJToeXngh94j1DD19PMlR60GOfXggJfHQ_bhJ4owTgS8UhRc0PviiWYBmfDmqRcmDMzquN3geRBePJ8mRC18OgoAAChkQjADAeEAARIQZSYABBDJgAAAEAwKBoIIIY4gwRDAAEDQBUSIAAAASJLQQwjAmGBJYMGQtgcAAgRCQgCFhhDCCQIMAMoQI5YgQToFBAUACASEAQIKQIgADUhhENEAGAQAAEgJYCiADAAAiFBDAEECBQgQZAQAAhmBAhCEAGAWQQZQAhASRAAjlNDCACCKIMUYwAhwEAgjjiEGCEGEEAYAwI4ARCAAgCDQKAMCQEUoIohEySAsAiBEGQAAAEMQxIgQiwDsgDAMAAMAkAQIAAAgQCiABDAMCKUQAAggQQ4EggAiFIELAKYCIFIYBIIQAQgAuECBOWACIIEYgQIFiQBEBAgAEACakAcIoIAQwwAihkDLOOKOEABQgBhARTAghAAEMYAQQMIAZAAQhQjgEAEDAGAXEEYQAgABxzhAAhAGCEAIAAMIAYZwAQABECBCUEAQcAAgCCAAwlBlAiGDKCQCYAEQgQIwBSgBNDAGCGAGVAIoIYZAghAgmgDBOAIIIAw4IwQgVQAhGLFPEGSEAMMIY0owQQgBgiKEIAUWAgwAAAQzBDgAgOAOACQgBQAAAYZAwAigFTBCEIqEAAA4BAIAgDBAlCBDCAoAYBRoAJAgCCgBImIDGOEaBAcAgAYASAFACEGMAE0KMAcw4BAAghiAECGDCAAYEAgQIY4WhBhjgjACAQAOkAcIYgwUAABglABUDASGIQNZh5gABABBmkQBGAUMoINgYwIQABiBEPSBCCSEAEAQhBQgQRkjsDJFAAUAQBIYQgRRVBBAElPACAUUcIwIIpiERRAhsgDJIMEEMEQYAYJgQAAoiDGNGEgAAIII5ZJQDATjnNBAEAAEI4EQgZwwzgDAIBAAEUoKMEQYAh5AiRghDuEZECGOBAMAIJhgRyCHlmHHIEGURcgAYQIwQAiHFqAMCMK2EIxQQwYQQQhkCDgA&meta=recordings%20releasegroups%20compress
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      Accept:
+      - "*/*"
+      User-Agent:
+      - rest-client/2.1.0 (darwin20.3.0 x86_64) ruby/2.7.1p83
+      Accept-Encoding:
+      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+      Host:
+      - api.acoustid.org
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Date:
+      - Tue, 29 Jun 2021 21:24:21 GMT
+      Content-Type:
+      - application/json; charset=UTF-8
+      Transfer-Encoding:
+      - chunked
+      Connection:
+      - keep-alive
+      Vary:
+      - Accept-Encoding
+      Access-Control-Allow-Origin:
+      - "*"
+      X-Envoy-Upstream-Service-Time:
+      - '90'
+      Strict-Transport-Security:
+      - max-age=15724800; includeSubDomains
+    body:
+      encoding: ASCII-8BIT
+      string: '{"results": [{"id": "e19682f1-8b9f-4bbf-b389-4fd4361b4ce4", "recordings":
+        [{"artists": [{"id": "417719c4-24db-46c0-ac49-8a8989cb716f", "name": "One
+        Inch Punch"}], "duration": 292, "id": "b5e94440-b2be-4a82-8e30-488dd8c75643",
+        "releasegroups": [{"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "650ebbf1-e25c-3f13-ac2b-d98010c1c5ee",
+        "secondarytypes": ["Soundtrack"], "title": "William Shakespeare\u2019s Romeo
+        + Juliet: Music From the Motion Picture", "type": "Album"}], "title": "Pretty
+        Piece of Flesh"}], "score": 0.974452}], "status": "ok"}'
+    http_version:
+  recorded_at: Tue, 29 Jun 2021 21:24:21 GMT
+recorded_with: VCR 3.0.3

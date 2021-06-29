@@ -1,0 +1,29 @@
+{
+  "results": [
+    {
+      "id": "c620dcf2-3f73-4750-b5ac-06568ce2e648",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "9ddfc28e-9869-429e-8200-567dcf5ef008",
+              "name": "High Frequency Bandwidth"
+            }
+          ],
+          "duration": 233,
+          "id": "2781f777-7c60-4b6f-8d39-9bad42ffc7c6",
+          "releasegroups": [
+            {
+              "id": "f42dafb1-e799-47f8-960f-5039cc4c729d",
+              "title": "Hell Fire and Brimstone",
+              "type": "Album"
+            }
+          ],
+          "title": "Holes for Black"
+        }
+      ],
+      "score": 0.993869
+    }
+  ],
+  "status": "ok"
+}

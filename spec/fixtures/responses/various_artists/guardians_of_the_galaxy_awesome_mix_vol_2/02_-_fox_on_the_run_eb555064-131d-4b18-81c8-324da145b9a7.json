@@ -1,0 +1,1388 @@
+{
+  "results": [
+    {
+      "id": "1544a495-9dac-48f1-b6e3-932a99d7a290",
+      "recordings": [
+        {
+          "id": "0b360210-9355-447b-972a-db9380989d6c"
+        },
+        {
+          "id": "1ea47ea2-3f2c-406c-8783-ea59449e3be0"
+        },
+        {
+          "id": "21920cbf-a91a-4673-9972-e622bf798c5b"
+        },
+        {
+          "artists": [
+            {
+              "id": "dc73bb40-b697-4df9-a2ec-0555bebdba75",
+              "name": "The Sweet"
+            }
+          ],
+          "duration": 211,
+          "id": "536f8d4a-1c7a-4cc4-97da-afa574471f37",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "b74e8ad4-6b16-4a9b-b449-54b37052bd16",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Die ultimative Chart Show: Die erfolgreichsten Singles",
+              "type": "Album"
+            }
+          ],
+          "title": "Fox on the Run"
+        },
+        {
+          "artists": [
+            {
+              "id": "dc73bb40-b697-4df9-a2ec-0555bebdba75",
+              "name": "The Sweet"
+            }
+          ],
+          "duration": 202,
+          "id": "60dc791c-eb8d-438d-9367-e31d4452212a",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "dc73bb40-b697-4df9-a2ec-0555bebdba75",
+                  "name": "The Sweet"
+                }
+              ],
+              "id": "3a681978-1067-4328-b4c8-5d8643e58216",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Sensational Sweet: Chapter One The Wild Bunch",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "dc73bb40-b697-4df9-a2ec-0555bebdba75",
+                  "name": "The Sweet"
+                }
+              ],
+              "id": "e4813866-4e28-3265-b6b5-65349b7543a1",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "The Best of Sweet",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "dc73bb40-b697-4df9-a2ec-0555bebdba75",
+                  "name": "The Sweet"
+                }
+              ],
+              "id": "fa8ebd6b-88d1-46c7-9fb6-f336b2cc1120",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "The Lost Singles: The Non-Album Hits And B-Sides",
+              "type": "Album"
+            },
+            {
+              "id": "a62f9c1f-435d-46ef-9034-f963d80d6e32",
+              "title": "Fox on the Run",
+              "type": "Single"
+            }
+          ],
+          "title": "Fox on the Run (single version)"
+        },
+        {
+          "artists": [
+            {
+              "id": "dc73bb40-b697-4df9-a2ec-0555bebdba75",
+              "name": "The Sweet"
+            }
+          ],
+          "duration": 204,
+          "id": "8db8354b-2e65-4b23-8b99-da7212ac128c",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "f4edaae3-c0c1-403a-a681-715a2aa67916",
+              "title": "Apollo Hits"
+            }
+          ],
+          "title": "Fox on the Run"
+        },
+        {
+          "artists": [
+            {
+              "id": "dc73bb40-b697-4df9-a2ec-0555bebdba75",
+              "name": "The Sweet"
+            }
+          ],
+          "duration": 204,
+          "id": "cf944524-4d02-44cc-b479-7885ccd136f1",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "97e7dd7d-869f-3294-8795-35ec08e0ba0c",
+              "secondarytypes": [
+                "Remix"
+              ],
+              "title": "Rock Mix, Volume 1",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "8d4d9331-4696-47bd-b82e-e00835e344cb",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "40 Jahre - 40 Hits",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "7e9d7829-6af2-4b82-9ad4-b1735dd4f279",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "De perfecte autoradio CD",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "33e9e6b2-0fd9-3a40-83c8-bfb3c338d7af",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Let's Have a Party 2",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "dc73bb40-b697-4df9-a2ec-0555bebdba75",
+                  "name": "The Sweet"
+                }
+              ],
+              "id": "82993041-b4e7-3d33-aa84-cdd20461da53",
+              "title": "Desolation Boulevard",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "f7e7d2e9-ae69-4428-be8c-0b6c9cd6ce5f",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Guitar Rock: More Hot Guitar Licks",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "dc73bb40-b697-4df9-a2ec-0555bebdba75",
+                  "name": "The Sweet"
+                }
+              ],
+              "id": "b180b8e4-ee73-35e2-8c26-9d3db30da8df",
+              "secondarytypes": [
+                "Compilation",
+                "Live"
+              ],
+              "title": "Strung Up",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "51244be0-332e-3950-9fdf-af8831528abd",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Personal Best Hits",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "9b15ed23-44a4-4ceb-baee-f9baa01f65e5",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Nr. 1 Hits der 70er: 45 Jahre ZDF Disco",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "92d59569-a365-347b-9fd3-76554f062979",
+              "secondarytypes": [
+                "Soundtrack"
+              ],
+              "title": "Gracie",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "dc73bb40-b697-4df9-a2ec-0555bebdba75",
+                  "name": "The Sweet"
+                }
+              ],
+              "id": "cb0f2c7e-6603-36dd-9b48-3792162886c4",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "The Collection",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "9ceb9d21-4fed-4748-92b0-d0f4cd0f2d26",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Oldie Marathon",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "778e2436-ae57-3f31-9570-ab4e9fefc028",
+              "secondarytypes": [
+                "Compilation",
+                "Soundtrack"
+              ],
+              "title": "Dazed and Confused",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "79c07f2c-4429-3649-b635-ea4e2e558c72",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "70s Flashback",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "f0993f3b-b814-3be5-a176-3178df2acf77",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Die ultimativen Chart-Hits: Das Beste aus den 70ern",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "574c876e-a2f6-447e-abd0-15211039c09b",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Nr. 1 Giganten",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "e3a473b9-140f-4328-a417-dae0ae90331d",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Hard to Find 45s on CD, Volume 18: 70s Essentials",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "dc73bb40-b697-4df9-a2ec-0555bebdba75",
+                  "name": "The Sweet"
+                }
+              ],
+              "id": "341bf344-b9af-4680-ad9e-d195de274983",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Castle Masters Collection: The Sweet",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "689b4e72-7062-3d5f-9c94-7c3fc7177bc4",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Hot Pop",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "dc73bb40-b697-4df9-a2ec-0555bebdba75",
+                  "name": "The Sweet"
+                }
+              ],
+              "id": "23e93fff-e565-3162-8452-f30d2ea43134",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Sweet 16: It’s It’s… Sweet’s Hits",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "da565301-83bc-4873-a4ac-9d0c5feebbe7",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "100% Rock Classic",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "dc73bb40-b697-4df9-a2ec-0555bebdba75",
+                  "name": "The Sweet"
+                }
+              ],
+              "id": "3b87a805-83a8-44d4-82ff-601083223a13",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "The Golden Greats",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "dc73bb40-b697-4df9-a2ec-0555bebdba75",
+                  "name": "The Sweet"
+                }
+              ],
+              "id": "ff8cce0f-0022-3fba-8e33-5bfec02eadfb",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "The Best of Sweet",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "1492d465-7378-4a98-89ed-a028efb44494",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Legendary Pop & Rock Groups",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "dc73bb40-b697-4df9-a2ec-0555bebdba75",
+                  "name": "The Sweet"
+                }
+              ],
+              "id": "dbeed165-9d7a-3bcb-ac21-fe2178dd462b",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Sweet Originals: The Best 37 Glamrock Songs Ever",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "dc73bb40-b697-4df9-a2ec-0555bebdba75",
+                  "name": "The Sweet"
+                }
+              ],
+              "id": "d5c51775-c742-3a2d-ba05-104587952e7a",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "The Very Best of Sweet",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "07fd8fb8-6a20-4e7d-bda4-ff9a906035b9",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "100 Hit Legenden",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "dc73bb40-b697-4df9-a2ec-0555bebdba75",
+                  "name": "The Sweet"
+                }
+              ],
+              "id": "09e59982-860d-356a-84bf-47976a127a22",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Starke Zeiten",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "41c5ba83-ed19-4ebd-a1cc-b7cba41a197d",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Solid Gold Hits",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "d1892f23-18eb-4479-a8ef-e1117a9d5d53",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "100 Hits: The Best Rock and Power Ballads Album",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "dc73bb40-b697-4df9-a2ec-0555bebdba75",
+                  "name": "The Sweet"
+                }
+              ],
+              "id": "ce28431c-4adf-4f53-a643-ee4f8b627e3b",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Action: The Sweet Anthology",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "52e36958-2d05-35de-8149-9fbf92d8aedd",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Absolute Rock Classics 2",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "af2140b4-aea3-3bcb-a1ea-a3a80e6c4298",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Super Hits of the '70s: Have a Nice Day, Vol. 23",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "dc73bb40-b697-4df9-a2ec-0555bebdba75",
+                  "name": "The Sweet"
+                }
+              ],
+              "id": "e4813866-4e28-3265-b6b5-65349b7543a1",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "The Best of Sweet",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "dc73bb40-b697-4df9-a2ec-0555bebdba75",
+                  "name": "The Sweet"
+                }
+              ],
+              "id": "646a9258-41a6-4a84-a300-3a5d96b3cef3",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Blockbuster: The Best of Sweet",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "81421773-c86a-32e1-b63f-da782eda24c5",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "100 Nr. 1 Hits, Volume 1",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "dc73bb40-b697-4df9-a2ec-0555bebdba75",
+                  "name": "The Sweet"
+                }
+              ],
+              "id": "3b308dee-ed39-4fd2-82f1-d5291e17511b",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Gold",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "2d4782d9-a58a-4aec-a604-e97567fe5788",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "The History of Pop 1973–1976",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "8f2c1882-00d0-38e7-970f-d57479b98514",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "30 Jahre Top Ten Hits: Die 70er!",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "0462c7a5-201b-4af0-91e6-46fcd8dc7a82",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Molly: Counting Down the Hits",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "5432844e-fe60-3258-afa9-77bc736096af",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "The 70s, Volume 2",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "dc73bb40-b697-4df9-a2ec-0555bebdba75",
+                  "name": "The Sweet"
+                }
+              ],
+              "id": "0d14be74-734e-3284-a9b8-1966c3f87644",
+              "title": "Give Us a Wink",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "dc73bb40-b697-4df9-a2ec-0555bebdba75",
+                  "name": "The Sweet"
+                }
+              ],
+              "id": "701444f5-45d0-3176-9845-7215e96bb241",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "A Portrait of The Sweet",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "cc029787-6b62-469b-80af-0aef0c743785",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "HitRadio-RadioHits, Volume 2",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "752bc3c8-709a-4db3-87e3-38f2359f6c67",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Capitol Records 50th Anniversary 1942–1992",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "dc73bb40-b697-4df9-a2ec-0555bebdba75",
+                  "name": "The Sweet"
+                }
+              ],
+              "id": "bd71cd5a-57d9-4450-aed2-76b819d7666c",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Greatest Hits",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "4f1e01ea-65c8-447a-a615-cc97d409f591",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Pop der perlt",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "dc73bb40-b697-4df9-a2ec-0555bebdba75",
+                  "name": "The Sweet"
+                }
+              ],
+              "id": "f9ecf701-18f6-3139-abab-6c9ce76c6c07",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Fox on the Run - Best",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "1a648cd4-e5b7-46ba-9566-4967bb225913",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Oldie Juke Box",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "f006b3cd-2fd0-329b-88fe-d3cd775edabe",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Cruisin' 1 Summer Sizzlers",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "d0ac753e-17ee-30e1-972a-734550b66818",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Hits of the 70s",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "f8d5bd7f-ecef-30f9-b087-ce0669f53cb5",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "70's Rock Party",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "28fdffaf-205e-458b-9ccb-7adacea4c2df",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Dazed and Confused / Even More Dazed and Confused",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "f664674f-5d17-439a-9065-799fa6432235",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "WDR 4: Ab in die 70er",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "c4414164-615a-30b0-bdb0-f165c47ef033",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Seventies Top 100",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "dc73bb40-b697-4df9-a2ec-0555bebdba75",
+                  "name": "The Sweet"
+                }
+              ],
+              "id": "29985e64-41c0-3eed-83d8-5ed2d78f8932",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "HitStory",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "dc73bb40-b697-4df9-a2ec-0555bebdba75",
+                  "name": "The Sweet"
+                }
+              ],
+              "id": "24a1aa58-a8b8-395c-9a85-9ced946ea53f",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Ballroom Hitz",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "c5025dea-1ea0-33ee-a8d3-b5a547de6896",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Wickie, Slime und Paiper, Volume 2",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "c965cdbb-8c3c-3d72-8065-c9a41f7dfd5a",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Hard Rock Cafe: Party Rock",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "b19da3c0-9015-475e-8cdc-e938b8201cfc",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "The Number One's: Rock It Up",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "212677b8-1c0e-3e83-b952-0a2ebccc3c4c",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Then: Ultimate Rock Mix",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "7c3c56a6-d1fc-31f4-9ea6-8fa8b0b7b777",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Forever Gold: 70's Decade",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "12b62e89-c9f1-3c86-ac28-b3a08e035448",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Best of Jukebox Hits",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "c847dde6-620b-4e28-8079-0d342c8dd208",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Absolute 70’s",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "dc73bb40-b697-4df9-a2ec-0555bebdba75",
+                  "name": "The Sweet"
+                }
+              ],
+              "id": "f5798f74-6cbd-4e87-92d9-b7a1d6f743d3",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Action: The Ultimate Story",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "dc73bb40-b697-4df9-a2ec-0555bebdba75",
+                  "name": "The Sweet"
+                }
+              ],
+              "id": "aa7eb92d-59b3-44a3-a717-6b940cb935bc",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Rock Gold",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "dc73bb40-b697-4df9-a2ec-0555bebdba75",
+                  "name": "The Sweet"
+                }
+              ],
+              "id": "1a437245-7d34-32fb-bf90-fff4f0bead8c",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Hit Singles A & B Sides",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "5e5aa51a-fd2e-31c8-920b-433f27c1dee3",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Very Best of the 70’s, Volume IV",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "0a5ae5ae-2a70-461a-ae34-821c9ceb43a2",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "1. Oldie Night",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "7355334c-bfe7-49d5-8353-1b35b8034727",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Champions of Music",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "dc73bb40-b697-4df9-a2ec-0555bebdba75",
+                  "name": "The Sweet"
+                }
+              ],
+              "id": "cb465aff-9749-3d42-9e9c-89fd040f4dcf",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "The Ballroom Blitz & More Sweet Hits",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "a6b6f9f2-487f-3ca6-a00f-c29286da238f",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Rock Line 2",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "dc73bb40-b697-4df9-a2ec-0555bebdba75",
+                  "name": "The Sweet"
+                }
+              ],
+              "id": "baa4a260-cf6d-3c3b-a90a-0423c2dce571",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "The Sweet",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "b687045e-1fcb-4532-b340-cd6ce0f35df9",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Classic Cuts: Number 2’s",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "dc73bb40-b697-4df9-a2ec-0555bebdba75",
+                  "name": "The Sweet"
+                }
+              ],
+              "id": "a62f9c1f-435d-46ef-9034-f963d80d6e32",
+              "title": "Fox on the Run",
+              "type": "Single"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "35fb2b46-4d52-4acc-af21-760a9c42b791",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "A Year in Your Life: 1976, Volume One",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "7f248060-04f5-3427-a787-cf0bcb76f6c7",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Glam Rock",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "36e58510-5b85-4f48-8972-de5c55e01c26",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Bubble Gum Party 2",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "dc73bb40-b697-4df9-a2ec-0555bebdba75",
+                  "name": "The Sweet"
+                }
+              ],
+              "id": "55d3dede-02eb-3841-942a-a961f85751ed",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Ballroom Hitz: The Very Best of Sweet",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "ca3406f3-391b-3608-aa13-242696d455c8",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Media Markt Collection: The 70s",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "4be48623-e9c2-3a00-b569-df894fc245c8",
+              "secondarytypes": [
+                "Compilation",
+                "Soundtrack"
+              ],
+              "title": "Lords of Dogtown: Music From the Motion Picture",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "f941963a-fc4f-4bd8-8990-b122d6affe80",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "30 Years of Mega No.1 Hits (disc 1)",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "b345d3b0-7841-399c-bced-fee539288934",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Glam Kings of Rock: The True Story of Glam Rock",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "dc73bb40-b697-4df9-a2ec-0555bebdba75",
+                  "name": "The Sweet"
+                }
+              ],
+              "id": "00f902c4-360f-4714-85ee-1d11063c9e49",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Action",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "7e836750-3cd3-4c71-aa9e-b5143bc56a2b",
+              "secondarytypes": [
+                "Soundtrack"
+              ],
+              "title": "Guardians of the Galaxy: Awesome Mix, Vol. 2 (Original Motion Picture Soundtrack)",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "a8320550-c238-3ddb-9634-af6ab030b06f",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Die Hit-Giganten: Hits der 70er",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "e4230957-024f-3d24-8032-258d719f314c",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "The Ultimate Jukebox Hits of the 70s",
+              "type": "Album"
+            }
+          ],
+          "title": "Fox on the Run"
+        },
+        {
+          "artists": [
+            {
+              "id": "dc73bb40-b697-4df9-a2ec-0555bebdba75",
+              "name": "The Sweet"
+            }
+          ],
+          "duration": 209,
+          "id": "d46977d8-fba3-428e-be68-c6f6d16e3782",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "13aced43-b898-48d3-8a8e-7884ce012e3e",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "The Best of 70’ Rock Edition, Volume 2",
+              "type": "Album"
+            }
+          ],
+          "title": "Fox on the Run"
+        },
+        {
+          "id": "ec963389-22ea-4510-9952-c1f6d24c3d49"
+        },
+        {
+          "id": "f09af315-5447-43b2-87e6-72a0e1a1f9ab"
+        }
+      ],
+      "score": 0.904008
+    }
+  ],
+  "status": "ok"
+}

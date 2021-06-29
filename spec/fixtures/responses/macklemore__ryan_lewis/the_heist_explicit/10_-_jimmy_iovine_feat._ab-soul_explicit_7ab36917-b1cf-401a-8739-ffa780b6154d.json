@@ -1,0 +1,40 @@
+{
+  "results": [
+    {
+      "id": "f4b3338a-0582-4888-b576-c0ec6b2eb4a6",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "97b226c8-7140-4da3-91ac-15e62e131a81",
+              "joinphrase": " feat. ",
+              "name": "Macklemore & Ryan Lewis"
+            },
+            {
+              "id": "acc12019-10e3-40aa-b4bf-66fbb4a692af",
+              "name": "Ab-Soul"
+            }
+          ],
+          "duration": 233,
+          "id": "dbef07ec-49d5-4774-b01b-00c10a898091",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "97b226c8-7140-4da3-91ac-15e62e131a81",
+                  "name": "Macklemore & Ryan Lewis"
+                }
+              ],
+              "id": "22315cdd-4ed9-427c-9492-560cf4afed58",
+              "title": "The Heist",
+              "type": "Album"
+            }
+          ],
+          "title": "Jimmy Iovine"
+        }
+      ],
+      "score": 0.970266
+    }
+  ],
+  "status": "ok"
+}

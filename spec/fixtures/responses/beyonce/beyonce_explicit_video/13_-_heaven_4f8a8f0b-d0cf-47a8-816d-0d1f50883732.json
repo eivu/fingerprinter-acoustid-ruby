@@ -1,0 +1,53 @@
+{
+  "results": [
+    {
+      "id": "e22f0620-995b-4dc3-b92f-202155d20d38",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "859d0860-d480-4efd-970c-c05d5f1776b8",
+              "name": "Beyoncé"
+            }
+          ],
+          "duration": 230,
+          "id": "176ac145-619b-4f00-a726-558dc126e396",
+          "releasegroups": [
+            {
+              "id": "8596171e-23b2-4bdd-8f1c-11960df0ecbe",
+              "title": "BEYONCÉ",
+              "type": "Album"
+            }
+          ],
+          "title": "Heaven"
+        }
+      ],
+      "score": 0.94673
+    },
+    {
+      "id": "78adeca3-98ea-4c10-a846-b2e546df5a8e",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "859d0860-d480-4efd-970c-c05d5f1776b8",
+              "name": "Beyoncé"
+            }
+          ],
+          "duration": 230,
+          "id": "176ac145-619b-4f00-a726-558dc126e396",
+          "releasegroups": [
+            {
+              "id": "8596171e-23b2-4bdd-8f1c-11960df0ecbe",
+              "title": "BEYONCÉ",
+              "type": "Album"
+            }
+          ],
+          "title": "Heaven"
+        }
+      ],
+      "score": 0.675435
+    }
+  ],
+  "status": "ok"
+}

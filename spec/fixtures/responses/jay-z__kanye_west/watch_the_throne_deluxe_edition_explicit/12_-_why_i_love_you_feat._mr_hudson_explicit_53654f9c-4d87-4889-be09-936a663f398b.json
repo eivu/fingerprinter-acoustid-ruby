@@ -1,0 +1,202 @@
+{
+  "results": [
+    {
+      "id": "b78c0699-e46a-4e5b-9433-9fd854376057",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "37d0a847-32d3-480f-bd1e-101f50a3d332",
+              "name": "Selena Gomez & The Scene"
+            }
+          ],
+          "duration": 188,
+          "id": "1a22c8ba-3f56-44a5-90fb-8eb150811b8f",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "bb639632-ab64-4766-b4ab-2a2ad95a6190",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "NOW That's What I Call Music Classics, Vol. 3",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "bf35d758-3824-4f82-846e-77667914a53f",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Promo Only: Mainstream Radio, October 2011",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "e4bc69e2-a064-4f93-ada1-f7f209cc1cc3",
+                  "name": "Selena Gomez"
+                }
+              ],
+              "id": "794ce738-1562-4dc8-be73-7923a8961618",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "For You",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "c161665e-e3ae-447e-84ba-3da00fa0ca68",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Now That’s What I Call Music! 41",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "7e85c76c-4c56-4ffa-82a8-efcda1f1b127",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Supergeil! Lovesongs",
+              "type": "Album"
+            },
+            {
+              "id": "4e5b294b-c166-4d24-81cf-4b6ee5af3e75",
+              "title": "When the Sun Goes Down",
+              "type": "Album"
+            }
+          ],
+          "title": "Love You Like a Love Song"
+        },
+        {
+          "artists": [
+            {
+              "id": "f8e8de78-2131-4e96-8829-ba3614f48a48",
+              "name": "Nico & Vinz"
+            }
+          ],
+          "duration": 204,
+          "id": "696667fa-4e98-4391-8194-5d68e7a7ee55",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "7b89ac04-8b5a-4576-aea8-fb53be56bac3",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Promo Only: Mainstream Radio, October 2014",
+              "type": "Album"
+            }
+          ],
+          "title": "In Your Arms"
+        },
+        {
+          "artists": [
+            {
+              "id": "f82bcf78-5b69-4622-a5ef-73800768d9ac",
+              "joinphrase": " & ",
+              "name": "Jay-Z"
+            },
+            {
+              "id": "164f0d73-1234-4e2c-8743-d77bf2191051",
+              "joinphrase": " feat. ",
+              "name": "Kanye West"
+            },
+            {
+              "id": "585fee48-98c7-45b4-a47c-78d629b773b8",
+              "name": "Mr Hudson"
+            }
+          ],
+          "duration": 199,
+          "id": "7b0bb9f7-b634-48ae-9e82-270eae7af983",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "bf35d758-3824-4f82-846e-77667914a53f",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Promo Only: Mainstream Radio, October 2011",
+              "type": "Album"
+            }
+          ],
+          "title": "Why I Love You (Promo Only clean edit)"
+        },
+        {
+          "artists": [
+            {
+              "id": "f82bcf78-5b69-4622-a5ef-73800768d9ac",
+              "joinphrase": " & ",
+              "name": "Jay-Z"
+            },
+            {
+              "id": "164f0d73-1234-4e2c-8743-d77bf2191051",
+              "joinphrase": " feat. ",
+              "name": "Kanye West"
+            },
+            {
+              "id": "585fee48-98c7-45b4-a47c-78d629b773b8",
+              "name": "Mr Hudson"
+            }
+          ],
+          "duration": 201,
+          "id": "ff740436-528d-41b7-b36f-71439d63f0ab",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "f82bcf78-5b69-4622-a5ef-73800768d9ac",
+                  "joinphrase": " & ",
+                  "name": "Jay-Z"
+                },
+                {
+                  "id": "164f0d73-1234-4e2c-8743-d77bf2191051",
+                  "name": "Kanye West"
+                }
+              ],
+              "id": "a96597aa-93b4-4e14-9e6e-03892ab24979",
+              "title": "Watch the Throne",
+              "type": "Album"
+            }
+          ],
+          "title": "Why I Love You"
+        }
+      ],
+      "score": 0.934335
+    }
+  ],
+  "status": "ok"
+}

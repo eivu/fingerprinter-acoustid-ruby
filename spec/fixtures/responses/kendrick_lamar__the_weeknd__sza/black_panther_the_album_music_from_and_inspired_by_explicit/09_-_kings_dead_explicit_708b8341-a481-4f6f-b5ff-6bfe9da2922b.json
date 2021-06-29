@@ -1,0 +1,121 @@
+{
+  "results": [
+    {
+      "id": "5ea9abea-57d7-466e-902a-dd80612a7eca",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "9880800a-f6f8-4f8f-a00e-b4b664776c0c",
+              "joinphrase": ", ",
+              "name": "Jay Rock"
+            },
+            {
+              "id": "381086ea-f511-4aba-bdf9-71c753dc5077",
+              "joinphrase": ", ",
+              "name": "Kendrick Lamar"
+            },
+            {
+              "id": "48262e82-db9f-4a92-b650-dfef979b73ec",
+              "joinphrase": " & ",
+              "name": "Future"
+            },
+            {
+              "id": "8dc08b1f-e393-4f85-a5dd-300f7693a8b8",
+              "name": "James Blake"
+            }
+          ],
+          "duration": 225,
+          "id": "eb150384-0abc-411b-a9ab-b64921dbdcb6",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "9880800a-f6f8-4f8f-a00e-b4b664776c0c",
+                  "joinphrase": ", ",
+                  "name": "Jay Rock"
+                },
+                {
+                  "id": "381086ea-f511-4aba-bdf9-71c753dc5077",
+                  "joinphrase": ", ",
+                  "name": "Kendrick Lamar"
+                },
+                {
+                  "id": "48262e82-db9f-4a92-b650-dfef979b73ec",
+                  "joinphrase": " & ",
+                  "name": "Future"
+                },
+                {
+                  "id": "8dc08b1f-e393-4f85-a5dd-300f7693a8b8",
+                  "name": "James Blake"
+                }
+              ],
+              "id": "952ea029-b751-4487-87b5-cc8b8f30511f",
+              "title": "King's Dead",
+              "type": "Single"
+            },
+            {
+              "artists": [
+                {
+                  "id": "381086ea-f511-4aba-bdf9-71c753dc5077",
+                  "name": "Kendrick Lamar"
+                }
+              ],
+              "id": "4e317e28-e6b2-46d7-81f7-306e349b3dd4",
+              "secondarytypes": [
+                "Soundtrack"
+              ],
+              "title": "Black Panther: The Album (Music From and Inspired By)",
+              "type": "Album"
+            }
+          ],
+          "title": "King’s Dead"
+        },
+        {
+          "artists": [
+            {
+              "id": "9880800a-f6f8-4f8f-a00e-b4b664776c0c",
+              "joinphrase": ", ",
+              "name": "Jay Rock"
+            },
+            {
+              "id": "381086ea-f511-4aba-bdf9-71c753dc5077",
+              "joinphrase": ", ",
+              "name": "Kendrick Lamar"
+            },
+            {
+              "id": "48262e82-db9f-4a92-b650-dfef979b73ec",
+              "joinphrase": " & ",
+              "name": "Future"
+            },
+            {
+              "id": "8dc08b1f-e393-4f85-a5dd-300f7693a8b8",
+              "name": "James Blake"
+            }
+          ],
+          "duration": 225,
+          "id": "ff291c6c-07a1-472f-827a-ae678a41691b",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "381086ea-f511-4aba-bdf9-71c753dc5077",
+                  "name": "Kendrick Lamar"
+                }
+              ],
+              "id": "4e317e28-e6b2-46d7-81f7-306e349b3dd4",
+              "secondarytypes": [
+                "Soundtrack"
+              ],
+              "title": "Black Panther: The Album (Music From and Inspired By)",
+              "type": "Album"
+            }
+          ],
+          "title": "King’s Dead"
+        }
+      ],
+      "score": 0.977155
+    }
+  ],
+  "status": "ok"
+}

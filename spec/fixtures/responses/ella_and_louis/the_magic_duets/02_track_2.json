@@ -1,0 +1,338 @@
+{
+  "results": [
+    {
+      "id": "f01b34dd-1f0e-418b-9332-9bc0072eb963",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+              "joinphrase": " & ",
+              "name": "Ella Fitzgerald"
+            },
+            {
+              "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+              "name": "Louis Armstrong"
+            }
+          ],
+          "duration": 195,
+          "id": "00141223-ac50-4d1f-859c-426a196a9244",
+          "releasegroups": [
+            {
+              "id": "8a796362-8901-38d2-a271-b56a19d0395a",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "The Magic Duets",
+              "type": "Album"
+            }
+          ],
+          "title": "Can Anyone Explain? (No, No, No!)"
+        },
+        {
+          "artists": [
+            {
+              "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+              "name": "Louis Armstrong"
+            }
+          ],
+          "duration": 188,
+          "id": "3be839ef-4c43-436f-b432-a064c2d1e91e",
+          "releasegroups": [
+            {
+              "id": "2c3e750e-b21c-30f4-802a-64303a61eb42",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Selection of Louis Armstrong",
+              "type": "Album"
+            }
+          ],
+          "title": "Can Anyone Explain?"
+        },
+        {
+          "artists": [
+            {
+              "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+              "name": "Louis Armstrong"
+            }
+          ],
+          "duration": 192,
+          "id": "6133d1ce-9587-4c65-8122-0011594e17da",
+          "releasegroups": [
+            {
+              "id": "8d80301f-a239-4bbf-9959-0d3e5018f752",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Louis Armstrong & Guests",
+              "type": "Album"
+            }
+          ],
+          "title": "Can Anyone Explain? (No, No, No!)"
+        },
+        {
+          "artists": [
+            {
+              "id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+              "joinphrase": " & ",
+              "name": "Ella Fitzgerald"
+            },
+            {
+              "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+              "name": "Louis Armstrong"
+            }
+          ],
+          "duration": 191,
+          "id": "64187748-4e9b-4166-9100-74c95ec05e6a",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "e9ad97a1-7fbe-4e88-bcba-2e244a5e5a71",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "In the Jazz Mood"
+            },
+            {
+              "artists": [
+                {
+                  "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+                  "name": "Louis Armstrong"
+                }
+              ],
+              "id": "c62fed09-2580-4d7e-855b-b9c5513b6116",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "The Chronological Classics: Louis Armstrong 1950-1951",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+                  "joinphrase": " & ",
+                  "name": "Ella Fitzgerald"
+                },
+                {
+                  "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+                  "name": "Louis Armstrong"
+                }
+              ],
+              "id": "0cbe776a-d90b-424c-bd31-a87a42025821",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Ella and Louis: The Anthology",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "fb49b554-24db-3a30-b5f0-81540d934c8a",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Greatest Hits of the 50's",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "2af1b2ae-d536-4463-8dc9-393c0817963c",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Just the Two of Us",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+                  "joinphrase": " & ",
+                  "name": "Ella Fitzgerald"
+                },
+                {
+                  "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+                  "name": "Louis Armstrong"
+                }
+              ],
+              "id": "24577902-0198-3733-b1cb-f10e8c2abb05",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Ella & Louis Classic Album Collection",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "86bee763-6552-32ed-8ae8-126fa654f094",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Just Great Jazz Songs",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "f6f8b4de-f518-349d-81bf-8d99b13d2e5d",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Jazz After Dark",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "3a01f159-d1e7-3ffd-9a0c-22ca35e8fc0a",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Monica Zetterlund väljer sina jazzfavoriter",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+                  "name": "Ella Fitzgerald"
+                }
+              ],
+              "id": "ed33fe48-4f19-4a2e-acf1-cb5135d5f5da",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "The Chronological Classics: Ella Fitzgerald 1950",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "d3727f53-deb2-4fbc-aa98-f4d14707660f",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Jazz Café: The Essential Classic Jazz Voices",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+                  "name": "Louis Armstrong"
+                }
+              ],
+              "id": "e8edee5e-70fa-3af4-8e09-6e6768134649",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Jazz Portraits",
+              "type": "Album"
+            }
+          ],
+          "title": "Can Anyone Explain?"
+        },
+        {
+          "artists": [
+            {
+              "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+              "joinphrase": " & ",
+              "name": "Louis Armstrong"
+            },
+            {
+              "id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+              "name": "Ella Fitzgerald"
+            }
+          ],
+          "duration": 195,
+          "id": "7f523158-925d-4194-8878-fca43020a5b0",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+                  "name": "Louis Armstrong"
+                }
+              ],
+              "id": "fb0df892-5ed7-34f2-9d90-9b6d80d685a4",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "The Wonderful Duets",
+              "type": "Album"
+            }
+          ],
+          "title": "Can Anyone Explain"
+        },
+        {
+          "artists": [
+            {
+              "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+              "joinphrase": " with ",
+              "name": "Louis Armstrong"
+            },
+            {
+              "id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+              "name": "Ella Fitzgerald"
+            }
+          ],
+          "duration": 196,
+          "id": "f80594cc-c9b7-4f58-bcf8-3ff5d95ac089",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+                  "name": "Louis Armstrong"
+                }
+              ],
+              "id": "95c84950-64c1-3ef2-8dcb-a790ee465354",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Icons",
+              "type": "Album"
+            }
+          ],
+          "title": "Can Anyone Explain? (No! No! No!)"
+        }
+      ],
+      "score": 0.935654
+    }
+  ],
+  "status": "ok"
+}

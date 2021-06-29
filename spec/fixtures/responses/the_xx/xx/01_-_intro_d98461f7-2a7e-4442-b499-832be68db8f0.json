@@ -1,0 +1,213 @@
+{
+  "results": [
+    {
+      "id": "e1d0e6b6-1244-4408-b0a3-56b5d12ec159",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "81427834-e235-4280-bfca-9a522120a285",
+              "name": "Evening Hymns"
+            }
+          ],
+          "duration": 127,
+          "id": "1f3a2794-6044-4e3d-a5c5-2cd7c515ce4d",
+          "releasegroups": [
+            {
+              "id": "84a27f07-4509-4484-8f2e-f7103aac631f",
+              "title": "Spectral Dusk",
+              "type": "Album"
+            }
+          ],
+          "title": "Intro"
+        },
+        {
+          "id": "62da1d1b-bf23-4865-bdb3-a55e41b97f62"
+        },
+        {
+          "artists": [
+            {
+              "id": "c5c2ea1c-4bde-4f4d-bd0b-47b200bf99d6",
+              "name": "The xx"
+            }
+          ],
+          "duration": 127,
+          "id": "773a1557-a974-4f1e-978e-c240be4c3cb8",
+          "releasegroups": [
+            {
+              "id": "23355caf-a543-4b5f-80fe-449101868fc1",
+              "title": "xx",
+              "type": "Album"
+            }
+          ],
+          "title": "Intro"
+        },
+        {
+          "artists": [
+            {
+              "id": "c5c2ea1c-4bde-4f4d-bd0b-47b200bf99d6",
+              "name": "The xx"
+            }
+          ],
+          "duration": 125,
+          "id": "bc82b95c-f0eb-4e74-a521-dcd828b25ee6",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "4aa7295e-d694-4ada-a02c-0a2fe8d0d708",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Now That’s What I Call Chilled",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "4ec60064-54f5-46f0-808e-ccb3cf0d46e0",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "100% Chilled",
+              "type": "Album"
+            }
+          ],
+          "title": "Intro"
+        }
+      ],
+      "score": 0.995319
+    },
+    {
+      "id": "f870513e-d069-49d6-8cf6-f32d6e4c7fdb",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "f15532ea-8ac0-40fa-b173-f9e0bfcd895b",
+              "name": "Garvin"
+            }
+          ],
+          "duration": 126,
+          "id": "352dae6a-d651-4a33-9d73-9ba0a48a635e",
+          "releasegroups": [
+            {
+              "id": "4ad8f9ab-89c9-4a0a-9298-df89213686a4",
+              "title": "Up in the Air",
+              "type": "Album"
+            }
+          ],
+          "title": "Seasick"
+        },
+        {
+          "artists": [
+            {
+              "id": "c9faa478-2a02-4c34-bede-1d20d717f8dc",
+              "name": "Killah Priest"
+            }
+          ],
+          "duration": 128,
+          "id": "6908aff8-9a46-4f0e-86c6-5a357d1ee241",
+          "releasegroups": [
+            {
+              "id": "d725676a-7d4b-421a-8b4d-065434f02098",
+              "secondarytypes": [
+                "Mixtape/Street"
+              ],
+              "title": "The Untold Story of Walter Reed",
+              "type": "Album"
+            }
+          ],
+          "title": "The (intro)"
+        },
+        {
+          "artists": [
+            {
+              "id": "c5c2ea1c-4bde-4f4d-bd0b-47b200bf99d6",
+              "name": "The xx"
+            }
+          ],
+          "duration": 127,
+          "id": "773a1557-a974-4f1e-978e-c240be4c3cb8",
+          "releasegroups": [
+            {
+              "id": "23355caf-a543-4b5f-80fe-449101868fc1",
+              "title": "xx",
+              "type": "Album"
+            }
+          ],
+          "title": "Intro"
+        },
+        {
+          "artists": [
+            {
+              "id": "3895409b-ea11-4173-9fd8-ead5a1922143",
+              "name": "Rippy Austin"
+            }
+          ],
+          "duration": 124,
+          "id": "9f7cb4c3-354d-4078-8975-fcdfc5661c5b",
+          "releasegroups": [
+            {
+              "id": "fb01280c-ca60-4dc2-820e-05f497ea2ddf",
+              "title": "Patiently Waiting",
+              "type": "Album"
+            }
+          ],
+          "title": "The Intro"
+        },
+        {
+          "artists": [
+            {
+              "id": "c5c2ea1c-4bde-4f4d-bd0b-47b200bf99d6",
+              "name": "The xx"
+            }
+          ],
+          "duration": 125,
+          "id": "bc82b95c-f0eb-4e74-a521-dcd828b25ee6",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "4aa7295e-d694-4ada-a02c-0a2fe8d0d708",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Now That’s What I Call Chilled",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "4ec60064-54f5-46f0-808e-ccb3cf0d46e0",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "100% Chilled",
+              "type": "Album"
+            }
+          ],
+          "title": "Intro"
+        }
+      ],
+      "score": 0.959652
+    }
+  ],
+  "status": "ok"
+}

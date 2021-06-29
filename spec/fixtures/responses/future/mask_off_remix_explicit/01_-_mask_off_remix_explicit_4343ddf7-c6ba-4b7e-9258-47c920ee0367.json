@@ -1,0 +1,66 @@
+{
+  "results": [
+    {
+      "id": "6e5fa490-3730-422a-bb5b-faa20c6a81b6",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "48262e82-db9f-4a92-b650-dfef979b73ec",
+              "joinphrase": " feat. ",
+              "name": "Future"
+            },
+            {
+              "id": "381086ea-f511-4aba-bdf9-71c753dc5077",
+              "name": "Kendrick Lamar"
+            }
+          ],
+          "duration": 258,
+          "id": "236a9c99-a2b7-4b88-b80b-6be921b334d1",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "48262e82-db9f-4a92-b650-dfef979b73ec",
+                  "name": "Future"
+                }
+              ],
+              "id": "98c84b94-3445-4dcc-ad01-9e5e3e1271e2",
+              "title": "FUTURE",
+              "type": "Album"
+            }
+          ],
+          "title": "Mask Off (remix)"
+        },
+        {
+          "artists": [
+            {
+              "id": "48262e82-db9f-4a92-b650-dfef979b73ec",
+              "joinphrase": " feat. ",
+              "name": "Future"
+            },
+            {
+              "id": "381086ea-f511-4aba-bdf9-71c753dc5077",
+              "name": "Kendrick Lamar"
+            }
+          ],
+          "duration": 257,
+          "id": "ba9153c8-0d6d-4ea9-b556-43e7fc8adee2",
+          "releasegroups": [
+            {
+              "id": "440822f5-218b-418c-9a62-8fcadceaea34",
+              "secondarytypes": [
+                "Remix"
+              ],
+              "title": "Mask Off (remix)",
+              "type": "Single"
+            }
+          ],
+          "title": "Mask Off (remix)"
+        }
+      ],
+      "score": 0.95132
+    }
+  ],
+  "status": "ok"
+}

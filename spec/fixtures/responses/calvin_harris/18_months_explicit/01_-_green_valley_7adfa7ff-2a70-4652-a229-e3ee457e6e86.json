@@ -1,0 +1,29 @@
+{
+  "results": [
+    {
+      "id": "eeb9a098-ce7a-457b-bf70-4d19a0a25297",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "8dd98bdc-80ec-4e93-8509-2f46bafc09a7",
+              "name": "Calvin Harris"
+            }
+          ],
+          "duration": 109,
+          "id": "c7bb57ec-3559-49e7-82a4-071f895b6190",
+          "releasegroups": [
+            {
+              "id": "98432828-5764-4892-9e3f-9c674cf70acb",
+              "title": "18 Months",
+              "type": "Album"
+            }
+          ],
+          "title": "Green Valley"
+        }
+      ],
+      "score": 0.936897
+    }
+  ],
+  "status": "ok"
+}

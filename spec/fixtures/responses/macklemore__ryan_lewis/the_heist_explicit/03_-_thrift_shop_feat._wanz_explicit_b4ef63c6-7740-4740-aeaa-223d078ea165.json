@@ -1,0 +1,646 @@
+{
+  "results": [
+    {
+      "id": "92d8dca5-afb0-473b-bbeb-f8305fe2b6ad",
+      "recordings": [
+        {
+          "id": "36aad3bf-9749-4a85-8de5-480974776a11"
+        },
+        {
+          "artists": [
+            {
+              "id": "97b226c8-7140-4da3-91ac-15e62e131a81",
+              "joinphrase": " feat. ",
+              "name": "Macklemore & Ryan Lewis"
+            },
+            {
+              "id": "1f6cdf02-c7d3-4165-bbde-b4e54420a00b",
+              "name": "Wanz"
+            }
+          ],
+          "duration": 236,
+          "id": "42f0b591-cf89-4e45-aaca-7b97a2d1d98a",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "580b3a77-90d8-42c2-b4a0-7298f2d171e3",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Promo Only: Modern Rock Radio, December 2012",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "2f50ccac-ee87-49e8-916f-7a3c29c11609",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "MNM UrbaNice 2013.1",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "97b226c8-7140-4da3-91ac-15e62e131a81",
+                  "joinphrase": " feat. ",
+                  "name": "Macklemore & Ryan Lewis"
+                },
+                {
+                  "id": "1f6cdf02-c7d3-4165-bbde-b4e54420a00b",
+                  "name": "Wanz"
+                }
+              ],
+              "id": "10cdf553-e53b-491e-b4d6-db5bb69fd6bf",
+              "title": "Thrift Shop",
+              "type": "Single"
+            },
+            {
+              "artists": [
+                {
+                  "id": "97b226c8-7140-4da3-91ac-15e62e131a81",
+                  "name": "Macklemore & Ryan Lewis"
+                }
+              ],
+              "id": "22315cdd-4ed9-427c-9492-560cf4afed58",
+              "title": "The Heist",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "96cadca3-c678-4cde-8a42-ca2cfe9f98cc",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Maximum Hit Music 2013; Vol.2",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "9cfc3011-7d84-4a52-9567-ddc1e07ff135",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "The No.1 DJ Collection: 2010s, Volume 6",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "cdb26924-8f02-4911-9e5f-4e0803719077",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Brit Awards 2014",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "8148922a-ea4e-4d36-9b49-905603e7008d",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Ellen’s I’m Gonna Make You Dance Jams",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "f93fb971-6bfc-48f9-9a63-daa9a47cdb53",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "The No.1 DJ Collection: 2010s (Digital Collection)",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "f7fa9357-f063-4b74-8f9f-cc9a5e9afa04",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Triple J: Hottest 100, Volume 20",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "95b377f6-f1fa-4257-811e-749265fb103b",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Promo Only: Mainstream Radio, January 2013",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "6ced4506-8c22-407a-ad45-2c60d3f116be",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Alternative Distribution Alliance: 2012 Independent Almanac",
+              "type": "Album"
+            }
+          ],
+          "title": "Thrift Shop"
+        },
+        {
+          "artists": [
+            {
+              "id": "97b226c8-7140-4da3-91ac-15e62e131a81",
+              "name": "Macklemore & Ryan Lewis"
+            }
+          ],
+          "duration": 236,
+          "id": "50f3cbb0-5ea6-4009-8a0a-20812f4807f8",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "8d84271d-4276-4493-bc31-007fbf2ad45f",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "NRJ Hit Music Only! 2013",
+              "type": "Album"
+            }
+          ],
+          "title": "Thrift shop"
+        },
+        {
+          "id": "61e5c7b9-3317-4b9a-b4e2-8db3cc1c92b9"
+        },
+        {
+          "id": "666c76b5-b561-4851-9eef-7051899c1746"
+        },
+        {
+          "id": "79f6d409-e6a7-4e26-a55f-6c4e1bcc284d"
+        },
+        {
+          "artists": [
+            {
+              "id": "97b226c8-7140-4da3-91ac-15e62e131a81",
+              "joinphrase": " feat. ",
+              "name": "Macklemore & Ryan Lewis"
+            },
+            {
+              "id": "1f6cdf02-c7d3-4165-bbde-b4e54420a00b",
+              "name": "Wanz"
+            }
+          ],
+          "duration": 236,
+          "id": "84855f43-378a-46d1-b524-a037efe28dc6",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "97b226c8-7140-4da3-91ac-15e62e131a81",
+                  "name": "Macklemore & Ryan Lewis"
+                }
+              ],
+              "id": "22315cdd-4ed9-427c-9492-560cf4afed58",
+              "title": "The Heist",
+              "type": "Album"
+            }
+          ],
+          "title": "Thrift Shop"
+        }
+      ],
+      "score": 0.956553
+    },
+    {
+      "id": "92912746-9863-45f4-9a4c-08e924d4a426",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "97b226c8-7140-4da3-91ac-15e62e131a81",
+              "joinphrase": " feat. ",
+              "name": "Macklemore & Ryan Lewis"
+            },
+            {
+              "id": "1f6cdf02-c7d3-4165-bbde-b4e54420a00b",
+              "name": "Wanz"
+            }
+          ],
+          "duration": 236,
+          "id": "42f0b591-cf89-4e45-aaca-7b97a2d1d98a",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "580b3a77-90d8-42c2-b4a0-7298f2d171e3",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Promo Only: Modern Rock Radio, December 2012",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "2f50ccac-ee87-49e8-916f-7a3c29c11609",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "MNM UrbaNice 2013.1",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "97b226c8-7140-4da3-91ac-15e62e131a81",
+                  "joinphrase": " feat. ",
+                  "name": "Macklemore & Ryan Lewis"
+                },
+                {
+                  "id": "1f6cdf02-c7d3-4165-bbde-b4e54420a00b",
+                  "name": "Wanz"
+                }
+              ],
+              "id": "10cdf553-e53b-491e-b4d6-db5bb69fd6bf",
+              "title": "Thrift Shop",
+              "type": "Single"
+            },
+            {
+              "artists": [
+                {
+                  "id": "97b226c8-7140-4da3-91ac-15e62e131a81",
+                  "name": "Macklemore & Ryan Lewis"
+                }
+              ],
+              "id": "22315cdd-4ed9-427c-9492-560cf4afed58",
+              "title": "The Heist",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "96cadca3-c678-4cde-8a42-ca2cfe9f98cc",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Maximum Hit Music 2013; Vol.2",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "9cfc3011-7d84-4a52-9567-ddc1e07ff135",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "The No.1 DJ Collection: 2010s, Volume 6",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "cdb26924-8f02-4911-9e5f-4e0803719077",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Brit Awards 2014",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "8148922a-ea4e-4d36-9b49-905603e7008d",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Ellen’s I’m Gonna Make You Dance Jams",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "f93fb971-6bfc-48f9-9a63-daa9a47cdb53",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "The No.1 DJ Collection: 2010s (Digital Collection)",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "f7fa9357-f063-4b74-8f9f-cc9a5e9afa04",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Triple J: Hottest 100, Volume 20",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "95b377f6-f1fa-4257-811e-749265fb103b",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Promo Only: Mainstream Radio, January 2013",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "6ced4506-8c22-407a-ad45-2c60d3f116be",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Alternative Distribution Alliance: 2012 Independent Almanac",
+              "type": "Album"
+            }
+          ],
+          "title": "Thrift Shop"
+        }
+      ],
+      "score": 0.908492
+    },
+    {
+      "id": "91cd01e3-5585-4694-9c94-fadd2fba7b2f",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "97b226c8-7140-4da3-91ac-15e62e131a81",
+              "joinphrase": " feat. ",
+              "name": "Macklemore & Ryan Lewis"
+            },
+            {
+              "id": "1f6cdf02-c7d3-4165-bbde-b4e54420a00b",
+              "name": "Wanz"
+            }
+          ],
+          "duration": 236,
+          "id": "42f0b591-cf89-4e45-aaca-7b97a2d1d98a",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "580b3a77-90d8-42c2-b4a0-7298f2d171e3",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Promo Only: Modern Rock Radio, December 2012",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "2f50ccac-ee87-49e8-916f-7a3c29c11609",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "MNM UrbaNice 2013.1",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "97b226c8-7140-4da3-91ac-15e62e131a81",
+                  "joinphrase": " feat. ",
+                  "name": "Macklemore & Ryan Lewis"
+                },
+                {
+                  "id": "1f6cdf02-c7d3-4165-bbde-b4e54420a00b",
+                  "name": "Wanz"
+                }
+              ],
+              "id": "10cdf553-e53b-491e-b4d6-db5bb69fd6bf",
+              "title": "Thrift Shop",
+              "type": "Single"
+            },
+            {
+              "artists": [
+                {
+                  "id": "97b226c8-7140-4da3-91ac-15e62e131a81",
+                  "name": "Macklemore & Ryan Lewis"
+                }
+              ],
+              "id": "22315cdd-4ed9-427c-9492-560cf4afed58",
+              "title": "The Heist",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "96cadca3-c678-4cde-8a42-ca2cfe9f98cc",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Maximum Hit Music 2013; Vol.2",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "9cfc3011-7d84-4a52-9567-ddc1e07ff135",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "The No.1 DJ Collection: 2010s, Volume 6",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "cdb26924-8f02-4911-9e5f-4e0803719077",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Brit Awards 2014",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "8148922a-ea4e-4d36-9b49-905603e7008d",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Ellen’s I’m Gonna Make You Dance Jams",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "f93fb971-6bfc-48f9-9a63-daa9a47cdb53",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "The No.1 DJ Collection: 2010s (Digital Collection)",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "f7fa9357-f063-4b74-8f9f-cc9a5e9afa04",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Triple J: Hottest 100, Volume 20",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "95b377f6-f1fa-4257-811e-749265fb103b",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Promo Only: Mainstream Radio, January 2013",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "6ced4506-8c22-407a-ad45-2c60d3f116be",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Alternative Distribution Alliance: 2012 Independent Almanac",
+              "type": "Album"
+            }
+          ],
+          "title": "Thrift Shop"
+        }
+      ],
+      "score": 0.504611
+    }
+  ],
+  "status": "ok"
+}

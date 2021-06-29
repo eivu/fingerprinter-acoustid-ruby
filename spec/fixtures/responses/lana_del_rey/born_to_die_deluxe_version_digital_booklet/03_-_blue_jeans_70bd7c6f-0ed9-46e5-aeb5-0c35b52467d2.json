@@ -1,0 +1,218 @@
+{
+  "results": [
+    {
+      "id": "b084fc23-511c-4642-955d-ba6d0bac9afa",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "b7539c32-53e7-4908-bda3-81449c367da6",
+              "name": "Lana Del Rey"
+            }
+          ],
+          "duration": 209,
+          "id": "9bf3902b-096a-4b8f-83d6-fc9b2c0d83e7",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "b7539c32-53e7-4908-bda3-81449c367da6",
+                  "name": "Lana Del Rey"
+                }
+              ],
+              "id": "b0c616d1-d7db-4e66-8a7f-86576eeb28d2",
+              "secondarytypes": [
+                "Remix"
+              ],
+              "title": "Video Games: The Remix EP",
+              "type": "EP"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "f1eff8f9-3360-4d9a-a9dc-4791bfee4033",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Bravo Hits 77",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "b7539c32-53e7-4908-bda3-81449c367da6",
+                  "name": "Lana Del Rey"
+                }
+              ],
+              "id": "c9ff68d9-af4f-4791-9e62-69170af0a71e",
+              "title": "Lana Del Rey EP",
+              "type": "EP"
+            },
+            {
+              "artists": [
+                {
+                  "id": "b7539c32-53e7-4908-bda3-81449c367da6",
+                  "name": "Lana Del Rey"
+                }
+              ],
+              "id": "968fa2f6-1b7e-428e-86ea-6d9dd2e6e204",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Greatest Songs",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "b7539c32-53e7-4908-bda3-81449c367da6",
+                  "name": "Lana Del Rey"
+                }
+              ],
+              "id": "4b16a1bc-8644-48ae-9b3e-8ae36aa30cfc",
+              "title": "Born to Die",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "219edfe6-bbc5-4bb9-9686-67a770847b40",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Life Is Music 2012.1",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "cf11dccf-4c82-456f-a98e-d6454dfa19ad",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Now That’s What I Call Chill",
+              "type": "Album"
+            },
+            {
+              "id": "dfbca445-2bb2-4198-8b51-c4122bfbf682",
+              "title": "Blue Jeans",
+              "type": "Single"
+            }
+          ],
+          "title": "Blue Jeans"
+        },
+        {
+          "artists": [
+            {
+              "id": "b7539c32-53e7-4908-bda3-81449c367da6",
+              "name": "Lana Del Rey"
+            }
+          ],
+          "duration": 211,
+          "id": "e5977c09-8f5a-46b6-89ea-c7bcaeae8bed",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "d35f3975-a0f3-4249-bedd-f7b6b94a9312",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Pure FM: Lazy Factory Room 3",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "b7539c32-53e7-4908-bda3-81449c367da6",
+                  "name": "Lana Del Rey"
+                }
+              ],
+              "id": "c6c0ec90-3088-4bd2-8d05-d171adec6102",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Greatest Hits",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "b7539c32-53e7-4908-bda3-81449c367da6",
+                  "name": "Lana Del Rey"
+                }
+              ],
+              "id": "39b93682-5353-494c-8628-180f1db2d323",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Video Games / Blue Jeans",
+              "type": "Single"
+            },
+            {
+              "artists": [
+                {
+                  "id": "b7539c32-53e7-4908-bda3-81449c367da6",
+                  "name": "Lana Del Rey"
+                }
+              ],
+              "id": "868eb27c-853a-435f-88ab-7eea967f0064",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "The Singles",
+              "type": "Single"
+            },
+            {
+              "artists": [
+                {
+                  "id": "b7539c32-53e7-4908-bda3-81449c367da6",
+                  "name": "Lana Del Rey"
+                }
+              ],
+              "id": "153a4039-dbef-44f2-ab4a-3135c3b3d9b0",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Greatest Hits",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "f9772db6-767e-4f57-8e8b-9fae11ece907",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Heart & Soul",
+              "type": "Album"
+            }
+          ],
+          "title": "Blue Jeans"
+        }
+      ],
+      "score": 0.961696
+    }
+  ],
+  "status": "ok"
+}

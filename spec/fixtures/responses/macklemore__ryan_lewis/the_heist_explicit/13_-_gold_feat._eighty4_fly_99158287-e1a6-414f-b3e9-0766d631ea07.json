@@ -1,0 +1,67 @@
+{
+  "results": [
+    {
+      "id": "d2301d9d-aeca-4b54-93a8-c1ec7828f341",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "775f55c0-1ea8-43fd-a5d0-0817a5085575",
+              "name": "John Stewart"
+            }
+          ],
+          "duration": 258,
+          "id": "afa6cad2-ff29-41cb-8ebd-c855373657f7",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "7c8a923d-2993-3d9c-89f2-01f94f46cab5",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "The No. 1 Drive Album",
+              "type": "Album"
+            }
+          ],
+          "title": "Gold"
+        },
+        {
+          "artists": [
+            {
+              "id": "97b226c8-7140-4da3-91ac-15e62e131a81",
+              "joinphrase": " feat. ",
+              "name": "Macklemore & Ryan Lewis"
+            },
+            {
+              "id": "2a57a976-6b88-42c8-966a-78181af91b08",
+              "name": "Eighty4 Fly"
+            }
+          ],
+          "duration": 251,
+          "id": "ea09d32c-aa00-402c-9ee0-49b8b12ef7d5",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "97b226c8-7140-4da3-91ac-15e62e131a81",
+                  "name": "Macklemore & Ryan Lewis"
+                }
+              ],
+              "id": "22315cdd-4ed9-427c-9492-560cf4afed58",
+              "title": "The Heist",
+              "type": "Album"
+            }
+          ],
+          "title": "Gold"
+        }
+      ],
+      "score": 0.93605
+    }
+  ],
+  "status": "ok"
+}

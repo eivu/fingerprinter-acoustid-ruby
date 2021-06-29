@@ -1,0 +1,453 @@
+{
+  "results": [
+    {
+      "id": "cca443c8-0b7d-47a0-a813-1142cc2ea29d",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "8dd98bdc-80ec-4e93-8509-2f46bafc09a7",
+              "joinphrase": " feat. ",
+              "name": "Calvin Harris"
+            },
+            {
+              "id": "ddeb3502-8693-4619-b41d-263105f84477",
+              "name": "Example"
+            }
+          ],
+          "duration": 234,
+          "id": "0cdc530e-cc17-4529-8433-57676eda3d50",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "c7973d27-7e65-4500-9d1f-bd343b16970f",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Now That’s What I Call Music! 83",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "834d6268-2639-4282-9c0c-8e62651a5f6e",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Brit Awards 2013",
+              "type": "Album"
+            }
+          ],
+          "title": "We’ll Be Coming Back"
+        },
+        {
+          "artists": [
+            {
+              "id": "8dd98bdc-80ec-4e93-8509-2f46bafc09a7",
+              "joinphrase": " feat. ",
+              "name": "Calvin Harris"
+            },
+            {
+              "id": "ddeb3502-8693-4619-b41d-263105f84477",
+              "name": "Example"
+            }
+          ],
+          "duration": 234,
+          "id": "152ae89e-33da-45d4-ba7f-d71c007def9e",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "8dd98bdc-80ec-4e93-8509-2f46bafc09a7",
+                  "joinphrase": " feat. ",
+                  "name": "Calvin Harris"
+                },
+                {
+                  "id": "ddeb3502-8693-4619-b41d-263105f84477",
+                  "name": "Example"
+                }
+              ],
+              "id": "d9393dec-e903-452c-a1ec-d4cf85030f46",
+              "title": "We'll Be Coming Back",
+              "type": "Single"
+            },
+            {
+              "artists": [
+                {
+                  "id": "8dd98bdc-80ec-4e93-8509-2f46bafc09a7",
+                  "name": "Calvin Harris"
+                }
+              ],
+              "id": "98432828-5764-4892-9e3f-9c674cf70acb",
+              "title": "18 Months",
+              "type": "Album"
+            }
+          ],
+          "title": "We’ll Be Coming Back"
+        },
+        {
+          "artists": [
+            {
+              "id": "ddeb3502-8693-4619-b41d-263105f84477",
+              "joinphrase": " & ",
+              "name": "Example"
+            },
+            {
+              "id": "8dd98bdc-80ec-4e93-8509-2f46bafc09a7",
+              "name": "Calvin Harris"
+            }
+          ],
+          "duration": 238,
+          "id": "2e2afcab-7039-4b6d-8f9d-9200e1eeac59",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "ddeb3502-8693-4619-b41d-263105f84477",
+                  "name": "Example"
+                }
+              ],
+              "id": "31b42973-76c6-40b9-9538-dae574ccaf07",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "#hits",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "ddeb3502-8693-4619-b41d-263105f84477",
+                  "name": "Example"
+                }
+              ],
+              "id": "d19bc756-2bfe-472c-b853-f78a386a0d5a",
+              "title": "The Evolution of Man",
+              "type": "Album"
+            }
+          ],
+          "title": "We'll Be Coming Back"
+        },
+        {
+          "artists": [
+            {
+              "id": "8dd98bdc-80ec-4e93-8509-2f46bafc09a7",
+              "joinphrase": " feat. ",
+              "name": "Calvin Harris"
+            },
+            {
+              "id": "ddeb3502-8693-4619-b41d-263105f84477",
+              "name": "Example"
+            }
+          ],
+          "duration": 232,
+          "id": "f95973c2-62c0-45f6-846a-26af9ff73b9a",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "32cb1d3e-b37f-4d1b-a6f6-ad8b35663e41",
+              "secondarytypes": [
+                "Soundtrack"
+              ],
+              "title": "Need for Speed: Most Wanted",
+              "type": "Album"
+            }
+          ],
+          "title": "We’ll Be Coming Back"
+        }
+      ],
+      "score": 0.939544
+    },
+    {
+      "id": "bbe961e7-c978-42c9-b83f-16e66c806bc4",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "8dd98bdc-80ec-4e93-8509-2f46bafc09a7",
+              "joinphrase": " feat. ",
+              "name": "Calvin Harris"
+            },
+            {
+              "id": "ddeb3502-8693-4619-b41d-263105f84477",
+              "name": "Example"
+            }
+          ],
+          "duration": 234,
+          "id": "0cdc530e-cc17-4529-8433-57676eda3d50",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "c7973d27-7e65-4500-9d1f-bd343b16970f",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Now That’s What I Call Music! 83",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "834d6268-2639-4282-9c0c-8e62651a5f6e",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Brit Awards 2013",
+              "type": "Album"
+            }
+          ],
+          "title": "We’ll Be Coming Back"
+        },
+        {
+          "artists": [
+            {
+              "id": "8dd98bdc-80ec-4e93-8509-2f46bafc09a7",
+              "joinphrase": " feat. ",
+              "name": "Calvin Harris"
+            },
+            {
+              "id": "ddeb3502-8693-4619-b41d-263105f84477",
+              "name": "Example"
+            }
+          ],
+          "duration": 234,
+          "id": "152ae89e-33da-45d4-ba7f-d71c007def9e",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "8dd98bdc-80ec-4e93-8509-2f46bafc09a7",
+                  "joinphrase": " feat. ",
+                  "name": "Calvin Harris"
+                },
+                {
+                  "id": "ddeb3502-8693-4619-b41d-263105f84477",
+                  "name": "Example"
+                }
+              ],
+              "id": "d9393dec-e903-452c-a1ec-d4cf85030f46",
+              "title": "We'll Be Coming Back",
+              "type": "Single"
+            },
+            {
+              "artists": [
+                {
+                  "id": "8dd98bdc-80ec-4e93-8509-2f46bafc09a7",
+                  "name": "Calvin Harris"
+                }
+              ],
+              "id": "98432828-5764-4892-9e3f-9c674cf70acb",
+              "title": "18 Months",
+              "type": "Album"
+            }
+          ],
+          "title": "We’ll Be Coming Back"
+        },
+        {
+          "artists": [
+            {
+              "id": "8dd98bdc-80ec-4e93-8509-2f46bafc09a7",
+              "joinphrase": " feat. ",
+              "name": "Calvin Harris"
+            },
+            {
+              "id": "ddeb3502-8693-4619-b41d-263105f84477",
+              "name": "Example"
+            }
+          ],
+          "duration": 247,
+          "id": "2cf68819-79a9-401a-a281-abed1724bc25",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "8dd98bdc-80ec-4e93-8509-2f46bafc09a7",
+                  "name": "Calvin Harris"
+                }
+              ],
+              "id": "98432828-5764-4892-9e3f-9c674cf70acb",
+              "title": "18 Months",
+              "type": "Album"
+            }
+          ],
+          "title": "We’ll Be Coming Back"
+        },
+        {
+          "artists": [
+            {
+              "id": "ddeb3502-8693-4619-b41d-263105f84477",
+              "joinphrase": " & ",
+              "name": "Example"
+            },
+            {
+              "id": "8dd98bdc-80ec-4e93-8509-2f46bafc09a7",
+              "name": "Calvin Harris"
+            }
+          ],
+          "duration": 238,
+          "id": "2e2afcab-7039-4b6d-8f9d-9200e1eeac59",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "ddeb3502-8693-4619-b41d-263105f84477",
+                  "name": "Example"
+                }
+              ],
+              "id": "31b42973-76c6-40b9-9538-dae574ccaf07",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "#hits",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "ddeb3502-8693-4619-b41d-263105f84477",
+                  "name": "Example"
+                }
+              ],
+              "id": "d19bc756-2bfe-472c-b853-f78a386a0d5a",
+              "title": "The Evolution of Man",
+              "type": "Album"
+            }
+          ],
+          "title": "We'll Be Coming Back"
+        },
+        {
+          "artists": [
+            {
+              "id": "8dd98bdc-80ec-4e93-8509-2f46bafc09a7",
+              "joinphrase": " feat. ",
+              "name": "Calvin Harris"
+            },
+            {
+              "id": "ddeb3502-8693-4619-b41d-263105f84477",
+              "name": "Example"
+            }
+          ],
+          "id": "56c803ae-5da9-4133-b785-df934849658f",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "24090467-a5c2-4ac9-91d8-f3d099a1ec69",
+                  "name": "Boy Bruynzeel"
+                }
+              ],
+              "id": "9b1089e9-0b31-4db0-be09-8679872d2ebf",
+              "secondarytypes": [
+                "DJ-mix"
+              ],
+              "title": "The Video Year Mix 2012"
+            }
+          ],
+          "title": "We’ll Be Coming Back"
+        },
+        {
+          "artists": [
+            {
+              "id": "8dd98bdc-80ec-4e93-8509-2f46bafc09a7",
+              "joinphrase": " feat. ",
+              "name": "Calvin Harris"
+            },
+            {
+              "id": "ddeb3502-8693-4619-b41d-263105f84477",
+              "name": "Example"
+            }
+          ],
+          "duration": 393,
+          "id": "d3ed9708-2401-4619-b54b-1c5a2b2df79b",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "8dd98bdc-80ec-4e93-8509-2f46bafc09a7",
+                  "joinphrase": " feat. ",
+                  "name": "Calvin Harris"
+                },
+                {
+                  "id": "ddeb3502-8693-4619-b41d-263105f84477",
+                  "name": "Example"
+                }
+              ],
+              "id": "d9393dec-e903-452c-a1ec-d4cf85030f46",
+              "title": "We'll Be Coming Back",
+              "type": "Single"
+            },
+            {
+              "artists": [
+                {
+                  "id": "8dd98bdc-80ec-4e93-8509-2f46bafc09a7",
+                  "name": "Calvin Harris"
+                }
+              ],
+              "id": "98432828-5764-4892-9e3f-9c674cf70acb",
+              "title": "18 Months",
+              "type": "Album"
+            }
+          ],
+          "title": "We’ll Be Coming Back (original extended mix)"
+        },
+        {
+          "artists": [
+            {
+              "id": "8dd98bdc-80ec-4e93-8509-2f46bafc09a7",
+              "joinphrase": " feat. ",
+              "name": "Calvin Harris"
+            },
+            {
+              "id": "ddeb3502-8693-4619-b41d-263105f84477",
+              "name": "Example"
+            }
+          ],
+          "duration": 232,
+          "id": "f95973c2-62c0-45f6-846a-26af9ff73b9a",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "32cb1d3e-b37f-4d1b-a6f6-ad8b35663e41",
+              "secondarytypes": [
+                "Soundtrack"
+              ],
+              "title": "Need for Speed: Most Wanted",
+              "type": "Album"
+            }
+          ],
+          "title": "We’ll Be Coming Back"
+        }
+      ],
+      "score": 0.923655
+    }
+  ],
+  "status": "ok"
+}

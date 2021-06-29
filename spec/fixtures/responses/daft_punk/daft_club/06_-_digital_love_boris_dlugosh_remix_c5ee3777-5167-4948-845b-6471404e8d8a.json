@@ -1,0 +1,43 @@
+{
+  "results": [
+    {
+      "id": "13113349-e2b0-4559-bb82-f74b6aee6a67",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "056e4f3e-d505-4dad-8ec1-d04f521cbb56",
+              "name": "Daft Punk"
+            }
+          ],
+          "duration": 450,
+          "id": "8bca2404-e209-4915-baf8-b4d2633eafb8",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "056e4f3e-d505-4dad-8ec1-d04f521cbb56",
+                  "name": "Daft Punk"
+                }
+              ],
+              "id": "93341465-cd7e-4558-aeeb-05676210acb8",
+              "title": "Daft Club Net Songs",
+              "type": "Other"
+            },
+            {
+              "id": "1fd2e0fe-90f6-35ca-92c0-d816ab3bb79c",
+              "secondarytypes": [
+                "Remix"
+              ],
+              "title": "Daft Club",
+              "type": "Album"
+            }
+          ],
+          "title": "Digital Love (Boris Dlugosch remix)"
+        }
+      ],
+      "score": 0.933563
+    }
+  ],
+  "status": "ok"
+}

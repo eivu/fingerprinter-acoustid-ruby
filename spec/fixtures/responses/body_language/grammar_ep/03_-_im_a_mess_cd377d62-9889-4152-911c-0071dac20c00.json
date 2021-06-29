@@ -1,0 +1,40 @@
+{
+  "results": [
+    {
+      "id": "7581feb8-4ddb-497f-9b7f-b3a6114a9a37",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "1a98f1f2-c2e1-4c3c-8ce5-c746979be489",
+              "name": "Body Language"
+            }
+          ],
+          "duration": 182,
+          "id": "89c57c29-12b2-4f7f-9e88-b31a6a6494d7",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "1a98f1f2-c2e1-4c3c-8ce5-c746979be489",
+                  "name": "Body Language"
+                }
+              ],
+              "id": "4a2a28c6-4314-4b2a-82c1-0becc1026748",
+              "title": "Grammar",
+              "type": "EP"
+            },
+            {
+              "id": "a59688dc-b1d9-47ae-b2cf-305dba1d707a",
+              "title": "Grammar",
+              "type": "Album"
+            }
+          ],
+          "title": "I'm a Mess"
+        }
+      ],
+      "score": 0.991825
+    }
+  ],
+  "status": "ok"
+}

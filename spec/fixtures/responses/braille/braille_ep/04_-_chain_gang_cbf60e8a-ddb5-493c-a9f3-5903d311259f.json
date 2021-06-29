@@ -1,0 +1,29 @@
+{
+  "results": [
+    {
+      "id": "415eb997-f40f-4563-8dc5-904e272c2ba7",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "d20cbbbb-7359-47eb-b724-a17274989b42",
+              "name": "Braille"
+            }
+          ],
+          "duration": 334,
+          "id": "0e10b9ad-ac9f-462c-9c9e-e0e7f96c4b42",
+          "releasegroups": [
+            {
+              "id": "02deedd2-3874-4db0-bd23-110019cdcfb2",
+              "title": "A Meaning",
+              "type": "EP"
+            }
+          ],
+          "title": "Chain Gang"
+        }
+      ],
+      "score": 0.992901
+    }
+  ],
+  "status": "ok"
+}

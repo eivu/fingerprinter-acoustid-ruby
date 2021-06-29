@@ -21,7 +21,7 @@ http_interactions:
       message: OK
     headers:
       Date:
-      - Tue, 29 Jun 2021 13:47:38 GMT
+      - Tue, 29 Jun 2021 21:23:29 GMT
       Content-Type:
       - application/json; charset=UTF-8
       Transfer-Encoding:
@@ -33,7 +33,7 @@ http_interactions:
       Access-Control-Allow-Origin:
       - "*"
       X-Envoy-Upstream-Service-Time:
-      - '103'
+      - '232'
       Strict-Transport-Security:
       - max-age=15724800; includeSubDomains
     body:
@@ -80,5 +80,5 @@ http_interactions:
         "title": "100% Chilled", "type": "Album"}], "title": "Intro"}], "score": 0.959652}],
         "status": "ok"}'
     http_version:
-  recorded_at: Tue, 29 Jun 2021 13:47:38 GMT
+  recorded_at: Tue, 29 Jun 2021 21:23:29 GMT
 recorded_with: VCR 3.0.3

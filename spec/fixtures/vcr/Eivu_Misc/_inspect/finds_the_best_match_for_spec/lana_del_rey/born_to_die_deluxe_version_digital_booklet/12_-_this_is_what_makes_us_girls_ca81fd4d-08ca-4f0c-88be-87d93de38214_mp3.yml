@@ -1,0 +1,53 @@
+---
+http_interactions:
+- request:
+    method: get
+    uri: https://api.acoustid.org/v2/lookup?client=<ACOUSTID_CLIENT_ID>&duration=238&fingerprint=AQADtGKSKFsSbriGXBS0fAlX5MnxvvD4oJ-PaodXfEewLzzEkMh58HD-4O1xVRauI3ehR0euhviOv8hziEmJLM7x43ywo19wE7nCBvKQH16PZ0O5oD5eRDu5DEmvo1_BUDzMHZfFY9Kj4Lhx0ceP5xWO8zi3FHmSQ0fzE72SHF9x4vuCaxeaow_048cto__wt8R7I__xnMF1eB-q1rjwI88TQUeOLz5OVNi0BT-SdoiuGtNf8A1uHzsq3Wi-GPkNMUyP3MGDHmH-IrkUfFo-fNJMrDl-MDmjJuhJ4jmSI1qe4-7xwv1w_XiLnDqSJZOOWQqsGcwrPGRxP5h1xERy4crxm2ieKcHzFG7CPCgTHU2SRkeon9CTH1eIPC_-IXoOnYaTbZGDWOfxI_QbmLsUKD-cY_2hbgTvBJGcWriw4znyQTs3hOmuYKwQKoO_HeIjYrrAPkeeH3-CLPrh5IGP_lCP3KhsBufxLMPR1CHeJMenhfgVfHnwc8T-ovGX4c4RZ85RZsFz6Cmex4FqQTF77Dty5ngsWKV8PEmqGMfxHdFzqFkCldaCR0WujEG_oJmLbIyOZ6IDPT0o5sSH0M7RPNHheCUyfggthiMaKw-ePsF7hGkWIdJz_GgiHmfg0UwxORSDyQvSoeGLJ8yDU9egxyGao09UnEuAdjlCUfRxZgl1RKRywbuhB89O9IuRNlMc8EOVD7GyQ2cWROcEf1PwbA_OzB9eIzeUKz7yHE-8IzcFPSn6w6EYRQqY8YSWOEGvBHmywJPp4sq64bmElwv8Czka7dAY5UG-5OgZTImz9fhQ0kfaaPgPnSzyo2SOoomkRDHOoHzQ1MeZo3mqoFuKC8lzhNlzVM6EPZfxRNmWBEyeoR96hKZOPFIOLcu4JZDCJ_iP-4HDzbiPG4ciMnlwF3VbPI2Fbzw8JiKJPw50C81LVNThMOHx8DgfFFpyHg_y4z3aPfiH8Id2FU3E6VinjFIQMwd9PMHRY0pHDddxYRfaPfhB9hHEoD_2EJ9kD_cTTNFQTSlw9eATWcHpOMepo9SGSIkC9cgvOOmDK0epF-YvhHnwC_qhJbuEbqHxo5eioPke7Ljy4WKDHneGD5nGHHV_oJGiKEQfo7o0-EelH8mPjI1wC6P04EoMVwxu4j6NO8eP-oKNWjnCZ4N4-ML0pNBxXUeuD9VifDgPv_iRLxARcmFwFM2J-AuUy0ZDNcfFo1mPGx_qaDF8AmeO6czwEw9zo5fgyTla57hzhHqLP3h2XEtxEUczJ7gzxKmgo76C1DVqMXhu3O_wqMePUNrh0IavQy4JKkcNPGj2oFaiHB_Q52ywH6USxoGuDD2xnURlKTtugYOWSsesJBfe4T1K5sAVnDpaLkdzHPuI84OUMTxa7UbXJRAdyUflIM-Fkq_wHD1TBU8yXEK7RGiSPMN_BLqC8FECF32SDZcEXMiHe8Xj48rR9fDRh_gJXVmKZx94Hs2zoP9xtHFeiK54nMe-YFRzwToJ1Tl8fDXCRzuuHmF3eD1qXMJH9Dr-wVUOjXikHOfRC82THnKaF032CiH1o3_giimuPbgEs0FJ4WkQQ3vgfshrPFGO-_iNJzryF-_xV6gdo7IsHD5OodlV6NTBJ0cY5kJJ4kdzod4X4srxoPmGygve4D-eOsV1C-_RSwG_wz96PMGJXJAubgiTB_1B_vjlgU_y4NoRXoU7VP1x_niNU0_AazlaMDn0xeCPeh-cnUh_9Mfn4WPQ5zDHHPE3GDre5vAzHFeaQ3V4fHSQl7gE8NmOr6OE23h-PDvho4de_HgaVBf89PjxDPxw5kdoHfqPPw3-BN8FPTn-IMxj9MMjRT0eRQdPuEmOr6Hww0dSp8hx5WAX_KieY8qznHhL7NGR30iWF1uOHifyKBl0KXpw4x_yLIoy9A_-oKdHlIyLNyzczTi6HF9ynD7eTMftYCoXNH6LbH80XM8xSWhODfpRZyE88UR4ERe-PLiUHHfRH39wRsfIHO6OHvlyEUzQKyiphETDQ9XT4Hkq_DhCJ3D3GIzM4B9O4VMSH88WwjPiR0qg7Q4ciccTuA5-9HjMZdBCheGCNsiZo3oHa1w3OEwUFp8R5oSeI-uDO4_gxPnxsMJp_EMe6Bey5RrOU3i2SUIPX0PZY9WOP6jjo_lwBV-O8IkO3Ue05EefE9cjvEf5hNgqCXlwHqKOjzjjIa3xFjl6hQv0Hp-THfkoo9KKK8vhH5OdI2fm44c-UwuepwgTLUWfo3AzBX2C_3jyEbF4HXrWIboCJ_1wKj--KXgaIveP9_gz_MPpGF-WUEQlF-Yao-wL9TJuhglyolR2OEs_lD7O4DnyQeOOKR1D5FbwU0fTJTxKHqGmHE-kD9K3w3UQXsbR7_COR9fhRiiLiwH1JA-uRD--5MiRLHGmo2eOH_-CNx04iizCeYekGKEpND76RsGpIIxCBpqfI3eD4zysJkZ0aCqfIUwoifiPTiua8cX3BKG6I1ms4184NPvQZk-GS1Jh-8gP_UrxHCVpiI2I--iPp_Nw2cLz4HjwD43DoL8MPUd-4Uez1Ki04xOaHH45IiR56DwuPQgduUajaoh_XIdG5siT1BKuNtiPJviHH7GknJASPiEYaTxyHm-UYJRxhD-aHz2aOFsW5NKV4ke-NEfZTCT0o5wR2i7MI7qF_9ClwV0OIYBCQBgChAAIIACIIEAAYowQEBmiiDCMGEegUsYYJYQQQiAigABEKGQcZgQQAIgRzBEDCEBKQcEIEQQoIQByRACIiBBAdAcoAQAoggByAhBimCSAEAMgkEApCI0SAhgGABJSMSWMMkgQgRgywhCEgEDIEAUUEERRIJQhQDgiGtGMEAOEcEIQCgAyUAgAiGEyKAGEQUwIIIBglHAAGFCCUKAgvMAQ6gQFEFACACGICEKEEKIZARAgBAuCgBAAQUYEYAZABAgQUiqgCAIGKscEAs4wZCAxBghgAAIMKUWUcMYggqwgAhEEhkAEAMWEUQJBwBCAgkCgICHEAIKMJsIQJowBijEmFEVeAQoUMgYQoggAghglDEJQAMAEcwIxIYghBDFBiQBMCSSMElAZIAAgFjGkEEEMCUAMJ0oIaRAAQiBhCAKECgSAEI4J4xgyUCEDtHEGCEGMN0YBBYgRwDAiBBGEWGMMQYBBD4AxhBCDGBKIACAAhwAIThFAxgABLFECCKAEYEAgYgAhAAFBiDEKCckQAIQIY4hBShCjEAHUIIaAkEQ4IREQRA4CgBDMOEMFAYwIIAxDRgEBCCVaJAQMYUQIAAgyjAgkCENCAKQEEtJAYYQRAAADADDDKYQQUQYhABgCHjlFJVBGQASAMQIwQihAgBCAnBGGCE2oBV4iZpgUACjAAFXUIiUEY0YpBIxQEBgAjBJIGCEAEsgIBg4CAjEiFCMScQYAEIBQqIUggBDDjGAUWiOMcQ4wCQQRCFEkFXGAIASoIc6AyIQgBhAjAFFGAFEwBIxIAxAAAAHAgCBKCUAFNUACAQRAWgBCiBFCEGMUQUAACaQxhgkBtAOAKMUAYQIgB6ARAhCABBBOKWGYQUYJZAASCDEhCCHOIAEgAI4AYKQixCFhEABGMUYEIQopQ40SAEBBgCKEASUQEoJAIxhQTshgkLFGCKYEUc4hIIQA&meta=recordings%20releasegroups%20compress
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      Accept:
+      - "*/*"
+      User-Agent:
+      - rest-client/2.1.0 (darwin20.3.0 x86_64) ruby/2.7.1p83
+      Accept-Encoding:
+      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+      Host:
+      - api.acoustid.org
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Date:
+      - Tue, 29 Jun 2021 21:21:59 GMT
+      Content-Type:
+      - application/json; charset=UTF-8
+      Transfer-Encoding:
+      - chunked
+      Connection:
+      - keep-alive
+      Vary:
+      - Accept-Encoding
+      Access-Control-Allow-Origin:
+      - "*"
+      X-Envoy-Upstream-Service-Time:
+      - '141'
+      Strict-Transport-Security:
+      - max-age=15724800; includeSubDomains
+    body:
+      encoding: ASCII-8BIT
+      string: '{"results": [{"id": "8ec2b5f2-7611-443c-8041-85b2b1934419", "recordings":
+        [{"artists": [{"id": "b7539c32-53e7-4908-bda3-81449c367da6", "name": "Lana
+        Del Rey"}], "duration": 238, "id": "c60aa61e-8531-442b-b1b3-058ef2cdbd73",
+        "releasegroups": [{"artists": [{"id": "b7539c32-53e7-4908-bda3-81449c367da6",
+        "name": "Lana Del Rey"}], "id": "c6c0ec90-3088-4bd2-8d05-d171adec6102", "secondarytypes":
+        ["Compilation"], "title": "Greatest Hits", "type": "Album"}, {"artists": [{"id":
+        "b7539c32-53e7-4908-bda3-81449c367da6", "name": "Lana Del Rey"}], "id": "4b16a1bc-8644-48ae-9b3e-8ae36aa30cfc",
+        "title": "Born to Die", "type": "Album"}, {"id": "153a4039-dbef-44f2-ab4a-3135c3b3d9b0",
+        "secondarytypes": ["Compilation"], "title": "Greatest Hits", "type": "Album"}],
+        "title": "This Is What Makes Us Girls"}], "score": 0.936511}], "status": "ok"}'
+    http_version:
+  recorded_at: Tue, 29 Jun 2021 21:21:59 GMT
+recorded_with: VCR 3.0.3

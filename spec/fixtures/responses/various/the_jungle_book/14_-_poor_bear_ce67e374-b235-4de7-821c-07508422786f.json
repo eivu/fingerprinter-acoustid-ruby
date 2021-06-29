@@ -1,0 +1,169 @@
+{
+  "results": [
+    {
+      "id": "7b6ffcbb-abaa-406b-b6f9-34279f758bcd",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "c47026a1-3300-4cf7-80df-8b9462a884e4",
+              "joinphrase": " & ",
+              "name": "Richard M. Sherman"
+            },
+            {
+              "id": "d378dedb-444f-48f5-a6e6-3e8e31ef6c14",
+              "name": "Robert B. Sherman"
+            }
+          ],
+          "duration": 65,
+          "id": "25a12a9e-0ca1-4d05-959f-ee70bbbe188b",
+          "releasegroups": [
+            {
+              "id": "094618e5-1dde-3f3e-a2fd-cefec8929675",
+              "secondarytypes": [
+                "Soundtrack"
+              ],
+              "title": "Das Dschungelbuch",
+              "type": "Album"
+            }
+          ],
+          "title": "Armer Bär"
+        },
+        {
+          "artists": [
+            {
+              "id": "4204e06b-d2e4-4823-b6f3-47f7593518cb",
+              "name": "George Bruns"
+            }
+          ],
+          "duration": 67,
+          "id": "4d3bd3b4-9034-4b94-9fce-08db669298b5",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "4204e06b-d2e4-4823-b6f3-47f7593518cb",
+                  "joinphrase": ", ",
+                  "name": "George Bruns"
+                },
+                {
+                  "id": "0a8df504-df94-4d77-a3c5-2b9e5c9727e2",
+                  "joinphrase": ", ",
+                  "name": "Terry Gilkyson"
+                },
+                {
+                  "id": "c47026a1-3300-4cf7-80df-8b9462a884e4",
+                  "joinphrase": " & ",
+                  "name": "Richard M. Sherman"
+                },
+                {
+                  "id": "d378dedb-444f-48f5-a6e6-3e8e31ef6c14",
+                  "name": "Robert B. Sherman"
+                }
+              ],
+              "id": "44243185-02f8-4901-bfd2-1551bf42823d",
+              "secondarytypes": [
+                "Soundtrack"
+              ],
+              "title": "Le Livre de la jungle",
+              "type": "Album"
+            }
+          ],
+          "title": "Le pauvre ours lutte (instrumental)"
+        },
+        {
+          "artists": [
+            {
+              "id": "4204e06b-d2e4-4823-b6f3-47f7593518cb",
+              "name": "George Bruns"
+            }
+          ],
+          "duration": 68,
+          "id": "5d5339b7-5a94-4ecb-bca8-b1243a84ca69",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "4204e06b-d2e4-4823-b6f3-47f7593518cb",
+                  "joinphrase": ", ",
+                  "name": "George Bruns"
+                },
+                {
+                  "id": "c47026a1-3300-4cf7-80df-8b9462a884e4",
+                  "joinphrase": " & ",
+                  "name": "Richard M. Sherman"
+                },
+                {
+                  "id": "d378dedb-444f-48f5-a6e6-3e8e31ef6c14",
+                  "joinphrase": ", ",
+                  "name": "Robert B. Sherman"
+                },
+                {
+                  "id": "0a8df504-df94-4d77-a3c5-2b9e5c9727e2",
+                  "name": "Terry Gilkyson"
+                }
+              ],
+              "id": "1257fcdf-743f-3dff-9894-107b398fb777",
+              "secondarytypes": [
+                "Soundtrack"
+              ],
+              "title": "The Jungle Book: Original Cast Soundtrack",
+              "type": "Album"
+            }
+          ],
+          "title": "Poor Bear"
+        }
+      ],
+      "score": 0.990451
+    },
+    {
+      "id": "7f3fe541-b1a5-4b9f-97f8-818a72587acd",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "4204e06b-d2e4-4823-b6f3-47f7593518cb",
+              "name": "George Bruns"
+            }
+          ],
+          "duration": 68,
+          "id": "5d5339b7-5a94-4ecb-bca8-b1243a84ca69",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "4204e06b-d2e4-4823-b6f3-47f7593518cb",
+                  "joinphrase": ", ",
+                  "name": "George Bruns"
+                },
+                {
+                  "id": "c47026a1-3300-4cf7-80df-8b9462a884e4",
+                  "joinphrase": " & ",
+                  "name": "Richard M. Sherman"
+                },
+                {
+                  "id": "d378dedb-444f-48f5-a6e6-3e8e31ef6c14",
+                  "joinphrase": ", ",
+                  "name": "Robert B. Sherman"
+                },
+                {
+                  "id": "0a8df504-df94-4d77-a3c5-2b9e5c9727e2",
+                  "name": "Terry Gilkyson"
+                }
+              ],
+              "id": "1257fcdf-743f-3dff-9894-107b398fb777",
+              "secondarytypes": [
+                "Soundtrack"
+              ],
+              "title": "The Jungle Book: Original Cast Soundtrack",
+              "type": "Album"
+            }
+          ],
+          "title": "Poor Bear"
+        }
+      ],
+      "score": 0.863737
+    }
+  ],
+  "status": "ok"
+}

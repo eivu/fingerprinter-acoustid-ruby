@@ -1,0 +1,65 @@
+{
+  "results": [
+    {
+      "id": "3e336be9-73f4-48b9-ba1b-ef39a33fddbc",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "859d0860-d480-4efd-970c-c05d5f1776b8",
+              "name": "Beyoncé"
+            }
+          ],
+          "duration": 391,
+          "id": "45288395-e9a0-43e9-a783-a4627bd33740",
+          "releasegroups": [
+            {
+              "id": "8596171e-23b2-4bdd-8f1c-11960df0ecbe",
+              "title": "BEYONCÉ",
+              "type": "Album"
+            }
+          ],
+          "title": "Rocket"
+        },
+        {
+          "artists": [
+            {
+              "id": "859d0860-d480-4efd-970c-c05d5f1776b8",
+              "name": "Beyoncé"
+            }
+          ],
+          "duration": 269,
+          "id": "9e386d1f-ae72-4ac0-9e79-0dff581531cc",
+          "releasegroups": [
+            {
+              "id": "8596171e-23b2-4bdd-8f1c-11960df0ecbe",
+              "title": "BEYONCÉ",
+              "type": "Album"
+            }
+          ],
+          "title": "Rocket"
+        },
+        {
+          "artists": [
+            {
+              "id": "859d0860-d480-4efd-970c-c05d5f1776b8",
+              "name": "Beyoncé"
+            }
+          ],
+          "duration": 391,
+          "id": "f29bae7d-2123-44e8-9a6a-9e7b78fcce46",
+          "releasegroups": [
+            {
+              "id": "8596171e-23b2-4bdd-8f1c-11960df0ecbe",
+              "title": "BEYONCÉ",
+              "type": "Album"
+            }
+          ],
+          "title": "Rocket"
+        }
+      ],
+      "score": 0.969277
+    }
+  ],
+  "status": "ok"
+}

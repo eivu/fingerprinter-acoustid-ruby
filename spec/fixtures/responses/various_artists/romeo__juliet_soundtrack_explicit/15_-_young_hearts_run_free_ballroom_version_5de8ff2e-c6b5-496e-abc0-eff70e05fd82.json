@@ -1,0 +1,85 @@
+{
+  "results": [
+    {
+      "id": "b523c028-2f55-469b-8b11-01b3b8a5e1e6",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "5caf18ba-44db-44d4-a6a3-828970a685f4",
+              "joinphrase": ", ",
+              "name": "Kym Mazelle"
+            },
+            {
+              "id": "85d6af33-ea61-46d2-89f5-6ee3d52d0a78",
+              "joinphrase": " & ",
+              "name": "Harold Perrineau"
+            },
+            {
+              "id": "b2256061-532c-4425-9df9-8880ccce2b49",
+              "name": "Paul Sorvino"
+            }
+          ],
+          "duration": 206,
+          "id": "04cdf307-3071-4e45-a902-8d9c3ff39c7f",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "650ebbf1-e25c-3f13-ac2b-d98010c1c5ee",
+              "secondarytypes": [
+                "Soundtrack"
+              ],
+              "title": "William Shakespeare’s Romeo + Juliet: Music From the Motion Picture",
+              "type": "Album"
+            }
+          ],
+          "title": "Young Hearts Run Free (Ballroom version)"
+        },
+        {
+          "artists": [
+            {
+              "id": "5caf18ba-44db-44d4-a6a3-828970a685f4",
+              "joinphrase": " feat. ",
+              "name": "Kym Mazelle"
+            },
+            {
+              "id": "85d6af33-ea61-46d2-89f5-6ee3d52d0a78",
+              "joinphrase": ", ",
+              "name": "Harold Perrineau"
+            },
+            {
+              "id": "b2256061-532c-4425-9df9-8880ccce2b49",
+              "name": "Paul Sorvino"
+            }
+          ],
+          "duration": 206,
+          "id": "d2c5a951-c35c-4a41-a0f1-05562f6286ed",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "5f81b95c-8a86-357d-88a4-4760ead1e413",
+              "secondarytypes": [
+                "Soundtrack"
+              ],
+              "title": "William Shakespeare’s Romeo + Juliet, Volume 2",
+              "type": "Album"
+            }
+          ],
+          "title": "Young Hearts Run Free (Ballroom version)"
+        }
+      ],
+      "score": 0.984177
+    }
+  ],
+  "status": "ok"
+}

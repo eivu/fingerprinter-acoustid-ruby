@@ -1,0 +1,54 @@
+{
+  "results": [
+    {
+      "id": "2a33aa91-f5fc-4e78-b9f0-9205e57667d5",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "056e4f3e-d505-4dad-8ec1-d04f521cbb56",
+              "name": "Daft Punk"
+            }
+          ],
+          "duration": 467,
+          "id": "e36a5702-459a-49e7-8a5b-4822f49f7923",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "056e4f3e-d505-4dad-8ec1-d04f521cbb56",
+                  "name": "Daft Punk"
+                }
+              ],
+              "id": "1fd2e0fe-90f6-35ca-92c0-d816ab3bb79c",
+              "secondarytypes": [
+                "Remix"
+              ],
+              "title": "Daft Club",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "056e4f3e-d505-4dad-8ec1-d04f521cbb56",
+                  "name": "Daft Punk"
+                }
+              ],
+              "id": "3888f64b-f8ce-3e3d-a2f7-23d83697f43d",
+              "title": "Digital Love",
+              "type": "Single"
+            },
+            {
+              "id": "c265ac4b-aa80-3f8b-83f7-47b81d8175c0",
+              "title": "Aerodynamic",
+              "type": "Single"
+            }
+          ],
+          "title": "Aerodynamite"
+        }
+      ],
+      "score": 0.992528
+    }
+  ],
+  "status": "ok"
+}

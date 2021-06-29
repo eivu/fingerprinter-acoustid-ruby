@@ -21,7 +21,7 @@ http_interactions:
       message: OK
     headers:
       Date:
-      - Tue, 29 Jun 2021 13:47:42 GMT
+      - Tue, 29 Jun 2021 21:23:32 GMT
       Content-Type:
       - application/json; charset=UTF-8
       Transfer-Encoding:
@@ -33,9 +33,7 @@ http_interactions:
       Access-Control-Allow-Origin:
       - "*"
       X-Envoy-Upstream-Service-Time:
-      - '112'
-      X-Envoy-Decorator-Operation:
-      - acoustid-server-api.acoustid.svc.cluster.local:3031/*
+      - '75'
       Strict-Transport-Security:
       - max-age=15724800; includeSubDomains
     body:
@@ -76,5 +74,5 @@ http_interactions:
         "title": "De Tijdloze, Vol. 6", "type": "Album"}], "title": "Islands"}], "score":
         0.649921}], "status": "ok"}'
     http_version:
-  recorded_at: Tue, 29 Jun 2021 13:47:42 GMT
+  recorded_at: Tue, 29 Jun 2021 21:23:32 GMT
 recorded_with: VCR 3.0.3

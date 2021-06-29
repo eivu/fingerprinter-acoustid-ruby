@@ -16,20 +16,26 @@ describe Eivu::Misc do
   #   end
   # end
 
-  describe '.inspect' do  
+  describe '.inspect' do
     Dir.glob('spec/fixtures/source/**/*mp3').sort.each do |file|
       it "finds the best match for #{Eivu::Misc.file_paths_for(file)[:vcr]}", vcr: true do
         puts file
         mp3_file    = File.open(file, 'rb')
         tagger      = ID3Tag.read(mp3_file)
+        response_path = Eivu::Misc.file_paths_for(file)[:response]
 
-        fingerprinter = Eivu::Fingerprinter::Acoustid.new
-        fingerprinter.generate(file)
-        fingerprinter.submit
-
-        described_class.store_data_for(fingerprinter, file)
-        sleep(snooze_duration)
-        result_set = Eivu::Objects::ResultSet.new(fingerprinter.response)
+        if File.exists?(response_path)
+          response = Oj.load(File.read(response_path)).deep_symbolize_keys
+        else
+          sleep(snooze_duration)
+          fingerprinter = Eivu::Fingerprinter::Acoustid.new
+          fingerprinter.generate(file)
+          fingerprinter.submit
+          described_class.store_data_for(fingerprinter, file)
+          response = fingerprint.response
+        end
+        
+        result_set = Eivu::Objects::ResultSet.new(response)
         match = result_set.best_match(duration: fingerprinter.duration, release_group_name: tagger.album)
         puts "rec id: #{match.recording.id}"
         puts "album: #{match.release_group.title}"
@@ -39,5 +45,4 @@ describe Eivu::Misc do
       end
     end
   end
-
 end

@@ -1,0 +1,65 @@
+{
+  "results": [
+    {
+      "id": "41c602b9-d5c5-4479-a777-f90b12c548a4",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "8f7bf43e-2a13-431a-a274-19e28965fe07",
+              "name": "Craig Armstrong"
+            }
+          ],
+          "duration": 126,
+          "id": "88af664e-d418-43e1-b6bd-ed18693bddf5",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "5f81b95c-8a86-357d-88a4-4760ead1e413",
+              "secondarytypes": [
+                "Soundtrack"
+              ],
+              "title": "William Shakespeare’s Romeo + Juliet, Volume 2",
+              "type": "Album"
+            }
+          ],
+          "title": "Introduction to Romeo"
+        },
+        {
+          "artists": [
+            {
+              "id": "314e1c25-dde7-4e4d-b2f4-0a7b9f7c56dc",
+              "name": "[dialogue]"
+            }
+          ],
+          "duration": 126,
+          "id": "9381e7c9-a625-405b-b75c-e2cf720f2606",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "650ebbf1-e25c-3f13-ac2b-d98010c1c5ee",
+              "secondarytypes": [
+                "Soundtrack"
+              ],
+              "title": "William Shakespeare’s Romeo + Juliet: Music From the Motion Picture",
+              "type": "Album"
+            }
+          ],
+          "title": "Introduction to Romeo"
+        }
+      ],
+      "score": 0.967102
+    }
+  ],
+  "status": "ok"
+}

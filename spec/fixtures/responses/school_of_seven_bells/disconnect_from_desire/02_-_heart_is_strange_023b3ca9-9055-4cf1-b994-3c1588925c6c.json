@@ -1,0 +1,33 @@
+{
+  "results": [
+    {
+      "id": "93b2b9e3-fe9d-490c-9af7-2abe9c125923",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "57843aed-c1c1-4f45-9859-478dd999bc18",
+              "name": "School of Seven Bells"
+            }
+          ],
+          "duration": 301,
+          "id": "639d4de6-7b34-4af5-86cb-5d5e1fe3104b",
+          "releasegroups": [
+            {
+              "id": "8a2d9685-b7df-4aa7-9e07-39b7efe63ea2",
+              "title": "Disconnect From Desire",
+              "type": "Album"
+            }
+          ],
+          "title": "Heart Is Strange"
+        }
+      ],
+      "score": 0.985562
+    },
+    {
+      "id": "1d031716-f9d7-433c-a763-78e04db3dd3d",
+      "score": 0.548285
+    }
+  ],
+  "status": "ok"
+}

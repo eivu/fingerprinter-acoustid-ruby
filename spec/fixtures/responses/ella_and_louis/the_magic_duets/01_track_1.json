@@ -1,0 +1,1551 @@
+{
+  "results": [
+    {
+      "id": "590ed034-eb34-4112-997f-249c1697dbb4",
+      "recordings": [
+        {
+          "id": "293801e5-90d9-4d6f-848a-c6335d29cc0e"
+        }
+      ],
+      "score": 0.929259
+    },
+    {
+      "id": "54e45e14-83f1-479c-8a7c-69daec0590bf",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+              "name": "Ella Fitzgerald"
+            }
+          ],
+          "duration": 188,
+          "id": "00eede7b-1b00-4bd2-9ee6-7f396c1fab1e",
+          "releasegroups": [
+            {
+              "id": "de508e89-9bfa-4d9a-9c77-d89f3380376f",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "The Essential Ella Fitzgerald",
+              "type": "Album"
+            }
+          ],
+          "title": "Dream A Little Dream Of Me"
+        },
+        {
+          "id": "0b8bfa5a-70b2-44f6-a016-6123c39409e5"
+        },
+        {
+          "artists": [
+            {
+              "id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+              "name": "Ella Fitzgerald"
+            }
+          ],
+          "duration": 181,
+          "id": "0ccada89-88f0-4c70-a7d7-bd1622a7b58a",
+          "releasegroups": [
+            {
+              "id": "d6ad29e4-7a38-3e78-800a-4cf34f7f6196",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Golden Greats",
+              "type": "Album"
+            }
+          ],
+          "title": "Dream a Little Dream of Me"
+        },
+        {
+          "id": "147314cd-45be-4df0-8e76-ad6b0f09df1e"
+        },
+        {
+          "id": "14f2e599-2d28-45b6-96f6-565a79ad0dff"
+        },
+        {
+          "artists": [
+            {
+              "id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+              "name": "Ella Fitzgerald"
+            }
+          ],
+          "duration": 190,
+          "id": "165ae0b7-0bea-41eb-a0a0-c3d5b047d4e6",
+          "releasegroups": [
+            {
+              "id": "9a522881-a121-4c38-8db0-85272b24068c",
+              "title": "Ella Fitzgerald the Legend",
+              "type": "Album"
+            }
+          ],
+          "title": "Dream a Little Dream of Me"
+        },
+        {
+          "id": "293801e5-90d9-4d6f-848a-c6335d29cc0e"
+        },
+        {
+          "artists": [
+            {
+              "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+              "joinphrase": " with ",
+              "name": "Louis Armstrong"
+            },
+            {
+              "id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+              "name": "Ella Fitzgerald"
+            }
+          ],
+          "duration": 189,
+          "id": "3060243c-976e-4f56-9f10-59d2b618d940",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+                  "name": "Louis Armstrong"
+                }
+              ],
+              "id": "95c84950-64c1-3ef2-8dcb-a790ee465354",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Icons",
+              "type": "Album"
+            }
+          ],
+          "title": "Dream a Little Dream of Me"
+        },
+        {
+          "artists": [
+            {
+              "id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+              "joinphrase": " & ",
+              "name": "Ella Fitzgerald"
+            },
+            {
+              "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+              "name": "Louis Armstrong"
+            }
+          ],
+          "duration": 183,
+          "id": "35d3ecaa-d034-4715-a614-ad36ca9afd97",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+                  "joinphrase": " & ",
+                  "name": "Ella Fitzgerald"
+                },
+                {
+                  "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+                  "name": "Louis Armstrong"
+                }
+              ],
+              "id": "0cbe776a-d90b-424c-bd31-a87a42025821",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Ella and Louis: The Anthology",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+                  "name": "Louis Armstrong"
+                }
+              ],
+              "id": "49d998e7-0028-3951-a834-a0803f85d46b",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "C'est si bon",
+              "type": "Album"
+            }
+          ],
+          "title": "Dream a Little Dream of Me"
+        },
+        {
+          "artists": [
+            {
+              "id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+              "joinphrase": " & ",
+              "name": "Ella Fitzgerald"
+            },
+            {
+              "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+              "name": "Louis Armstrong"
+            }
+          ],
+          "duration": 185,
+          "id": "39fb2768-2062-4882-a7ef-cff379f6fe75",
+          "releasegroups": [
+            {
+              "id": "a97c56bc-ead1-4692-ab21-96127890c603",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "20th Century Masters / The Millennium Collection: The Best of Ella Fitzgerald and Louis Armstrong",
+              "type": "Album"
+            }
+          ],
+          "title": "Dream a Little Dream of Me (Single Version)"
+        },
+        {
+          "artists": [
+            {
+              "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+              "joinphrase": " & ",
+              "name": "Louis Armstrong"
+            },
+            {
+              "id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+              "joinphrase": " with ",
+              "name": "Ella Fitzgerald"
+            },
+            {
+              "id": "f98d0801-9fea-4564-aa38-05c2d2423793",
+              "name": "Sy Oliver’s Orchestra"
+            }
+          ],
+          "duration": 186,
+          "id": "3f4a734b-11e4-46ab-a2c4-ff7b975e719c",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+                  "joinphrase": " and ",
+                  "name": "Louis Armstrong"
+                },
+                {
+                  "id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+                  "name": "Ella Fitzgerald"
+                }
+              ],
+              "id": "9866badc-71b9-3e4e-952e-93a2e30bc98c",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Ella & Satchmo Together",
+              "type": "Album"
+            }
+          ],
+          "title": "Dream a Little Dream of Me"
+        },
+        {
+          "artists": [
+            {
+              "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+              "name": "Louis Armstrong"
+            }
+          ],
+          "duration": 188,
+          "id": "60a47899-2ff3-411f-991a-44a6ab18c3b7",
+          "releasegroups": [
+            {
+              "id": "49d998e7-0028-3951-a834-a0803f85d46b",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "C'est si bon",
+              "type": "Album"
+            }
+          ],
+          "title": "Dream a Little Dream of Me"
+        },
+        {
+          "artists": [
+            {
+              "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+              "joinphrase": " & ",
+              "name": "Louis Armstrong"
+            },
+            {
+              "id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+              "name": "Ella Fitzgerald"
+            }
+          ],
+          "duration": 186,
+          "id": "67cd8784-53f1-42ec-93e4-e67e6e081c02",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+                  "name": "Ella Fitzgerald"
+                }
+              ],
+              "id": "c4421564-ad0b-440e-8381-235053928c99",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "The Complete Decca Singles Vol. 4: 1950-1955",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+                  "name": "Louis Armstrong"
+                }
+              ],
+              "id": "fb0df892-5ed7-34f2-9d90-9b6d80d685a4",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "The Wonderful Duets",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+                  "name": "Ella Fitzgerald"
+                }
+              ],
+              "id": "41666919-85ab-3ccb-8b72-2bfd12826518",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Classic Ella Fitzgerald",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+                  "name": "Louis Armstrong"
+                }
+              ],
+              "id": "2559274b-520f-4df0-b5e4-3689d5a824a3",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Greatest Hits",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+                  "name": "Louis Armstrong"
+                }
+              ],
+              "id": "f58f5118-2ad7-3447-8e1e-3de59322635d",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "On the Sunny Side of the Street",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+                  "joinphrase": " & ",
+                  "name": "Ella Fitzgerald"
+                },
+                {
+                  "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+                  "name": "Louis Armstrong"
+                }
+              ],
+              "id": "162346df-76e5-4cd7-9169-f047b61421d6",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Ella & Louis",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+                  "joinphrase": " & ",
+                  "name": "Ella Fitzgerald"
+                },
+                {
+                  "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+                  "name": "Louis Armstrong"
+                }
+              ],
+              "id": "4c0ada80-1ed6-37a5-917a-b369dbf6f920",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Ella Fitzgerald & Louis Armstrong for Lovers",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+                  "name": "Louis Armstrong"
+                }
+              ],
+              "id": "f74dd8ab-140c-3e2f-ac33-b551d39c3234",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "The Ultimate Collection",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+                  "joinphrase": " & ",
+                  "name": "Ella Fitzgerald"
+                },
+                {
+                  "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+                  "name": "Louis Armstrong"
+                }
+              ],
+              "id": "d00bd540-3e86-3446-ad24-54c4b22bff93",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "What a Wonderful Duet",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+                  "name": "Louis Armstrong"
+                }
+              ],
+              "id": "9787ba38-ec67-447d-b4d4-1d00676b5c01",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Duets with Louis Armstrong and Friends",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "9d515e3b-5d2d-4995-8a24-e4305eaea292",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Let’s Swingo",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+                  "name": "Ella Fitzgerald"
+                }
+              ],
+              "id": "fc71fa44-b3a1-407d-b457-7f9b36ed1088",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "The Collection",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+                  "name": "Ella Fitzgerald"
+                }
+              ],
+              "id": "4d6ea7c1-cacc-44c5-b1ed-9c11b1dde4a0",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "The Best of Ella Fitzgerald",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+                  "name": "Louis Armstrong"
+                }
+              ],
+              "id": "4b9264f2-72bf-324a-8009-dd30aa1c8d2c",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Hits",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "0bc5cafb-5175-3246-9841-29059f0023d4",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "La Grande Voci",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+                  "joinphrase": " & Friends",
+                  "name": "Ella"
+                }
+              ],
+              "id": "e368b1ad-aa7a-3551-aa91-ecde49a06cfa",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Ella & Friends",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+                  "name": "Louis Armstrong"
+                }
+              ],
+              "id": "9e7538b5-2cb3-4ba6-8e5a-088c0b3e752d",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Definitive Collection",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "65638d4b-c975-4f70-b56d-223a7096e678",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "In the Mood: The Big Band Era",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+                  "name": "Louis Armstrong"
+                }
+              ],
+              "id": "63a17b43-1972-46fa-bf59-2f85f8e163cc",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Golden Hits: Louis Armstrong",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+                  "name": "Ella Fitzgerald"
+                }
+              ],
+              "id": "a88fd253-7bc1-3b4e-8153-eb3c3c4c30b2",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "75th Birthday Celebration",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+                  "name": "Ella Fitzgerald"
+                }
+              ],
+              "id": "d4934a4d-3d96-3bd1-8b9f-c00b439af401",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "The First Lady of Song",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+                  "name": "Louis Armstrong"
+                }
+              ],
+              "id": "7daadd01-5e0b-4511-bdf7-c24075ca2aaf",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "\"Satchmo\": Ambassador of Jazz",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+                  "name": "Ella Fitzgerald"
+                }
+              ],
+              "id": "f2de6e22-3cdf-393f-9597-09789e3e61c0",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Ballads",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "cca52682-699e-432e-be92-10fe97d8c0ae",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Valentine’s Day Mix",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+                  "name": "Louis Armstrong"
+                }
+              ],
+              "id": "a887b083-423f-4842-8ebc-f3bf9f28e85a",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Satchmo: The Louis Armstrong Collection",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+                  "name": "Ella Fitzgerald"
+                }
+              ],
+              "id": "0a39f620-97cd-3409-a44c-f54771d6abb7",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Reader's Digest: The Legendary Ella Fitzgerald: Her Greatest Performances",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "9f4e6029-2137-4004-8646-4dbd00059850",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Jazz Greats, The Essential Masterpieces",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "e05a4112-984a-3850-8a32-cc450e207784",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Sexy Swing!",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+                  "name": "Ella Fitzgerald"
+                }
+              ],
+              "id": "fd4ad03d-aa44-3cae-97ee-bc1041ee8618",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Ella Fitzgerald",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+                  "name": "Ella Fitzgerald"
+                }
+              ],
+              "id": "229cc2dd-90d7-49f3-9329-bfb8185b843d",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "The Last Decca Years, 1949-1954",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+                  "name": "Ella Fitzgerald"
+                }
+              ],
+              "id": "3da0807e-c124-49cf-83ac-29e5db6a61ff",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Mitos do jazz, Volume 3: Ella Fitzgerald",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+                  "name": "Ella Fitzgerald"
+                }
+              ],
+              "id": "aceb7edf-622e-3842-aa6c-1b0868c05630",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "The Very Best of Ella Fitzgerald",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+                  "name": "Louis Armstrong"
+                }
+              ],
+              "id": "5b823b05-f7d7-38d8-b097-401296d1a3e3",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Louis Armstrong Sings Back Through the Years",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+                  "name": "Ella Fitzgerald"
+                }
+              ],
+              "id": "b80f188a-81fb-491f-9811-bcb8033ac8e0",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Greatest Hits",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+                  "name": "Louis Armstrong"
+                }
+              ],
+              "id": "b5d7d9d6-f6c5-4b1a-becd-532f125ab5c0",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Summertime",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+                  "joinphrase": " & ",
+                  "name": "Ella Fitzgerald"
+                },
+                {
+                  "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+                  "name": "Louis Armstrong"
+                }
+              ],
+              "id": "241ccc14-c02f-4913-b938-cc24ab26b0fd",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Singing And Swinging Together",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+                  "joinphrase": " & ",
+                  "name": "Ella"
+                },
+                {
+                  "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+                  "name": "Louis"
+                }
+              ],
+              "id": "60eafb58-0fbb-419e-88c4-33cf915071ee",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Singing and Swinging Together",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "51b7313a-c243-4df0-b9ba-90119e7e00a3",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "75 Love Songs",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+                  "name": "Louis Armstrong"
+                }
+              ],
+              "id": "928622a5-39dd-4f42-aff8-5ebd2d70bad5",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "The Complete Collection",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+                  "name": "Louis Armstrong"
+                }
+              ],
+              "id": "d8d4c27a-0978-358a-b727-05ed96055c8b",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Super Hits",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "e134916d-632f-4d60-9a36-b4fea38f262c",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "The Duets Album",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "a7858387-cb23-3eaf-b76a-b5a402ba67e2",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Jazz Lounge",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "3ea50b6c-ef24-312a-9743-6372b8f94b2c",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "In the Mood for Blues",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "b990c6ea-0d4d-40a0-b637-e67a495d6767",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Jazz Greats, The Essential Masterpieces / Trilogy",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+                  "name": "Ella Fitzgerald"
+                }
+              ],
+              "id": "1bebc9b8-3423-3834-a0ae-db933625ab59",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Just Jazz: Live: Lady Be Good",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+                  "name": "Ella Fitzgerald"
+                }
+              ],
+              "id": "ed33fe48-4f19-4a2e-acf1-cb5135d5f5da",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "The Chronological Classics: Ella Fitzgerald 1950",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+                  "name": "Ella Fitzgerald"
+                }
+              ],
+              "id": "c092bba6-f019-3f64-b4f4-c26c950f6ffe",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Ella: The Legendary Decca Recordings",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+                  "joinphrase": " & ",
+                  "name": "Ella Fitzgerald"
+                },
+                {
+                  "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+                  "name": "Louis Armstrong"
+                }
+              ],
+              "id": "7c7a4217-fe23-4912-9d53-14a41913782b",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "The Complete Fitzgerald & Armstrong Studio Recorded Duets",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+                  "name": "Louis Armstrong"
+                }
+              ],
+              "id": "ee2e7e7d-665a-3fad-b0fa-6ce54cb4e362",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "C'est si bon",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+                  "name": "Ella Fitzgerald"
+                }
+              ],
+              "id": "4b3437b2-1a84-48de-958e-a7040494069e",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "The Best Of Ella Fitzgerald",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "1611bdbd-1fdd-4a57-96b5-d74d92b0742a",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Latest and Greatest Duets",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "666ff2f8-c4a0-3a31-9951-d4922ac0b643",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "All the Best '99",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "a5324dc8-2c82-40bf-872a-83c3e3f89f67",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Duets: 36 of the World's Greatest Ever Duets",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+                  "joinphrase": " & ",
+                  "name": "Ella Fitzgerald"
+                },
+                {
+                  "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+                  "name": "Louis Armstrong"
+                }
+              ],
+              "id": "c4d57285-84d5-4413-8118-b92f402ad1da",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Cheek to Cheek: The Complete Duet Recordings",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+                  "joinphrase": " & ",
+                  "name": "Ella Fitzgerald"
+                },
+                {
+                  "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+                  "name": "Louis Armstrong"
+                }
+              ],
+              "id": "24577902-0198-3733-b1cb-f10e8c2abb05",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Ella & Louis Classic Album Collection",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+                  "joinphrase": " & ",
+                  "name": "Ella Fitzgerald"
+                },
+                {
+                  "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+                  "name": "Louis Armstrong"
+                }
+              ],
+              "id": "45aa0e31-ab75-4605-a3a3-f650d4fa4229",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Ella & Louis: The Complete Anthology",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+                  "joinphrase": " & ",
+                  "name": "Ella Fitzgerald"
+                },
+                {
+                  "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+                  "name": "Louis Armstrong"
+                }
+              ],
+              "id": "8a796362-8901-38d2-a271-b56a19d0395a",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "The Magic Duets",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+                  "name": "Ella Fitzgerald"
+                }
+              ],
+              "id": "d5fd223d-6458-377a-ba1c-6a665a83bedf",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Gold",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+                  "name": "Ella Fitzgerald"
+                }
+              ],
+              "id": "7c26f1dc-09bc-37de-b886-22dd16da1741",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "BD Jazz, Volume 6: Ella Fitzgerald / Steg",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+                  "joinphrase": " & ",
+                  "name": "Ella Fitzgerald"
+                },
+                {
+                  "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+                  "name": "Louis Armstrong"
+                }
+              ],
+              "id": "0d72863d-8a47-4aaa-ad1c-66580d718166",
+              "title": "Can Anyone Explain? / Dream a Little Dream of Me",
+              "type": "Single"
+            },
+            {
+              "artists": [
+                {
+                  "id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+                  "name": "Ella Fitzgerald"
+                }
+              ],
+              "id": "02f2e9e9-2ae4-4dad-a6ed-2e9c5ed6e4f1",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "The Diamond Collection",
+              "type": "Album"
+            }
+          ],
+          "title": "Dream a Little Dream of Me"
+        },
+        {
+          "artists": [
+            {
+              "id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+              "name": "Ella Fitzgerald"
+            }
+          ],
+          "duration": 184,
+          "id": "6faca945-d3be-4c19-83e8-4ae6876c1ebe",
+          "releasegroups": [
+            {
+              "id": "fe1c9c0d-6c45-4d54-85cd-8c02cc25ef71",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "100 Hits Legends: Ella Fitzgerald",
+              "type": "Album"
+            }
+          ],
+          "title": "Dream a Little Dream of Me"
+        },
+        {
+          "id": "73a4fad0-c5f5-4fc3-95eb-ab68679f92ab"
+        },
+        {
+          "artists": [
+            {
+              "id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+              "name": "Ella Fitzgerald"
+            }
+          ],
+          "duration": 186,
+          "id": "799890a3-74fb-4795-b0bf-2bcec3a61df7",
+          "releasegroups": [
+            {
+              "id": "4d6ea7c1-cacc-44c5-b1ed-9c11b1dde4a0",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "The Best of Ella Fitzgerald",
+              "type": "Album"
+            }
+          ],
+          "title": "Dream a Little Dream of Me"
+        },
+        {
+          "artists": [
+            {
+              "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+              "joinphrase": " & ",
+              "name": "Louis Armstrong"
+            },
+            {
+              "id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+              "name": "Ella Fitzgerald"
+            }
+          ],
+          "duration": 182,
+          "id": "816ded43-cd17-4952-bfcd-e01cdf8bfcce",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+                  "name": "Louis Armstrong"
+                }
+              ],
+              "id": "53dd79cc-760c-4dce-aefe-3fd59d134bf9",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "100 Hits Legends: Louis Armstrong",
+              "type": "Album"
+            }
+          ],
+          "title": "Dream a Little Dream of Me"
+        },
+        {
+          "id": "9a5838ee-ab8b-4d0f-abe8-5d67d191e9b8"
+        },
+        {
+          "artists": [
+            {
+              "id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+              "joinphrase": " & ",
+              "name": "Ella Fitzgerald"
+            },
+            {
+              "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+              "name": "Louis Armstrong"
+            }
+          ],
+          "duration": 187,
+          "id": "9e4d5660-d6cb-4601-b142-09372ab15dd0",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "4f4ec027-463e-3da4-a488-d65cfcd1b825",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Buonasera Signorina!",
+              "type": "Album"
+            }
+          ],
+          "title": "Dream a Little Dream of Me"
+        },
+        {
+          "artists": [
+            {
+              "id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+              "name": "Ella Fitzgerald"
+            }
+          ],
+          "duration": 187,
+          "id": "ac4f4166-a2e3-46ce-bd6f-8248c377b804",
+          "releasegroups": [
+            {
+              "id": "0409c2d3-2545-4232-a1ae-33e0c0c7586b",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Lady Ella",
+              "type": "Album"
+            }
+          ],
+          "title": "Dream A Little Dream Of Me"
+        },
+        {
+          "artists": [
+            {
+              "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+              "name": "Louis Armstrong"
+            }
+          ],
+          "duration": 197,
+          "id": "acfa5752-63e3-494d-add6-9bb364106c08",
+          "releasegroups": [
+            {
+              "id": "cd721da9-0a78-307e-bc13-b0d71e02b54f",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Let's Fall in Love",
+              "type": "Album"
+            }
+          ],
+          "title": "Dream a Little Dream of Me"
+        },
+        {
+          "artists": [
+            {
+              "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+              "name": "Louis Armstrong"
+            }
+          ],
+          "duration": 189,
+          "id": "b49b101d-5ec6-46ba-928c-a8b1919ebbdf",
+          "releasegroups": [
+            {
+              "id": "831b86af-85b1-43a8-81eb-d42473ba3952",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Rétrospective 1923-1956",
+              "type": "Album"
+            }
+          ],
+          "title": "Dream a Little Dream of Me"
+        },
+        {
+          "id": "d2a7ee3d-6251-4993-91e3-a82216b4a30c"
+        },
+        {
+          "artists": [
+            {
+              "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+              "name": "Louis Armstrong"
+            }
+          ],
+          "duration": 195,
+          "id": "d708ddfc-8e86-4543-ae4d-e99502eeb8f9",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+                  "name": "Louis Armstrong"
+                }
+              ],
+              "id": "bdd0d6b5-1bdc-3f9e-bae5-da3aa750933b",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "The Very Best of Louis Armstrong",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+                  "name": "Louis Armstrong"
+                }
+              ],
+              "id": "e9b32fc2-37a6-3d93-bf01-147149f9fb64",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Hello Louis!",
+              "type": "Album"
+            },
+            {
+              "id": "2fefd377-bf90-3e7e-8000-3d08e135dfcb",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Hello Louis!",
+              "type": "Album"
+            }
+          ],
+          "title": "Dream a Little Dream of Me"
+        },
+        {
+          "id": "d921baca-e7ea-40de-97f6-d02665925d3e"
+        },
+        {
+          "artists": [
+            {
+              "id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+              "joinphrase": " & ",
+              "name": "Ella Fitzgerald"
+            },
+            {
+              "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+              "name": "Louis Armstrong"
+            }
+          ],
+          "duration": 187,
+          "id": "e27ffbf2-b2ed-476b-85c2-10c03e5511d9",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "c2c701ea-b9c5-460c-a82d-7d7b314fef57",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "The Greatest Songs From the Greatest Generation",
+              "type": "Album"
+            }
+          ],
+          "title": "Dream a Little Dream of Me"
+        },
+        {
+          "artists": [
+            {
+              "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+              "name": "Louis Armstrong"
+            }
+          ],
+          "duration": 195,
+          "id": "e77dfab0-ed67-44b7-920f-c12e39cf03a8",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+                  "name": "Louis Armstrong"
+                }
+              ],
+              "id": "2a1ca9fb-5532-305a-94ff-1fb7cc349c4e",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Pure Louis",
+              "type": "Album"
+            },
+            {
+              "id": "5ff3c409-0c91-3248-9b39-ac25c205205d",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "The Very Best of Louis Armstrong",
+              "type": "Album"
+            }
+          ],
+          "title": "Dream a Little Dream"
+        },
+        {
+          "artists": [
+            {
+              "id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+              "name": "Ella Fitzgerald"
+            }
+          ],
+          "duration": 187,
+          "id": "ea6cc850-1a40-423c-80f2-60cb1d8aea0c",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "ea079c94-8dc4-4c96-b772-24e96bb24aae",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Chilled Jazz",
+              "type": "Album"
+            },
+            {
+              "id": "2d01f1aa-7af4-3836-8b4b-7558d4ab30ba",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Love, Ella: The Original Versions",
+              "type": "Album"
+            }
+          ],
+          "title": "Dream a Little Dream of Me"
+        },
+        {
+          "artists": [
+            {
+              "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+              "name": "Louis Armstrong"
+            }
+          ],
+          "duration": 186,
+          "id": "fa97f3e4-cee0-49c8-a260-47da6f5e5b1d",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "3a52a8a8-7db8-46c0-a5ce-245afc724cea",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Jazz Masters",
+              "type": "Album"
+            }
+          ],
+          "title": "Dream a Little Dream"
+        },
+        {
+          "id": "fc892c30-67a8-449a-bf96-531c0d5aa4b8"
+        }
+      ],
+      "score": 0.461036
+    }
+  ],
+  "status": "ok"
+}

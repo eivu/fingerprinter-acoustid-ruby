@@ -1,0 +1,29 @@
+{
+  "results": [
+    {
+      "id": "dee53639-2472-476f-bdbe-0f4f1ee7c7d2",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "022b58ea-6098-411d-b88a-652821d4c191",
+              "name": "DJ DB"
+            }
+          ],
+          "duration": 207,
+          "id": "8f2cc73e-1035-4712-946b-8bbe4af9d033",
+          "releasegroups": [
+            {
+              "id": "c4ec56dc-8c9d-4079-b899-a096beffdcc0",
+              "title": "The Secret Art Of Science 2",
+              "type": "Album"
+            }
+          ],
+          "title": "Nu Birth of Cool"
+        }
+      ],
+      "score": 0.989228
+    }
+  ],
+  "status": "ok"
+}

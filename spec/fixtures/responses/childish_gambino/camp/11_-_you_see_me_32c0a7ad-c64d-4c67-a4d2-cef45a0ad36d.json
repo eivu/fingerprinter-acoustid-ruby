@@ -1,0 +1,32 @@
+{
+  "results": [
+    {
+      "id": "ed6dacf5-52bc-439c-a165-6a5b925e419b",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "7fb57fba-a6ef-44c2-abab-2fa3bdee607e",
+              "name": "Childish Gambino"
+            }
+          ],
+          "duration": 195,
+          "id": "6352f515-eff3-4989-994d-74581f46082b",
+          "releasegroups": [
+            {
+              "id": "5253c012-f7d3-440e-919b-5bac6d91ae7e",
+              "title": "Camp",
+              "type": "Album"
+            }
+          ],
+          "title": "You See Me"
+        },
+        {
+          "id": "8f6ec96f-0dbc-47c2-8d68-834b73b93675"
+        }
+      ],
+      "score": 0.976925
+    }
+  ],
+  "status": "ok"
+}

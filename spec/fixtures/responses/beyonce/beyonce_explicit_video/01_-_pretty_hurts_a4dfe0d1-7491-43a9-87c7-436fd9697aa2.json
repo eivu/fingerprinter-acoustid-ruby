@@ -1,0 +1,32 @@
+{
+  "results": [
+    {
+      "id": "4df8ada6-8082-4fd1-a41e-cb3d42f05c97",
+      "recordings": [
+        {
+          "id": "6e759188-3587-41b5-9c1f-21d17700759c"
+        },
+        {
+          "artists": [
+            {
+              "id": "859d0860-d480-4efd-970c-c05d5f1776b8",
+              "name": "Beyoncé"
+            }
+          ],
+          "duration": 257,
+          "id": "c036f796-95e4-474f-998e-8bd7955636bf",
+          "releasegroups": [
+            {
+              "id": "8596171e-23b2-4bdd-8f1c-11960df0ecbe",
+              "title": "BEYONCÉ",
+              "type": "Album"
+            }
+          ],
+          "title": "Pretty Hurts"
+        }
+      ],
+      "score": 0.967827
+    }
+  ],
+  "status": "ok"
+}

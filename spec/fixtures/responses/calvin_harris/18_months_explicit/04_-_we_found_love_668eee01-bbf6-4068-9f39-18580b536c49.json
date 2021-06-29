@@ -1,0 +1,1805 @@
+{
+  "results": [
+    {
+      "id": "fee32950-3442-4240-981d-89fda57118e0",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "73e5e69d-3554-40d8-8516-00cb38737a1c",
+              "joinphrase": " feat. ",
+              "name": "Rihanna"
+            },
+            {
+              "id": "8dd98bdc-80ec-4e93-8509-2f46bafc09a7",
+              "name": "Calvin Harris"
+            }
+          ],
+          "duration": 216,
+          "id": "11294597-b4ac-4717-8e95-f99d665c1ece",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "73e5e69d-3554-40d8-8516-00cb38737a1c",
+                  "name": "Rihanna"
+                }
+              ],
+              "id": "15818ec5-bf34-47de-a4e5-260f98828d64",
+              "title": "Talk That Talk",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "8dd98bdc-80ec-4e93-8509-2f46bafc09a7",
+                  "name": "Calvin Harris"
+                }
+              ],
+              "id": "98432828-5764-4892-9e3f-9c674cf70acb",
+              "title": "18 Months",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "a27e2835-ccad-4ece-b226-783e2ed47cbe",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Radio 538: Hitzone 60",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "73e5e69d-3554-40d8-8516-00cb38737a1c",
+                  "name": "Rihanna"
+                }
+              ],
+              "id": "e87f35d5-d685-4418-b5b2-5e6ece4ff916",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Greatest Hits",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "22214b3f-8cb1-4cf8-b0a4-fcbc31cf7d5f",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Ö3 Greatest Hits 56",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "133e7194-11e7-44ac-958e-fd0410dbc3d5",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "The Dome, Volume 60",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "456a9ee1-216b-45e6-926f-296915bebff9",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "NRJ Music Awards 2012",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "03581145-7d83-45a7-a8b4-8a43044a1853",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Now That’s What I Call Music! 80",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "f93fb971-6bfc-48f9-9a63-daa9a47cdb53",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "The No.1 DJ Collection: 2010s (Digital Collection)",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "73e5e69d-3554-40d8-8516-00cb38737a1c",
+                  "name": "Rihanna"
+                }
+              ],
+              "id": "183ff781-a601-4433-bb4b-5f30f67dfd7b",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Devil in a Blue Dress",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "eea4cc13-1e9b-4e0d-bbd6-89e885f2e211",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Absolute Music 68",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "d70b4093-1c8c-4f67-8ae3-ac641eb8ba08",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Absolute Dance Winter 2012",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "5f446e5b-1115-4709-b11b-e260c00ad799",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Now! 19",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "655e6bcd-7151-473d-93f0-bccf586ab904",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Bravo: The Hits 2011",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "f802e332-ec11-4ffe-8011-638377d87d19",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "The No.1 DJ Collection: 2010s, Volume 4",
+              "type": "Album"
+            },
+            {
+              "id": "7fa46158-f064-4397-a26c-3ae9dc82faa9",
+              "title": "We Found Love",
+              "type": "Single"
+            }
+          ],
+          "title": "We Found Love"
+        },
+        {
+          "artists": [
+            {
+              "id": "73e5e69d-3554-40d8-8516-00cb38737a1c",
+              "joinphrase": " feat. ",
+              "name": "Rihanna"
+            },
+            {
+              "id": "8dd98bdc-80ec-4e93-8509-2f46bafc09a7",
+              "name": "Calvin Harris"
+            }
+          ],
+          "duration": 357,
+          "id": "31e093c1-87e1-4750-af08-74fd5419190d",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "73e5e69d-3554-40d8-8516-00cb38737a1c",
+                  "name": "Rihanna"
+                }
+              ],
+              "id": "5285118e-7f16-46ec-ad47-8c85814275b7",
+              "title": "You Da One",
+              "type": "Single"
+            },
+            {
+              "id": "7fa46158-f064-4397-a26c-3ae9dc82faa9",
+              "title": "We Found Love",
+              "type": "Single"
+            }
+          ],
+          "title": "We Found Love (Chuckie extended remix)"
+        },
+        {
+          "artists": [
+            {
+              "id": "a4ac255f-9775-4c16-8642-7f51502e45dd",
+              "name": "Stephen King"
+            }
+          ],
+          "duration": 217,
+          "id": "996218af-a956-499d-a06b-af58ae9a94d3",
+          "releasegroups": [
+            {
+              "id": "e869f4e5-eb79-49e9-88b1-14598ff38cb8",
+              "secondarytypes": [
+                "Audiobook"
+              ],
+              "title": "Under the Dome",
+              "type": "Other"
+            }
+          ],
+          "title": "Track 1"
+        },
+        {
+          "artists": [
+            {
+              "id": "4c98aa1b-34eb-4336-987f-5e50aa059c00",
+              "name": "The Script"
+            }
+          ],
+          "duration": 219,
+          "id": "a1d91b65-694f-4670-876c-6b21a2f83347",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "ec1bfff8-cdf5-4e19-965b-8cccda6eb28e",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "RTL Sommerhits 2013",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "8c39c784-8a6b-4517-8f12-790d961722c2",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "The Dome, Volume 66",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "863e9973-7dbd-4524-b72d-cf80cf7b45ee",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Radio 538: Hitzone 65",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "b2ab0a94-fb2c-4e85-bbdb-639ed549c660",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Veronica Top 1000 Allertijden: Editie 2018",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "31c425b8-56e2-4aae-b0ec-ff18d51ae0c4",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Radio 10 Top 4000 Editie 2018",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "8f8a1f5e-1da3-4921-9026-ce3813e43296",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Absolute Music 72",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "60a250ac-dd2c-44a0-a064-e039b2a158f3",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Ö3 Greatest Hits 62",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "4c98aa1b-34eb-4336-987f-5e50aa059c00",
+                  "name": "The Script"
+                }
+              ],
+              "id": "79ff9689-de0d-4cfc-a7e2-55107a8da0d5",
+              "title": "#3",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "ae1e9a0e-3ae9-47c9-9a1d-5c07a48c5076",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Qmusic: Het Beste Uit De Top 1000",
+              "type": "Album"
+            }
+          ],
+          "title": "If You Could See Me Now"
+        },
+        {
+          "artists": [
+            {
+              "id": "3414d446-735a-443c-931f-10634f57e5b9",
+              "name": "Usher"
+            }
+          ],
+          "duration": 263,
+          "id": "bcb3f1cd-686a-4b6a-9db1-7dec146e4126",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "3414d446-735a-443c-931f-10634f57e5b9",
+                  "joinphrase": " feat. ",
+                  "name": "Usher"
+                },
+                {
+                  "id": "dcad99e7-3c3e-4c78-bf8a-68203e17da48",
+                  "name": "Young Jeezy"
+                }
+              ],
+              "id": "fd44dc92-5983-32a8-a8a3-4b947199d021",
+              "title": "Love in This Club",
+              "type": "Single"
+            }
+          ],
+          "title": "Love in This Club (clean no rap)"
+        },
+        {
+          "id": "c678c5de-ae76-4fa8-a977-5bc1e6f129f9"
+        },
+        {
+          "artists": [
+            {
+              "id": "73e5e69d-3554-40d8-8516-00cb38737a1c",
+              "joinphrase": " feat. ",
+              "name": "Rihanna"
+            },
+            {
+              "id": "8dd98bdc-80ec-4e93-8509-2f46bafc09a7",
+              "name": "Calvin Harris"
+            }
+          ],
+          "duration": 215,
+          "id": "cbba8e4a-1832-4d07-85e4-7bc61d450ce4",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "d7e77ea5-28e9-42b2-b4ef-37d422862344",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Mastermix Classic Cuts, Volume 109: Pop Party",
+              "type": "Album"
+            }
+          ],
+          "title": "We Found Love"
+        },
+        {
+          "artists": [
+            {
+              "id": "f4d5cc07-3bc9-4836-9b15-88a08359bc63",
+              "name": "P!nk"
+            }
+          ],
+          "duration": 215,
+          "id": "e18aa6ed-2698-4df7-aaa8-a22a4ddd08ed",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "f346af42-1182-42a5-9cbe-fcd7946e0320",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Het beste uit 2500 x Top 40",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "0a7660ce-ca0d-3973-9d9c-a99efb30ab8c",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Now That’s What I Call Music! 29",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "91f699f3-f760-4886-8418-b5fe67812d1d",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Now That's What I Call the 00s",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "53039cb3-d012-4369-a035-1827715bcf5d",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Miss Independent: From the Ladies of Pop",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "0fd37d61-890a-4046-a179-41a1a357c230",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "NOW That’s What I Call the 00s: The Best of the Noughties 2000–2009",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "e1bec381-1aca-33db-b6ba-5436a76154e5",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Absolute Music 59",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "b429e332-a080-3fae-aad2-fcc8c8c5d151",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "2009 GRAMMY Nominees",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "11439751-f26e-4d9e-89f0-33398181e042",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "So Fresh: Greatest Hits",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "662e4134-b038-4a31-8c94-6b0a6542b175",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "The Big Top 40",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "9776bd5a-d684-429e-8e99-814fbb137b55",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "101 00s Hits",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "8ccdf87c-101b-4c83-8e49-7a42ec10488d",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Kids Car Playlist",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "b4a6a229-c381-47cc-9d1e-22b4d1d50977",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Die ultimative Chart Show: Lieblingshits der Deutschen",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "9deab6bf-300f-41fd-a678-850a98e53103",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Het beste uit de Qmusic top 500 van deze eeuw",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "c6e51cdd-ebf1-4b93-a3ce-19329b14a2e6",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Absolute Hits 2009",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "9c85bccd-6504-4c3f-9fba-a668b6840fde",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "101 Running Songs",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "439cf669-c130-40d7-b3df-757d5a49df4f",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Ultimate...2000s",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "fcc4356f-3955-44ff-a413-de23a7f0196d",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Pop Giganten: Rock",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "ba813859-33d9-4e96-aca6-770c47b251ee",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Dancemix 2009",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "1fb77029-1b9e-482a-8eab-8a8e3686544d",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Drive Time Anthems (disc 1)",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "e325a628-36a8-39ab-ada1-15efcc83e570",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Now That’s What I Call Music! 71",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "f3516b85-b81b-44d0-bf00-6feef70ea44f",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "School Disco Anthems",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "b5362c60-e058-3ac3-90d3-0768a8d917fa",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "NRJ Hits 2009",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "293724d0-0949-3f8f-9f55-f8c71368c5fd",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Music Box, Volume 3",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "14667bd4-0707-46df-aa7e-41f0f3aead81",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Ultimate Pop Princesses",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "7d9ccfb6-debf-3f6b-8d3d-f0fc26b07ceb",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "NOW That’s What I Call Music! 51",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "fdf84fcb-03e6-4fa3-a1ca-f27a49dec07e",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "She Rocks",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "2fdc751b-4a5b-4f2c-8aa1-8f57ef4a3d3a",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Now Big Hits 2008",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "b70ed6d5-2bc4-4213-b594-f4d301449d34",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "101 Number Ones",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "f4d5cc07-3bc9-4836-9b15-88a08359bc63",
+                  "name": "P!nk"
+                }
+              ],
+              "id": "36ca37e2-eb11-469c-b776-3a9af0a07114",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Greatest Hits… So Far!!!",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "49255bd4-8405-3f95-b7aa-601604a86bbd",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Brit Awards 2009: The Year in Music",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "b099e652-c9ee-423c-960f-94269163e6cd",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Pop Princess 2009",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "6191bd3b-6b41-4efa-9283-77574c8febb5",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Pop #1’s",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "f207d55e-1fca-4b6b-ac36-d06f241101b0",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Car Songs",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "03448f23-5d93-4ecb-a2fd-8767f3a0cb1f",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "The No.1 DJ Collection: 2000's, Volume 13",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "fb717f6b-bc85-3aed-9f80-0ff2b9422478",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Promo Only: Mainstream Radio, September 2008",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "5e54262b-9128-47ae-9f4a-896ec0df6810",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "So Fresh: A Decade of Hits 2000–2009",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "e82371c4-cb5a-4142-9492-c3c6b37029a2",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Girls Only",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "b9f6471f-11bf-4ba7-b2e2-3f40a61fe9c9",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "The Noughties",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "efc1e6db-136e-463a-8d9b-aea0f8df84f5",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "American Dreams",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "4c5ae788-c0c7-4753-b6be-6a01b08b5dca",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "101 Housework Songs",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "8a416115-6618-4aaa-ac91-947d312c4ebe",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "The Golden Hits",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "409c1afe-d12a-4aee-982e-05793925c4ee",
+              "title": "Car Songs",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "fa16774f-9980-4709-8230-0978b5d4ce40",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Pure… Dance Party",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "7342db0a-38d6-4d34-912a-b9b90c3dc5a1",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Race for Life: The Official 2010 Soundtrack",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "cce5dc31-a36f-4250-bb26-6ab15f8141ad",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "NOW That’s What I Call Music! Classics, Volume 2",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "ce01f030-ffc3-4cd0-8bdf-e8296c160de8",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "The No.1 DJ Collection: 2000s (Digital Collection)",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "a1aff3b7-77c9-4eb4-a5ae-f3e146385de9",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Now That’s What I Call No. 1 Hits",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "f4d5cc07-3bc9-4836-9b15-88a08359bc63",
+                  "name": "P!nk"
+                }
+              ],
+              "id": "9a18ded5-130d-3f07-8768-4efd5767c7f6",
+              "title": "So What",
+              "type": "Single"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "feb4b711-94e6-45dc-90d4-d529d9cd49aa",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Now That’s What I Call Music! 40",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "6399503e-b51f-4733-829e-7a63434e36b2",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Ultimate Pop Party",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "1b8bab52-8344-478f-b548-59d2ced3ba32",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Hits for Kids: Pop Party 5",
+              "type": "Album"
+            },
+            {
+              "id": "d8e89f6d-0c5b-3a05-a660-8c7367274d85",
+              "title": "Funhouse",
+              "type": "Album"
+            }
+          ],
+          "title": "So What"
+        }
+      ],
+      "score": 0.956928
+    },
+    {
+      "id": "0c993b1a-5026-47b5-bc61-fda44babeff4",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "73e5e69d-3554-40d8-8516-00cb38737a1c",
+              "joinphrase": " feat. ",
+              "name": "Rihanna"
+            },
+            {
+              "id": "8dd98bdc-80ec-4e93-8509-2f46bafc09a7",
+              "name": "Calvin Harris"
+            }
+          ],
+          "duration": 216,
+          "id": "11294597-b4ac-4717-8e95-f99d665c1ece",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "73e5e69d-3554-40d8-8516-00cb38737a1c",
+                  "name": "Rihanna"
+                }
+              ],
+              "id": "15818ec5-bf34-47de-a4e5-260f98828d64",
+              "title": "Talk That Talk",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "8dd98bdc-80ec-4e93-8509-2f46bafc09a7",
+                  "name": "Calvin Harris"
+                }
+              ],
+              "id": "98432828-5764-4892-9e3f-9c674cf70acb",
+              "title": "18 Months",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "a27e2835-ccad-4ece-b226-783e2ed47cbe",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Radio 538: Hitzone 60",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "73e5e69d-3554-40d8-8516-00cb38737a1c",
+                  "name": "Rihanna"
+                }
+              ],
+              "id": "e87f35d5-d685-4418-b5b2-5e6ece4ff916",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Greatest Hits",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "22214b3f-8cb1-4cf8-b0a4-fcbc31cf7d5f",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Ö3 Greatest Hits 56",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "133e7194-11e7-44ac-958e-fd0410dbc3d5",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "The Dome, Volume 60",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "456a9ee1-216b-45e6-926f-296915bebff9",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "NRJ Music Awards 2012",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "03581145-7d83-45a7-a8b4-8a43044a1853",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Now That’s What I Call Music! 80",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "f93fb971-6bfc-48f9-9a63-daa9a47cdb53",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "The No.1 DJ Collection: 2010s (Digital Collection)",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "73e5e69d-3554-40d8-8516-00cb38737a1c",
+                  "name": "Rihanna"
+                }
+              ],
+              "id": "183ff781-a601-4433-bb4b-5f30f67dfd7b",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Devil in a Blue Dress",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "eea4cc13-1e9b-4e0d-bbd6-89e885f2e211",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Absolute Music 68",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "d70b4093-1c8c-4f67-8ae3-ac641eb8ba08",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Absolute Dance Winter 2012",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "5f446e5b-1115-4709-b11b-e260c00ad799",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Now! 19",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "655e6bcd-7151-473d-93f0-bccf586ab904",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Bravo: The Hits 2011",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "f802e332-ec11-4ffe-8011-638377d87d19",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "The No.1 DJ Collection: 2010s, Volume 4",
+              "type": "Album"
+            },
+            {
+              "id": "7fa46158-f064-4397-a26c-3ae9dc82faa9",
+              "title": "We Found Love",
+              "type": "Single"
+            }
+          ],
+          "title": "We Found Love"
+        },
+        {
+          "artists": [
+            {
+              "id": "73e5e69d-3554-40d8-8516-00cb38737a1c",
+              "joinphrase": " feat. ",
+              "name": "Rihanna"
+            },
+            {
+              "id": "8dd98bdc-80ec-4e93-8509-2f46bafc09a7",
+              "name": "Calvin Harris"
+            }
+          ],
+          "duration": 357,
+          "id": "31e093c1-87e1-4750-af08-74fd5419190d",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "73e5e69d-3554-40d8-8516-00cb38737a1c",
+                  "name": "Rihanna"
+                }
+              ],
+              "id": "5285118e-7f16-46ec-ad47-8c85814275b7",
+              "title": "You Da One",
+              "type": "Single"
+            },
+            {
+              "id": "7fa46158-f064-4397-a26c-3ae9dc82faa9",
+              "title": "We Found Love",
+              "type": "Single"
+            }
+          ],
+          "title": "We Found Love (Chuckie extended remix)"
+        },
+        {
+          "artists": [
+            {
+              "id": "73e5e69d-3554-40d8-8516-00cb38737a1c",
+              "joinphrase": " feat. ",
+              "name": "Rihanna"
+            },
+            {
+              "id": "8dd98bdc-80ec-4e93-8509-2f46bafc09a7",
+              "name": "Calvin Harris"
+            }
+          ],
+          "duration": 345,
+          "id": "58d76dd9-0918-4633-afc7-10f0d0538f41",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "73e5e69d-3554-40d8-8516-00cb38737a1c",
+                  "name": "Rihanna"
+                }
+              ],
+              "id": "15818ec5-bf34-47de-a4e5-260f98828d64",
+              "title": "Talk That Talk",
+              "type": "Album"
+            },
+            {
+              "id": "7fa46158-f064-4397-a26c-3ae9dc82faa9",
+              "title": "We Found Love",
+              "type": "Single"
+            }
+          ],
+          "title": "We Found Love (extended version)"
+        },
+        {
+          "id": "c678c5de-ae76-4fa8-a977-5bc1e6f129f9"
+        },
+        {
+          "artists": [
+            {
+              "id": "6d744917-187a-450f-a683-e2caa21591a5",
+              "name": "Alex Goot"
+            }
+          ],
+          "duration": 214,
+          "id": "ebfa9d14-7674-45a3-af99-f7aa1f07815d",
+          "releasegroups": [
+            {
+              "id": "2b0486f3-0028-4c05-96d5-6fd630839d32",
+              "title": "Songs I Wish I Wrote, Volume 3",
+              "type": "Album"
+            }
+          ],
+          "title": "We Found Love"
+        },
+        {
+          "artists": [
+            {
+              "id": "ddfd9b2f-186e-4b2c-ad09-01aa5380c225",
+              "name": "Robin Thicke"
+            }
+          ],
+          "duration": 216,
+          "id": "f4b62511-1bf2-4cb9-a74f-842f78ed13b0",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "202d9955-4cd2-4bb2-835c-e0152c6abf19",
+                  "name": "Havana Brown"
+                }
+              ],
+              "id": "c6833cde-f87f-4cbb-96b3-450bd04416cc",
+              "secondarytypes": [
+                "Compilation",
+                "DJ-mix"
+              ],
+              "title": "Crave, Volume 2",
+              "type": "Album"
+            }
+          ],
+          "title": "The Sweetest Love"
+        },
+        {
+          "id": "f6160266-e028-4d85-b9e6-5b320629dd23"
+        }
+      ],
+      "score": 0.95398
+    },
+    {
+      "id": "9c03945a-b0f8-43f8-a3b2-3c394260a627",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "73e5e69d-3554-40d8-8516-00cb38737a1c",
+              "joinphrase": " feat. ",
+              "name": "Rihanna"
+            },
+            {
+              "id": "8dd98bdc-80ec-4e93-8509-2f46bafc09a7",
+              "name": "Calvin Harris"
+            }
+          ],
+          "duration": 216,
+          "id": "11294597-b4ac-4717-8e95-f99d665c1ece",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "73e5e69d-3554-40d8-8516-00cb38737a1c",
+                  "name": "Rihanna"
+                }
+              ],
+              "id": "15818ec5-bf34-47de-a4e5-260f98828d64",
+              "title": "Talk That Talk",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "8dd98bdc-80ec-4e93-8509-2f46bafc09a7",
+                  "name": "Calvin Harris"
+                }
+              ],
+              "id": "98432828-5764-4892-9e3f-9c674cf70acb",
+              "title": "18 Months",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "a27e2835-ccad-4ece-b226-783e2ed47cbe",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Radio 538: Hitzone 60",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "73e5e69d-3554-40d8-8516-00cb38737a1c",
+                  "name": "Rihanna"
+                }
+              ],
+              "id": "e87f35d5-d685-4418-b5b2-5e6ece4ff916",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Greatest Hits",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "22214b3f-8cb1-4cf8-b0a4-fcbc31cf7d5f",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Ö3 Greatest Hits 56",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "133e7194-11e7-44ac-958e-fd0410dbc3d5",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "The Dome, Volume 60",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "456a9ee1-216b-45e6-926f-296915bebff9",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "NRJ Music Awards 2012",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "03581145-7d83-45a7-a8b4-8a43044a1853",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Now That’s What I Call Music! 80",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "f93fb971-6bfc-48f9-9a63-daa9a47cdb53",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "The No.1 DJ Collection: 2010s (Digital Collection)",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "73e5e69d-3554-40d8-8516-00cb38737a1c",
+                  "name": "Rihanna"
+                }
+              ],
+              "id": "183ff781-a601-4433-bb4b-5f30f67dfd7b",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Devil in a Blue Dress",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "eea4cc13-1e9b-4e0d-bbd6-89e885f2e211",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Absolute Music 68",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "d70b4093-1c8c-4f67-8ae3-ac641eb8ba08",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Absolute Dance Winter 2012",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "5f446e5b-1115-4709-b11b-e260c00ad799",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Now! 19",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "655e6bcd-7151-473d-93f0-bccf586ab904",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Bravo: The Hits 2011",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "f802e332-ec11-4ffe-8011-638377d87d19",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "The No.1 DJ Collection: 2010s, Volume 4",
+              "type": "Album"
+            },
+            {
+              "id": "7fa46158-f064-4397-a26c-3ae9dc82faa9",
+              "title": "We Found Love",
+              "type": "Single"
+            }
+          ],
+          "title": "We Found Love"
+        }
+      ],
+      "score": 0.889611
+    }
+  ],
+  "status": "ok"
+}

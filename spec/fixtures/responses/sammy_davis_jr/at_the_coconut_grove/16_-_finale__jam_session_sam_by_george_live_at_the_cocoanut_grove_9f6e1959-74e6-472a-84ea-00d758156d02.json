@@ -1,0 +1,28 @@
+{
+  "results": [
+    {
+      "id": "467e2c90-b973-45e3-9f7b-db1c69aeff6c",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "4bc9e8c3-7eae-454f-a56c-bccf96f3926b",
+              "name": "Sammy Davis Jr."
+            }
+          ],
+          "duration": 630,
+          "id": "fdb97c09-3598-4a5c-8dfc-1cec3f28d7c7",
+          "releasegroups": [
+            {
+              "id": "6fac76ed-b861-3519-9df3-04355946ec58",
+              "title": "At the Cocoanut Grove"
+            }
+          ],
+          "title": "Finale: Jam Session (Sam, by George)"
+        }
+      ],
+      "score": 0.997165
+    }
+  ],
+  "status": "ok"
+}

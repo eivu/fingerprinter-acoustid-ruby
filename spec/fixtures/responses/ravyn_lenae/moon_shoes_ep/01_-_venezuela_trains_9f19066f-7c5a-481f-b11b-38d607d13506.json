@@ -1,0 +1,29 @@
+{
+  "results": [
+    {
+      "id": "d37e09a9-17ac-450c-adbe-075cebd9de76",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "94c64122-dbd4-4927-b2fa-f204b0b4b0c2",
+              "name": "Ravyn Lenae"
+            }
+          ],
+          "duration": 249,
+          "id": "4b4f3799-3aed-4c78-8784-d00087feb6f4",
+          "releasegroups": [
+            {
+              "id": "74223740-723a-4b35-96c4-147d71c0d335",
+              "title": "Moon Shoes",
+              "type": "EP"
+            }
+          ],
+          "title": "Venezuela Trains"
+        }
+      ],
+      "score": 0.996769
+    }
+  ],
+  "status": "ok"
+}

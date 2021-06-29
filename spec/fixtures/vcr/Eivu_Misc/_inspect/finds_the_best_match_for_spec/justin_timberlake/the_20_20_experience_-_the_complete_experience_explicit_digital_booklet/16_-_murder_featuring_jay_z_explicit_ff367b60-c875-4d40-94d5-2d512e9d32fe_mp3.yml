@@ -1,0 +1,63 @@
+---
+http_interactions:
+- request:
+    method: get
+    uri: https://api.acoustid.org/v2/lookup?client=<ACOUSTID_CLIENT_ID>&duration=307&fingerprint=AQADtFKSNFGiJMqC5yT6nYiOi4T28MgP4xaek4EfDj8-5F6hSENeSXhPPJOFpmdQySe-yDke4Uvx5MG1DzePVF4KhTh4aR2aI9OOikM4_YXbw06I2seXC-UDa0cfpsOZHTJafWCijRVyH9zRjDRqZbmQdVfwD9WWGd7RTTGe7Lh0DT_kH02VBdpDDz-uH6mTBblEDz9KBs2ZQ6WPPj-e7oHWHKWUo0kzHRczCk8P_UIzLiinpYJ-XIcfJccV0bhQ6WiqsNCD62i4DNRe4gqaFJ-F69jTC83JGh21FHqOI30U7GI64-j2oXHC6sjxfGhOH12OJyTx3Lh24fHR5bBDUgjJLBN-kDrsZLiYCrSP_BDP4FNG6cj3oOeRcuF0nOh1fMa5B5-OipLRfJmEl8d-OCJxZSn0PMfhE88y_DluPDn65PCD_3hQSlk2_IH2w1eOXMmFH-eCbaTwBRfhHOkMrTfmCvnxnEPTZyj54KIqPApuC5c-4S_eBU3iHZF-6AefDH2OUJKDexbaH2nYB3ZC1MM3Gs87NOGHXkoK_cfRZMoRWpFK_MGHZidCSVuOf3ge9JnhSKPQ5yCnjDiPH-XRVFmOLzT-HMzRKEt4XBKNH0WzLofuG-UKlcqDThcqSRGaLeFw0cIPfWi6seib4jv0j7AaJcIX0cOHkjS0VFk0fD9iHg25TGCJ_yhVRM-Mf4F--OGRH_dxOS78sPh4_ITFFzGV5dCJKTx6gxMLeeLxZTm-KJeOHyF1IXVIlFKWDj9C7TOaLVmKJ9JCIj_Ko_ly6LbwC82kzMK37iAjBT3OjHj6449QMRGaL8d5_DOmjDT6LMZzQTOaL8LxB8eT5EJTHX2GytLxHH2UYIdmssJDpCfwVCfMh8RPXKKR7lCWB9Uc5D8u4bkUeP7w-Xhz4RmeS3gu_DjSpMGhHw-PWkG5Bs-GdvTRHJWLRszwG7_QX2i-FDp5XEek3EO_TLj84GjSkEJoZTn-4YGWhTNOFXUE2TvOK8JR6tGhpUkW6Fw8_Ah_NNOUHLlS4_owySe0jOGP3_h61MqhaTy6SMeUR0KshZSQf8J1NE6Gkkxx4TooNUo0fDx-NLuhXUvxoz4ocoYqHU_Q7TijGD_0w5uGP4WOLEXzKDmuEP_Q_QhTZVmh-rh69C28HlWFv9CjKAYPhrKHMFuKKzNIHbU9NFvCCieRp4fGI4wajrg-43rQKjwcMUfeHT2eKsYVPViPPsOUmMF-4hCfBReP_EJT5UVJRhp-5A9uC3qSF-0On0GVWMT141kOvScalofeIw9x-FYU4V_x5cFWB_khrojENBl-HF-aMUbTSyh94YuOR3iGZxeufWjqdOjpYnyE_gi_4GFI_Dd4PJ-LZsuOtAoqkRby5ZB6NNqJ8GmHrMzxD407aN5S4e-Qw2eQKzt-BVdOlMwMd0QfnOJx5sOfQ78EV8zxJTP0B-V1NKkWPLKHPyi5o3mU4D6054bO7EG77CgXWmha4VWMHzpcMdATxcKP7kLjREkxLuKFGT20dCy-40c1zsQFqgqPnjku5cifY6J0NF-Or0acHlp1hImjpMMj_tjRe2i6pcL7IQ-a0wd71CIpPMtufMss3EepC3YylGQ6I0c1fUGjdDlYNUa8bygPLaFCPI9UPFeChhGPayzU6qjxzMf_4EsOLVUidE_xY9IuNM9yXOJ2PE_QD1oe4OFw40qOPoE55viLJx3RT8atQ6Nx5sg5fOUOjyHhXcb-wRUR64XICpEunMdvDk89WBHV4T7eo-2OWvlw5cFzvEiT5ph56NIFPsRxI-ePUPNh7UHjhDiVGd8XlK8EqkKfKGGG_5A-oqFyItwUqfgX_PDIHKyUHdkvfNHRrIuGDx2FzwKb6AI0Mj-aqh30HbR_lFzQOOFxycZPNCPRh9DNotkKMVQedDpqRUeTJhwe0cUP7Y_QVFGCt8Z3aGqN5pE0POLxD80NzVuKZ0ebw1GXaTh45UQffDp-lLfQPMuhii9-hPliVIvCFv-BpjZCVUuFQ2t8MHmLRz6eQxUX4lGu4w9K6YddHyG15fiiH12uobGWSbh83Ee4oDl_6B_-Bc2kDKTe49VRkceXjBoeXGgqGv1S4Td-TBJpOJlCNC4-HL9SqCq34GiTHe4VXAr-FlWOR8lwH9p5-ETO4z9MpST24zzh8MihbEZYKrhwPUedPULz4-Ie3Mez49HxC-9xpEmYEzpOyfgio5SC8MG1IwxvHG_RfLhqlMcvNOtS6DyuI9rp4VEy4XpwHXayDLlo4Q_0Hc2YpaiY4IPczMI_4d9RSkfTaOlw8riPMOOO0EmW47Kx6kMTMSOhnfnxG6VSPA80jR4aRUIkMhLekBLyT7iOZtOOPsVx6aCupPjiZcKF5im0ax5-MI0Pj2GhEtfRzTijC3-gUToaJ0uhH0eWHo2lpMJ_fEdzEqG4BTquPqjVwpF28EKpF_oyDz9CyhaaLS0-ZcePZrKHfqnw8chzaFGO8Mt4_MP1oFUyH46IvDu6DWcU4w92VM6O5gx-oTy0fMF91DnRPMeZ4yv057iIJznRQzyDRydCfceXHP-CMDMP7USO3hv8ZsPEvEGfOnA35EfChREmnrg1_MdTSvB0Jfh6nMMVvDOeB9f04aPgpEeOnYb2hSiZ6LhwooajQ1SWSOgzStBzXD_6zEOzNcU_SD7sMCvyKIqF4zkcKkSeK7hOtOPhlS0-MCo-ZT9-RTjKo6nC4ssu5Beao5c0Hbly8EczMtCs7HiPSvJzPIc2ZUe57GgmZRkH_cgv_DM8KQseLsoBQISABBDqGBFAMSSEcMgQI5wzihAgSAAEGCMMgAoQgIhgACFDlCDCOEiAccARYRxwBAgkgGIAGEEMQgYBIMQzhBHkCAMAGASCEAsoYwAhSBJCDHBiMCSEAwIIJgAhwDoiABICAIYIEhowIgAySCAEjAEEAEAEUWI4jhBQABGEhEMGIEWQMAQSgQSABgigABAANOO0AAoZJoAixjjniGFCCWCcI8QgZBwHwBkBOBGAAYCMQQYBYRRAAhiCGAHIKUEIAIAChRgDxDnhiFIAAWIAQUwIBgwTCAlKBDWEKQOYcEowABQhBAgkECIACAGcMUgRZ1UTTDCiDSBQGAGAYYgIQQBxIggiDCHAOEuEEEgAgCARhgBAEHDiIEMAFYBQBhQkxhFFhAfAIEOEMkAgooRGjhDhkAEQEoWIEAgI4AhAABFGBQGICAWAUAwQYQxUDhhBkBMAMaGAAY4aAoiAQhEBBDIGGGKcAQZIQDwwQiFBABCEGAeAE0Q4B4RxEiABGACGGMeNcRBY4hADAghCiANGCIKQAYItQAggRBiAgAIJIKeIYJAARggQABGGECCEIEQQRcQIAgwQCDBDiBCEEEKAAMgIYQAhihGGGBHEIQYAgAAgAIgAkhgEJCACASQcIgQoQAQwThDDiJFCAAAcMIQoJBxjACBCjBNAGCGBAYADIIRihgAKDCECIKEIMEAAQJQighBkiDiEAQMREIAixIChDAEDADMOIAKIAB4gAABBQAjiACKIEWKdK04pCIAABjKDgGGACQecIVIgRJQxRBBggBQECQAQZAYQBBxRYiABCAJEAaUIMM4AIZoBQBgkDkDCCCkEMJAQQZQgACkAiULEOEWAcVgggABggALhECIGAAAAQ8gxIQBAgBEAhCEIAUEgMQwQZLghxBoqBCMOCCYYEcMhQwxAQgCijCOCIA0IYBwI4ABggChkiCNOCQ&meta=recordings%20releasegroups%20compress
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      Accept:
+      - "*/*"
+      User-Agent:
+      - rest-client/2.1.0 (darwin20.3.0 x86_64) ruby/2.7.1p83
+      Accept-Encoding:
+      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+      Host:
+      - api.acoustid.org
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Date:
+      - Tue, 29 Jun 2021 21:21:22 GMT
+      Content-Type:
+      - application/json; charset=UTF-8
+      Transfer-Encoding:
+      - chunked
+      Connection:
+      - keep-alive
+      Vary:
+      - Accept-Encoding
+      Access-Control-Allow-Origin:
+      - "*"
+      X-Envoy-Upstream-Service-Time:
+      - '59'
+      Strict-Transport-Security:
+      - max-age=15724800; includeSubDomains
+    body:
+      encoding: ASCII-8BIT
+      string: '{"results": [{"id": "8b311421-3833-4fe3-8575-6337929c20d4", "recordings":
+        [{"artists": [{"id": "596ffa74-3d08-44ef-b113-765d43d12738", "joinphrase":
+        " feat. ", "name": "Justin Timberlake"}, {"id": "f82bcf78-5b69-4622-a5ef-73800768d9ac",
+        "name": "Jay-Z"}], "duration": 307, "id": "f12eb36e-7e2b-4cfb-bf2e-88089500cfb8",
+        "releasegroups": [{"artists": [{"id": "596ffa74-3d08-44ef-b113-765d43d12738",
+        "name": "Justin Timberlake"}], "id": "7cc6c164-bd3d-4920-9342-9cb8cd87d8de",
+        "title": "The 20/20 Experience (2 of 2)", "type": "Album"}, {"artists": [{"id":
+        "596ffa74-3d08-44ef-b113-765d43d12738", "name": "Justin Timberlake"}], "id":
+        "fe51b20f-83e4-49dd-9a36-b8d4da138325", "secondarytypes": ["Compilation"],
+        "title": "The Complete 20/20 Experience", "type": "Album"}], "title": "Murder"},
+        {"artists": [{"id": "596ffa74-3d08-44ef-b113-765d43d12738", "joinphrase":
+        " feat. ", "name": "Justin Timberlake"}, {"id": "f82bcf78-5b69-4622-a5ef-73800768d9ac",
+        "name": "JAY Z"}], "duration": 307, "id": "f9b4ee26-3393-4f63-be26-d4ab30d8abe6",
+        "releasegroups": [{"artists": [{"id": "596ffa74-3d08-44ef-b113-765d43d12738",
+        "name": "Justin Timberlake"}], "id": "7cc6c164-bd3d-4920-9342-9cb8cd87d8de",
+        "title": "The 20/20 Experience (2 of 2)", "type": "Album"}, {"artists": [{"id":
+        "596ffa74-3d08-44ef-b113-765d43d12738", "name": "Justin Timberlake"}], "id":
+        "fe51b20f-83e4-49dd-9a36-b8d4da138325", "secondarytypes": ["Compilation"],
+        "title": "The Complete 20/20 Experience", "type": "Album"}], "title": "Murder"}],
+        "score": 0.958167}], "status": "ok"}'
+    http_version:
+  recorded_at: Tue, 29 Jun 2021 21:21:22 GMT
+recorded_with: VCR 3.0.3

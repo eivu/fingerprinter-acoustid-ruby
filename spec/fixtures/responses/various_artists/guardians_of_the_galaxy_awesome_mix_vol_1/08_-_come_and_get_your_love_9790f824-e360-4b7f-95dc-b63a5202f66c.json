@@ -1,0 +1,744 @@
+{
+  "results": [
+    {
+      "id": "2a67670e-2df2-4fa6-a65a-81f5090804d0",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "b3fa0e6f-93db-4aa5-b76e-393e24de35ba",
+              "name": "Redbone"
+            }
+          ],
+          "duration": 208,
+          "id": "19743e71-e55d-4413-9450-0be53223675a",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "10176650-e937-4226-95a9-66ed77ce1cc7",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Back to the US of A",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "5253d1f3-87c3-4d27-b498-5d4c217be826",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "No.1 Evergreen Hits Vol.2",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "516245eb-a9ed-30a3-b4a2-af52d10b6692",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Billboard Top Rock’n’Roll Hits: 1974",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "b25b962f-252c-4f84-80d2-82f2f00edcf3",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Les Hits RTL 2019",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "950092d6-45f6-4269-87da-99a9ff2fcc52",
+              "secondarytypes": [
+                "Compilation",
+                "Soundtrack"
+              ],
+              "title": "Guardians of the Galaxy: Awesome Mix, Vol. 1: Original Motion Picture Soundtrack",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "565125cd-cb39-3f4c-adb0-c46e7641cbd8",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Super Hits of the '70s: Have a Nice Day, Vol. 12",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "03cfec4a-9885-444c-9e74-5fbab5861106",
+                  "name": "Tyler Bates"
+                }
+              ],
+              "id": "e974e9ae-1933-45a5-8f3e-230ccb1759c8",
+              "secondarytypes": [
+                "Compilation",
+                "Soundtrack"
+              ],
+              "title": "Guardians of the Galaxy: Deluxe",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "b7c7482a-0f7b-3ec5-abb3-bdd4c2f6f8b4",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Sensational 70's",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "3bf6cb32-a7fc-314a-828d-dae7faf221ff",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Ad Bouman’s Goud Van Oud",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "e92ab20a-74be-3af5-91fd-d000d5a105aa",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Billboard Hottest Hits, Volume 8: Love Story From 1965-1980",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "8ee752fd-a087-3ff4-8266-fedb2af3fb97",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Sounds of the Seventies: 1974",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "d8a41049-453f-3644-8696-b0b51a5d732c",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Jammin’ Oldies",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "8974ad87-2054-48a1-8b8b-df67b3d732dc",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Sounds of the Seventies: Classic 70s",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "b3fa0e6f-93db-4aa5-b76e-393e24de35ba",
+                  "name": "Redbone"
+                }
+              ],
+              "id": "65abbff5-ffff-3aff-a005-63b16f2f6e11",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Greatest Hits",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "71a23de4-b674-4cec-84b9-ac3a7de5d646",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "70s Mixtape Vol. 1 & 2: Music Inspired by Guardians of the Galaxy",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "5a738f63-7097-3c7d-a8ff-c158e0cb6519",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "70's Rock",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "7e1a9ef9-89a6-4a7b-8680-c2d816db7c8a",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Hits of the 70s",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "19012f8f-b40f-31e9-bf3b-6c8dc5374664",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "AM Gold: 1974",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "b4813f8b-5ddc-4dcf-88ec-db9bc769583c",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "#Hits été-rentrée 2019",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "b3fa0e6f-93db-4aa5-b76e-393e24de35ba",
+                  "name": "Redbone"
+                }
+              ],
+              "id": "4ab19544-fa9e-4e18-b802-4c939caf0405",
+              "title": "Come and Get Your Love",
+              "type": "Single"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "6511c660-bba2-4f36-ad79-e595b3fba549",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Radio 10 Gold: Top 4000",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "48678af0-5fb2-315c-a5d0-c28f80f516d7",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Best of the 70s (Blue)",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "89684c27-0765-4372-bac8-a62a9a498e81",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Ultimate Power of the 70s, Vol 2",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "32483b53-02e2-4925-bbea-5f426afac499",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Virgin Radio 2019, Vol. 2",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "bf3dc9b3-aa24-4f30-9365-c4e5faf464c9",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "NRJ Just Hits 2019",
+              "type": "Album"
+            }
+          ],
+          "title": "Come and Get Your Love"
+        },
+        {
+          "artists": [
+            {
+              "id": "b3fa0e6f-93db-4aa5-b76e-393e24de35ba",
+              "name": "Redbone"
+            }
+          ],
+          "duration": 210,
+          "id": "2c617fe8-6d9e-4f53-8a5a-6c142ba0b4f1",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "d761e15e-ef0c-43f2-bb7f-15a0eb27ba5f",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Sounds of the Seventies: Pop Nuggets: Early '70s",
+              "type": "Album"
+            }
+          ],
+          "title": "Come and Get Your Love"
+        },
+        {
+          "artists": [
+            {
+              "id": "b3fa0e6f-93db-4aa5-b76e-393e24de35ba",
+              "name": "Redbone"
+            }
+          ],
+          "duration": 212,
+          "id": "70a3f452-40ce-4b6e-8999-a0e573497952",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "d3ace27a-b380-4360-86cc-bb9299fcffe1",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "70's Party Rock (1970-1979)",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "ca27ac60-3694-3b53-ae13-05a74d861825",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "AM Gold: Radio Hits '69-'74: Pop Treasures",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "ad26119e-2145-4d4a-b8ea-1b9c3fed09c7",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Get Ready, Here Come the ’70s",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "b2a30856-384f-42d8-b4c6-3731034062a9",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Hits of the 70s",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "5a738f63-7097-3c7d-a8ff-c158e0cb6519",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "70's Rock",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "8aa9a92b-03ef-4eda-a2af-374b2db11cc0",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Greatest Hits of 1974",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "f76d209a-e3cb-4b36-8d1f-91d6219cd0ee",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Soul Hits - Vol. 4",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "79e34261-06a3-3984-abca-8f957b716824",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "70's Rock, Volume 4",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "8c1a6709-b51e-3f69-b6e0-637f0afe7f5a",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Back to the 70's",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "10fcb0cd-dea6-4e47-bd56-af58ac0d6729",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Get Ready, Here Come the ’70s",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "e4230957-024f-3d24-8032-258d719f314c",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "The Ultimate Jukebox Hits of the 70s",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "ccc429cb-24ab-4118-8258-70d1ac9b845c",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "The Rockin’ ’70s",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "4b8d4510-3eec-3fd4-a833-4f5c345d43e4",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "70s Music Explosion: Miracles",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "5b73196a-e3f6-3694-8348-065e852f3ef2",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Back to the 70's",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "ae492670-27b8-3942-9119-5257d8a13dfb",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Rock & Roll 70s",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "48da1851-6c8c-3ed8-80a5-86e834dec9e6",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Barry Williams Presents: 70's Music Explosion",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "3fc24d86-84d3-3d96-a563-66d8aa40c95f",
+              "secondarytypes": [
+                "Soundtrack"
+              ],
+              "title": "Dick",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "6df49a1e-39d3-30ab-857c-64672ff0877e",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Rock 'n' Roll Greatest Hits: Best of the 70s",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "81c85c31-9424-3064-813f-a89023752c65",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "The Super 70's, Volume 1",
+              "type": "Album"
+            }
+          ],
+          "title": "Come and Get Your Love"
+        },
+        {
+          "artists": [
+            {
+              "id": "b3fa0e6f-93db-4aa5-b76e-393e24de35ba",
+              "name": "Redbone"
+            }
+          ],
+          "duration": 212,
+          "id": "7949a490-cf38-48dd-b8a1-c51b19bf5d6d",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "f6e5eb62-5012-4470-b977-3b7873542b4e",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "NRJ Spring Hits 2019",
+              "type": "Album"
+            }
+          ],
+          "title": "Come and Get Your Love"
+        },
+        {
+          "artists": [
+            {
+              "id": "b3fa0e6f-93db-4aa5-b76e-393e24de35ba",
+              "name": "Redbone"
+            }
+          ],
+          "duration": 210,
+          "id": "c28a082f-7056-4015-b442-f53db68240b3",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "b7ce6e4b-ff7d-42f7-9681-cdcc4046aa51",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "NRJ Hit Music Only 2019",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "2de71d57-5bdf-46ea-a880-0405e64c5c4e",
+              "title": "Love Is Forever",
+              "type": "Album"
+            }
+          ],
+          "title": "Come and Get Your Love"
+        }
+      ],
+      "score": 0.912184
+    }
+  ],
+  "status": "ok"
+}

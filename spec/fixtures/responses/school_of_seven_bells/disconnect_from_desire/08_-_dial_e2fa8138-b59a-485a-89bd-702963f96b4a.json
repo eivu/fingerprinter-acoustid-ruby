@@ -1,0 +1,29 @@
+{
+  "results": [
+    {
+      "id": "3b85cdb1-ec3f-444a-9be7-ef457aa39374",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "57843aed-c1c1-4f45-9859-478dd999bc18",
+              "name": "School of Seven Bells"
+            }
+          ],
+          "duration": 294,
+          "id": "ef903cf4-b0fc-4db3-b685-b64e5785206e",
+          "releasegroups": [
+            {
+              "id": "8a2d9685-b7df-4aa7-9e07-39b7efe63ea2",
+              "title": "Disconnect From Desire",
+              "type": "Album"
+            }
+          ],
+          "title": "Dial"
+        }
+      ],
+      "score": 0.965663
+    }
+  ],
+  "status": "ok"
+}

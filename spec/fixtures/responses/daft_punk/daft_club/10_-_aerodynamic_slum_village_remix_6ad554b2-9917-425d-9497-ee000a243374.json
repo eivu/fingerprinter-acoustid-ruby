@@ -1,0 +1,99 @@
+{
+  "results": [
+    {
+      "id": "0c5eeefa-82ee-43c5-9f79-a6d872658023",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "056e4f3e-d505-4dad-8ec1-d04f521cbb56",
+              "name": "Daft Punk"
+            }
+          ],
+          "duration": 217,
+          "id": "77eb9a09-f507-4455-b40b-589386cae338",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "056e4f3e-d505-4dad-8ec1-d04f521cbb56",
+                  "name": "Daft Punk"
+                }
+              ],
+              "id": "93341465-cd7e-4558-aeeb-05676210acb8",
+              "title": "Daft Club Net Songs",
+              "type": "Other"
+            },
+            {
+              "artists": [
+                {
+                  "id": "056e4f3e-d505-4dad-8ec1-d04f521cbb56",
+                  "name": "Daft Punk"
+                }
+              ],
+              "id": "1fd2e0fe-90f6-35ca-92c0-d816ab3bb79c",
+              "secondarytypes": [
+                "Remix"
+              ],
+              "title": "Daft Club",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "425ecc68-fed2-3e77-a9dd-9801e125ff78",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Kiss of the Dragon: Music from and inspired by the motion picture",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "056e4f3e-d505-4dad-8ec1-d04f521cbb56",
+                  "name": "Daft Punk"
+                }
+              ],
+              "id": "705354d1-3fa7-4af4-b982-18243c6c20be",
+              "secondarytypes": [
+                "Remix"
+              ],
+              "title": "Aerodynamic (Slum Village remix)",
+              "type": "Single"
+            },
+            {
+              "artists": [
+                {
+                  "id": "056e4f3e-d505-4dad-8ec1-d04f521cbb56",
+                  "name": "Daft Punk"
+                }
+              ],
+              "id": "2a7840ab-9567-37f4-85b8-3208db09434b",
+              "secondarytypes": [
+                "Remix"
+              ],
+              "title": "Discovery: Bonus Tracks From daftclub.com",
+              "type": "Album"
+            },
+            {
+              "id": "aa5b9bea-dcdf-4911-838f-8f90b0fc1171",
+              "title": "Harder, Better, Faster, Stronger",
+              "type": "Single"
+            }
+          ],
+          "title": "Aerodynamic (Slum Village remix)"
+        },
+        {
+          "id": "8f36491a-bdc7-4434-bfad-8f0ac5304a54"
+        }
+      ],
+      "score": 0.926226
+    }
+  ],
+  "status": "ok"
+}

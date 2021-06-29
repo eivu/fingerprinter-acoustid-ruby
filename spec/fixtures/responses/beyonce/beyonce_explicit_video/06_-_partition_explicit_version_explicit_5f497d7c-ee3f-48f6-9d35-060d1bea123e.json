@@ -1,0 +1,47 @@
+{
+  "results": [
+    {
+      "id": "4323a745-0360-43d5-a224-e9cc2b27275f",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "859d0860-d480-4efd-970c-c05d5f1776b8",
+              "name": "Beyoncé"
+            }
+          ],
+          "duration": 319,
+          "id": "470662c0-b693-4cf1-a633-816c3348ad7e",
+          "releasegroups": [
+            {
+              "id": "8596171e-23b2-4bdd-8f1c-11960df0ecbe",
+              "title": "BEYONCÉ",
+              "type": "Album"
+            }
+          ],
+          "title": "Partition"
+        },
+        {
+          "artists": [
+            {
+              "id": "859d0860-d480-4efd-970c-c05d5f1776b8",
+              "name": "Beyoncé"
+            }
+          ],
+          "duration": 319,
+          "id": "db5082ae-a55d-4b91-9e22-130101a5becb",
+          "releasegroups": [
+            {
+              "id": "8596171e-23b2-4bdd-8f1c-11960df0ecbe",
+              "title": "BEYONCÉ",
+              "type": "Album"
+            }
+          ],
+          "title": "Partition"
+        }
+      ],
+      "score": 0.946994
+    }
+  ],
+  "status": "ok"
+}

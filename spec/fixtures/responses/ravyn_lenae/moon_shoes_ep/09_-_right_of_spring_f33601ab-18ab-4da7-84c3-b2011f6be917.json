@@ -1,0 +1,29 @@
+{
+  "results": [
+    {
+      "id": "64274e2e-0e54-4de6-8295-838523f72f52",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "94c64122-dbd4-4927-b2fa-f204b0b4b0c2",
+              "name": "Ravyn Lenae"
+            }
+          ],
+          "duration": 163,
+          "id": "b50bc82f-7c6a-4ea2-a94c-ac8f8bc7abc5",
+          "releasegroups": [
+            {
+              "id": "74223740-723a-4b35-96c4-147d71c0d335",
+              "title": "Moon Shoes",
+              "type": "EP"
+            }
+          ],
+          "title": "Right of Spring"
+        }
+      ],
+      "score": 0.996967
+    }
+  ],
+  "status": "ok"
+}

@@ -1,0 +1,47 @@
+{
+  "results": [
+    {
+      "id": "12ada60d-0602-44ce-a445-4a41eed80a46",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "42c14c80-bd17-47e4-9bb2-a35897638c4d",
+              "name": "The Orb"
+            }
+          ],
+          "duration": 262,
+          "id": "6a414c0a-fdf6-4433-a309-f538942d96ba",
+          "releasegroups": [
+            {
+              "id": "27b682b2-dd29-3e15-8ef2-f6475f4d262f",
+              "title": "The Orb’s Adventures Beyond the Ultraworld",
+              "type": "Album"
+            }
+          ],
+          "title": "Star 6 & 7 8 9"
+        },
+        {
+          "artists": [
+            {
+              "id": "42c14c80-bd17-47e4-9bb2-a35897638c4d",
+              "name": "The Orb"
+            }
+          ],
+          "duration": 490,
+          "id": "954411c0-77c9-4aac-8dd9-e8d019513114",
+          "releasegroups": [
+            {
+              "id": "27b682b2-dd29-3e15-8ef2-f6475f4d262f",
+              "title": "The Orb’s Adventures Beyond the Ultraworld",
+              "type": "Album"
+            }
+          ],
+          "title": "Star 6 & 7 8 9"
+        }
+      ],
+      "score": 0.95774
+    }
+  ],
+  "status": "ok"
+}

@@ -1,0 +1,40 @@
+{
+  "results": [
+    {
+      "id": "c86ef7a2-663a-4ed4-bb5a-b9da744547e4",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "97b226c8-7140-4da3-91ac-15e62e131a81",
+              "joinphrase": " feat. ",
+              "name": "Macklemore & Ryan Lewis"
+            },
+            {
+              "id": "99d79171-66fd-4626-8ba1-9d5862a4a9a5",
+              "name": "Allen Stone"
+            }
+          ],
+          "duration": 274,
+          "id": "0d919af6-cf65-46ee-96e8-4d1058e8804a",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "97b226c8-7140-4da3-91ac-15e62e131a81",
+                  "name": "Macklemore & Ryan Lewis"
+                }
+              ],
+              "id": "22315cdd-4ed9-427c-9492-560cf4afed58",
+              "title": "The Heist",
+              "type": "Album"
+            }
+          ],
+          "title": "Neon Cathedral"
+        }
+      ],
+      "score": 0.941522
+    }
+  ],
+  "status": "ok"
+}

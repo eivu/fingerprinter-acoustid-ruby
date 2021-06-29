@@ -21,7 +21,7 @@ http_interactions:
       message: OK
     headers:
       Date:
-      - Tue, 29 Jun 2021 13:32:47 GMT
+      - Tue, 29 Jun 2021 21:19:20 GMT
       Content-Type:
       - application/json; charset=UTF-8
       Transfer-Encoding:
@@ -33,9 +33,7 @@ http_interactions:
       Access-Control-Allow-Origin:
       - "*"
       X-Envoy-Upstream-Service-Time:
-      - '106'
-      X-Envoy-Decorator-Operation:
-      - acoustid-server-api.acoustid.svc.cluster.local:3031/*
+      - '62'
       Strict-Transport-Security:
       - max-age=15724800; includeSubDomains
     body:
@@ -59,5 +57,5 @@ http_interactions:
         ["Compilation"], "title": "Louis Armstrong & Guests", "type": "Album"}], "title":
         "Who Walks In When I Walk Out"}], "score": 0.929325}], "status": "ok"}'
     http_version:
-  recorded_at: Tue, 29 Jun 2021 13:32:48 GMT
+  recorded_at: Tue, 29 Jun 2021 21:19:20 GMT
 recorded_with: VCR 3.0.3

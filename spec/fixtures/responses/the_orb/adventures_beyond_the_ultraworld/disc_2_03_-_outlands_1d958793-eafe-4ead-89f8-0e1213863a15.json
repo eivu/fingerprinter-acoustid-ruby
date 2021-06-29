@@ -1,0 +1,84 @@
+{
+  "results": [
+    {
+      "id": "64936ed9-3773-4f0c-a51a-3fcc852e59ad",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "42c14c80-bd17-47e4-9bb2-a35897638c4d",
+              "name": "The Orb"
+            }
+          ],
+          "duration": 503,
+          "id": "9890ff39-6c43-48a0-85b0-e8cc9c282fa3",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "9734be9c-7faf-4ace-8676-6a1b3c6cccf2",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Mojo Presents: The Man Machine",
+              "type": "Album"
+            },
+            {
+              "id": "27b682b2-dd29-3e15-8ef2-f6475f4d262f",
+              "title": "The Orb’s Adventures Beyond the Ultraworld",
+              "type": "Album"
+            }
+          ],
+          "title": "Outlands"
+        },
+        {
+          "id": "acf402dd-f96d-4b37-a51c-398db0082e92"
+        }
+      ],
+      "score": 0.96908
+    },
+    {
+      "id": "8dcff56e-682a-4bf6-8ce9-de9e8bc0f8f0",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "42c14c80-bd17-47e4-9bb2-a35897638c4d",
+              "name": "The Orb"
+            }
+          ],
+          "duration": 503,
+          "id": "9890ff39-6c43-48a0-85b0-e8cc9c282fa3",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "9734be9c-7faf-4ace-8676-6a1b3c6cccf2",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Mojo Presents: The Man Machine",
+              "type": "Album"
+            },
+            {
+              "id": "27b682b2-dd29-3e15-8ef2-f6475f4d262f",
+              "title": "The Orb’s Adventures Beyond the Ultraworld",
+              "type": "Album"
+            }
+          ],
+          "title": "Outlands"
+        }
+      ],
+      "score": 0.917853
+    }
+  ],
+  "status": "ok"
+}

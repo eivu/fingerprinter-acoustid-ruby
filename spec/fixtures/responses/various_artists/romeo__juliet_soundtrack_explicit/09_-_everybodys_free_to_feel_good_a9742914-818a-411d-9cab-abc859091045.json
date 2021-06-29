@@ -1,0 +1,38 @@
+{
+  "results": [
+    {
+      "id": "b7eb30e5-a8cc-427c-943d-5b5db23b3ecc",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "4a37a655-160e-4961-980e-e639bd16f93e",
+              "name": "Quindon Tarver"
+            }
+          ],
+          "duration": 103,
+          "id": "c9f93a00-96e2-4098-add0-ed612a2b966a",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "650ebbf1-e25c-3f13-ac2b-d98010c1c5ee",
+              "secondarytypes": [
+                "Soundtrack"
+              ],
+              "title": "William Shakespeare’s Romeo + Juliet: Music From the Motion Picture",
+              "type": "Album"
+            }
+          ],
+          "title": "Everybody’s Free (to Feel Good)"
+        }
+      ],
+      "score": 0.98476
+    }
+  ],
+  "status": "ok"
+}

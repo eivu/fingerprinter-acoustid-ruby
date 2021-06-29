@@ -1,0 +1,65 @@
+{
+  "results": [
+    {
+      "id": "673297e0-9b4f-4b20-b243-bd8c31414b6c",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "d62614aa-ef2c-44cd-8a7b-91292755a1d0",
+              "name": "Jorja Smith"
+            }
+          ],
+          "duration": 208,
+          "id": "7639930e-6beb-4fc2-8b4a-25d161a4eab4",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "381086ea-f511-4aba-bdf9-71c753dc5077",
+                  "name": "Kendrick Lamar"
+                }
+              ],
+              "id": "4e317e28-e6b2-46d7-81f7-306e349b3dd4",
+              "secondarytypes": [
+                "Soundtrack"
+              ],
+              "title": "Black Panther: The Album (Music From and Inspired By)",
+              "type": "Album"
+            }
+          ],
+          "title": "I Am"
+        },
+        {
+          "artists": [
+            {
+              "id": "d62614aa-ef2c-44cd-8a7b-91292755a1d0",
+              "name": "Jorja Smith"
+            }
+          ],
+          "duration": 208,
+          "id": "ed1d5606-c93a-4f18-83ed-9a601b5e62d5",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "381086ea-f511-4aba-bdf9-71c753dc5077",
+                  "name": "Kendrick Lamar"
+                }
+              ],
+              "id": "4e317e28-e6b2-46d7-81f7-306e349b3dd4",
+              "secondarytypes": [
+                "Soundtrack"
+              ],
+              "title": "Black Panther: The Album (Music From and Inspired By)",
+              "type": "Album"
+            }
+          ],
+          "title": "I Am"
+        }
+      ],
+      "score": 0.995649
+    }
+  ],
+  "status": "ok"
+}

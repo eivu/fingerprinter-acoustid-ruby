@@ -1,0 +1,249 @@
+{
+  "results": [
+    {
+      "id": "0be7c7e7-f05a-4d47-a787-b63e1b161b3f",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "97b226c8-7140-4da3-91ac-15e62e131a81",
+              "joinphrase": " feat. ",
+              "name": "Macklemore & Ryan Lewis"
+            },
+            {
+              "id": "5479488b-0818-4da7-93c3-fed04336af3e",
+              "name": "Mary Lambert"
+            }
+          ],
+          "duration": 320,
+          "id": "0b96c431-f91e-48b2-a192-75bbbb2b76f3",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "78db97cc-e6c1-4122-a314-4c0cd34ba004",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Bravo Hits 83",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "97b226c8-7140-4da3-91ac-15e62e131a81",
+                  "joinphrase": " feat. ",
+                  "name": "Macklemore & Ryan Lewis"
+                },
+                {
+                  "id": "5479488b-0818-4da7-93c3-fed04336af3e",
+                  "name": "Mary Lambert"
+                }
+              ],
+              "id": "ed39cc8e-5d63-4fca-ae4f-fedd7d93f947",
+              "title": "Same Love",
+              "type": "Single"
+            },
+            {
+              "artists": [
+                {
+                  "id": "97b226c8-7140-4da3-91ac-15e62e131a81",
+                  "name": "Macklemore & Ryan Lewis"
+                }
+              ],
+              "id": "22315cdd-4ed9-427c-9492-560cf4afed58",
+              "title": "The Heist",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "35689ef9-56f2-4e8e-b93a-cf97930142a8",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Energy NRJ: Hit Music Only! Best of 2013, Volume 2",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "062e36db-cfd1-4def-8025-5e91e641797a",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "NRJ Hit Music Only! 2013 Vol. 2",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "315cec62-3585-475e-ab80-ad0594c5b06a",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "NRJ Hits 2013, Volume 2",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "cfa3d1fb-90c8-43ef-bf42-577f01dd6284",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Hits Total 2013",
+              "type": "Album"
+            }
+          ],
+          "title": "Same Love"
+        },
+        {
+          "artists": [
+            {
+              "id": "97b226c8-7140-4da3-91ac-15e62e131a81",
+              "joinphrase": " feat. ",
+              "name": "Macklemore & Ryan Lewis"
+            },
+            {
+              "id": "5479488b-0818-4da7-93c3-fed04336af3e",
+              "name": "Mary Lambert"
+            }
+          ],
+          "duration": 319,
+          "id": "20c0de47-feaa-4b77-a406-eba1cc920c07",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "19635a99-1354-4df1-bc9b-ff663ac1f9f9",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "MNM UrbaNice 2013.2",
+              "type": "Album"
+            }
+          ],
+          "title": "Same Love"
+        },
+        {
+          "artists": [
+            {
+              "id": "97b226c8-7140-4da3-91ac-15e62e131a81",
+              "joinphrase": " & ",
+              "name": "Ryan Lewis, Macklemore"
+            },
+            {
+              "id": "5479488b-0818-4da7-93c3-fed04336af3e",
+              "name": "Mary Lambert"
+            }
+          ],
+          "duration": 316,
+          "id": "23415fa8-a774-4821-b4cf-6ad321f08ba9",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "007babc4-bf12-46b9-9fc7-17774ae1f6e1",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Radio 538: Hitzone 67",
+              "type": "Album"
+            }
+          ],
+          "title": "Same Love"
+        },
+        {
+          "artists": [
+            {
+              "id": "b6d7ec94-830c-44dd-b699-ce66556b7e55",
+              "name": "Macklemore"
+            }
+          ],
+          "duration": 319,
+          "id": "71a94bcb-630b-4c10-96a9-eee3ebbd11b1",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "e508b5f8-2971-4467-8b6a-59290742817f",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "NRJ Music Awards 15TH Edition",
+              "type": "Album"
+            }
+          ],
+          "title": "Same Love"
+        },
+        {
+          "artists": [
+            {
+              "id": "97b226c8-7140-4da3-91ac-15e62e131a81",
+              "joinphrase": " feat. ",
+              "name": "Macklemore & Ryan Lewis"
+            },
+            {
+              "id": "5479488b-0818-4da7-93c3-fed04336af3e",
+              "name": "Mary Lambert"
+            }
+          ],
+          "duration": 318,
+          "id": "89a5607a-3849-45cb-94ce-61c1885c6d9e",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "48c55452-d765-4df8-85fd-79ae5efd8861",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "2014 GRAMMY Nominees",
+              "type": "Album"
+            }
+          ],
+          "title": "Same Love"
+        }
+      ],
+      "score": 0.954312
+    }
+  ],
+  "status": "ok"
+}

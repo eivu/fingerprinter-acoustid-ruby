@@ -1,0 +1,45 @@
+---
+http_interactions:
+- request:
+    method: get
+    uri: https://api.acoustid.org/v2/lookup?client=<ACOUSTID_CLIENT_ID>&duration=277&fingerprint=AQADtEqWLUws4U-QVMxEhI9-NDzojJXR9EpQ7rgY4hkCDWmk6wgfPRH6BQfzHF-OXwoqMUtc9A-OG9KU5Wh2B32rFFl_PEQbo1EmFi-uY_I4wdmP8LiOWBYOKzy-7ApO8eiR_tCrI0ykU8NLPBtR6YfPo7dRS8e2hYgXpYRL6Fl0lDt2fGqhj9iM2Jk4_Dn6HM8n7McX4diYm-iv4E-P0D8Sxugi49JRSl9xPsMrhDY0rkYYZovxZhTCM4fqBClvXJrhHKv5IJQXQz_Cq_BxZsaPcsrxoxoVIT1-wVsu5D_2ow_x63gTokfThA9yfdCZo0t3HI906KuPXhWySsnRDs2JUS8-n3h1IVmOUHoeXD4uvXhUOGawZz_Og08QdseZBt1EQ1-O_EV9NE545BfkMD9CnVLh4x8ubjx-eNOR1EUY6cXJYhR1NE8j9Cn2qcGd5Wjq5cih0CrK40E-yth_fGmE6RkcaiU6FX0zpLwhVjnCH9PE5UIzHt_QNGF-dD9uEc6FG9_wENlz9EaTUR-ebTn0D7kmtNVxw43xDJUe5M8k3A_EJsKjQ6dBNtlmlM0-hMn-4Ewo5EuhI3aLP8X1Y8q8Cz3zYBcuEcmRKuTxYw9x5A6S-xiPB-snNOTR63iOPQ7Sm9CP0DrsKTtqvbii45QOHk0ThMu3Q9_SBPGOTBOT4ZkiQGq49CiZPRLSD4yO46PwZcmJPFHyBXqQzwmNa2imox2NPNwS6P8Rq5hONKGK50d4ISFnNLlSXEIfiUJDusJ3_B7eLEizXPihHE2V6ki_oyc-xDfeLA52fdC-C_mxt0ZT5fg1_Jhy5ugTuXiDPuqOpsqCMAhXrsgVFg2TUBq0I6R1ODq-8Wh2DXtQ_YZ_VDweIY_2xNCNMBXzoE-CNzly0oLcXFEQ_2imHTf8LEblIS-0_UKYfFbwFd9RHluPUF8MXSQRKod3GA8RKf2QNI5w5_iP_UK9w88QPj3UHVGbH5Vl-An6KMUVUsjFXHgiFVp_pM9IeNRRZQYvWfiFbQ92aUFy5DlGMcpR5dfwWWimvbhCC0msRwpy9IdjSeiSJFGPS1eOfymeHblSaPlRJgqhH4-PF1_BcEcYTpaQR8Z9NM_RRyFGikQfehAPh8aziYPd4Fopw-ehvsJ7PA_mG_H2FCyunULaJvhFPAj9I359TAtzJEv2UFFxidhTVD-s1XjfoFeOHLoaobzRZM-hJo1xkVnwNPFQ9oF-ZJ7RVFmKh-WOLzZ65kPznLiF8IaPNCyqSD96CekY9NCX5ER-NNOHSc6EaynRZyn-DDlHQ1G5C_lzNHmMLpQcTHKDHx7JIvyE5oXWfHjr41IILYoUFZOOpkd4OniyaOjBZLqDh0dzHn2O_jSaU0UuMRn05UV-NNUORk_QTSROXBLCX9A3tPHhxod_9Dforaj0o2mPJ4yEz8fFQGS8EHlyXNODRnMC5qqC2Be0xzlCHnuOqzsebkXzjEa5zEF-3HCV5XiOsz-6Z_BFQ7ODPcnx4z3hMzceCnqiEGQkfkSvwpfwvsQ1IteLq2tk1NuxSzmOy4eVjDqSfg7yRJ0wpT7KcImLEs2lILRNiFtiZGnUorzh1wnyQ2w4CU14_Al-mJmSQNU0UcibY_tS_PiPsBCbHDGVBdaFX2nQnMGvIk8IPYf5Yw_2HeOzTGhUrUKbB5XRGPHRiTQckQgPPVOO86GQZ0EPjxkxMcNffGlw8whT5ehzXMTx7UejiakCTUM-Dc-Mo_mKdseHievRPET1o1EbXDhV9C_8Fz0i8VA3CSE1Hede3AX6Enly6ESOGw97mNmIU0nQHz9evCT-OAhzE5o3HA2Z42bxSmj-CHKO50EepMqP41GMSjz09OiTOviPG7qSo0meG23UtcjDCp-O3jCFWt3xLQi0X0h3_MWboRbyQ76N_EGtDA0fPMxxig6aIzzxRQr0S7jEC50PPzlqEZWow89S9BP6D82XQ49SRPqHhuBzXBKP5sa0J4twZTly8tAzpYe7C4fi_DgjGW5ynCVeJgY1JrqgQ3rCxrg-hMmX45OOho9wLTryEVrUHFl09EwlzNUYEZd0PHIL8wjJE8kXB00ooltenOglNKsefHhe1Dzh41msokXyXMidEv9--DQejsXxRhny2NBkkgh3BdWPhsqLPEZI5vB7eAuJakt0_Dr-c7Cb4SeuI_k8IdVE4hTuRA8anhHKY7KkTPjh9GgUFvEylQl06UHuCk2H8nhl42QcTHI-Ic50IbmSDH9xFt-P0DLeBjqPJsnzFPGmw_-Qj2jq8ciLU7rR6CMR6kk6XD8aCqWOO4b2GlpK_HiTI8zIYNJefDuOJi76I7_w6MEPHy-eTGhOBaWcGlqkoY-CJltmI7zUoHyXwiOP_ngS5M3x55CSPEfIo02mGGklHXpe_D_SsXgO5sSFkIoWJAt3_FibKFmET4ngNJKOH3-Q1Ew0pM-MO8WzGr2QOuOhZU-QL8dP_EejiUGf5Aueo9O0Hf7ROAyuHOcRZmSgfccj5biPxvChfcff4CoFLR1CFteJ3-gXp3COSWKGXAxeopuiHx9j5FHgSg9RKs2IE2-C6ggzNpSgK5eCXDyu4-rRqNxxMuCsB61-XM6KNwx-hHrQLMsykJF9vIfOQ9ELpy4eHc6P_0KeBz-eaMdRVgjlw5ehKYsWCr-EMMvQ50NO4VGwF5c89AszNB-uIWcO7kavw-WPnMZVlM1yyEmSb-DPIG_R5EO-o1R0PD70DV-MUH_g90V7Ix-PF-ouRM-Ob0QlRjiJX8aZILXQjkYp6bDMEJemHP4xHT-a50Go_7ge4j36UINto72MvBeqo1Elyrhy4l-G5gchAAEMIcQUAIQQBIgxCAGLCBSAOEYYUc5QaYAgQCOACBCGECCIUYQJAYkAwBihhaNCGAIAIIYJJqwQCiALhDaKACoEBsQRAwSAAhAiGBAKAQUMAwQZQQQAAAsAhTHCAECUNkAYQZwwyggjJCCAOSMoMowAZgCgxBjiBABAAWIQAAAxQJA1RBEgkIIAHAcIEkwhAAQSihDBAABCQAWABMxAQplBAiEGkAIIGImI8EIQjASgVgsChPBAcSWAAEoIAIQEyAAjDBUKASCYEcIAY4wxCiEBhECAGGsAEIoTQCQggEAAkBIAAUYBAkYQgwEDhEAGgDSCGIIkYBAIJIwBTAggBZAScMIUAA4YoAQhRAAAmPAIAK6EcEoiBQABwhAAkADICaMEE44QABQgRgggDEBEMIAQcQAAIAAQlCEDBAaGMIgEkEIYYIhDUBgAmBBCaUEcIYIIgIQgAgKiACECCKCIIUwowYAEQBgjBAECOAAIREAZIIAjgjBkBABSACYFIAQAYoAEEgFDmAIMKQKENEIwRACwDBCJgEECGIMEAVISwIQyQAtAoCIIEAMUE0UgB5RRgAFEtAWCACAcYEAAYiSzRBgAUDACEMqMVMIaYxQgQgDihFAKWAOEolQQyogyQBCgABEIEGKEAQAooJSAhACjCFBCECAkIsQBQQRBAAAlGBAGGYEQAkY5LYxDgCBGkAEACMCgJQAAIwkwggAhgHEEAmCAEJAJAwxShhADjCIOAEUMEEIYBgQwRBAhFAKACCMQUIQhpAxRiClEDBGEGAOIcMBQiIABAjDBECICAeQIA0gYJYxgwgAAhBRCEGSIIcIYYgAxhBhmpCHIKECMMkyAAohgAjBDBCKEgUAAUJQYIQAwgijDDBJIEWSEEgwiApYCDhADlBMGEIUkIoYxZgQAABAlEKNcGEKAAkYxJBAwQAjABBBEAUGEIQA&meta=recordings%20releasegroups%20compress
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      Accept:
+      - "*/*"
+      User-Agent:
+      - rest-client/2.1.0 (darwin20.3.0 x86_64) ruby/2.7.1p83
+      Accept-Encoding:
+      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+      Host:
+      - api.acoustid.org
+  response:
+    status:
+      code: 429
+      message: Too Many Requests
+    headers:
+      Date:
+      - Tue, 29 Jun 2021 21:23:59 GMT
+      Content-Type:
+      - application/json; charset=UTF-8
+      Content-Length:
+      - '124'
+      Connection:
+      - keep-alive
+      Access-Control-Allow-Origin:
+      - "*"
+      X-Envoy-Upstream-Service-Time:
+      - '52'
+      X-Envoy-Decorator-Operation:
+      - acoustid-server-api.acoustid.svc.cluster.local:3031/*
+      Strict-Transport-Security:
+      - max-age=15724800; includeSubDomains
+    body:
+      encoding: UTF-8
+      string: '{"error": {"code": 14, "message": "rate limit (4.000000 requests per
+        second) exceeded, try again later"}, "status": "error"}'
+    http_version:
+  recorded_at: Tue, 29 Jun 2021 21:23:59 GMT
+recorded_with: VCR 3.0.3

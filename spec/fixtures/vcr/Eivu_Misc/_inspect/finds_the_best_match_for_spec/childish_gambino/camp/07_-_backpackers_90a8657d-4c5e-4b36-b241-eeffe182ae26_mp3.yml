@@ -21,7 +21,7 @@ http_interactions:
       message: OK
     headers:
       Date:
-      - Tue, 29 Jun 2021 13:42:43 GMT
+      - Tue, 29 Jun 2021 21:17:51 GMT
       Content-Type:
       - application/json; charset=UTF-8
       Transfer-Encoding:
@@ -33,7 +33,7 @@ http_interactions:
       Access-Control-Allow-Origin:
       - "*"
       X-Envoy-Upstream-Service-Time:
-      - '91'
+      - '83'
       X-Envoy-Decorator-Operation:
       - acoustid-server-api.acoustid.svc.cluster.local:3031/*
       Strict-Transport-Security:
@@ -47,5 +47,5 @@ http_interactions:
         "Camp", "type": "Album"}], "title": "Backpackers"}, {"id": "70add04b-d58d-4885-a0ed-cb2ad064cca2"}],
         "score": 0.97653}], "status": "ok"}'
     http_version:
-  recorded_at: Tue, 29 Jun 2021 13:42:43 GMT
+  recorded_at: Tue, 29 Jun 2021 21:17:52 GMT
 recorded_with: VCR 3.0.3

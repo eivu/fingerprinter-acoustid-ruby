@@ -1,0 +1,29 @@
+{
+  "results": [
+    {
+      "id": "92c05b28-387a-4fec-a985-4b2d88c5ae16",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "9ddfc28e-9869-429e-8200-567dcf5ef008",
+              "name": "High Frequency Bandwidth"
+            }
+          ],
+          "duration": 44,
+          "id": "1086dcc8-c699-4ded-abe2-bbe00efd186f",
+          "releasegroups": [
+            {
+              "id": "f42dafb1-e799-47f8-960f-5039cc4c729d",
+              "title": "Hell Fire and Brimstone",
+              "type": "Album"
+            }
+          ],
+          "title": "Hot From Behind"
+        }
+      ],
+      "score": 0.993382
+    }
+  ],
+  "status": "ok"
+}

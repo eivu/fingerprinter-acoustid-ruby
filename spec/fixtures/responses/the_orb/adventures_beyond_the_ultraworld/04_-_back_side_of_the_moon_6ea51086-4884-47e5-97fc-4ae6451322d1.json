@@ -1,0 +1,53 @@
+{
+  "results": [
+    {
+      "id": "1695e68e-420f-4e73-9dae-c4bac6b157ef",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "42c14c80-bd17-47e4-9bb2-a35897638c4d",
+              "name": "The Orb"
+            }
+          ],
+          "duration": 855,
+          "id": "6bb67325-2ad8-4afd-9c8c-a19122a133e3",
+          "releasegroups": [
+            {
+              "id": "27b682b2-dd29-3e15-8ef2-f6475f4d262f",
+              "title": "The Orb’s Adventures Beyond the Ultraworld",
+              "type": "Album"
+            }
+          ],
+          "title": "Back Side of the Moon"
+        }
+      ],
+      "score": 0.954441
+    },
+    {
+      "id": "c3c1b4ae-ade3-4159-b198-2a053533123c",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "42c14c80-bd17-47e4-9bb2-a35897638c4d",
+              "name": "The Orb"
+            }
+          ],
+          "duration": 855,
+          "id": "6bb67325-2ad8-4afd-9c8c-a19122a133e3",
+          "releasegroups": [
+            {
+              "id": "27b682b2-dd29-3e15-8ef2-f6475f4d262f",
+              "title": "The Orb’s Adventures Beyond the Ultraworld",
+              "type": "Album"
+            }
+          ],
+          "title": "Back Side of the Moon"
+        }
+      ],
+      "score": 0.901399
+    }
+  ],
+  "status": "ok"
+}

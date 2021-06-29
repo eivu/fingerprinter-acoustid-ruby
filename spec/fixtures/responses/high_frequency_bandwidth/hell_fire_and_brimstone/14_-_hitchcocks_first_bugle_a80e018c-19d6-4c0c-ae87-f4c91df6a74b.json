@@ -1,0 +1,29 @@
+{
+  "results": [
+    {
+      "id": "e03ab9ad-9f44-450c-82dc-03a15b7c3fd0",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "9ddfc28e-9869-429e-8200-567dcf5ef008",
+              "name": "High Frequency Bandwidth"
+            }
+          ],
+          "duration": 289,
+          "id": "d9d90f0e-e933-4866-b2fa-2895378e02d9",
+          "releasegroups": [
+            {
+              "id": "f42dafb1-e799-47f8-960f-5039cc4c729d",
+              "title": "Hell Fire and Brimstone",
+              "type": "Album"
+            }
+          ],
+          "title": "Hitchcock's First Bugle"
+        }
+      ],
+      "score": 0.99503
+    }
+  ],
+  "status": "ok"
+}

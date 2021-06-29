@@ -1,0 +1,29 @@
+{
+  "results": [
+    {
+      "id": "bb4747d6-9caa-424c-8cf2-6b3607981e53",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "fc7376fe-1a6f-4414-b4a7-83f50ed59c92",
+              "name": "Flying Lotus"
+            }
+          ],
+          "duration": 180,
+          "id": "bc355d60-59a8-4c5c-a755-0e67d3b60d7e",
+          "releasegroups": [
+            {
+              "id": "eb9e0983-2478-4494-a8e2-e4117c2ba40f",
+              "title": "Until the Quiet Comes",
+              "type": "Album"
+            }
+          ],
+          "title": "All In"
+        }
+      ],
+      "score": 0.960358
+    }
+  ],
+  "status": "ok"
+}

@@ -21,7 +21,7 @@ http_interactions:
       message: OK
     headers:
       Date:
-      - Tue, 29 Jun 2021 13:47:49 GMT
+      - Tue, 29 Jun 2021 21:23:39 GMT
       Content-Type:
       - application/json; charset=UTF-8
       Transfer-Encoding:
@@ -33,7 +33,7 @@ http_interactions:
       Access-Control-Allow-Origin:
       - "*"
       X-Envoy-Upstream-Service-Time:
-      - '140'
+      - '170'
       X-Envoy-Decorator-Operation:
       - acoustid-server-api.acoustid.svc.cluster.local:3031/*
       Strict-Transport-Security:
@@ -51,5 +51,5 @@ http_interactions:
         "xx", "type": "Album"}], "title": "Stars"}], "score": 0.933215}], "status":
         "ok"}'
     http_version:
-  recorded_at: Tue, 29 Jun 2021 13:47:50 GMT
+  recorded_at: Tue, 29 Jun 2021 21:23:39 GMT
 recorded_with: VCR 3.0.3

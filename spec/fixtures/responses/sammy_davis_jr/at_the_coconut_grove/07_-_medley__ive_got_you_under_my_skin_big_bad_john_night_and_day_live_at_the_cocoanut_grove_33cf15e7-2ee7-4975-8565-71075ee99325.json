@@ -1,0 +1,48 @@
+{
+  "results": [
+    {
+      "id": "ede9287b-396e-4d06-8ace-9865e00704f6",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "4bc9e8c3-7eae-454f-a56c-bccf96f3926b",
+              "name": "Sammy Davis Jr."
+            }
+          ],
+          "duration": 392,
+          "id": "b187cbe6-3ff9-4875-b6ba-65b37aab79d4",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "4bc9e8c3-7eae-454f-a56c-bccf96f3926b",
+                  "name": "Sammy Davis Jr."
+                }
+              ],
+              "id": "6fac76ed-b861-3519-9df3-04355946ec58",
+              "title": "At the Cocoanut Grove"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "675307c2-ed06-447c-b8ac-c77410fc9fed",
+              "secondarytypes": [
+                "Soundtrack"
+              ],
+              "title": "Gamer",
+              "type": "Album"
+            }
+          ],
+          "title": "Medley: I've Got You Under My Skin / Big Bad John / Night and Day"
+        }
+      ],
+      "score": 0.916996
+    }
+  ],
+  "status": "ok"
+}

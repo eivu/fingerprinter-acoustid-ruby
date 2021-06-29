@@ -1,0 +1,373 @@
+{
+  "results": [
+    {
+      "id": "eb04e104-30c7-484b-aebd-7a88db470102",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+              "joinphrase": " & ",
+              "name": "Ella Fitzgerald"
+            },
+            {
+              "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+              "name": "Louis Armstrong"
+            }
+          ],
+          "duration": 196,
+          "id": "3712ac31-4f1a-4a73-b72a-502b337553a9",
+          "releasegroups": [
+            {
+              "id": "4c0ada80-1ed6-37a5-917a-b369dbf6f920",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Ella Fitzgerald & Louis Armstrong for Lovers",
+              "type": "Album"
+            }
+          ],
+          "title": "Would You Like to Take a Walk"
+        },
+        {
+          "artists": [
+            {
+              "id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+              "joinphrase": " & ",
+              "name": "Ella Fitzgerald"
+            },
+            {
+              "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+              "name": "Louis Armstrong"
+            }
+          ],
+          "duration": 198,
+          "id": "9cd62bb5-09fa-4117-9b68-055025dc31ab",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+                  "name": "Ella Fitzgerald"
+                }
+              ],
+              "id": "c092bba6-f019-3f64-b4f4-c26c950f6ffe",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Ella: The Legendary Decca Recordings",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+                  "name": "Ella Fitzgerald"
+                }
+              ],
+              "id": "fd4ad03d-aa44-3cae-97ee-bc1041ee8618",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Ella Fitzgerald",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+                  "joinphrase": " and ",
+                  "name": "Ella Fitzgerald"
+                },
+                {
+                  "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+                  "name": "Louis Armstrong"
+                }
+              ],
+              "id": "8b467572-237d-4102-b72b-a2ef67a8bdf6",
+              "title": "Would You Like to Take a Walk / Who Walks in When I Walk Out",
+              "type": "Single"
+            },
+            {
+              "artists": [
+                {
+                  "id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+                  "joinphrase": " & ",
+                  "name": "Ella Fitzgerald"
+                },
+                {
+                  "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+                  "name": "Louis Armstrong"
+                }
+              ],
+              "id": "db1bfad9-232e-46b1-aa7e-01700f4320ce",
+              "title": "Ella & Louis Christmas",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+                  "joinphrase": " & ",
+                  "name": "Ella Fitzgerald"
+                },
+                {
+                  "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+                  "name": "Louis Armstrong"
+                }
+              ],
+              "id": "241ccc14-c02f-4913-b938-cc24ab26b0fd",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Singing And Swinging Together",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+                  "joinphrase": " & ",
+                  "name": "Ella"
+                },
+                {
+                  "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+                  "name": "Louis"
+                }
+              ],
+              "id": "60eafb58-0fbb-419e-88c4-33cf915071ee",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Singing and Swinging Together",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+                  "joinphrase": " / ",
+                  "name": "Ella Fitzgerald"
+                },
+                {
+                  "id": "1ba1d493-7114-45e2-b163-a36d49a0c065",
+                  "name": "Chet Baker"
+                }
+              ],
+              "id": "68d9f0bb-a0ad-471c-b793-d2f6f0aac28c",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "De legendes van de jazz",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+                  "joinphrase": " & ",
+                  "name": "Ella Fitzgerald"
+                },
+                {
+                  "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+                  "name": "Louis Armstrong"
+                }
+              ],
+              "id": "8a796362-8901-38d2-a271-b56a19d0395a",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "The Magic Duets",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+                  "name": "Ella Fitzgerald"
+                }
+              ],
+              "id": "16dfe8e7-9575-4da1-9118-3063e40f4e81",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "The Chronological Classics: Ella Fitzgerald 1951",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+                  "name": "Ella Fitzgerald"
+                }
+              ],
+              "id": "f2de6e22-3cdf-393f-9597-09789e3e61c0",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Ballads",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+                  "name": "Ella Fitzgerald"
+                }
+              ],
+              "id": "01cbc29a-1df1-4e16-836f-250b2e9f1cfb",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Quadromania Jazz Edition: Ella Fitzgerald: Airmail Special",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+                  "joinphrase": " & ",
+                  "name": "Ella Fitzgerald"
+                },
+                {
+                  "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+                  "name": "Louis Armstrong"
+                }
+              ],
+              "id": "c4d57285-84d5-4413-8118-b92f402ad1da",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Cheek to Cheek: The Complete Duet Recordings",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+                  "joinphrase": " & Friends",
+                  "name": "Ella"
+                }
+              ],
+              "id": "e368b1ad-aa7a-3551-aa91-ecde49a06cfa",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Ella & Friends",
+              "type": "Album"
+            }
+          ],
+          "title": "Would You Like to Take a Walk?"
+        },
+        {
+          "artists": [
+            {
+              "id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+              "name": "Ella Fitzgerald"
+            }
+          ],
+          "duration": 198,
+          "id": "9fbcfcfa-0c3e-4301-acf9-cffd1d77bc92",
+          "releasegroups": [
+            {
+              "id": "7c26f1dc-09bc-37de-b886-22dd16da1741",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "BD Jazz, Volume 6: Ella Fitzgerald / Steg",
+              "type": "Album"
+            }
+          ],
+          "title": "Would You Like to Take a Walk"
+        },
+        {
+          "artists": [
+            {
+              "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+              "joinphrase": " with ",
+              "name": "Louis Armstrong"
+            },
+            {
+              "id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+              "name": "Ella Fitzgerald"
+            }
+          ],
+          "duration": 201,
+          "id": "d93024c8-3b33-425e-9a97-015feb011a1b",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+                  "name": "Louis Armstrong"
+                }
+              ],
+              "id": "95c84950-64c1-3ef2-8dcb-a790ee465354",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Icons",
+              "type": "Album"
+            }
+          ],
+          "title": "Would You Like to Take a Walk?"
+        },
+        {
+          "artists": [
+            {
+              "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+              "name": "Louis Armstrong"
+            }
+          ],
+          "duration": 198,
+          "id": "f9de7828-cc5e-4f0c-9647-a4315d510724",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+                  "joinphrase": " & ",
+                  "name": "Ella Fitzgerald"
+                },
+                {
+                  "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+                  "name": "Louis Armstrong"
+                }
+              ],
+              "id": "7c7a4217-fe23-4912-9d53-14a41913782b",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "The Complete Fitzgerald & Armstrong Studio Recorded Duets",
+              "type": "Album"
+            }
+          ],
+          "title": "Would You Like to Take a Walk"
+        },
+        {
+          "artists": [
+            {
+              "id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+              "name": "Ella Fitzgerald"
+            }
+          ],
+          "duration": 197,
+          "id": "fd395e4b-aba2-455c-9960-c75328af0ab6",
+          "releasegroups": [
+            {
+              "id": "1a448100-6368-300c-b740-b91785323d56",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Mr Paganini",
+              "type": "Album"
+            }
+          ],
+          "title": "Would You Like to Take a Walk?"
+        }
+      ],
+      "score": 0.936577
+    }
+  ],
+  "status": "ok"
+}

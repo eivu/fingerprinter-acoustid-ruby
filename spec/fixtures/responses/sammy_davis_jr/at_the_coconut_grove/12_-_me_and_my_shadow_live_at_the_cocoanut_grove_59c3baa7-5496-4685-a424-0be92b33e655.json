@@ -1,0 +1,28 @@
+{
+  "results": [
+    {
+      "id": "43ea31b2-a51e-462f-b933-574e5953080b",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "4bc9e8c3-7eae-454f-a56c-bccf96f3926b",
+              "name": "Sammy Davis Jr."
+            }
+          ],
+          "duration": 157,
+          "id": "d3e4eb62-ed79-46ee-9c33-09758ee2588f",
+          "releasegroups": [
+            {
+              "id": "6fac76ed-b861-3519-9df3-04355946ec58",
+              "title": "At the Cocoanut Grove"
+            }
+          ],
+          "title": "Me and My Shadow"
+        }
+      ],
+      "score": 0.99822
+    }
+  ],
+  "status": "ok"
+}

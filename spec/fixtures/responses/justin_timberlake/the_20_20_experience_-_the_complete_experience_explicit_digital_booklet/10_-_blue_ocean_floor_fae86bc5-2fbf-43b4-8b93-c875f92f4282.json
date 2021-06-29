@@ -1,0 +1,81 @@
+{
+  "results": [
+    {
+      "id": "d6b7b48f-e9a1-4a85-a440-acd6143c4c2a",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "596ffa74-3d08-44ef-b113-765d43d12738",
+              "name": "Justin Timberlake"
+            }
+          ],
+          "duration": 442,
+          "id": "3211de36-287f-415b-9285-3c88dfda2d3a",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "596ffa74-3d08-44ef-b113-765d43d12738",
+                  "name": "Justin Timberlake"
+                }
+              ],
+              "id": "deae6fc2-a675-4f35-9565-d2aaea4872c7",
+              "title": "The 20/20 Experience",
+              "type": "Album"
+            },
+            {
+              "id": "fe51b20f-83e4-49dd-9a36-b8d4da138325",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "The Complete 20/20 Experience",
+              "type": "Album"
+            }
+          ],
+          "title": "Blue Ocean Floor"
+        }
+      ],
+      "score": 0.990638
+    },
+    {
+      "id": "ff2cefa5-c58e-4143-bb0f-2f9cdffe78cc",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "596ffa74-3d08-44ef-b113-765d43d12738",
+              "name": "Justin Timberlake"
+            }
+          ],
+          "duration": 442,
+          "id": "3211de36-287f-415b-9285-3c88dfda2d3a",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "596ffa74-3d08-44ef-b113-765d43d12738",
+                  "name": "Justin Timberlake"
+                }
+              ],
+              "id": "deae6fc2-a675-4f35-9565-d2aaea4872c7",
+              "title": "The 20/20 Experience",
+              "type": "Album"
+            },
+            {
+              "id": "fe51b20f-83e4-49dd-9a36-b8d4da138325",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "The Complete 20/20 Experience",
+              "type": "Album"
+            }
+          ],
+          "title": "Blue Ocean Floor"
+        }
+      ],
+      "score": 0.965058
+    }
+  ],
+  "status": "ok"
+}

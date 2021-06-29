@@ -1,0 +1,59 @@
+---
+http_interactions:
+- request:
+    method: get
+    uri: https://api.acoustid.org/v2/lookup?client=<ACOUSTID_CLIENT_ID>&duration=238&fingerprint=AQADtMk6LtGKQ8_2oM8jvEF1iEcfBldlHP0eNM-Dv4byr6iVQ_yDH7lZFT_y4EkEy4eiDL-Qh1QSNJMu9MeD88hFRXgF1YkyBl92XPcRJqSyoReOeD-Ozzl-tAsL2xb0w1JsVKKiMXhwBr-HckezjIcuIhdjHC9-IX9ioZmko18PfcFz6MJxDu-NQy-2MctxPSPCHGeO6Dv65NBzI8-NR8Flj2j8JKi4If4HIQ85HLVo3MaPjbOGPAy0g1cu9CI1aKFT4lSQS-iTwlx2RD905N0z9MeN4wwmn_A3oa-GPNyRbHmC5vjw6ML1HEc6_dCj5EI-HX3IofkcvCjDI52kHc2PkwnEcTibB18MKZaOxtZRSsGUuDhzdBoD_fgv_MWjqELzYN9wJY7ASpkj9DQah0EeKTWuw1eOfLgObRGmIz9OByaj3HixwydV5EuOJhdq5ZBmGz0uXBR0wYf3G7103ES1Fc2PB7p-SBde3HgZfMcfAaY23DouHVTFHF8S7Jfgz_he4iUaRnnhdIfm4-QR-oebRMERHeU1XDQ-hNkSpnikD5Q8lGQmhAnOozmhB-G1Dk2V4zGoI-d6TKHSoFZmnCfeI9SmDo1yoXpEofnxC1dyNOGN8BV2PEdT7QYjKcmFfkUaC5135MeXXPikEH2PhlxE6Mefwt0u6PsEsT_-HHqCRg0qE_qFR0ez1UPPH_9xHleI5j3sSIK2KTr-o12P5jiPPcdxXuhTNGqGb0E_Qcsv4Qx3TJmOPugtPCLkCzf8oEfz7Oh-_ESP5jx-XMel9DiqH9cY1PpwJo-xw1wPVcyF-8LWJAsuHX0SNLkLK7xBRzm-OsE_GZHSo9dwL0fk5xQu6InCIKW74NGCE83BSNNinELYdcRz9KLwDY0eow9xGlN6tGxRwT-qZTx67UDO4CJ-5Bl649t3VJPxTBUOW8Sj4zzSYzpiFy-N78EP7WjC3YgfPDf87MifonFilNKh7UleWNXR4xxm7Ql-wVSY48wHncM-5Sif4okiPMeVQ8uPLzq-4RLxHUezJ6g28ngGjfOJ5skDPoUnEXfQ9oJchJ_xbQZ_NBQeFrGfwz_hT4VOPBvh_1B2TMedsThyZcZPXA9j-Mh7_GickOg1QYsTBcxCIUy2HyWzo3LhKsN2Bu-K5tiXhceP8LnQMBShC6BynDliovkJcz0mi8eew7rxDLl8bNWhB9XRxDweZTEO7cePD_-hlTtuVqgFvx1-6EeuBQ-aCx9uTJER7miKqjr6EE2PfBdBdRueHD3C5ISsU3iyo9mPUB7O42IvZId3VPuGZsxi4j9ENzm-DbcwsTqaH8ePijr6Dz-aM-jzQ0dzE9OD_miq4hF6eRC7I_3RWMMvvIHVzEdsGk-g5Tl61Jvhb8VDiEd_xDQez3jz4Ht4pJMy3C90HX1yUCXSXLB-IySPK1GG6GYS3PAZnEmM_JgfDlcP7VEoiQjD-LhwMMmHcj7OCmGXL5hO4sow_Qij40uPSEdT7YKeGc1R7-jDwHAoGnqgHv1x-rjCo6vRZBa06xHy49Nh9PhxB5HCH7pONMcPP8MFPUH6Cxf6nGjUHFd4hD90HiU1fDEaTQl6XMvx3MWZxdB-NA6T41OGi0fLvGgu_Hjw4j9--Az0KMdumDf25FPQ97B6uNOo46Mh8vjh_eiD_kajkHiCbwv8GF_wo3ZOPEd-VJ5wWsiPa_vQvNC840YYMUX4PGB6aLGIIwyjGy8aHbku6MfEoamD8TsO_Qwe4-JkNE408LDCGs_gHPrQ_NBRHc3xH2HsTejxdQc1ZnhE1Dt85JUsiFFIhHtRGU1dBQ-DS8rx9Ej3C9KTC_n0qOiF5jMeHu1y5OKOjjkeiOOO0we9pIaWqkV_Y6JmNDkehkU7Qr_wH39hJ4kqTMf1DX80sMwu9DQahznySClxBSZ35MvwQ9GiI-RxXEphcjdeTM_RXNaRL4dzSJVyXLTR40Ip6tAOX_C6o7uOh6h2NP_wHLx-XHhxFy9x7Tgf4YN5fNNxHVSV5fgi1JcwhZyHv3gzNIxeOMwO7Th5hK4ON8lwREfJazhlVNVhrjlyhgeTD7GZHYV_ND--D82V5IP27HB2SMevQhTTInp4XP5w5jAnPFcT9EJzDnkyPA-2HmcD3UflbBOYtHqhaketw_nQD98FXcmFewirKUaTz8aP8IwMLVviIX_QJC_64zEcJzpO4riSJ0W6zoMevsKHHw_RXIPFZEIpLcd7tDyaZzix58N5fOjRPNC1oJFuIrSwh0fTF32OH9eRHz1hMXzQ82jUHJrxo-nR4_nwo1d6qDt-HmdQSh9WJo9xwdnCD-dxY2sS4trRKxmaOIcV5pAcnbhWB39FTOmHUNWI3Uf-nLiuGXqiFCnTDteCE02McloMjgh_4tuhWRceaBGpDv2gP5jSQ3uH_vCPK0t6XEV-9EEuosejxOiPj9AmB1WTFv1x8TCjQ8d2Ixeq56AffBd-IeVz6HuKH7mSGc3bCDSaTQi3F80F-TlezKTx7Dgv2GGO57jaQ7MCv4G3ZLiO7_AP5fNwtG7x42g-VM7xEM0DKc_xMHCV4Tw04TleIsum6DgaH30yhLJvXNhxuBdOxcd3ACKEEMoAJSQgABlAiAPISECRMxRIRAkjDhlFiACEgmSYAMpB4xhCCBiDNYEECEIARIIBQcAHiCghlDDCKKAMMQAKoohFEAiBtBIGIQEkUk4QIoSAziKBgIEBAAMAIkIBgAQARihCAAUCIKYABgIwIQRjQgrHhGCAUAqFIOAKQohAgBEjEAMCEWaEAYoRAQQAgglJABCiKgSUIsYagQgyhCgiIAHCAYKB0sIQpYQyhgigiAIGAAEYAJABZxABgAEDFAJGECGEYgAYJZQyDCAioBCGGssBNAQABoxjCDFBjRJGEGEgIkwYwARBAABEBBAIEQCYQkgIBhEBiijEiGJCAEYNwwIQYQxEjFClACCAAUAFE8wIIohgQhnmhDLGWMKMAIABQAQgRBDECAFEGCOIIApQw4AASCjqhCEAEAAAswIZoIwAAhhBnBMMYWG8MAgwZggQwBlFDCPaGiIgMQgoQJgQAgkFoATMACAAEIYZx4QQBAgjoBICM8GYMU4RZoAgZgnBgAFAAEYYEAAgCQgIQDIhnACKAAIAQwIRJ6xAGikoiWEEAQIgQMYxA4QgQAkCLALGAIUQsEQoppQggAgDBDBEMGQ4EE4QIKwQRgghgXAWEYKJYgAZCYgUBDBmBFCGDAI1QxQRhAARARggmBOEICSAgdYARZAgCgBDBBAEAESEUgIgSgAADgkAgQCICcAMAAIAJggUxolGBEKAEEUhEEJ4CwVhAgHGgBGQAUEIMUoIAxwjABjhhCdAiCoQZAAIAihASgAgHMcGGEAIEUBIoJAADBAhlSDGEAIAMMIwQwR0BBmCgAacAcCAEgwYoRQDRBhkhEGOCgkAEMQCABQDSBoBBBHMECKIRQwIZAlAAAgmBBAGKUKAMYQRYxgxCCgEoELKCKYBUkQJwwIzgjEgAACEgEGAA0AyY4gRDCEAkHGCOMQQE8ooJIxihBkhGBCAcSWMgAI&meta=recordings%20releasegroups%20compress
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      Accept:
+      - "*/*"
+      User-Agent:
+      - rest-client/2.1.0 (darwin20.3.0 x86_64) ruby/2.7.1p83
+      Accept-Encoding:
+      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+      Host:
+      - api.acoustid.org
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Date:
+      - Tue, 29 Jun 2021 21:21:33 GMT
+      Content-Type:
+      - application/json; charset=UTF-8
+      Transfer-Encoding:
+      - chunked
+      Connection:
+      - keep-alive
+      Vary:
+      - Accept-Encoding
+      Access-Control-Allow-Origin:
+      - "*"
+      X-Envoy-Upstream-Service-Time:
+      - '812'
+      Strict-Transport-Security:
+      - max-age=15724800; includeSubDomains
+    body:
+      encoding: ASCII-8BIT
+      string: '{"results": [{"id": "32d4c9e1-c1c0-4e17-bc16-8fc808e22dfc", "recordings":
+        [{"artists": [{"id": "28737730-ec70-4da5-89c5-77ac13c5c34d", "joinphrase":
+        " & ", "name": "Khalid"}, {"id": "a17ce9c3-8f6f-4dcc-a1b7-2a04ab9e31f0", "name":
+        "Swae Lee"}], "duration": 238, "id": "89f6191c-5295-4420-ab5f-c4957b15cb41",
+        "releasegroups": [{"artists": [{"id": "381086ea-f511-4aba-bdf9-71c753dc5077",
+        "name": "Kendrick Lamar"}], "id": "4e317e28-e6b2-46d7-81f7-306e349b3dd4",
+        "secondarytypes": ["Soundtrack"], "title": "Black Panther: The Album (Music
+        From and Inspired By)", "type": "Album"}], "title": "The Ways"}, {"artists":
+        [{"id": "28737730-ec70-4da5-89c5-77ac13c5c34d", "joinphrase": " & ", "name":
+        "Khalid"}, {"id": "a17ce9c3-8f6f-4dcc-a1b7-2a04ab9e31f0", "name": "Swae Lee"}],
+        "duration": 238, "id": "a4073401-17c6-48e8-8df7-62b10c96c3f5", "releasegroups":
+        [{"artists": [{"id": "381086ea-f511-4aba-bdf9-71c753dc5077", "name": "Kendrick
+        Lamar"}], "id": "4e317e28-e6b2-46d7-81f7-306e349b3dd4", "secondarytypes":
+        ["Soundtrack"], "title": "Black Panther: The Album (Music From and Inspired
+        By)", "type": "Album"}], "title": "The Ways"}], "score": 0.990263}], "status":
+        "ok"}'
+    http_version:
+  recorded_at: Tue, 29 Jun 2021 21:21:33 GMT
+recorded_with: VCR 3.0.3

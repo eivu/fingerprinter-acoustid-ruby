@@ -1,0 +1,60 @@
+{
+  "results": [
+    {
+      "id": "adadd8f4-555b-4219-a749-6686046d222d",
+      "recordings": [
+        {
+          "id": "369a32e9-0cf5-4776-abdb-073bf5f8c341"
+        },
+        {
+          "artists": [
+            {
+              "id": "056e4f3e-d505-4dad-8ec1-d04f521cbb56",
+              "name": "Daft Punk"
+            }
+          ],
+          "duration": 361,
+          "id": "de7a70b2-f7da-4057-91b2-5c28e1420e63",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "056e4f3e-d505-4dad-8ec1-d04f521cbb56",
+                  "name": "Daft Punk"
+                }
+              ],
+              "id": "1fd2e0fe-90f6-35ca-92c0-d816ab3bb79c",
+              "secondarytypes": [
+                "Remix"
+              ],
+              "title": "Daft Club",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "056e4f3e-d505-4dad-8ec1-d04f521cbb56",
+                  "name": "Daft Punk"
+                }
+              ],
+              "id": "aa5b9bea-dcdf-4911-838f-8f90b0fc1171",
+              "title": "Harder, Better, Faster, Stronger",
+              "type": "Single"
+            },
+            {
+              "id": "2a7840ab-9567-37f4-85b8-3208db09434b",
+              "secondarytypes": [
+                "Remix"
+              ],
+              "title": "Discovery: Bonus Tracks From daftclub.com",
+              "type": "Album"
+            }
+          ],
+          "title": "Harder, Better, Faster, Stronger (Jess and Crabbe Regulator mix)"
+        }
+      ],
+      "score": 0.950188
+    }
+  ],
+  "status": "ok"
+}

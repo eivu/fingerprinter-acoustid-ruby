@@ -21,7 +21,7 @@ http_interactions:
       message: OK
     headers:
       Date:
-      - Tue, 29 Jun 2021 13:48:08 GMT
+      - Tue, 29 Jun 2021 21:23:57 GMT
       Content-Type:
       - application/json; charset=UTF-8
       Transfer-Encoding:
@@ -33,9 +33,7 @@ http_interactions:
       Access-Control-Allow-Origin:
       - "*"
       X-Envoy-Upstream-Service-Time:
-      - '134'
-      X-Envoy-Decorator-Operation:
-      - acoustid-server-api.acoustid.svc.cluster.local:3031/*
+      - '114'
       Strict-Transport-Security:
       - max-age=15724800; includeSubDomains
     body:
@@ -193,5 +191,5 @@ http_interactions:
         "Love Is Forever", "type": "Album"}], "title": "Come and Get Your Love"}],
         "score": 0.912184}], "status": "ok"}'
     http_version:
-  recorded_at: Tue, 29 Jun 2021 13:48:08 GMT
+  recorded_at: Tue, 29 Jun 2021 21:23:57 GMT
 recorded_with: VCR 3.0.3

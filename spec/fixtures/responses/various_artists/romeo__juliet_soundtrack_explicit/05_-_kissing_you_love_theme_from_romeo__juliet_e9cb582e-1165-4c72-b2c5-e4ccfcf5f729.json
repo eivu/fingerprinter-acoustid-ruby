@@ -1,0 +1,1187 @@
+{
+  "results": [
+    {
+      "id": "b9b38065-743c-4911-8f54-0bdd04df2192",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "250504d4-eca1-4b23-bea6-db1dc7d2eaf9",
+              "name": "Des’ree"
+            }
+          ],
+          "duration": 297,
+          "id": "7e071b94-22d6-4ba4-80a4-1147fae7038f",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "650ebbf1-e25c-3f13-ac2b-d98010c1c5ee",
+              "secondarytypes": [
+                "Soundtrack"
+              ],
+              "title": "William Shakespeare’s Romeo + Juliet: Music From the Motion Picture",
+              "type": "Album"
+            }
+          ],
+          "title": "Kissing You (Love Theme from Romeo + Juliet)"
+        },
+        {
+          "artists": [
+            {
+              "id": "250504d4-eca1-4b23-bea6-db1dc7d2eaf9",
+              "name": "Des’ree"
+            }
+          ],
+          "duration": 292,
+          "id": "bf194c45-780e-4ec6-9ce4-36bfa94a37a2",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "6fc99ffb-ad3e-33bb-98fc-75f8f7bac2dc",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Knuffelrock 10",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "e8337997-48cd-3e27-b1f6-17d71d08c4b5",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Big Softies",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "ccc9ad61-f79e-3a8f-8ceb-4d0dc25b4d04",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Kuschelrock 12",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "de05abbf-7ebd-4209-bc6b-b585ec7bf50c",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "A Night at the Movies",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "e692a6c3-2dcc-3151-a730-9ca502c286c2",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "The All Time Greatest Movie Songs",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "2e525eea-7f57-4d53-a8ac-d29dbae24ed9",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Herzschmerz: The New Sad Songs",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "250504d4-eca1-4b23-bea6-db1dc7d2eaf9",
+                  "name": "Des’ree"
+                }
+              ],
+              "id": "17f069e2-83a0-3018-9e89-36c52b862fff",
+              "title": "Life",
+              "type": "Single"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "920ffcad-72b0-4f7b-b88f-affbaa57fcb4",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Very Best of Late Night Moods",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "d89424af-8a4e-3f9d-8e02-52c966c26bc6",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "The Very Best of Back to the Movies",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "bdaf2827-c575-32dd-adcc-8432590f27b8",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "New Woman: Hits From the Chick Flicks",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "2b99bc41-6cf8-4850-b946-ba25eef8dc2b",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "I Love You: La Compilation des amoureux",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "fc11b5c4-55ec-3ff2-ba76-9340d3c3ef35",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "The All Time Greatest Love Songs of the 60’s, 70’s, 80’s & 90’s, Volume III",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "3ef649db-dfec-341d-bdf5-86a1f81801e1",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Cinema Hits",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "819bc18c-1972-490c-b788-593bc91589f5",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "The Party Mix - Movies",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "55fd5006-80b5-4ab7-9dc3-2487485db45b",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Forever Friends: Always and Forever",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "250504d4-eca1-4b23-bea6-db1dc7d2eaf9",
+                  "name": "Des’ree"
+                }
+              ],
+              "id": "ea429d9e-55dd-3551-a6f9-b1548a7af011",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "The Best Singles Collection",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "a5ddf7a2-43e5-339a-9673-f14b6d5ffe4f",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Kuschelrock, Volume 2",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "b1981986-2427-33cb-b57d-fc423084dc21",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Hit Machine, Volume 17",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "0c89d651-72da-4d05-aad8-f50a754db7b7",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Heart & Soul",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "e4b8d782-6e52-4994-bf14-759f7f8b5fae",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "The All Time Greatest Movie Songs 2",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "8839417d-b0a2-3ef7-8d85-3c925bc3d824",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "The All Time Greatest Movie Songs, Volume Two",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "05f43f41-8bab-3cb8-b8fe-a21c46873aa5",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "All Time Greatest Love Songs, Volume 2",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "53729bda-6e9b-4fe9-89bf-828fe7c5d01e",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "101 Love Songs",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "8a97a1a3-c29c-3ad0-ab97-43cf8902d1ac",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Smash Hits: Summer '97",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "250504d4-eca1-4b23-bea6-db1dc7d2eaf9",
+                  "name": "Des’ree"
+                }
+              ],
+              "id": "98ada820-36af-3fa7-8d4e-a229a7cefed5",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Millenium Hits",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "1997c913-d5f9-49c9-83dc-9809e9ddb533",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Her Best Love",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "250504d4-eca1-4b23-bea6-db1dc7d2eaf9",
+                  "name": "Des’ree"
+                }
+              ],
+              "id": "7f505523-a7aa-32ad-ae43-d63f635dfb46",
+              "title": "Supernatural",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "0049ab55-d520-43fc-a828-1509493cafcb",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Elokuvien 100 suosituinta",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "8ccf0c18-7331-4141-a951-d8fc37a40399",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Las mejores canciones de cine vol. 2",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "1bb29250-0a91-3ce9-ae93-fa75887de117",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "The All Time Greatest Movie Songs, Volume 2",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "a9191c12-b710-4df7-bc10-7f7434ef312d",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Top 40: Movies",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "fe4f316d-c37b-4fa8-a950-14471e4357d0",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Ultimate Movies",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "03bd7378-02fc-33dc-96cb-75913063dcac",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "The Ultimate Chick Flick Love Songs",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "318af601-1383-4ee6-ac0c-160582bdd222",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "101 Movie Songs",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "b7467e26-26ba-48d6-bd82-f7350044e40e",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Girls Night In",
+              "type": "Album"
+            }
+          ],
+          "title": "I’m Kissing You"
+        }
+      ],
+      "score": 0.942576
+    },
+    {
+      "id": "511c251a-5e56-4f4c-8e9b-81f29fb99b53",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "250504d4-eca1-4b23-bea6-db1dc7d2eaf9",
+              "name": "Des’ree"
+            }
+          ],
+          "duration": 293,
+          "id": "49609855-0145-4298-b7dc-efdb0461638d",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "745dc312-ba89-33c8-ad70-4e3fe75c14d7",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Movies' Greatest Love Songs",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "6a93ae2c-2031-466e-95ca-3b697e826684",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Greatest Ever! Smooth: The Definitive Collection",
+              "type": "Album"
+            }
+          ],
+          "title": "Kissing You"
+        },
+        {
+          "id": "6d123865-b030-4381-8400-5236dc977785"
+        },
+        {
+          "artists": [
+            {
+              "id": "250504d4-eca1-4b23-bea6-db1dc7d2eaf9",
+              "name": "Des'ree"
+            }
+          ],
+          "duration": 296,
+          "id": "71c81da4-9dcc-4fab-8b22-1594e709bfa5",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "250504d4-eca1-4b23-bea6-db1dc7d2eaf9",
+                  "name": "Des’ree"
+                }
+              ],
+              "id": "b5c5f85b-6e29-3b08-a166-4086f969e158",
+              "title": "I'm Kissing You",
+              "type": "Single"
+            }
+          ],
+          "title": "I'm Kissing You"
+        },
+        {
+          "artists": [
+            {
+              "id": "250504d4-eca1-4b23-bea6-db1dc7d2eaf9",
+              "name": "Des’ree"
+            }
+          ],
+          "duration": 297,
+          "id": "7e071b94-22d6-4ba4-80a4-1147fae7038f",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "650ebbf1-e25c-3f13-ac2b-d98010c1c5ee",
+              "secondarytypes": [
+                "Soundtrack"
+              ],
+              "title": "William Shakespeare’s Romeo + Juliet: Music From the Motion Picture",
+              "type": "Album"
+            }
+          ],
+          "title": "Kissing You (Love Theme from Romeo + Juliet)"
+        },
+        {
+          "artists": [
+            {
+              "id": "250504d4-eca1-4b23-bea6-db1dc7d2eaf9",
+              "name": "Des’ree"
+            }
+          ],
+          "duration": 292,
+          "id": "bf194c45-780e-4ec6-9ce4-36bfa94a37a2",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "6fc99ffb-ad3e-33bb-98fc-75f8f7bac2dc",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Knuffelrock 10",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "e8337997-48cd-3e27-b1f6-17d71d08c4b5",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Big Softies",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "ccc9ad61-f79e-3a8f-8ceb-4d0dc25b4d04",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Kuschelrock 12",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "de05abbf-7ebd-4209-bc6b-b585ec7bf50c",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "A Night at the Movies",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "e692a6c3-2dcc-3151-a730-9ca502c286c2",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "The All Time Greatest Movie Songs",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "2e525eea-7f57-4d53-a8ac-d29dbae24ed9",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Herzschmerz: The New Sad Songs",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "250504d4-eca1-4b23-bea6-db1dc7d2eaf9",
+                  "name": "Des’ree"
+                }
+              ],
+              "id": "17f069e2-83a0-3018-9e89-36c52b862fff",
+              "title": "Life",
+              "type": "Single"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "920ffcad-72b0-4f7b-b88f-affbaa57fcb4",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Very Best of Late Night Moods",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "d89424af-8a4e-3f9d-8e02-52c966c26bc6",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "The Very Best of Back to the Movies",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "bdaf2827-c575-32dd-adcc-8432590f27b8",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "New Woman: Hits From the Chick Flicks",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "2b99bc41-6cf8-4850-b946-ba25eef8dc2b",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "I Love You: La Compilation des amoureux",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "fc11b5c4-55ec-3ff2-ba76-9340d3c3ef35",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "The All Time Greatest Love Songs of the 60’s, 70’s, 80’s & 90’s, Volume III",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "3ef649db-dfec-341d-bdf5-86a1f81801e1",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Cinema Hits",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "819bc18c-1972-490c-b788-593bc91589f5",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "The Party Mix - Movies",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "55fd5006-80b5-4ab7-9dc3-2487485db45b",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Forever Friends: Always and Forever",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "250504d4-eca1-4b23-bea6-db1dc7d2eaf9",
+                  "name": "Des’ree"
+                }
+              ],
+              "id": "ea429d9e-55dd-3551-a6f9-b1548a7af011",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "The Best Singles Collection",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "a5ddf7a2-43e5-339a-9673-f14b6d5ffe4f",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Kuschelrock, Volume 2",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "b1981986-2427-33cb-b57d-fc423084dc21",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Hit Machine, Volume 17",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "0c89d651-72da-4d05-aad8-f50a754db7b7",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Heart & Soul",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "e4b8d782-6e52-4994-bf14-759f7f8b5fae",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "The All Time Greatest Movie Songs 2",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "8839417d-b0a2-3ef7-8d85-3c925bc3d824",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "The All Time Greatest Movie Songs, Volume Two",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "05f43f41-8bab-3cb8-b8fe-a21c46873aa5",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "All Time Greatest Love Songs, Volume 2",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "53729bda-6e9b-4fe9-89bf-828fe7c5d01e",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "101 Love Songs",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "8a97a1a3-c29c-3ad0-ab97-43cf8902d1ac",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Smash Hits: Summer '97",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "250504d4-eca1-4b23-bea6-db1dc7d2eaf9",
+                  "name": "Des’ree"
+                }
+              ],
+              "id": "98ada820-36af-3fa7-8d4e-a229a7cefed5",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Millenium Hits",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "1997c913-d5f9-49c9-83dc-9809e9ddb533",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Her Best Love",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "250504d4-eca1-4b23-bea6-db1dc7d2eaf9",
+                  "name": "Des’ree"
+                }
+              ],
+              "id": "7f505523-a7aa-32ad-ae43-d63f635dfb46",
+              "title": "Supernatural",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "0049ab55-d520-43fc-a828-1509493cafcb",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Elokuvien 100 suosituinta",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "8ccf0c18-7331-4141-a951-d8fc37a40399",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Las mejores canciones de cine vol. 2",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "1bb29250-0a91-3ce9-ae93-fa75887de117",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "The All Time Greatest Movie Songs, Volume 2",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "a9191c12-b710-4df7-bc10-7f7434ef312d",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Top 40: Movies",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "fe4f316d-c37b-4fa8-a950-14471e4357d0",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Ultimate Movies",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "03bd7378-02fc-33dc-96cb-75913063dcac",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "The Ultimate Chick Flick Love Songs",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "318af601-1383-4ee6-ac0c-160582bdd222",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "101 Movie Songs",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "b7467e26-26ba-48d6-bd82-f7350044e40e",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Girls Night In",
+              "type": "Album"
+            }
+          ],
+          "title": "I’m Kissing You"
+        },
+        {
+          "artists": [
+            {
+              "id": "250504d4-eca1-4b23-bea6-db1dc7d2eaf9",
+              "name": "Des’ree"
+            }
+          ],
+          "duration": 296,
+          "id": "d7e784f9-987d-41e4-a3c8-77ba54ca3a84",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "ee1cd1df-575d-427e-9ab8-8975bbb5ef4b",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Women That Move You",
+              "type": "Album"
+            }
+          ],
+          "title": "I’m Kissing You"
+        },
+        {
+          "artists": [
+            {
+              "id": "250504d4-eca1-4b23-bea6-db1dc7d2eaf9",
+              "name": "Des’ree"
+            }
+          ],
+          "duration": 295,
+          "id": "f82aa46d-a825-4a19-9b2f-c4a9db0b8653",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "1106b9f5-582c-405c-b805-991fbf0b49dd",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "All Woman",
+              "type": "Album"
+            }
+          ],
+          "title": "I'm Kissing You"
+        }
+      ],
+      "score": 0.932621
+    }
+  ],
+  "status": "ok"
+}

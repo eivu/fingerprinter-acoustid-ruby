@@ -1,0 +1,291 @@
+{
+  "results": [
+    {
+      "id": "67024bff-ecf6-4188-8811-b5843b27592d",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "8dd98bdc-80ec-4e93-8509-2f46bafc09a7",
+              "joinphrase": " feat. ",
+              "name": "Calvin Harris"
+            },
+            {
+              "id": "a4a01f5d-18e7-4571-8c3a-76ec0e24e2d7",
+              "name": "Ne‐Yo"
+            }
+          ],
+          "duration": 226,
+          "id": "90ef07dc-f45b-41bf-be1b-8ce95b4315d3",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "93f3aa3b-93bf-4ce1-a2df-e131dd3d5512",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Now That’s What I Call Music! 82",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "8dd98bdc-80ec-4e93-8509-2f46bafc09a7",
+                  "joinphrase": " feat. ",
+                  "name": "Calvin Harris"
+                },
+                {
+                  "id": "a4a01f5d-18e7-4571-8c3a-76ec0e24e2d7",
+                  "name": "Ne‐Yo"
+                }
+              ],
+              "id": "f27a57d3-b928-4a67-a069-306930de83c2",
+              "title": "Let’s Go",
+              "type": "Single"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "6027d9d2-21b4-4058-bbd3-0f8439dc990f",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Absolute Summer Hits 2012",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "c1fe06d7-d958-466e-9c9a-bdbd183904e7",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "So Fresh: The Hits of Winter 2012",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "12ed7dab-cbc9-4737-b15c-4a7f018f1c7b",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Now That’s What I Call Music! 43",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "68504e36-2e0c-4b31-b1d0-34da1c0e9725",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "NOW That’s What I Call Tailgate Anthems",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "c10459d1-603e-425b-8a29-6406f3a690f0",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Summer Eletrohits 9",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "f553d72d-f01a-456d-95fa-503f3ec1bddb",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Radio 538: Hitzone 62",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "8dd98bdc-80ec-4e93-8509-2f46bafc09a7",
+                  "name": "Calvin Harris"
+                }
+              ],
+              "id": "a1d5fec1-0e9f-4e16-a31a-c8603359b483",
+              "title": "Let's Go",
+              "type": "Single"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "58ab470c-7f1d-40a3-9f8f-e8b7676e0620",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "The Dome, Volume 62",
+              "type": "Album"
+            }
+          ],
+          "title": "Let’s Go (radio edit)"
+        },
+        {
+          "artists": [
+            {
+              "id": "8dd98bdc-80ec-4e93-8509-2f46bafc09a7",
+              "name": "Calvin Harris"
+            }
+          ],
+          "duration": 225,
+          "id": "9118fa58-cb0f-47ac-8cbe-a2a27de94207",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "0422013b-8e48-45d5-b159-06c9ec7be52c",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Ultra 2013",
+              "type": "Album"
+            }
+          ],
+          "title": "Let's Go (album version)"
+        },
+        {
+          "artists": [
+            {
+              "id": "d262ea27-3ffe-40f7-b922-85c42d625e67",
+              "joinphrase": " feat. ",
+              "name": "Pitbull"
+            },
+            {
+              "id": "f0602f55-1770-483d-89bd-4bae0d0ac086",
+              "name": "Jennifer Lopez"
+            }
+          ],
+          "duration": 221,
+          "id": "a7448aa1-61b0-4f12-a22b-13e654126856",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "d262ea27-3ffe-40f7-b922-85c42d625e67",
+                  "name": "Pitbull"
+                }
+              ],
+              "id": "ff3d0e03-e51f-4cbb-b59b-52d96f478662",
+              "title": "Global Warming",
+              "type": "Album"
+            }
+          ],
+          "title": "Hope We Meet Again"
+        },
+        {
+          "id": "bfd39b04-4ae7-43d5-96c8-a15cd7c53d86"
+        },
+        {
+          "id": "c73d65a6-c48b-409b-828c-84af474865cf"
+        },
+        {
+          "artists": [
+            {
+              "id": "8dd98bdc-80ec-4e93-8509-2f46bafc09a7",
+              "joinphrase": " feat. ",
+              "name": "Calvin Harris"
+            },
+            {
+              "id": "a4a01f5d-18e7-4571-8c3a-76ec0e24e2d7",
+              "name": "Ne‐Yo"
+            }
+          ],
+          "duration": 226,
+          "id": "ebdde2e7-4060-4b6e-a61b-8f38f05dbc54",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "09934634-7599-480e-9de8-2f101ac58522",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "100x zomer 2013",
+              "type": "Album"
+            }
+          ],
+          "title": "Let's Go"
+        },
+        {
+          "artists": [
+            {
+              "id": "8dd98bdc-80ec-4e93-8509-2f46bafc09a7",
+              "joinphrase": " feat. ",
+              "name": "Calvin Harris"
+            },
+            {
+              "id": "a4a01f5d-18e7-4571-8c3a-76ec0e24e2d7",
+              "name": "Ne‐Yo"
+            }
+          ],
+          "duration": 225,
+          "id": "fa609329-5a38-4e04-bb30-8366de67033c",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "de814e0a-d6df-42c9-b790-1a836e3c458e",
+              "title": "R&B Club Collection",
+              "type": "Album"
+            }
+          ],
+          "title": "Let’s Go"
+        }
+      ],
+      "score": 0.945477
+    }
+  ],
+  "status": "ok"
+}

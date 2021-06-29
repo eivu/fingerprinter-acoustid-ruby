@@ -21,7 +21,7 @@ http_interactions:
       message: OK
     headers:
       Date:
-      - Tue, 29 Jun 2021 13:42:46 GMT
+      - Tue, 29 Jun 2021 21:17:54 GMT
       Content-Type:
       - application/json; charset=UTF-8
       Transfer-Encoding:
@@ -33,7 +33,9 @@ http_interactions:
       Access-Control-Allow-Origin:
       - "*"
       X-Envoy-Upstream-Service-Time:
-      - '819'
+      - '125'
+      X-Envoy-Decorator-Operation:
+      - acoustid-server-api.acoustid.svc.cluster.local:3031/*
       Strict-Transport-Security:
       - max-age=15724800; includeSubDomains
     body:
@@ -45,5 +47,5 @@ http_interactions:
         "Camp", "type": "Album"}], "title": "Kids (Keep Up)"}, {"id": "65c99e84-0dd0-4a3f-a4c1-1d7f6eda2365"}],
         "score": 0.908492}], "status": "ok"}'
     http_version:
-  recorded_at: Tue, 29 Jun 2021 13:42:47 GMT
+  recorded_at: Tue, 29 Jun 2021 21:17:54 GMT
 recorded_with: VCR 3.0.3

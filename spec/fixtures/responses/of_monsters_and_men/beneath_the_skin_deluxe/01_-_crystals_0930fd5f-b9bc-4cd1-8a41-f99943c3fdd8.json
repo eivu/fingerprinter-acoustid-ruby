@@ -1,0 +1,199 @@
+{
+  "results": [
+    {
+      "id": "dd9fb4ad-f5ca-4e5e-b60f-25a0c14a9e9d",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "9e103f85-7af7-41d7-b83b-49ba8f0c5abf",
+              "name": "Of Monsters and Men"
+            }
+          ],
+          "duration": 243,
+          "id": "7f41abfa-babc-4bf1-a73e-bbd32b978928",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "04f22851-7832-492a-b980-a1b4ec5c2618",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Hot Summer Hits 2015",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "11425306-a566-40f7-bbe5-c0dd62ea5f4d",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Indie Drive",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "9e103f85-7af7-41d7-b83b-49ba8f0c5abf",
+                  "name": "Of Monsters and Men"
+                }
+              ],
+              "id": "74336622-b6dd-44c9-9b1a-8e59fc650d7d",
+              "title": "Crystals",
+              "type": "Single"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "82f926bb-3b9c-4253-8744-29f37dbeab32",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Hot Party Summer 2015",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "9e103f85-7af7-41d7-b83b-49ba8f0c5abf",
+                  "name": "Of Monsters and Men"
+                }
+              ],
+              "id": "2e1e605d-5090-420d-beae-e7ff73791082",
+              "title": "Beneath the Skin",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "c3504071-1b0e-4ea1-8526-162af65cfd17",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Promo Only: Modern Rock Radio, April 2015",
+              "type": "Album"
+            }
+          ],
+          "title": "Crystals"
+        }
+      ],
+      "score": 0.940708
+    },
+    {
+      "id": "e0a8a057-fff6-4e49-bc47-40a4681bb94e",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "9e103f85-7af7-41d7-b83b-49ba8f0c5abf",
+              "name": "Of Monsters and Men"
+            }
+          ],
+          "duration": 243,
+          "id": "7f41abfa-babc-4bf1-a73e-bbd32b978928",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "04f22851-7832-492a-b980-a1b4ec5c2618",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Hot Summer Hits 2015",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "11425306-a566-40f7-bbe5-c0dd62ea5f4d",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Indie Drive",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "9e103f85-7af7-41d7-b83b-49ba8f0c5abf",
+                  "name": "Of Monsters and Men"
+                }
+              ],
+              "id": "74336622-b6dd-44c9-9b1a-8e59fc650d7d",
+              "title": "Crystals",
+              "type": "Single"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "82f926bb-3b9c-4253-8744-29f37dbeab32",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Hot Party Summer 2015",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "9e103f85-7af7-41d7-b83b-49ba8f0c5abf",
+                  "name": "Of Monsters and Men"
+                }
+              ],
+              "id": "2e1e605d-5090-420d-beae-e7ff73791082",
+              "title": "Beneath the Skin",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "c3504071-1b0e-4ea1-8526-162af65cfd17",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Promo Only: Modern Rock Radio, April 2015",
+              "type": "Album"
+            }
+          ],
+          "title": "Crystals"
+        }
+      ],
+      "score": 0.836854
+    }
+  ],
+  "status": "ok"
+}

@@ -21,7 +21,7 @@ http_interactions:
       message: OK
     headers:
       Date:
-      - Tue, 29 Jun 2021 13:32:47 GMT
+      - Tue, 29 Jun 2021 21:19:20 GMT
       Content-Type:
       - application/json; charset=UTF-8
       Transfer-Encoding:
@@ -33,7 +33,7 @@ http_interactions:
       Access-Control-Allow-Origin:
       - "*"
       X-Envoy-Upstream-Service-Time:
-      - '213'
+      - '893'
       Strict-Transport-Security:
       - max-age=15724800; includeSubDomains
     body:
@@ -140,5 +140,5 @@ http_interactions:
         "Armstrong Louis!", "type": "Album"}], "title": "La vie en rose"}], "score":
         0.879219}], "status": "ok"}'
     http_version:
-  recorded_at: Tue, 29 Jun 2021 13:32:47 GMT
+  recorded_at: Tue, 29 Jun 2021 21:19:19 GMT
 recorded_with: VCR 3.0.3

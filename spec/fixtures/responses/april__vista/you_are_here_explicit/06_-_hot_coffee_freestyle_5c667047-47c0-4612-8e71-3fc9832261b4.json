@@ -1,0 +1,29 @@
+{
+  "results": [
+    {
+      "id": "cdcf5315-384f-490c-93cd-9fb194afaa9b",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "2a5d430f-cb26-422a-a150-41dc4af15bf9",
+              "name": "April + Vista"
+            }
+          ],
+          "duration": 224,
+          "id": "65ce737d-6061-4d06-9d8d-a94120305e2c",
+          "releasegroups": [
+            {
+              "id": "d4669101-ccf6-422b-92b0-a67ae936381a",
+              "title": "You Are Here",
+              "type": "Album"
+            }
+          ],
+          "title": "Hot Coffee Freestyle"
+        }
+      ],
+      "score": 0.973497
+    }
+  ],
+  "status": "ok"
+}

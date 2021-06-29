@@ -1,0 +1,799 @@
+---
+http_interactions:
+- request:
+    method: get
+    uri: https://api.acoustid.org/v2/lookup?client=<ACOUSTID_CLIENT_ID>&duration=174&fingerprint=AQADtFKUcNkSBmcH36gT4jqexQgvQnwi5FGOpseZPESzq5j64FTA5FEQHsJ_MEmS3fgz4d1RKx20bKiJnQ-a6DnxqxrWfoXmWkEeBb9RbXnA5JRwHjt1uO5x4llwSeaDl9hJPHrwhAmOnsX2B58FM-Fh7fB6JPeO9OiDn0Kdw6WB5sF_PEcYvQqSvSnOo1LRLC-ePNjz4amJcHwgRjo-zvBoF6GPn8XzENGD2sqxPoOfowwu5SSkpFu6oX-QP2i6omJCHs-PHxMvIQx5CXsiS2CFI9rxJ_iCS8f5JEJ3yTB63NnRVjiH3iv-40IO_ejRHzkA5AN-3CnwYz0qnoCOg0Z-HM_xXHBOdL2APySeJDu4RbTwI5WPX9D14NvxREf5w0f1hfhRH__BNMqhTz-0N3C3Ee_wFHceXEs0iA324SWe4FSKyQ-hJ00FhT88nogahsGPK0cfUE9wnEd-HHqybMSH_PB5PMmM4wfVPfjhCf2R_-gdaInK46HA7sFpSUjXYM-PH0_0BOEJLXlU_C7yGMfTPELj6Ef44zl0H1NWyIlyQi_6HIKPk4fUBmF4TbgO37BQOfxwHqGPZsOjPGDOF82xHzEjnAl-Bc_xfQnKF64k9InwGz-ScUGsZPg6oc_w7kJvCs2kLCt-5NYhPol2XDn07MKfBxd6pomhI06Ej8kyYVcluCfRz8J13AipCwmdD7VC3F_wBp8j4cwoDtcF_gj5Qysv5PqQP2iSE6GaHLmKH_qhL3nwRNSCLB98E82PkZliPLLx0GjPoFGYEz_-BuWyofkynM7xCf5CvESgH-cehHk6VKbxox1haYWjsvjhWDE65xIq5DnKRg70pCryo__RxMGYRwjJXBL0ZUGP8GhwBv9QvUglZTF-iLqR6TxeHTfMUHhyuGLAu3gzIXuF6yk0_7jaJcVboyIhJUd0_riYDqWij0GD9h08xi3So7tw5UUuXNHwnmgq4R5aSqNxsTjxbDhz41N-_MGnoNeRI-EPV-RRMUnxJ_gUdGEoOD_qDNd2HOEhjkelRIkqnJrwKdHR_KhfPHjyIO-M5kV_fArGDtcp_CivFK9wbYdFK8f-IZV59D2qbx98BTfuDL2S4VSgKzGNP04Q_sOZw-OP2sMPPMFlAbmUPEKlXxBrLjhO5FeP3_DIoVZxcUMvGe_RZNmyHA95_Mnx48mRk_gPPVJw6agPx9xQamRwbUQp6YiWLSKuJ8gjU8JTQz-iH4fLCaMUDXdylJ2D0Uc-Hdqu4w8XhOJqXMdx5sdH_MYtHNFL4oeuI-dxJSjVg6xU4wfLHuYoEuEPXfQR3SKaHy0fIqSOJmYJOT_-7NCP8BeOP4rxhOgUxIf2I7ozfEKbyah-3Fzw5viO-cOJ74TDaMctoxoXnPjwJ7jeIXkQhktEvDiaF9dUfMeN5lKCUM1yJM_xPMOlo97hbQ8-4vjx5Xhy4TxXpHkGjWSPcDqaj8Uf_Og9fNFQY1eIKx6SC1lyengaKT4qkSK-GL9wHWF2SLksPItw6SS-OFBIXUHMLWgWDuV-_E-EP0cuEm8DndkR-mHxwX2O8seTG8exU4mNk0c8CrpkZFFyeFJ49Dn2-ML0400L5hm-YRdzPNGNnNTxHNCPp0ase2h__LCm4MG4qCJyeBohncM_vIh_PMcZ-McP_7js4TvhAz3O4PiOPIkzPIaWZzlKEn9w0ahODk2s5NCuD2-OsA_yzIF-Hbly-EqGN8vw42iqvOhF4cpCBDd05sjV42gecbBTI2UWXaDH4xAVHg-PQ2yCMzmC3UfX8LjYKHiy46LQ6B_KHmeO20fPNEGujPAOrZmDI4-04Zt-_Dr8GZ9MCSUzNG2eID-S5aGOPj2eXMSPnkYYKzuST0c_HZ6O72i-HCevoHsQJrRkJDdxhceUUii54wklXMvQRER4PGMa6C-cP_jx79CNZvoRVukY3I2A75iSohuHR8W_FM1JCaFVoy8sj7iNJlsp6JIknMJxXIHOHCgZ4sSpD--MKyS-Hd2foXliaFLxifAf45FWxKrR6EdF2biC6UyH8_CEMviRzcmFb-giZzquUCrOwM0XnMxFKD9-IdUk4RFDYXuIsuCP40s4olaUYEppE0n9BA2VHP2Jq4P2F2H0JhV-Bs2JisePKxruofQRpmoFdctRWiV849PhJz006hX-40tiNHqGUmLRJ0qh5UJONGeKftdwvUSTNkeXREcfHq4ydOUx3YHziAiZX_gS4T6eiWkCzdsRKY5FXMTHJkXJMETz40my4XqCJ44OfyWSM8iJ-2hJ5FfwBuKXIJfDoMkvHLeyEc0zVB3yvPjxndCRv_g59CaanMcXHn5w_EajH-ETfYauC6mGm3g0lDx8CrWOz0cbCx7ZcEgf7gh1HL-RU8cv9BBrIdfgOpjwbUSuZuie4w_0LDpyZoMzwRVfvMbuwF2EKzz-NCg7xD8hO5KQMzhzVNRhh9nxDc51oX2MfPpEHPqOHT_yH5wTtAo9XPgzXPRBSS9CidmCC8pP4S6aPTu8LPOh_fhN_Ie-Iz_aw99xZYGd4jJyPcMfQldNRD8-RRVcPjgPW6xwHIdr4yn29Ohx_Ij_Qd-I8IdbwdSO6rhwPEdPCU2dFklaIZ5jXIyDxooufMSL7YNXlEqoBT8Ah4liijAngHKMCAUYMsQxAQQAQhhDBGIMIAUYA4BZ4RAjCEAgFADCGmAQAcgJQ4AQDiDGmDMcAGUIAIICIhATBCjEpBLCIWAEUQYwhZAFBjiklNJGEGaQgYQYgywgCRlgFDAIEGCsAAgYZQRQgAAljHBCCAApMAhZ8IggwiFjkDDKCYmoMUQCpxAGRiGCABMQGIQAEMQpIIwAihAggBLUIIOQcEQQRBgSTGAjBGAOIgEYMwIBYQAVAgBhgBBEIAMMEYILBJQhxiLIgGACOIOQQEQAhAw0lBELCCFQEKEVYBgBwYARQjBgkFOUGEGcQwIQCIRyBjmHoBFAEKsEE0AJAAgQRgAEhORISAYQYZ4BIAAC0ghDEEICUmOQguIoIQBziigBGBPIAA8MgUQgoQAQFAgBgAFCOWSEohQAAQx0QgiDlCNICAKMgk4CAQARQhklmAGKaESEcQYagIgwFBECKDMIECuYE8IAQAEBhBAgjBIMGCOwEQwAxAQSSiikhHDCCeEI4UIAARoCChgBAAKGMeII4sQhYQAByEABDHTKAOQBAEgZJKBhRCiBBABEAOMAUMAAJIAi2gsiEHRAAaAEE1Qog4ShAEEmBBBSMaIIEUoKQaSRGBhEyGfaGGMAEgQBIoBwQCEBHAACGHAUAsAB4w0QFjGCCACAISQgIYAJRIThAgkBGADEACcAAUwAAgVAAiBnlHCESIOcA8oS4gASBhgCgUMIMCcAQwgokBBhQBCABDDCGGAc4IIhJpAUghACACAMGUOYAEQoAIhBAEgmFQAGMQAAMAAQgogFBCADhFAIAAMIMIAQAw0ATgGBNHFCUYAIEAMJRjQCYgpEhBHEISYAEQAwASwUhCBgDBtIAeIYQgQAhIRQhEAiDSBIEWEEMgQAYAKAAggAEYGACUQQIkIIAZQghAEBGBCCGECEUEYgBpC2CALFGTGACWYQ1QoJBBAoiAE&meta=recordings%20releasegroups%20compress
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      Accept:
+      - "*/*"
+      User-Agent:
+      - rest-client/2.1.0 (darwin20.3.0 x86_64) ruby/2.7.1p83
+      Accept-Encoding:
+      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+      Host:
+      - api.acoustid.org
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Date:
+      - Tue, 29 Jun 2021 21:24:30 GMT
+      Content-Type:
+      - application/json; charset=UTF-8
+      Transfer-Encoding:
+      - chunked
+      Connection:
+      - keep-alive
+      Vary:
+      - Accept-Encoding
+      Access-Control-Allow-Origin:
+      - "*"
+      X-Envoy-Upstream-Service-Time:
+      - '154'
+      Strict-Transport-Security:
+      - max-age=15724800; includeSubDomains
+    body:
+      encoding: ASCII-8BIT
+      string: '{"results": [{"id": "ac535411-cc59-413e-ba6a-d80207f7beca", "recordings":
+        [{"artists": [{"id": "9b70bb85-fdb1-442c-8667-0cb081a2aa44", "name": "The
+        Wannadies"}], "duration": 170, "id": "654091bd-32e0-4631-9f18-167be1788a6e",
+        "releasegroups": [{"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "d66f2f60-740e-4980-b57b-34f84db481c7",
+        "secondarytypes": ["Compilation"], "title": "The Autumn/Winter Collection",
+        "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "0ecea621-cdac-3e5a-bad0-20fb1f2fb715",
+        "secondarytypes": ["Compilation"], "title": "Sorted", "type": "Album"}, {"artists":
+        [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}],
+        "id": "d1272ce9-7796-4877-a490-c2e3f615f8d9", "secondarytypes": ["Compilation"],
+        "title": "Holiday in the Sun: A Soap Records Compilation", "type": "Album"},
+        {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various
+        Artists"}], "id": "6d24a0a5-dd5a-3d09-817f-580fc7784f54", "secondarytypes":
+        ["Compilation"], "title": "Untitled", "type": "Album"}, {"artists": [{"id":
+        "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}], "id":
+        "f3a990eb-a848-4335-8f70-bb3ac37af10e", "secondarytypes": ["Compilation"],
+        "title": "Forever Friends: Someone Special", "type": "Album"}, {"artists":
+        [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}],
+        "id": "6b5e4ae4-f864-3260-9212-405cdf205f48", "secondarytypes": ["Live"],
+        "title": "Radio One Sound City: Leeds 1996", "type": "Album"}, {"artists":
+        [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}],
+        "id": "97cab749-e90c-3761-bcfd-8194407858e1", "secondarytypes": ["Compilation"],
+        "title": "The Greatest Driving Album This Year", "type": "Album"}, {"artists":
+        [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}],
+        "id": "819bc18c-1972-490c-b788-593bc91589f5", "secondarytypes": ["Compilation"],
+        "title": "The Party Mix - Movies", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "0d18f41a-b5f9-3f0f-8ad2-c289cd3ddf9e",
+        "secondarytypes": ["Compilation"], "title": "100 Hits: 90s", "type": "Album"},
+        {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various
+        Artists"}], "id": "aedfa0dd-419d-3b75-b887-4e99e21521c6", "secondarytypes":
+        ["Compilation"], "title": "Indie Anthems", "type": "Album"}, {"artists": [{"id":
+        "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}], "id":
+        "c461a54f-7e71-37a9-86f3-9ed3732425ff", "secondarytypes": ["Compilation"],
+        "title": "Crush", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "2b6c809a-2945-492c-b83d-9dc6f6928a76",
+        "secondarytypes": ["Compilation"], "title": "100 Hits: Car Songs", "type":
+        "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name":
+        "Various Artists"}], "id": "d5c8acac-bd0a-3d5f-8574-ae891f361f1e", "secondarytypes":
+        ["Compilation"], "title": "Trackspotting", "type": "Album"}, {"artists": [{"id":
+        "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}], "id":
+        "4f2a1f78-59c9-3c72-b5bd-ed5772a37d63", "secondarytypes": ["Compilation"],
+        "title": "Absolute Pop", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "449df3bb-b6d1-4ed0-8cb7-b427f2daafba",
+        "secondarytypes": ["Compilation"], "title": "Cruise Control: The Very Best
+        Drive Time Anthems", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "dbfaf84e-064a-4be3-9a39-63f50bd182cb",
+        "secondarytypes": ["Compilation"], "title": "This Love", "type": "Album"},
+        {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various
+        Artists"}], "id": "38ff355e-66c2-3d08-9e08-5ef254422b0f", "secondarytypes":
+        ["Compilation"], "title": "Beautiful: 40 Timeless Love Songs", "type": "Album"},
+        {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various
+        Artists"}], "id": "178f713c-34f5-4934-9fa9-0ec0bf11c958", "secondarytypes":
+        ["Compilation"], "title": "101 Indie Anthems", "type": "Album"}, {"artists":
+        [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}],
+        "id": "5ca63890-41fd-4f83-946a-333d9ab02662", "secondarytypes": ["Compilation"],
+        "title": "Classic Cuts Presents: Anthems", "type": "Album"}, {"artists": [{"id":
+        "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}], "id":
+        "a9191c12-b710-4df7-bc10-7f7434ef312d", "secondarytypes": ["Compilation"],
+        "title": "Top 40: Movies", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "447ec337-eb63-4186-b620-ad500c69543e",
+        "secondarytypes": ["Compilation"], "title": "Music Academy vol. 1 (14)", "type":
+        "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name":
+        "Various Artists"}], "id": "da367982-b070-459e-b6f8-36f1d0d689f1", "title":
+        "\u00c9xito total: 30 \u00e9xitos originales"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "9e85e330-299b-3384-83ce-4e0004feaa35",
+        "secondarytypes": ["Compilation"], "title": "101 90s Hits", "type": "Album"},
+        {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various
+        Artists"}], "id": "5562454e-0390-3760-a9ab-5135e2327121", "secondarytypes":
+        ["Compilation"], "title": "Brit Awards 98", "type": "Album"}, {"artists":
+        [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}],
+        "id": "7b07d54d-463b-4b60-ae9b-a02c4bcc8899", "secondarytypes": ["Compilation"],
+        "title": "The Hits Album: The 90\u2019s Album", "type": "Album"}, {"artists":
+        [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}],
+        "id": "03cfd5a5-312d-3bee-8a43-7e701cad8a68", "secondarytypes": ["Soundtrack"],
+        "title": "Border Cafe: Music From the TV Series", "type": "Album"}, {"artists":
+        [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}],
+        "id": "f72aa702-a7b0-3928-bb7f-47b2590552a3", "secondarytypes": ["Compilation"],
+        "title": "The Very Best of Drive Time: 40 Driving Classics and Feel Good Anthems",
+        "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "1ad79cd0-0701-4e63-8166-b1d397765f47",
+        "secondarytypes": ["Compilation"], "title": "Superwoman: The Soundtrack to
+        a Perfect Day", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "e441f3f3-2588-4aec-baa8-7be737c14471",
+        "secondarytypes": ["Compilation"], "title": "Essential: One for the Lads",
+        "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "c63e7527-07c8-4861-ac29-e554bf5cf217",
+        "secondarytypes": ["Compilation"], "title": "Britpop at the BBC", "type":
+        "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name":
+        "Various Artists"}], "id": "d9d9fee2-9139-3899-9d73-2d8b0331437e", "secondarytypes":
+        ["Compilation"], "title": "World''s Best Dad", "type": "Album"}, {"artists":
+        [{"id": "9b70bb85-fdb1-442c-8667-0cb081a2aa44", "name": "The Wannadies"}],
+        "id": "25719a5f-e64f-3403-b9c1-ed2753435e46", "secondarytypes": ["Compilation"],
+        "title": "Skellefte\u00e5", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "c18f3686-23a7-3d67-874c-a0df5d689355",
+        "secondarytypes": ["Compilation"], "title": "Cruisin'' the Best of Drivetime",
+        "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "6ad79374-48ff-3008-b15d-a2a34e508e06",
+        "secondarytypes": ["Compilation"], "title": "Essential Tracks", "type": "Album"},
+        {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various
+        Artists"}], "id": "7485c664-3e19-360d-80f3-79188b6f2680", "secondarytypes":
+        ["Compilation"], "title": "New Hits \u201996", "type": "Album"}, {"artists":
+        [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}],
+        "id": "83d4eccf-d26d-4b88-a63e-73b60e6f25e1", "secondarytypes": ["Compilation"],
+        "title": "Happiness Forever", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "21dec5a1-addd-3986-b745-0adacbe98f65",
+        "secondarytypes": ["Compilation"], "title": "Crash! Indie Anthems 1982-2004",
+        "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "6c21990e-7a94-4c5f-9bba-2c4dced9a777",
+        "secondarytypes": ["Compilation"], "title": "Best Day of My Life", "type":
+        "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name":
+        "Various Artists"}], "id": "58e43387-427d-48db-9a75-74ab551cc33a", "secondarytypes":
+        ["Compilation"], "title": "100 Hits: Indie", "type": "Album"}, {"artists":
+        [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}],
+        "id": "54fc5eca-d525-4423-b1b4-5f1a00f6bd13", "secondarytypes": ["Compilation"],
+        "title": "Promo Only: Modern Rock Radio, February 1998", "type": "Album"},
+        {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various
+        Artists"}], "id": "4e547568-b3af-4ada-ab0d-4953ba3433f5", "secondarytypes":
+        ["Compilation"], "title": "The 90s Movie Album", "type": "Album"}, {"artists":
+        [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}],
+        "id": "7a8febea-00e8-3865-9ce2-6eea821d50b3", "secondarytypes": ["Compilation"],
+        "title": "The Dog\u2019s \u2026!", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "2f77095a-0ab3-3146-8aa3-c243ff6199e0",
+        "secondarytypes": ["Compilation"], "title": "Mad for It", "type": "Album"},
+        {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various
+        Artists"}], "id": "1b2f7e02-3b5d-3555-9f22-341c9dfee59a", "secondarytypes":
+        ["Compilation"], "title": "Essential Soundtracks: The New Movie Collection",
+        "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "98152d4b-39d3-4284-b621-e8296924530b",
+        "secondarytypes": ["Compilation"], "title": "Made in the 90s", "type": "Album"},
+        {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various
+        Artists"}], "id": "aa837581-94c6-45e8-81ec-ec05cc8e0b0d", "secondarytypes":
+        ["Compilation"], "title": "Always & Forever", "type": "Album"}, {"artists":
+        [{"id": "9b70bb85-fdb1-442c-8667-0cb081a2aa44", "name": "The Wannadies"}],
+        "id": "cc6899c4-713b-3933-a287-2c0dadbca5ca", "title": "Be a Girl", "type":
+        "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name":
+        "Various Artists"}], "id": "cb251a2d-2fa4-4f31-84c3-47c29d229539", "secondarytypes":
+        ["Compilation"], "title": "100 Hits: The Best Nineties Album", "type": "Album"},
+        {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various
+        Artists"}], "id": "82cfdcea-1e60-4fa6-bbd9-6900441b3ea8", "secondarytypes":
+        ["Live"], "title": "Uproar! - 17 Indie Essentials", "type": "Album"}, {"artists":
+        [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}],
+        "id": "3f72cddd-dda7-3cbd-a581-b66b5811f2e6", "secondarytypes": ["Compilation"],
+        "title": "Absolute Anthems", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "737ce52b-25ed-3689-aedc-482a9432d712",
+        "secondarytypes": ["Compilation"], "title": "The Anthems 07", "type": "Album"},
+        {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various
+        Artists"}], "id": "053f245b-b667-4b63-beaa-fe29b04b61fd", "secondarytypes":
+        ["Compilation"], "title": "100 Hits of the 90s", "type": "Album"}, {"artists":
+        [{"id": "9b70bb85-fdb1-442c-8667-0cb081a2aa44", "name": "The Wannadies"}],
+        "id": "2e905519-9e8f-32d9-9b94-1104094698cb", "secondarytypes": ["Compilation"],
+        "title": "The Wannadies", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "5156ffb8-ba78-4caa-8c15-a13fefa0fb87",
+        "secondarytypes": ["Compilation"], "title": "Cinemax", "type": "Album"}, {"artists":
+        [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}],
+        "id": "e54d9784-e69d-4785-b9ca-73fabf05f255", "secondarytypes": ["Compilation"],
+        "title": "Acoustic Rock", "type": "Album"}, {"artists": [{"id": "9b70bb85-fdb1-442c-8667-0cb081a2aa44",
+        "name": "The Wannadies"}], "id": "8a481ec8-b984-3dfc-92b4-2e05e4af4266", "title":
+        "Yeah", "type": "Single"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "fa6b847d-5c22-4b4f-a9d5-f59193061ba3",
+        "secondarytypes": ["Compilation"], "title": "The Ultimate 90s", "type": "Album"},
+        {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various
+        Artists"}], "id": "878cb9d5-ec13-4180-96c3-4469a19d37b1", "secondarytypes":
+        ["Compilation"], "title": "Ultimate 90s: 60 Classic Tracks of the Decade",
+        "type": "Album"}, {"artists": [{"id": "9b70bb85-fdb1-442c-8667-0cb081a2aa44",
+        "name": "The Wannadies"}], "id": "ef70c5e8-d242-3fbb-9bdd-78fe213d76b9", "title":
+        "You and Me Song", "type": "Single"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "75088147-559f-44af-b1d8-8d10311670c6",
+        "secondarytypes": ["Compilation"], "title": "\u2026Baby One More Time: Back
+        to the 90s", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "85d80381-0b68-46f0-b851-140e96a077c5",
+        "secondarytypes": ["Compilation"], "title": "Pure\u2026 Love", "type": "Album"},
+        {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various
+        Artists"}], "id": "e31bd37f-52bd-4b21-8e4b-26951d20c31c", "secondarytypes":
+        ["Compilation"], "title": "Epic: The Bands. The Tracks. The Anthems", "type":
+        "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name":
+        "Various Artists"}], "id": "a05a5c32-2701-314a-a93e-f4d13559dc42", "secondarytypes":
+        ["Compilation"], "title": "Shine 5", "type": "Album"}, {"artists": [{"id":
+        "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}], "id":
+        "707fac1a-a5a6-4a6f-a5a3-684925703987", "secondarytypes": ["Compilation"],
+        "title": "Revenge of the Rock", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "650ebbf1-e25c-3f13-ac2b-d98010c1c5ee",
+        "secondarytypes": ["Soundtrack"], "title": "William Shakespeare\u2019s Romeo
+        + Juliet: Music From the Motion Picture", "type": "Album"}, {"artists": [{"id":
+        "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}], "id":
+        "a88c53b7-645f-32fa-92d7-665d283585d4", "secondarytypes": ["Compilation"],
+        "title": "The Best of Shine", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "1f6c4fe4-bd4a-4033-a8d3-affe41cd17f6",
+        "secondarytypes": ["Compilation"], "title": "100 Essential Tracks: 90s", "type":
+        "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name":
+        "Various Artists"}], "id": "a0744bfe-0429-4c4e-aa94-81b4bde0ef26", "secondarytypes":
+        ["Compilation"], "title": "Themes from TV Ads", "type": "Album"}, {"artists":
+        [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}],
+        "id": "c82da7b7-3641-4b7a-b2bd-ae8bf2835f0c", "secondarytypes": ["Compilation"],
+        "title": "Formel Eins: Die 90er! Rock & Pop Edition", "type": "Album"}, {"artists":
+        [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}],
+        "id": "f8124f9d-7560-3fca-877e-91f19df13940", "secondarytypes": ["Compilation"],
+        "title": "Hollywood Cool", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "1ae4d292-18cc-41c9-89f2-6d3413ebfff8",
+        "secondarytypes": ["Compilation"], "title": "The Pop Years: The 90s", "type":
+        "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name":
+        "Various Artists"}], "id": "6755aeb4-444e-33bf-97f8-0e2a3d370aa5", "secondarytypes":
+        ["Compilation"], "title": "Never Forget: The Ultimate 90s Collection", "type":
+        "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name":
+        "Various Artists"}], "id": "331e9ccb-bbef-4848-9bd3-7d68140040e8", "secondarytypes":
+        ["Compilation"], "title": "Fantastic Sunday", "type": "Album"}, {"artists":
+        [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}],
+        "id": "6fb92296-c773-3a50-a8e3-817bc874cab8", "secondarytypes": ["Compilation"],
+        "title": "The Best Anthems\u2026 Ever! Volume 2", "type": "Album"}, {"artists":
+        [{"id": "9b70bb85-fdb1-442c-8667-0cb081a2aa44", "name": "The Wannadies"}],
+        "id": "86e017d4-b1f1-3a9a-8f62-f9e964dfe52b", "title": "Bagsy Me", "type":
+        "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name":
+        "Various Artists"}], "id": "c8723213-a63c-465c-82e9-b7145cc4adaf", "secondarytypes":
+        ["Compilation"], "title": "Alternative Love", "type": "Album"}, {"artists":
+        [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}],
+        "id": "55fd5006-80b5-4ab7-9dc3-2487485db45b", "secondarytypes": ["Compilation"],
+        "title": "Forever Friends: Always and Forever", "type": "Album"}, {"artists":
+        [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}],
+        "id": "1f0da2c5-9448-3cdb-a206-52d525cd6c43", "secondarytypes": ["Compilation"],
+        "title": "\u00e5t\u00f6mstr\u00f6m: The Great R\u00f6ck''n''R\u00f6ll Svendle,
+        Part One", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "1e710567-ecf8-3978-b8d2-007af07dd9d1",
+        "secondarytypes": ["Compilation"], "title": "The Number One Acoustic Rock
+        Album", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "02c471dc-d0d7-3305-8851-ab085c16fe6d",
+        "secondarytypes": ["Compilation"], "title": "Something for the Weekend", "type":
+        "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name":
+        "Various Artists"}], "id": "5a14cfe0-c446-3f54-9c67-9b3d87e11ec6", "secondarytypes":
+        ["Soundtrack"], "title": "Cold Feet", "type": "Album"}, {"artists": [{"id":
+        "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}], "id":
+        "4a774338-c5ee-47bf-bbf0-3ac86989f88b", "secondarytypes": ["Compilation"],
+        "title": "New Woman", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "7fcbf4f6-a14c-30db-884f-ee3f0fe29815",
+        "secondarytypes": ["Compilation"], "title": "School Disco.com: Summer Holiday",
+        "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "5a6ea286-366e-47a4-a114-d998932f816a",
+        "secondarytypes": ["Compilation"], "title": "Love & Affection", "type": "Album"},
+        {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various
+        Artists"}], "id": "8d670654-7df1-4c42-b6e7-c78b0a264c2f", "secondarytypes":
+        ["Compilation"], "title": "Indie Cool", "type": "Album"}, {"artists": [{"id":
+        "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}], "id":
+        "fcf266ba-3274-4c63-b7ff-be05355f4eb6", "secondarytypes": ["Compilation"],
+        "title": "Pure\u2026 90s", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "135dfb7f-b3fa-49f1-8076-5c20e185fe8b",
+        "secondarytypes": ["Compilation"], "title": "Livet e en fest : 90-tal", "type":
+        "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name":
+        "Various Artists"}], "id": "4a50387d-386e-4f90-bcee-907a64dc434f", "secondarytypes":
+        ["Soundtrack"], "title": "The Essential Movies", "type": "Album"}], "title":
+        "You and Me Song"}, {"id": "8a0e1301-f182-402d-8680-1c9077c972a1"}, {"id":
+        "9e5a3d98-65e7-46b5-b268-131e0e3e20a7"}, {"id": "b5856d00-a029-419e-9fc8-8332f72d04b8"}],
+        "score": 0.965915}, {"id": "1615ffea-f4f4-4980-8170-831f8bcaa60a", "recordings":
+        [{"id": "0ddb7130-0ffd-4e6c-b6cc-334619ce4319"}, {"id": "108c59d7-8bba-4aa4-a306-d11e1345db7c"},
+        {"id": "11be1f0e-41be-4a1f-bef7-a1fe4f8a99d2"}, {"id": "38c60124-d369-4af7-b6d4-16127b5433de"},
+        {"id": "47294b8c-541e-4e68-af37-e1ebb936f08f"}, {"id": "56c403eb-8133-4963-a174-e999485b1fe5"},
+        {"id": "5bdf7741-c8a0-4ed7-bfd0-2baa31ad43a1"}, {"artists": [{"id": "9b70bb85-fdb1-442c-8667-0cb081a2aa44",
+        "name": "The Wannadies"}], "duration": 170, "id": "654091bd-32e0-4631-9f18-167be1788a6e",
+        "releasegroups": [{"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "d66f2f60-740e-4980-b57b-34f84db481c7",
+        "secondarytypes": ["Compilation"], "title": "The Autumn/Winter Collection",
+        "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "0ecea621-cdac-3e5a-bad0-20fb1f2fb715",
+        "secondarytypes": ["Compilation"], "title": "Sorted", "type": "Album"}, {"artists":
+        [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}],
+        "id": "d1272ce9-7796-4877-a490-c2e3f615f8d9", "secondarytypes": ["Compilation"],
+        "title": "Holiday in the Sun: A Soap Records Compilation", "type": "Album"},
+        {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various
+        Artists"}], "id": "6d24a0a5-dd5a-3d09-817f-580fc7784f54", "secondarytypes":
+        ["Compilation"], "title": "Untitled", "type": "Album"}, {"artists": [{"id":
+        "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}], "id":
+        "f3a990eb-a848-4335-8f70-bb3ac37af10e", "secondarytypes": ["Compilation"],
+        "title": "Forever Friends: Someone Special", "type": "Album"}, {"artists":
+        [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}],
+        "id": "6b5e4ae4-f864-3260-9212-405cdf205f48", "secondarytypes": ["Live"],
+        "title": "Radio One Sound City: Leeds 1996", "type": "Album"}, {"artists":
+        [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}],
+        "id": "97cab749-e90c-3761-bcfd-8194407858e1", "secondarytypes": ["Compilation"],
+        "title": "The Greatest Driving Album This Year", "type": "Album"}, {"artists":
+        [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}],
+        "id": "819bc18c-1972-490c-b788-593bc91589f5", "secondarytypes": ["Compilation"],
+        "title": "The Party Mix - Movies", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "0d18f41a-b5f9-3f0f-8ad2-c289cd3ddf9e",
+        "secondarytypes": ["Compilation"], "title": "100 Hits: 90s", "type": "Album"},
+        {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various
+        Artists"}], "id": "aedfa0dd-419d-3b75-b887-4e99e21521c6", "secondarytypes":
+        ["Compilation"], "title": "Indie Anthems", "type": "Album"}, {"artists": [{"id":
+        "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}], "id":
+        "c461a54f-7e71-37a9-86f3-9ed3732425ff", "secondarytypes": ["Compilation"],
+        "title": "Crush", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "2b6c809a-2945-492c-b83d-9dc6f6928a76",
+        "secondarytypes": ["Compilation"], "title": "100 Hits: Car Songs", "type":
+        "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name":
+        "Various Artists"}], "id": "d5c8acac-bd0a-3d5f-8574-ae891f361f1e", "secondarytypes":
+        ["Compilation"], "title": "Trackspotting", "type": "Album"}, {"artists": [{"id":
+        "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}], "id":
+        "4f2a1f78-59c9-3c72-b5bd-ed5772a37d63", "secondarytypes": ["Compilation"],
+        "title": "Absolute Pop", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "449df3bb-b6d1-4ed0-8cb7-b427f2daafba",
+        "secondarytypes": ["Compilation"], "title": "Cruise Control: The Very Best
+        Drive Time Anthems", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "dbfaf84e-064a-4be3-9a39-63f50bd182cb",
+        "secondarytypes": ["Compilation"], "title": "This Love", "type": "Album"},
+        {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various
+        Artists"}], "id": "38ff355e-66c2-3d08-9e08-5ef254422b0f", "secondarytypes":
+        ["Compilation"], "title": "Beautiful: 40 Timeless Love Songs", "type": "Album"},
+        {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various
+        Artists"}], "id": "178f713c-34f5-4934-9fa9-0ec0bf11c958", "secondarytypes":
+        ["Compilation"], "title": "101 Indie Anthems", "type": "Album"}, {"artists":
+        [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}],
+        "id": "5ca63890-41fd-4f83-946a-333d9ab02662", "secondarytypes": ["Compilation"],
+        "title": "Classic Cuts Presents: Anthems", "type": "Album"}, {"artists": [{"id":
+        "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}], "id":
+        "a9191c12-b710-4df7-bc10-7f7434ef312d", "secondarytypes": ["Compilation"],
+        "title": "Top 40: Movies", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "447ec337-eb63-4186-b620-ad500c69543e",
+        "secondarytypes": ["Compilation"], "title": "Music Academy vol. 1 (14)", "type":
+        "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name":
+        "Various Artists"}], "id": "da367982-b070-459e-b6f8-36f1d0d689f1", "title":
+        "\u00c9xito total: 30 \u00e9xitos originales"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "9e85e330-299b-3384-83ce-4e0004feaa35",
+        "secondarytypes": ["Compilation"], "title": "101 90s Hits", "type": "Album"},
+        {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various
+        Artists"}], "id": "5562454e-0390-3760-a9ab-5135e2327121", "secondarytypes":
+        ["Compilation"], "title": "Brit Awards 98", "type": "Album"}, {"artists":
+        [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}],
+        "id": "7b07d54d-463b-4b60-ae9b-a02c4bcc8899", "secondarytypes": ["Compilation"],
+        "title": "The Hits Album: The 90\u2019s Album", "type": "Album"}, {"artists":
+        [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}],
+        "id": "03cfd5a5-312d-3bee-8a43-7e701cad8a68", "secondarytypes": ["Soundtrack"],
+        "title": "Border Cafe: Music From the TV Series", "type": "Album"}, {"artists":
+        [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}],
+        "id": "f72aa702-a7b0-3928-bb7f-47b2590552a3", "secondarytypes": ["Compilation"],
+        "title": "The Very Best of Drive Time: 40 Driving Classics and Feel Good Anthems",
+        "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "1ad79cd0-0701-4e63-8166-b1d397765f47",
+        "secondarytypes": ["Compilation"], "title": "Superwoman: The Soundtrack to
+        a Perfect Day", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "e441f3f3-2588-4aec-baa8-7be737c14471",
+        "secondarytypes": ["Compilation"], "title": "Essential: One for the Lads",
+        "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "c63e7527-07c8-4861-ac29-e554bf5cf217",
+        "secondarytypes": ["Compilation"], "title": "Britpop at the BBC", "type":
+        "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name":
+        "Various Artists"}], "id": "d9d9fee2-9139-3899-9d73-2d8b0331437e", "secondarytypes":
+        ["Compilation"], "title": "World''s Best Dad", "type": "Album"}, {"artists":
+        [{"id": "9b70bb85-fdb1-442c-8667-0cb081a2aa44", "name": "The Wannadies"}],
+        "id": "25719a5f-e64f-3403-b9c1-ed2753435e46", "secondarytypes": ["Compilation"],
+        "title": "Skellefte\u00e5", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "c18f3686-23a7-3d67-874c-a0df5d689355",
+        "secondarytypes": ["Compilation"], "title": "Cruisin'' the Best of Drivetime",
+        "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "6ad79374-48ff-3008-b15d-a2a34e508e06",
+        "secondarytypes": ["Compilation"], "title": "Essential Tracks", "type": "Album"},
+        {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various
+        Artists"}], "id": "7485c664-3e19-360d-80f3-79188b6f2680", "secondarytypes":
+        ["Compilation"], "title": "New Hits \u201996", "type": "Album"}, {"artists":
+        [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}],
+        "id": "83d4eccf-d26d-4b88-a63e-73b60e6f25e1", "secondarytypes": ["Compilation"],
+        "title": "Happiness Forever", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "21dec5a1-addd-3986-b745-0adacbe98f65",
+        "secondarytypes": ["Compilation"], "title": "Crash! Indie Anthems 1982-2004",
+        "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "6c21990e-7a94-4c5f-9bba-2c4dced9a777",
+        "secondarytypes": ["Compilation"], "title": "Best Day of My Life", "type":
+        "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name":
+        "Various Artists"}], "id": "58e43387-427d-48db-9a75-74ab551cc33a", "secondarytypes":
+        ["Compilation"], "title": "100 Hits: Indie", "type": "Album"}, {"artists":
+        [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}],
+        "id": "54fc5eca-d525-4423-b1b4-5f1a00f6bd13", "secondarytypes": ["Compilation"],
+        "title": "Promo Only: Modern Rock Radio, February 1998", "type": "Album"},
+        {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various
+        Artists"}], "id": "4e547568-b3af-4ada-ab0d-4953ba3433f5", "secondarytypes":
+        ["Compilation"], "title": "The 90s Movie Album", "type": "Album"}, {"artists":
+        [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}],
+        "id": "7a8febea-00e8-3865-9ce2-6eea821d50b3", "secondarytypes": ["Compilation"],
+        "title": "The Dog\u2019s \u2026!", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "2f77095a-0ab3-3146-8aa3-c243ff6199e0",
+        "secondarytypes": ["Compilation"], "title": "Mad for It", "type": "Album"},
+        {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various
+        Artists"}], "id": "1b2f7e02-3b5d-3555-9f22-341c9dfee59a", "secondarytypes":
+        ["Compilation"], "title": "Essential Soundtracks: The New Movie Collection",
+        "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "98152d4b-39d3-4284-b621-e8296924530b",
+        "secondarytypes": ["Compilation"], "title": "Made in the 90s", "type": "Album"},
+        {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various
+        Artists"}], "id": "aa837581-94c6-45e8-81ec-ec05cc8e0b0d", "secondarytypes":
+        ["Compilation"], "title": "Always & Forever", "type": "Album"}, {"artists":
+        [{"id": "9b70bb85-fdb1-442c-8667-0cb081a2aa44", "name": "The Wannadies"}],
+        "id": "cc6899c4-713b-3933-a287-2c0dadbca5ca", "title": "Be a Girl", "type":
+        "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name":
+        "Various Artists"}], "id": "cb251a2d-2fa4-4f31-84c3-47c29d229539", "secondarytypes":
+        ["Compilation"], "title": "100 Hits: The Best Nineties Album", "type": "Album"},
+        {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various
+        Artists"}], "id": "82cfdcea-1e60-4fa6-bbd9-6900441b3ea8", "secondarytypes":
+        ["Live"], "title": "Uproar! - 17 Indie Essentials", "type": "Album"}, {"artists":
+        [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}],
+        "id": "3f72cddd-dda7-3cbd-a581-b66b5811f2e6", "secondarytypes": ["Compilation"],
+        "title": "Absolute Anthems", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "737ce52b-25ed-3689-aedc-482a9432d712",
+        "secondarytypes": ["Compilation"], "title": "The Anthems 07", "type": "Album"},
+        {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various
+        Artists"}], "id": "053f245b-b667-4b63-beaa-fe29b04b61fd", "secondarytypes":
+        ["Compilation"], "title": "100 Hits of the 90s", "type": "Album"}, {"artists":
+        [{"id": "9b70bb85-fdb1-442c-8667-0cb081a2aa44", "name": "The Wannadies"}],
+        "id": "2e905519-9e8f-32d9-9b94-1104094698cb", "secondarytypes": ["Compilation"],
+        "title": "The Wannadies", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "5156ffb8-ba78-4caa-8c15-a13fefa0fb87",
+        "secondarytypes": ["Compilation"], "title": "Cinemax", "type": "Album"}, {"artists":
+        [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}],
+        "id": "e54d9784-e69d-4785-b9ca-73fabf05f255", "secondarytypes": ["Compilation"],
+        "title": "Acoustic Rock", "type": "Album"}, {"artists": [{"id": "9b70bb85-fdb1-442c-8667-0cb081a2aa44",
+        "name": "The Wannadies"}], "id": "8a481ec8-b984-3dfc-92b4-2e05e4af4266", "title":
+        "Yeah", "type": "Single"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "fa6b847d-5c22-4b4f-a9d5-f59193061ba3",
+        "secondarytypes": ["Compilation"], "title": "The Ultimate 90s", "type": "Album"},
+        {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various
+        Artists"}], "id": "878cb9d5-ec13-4180-96c3-4469a19d37b1", "secondarytypes":
+        ["Compilation"], "title": "Ultimate 90s: 60 Classic Tracks of the Decade",
+        "type": "Album"}, {"artists": [{"id": "9b70bb85-fdb1-442c-8667-0cb081a2aa44",
+        "name": "The Wannadies"}], "id": "ef70c5e8-d242-3fbb-9bdd-78fe213d76b9", "title":
+        "You and Me Song", "type": "Single"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "75088147-559f-44af-b1d8-8d10311670c6",
+        "secondarytypes": ["Compilation"], "title": "\u2026Baby One More Time: Back
+        to the 90s", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "85d80381-0b68-46f0-b851-140e96a077c5",
+        "secondarytypes": ["Compilation"], "title": "Pure\u2026 Love", "type": "Album"},
+        {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various
+        Artists"}], "id": "e31bd37f-52bd-4b21-8e4b-26951d20c31c", "secondarytypes":
+        ["Compilation"], "title": "Epic: The Bands. The Tracks. The Anthems", "type":
+        "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name":
+        "Various Artists"}], "id": "a05a5c32-2701-314a-a93e-f4d13559dc42", "secondarytypes":
+        ["Compilation"], "title": "Shine 5", "type": "Album"}, {"artists": [{"id":
+        "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}], "id":
+        "707fac1a-a5a6-4a6f-a5a3-684925703987", "secondarytypes": ["Compilation"],
+        "title": "Revenge of the Rock", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "650ebbf1-e25c-3f13-ac2b-d98010c1c5ee",
+        "secondarytypes": ["Soundtrack"], "title": "William Shakespeare\u2019s Romeo
+        + Juliet: Music From the Motion Picture", "type": "Album"}, {"artists": [{"id":
+        "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}], "id":
+        "a88c53b7-645f-32fa-92d7-665d283585d4", "secondarytypes": ["Compilation"],
+        "title": "The Best of Shine", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "1f6c4fe4-bd4a-4033-a8d3-affe41cd17f6",
+        "secondarytypes": ["Compilation"], "title": "100 Essential Tracks: 90s", "type":
+        "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name":
+        "Various Artists"}], "id": "a0744bfe-0429-4c4e-aa94-81b4bde0ef26", "secondarytypes":
+        ["Compilation"], "title": "Themes from TV Ads", "type": "Album"}, {"artists":
+        [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}],
+        "id": "c82da7b7-3641-4b7a-b2bd-ae8bf2835f0c", "secondarytypes": ["Compilation"],
+        "title": "Formel Eins: Die 90er! Rock & Pop Edition", "type": "Album"}, {"artists":
+        [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}],
+        "id": "f8124f9d-7560-3fca-877e-91f19df13940", "secondarytypes": ["Compilation"],
+        "title": "Hollywood Cool", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "1ae4d292-18cc-41c9-89f2-6d3413ebfff8",
+        "secondarytypes": ["Compilation"], "title": "The Pop Years: The 90s", "type":
+        "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name":
+        "Various Artists"}], "id": "6755aeb4-444e-33bf-97f8-0e2a3d370aa5", "secondarytypes":
+        ["Compilation"], "title": "Never Forget: The Ultimate 90s Collection", "type":
+        "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name":
+        "Various Artists"}], "id": "331e9ccb-bbef-4848-9bd3-7d68140040e8", "secondarytypes":
+        ["Compilation"], "title": "Fantastic Sunday", "type": "Album"}, {"artists":
+        [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}],
+        "id": "6fb92296-c773-3a50-a8e3-817bc874cab8", "secondarytypes": ["Compilation"],
+        "title": "The Best Anthems\u2026 Ever! Volume 2", "type": "Album"}, {"artists":
+        [{"id": "9b70bb85-fdb1-442c-8667-0cb081a2aa44", "name": "The Wannadies"}],
+        "id": "86e017d4-b1f1-3a9a-8f62-f9e964dfe52b", "title": "Bagsy Me", "type":
+        "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name":
+        "Various Artists"}], "id": "c8723213-a63c-465c-82e9-b7145cc4adaf", "secondarytypes":
+        ["Compilation"], "title": "Alternative Love", "type": "Album"}, {"artists":
+        [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}],
+        "id": "55fd5006-80b5-4ab7-9dc3-2487485db45b", "secondarytypes": ["Compilation"],
+        "title": "Forever Friends: Always and Forever", "type": "Album"}, {"artists":
+        [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}],
+        "id": "1f0da2c5-9448-3cdb-a206-52d525cd6c43", "secondarytypes": ["Compilation"],
+        "title": "\u00e5t\u00f6mstr\u00f6m: The Great R\u00f6ck''n''R\u00f6ll Svendle,
+        Part One", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "1e710567-ecf8-3978-b8d2-007af07dd9d1",
+        "secondarytypes": ["Compilation"], "title": "The Number One Acoustic Rock
+        Album", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "02c471dc-d0d7-3305-8851-ab085c16fe6d",
+        "secondarytypes": ["Compilation"], "title": "Something for the Weekend", "type":
+        "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name":
+        "Various Artists"}], "id": "5a14cfe0-c446-3f54-9c67-9b3d87e11ec6", "secondarytypes":
+        ["Soundtrack"], "title": "Cold Feet", "type": "Album"}, {"artists": [{"id":
+        "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}], "id":
+        "4a774338-c5ee-47bf-bbf0-3ac86989f88b", "secondarytypes": ["Compilation"],
+        "title": "New Woman", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "7fcbf4f6-a14c-30db-884f-ee3f0fe29815",
+        "secondarytypes": ["Compilation"], "title": "School Disco.com: Summer Holiday",
+        "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "5a6ea286-366e-47a4-a114-d998932f816a",
+        "secondarytypes": ["Compilation"], "title": "Love & Affection", "type": "Album"},
+        {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various
+        Artists"}], "id": "8d670654-7df1-4c42-b6e7-c78b0a264c2f", "secondarytypes":
+        ["Compilation"], "title": "Indie Cool", "type": "Album"}, {"artists": [{"id":
+        "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}], "id":
+        "fcf266ba-3274-4c63-b7ff-be05355f4eb6", "secondarytypes": ["Compilation"],
+        "title": "Pure\u2026 90s", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "135dfb7f-b3fa-49f1-8076-5c20e185fe8b",
+        "secondarytypes": ["Compilation"], "title": "Livet e en fest : 90-tal", "type":
+        "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name":
+        "Various Artists"}], "id": "4a50387d-386e-4f90-bcee-907a64dc434f", "secondarytypes":
+        ["Soundtrack"], "title": "The Essential Movies", "type": "Album"}], "title":
+        "You and Me Song"}, {"id": "7093dcc1-c25e-4d48-9b3f-9833d1b49509"}, {"id":
+        "7795fd40-fa44-4e9c-9618-2ad9b619127a"}, {"id": "79b60207-9e56-4193-9692-6f666e064be3"},
+        {"id": "853d762b-f859-4868-ad2e-5d8205714c31"}, {"id": "86a05047-05dc-450a-aaff-574c19747938"},
+        {"id": "92138764-e87e-495d-ac16-82eb778b6c10"}, {"id": "b266a178-57d5-4432-b06e-ec421829dcf0"},
+        {"id": "b5856d00-a029-419e-9fc8-8332f72d04b8"}, {"id": "bb3d4cd4-e0d0-497a-bf31-daccedcf55b5"},
+        {"id": "c7ee2e61-f232-4769-8d6e-0fde2e2d3647"}, {"id": "dc5f7ecf-ca20-49ed-8cc6-6dedd19f5faf"},
+        {"id": "fea04473-6804-47a1-8839-57be7a249502"}], "score": 0.95952}, {"id":
+        "e8817070-9fe8-4a8e-a4b6-84fd94cf67a8", "recordings": [{"artists": [{"id":
+        "9b70bb85-fdb1-442c-8667-0cb081a2aa44", "name": "The Wannadies"}], "duration":
+        170, "id": "654091bd-32e0-4631-9f18-167be1788a6e", "releasegroups": [{"artists":
+        [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}],
+        "id": "d66f2f60-740e-4980-b57b-34f84db481c7", "secondarytypes": ["Compilation"],
+        "title": "The Autumn/Winter Collection", "type": "Album"}, {"artists": [{"id":
+        "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}], "id":
+        "0ecea621-cdac-3e5a-bad0-20fb1f2fb715", "secondarytypes": ["Compilation"],
+        "title": "Sorted", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "d1272ce9-7796-4877-a490-c2e3f615f8d9",
+        "secondarytypes": ["Compilation"], "title": "Holiday in the Sun: A Soap Records
+        Compilation", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "6d24a0a5-dd5a-3d09-817f-580fc7784f54",
+        "secondarytypes": ["Compilation"], "title": "Untitled", "type": "Album"},
+        {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various
+        Artists"}], "id": "f3a990eb-a848-4335-8f70-bb3ac37af10e", "secondarytypes":
+        ["Compilation"], "title": "Forever Friends: Someone Special", "type": "Album"},
+        {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various
+        Artists"}], "id": "6b5e4ae4-f864-3260-9212-405cdf205f48", "secondarytypes":
+        ["Live"], "title": "Radio One Sound City: Leeds 1996", "type": "Album"}, {"artists":
+        [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}],
+        "id": "97cab749-e90c-3761-bcfd-8194407858e1", "secondarytypes": ["Compilation"],
+        "title": "The Greatest Driving Album This Year", "type": "Album"}, {"artists":
+        [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}],
+        "id": "819bc18c-1972-490c-b788-593bc91589f5", "secondarytypes": ["Compilation"],
+        "title": "The Party Mix - Movies", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "0d18f41a-b5f9-3f0f-8ad2-c289cd3ddf9e",
+        "secondarytypes": ["Compilation"], "title": "100 Hits: 90s", "type": "Album"},
+        {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various
+        Artists"}], "id": "aedfa0dd-419d-3b75-b887-4e99e21521c6", "secondarytypes":
+        ["Compilation"], "title": "Indie Anthems", "type": "Album"}, {"artists": [{"id":
+        "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}], "id":
+        "c461a54f-7e71-37a9-86f3-9ed3732425ff", "secondarytypes": ["Compilation"],
+        "title": "Crush", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "2b6c809a-2945-492c-b83d-9dc6f6928a76",
+        "secondarytypes": ["Compilation"], "title": "100 Hits: Car Songs", "type":
+        "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name":
+        "Various Artists"}], "id": "d5c8acac-bd0a-3d5f-8574-ae891f361f1e", "secondarytypes":
+        ["Compilation"], "title": "Trackspotting", "type": "Album"}, {"artists": [{"id":
+        "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}], "id":
+        "4f2a1f78-59c9-3c72-b5bd-ed5772a37d63", "secondarytypes": ["Compilation"],
+        "title": "Absolute Pop", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "449df3bb-b6d1-4ed0-8cb7-b427f2daafba",
+        "secondarytypes": ["Compilation"], "title": "Cruise Control: The Very Best
+        Drive Time Anthems", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "dbfaf84e-064a-4be3-9a39-63f50bd182cb",
+        "secondarytypes": ["Compilation"], "title": "This Love", "type": "Album"},
+        {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various
+        Artists"}], "id": "38ff355e-66c2-3d08-9e08-5ef254422b0f", "secondarytypes":
+        ["Compilation"], "title": "Beautiful: 40 Timeless Love Songs", "type": "Album"},
+        {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various
+        Artists"}], "id": "178f713c-34f5-4934-9fa9-0ec0bf11c958", "secondarytypes":
+        ["Compilation"], "title": "101 Indie Anthems", "type": "Album"}, {"artists":
+        [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}],
+        "id": "5ca63890-41fd-4f83-946a-333d9ab02662", "secondarytypes": ["Compilation"],
+        "title": "Classic Cuts Presents: Anthems", "type": "Album"}, {"artists": [{"id":
+        "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}], "id":
+        "a9191c12-b710-4df7-bc10-7f7434ef312d", "secondarytypes": ["Compilation"],
+        "title": "Top 40: Movies", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "447ec337-eb63-4186-b620-ad500c69543e",
+        "secondarytypes": ["Compilation"], "title": "Music Academy vol. 1 (14)", "type":
+        "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name":
+        "Various Artists"}], "id": "da367982-b070-459e-b6f8-36f1d0d689f1", "title":
+        "\u00c9xito total: 30 \u00e9xitos originales"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "9e85e330-299b-3384-83ce-4e0004feaa35",
+        "secondarytypes": ["Compilation"], "title": "101 90s Hits", "type": "Album"},
+        {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various
+        Artists"}], "id": "5562454e-0390-3760-a9ab-5135e2327121", "secondarytypes":
+        ["Compilation"], "title": "Brit Awards 98", "type": "Album"}, {"artists":
+        [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}],
+        "id": "7b07d54d-463b-4b60-ae9b-a02c4bcc8899", "secondarytypes": ["Compilation"],
+        "title": "The Hits Album: The 90\u2019s Album", "type": "Album"}, {"artists":
+        [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}],
+        "id": "03cfd5a5-312d-3bee-8a43-7e701cad8a68", "secondarytypes": ["Soundtrack"],
+        "title": "Border Cafe: Music From the TV Series", "type": "Album"}, {"artists":
+        [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}],
+        "id": "f72aa702-a7b0-3928-bb7f-47b2590552a3", "secondarytypes": ["Compilation"],
+        "title": "The Very Best of Drive Time: 40 Driving Classics and Feel Good Anthems",
+        "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "1ad79cd0-0701-4e63-8166-b1d397765f47",
+        "secondarytypes": ["Compilation"], "title": "Superwoman: The Soundtrack to
+        a Perfect Day", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "e441f3f3-2588-4aec-baa8-7be737c14471",
+        "secondarytypes": ["Compilation"], "title": "Essential: One for the Lads",
+        "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "c63e7527-07c8-4861-ac29-e554bf5cf217",
+        "secondarytypes": ["Compilation"], "title": "Britpop at the BBC", "type":
+        "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name":
+        "Various Artists"}], "id": "d9d9fee2-9139-3899-9d73-2d8b0331437e", "secondarytypes":
+        ["Compilation"], "title": "World''s Best Dad", "type": "Album"}, {"artists":
+        [{"id": "9b70bb85-fdb1-442c-8667-0cb081a2aa44", "name": "The Wannadies"}],
+        "id": "25719a5f-e64f-3403-b9c1-ed2753435e46", "secondarytypes": ["Compilation"],
+        "title": "Skellefte\u00e5", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "c18f3686-23a7-3d67-874c-a0df5d689355",
+        "secondarytypes": ["Compilation"], "title": "Cruisin'' the Best of Drivetime",
+        "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "6ad79374-48ff-3008-b15d-a2a34e508e06",
+        "secondarytypes": ["Compilation"], "title": "Essential Tracks", "type": "Album"},
+        {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various
+        Artists"}], "id": "7485c664-3e19-360d-80f3-79188b6f2680", "secondarytypes":
+        ["Compilation"], "title": "New Hits \u201996", "type": "Album"}, {"artists":
+        [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}],
+        "id": "83d4eccf-d26d-4b88-a63e-73b60e6f25e1", "secondarytypes": ["Compilation"],
+        "title": "Happiness Forever", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "21dec5a1-addd-3986-b745-0adacbe98f65",
+        "secondarytypes": ["Compilation"], "title": "Crash! Indie Anthems 1982-2004",
+        "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "6c21990e-7a94-4c5f-9bba-2c4dced9a777",
+        "secondarytypes": ["Compilation"], "title": "Best Day of My Life", "type":
+        "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name":
+        "Various Artists"}], "id": "58e43387-427d-48db-9a75-74ab551cc33a", "secondarytypes":
+        ["Compilation"], "title": "100 Hits: Indie", "type": "Album"}, {"artists":
+        [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}],
+        "id": "54fc5eca-d525-4423-b1b4-5f1a00f6bd13", "secondarytypes": ["Compilation"],
+        "title": "Promo Only: Modern Rock Radio, February 1998", "type": "Album"},
+        {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various
+        Artists"}], "id": "4e547568-b3af-4ada-ab0d-4953ba3433f5", "secondarytypes":
+        ["Compilation"], "title": "The 90s Movie Album", "type": "Album"}, {"artists":
+        [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}],
+        "id": "7a8febea-00e8-3865-9ce2-6eea821d50b3", "secondarytypes": ["Compilation"],
+        "title": "The Dog\u2019s \u2026!", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "2f77095a-0ab3-3146-8aa3-c243ff6199e0",
+        "secondarytypes": ["Compilation"], "title": "Mad for It", "type": "Album"},
+        {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various
+        Artists"}], "id": "1b2f7e02-3b5d-3555-9f22-341c9dfee59a", "secondarytypes":
+        ["Compilation"], "title": "Essential Soundtracks: The New Movie Collection",
+        "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "98152d4b-39d3-4284-b621-e8296924530b",
+        "secondarytypes": ["Compilation"], "title": "Made in the 90s", "type": "Album"},
+        {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various
+        Artists"}], "id": "aa837581-94c6-45e8-81ec-ec05cc8e0b0d", "secondarytypes":
+        ["Compilation"], "title": "Always & Forever", "type": "Album"}, {"artists":
+        [{"id": "9b70bb85-fdb1-442c-8667-0cb081a2aa44", "name": "The Wannadies"}],
+        "id": "cc6899c4-713b-3933-a287-2c0dadbca5ca", "title": "Be a Girl", "type":
+        "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name":
+        "Various Artists"}], "id": "cb251a2d-2fa4-4f31-84c3-47c29d229539", "secondarytypes":
+        ["Compilation"], "title": "100 Hits: The Best Nineties Album", "type": "Album"},
+        {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various
+        Artists"}], "id": "82cfdcea-1e60-4fa6-bbd9-6900441b3ea8", "secondarytypes":
+        ["Live"], "title": "Uproar! - 17 Indie Essentials", "type": "Album"}, {"artists":
+        [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}],
+        "id": "3f72cddd-dda7-3cbd-a581-b66b5811f2e6", "secondarytypes": ["Compilation"],
+        "title": "Absolute Anthems", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "737ce52b-25ed-3689-aedc-482a9432d712",
+        "secondarytypes": ["Compilation"], "title": "The Anthems 07", "type": "Album"},
+        {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various
+        Artists"}], "id": "053f245b-b667-4b63-beaa-fe29b04b61fd", "secondarytypes":
+        ["Compilation"], "title": "100 Hits of the 90s", "type": "Album"}, {"artists":
+        [{"id": "9b70bb85-fdb1-442c-8667-0cb081a2aa44", "name": "The Wannadies"}],
+        "id": "2e905519-9e8f-32d9-9b94-1104094698cb", "secondarytypes": ["Compilation"],
+        "title": "The Wannadies", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "5156ffb8-ba78-4caa-8c15-a13fefa0fb87",
+        "secondarytypes": ["Compilation"], "title": "Cinemax", "type": "Album"}, {"artists":
+        [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}],
+        "id": "e54d9784-e69d-4785-b9ca-73fabf05f255", "secondarytypes": ["Compilation"],
+        "title": "Acoustic Rock", "type": "Album"}, {"artists": [{"id": "9b70bb85-fdb1-442c-8667-0cb081a2aa44",
+        "name": "The Wannadies"}], "id": "8a481ec8-b984-3dfc-92b4-2e05e4af4266", "title":
+        "Yeah", "type": "Single"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "fa6b847d-5c22-4b4f-a9d5-f59193061ba3",
+        "secondarytypes": ["Compilation"], "title": "The Ultimate 90s", "type": "Album"},
+        {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various
+        Artists"}], "id": "878cb9d5-ec13-4180-96c3-4469a19d37b1", "secondarytypes":
+        ["Compilation"], "title": "Ultimate 90s: 60 Classic Tracks of the Decade",
+        "type": "Album"}, {"artists": [{"id": "9b70bb85-fdb1-442c-8667-0cb081a2aa44",
+        "name": "The Wannadies"}], "id": "ef70c5e8-d242-3fbb-9bdd-78fe213d76b9", "title":
+        "You and Me Song", "type": "Single"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "75088147-559f-44af-b1d8-8d10311670c6",
+        "secondarytypes": ["Compilation"], "title": "\u2026Baby One More Time: Back
+        to the 90s", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "85d80381-0b68-46f0-b851-140e96a077c5",
+        "secondarytypes": ["Compilation"], "title": "Pure\u2026 Love", "type": "Album"},
+        {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various
+        Artists"}], "id": "e31bd37f-52bd-4b21-8e4b-26951d20c31c", "secondarytypes":
+        ["Compilation"], "title": "Epic: The Bands. The Tracks. The Anthems", "type":
+        "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name":
+        "Various Artists"}], "id": "a05a5c32-2701-314a-a93e-f4d13559dc42", "secondarytypes":
+        ["Compilation"], "title": "Shine 5", "type": "Album"}, {"artists": [{"id":
+        "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}], "id":
+        "707fac1a-a5a6-4a6f-a5a3-684925703987", "secondarytypes": ["Compilation"],
+        "title": "Revenge of the Rock", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "650ebbf1-e25c-3f13-ac2b-d98010c1c5ee",
+        "secondarytypes": ["Soundtrack"], "title": "William Shakespeare\u2019s Romeo
+        + Juliet: Music From the Motion Picture", "type": "Album"}, {"artists": [{"id":
+        "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}], "id":
+        "a88c53b7-645f-32fa-92d7-665d283585d4", "secondarytypes": ["Compilation"],
+        "title": "The Best of Shine", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "1f6c4fe4-bd4a-4033-a8d3-affe41cd17f6",
+        "secondarytypes": ["Compilation"], "title": "100 Essential Tracks: 90s", "type":
+        "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name":
+        "Various Artists"}], "id": "a0744bfe-0429-4c4e-aa94-81b4bde0ef26", "secondarytypes":
+        ["Compilation"], "title": "Themes from TV Ads", "type": "Album"}, {"artists":
+        [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}],
+        "id": "c82da7b7-3641-4b7a-b2bd-ae8bf2835f0c", "secondarytypes": ["Compilation"],
+        "title": "Formel Eins: Die 90er! Rock & Pop Edition", "type": "Album"}, {"artists":
+        [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}],
+        "id": "f8124f9d-7560-3fca-877e-91f19df13940", "secondarytypes": ["Compilation"],
+        "title": "Hollywood Cool", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "1ae4d292-18cc-41c9-89f2-6d3413ebfff8",
+        "secondarytypes": ["Compilation"], "title": "The Pop Years: The 90s", "type":
+        "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name":
+        "Various Artists"}], "id": "6755aeb4-444e-33bf-97f8-0e2a3d370aa5", "secondarytypes":
+        ["Compilation"], "title": "Never Forget: The Ultimate 90s Collection", "type":
+        "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name":
+        "Various Artists"}], "id": "331e9ccb-bbef-4848-9bd3-7d68140040e8", "secondarytypes":
+        ["Compilation"], "title": "Fantastic Sunday", "type": "Album"}, {"artists":
+        [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}],
+        "id": "6fb92296-c773-3a50-a8e3-817bc874cab8", "secondarytypes": ["Compilation"],
+        "title": "The Best Anthems\u2026 Ever! Volume 2", "type": "Album"}, {"artists":
+        [{"id": "9b70bb85-fdb1-442c-8667-0cb081a2aa44", "name": "The Wannadies"}],
+        "id": "86e017d4-b1f1-3a9a-8f62-f9e964dfe52b", "title": "Bagsy Me", "type":
+        "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name":
+        "Various Artists"}], "id": "c8723213-a63c-465c-82e9-b7145cc4adaf", "secondarytypes":
+        ["Compilation"], "title": "Alternative Love", "type": "Album"}, {"artists":
+        [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}],
+        "id": "55fd5006-80b5-4ab7-9dc3-2487485db45b", "secondarytypes": ["Compilation"],
+        "title": "Forever Friends: Always and Forever", "type": "Album"}, {"artists":
+        [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}],
+        "id": "1f0da2c5-9448-3cdb-a206-52d525cd6c43", "secondarytypes": ["Compilation"],
+        "title": "\u00e5t\u00f6mstr\u00f6m: The Great R\u00f6ck''n''R\u00f6ll Svendle,
+        Part One", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "1e710567-ecf8-3978-b8d2-007af07dd9d1",
+        "secondarytypes": ["Compilation"], "title": "The Number One Acoustic Rock
+        Album", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "02c471dc-d0d7-3305-8851-ab085c16fe6d",
+        "secondarytypes": ["Compilation"], "title": "Something for the Weekend", "type":
+        "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name":
+        "Various Artists"}], "id": "5a14cfe0-c446-3f54-9c67-9b3d87e11ec6", "secondarytypes":
+        ["Soundtrack"], "title": "Cold Feet", "type": "Album"}, {"artists": [{"id":
+        "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}], "id":
+        "4a774338-c5ee-47bf-bbf0-3ac86989f88b", "secondarytypes": ["Compilation"],
+        "title": "New Woman", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "7fcbf4f6-a14c-30db-884f-ee3f0fe29815",
+        "secondarytypes": ["Compilation"], "title": "School Disco.com: Summer Holiday",
+        "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "5a6ea286-366e-47a4-a114-d998932f816a",
+        "secondarytypes": ["Compilation"], "title": "Love & Affection", "type": "Album"},
+        {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various
+        Artists"}], "id": "8d670654-7df1-4c42-b6e7-c78b0a264c2f", "secondarytypes":
+        ["Compilation"], "title": "Indie Cool", "type": "Album"}, {"artists": [{"id":
+        "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}], "id":
+        "fcf266ba-3274-4c63-b7ff-be05355f4eb6", "secondarytypes": ["Compilation"],
+        "title": "Pure\u2026 90s", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "135dfb7f-b3fa-49f1-8076-5c20e185fe8b",
+        "secondarytypes": ["Compilation"], "title": "Livet e en fest : 90-tal", "type":
+        "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name":
+        "Various Artists"}], "id": "4a50387d-386e-4f90-bcee-907a64dc434f", "secondarytypes":
+        ["Soundtrack"], "title": "The Essential Movies", "type": "Album"}], "title":
+        "You and Me Song"}], "score": 0.932226}], "status": "ok"}'
+    http_version:
+  recorded_at: Tue, 29 Jun 2021 21:24:30 GMT
+recorded_with: VCR 3.0.3

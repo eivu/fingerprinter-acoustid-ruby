@@ -1,0 +1,29 @@
+{
+  "results": [
+    {
+      "id": "47768df1-a270-41fe-b048-5bf286509282",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "42c14c80-bd17-47e4-9bb2-a35897638c4d",
+              "name": "The Orb"
+            }
+          ],
+          "duration": 905,
+          "id": "8ce48450-277f-4a71-ba14-d8db5d2f412d",
+          "releasegroups": [
+            {
+              "id": "27b682b2-dd29-3e15-8ef2-f6475f4d262f",
+              "title": "The Orb’s Adventures Beyond the Ultraworld",
+              "type": "Album"
+            }
+          ],
+          "title": "Spanish Castles in Space"
+        }
+      ],
+      "score": 0.978603
+    }
+  ],
+  "status": "ok"
+}

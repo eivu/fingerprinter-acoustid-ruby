@@ -1,0 +1,85 @@
+{
+  "results": [
+    {
+      "id": "33d56e3d-a4b6-4841-8207-3d407045e603",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "1fe697e9-f432-4953-94e3-555f2decc171",
+              "joinphrase": ", ",
+              "name": "Mozzy"
+            },
+            {
+              "id": "768a27db-eebb-4159-b6ce-e636f499e858",
+              "joinphrase": " & ",
+              "name": "Sjava"
+            },
+            {
+              "id": "20909d50-d1c6-4b7a-bab5-ee58a106db22",
+              "name": "Reason"
+            }
+          ],
+          "duration": 242,
+          "id": "93777cfe-6922-4c0a-98bd-675ddb40d671",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "381086ea-f511-4aba-bdf9-71c753dc5077",
+                  "name": "Kendrick Lamar"
+                }
+              ],
+              "id": "4e317e28-e6b2-46d7-81f7-306e349b3dd4",
+              "secondarytypes": [
+                "Soundtrack"
+              ],
+              "title": "Black Panther: The Album (Music From and Inspired By)",
+              "type": "Album"
+            }
+          ],
+          "title": "Seasons"
+        },
+        {
+          "artists": [
+            {
+              "id": "1fe697e9-f432-4953-94e3-555f2decc171",
+              "joinphrase": ", ",
+              "name": "Mozzy"
+            },
+            {
+              "id": "768a27db-eebb-4159-b6ce-e636f499e858",
+              "joinphrase": " & ",
+              "name": "Sjava"
+            },
+            {
+              "id": "20909d50-d1c6-4b7a-bab5-ee58a106db22",
+              "name": "Reason"
+            }
+          ],
+          "duration": 242,
+          "id": "e8465142-fdfd-4c49-91ae-ad901431ba3d",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "381086ea-f511-4aba-bdf9-71c753dc5077",
+                  "name": "Kendrick Lamar"
+                }
+              ],
+              "id": "4e317e28-e6b2-46d7-81f7-306e349b3dd4",
+              "secondarytypes": [
+                "Soundtrack"
+              ],
+              "title": "Black Panther: The Album (Music From and Inspired By)",
+              "type": "Album"
+            }
+          ],
+          "title": "Seasons"
+        }
+      ],
+      "score": 0.990309
+    }
+  ],
+  "status": "ok"
+}

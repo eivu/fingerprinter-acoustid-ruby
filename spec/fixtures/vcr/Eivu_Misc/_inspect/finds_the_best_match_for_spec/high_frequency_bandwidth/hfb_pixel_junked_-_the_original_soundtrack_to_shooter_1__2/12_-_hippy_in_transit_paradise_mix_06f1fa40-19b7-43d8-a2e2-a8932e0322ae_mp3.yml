@@ -1,0 +1,55 @@
+---
+http_interactions:
+- request:
+    method: get
+    uri: https://api.acoustid.org/v2/lookup?client=<ACOUSTID_CLIENT_ID>&duration=337&fingerprint=AQADtBmXRGmSEC-hKzlC6jgc5-iP-8YZfPhxpcXnoLLR4NUz_Mf74HjQjDRqBTnaCc0uPM6DO4eOUNnx5nCHnsdPHM3RfMf1J_iFZlJz9DauDWV2PJj04T5-UE1xScFvPDvyw_WRtFMwPScsH5dx-viL6-HwsCrsHMl9I5RxL8ctHc8j46_wBDuuQ0qOSQ_uR8J5nCni5TO0IwzZ4touPPbQJ58R50im63jgZcf14rmC5_gN487x-rg-VE4nNMmboWwl4fhznDiPP0FyBjHxOMLG5QV7B9Nz4_iPw6mGhwkOh9zx6LiO5kHJDM90472K6_BPXMejPHjyCQ7f4ydw5Eiu4cyFf0JFa_iHOzhS3sGDj3hn9BeOLREJTsyxX4EWh5vQL_jxHC-0JxfEbyN8lEfcCP3R_MiPRkQyKzka7qicRDiBf8dJfBSaykfVII-iQn5E5HqxL8YDJjumLQ1-BeFziB-OLcnBMDzq9xAbHZFODj-L3xFxSR_yJTwa_hFKHj9eNNIInUx1OA76Chfx7NA77EOeDxyVUgi5DNNyaEdKNccPPy5-3Cl6HOGYDOKLsFl0HH0HZyQuHr9jTKLAPGEQ5sQeH7qO_EnQRyfC5A9-aJpyODryHm-LNN9xQj9ipUGXY888nA_6Gj_Ow26I40fXLwVHZTLxRkUu0kG_QMunQ_vRMItSfMV4yH4QN1eCXoEros_x4w3KBz_SPNBF4Rt-_Lsh4s5xKUeeq-h7nMKXHJVyLrDmHNWP4wl6SghzhtClGN9-PMyhJX9RkjnOodnjQDvyBdWzUHiy8PhRPhN-_PCPWyr-C-PDIPuCif7wHG7CQ02a415ipEcv_HhyhEcTPE1wJdCL_BkeUcSjo_9h9FnwC1fwHE9nfMcjYpII6j_m5vjooTxq486OOESyS_iP_3iP5tqDktFx_BreI0xSGsmYKIuLHx_cj8F3fMnhJ8FzYQ4f_DhsHA8xnxmaRBJ3lBLyInmPc3pw0kOjZgv6GGViE01ExsjzQCeRKw_KZMkp-Mb8CM7BPFKISZKiSUeyHHmOH6ePM8eVHX8R5is0Owhz7ELzFq9UYZ-A8niMykSfEs0zrC9e_cBl8DvO4-IeXAxyQWE2pDmP51JwPcGDZpTQ4yz69-gfXLJwdP_h_MiP89DOxwiq7Wim_3guXAiTNiw0izfy5DguXEnY4JKyHM2P5Ej3DXPGNHiW49yLHz_8YOfhLUGZ8_guvHlQsyGmPAt-gntQB9aUHGUcKxj1BJVLhGkKecefoVn4BOUT7DpeyE0-MOQzNNnxdMYTJg8umQHzHEyuEMez480TPF0MKaLKw4-OPkepC83yoM8K1wm8BQ-fQKcp-IOXIhKPo1b2EU2YBl1oH0-PK8ZLhJsPlfmQ54KjPtiF49MRUpG-QZqyB_7B8HjyDk8d-DjmH89yjF4eQZ7KoMmjY_qRn8LE6DmaKkcuhQUrZUf7JBC3BHk53EWzdA4qMUejqQxeVBQ9NCuezsGPJtwRKouUI_nxXPD64EF1fNGH6xvivfBuaMweXAmTBbzmBH6OXDlOHnmiHFeaoPKOJvFwndB_PDoD9xL4B818PMuhrNqRT0Spm8Ez4jv6o3lV_EfILMf1DedM9EeuHT8ePeiNpiOuIxdP6NGV4IuFMHpQJlU1XJQc7EmO9JBOjEr0CGfy4OTRC43zQD2eo9RziFeOPsmRH3M-4cxRmSki5ZD740GvFKWaCnf24FIkeMPPQs_RbBl-uMR7OMdz_DJcFQ--JNClH2HyZBOOHyUpoalzIBeEPTr-41EWCux_VEeT_HhSU3gQPjMaP3gR5gxqJTicHGeOS7lwJUf4HtbxHuWSZQyeHE-Rh2h0olRyQ1bsBP8klFyRScrmoVx-3Db6RWjyGk9s4ZuHUG4h8cgPXtnxJ3gOV9rRZbsCUnmIi3nR_0h7SE2S7MG5G7qGJ8MzHWweVFpdhPeRySc0S8J_tPsCtzEaM_Hxjmh-VLrw_KhVBs2SFD-hP_BDHBcPOklK4Ymoo3kn9ArycziPRw9KKaNw5oPHb2iXI7l0hI8Mv5rg5RdKRhd-ZJE1iGrgfUK8PzG8F6GOQ66ORsmyBr-Oxsepo2TQ8PgHzdIYNExq4Uevo3mPg2WOK9GVoFtqONehPcOPUiQVPDqeSCxcdehp4eEFjYw1uIf3gpEijglyo_nQG__BZBkbMPR89F-RxoTmfnj4BSWPOz76urj0w1wO_XiMSkrYDM2SCz_6I8wL_sO1K7iStEKovPBl9MrxE9dVXDzmhhP69GjGzMP1ICRz2HXxHGHGHFfQnNB-_Mg5PEf1XEjFZMINPcgPv8aBb7gopOHoIDkOvxip7LCzg5ky7MiPN1fwQ6gO_RaOIx364ydxDs9R3gjz4BdUXmh-PIEjG58Q5riS4zFRw1-O9oh9XDzuREfrY0oPXTy0xMenHD6HuPCYUQcjojuaLD6uKMILdzro4jvC5EH3GKpzxMe0vcQdHuY0lDdxfEV_5Dx6lOTRlA90hTgxRVqGkGQcOOeKH3xyuGlwKeOR77h6VD2aMciVWWjD5bAYfigm_fgJP8Kncjh5JHyO_PCPPjneHtWFHjNzfBsy7cfFFMqTo3_wiUdfaFmjox-uRMf5QouaqcW-BPGPE2UW3JnAJzuuZ2BSHtXx40ezLik68FFFACIUs0oYgZAS4DiAhDKAsWoBMABBAKQASLiBEAHAMAMIFlMgIJIDxEBhBFBUEIaAYYwIgYCAgBBCFERGIMEIQUUgIYRATBGACBNMIKQAEgoZ4JhB0BhAhBIMCaKVAMwwiYhAggklFCAEKEAcgicRYpAwgAnEiDGECkMYoU4JAZAiBmCAkWIGCeIME04gIhwxhDBnAECGACOIEIAQAwABQCLHkBaOWMQQMEApBgBlwAgDgFEMCAAMUEIqiIQAAiEnDWDAAaYQAEUJoYQCRBpjBBEDEa0sRMIAIAwhhBGgOBFAACSbAAAgIIARwgihAHAGCMSYEQgIhAwVBgsBwEAEIQuYpcAgIwwQVCGECAMAGEEMAVAgIQgAhgBAIBIAEUeCosghIQgoyJIhhJAEIKAEcoAAZAAgwjsIhHAIAie4gQR4KrACgCCjHCDACECUcIACIwAADFggBBFCIiSAAQAwgIRyIggACKQCAACYpAIJQwQTSgCGIHUOQAKUAAIxaQQRhFDCiABECMAUE8YAQJgAhDgmnGCEeaGAQcgQgIQkghAAhGDCIIEUUYYqRUCBAjHCCDUCEeIEIwBAhwgRBBIGgAQEGCcMsQABgoxQihlhgBDIKEAEQYoZgQBBFAiHuCJCAKMsYQoQRIRihhgkADMAMCAQMYIQyhxx3iAAjADYaWQQEAQIgIFQVCAFJGUCIMAYEYkQBRZlhCCBiCBEIAYIcYQBRABRQABADGdAQSYAAIgIJKwjABDjAICAAQCIUggRxAQhABEAAGAEAeAQNQQIBQyDhEACACELCOIEU0QxQYwigAgAkACCEGGQAEQBBRxVUhACECAEGEAgU0QYoIBRliJilLAOKAqEwMoAAYVBKgBgmiSCKkCAckAhYZxEhAmmhEIACSWEw4IAwTgwRhgGrIAKOGAoMgAoIRVhxiBCBFBMEUUEMUQgYwAwBiACoGFMAiMIA0JTIwQiSiCEMCDEAGiEIEgARBRWiDIB&meta=recordings%20releasegroups%20compress
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      Accept:
+      - "*/*"
+      User-Agent:
+      - rest-client/2.1.0 (darwin20.3.0 x86_64) ruby/2.7.1p83
+      Accept-Encoding:
+      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+      Host:
+      - api.acoustid.org
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Date:
+      - Tue, 29 Jun 2021 21:20:35 GMT
+      Content-Type:
+      - application/json; charset=UTF-8
+      Transfer-Encoding:
+      - chunked
+      Connection:
+      - keep-alive
+      Vary:
+      - Accept-Encoding
+      Access-Control-Allow-Origin:
+      - "*"
+      X-Envoy-Upstream-Service-Time:
+      - '102'
+      X-Envoy-Decorator-Operation:
+      - acoustid-server-api.acoustid.svc.cluster.local:3031/*
+      Strict-Transport-Security:
+      - max-age=15724800; includeSubDomains
+    body:
+      encoding: ASCII-8BIT
+      string: '{"results": [{"id": "6e36430d-0168-426b-a989-597d98b7ce05", "recordings":
+        [{"artists": [{"id": "9ddfc28e-9869-429e-8200-567dcf5ef008", "name": "High
+        Frequency Bandwidth"}], "duration": 337, "id": "cc32b73f-3ab0-46c6-a060-5040dbbeb601",
+        "releasegroups": [{"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "4a9ae90e-1488-482f-937a-8578d09c8bfc",
+        "secondarytypes": ["Compilation", "Soundtrack"], "title": "Vocal Pack", "type":
+        "Album"}, {"id": "6e99b843-94e4-4ead-aa69-4ef2c29b63f2", "secondarytypes":
+        ["Soundtrack"], "title": "HFB: PixelJunked - The Original Soundtrack to Shooter
+        1 + 2", "type": "Album"}], "title": "Hippy in Transit (Paradise mix)"}], "score":
+        0.938093}], "status": "ok"}'
+    http_version:
+  recorded_at: Tue, 29 Jun 2021 21:20:35 GMT
+recorded_with: VCR 3.0.3

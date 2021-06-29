@@ -1,0 +1,29 @@
+{
+  "results": [
+    {
+      "id": "cb040251-5105-4050-b546-af9d766b0e77",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "fc7376fe-1a6f-4414-b4a7-83f50ed59c92",
+              "name": "Flying Lotus"
+            }
+          ],
+          "duration": 67,
+          "id": "ce179d28-1657-4514-b69a-7d7278ba7217",
+          "releasegroups": [
+            {
+              "id": "eb9e0983-2478-4494-a8e2-e4117c2ba40f",
+              "title": "Until the Quiet Comes",
+              "type": "Album"
+            }
+          ],
+          "title": "Until the Colours Come"
+        }
+      ],
+      "score": 0.979286
+    }
+  ],
+  "status": "ok"
+}

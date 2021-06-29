@@ -1,0 +1,29 @@
+{
+  "results": [
+    {
+      "id": "dbc23ef9-8439-4273-9cd7-fd96825e5f57",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "d20cbbbb-7359-47eb-b724-a17274989b42",
+              "name": "Braille"
+            }
+          ],
+          "duration": 334,
+          "id": "f2ba7d68-4e19-44ec-a543-00a9371d9fac",
+          "releasegroups": [
+            {
+              "id": "02deedd2-3874-4db0-bd23-110019cdcfb2",
+              "title": "A Meaning",
+              "type": "EP"
+            }
+          ],
+          "title": "A Meaning"
+        }
+      ],
+      "score": 0.983692
+    }
+  ],
+  "status": "ok"
+}

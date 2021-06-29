@@ -21,7 +21,7 @@ http_interactions:
       message: OK
     headers:
       Date:
-      - Tue, 29 Jun 2021 13:48:06 GMT
+      - Tue, 29 Jun 2021 21:23:56 GMT
       Content-Type:
       - application/json; charset=UTF-8
       Transfer-Encoding:
@@ -33,9 +33,7 @@ http_interactions:
       Access-Control-Allow-Origin:
       - "*"
       X-Envoy-Upstream-Service-Time:
-      - '230'
-      X-Envoy-Decorator-Operation:
-      - acoustid-server-api.acoustid.svc.cluster.local:3031/*
+      - '409'
       Strict-Transport-Security:
       - max-age=15724800; includeSubDomains
     body:
@@ -1478,5 +1476,5 @@ http_interactions:
         6", "type": "Album"}], "title": "I Want You Back"}], "score": 0.955235}],
         "status": "ok"}'
     http_version:
-  recorded_at: Tue, 29 Jun 2021 13:48:07 GMT
+  recorded_at: Tue, 29 Jun 2021 21:23:56 GMT
 recorded_with: VCR 3.0.3

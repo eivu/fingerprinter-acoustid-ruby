@@ -1,0 +1,29 @@
+{
+  "results": [
+    {
+      "id": "3ad15c13-3b3f-467d-93c3-0fc21162b648",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "57843aed-c1c1-4f45-9859-478dd999bc18",
+              "name": "School of Seven Bells"
+            }
+          ],
+          "duration": 279,
+          "id": "3c213815-9888-4ea7-8007-7f36829362de",
+          "releasegroups": [
+            {
+              "id": "8a2d9685-b7df-4aa7-9e07-39b7efe63ea2",
+              "title": "Disconnect From Desire",
+              "type": "Album"
+            }
+          ],
+          "title": "I L U"
+        }
+      ],
+      "score": 0.983518
+    }
+  ],
+  "status": "ok"
+}

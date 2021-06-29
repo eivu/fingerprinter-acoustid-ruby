@@ -1,0 +1,426 @@
+{
+  "results": [
+    {
+      "id": "8e33ee22-d1c1-47d6-8b45-aa5431c0dad3",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "4863c533-61cd-4287-93a1-3157732ecfd5",
+              "name": "Álvaro Soler"
+            }
+          ],
+          "duration": 213,
+          "id": "3304a35a-f215-4247-84c5-4454e4e3d431",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "7094a869-8203-4543-8b4f-e209429ccc3e",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Hot Party Winter 2019",
+              "type": "Album"
+            }
+          ],
+          "title": "Ella"
+        },
+        {
+          "artists": [
+            {
+              "id": "c8b03190-306c-4120-bb0b-6f2ebfc06ea9",
+              "joinphrase": " & ",
+              "name": "The Weeknd"
+            },
+            {
+              "id": "381086ea-f511-4aba-bdf9-71c753dc5077",
+              "name": "Kendrick Lamar"
+            }
+          ],
+          "duration": 212,
+          "id": "4b4f65c2-232d-4777-ab60-7a6be99baaf4",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "35cce0c7-7042-40a1-a57a-e013eabc08f0",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "So Fresh: The Hits of Summer 2019 + The Best of 2018",
+              "type": "Album"
+            }
+          ],
+          "title": "Pray for Me"
+        },
+        {
+          "artists": [
+            {
+              "id": "c8b03190-306c-4120-bb0b-6f2ebfc06ea9",
+              "joinphrase": " with ",
+              "name": "The Weeknd"
+            },
+            {
+              "id": "381086ea-f511-4aba-bdf9-71c753dc5077",
+              "name": "Kendrick Lamar"
+            }
+          ],
+          "duration": 213,
+          "id": "726d8e9b-7d8b-48eb-9c2f-d9bc21548879",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "c8b03190-306c-4120-bb0b-6f2ebfc06ea9",
+                  "name": "The Weeknd"
+                }
+              ],
+              "id": "f60c961a-b4c8-4e01-831c-51a0dfa55188",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "The Highlights",
+              "type": "Album"
+            }
+          ],
+          "title": "Pray for Me"
+        },
+        {
+          "artists": [
+            {
+              "id": "c8b03190-306c-4120-bb0b-6f2ebfc06ea9",
+              "joinphrase": " & ",
+              "name": "The Weeknd"
+            },
+            {
+              "id": "381086ea-f511-4aba-bdf9-71c753dc5077",
+              "name": "Kendrick Lamar"
+            }
+          ],
+          "duration": 211,
+          "id": "901b2b5e-b925-48ff-85a7-0053024edbbb",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "c8b03190-306c-4120-bb0b-6f2ebfc06ea9",
+                  "name": "The Weeknd"
+                }
+              ],
+              "id": "f60c961a-b4c8-4e01-831c-51a0dfa55188",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "The Highlights",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "381086ea-f511-4aba-bdf9-71c753dc5077",
+                  "name": "Kendrick Lamar"
+                }
+              ],
+              "id": "4e317e28-e6b2-46d7-81f7-306e349b3dd4",
+              "secondarytypes": [
+                "Soundtrack"
+              ],
+              "title": "Black Panther: The Album (Music From and Inspired By)",
+              "type": "Album"
+            },
+            {
+              "id": "1db069f4-4e1f-486e-9637-1cdff704e87d",
+              "secondarytypes": [
+                "Soundtrack"
+              ],
+              "title": "Pray for Me",
+              "type": "Single"
+            }
+          ],
+          "title": "Pray for Me"
+        },
+        {
+          "artists": [
+            {
+              "id": "c8b03190-306c-4120-bb0b-6f2ebfc06ea9",
+              "joinphrase": " & ",
+              "name": "The Weeknd"
+            },
+            {
+              "id": "381086ea-f511-4aba-bdf9-71c753dc5077",
+              "name": "Kendrick Lamar"
+            }
+          ],
+          "duration": 211,
+          "id": "95195a73-fddb-4b76-83e3-dc762d48821d",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "e62ae151-df1a-4ace-b78d-8ea108ed8a6e",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "NRJ Music Awards: 20th Edition",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "f9ec8a7e-6ff3-4988-a61b-96083040c2b7",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Bravo: The Hits 2018",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "c8b03190-306c-4120-bb0b-6f2ebfc06ea9",
+                  "name": "The Weeknd"
+                }
+              ],
+              "id": "f60c961a-b4c8-4e01-831c-51a0dfa55188",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "The Highlights",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "bd74c067-7984-456b-b30d-62597a9b8437",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "MNM Big Hits: Best of 2018",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "8b9b636f-7c3d-41a7-9af6-3aaf53f69170",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Now That’s What I Call Music! 101",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "1953b0f8-48da-4a9f-a6ad-e643d9dcb9b2",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "538: Hitzone: Best of 2018",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "381086ea-f511-4aba-bdf9-71c753dc5077",
+                  "name": "Kendrick Lamar"
+                }
+              ],
+              "id": "4e317e28-e6b2-46d7-81f7-306e349b3dd4",
+              "secondarytypes": [
+                "Soundtrack"
+              ],
+              "title": "Black Panther: The Album (Music From and Inspired By)",
+              "type": "Album"
+            }
+          ],
+          "title": "Pray for Me"
+        },
+        {
+          "artists": [
+            {
+              "id": "381086ea-f511-4aba-bdf9-71c753dc5077",
+              "joinphrase": ", ",
+              "name": "Kendrick Lamar"
+            },
+            {
+              "id": "c8b03190-306c-4120-bb0b-6f2ebfc06ea9",
+              "name": "The Weeknd"
+            }
+          ],
+          "duration": 211,
+          "id": "aa177aab-e441-404d-a314-1a15c6381053",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "14b7180e-530a-4fe2-8766-4cbe94e60b95",
+              "title": "Drippin’ In Sauce",
+              "type": "Album"
+            }
+          ],
+          "title": "Pray For Me"
+        },
+        {
+          "id": "ddb4cea0-25c1-4896-ad49-b5607aa6478e"
+        }
+      ],
+      "score": 0.985055
+    },
+    {
+      "id": "8dafa48b-ec34-48d1-938f-9721db59b12b",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "c8b03190-306c-4120-bb0b-6f2ebfc06ea9",
+              "joinphrase": " & ",
+              "name": "The Weeknd"
+            },
+            {
+              "id": "381086ea-f511-4aba-bdf9-71c753dc5077",
+              "name": "Kendrick Lamar"
+            }
+          ],
+          "duration": 211,
+          "id": "95195a73-fddb-4b76-83e3-dc762d48821d",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "e62ae151-df1a-4ace-b78d-8ea108ed8a6e",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "NRJ Music Awards: 20th Edition",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "f9ec8a7e-6ff3-4988-a61b-96083040c2b7",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Bravo: The Hits 2018",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "c8b03190-306c-4120-bb0b-6f2ebfc06ea9",
+                  "name": "The Weeknd"
+                }
+              ],
+              "id": "f60c961a-b4c8-4e01-831c-51a0dfa55188",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "The Highlights",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "bd74c067-7984-456b-b30d-62597a9b8437",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "MNM Big Hits: Best of 2018",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "8b9b636f-7c3d-41a7-9af6-3aaf53f69170",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Now That’s What I Call Music! 101",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "1953b0f8-48da-4a9f-a6ad-e643d9dcb9b2",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "538: Hitzone: Best of 2018",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "381086ea-f511-4aba-bdf9-71c753dc5077",
+                  "name": "Kendrick Lamar"
+                }
+              ],
+              "id": "4e317e28-e6b2-46d7-81f7-306e349b3dd4",
+              "secondarytypes": [
+                "Soundtrack"
+              ],
+              "title": "Black Panther: The Album (Music From and Inspired By)",
+              "type": "Album"
+            }
+          ],
+          "title": "Pray for Me"
+        }
+      ],
+      "score": 0.89904
+    }
+  ],
+  "status": "ok"
+}

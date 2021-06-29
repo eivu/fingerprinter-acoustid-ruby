@@ -1,0 +1,29 @@
+{
+  "results": [
+    {
+      "id": "4c75a58d-d8d0-40c0-a965-2779f3d2687c",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "3c3d3ad8-3935-4c00-affb-768563916f36",
+              "name": "Fluke"
+            }
+          ],
+          "duration": 489,
+          "id": "1540bb7a-7494-48cc-a6e5-f09d1c472f06",
+          "releasegroups": [
+            {
+              "id": "50615933-ee44-33a2-b6e1-75f9dd35b937",
+              "title": "Risotto",
+              "type": "Album"
+            }
+          ],
+          "title": "Amp"
+        }
+      ],
+      "score": 0.967098
+    }
+  ],
+  "status": "ok"
+}

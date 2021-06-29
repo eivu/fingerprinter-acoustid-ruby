@@ -21,7 +21,7 @@ http_interactions:
       message: OK
     headers:
       Date:
-      - Tue, 29 Jun 2021 13:48:25 GMT
+      - Tue, 29 Jun 2021 21:24:12 GMT
       Content-Type:
       - application/json; charset=UTF-8
       Content-Length:
@@ -31,14 +31,12 @@ http_interactions:
       Access-Control-Allow-Origin:
       - "*"
       X-Envoy-Upstream-Service-Time:
-      - '71'
-      X-Envoy-Decorator-Operation:
-      - acoustid-server-api.acoustid.svc.cluster.local:3031/*
+      - '104'
       Strict-Transport-Security:
       - max-age=15724800; includeSubDomains
     body:
       encoding: UTF-8
       string: '{"results": [], "status": "ok"}'
     http_version:
-  recorded_at: Tue, 29 Jun 2021 13:48:25 GMT
+  recorded_at: Tue, 29 Jun 2021 21:24:12 GMT
 recorded_with: VCR 3.0.3

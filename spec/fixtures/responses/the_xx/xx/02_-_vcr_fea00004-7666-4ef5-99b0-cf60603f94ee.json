@@ -1,0 +1,136 @@
+{
+  "results": [
+    {
+      "id": "15ac17dc-6f36-40d9-a2d4-4bf56836ca70",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "c5c2ea1c-4bde-4f4d-bd0b-47b200bf99d6",
+              "name": "The xx"
+            }
+          ],
+          "duration": 177,
+          "id": "57b5c897-cf7d-4a73-b38d-6d5d83c298c8",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "c5c2ea1c-4bde-4f4d-bd0b-47b200bf99d6",
+                  "name": "The xx"
+                }
+              ],
+              "id": "23355caf-a543-4b5f-80fe-449101868fc1",
+              "title": "xx",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "20007d0b-3438-4b7d-9a97-b404e43d122c",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Chillsville: Population You",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "cbd42590-6948-4b54-bb45-72e866240c98",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Matuschkes Lieblinge",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "e7985841-5137-430f-a497-4d8e85acb6d3",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "England: The Nü Sounds Of British Music",
+              "type": "Album"
+            },
+            {
+              "id": "3965cdf6-ca90-48ba-8703-85b23105998e",
+              "title": "VCR",
+              "type": "Single"
+            }
+          ],
+          "title": "VCR"
+        },
+        {
+          "artists": [
+            {
+              "id": "7bb2067c-ec6a-4e9c-8336-ab475d4f4984",
+              "name": "Company Flow"
+            }
+          ],
+          "duration": 344,
+          "id": "b2fe4577-48e8-465c-8713-c3036010bad7",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "084e06f5-3c82-4b71-bd94-dd69e7bd515e",
+                  "name": "DJ Premier"
+                }
+              ],
+              "id": "5fb6b89f-2435-3946-8988-d18c91415acb",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Haze Presents....... New York Reality Check 101",
+              "type": "Album"
+            }
+          ],
+          "title": "8 Steps to Perfection"
+        },
+        {
+          "artists": [
+            {
+              "id": "c5c2ea1c-4bde-4f4d-bd0b-47b200bf99d6",
+              "name": "The xx"
+            }
+          ],
+          "duration": 179,
+          "id": "b56cad58-0a50-4f25-b4df-d3c85709db39",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "95709e8a-4800-4122-b783-4f49d80d09e1",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Save It for a Rainy Day",
+              "type": "Album"
+            }
+          ],
+          "title": "VCR"
+        }
+      ],
+      "score": 0.997163
+    }
+  ],
+  "status": "ok"
+}

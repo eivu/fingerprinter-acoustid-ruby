@@ -1,0 +1,29 @@
+{
+  "results": [
+    {
+      "id": "17a8dbfe-9ada-460b-9f59-46a86ee7c2ea",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "2a5d430f-cb26-422a-a150-41dc4af15bf9",
+              "name": "April + Vista"
+            }
+          ],
+          "duration": 54,
+          "id": "7188685d-4188-4692-818f-1a1fd302cfd8",
+          "releasegroups": [
+            {
+              "id": "d4669101-ccf6-422b-92b0-a67ae936381a",
+              "title": "You Are Here",
+              "type": "Album"
+            }
+          ],
+          "title": "Little Things"
+        }
+      ],
+      "score": 0.998037
+    }
+  ],
+  "status": "ok"
+}

@@ -1,0 +1,58 @@
+---
+http_interactions:
+- request:
+    method: get
+    uri: https://api.acoustid.org/v2/lookup?client=<ACOUSTID_CLIENT_ID>&duration=571&fingerprint=AQADtImSJNqYJJpwHZuHDh-ObypqpfDxC4-END5c9MaPNz-aq-gvnDx6wkd4qDwQPjoOf2gzhDv8QxOPkyhX_Hjg_Ahw-DzeEz_yEoa46-iPZ5vRHS_8mNAF-HhziMOFH4d65DhFGN_xW8MVHT6uHkl9pB8X9McjBfdRLuHhH_khHelz_InQrDty_dC4rbjz4JxwpJfBcLVwHnlwPajFEf7B49LQWPPwVkR_aAnFCHzeIv9wYerqwE0ioyK68IKfGNUfnB-u6MjR7EefHnp0XEKkXCgRLwq68IPzDKW2Q9-LfMvRHO3x6fiD6kOqC5WTQz_u40yhN_rwIyTCHN-hXeCRTzjIb0R_xDuSiOLhNEW9Cxe6_GiyLFpafMmN0HwgnsGv4Dy-R5hLQ88D6xdyGu4xVcfR3oGV9QhFXA20E01NIh-PR8f9oXoMa0afI99QHr4uKDsHI-bxU6Ds4w6YPzh66XA2Hu-DUN8J7Ucmi8eF54XRT8eR42fRHz6R7fhX_PD0HD9n_Ei7zNAYFTGno-eC5jhLXBGd4NqFMKiVKIMuCr_wXUItwmSgHz_6rth71IuE7xCZ48s0-DmeFdZo6MmJPfDPBOEZgq6Kv3hyTKlFVI-D4zoxRzmS5QsRfsfxCv_BJUfLI92Hhyv0eDC0H71cNNduPI0axFpk4QeTXejTos94MClCttDybUEeabikHCdlvMcvGqfQVFxUlFOE_0j2I00OhwO7FI8zNNQu43pU_MjK_FB3IZJypUEz9biCH--Fm8f1IGbGHsmlHM2DslSDJ_kxoj-FTI0kIbkSeEeZhWrwxLh0uDm-4mKiLEg2XUaYCPwXnEly3B7-4MpylASTE0944RzxxkMYacXEQz2a41yEZgtO40fDzcj54V3x6vCOzzj84x4mGvGM5MwydDeaHB8H5kGZSfiE7B-qH1pOLjiurhG-49Dq41Rg_YjFHt-O8LiFCzqP60eXKOvhs-gr4fjRechZ6vjSw_rR_uBqtJyFHz7RR8gDXVqH-AqaH92J-7iO78hFSLGIZsdffD3aC_p0nLgZiF-OSA9uPXiGH5GiHT2Pa6YErZN0XMenUaieQsfzoAl3ouWKfzijo7F0ZPnxlKiOH_6KXkat5YGPUM6hRWE5VJbwfWA-PMXJw_7A1OXwQCOl6Gi2EPlRL4KzG7V24cmRT0d7SBqP6kV-CseP_Qib5_iJY-R23Phxw4-OH_HxisgOWxc05HKHSzsqH-4xS0h_aD8qnfDR_Ti0HuZ69MfRnOh14cqLntDyGe-OP0ATL8eDT_B5nDgfWD92XIuO44dIUviJU8Px4kaoG4V_3At-vD3iDz2PnoJ49EGO_oIPRk0yVHCVIzy0F66M9B3e8MKP44F_vAxOjug0ojqafTjRHwmtC6H04zquHhcaHz2J_JB-I95ydIXjDEeuB36gPUX4g0fz407Ro3FyxDy0t0jfwsXN4-zxHYePcdVxcWhHVBeaD-9hNTsu4j--7Gjso8-Oo8_RZEt0XNmFIxSlQUucHfmO49XxFM2lo8ePR_6QPjLOGEcLuzH0XaiCI2jO4zwa4zuaH8V3hH-hejme5rgOkaORHu3xGs15oWqS4z5-IUyVBZoo5Hrx4zpK72hGHP-LKroQ5tGJMzi0HnZjovqOH-iRqslg9Oh-IsxrfDj6B-J3PGmO5DhzNA--H2eORj_65Him40ayVNkRdrhxHeMnomeORhF7fMmLVyXS60jy4kczzcGn2EMeUflwVD9-VB987fD0o__QkEef44X24FL44FtU6NKRB1dO9LfwPUbjWujy4OLxf_gmBQmfIR5-zFLO4KHRPB9K4gqPq8eUau8QPvji4rgOTY8uNHp2nDh68kidnEjjG70I7Wi648QlFtV1iAmR54dPCT0OW6xx_KgGjxKSnRdyYsdz0FHwhkYzFv2kZvhM46geIeeHN9DP4WkRS8rho89OPMZTg5N8_MFH_ImE8NkHV0dtCqNtxGGEP2qH5kc_CY1Do8-CF6gWpCOh80OkSzh-kFsuvB9KMjmaMTGOX0ePXMkJ7UdIOSea53hx7RFGJxdm6aiawDteBtl6BheP40T_CTElYQylJIvRHG1d_Ggcos9yYb-wo0FIZjl08YiPB7uS4-LRJx8ixSGJi8H5FdX4oHl2nGiVID3y486hretxhDvuHD2O5gh_qA36wOqHx8IZIfEPRwuNklmMU0SffGh-XAqFH-FbaKky5Lux73iOfsrwEWG-Y8cvaPMLp1rwQUf64dON-0L44BcO7UFPC_2HhuPxhMY1oj985fgRXjv6wOTRl3gyo5fQOHOGM8SP8GGhRSGRG9-xJxb6MNg-oj8-_EGYR_gvHD-e5RBdVD7yCPlJ9DnyIT9-aHEKPfjRZ_hu-C3CaclRNWhO48JzNPuHPlLxE_GhZeXR6Qj24xaFPstg84hEfOh-iORi_Bd0-MIX4oEm73gz_Ohz4vjx7YWWuPiyAyHAMlBIpgCgAggFFDDEQgeQAl5IRqxQAJEhhGJAAECAYQQREJjSQmIwgCJEGYQEEUYIQwQxTmhAhBAAEGAcA8YgKYhgQABEgECQAAOQIJAIoQQSiBoDDCBAcWIgQMQBYwwDgEnniDAGAAEUIZIRQgQAgEgDFCBKCMQEgEQYY4gxwBgFhASMAEMMJUIIAAADwhlGBFIGCCKAAAoBAACBQBAiACESEAMIAMIAIp0zggnEgSAEIGdMMUgoICYQTFKnoDAACGCcAAIhohQQDBiLBEDESEEAA0AAAAgohgAhgAAIAQCEIQgkIRkAxACCBAGAIQAItQBQIxgwQAlnEXCAUCYIMUgBAZQwBQAAEMFQIQSAIUIxBgVgAghgGAIUEQAEAIwwR5BjDAkGJHKAMAIIAEYIgBwhhghkmGLGCAWAZQIApRAAlAjEEBcCKAUgNMAASqRjAAAgCGSGIsIUMI4QBxQQhjEFhDCLEQOFAAIIwQBigAGAHAOEEEEQYM4AwRxSAFAgBBAKAEEFIsAiBYAgwCICjCEOCUSEgAB4QIQkQlEoAHCAKAKkUQgAIJgEFgllFDECMASMYgIwJZABFAFlgKEAaYCBEgwqIgFyAkCAjCEEAcMkhQwQYQgQgAGqiCGBGCYAgxAQIRQ3AChGDGBASEIsEIwQAwRSgCAQIBBAAEcAgwwBICghDAFgABAMEcKEAIAIiYAwAAiChCAACGgUAgIBBBgxxAFAAEFCGAY0YAgQRQjhIiRKhGICAsKgEUYIqAQnQDogCCBCCEoAoVKAJQQxTiiBECKGEyIIMIIIBpQQAjHRCNHGCyEgQMQJAQwwCACBDBLMUgAUIAUAbS4DQkhjGBMIKQeEAAogRoADBERhHBMMACQEZEIQJZQQSAgHBQNGKEGgEd4gAwQiYEgBEKKQMMAUIAJppphCFAhGgBCQEUEEUwIBZIggIBhglCFGHEGFANwpgIwA&meta=recordings%20releasegroups%20compress
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      Accept:
+      - "*/*"
+      User-Agent:
+      - rest-client/2.1.0 (darwin20.3.0 x86_64) ruby/2.7.1p83
+      Accept-Encoding:
+      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+      Host:
+      - api.acoustid.org
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Date:
+      - Tue, 29 Jun 2021 21:23:17 GMT
+      Content-Type:
+      - application/json; charset=UTF-8
+      Transfer-Encoding:
+      - chunked
+      Connection:
+      - keep-alive
+      Vary:
+      - Accept-Encoding
+      Access-Control-Allow-Origin:
+      - "*"
+      X-Envoy-Upstream-Service-Time:
+      - '97'
+      X-Envoy-Decorator-Operation:
+      - acoustid-server-api.acoustid.svc.cluster.local:3031/*
+      Strict-Transport-Security:
+      - max-age=15724800; includeSubDomains
+    body:
+      encoding: ASCII-8BIT
+      string: '{"results": [{"id": "ba611196-f1c1-4c21-adcb-f3e91d15d839", "recordings":
+        [{"artists": [{"id": "42c14c80-bd17-47e4-9bb2-a35897638c4d", "name": "The
+        Orb"}], "duration": 572, "id": "4575caf8-82ff-4564-9b06-3cb40f3983c1", "releasegroups":
+        [{"artists": [{"id": "42c14c80-bd17-47e4-9bb2-a35897638c4d", "name": "The
+        Orb"}], "id": "27b682b2-dd29-3e15-8ef2-f6475f4d262f", "title": "The Orb\u2019s
+        Adventures Beyond the Ultraworld", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "7032d3d6-c65c-320f-9375-fa0b2ae4f85a",
+        "secondarytypes": ["Compilation"], "title": "Lifestyle2: Chill Lounge 2",
+        "type": "Album"}], "title": "Perpetual Dawn"}, {"artists": [{"id": "42c14c80-bd17-47e4-9bb2-a35897638c4d",
+        "name": "The Orb"}], "duration": 228, "id": "5df8d32b-16cb-437c-9035-4ebb52472fa4",
+        "releasegroups": [{"id": "27b682b2-dd29-3e15-8ef2-f6475f4d262f", "title":
+        "The Orb\u2019s Adventures Beyond the Ultraworld", "type": "Album"}], "title":
+        "Perpetual Dawn"}], "score": 0.962223}], "status": "ok"}'
+    http_version:
+  recorded_at: Tue, 29 Jun 2021 21:23:17 GMT
+recorded_with: VCR 3.0.3

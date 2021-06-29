@@ -1,0 +1,28 @@
+{
+  "results": [
+    {
+      "id": "b78c9d1a-b51f-44ae-9155-3dc94173a6bf",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "4bc9e8c3-7eae-454f-a56c-bccf96f3926b",
+              "name": "Sammy Davis Jr."
+            }
+          ],
+          "duration": 135,
+          "id": "16720db1-8bb2-4a9d-890e-a00682fde15c",
+          "releasegroups": [
+            {
+              "id": "6fac76ed-b861-3519-9df3-04355946ec58",
+              "title": "At the Cocoanut Grove"
+            }
+          ],
+          "title": "Sammy Says Goodnight"
+        }
+      ],
+      "score": 0.998022
+    }
+  ],
+  "status": "ok"
+}

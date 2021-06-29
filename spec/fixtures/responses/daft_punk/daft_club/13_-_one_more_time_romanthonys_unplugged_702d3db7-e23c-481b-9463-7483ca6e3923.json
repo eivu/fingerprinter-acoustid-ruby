@@ -1,0 +1,89 @@
+{
+  "results": [
+    {
+      "id": "e21478ce-bb8d-487e-9087-14911906e073",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "056e4f3e-d505-4dad-8ec1-d04f521cbb56",
+              "name": "Daft Punk"
+            }
+          ],
+          "duration": 220,
+          "id": "417bbfdb-9f5e-47e6-a14e-9f2ac50b3548",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "056e4f3e-d505-4dad-8ec1-d04f521cbb56",
+                  "name": "Daft Punk"
+                }
+              ],
+              "id": "93341465-cd7e-4558-aeeb-05676210acb8",
+              "title": "Daft Club Net Songs",
+              "type": "Other"
+            },
+            {
+              "id": "1fd2e0fe-90f6-35ca-92c0-d816ab3bb79c",
+              "secondarytypes": [
+                "Remix"
+              ],
+              "title": "Daft Club",
+              "type": "Album"
+            }
+          ],
+          "title": "One More Time (Romanthony's unplugged)"
+        },
+        {
+          "artists": [
+            {
+              "id": "056e4f3e-d505-4dad-8ec1-d04f521cbb56",
+              "joinphrase": " / ",
+              "name": "Daft Punk"
+            },
+            {
+              "id": "d55fe7ec-3c7f-44e7-b9cc-b025c4351f70",
+              "name": "Gabrielle"
+            }
+          ],
+          "duration": 211,
+          "id": "8817c141-7a06-45a9-b6de-ccb8190cf513",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "056e4f3e-d505-4dad-8ec1-d04f521cbb56",
+                  "name": "Daft Punk"
+                }
+              ],
+              "id": "ec8e9600-b802-48ff-a387-ace28cb90642",
+              "secondarytypes": [
+                "Live"
+              ],
+              "title": "Alive 2007 / Alive 1997",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "056e4f3e-d505-4dad-8ec1-d04f521cbb56",
+                  "name": "Daft Punk"
+                }
+              ],
+              "id": "4bac3d70-deea-3d80-85c4-8be9f90558e6",
+              "secondarytypes": [
+                "Live"
+              ],
+              "title": "Alive 2007",
+              "type": "Album"
+            }
+          ],
+          "title": "Aerodynamic Beats / Forget About the World"
+        }
+      ],
+      "score": 0.921479
+    }
+  ],
+  "status": "ok"
+}

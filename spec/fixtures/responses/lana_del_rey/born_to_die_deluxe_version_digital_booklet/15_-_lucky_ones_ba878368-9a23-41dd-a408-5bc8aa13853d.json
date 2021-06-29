@@ -1,0 +1,43 @@
+{
+  "results": [
+    {
+      "id": "1f29e583-9243-4725-8b7a-a9e1a46777ec",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "b7539c32-53e7-4908-bda3-81449c367da6",
+              "name": "Lana Del Rey"
+            }
+          ],
+          "duration": 227,
+          "id": "7a76dc67-1e78-4b81-b555-1fea10066139",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "b7539c32-53e7-4908-bda3-81449c367da6",
+                  "name": "Lana Del Rey"
+                }
+              ],
+              "id": "4b16a1bc-8644-48ae-9b3e-8ae36aa30cfc",
+              "title": "Born to Die",
+              "type": "Album"
+            },
+            {
+              "id": "153a4039-dbef-44f2-ab4a-3135c3b3d9b0",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Greatest Hits",
+              "type": "Album"
+            }
+          ],
+          "title": "Lucky Ones"
+        }
+      ],
+      "score": 0.934467
+    }
+  ],
+  "status": "ok"
+}

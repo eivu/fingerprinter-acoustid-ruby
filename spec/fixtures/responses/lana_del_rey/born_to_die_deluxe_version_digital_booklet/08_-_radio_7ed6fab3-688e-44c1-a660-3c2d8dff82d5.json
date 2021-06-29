@@ -1,0 +1,61 @@
+{
+  "results": [
+    {
+      "id": "11a9b7d1-4987-4d9a-9341-bd695e993417",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "b7539c32-53e7-4908-bda3-81449c367da6",
+              "name": "Lana Del Rey"
+            }
+          ],
+          "duration": 214,
+          "id": "1f49dac1-0772-4ac3-913b-954fa5633717",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "b7539c32-53e7-4908-bda3-81449c367da6",
+                  "name": "Lana Del Rey"
+                }
+              ],
+              "id": "4b16a1bc-8644-48ae-9b3e-8ae36aa30cfc",
+              "title": "Born to Die",
+              "type": "Album"
+            },
+            {
+              "id": "153a4039-dbef-44f2-ab4a-3135c3b3d9b0",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Greatest Hits",
+              "type": "Album"
+            }
+          ],
+          "title": "Radio"
+        },
+        {
+          "artists": [
+            {
+              "id": "b7539c32-53e7-4908-bda3-81449c367da6",
+              "name": "Lana Del Rey"
+            }
+          ],
+          "duration": 214,
+          "id": "7ee26c93-0451-45d1-8884-4167f4d3f4c9",
+          "releasegroups": [
+            {
+              "id": "4b16a1bc-8644-48ae-9b3e-8ae36aa30cfc",
+              "title": "Born to Die",
+              "type": "Album"
+            }
+          ],
+          "title": "Radio"
+        }
+      ],
+      "score": 0.936116
+    }
+  ],
+  "status": "ok"
+}

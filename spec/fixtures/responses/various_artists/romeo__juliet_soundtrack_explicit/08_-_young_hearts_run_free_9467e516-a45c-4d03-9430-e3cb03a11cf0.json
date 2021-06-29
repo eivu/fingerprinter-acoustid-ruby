@@ -1,0 +1,185 @@
+{
+  "results": [
+    {
+      "id": "57e0e0ff-914f-437f-88e8-92b1a86bcae1",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "5caf18ba-44db-44d4-a6a3-828970a685f4",
+              "name": "Kym Mazelle"
+            }
+          ],
+          "duration": 255,
+          "id": "1a584a01-a327-4541-8e7a-7c8abbcc4aa0",
+          "releasegroups": [
+            {
+              "id": "f4b382f9-5f33-4b04-84b1-2189bc99bb73",
+              "title": "Young Hearts Run Free",
+              "type": "Single"
+            }
+          ],
+          "title": "Young Hearts Run Free (original version)"
+        },
+        {
+          "id": "32f75327-3d96-42b8-907d-a8cf542715cc"
+        },
+        {
+          "id": "78736994-35ba-4d49-9221-2ec6cb869393"
+        },
+        {
+          "artists": [
+            {
+              "id": "5caf18ba-44db-44d4-a6a3-828970a685f4",
+              "name": "Kym Mazelle"
+            }
+          ],
+          "duration": 255,
+          "id": "f1bbf041-0828-4d3a-9496-715f200c4905",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "79b5b1c3-7b53-4d06-8e3b-7e8eb6ac1ccb",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Hitbreaker: Pop News 4/97",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "7be8f2e1-3ad8-32f1-9e32-6a2b23c4af1c",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Empire 2002⁺ The Hottest Soundtracks… Now!",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "650ebbf1-e25c-3f13-ac2b-d98010c1c5ee",
+              "secondarytypes": [
+                "Soundtrack"
+              ],
+              "title": "William Shakespeare’s Romeo + Juliet: Music From the Motion Picture",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "5eca7ad9-196f-44fb-a940-cf50c7001f3b",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Believe Your Ears : Soundsite Sampler February 97",
+              "type": "Album"
+            }
+          ],
+          "title": "Young Hearts Run Free"
+        }
+      ],
+      "score": 0.98113
+    },
+    {
+      "id": "c77b7e25-fed4-4ee0-9ea6-29f398b075e0",
+      "recordings": [
+        {
+          "id": "32f75327-3d96-42b8-907d-a8cf542715cc"
+        },
+        {
+          "id": "78736994-35ba-4d49-9221-2ec6cb869393"
+        },
+        {
+          "artists": [
+            {
+              "id": "5caf18ba-44db-44d4-a6a3-828970a685f4",
+              "name": "Kym Mazelle"
+            }
+          ],
+          "duration": 255,
+          "id": "f1bbf041-0828-4d3a-9496-715f200c4905",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "79b5b1c3-7b53-4d06-8e3b-7e8eb6ac1ccb",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Hitbreaker: Pop News 4/97",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "7be8f2e1-3ad8-32f1-9e32-6a2b23c4af1c",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Empire 2002⁺ The Hottest Soundtracks… Now!",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "650ebbf1-e25c-3f13-ac2b-d98010c1c5ee",
+              "secondarytypes": [
+                "Soundtrack"
+              ],
+              "title": "William Shakespeare’s Romeo + Juliet: Music From the Motion Picture",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "5eca7ad9-196f-44fb-a940-cf50c7001f3b",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Believe Your Ears : Soundsite Sampler February 97",
+              "type": "Album"
+            }
+          ],
+          "title": "Young Hearts Run Free"
+        }
+      ],
+      "score": 0.947493
+    }
+  ],
+  "status": "ok"
+}

@@ -1,0 +1,68 @@
+{
+  "results": [
+    {
+      "id": "236c9d53-aab3-4299-97e4-2396a5bfedd5",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "b7539c32-53e7-4908-bda3-81449c367da6",
+              "name": "Lana Del Rey"
+            }
+          ],
+          "duration": 248,
+          "id": "cae65223-805a-4f31-8d4a-eb39044dcff1",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "b7539c32-53e7-4908-bda3-81449c367da6",
+                  "name": "Lana Del Rey"
+                }
+              ],
+              "id": "f5b50b54-25ed-45a7-be29-4c8069134165",
+              "title": "Carmen",
+              "type": "Single"
+            },
+            {
+              "artists": [
+                {
+                  "id": "b7539c32-53e7-4908-bda3-81449c367da6",
+                  "name": "Lana Del Rey"
+                }
+              ],
+              "id": "4b16a1bc-8644-48ae-9b3e-8ae36aa30cfc",
+              "title": "Born to Die",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "b7539c32-53e7-4908-bda3-81449c367da6",
+                  "name": "Lana Del Rey"
+                }
+              ],
+              "id": "c6c0ec90-3088-4bd2-8d05-d171adec6102",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Greatest Hits",
+              "type": "Album"
+            },
+            {
+              "id": "153a4039-dbef-44f2-ab4a-3135c3b3d9b0",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Greatest Hits",
+              "type": "Album"
+            }
+          ],
+          "title": "Carmen"
+        }
+      ],
+      "score": 0.960773
+    }
+  ],
+  "status": "ok"
+}

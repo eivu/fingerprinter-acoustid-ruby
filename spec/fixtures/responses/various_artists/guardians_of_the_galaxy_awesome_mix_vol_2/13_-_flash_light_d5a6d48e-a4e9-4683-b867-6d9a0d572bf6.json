@@ -1,0 +1,872 @@
+{
+  "results": [
+    {
+      "id": "90e1c43d-81df-4d33-a4b4-2fc17ca13305",
+      "recordings": [
+        {
+          "id": "027baabc-6980-43b5-95b1-d4c988c25c06"
+        },
+        {
+          "artists": [
+            {
+              "id": "d1947987-9614-49ae-bd36-8000e6b6f7d0",
+              "name": "Parliament"
+            }
+          ],
+          "duration": 269,
+          "id": "5cc7904e-2ac2-4e07-bc5d-f6febbf85145",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "d1947987-9614-49ae-bd36-8000e6b6f7d0",
+                  "name": "Parliament"
+                }
+              ],
+              "id": "c1e24091-6e8a-4f71-b964-dc6d932d97f8",
+              "title": "Flash Light",
+              "type": "Single"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "f4cd7c16-d2f7-3af0-8c9e-6ff704b2d1a5",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Total Funk: The Ultimate Collection",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "5f7fd156-a4ba-49fa-8201-61eb9a2fd11c",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Ultimate Funk, Volume 2",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "1d2368ac-4333-4bab-abfc-2e96e703cf9f",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "The Hot Ones",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "e3bbb65d-f17f-43e5-b5fd-c43e96240a7a",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Feel the Funk",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "7174f641-77e1-3606-a335-472c735e9720",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Pure Funk",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "f2b5b2af-7dc9-3a23-ab6c-9c50d20c693d",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "In Yo' Face! The History of Funk, Volume 5",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "d1947987-9614-49ae-bd36-8000e6b6f7d0",
+                  "name": "Parliament"
+                }
+              ],
+              "id": "7f103700-63ae-33b6-ae29-be74e60956dc",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Parliament's Greatest Hits",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "b2c77e36-2430-3ba7-85f9-a8de59aa87db",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Ultimate Funk Classics",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "16cc928a-ba45-4896-9e0a-9e7a91d43dd3",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Soul 70's Collection, Volume 4",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "0159b078-81bd-385a-acdf-306264f8ad4e",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "New Millennium Funk Party",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "e70a7976-0412-40bc-bd17-19f8c55897e6",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "We Love the Nightlife: Good Times",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "d1947987-9614-49ae-bd36-8000e6b6f7d0",
+                  "name": "Parliament"
+                }
+              ],
+              "id": "ede0d529-02f5-3035-8965-02e17fc4c3b0",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Get Funked Up: The Ultimate Collection",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "b30827cd-7a53-3a00-8c17-73b4b2af9e17",
+              "secondarytypes": [
+                "Soundtrack"
+              ],
+              "title": "Can’t Hardly Wait",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "487187d9-26e1-3ff1-a62e-3af47383d272",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Sounds of the Seventies: 1978, Take Two",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "94004c33-127a-49b5-aa92-341352e5feae",
+              "title": "Kult3 Disconights"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "29c5e51e-bb86-472f-b9a8-f61914750eaa",
+              "secondarytypes": [
+                "Soundtrack"
+              ],
+              "title": "Straight Outta Compton: Music From the Motion Picture",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "21e29d48-9381-4cbd-8f94-edcb4171f6ae",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Süddeutsche Zeitung | Diskothek: 1977: Ein Jahr und seine 20 Songs",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "5731de0e-c4e2-4e69-9205-3a5867542f65",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Disco Fever: Behind the Groove",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "ebeeafcd-33cf-365d-af10-dd06b3f3ad54",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Solid Gold Soul 1978",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "0194c88b-766a-4d37-873e-9e37838d3aea",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "The Greatest R&B Hits of All Time",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "4f5f9b57-952a-3044-aa3f-aa6ee4c0b2b5",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Party Starter Level 1: The Classics",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "2870c388-79f8-3e90-8e17-274808ab6fac",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Ultimate Funk",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "6bf949d5-6948-36d1-9223-d9c7e20702eb",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Atomic Funk",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "7e836750-3cd3-4c71-aa9e-b5143bc56a2b",
+              "secondarytypes": [
+                "Soundtrack"
+              ],
+              "title": "Guardians of the Galaxy: Awesome Mix, Vol. 2 (Original Motion Picture Soundtrack)",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "1313908a-8805-3b6d-9477-1c4903f1f887",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Pulp Fusion: Revival Boogie Down",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "64c54dc5-687d-4069-b040-a213f880af35",
+                  "name": "The Open University"
+                }
+              ],
+              "id": "771da680-aeae-4d8a-875f-b3e0b9d19355",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "A224 Inside Music",
+              "type": "Other"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "c775af47-67ad-384a-9af3-6fa0c7ee2714",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "70’s Party Mix",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "4ed17da3-bc04-45b6-915e-395458528568",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "The Greatest Funk Hits of All Time",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "815436bf-71eb-4c21-8fbc-8ac5da168bdc",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Disco Fever: Get Up and Boogie",
+              "type": "Album"
+            }
+          ],
+          "title": "Flash Light"
+        }
+      ],
+      "score": 0.931698
+    },
+    {
+      "id": "ebdeba23-a375-476e-a6d5-b16a722c16fc",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "d1947987-9614-49ae-bd36-8000e6b6f7d0",
+              "name": "Parliament"
+            }
+          ],
+          "duration": 269,
+          "id": "5cc7904e-2ac2-4e07-bc5d-f6febbf85145",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "d1947987-9614-49ae-bd36-8000e6b6f7d0",
+                  "name": "Parliament"
+                }
+              ],
+              "id": "c1e24091-6e8a-4f71-b964-dc6d932d97f8",
+              "title": "Flash Light",
+              "type": "Single"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "f4cd7c16-d2f7-3af0-8c9e-6ff704b2d1a5",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Total Funk: The Ultimate Collection",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "5f7fd156-a4ba-49fa-8201-61eb9a2fd11c",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Ultimate Funk, Volume 2",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "1d2368ac-4333-4bab-abfc-2e96e703cf9f",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "The Hot Ones",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "e3bbb65d-f17f-43e5-b5fd-c43e96240a7a",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Feel the Funk",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "7174f641-77e1-3606-a335-472c735e9720",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Pure Funk",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "f2b5b2af-7dc9-3a23-ab6c-9c50d20c693d",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "In Yo' Face! The History of Funk, Volume 5",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "d1947987-9614-49ae-bd36-8000e6b6f7d0",
+                  "name": "Parliament"
+                }
+              ],
+              "id": "7f103700-63ae-33b6-ae29-be74e60956dc",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Parliament's Greatest Hits",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "b2c77e36-2430-3ba7-85f9-a8de59aa87db",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Ultimate Funk Classics",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "16cc928a-ba45-4896-9e0a-9e7a91d43dd3",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Soul 70's Collection, Volume 4",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "0159b078-81bd-385a-acdf-306264f8ad4e",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "New Millennium Funk Party",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "e70a7976-0412-40bc-bd17-19f8c55897e6",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "We Love the Nightlife: Good Times",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "d1947987-9614-49ae-bd36-8000e6b6f7d0",
+                  "name": "Parliament"
+                }
+              ],
+              "id": "ede0d529-02f5-3035-8965-02e17fc4c3b0",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Get Funked Up: The Ultimate Collection",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "b30827cd-7a53-3a00-8c17-73b4b2af9e17",
+              "secondarytypes": [
+                "Soundtrack"
+              ],
+              "title": "Can’t Hardly Wait",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "487187d9-26e1-3ff1-a62e-3af47383d272",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Sounds of the Seventies: 1978, Take Two",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "94004c33-127a-49b5-aa92-341352e5feae",
+              "title": "Kult3 Disconights"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "29c5e51e-bb86-472f-b9a8-f61914750eaa",
+              "secondarytypes": [
+                "Soundtrack"
+              ],
+              "title": "Straight Outta Compton: Music From the Motion Picture",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "21e29d48-9381-4cbd-8f94-edcb4171f6ae",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Süddeutsche Zeitung | Diskothek: 1977: Ein Jahr und seine 20 Songs",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "5731de0e-c4e2-4e69-9205-3a5867542f65",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Disco Fever: Behind the Groove",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "ebeeafcd-33cf-365d-af10-dd06b3f3ad54",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Solid Gold Soul 1978",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "0194c88b-766a-4d37-873e-9e37838d3aea",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "The Greatest R&B Hits of All Time",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "4f5f9b57-952a-3044-aa3f-aa6ee4c0b2b5",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Party Starter Level 1: The Classics",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "2870c388-79f8-3e90-8e17-274808ab6fac",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Ultimate Funk",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "6bf949d5-6948-36d1-9223-d9c7e20702eb",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Atomic Funk",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "7e836750-3cd3-4c71-aa9e-b5143bc56a2b",
+              "secondarytypes": [
+                "Soundtrack"
+              ],
+              "title": "Guardians of the Galaxy: Awesome Mix, Vol. 2 (Original Motion Picture Soundtrack)",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "1313908a-8805-3b6d-9477-1c4903f1f887",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Pulp Fusion: Revival Boogie Down",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "64c54dc5-687d-4069-b040-a213f880af35",
+                  "name": "The Open University"
+                }
+              ],
+              "id": "771da680-aeae-4d8a-875f-b3e0b9d19355",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "A224 Inside Music",
+              "type": "Other"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "c775af47-67ad-384a-9af3-6fa0c7ee2714",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "70’s Party Mix",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "4ed17da3-bc04-45b6-915e-395458528568",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "The Greatest Funk Hits of All Time",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "815436bf-71eb-4c21-8fbc-8ac5da168bdc",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Disco Fever: Get Up and Boogie",
+              "type": "Album"
+            }
+          ],
+          "title": "Flash Light"
+        }
+      ],
+      "score": 0.918908
+    }
+  ],
+  "status": "ok"
+}

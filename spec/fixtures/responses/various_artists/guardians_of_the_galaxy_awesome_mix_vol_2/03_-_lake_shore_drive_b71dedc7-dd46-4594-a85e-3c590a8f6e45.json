@@ -1,0 +1,49 @@
+{
+  "results": [
+    {
+      "id": "bd704c8d-49f8-48f0-ab06-88d7306563a2",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "04f5f62b-7c4d-4f5f-8dda-ff3bfb43db62",
+              "name": "Aliotta Haynes Jeremiah"
+            }
+          ],
+          "duration": 229,
+          "id": "04d2b46d-be25-4bb9-91ee-0b7b6fc70a47",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "04f5f62b-7c4d-4f5f-8dda-ff3bfb43db62",
+                  "name": "Aliotta Haynes Jeremiah"
+                }
+              ],
+              "id": "0c04eb25-f749-3ddb-b9d5-9427d2f2fe75",
+              "title": "Lake Shore Drive",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "7e836750-3cd3-4c71-aa9e-b5143bc56a2b",
+              "secondarytypes": [
+                "Soundtrack"
+              ],
+              "title": "Guardians of the Galaxy: Awesome Mix, Vol. 2 (Original Motion Picture Soundtrack)",
+              "type": "Album"
+            }
+          ],
+          "title": "Lake Shore Drive"
+        }
+      ],
+      "score": 0.953059
+    }
+  ],
+  "status": "ok"
+}

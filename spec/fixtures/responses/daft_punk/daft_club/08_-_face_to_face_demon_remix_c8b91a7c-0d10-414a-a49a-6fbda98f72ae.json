@@ -1,0 +1,50 @@
+{
+  "results": [
+    {
+      "id": "57921522-1879-417e-a95d-c8a602354daf",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "056e4f3e-d505-4dad-8ec1-d04f521cbb56",
+              "name": "Daft Punk"
+            }
+          ],
+          "duration": 418,
+          "id": "1f58976b-c8d2-4fa7-8723-f0f05a621cee",
+          "releasegroups": [
+            {
+              "id": "c5afe0db-56f0-3af8-bc00-bf8b2aeaa40e",
+              "title": "Face to Face",
+              "type": "Single"
+            }
+          ],
+          "title": "Face to Face (Demon remix)"
+        },
+        {
+          "artists": [
+            {
+              "id": "056e4f3e-d505-4dad-8ec1-d04f521cbb56",
+              "name": "Daft Punk"
+            }
+          ],
+          "duration": 419,
+          "id": "916f9465-9e20-4f59-8907-0f8c7b7d9177",
+          "releasegroups": [
+            {
+              "id": "1fd2e0fe-90f6-35ca-92c0-d816ab3bb79c",
+              "secondarytypes": [
+                "Remix"
+              ],
+              "title": "Daft Club",
+              "type": "Album"
+            }
+          ],
+          "title": "Face to Face (Demon remix)"
+        }
+      ],
+      "score": 0.954686
+    }
+  ],
+  "status": "ok"
+}

@@ -1,0 +1,551 @@
+{
+  "results": [
+    {
+      "id": "cf80bd75-ec2e-47c0-b34a-b57804a460fc",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "b7539c32-53e7-4908-bda3-81449c367da6",
+              "name": "Lana Del Rey"
+            }
+          ],
+          "duration": 281,
+          "id": "b9d06b81-b582-46d4-ad41-be47a6961892",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "ec557011-2aec-4d23-b39e-37dd7d8bee1a",
+              "secondarytypes": [
+                "Compilation",
+                "Live"
+              ],
+              "title": "This Is Acoustic",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "b7539c32-53e7-4908-bda3-81449c367da6",
+                  "name": "Lana Del Rey"
+                }
+              ],
+              "id": "c6c0ec90-3088-4bd2-8d05-d171adec6102",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Greatest Hits",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "b7539c32-53e7-4908-bda3-81449c367da6",
+                  "name": "Lana Del Rey"
+                }
+              ],
+              "id": "4b16a1bc-8644-48ae-9b3e-8ae36aa30cfc",
+              "title": "Born to Die",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "b7539c32-53e7-4908-bda3-81449c367da6",
+                  "name": "Lana Del Rey"
+                }
+              ],
+              "id": "c9ff68d9-af4f-4791-9e62-69170af0a71e",
+              "title": "Lana Del Rey EP",
+              "type": "EP"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "13be757e-9973-439c-b53b-e681cd213fb0",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Mastermix Classic Cuts, Volume 140: Modern Ballads",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "b7539c32-53e7-4908-bda3-81449c367da6",
+                  "name": "Lana Del Rey"
+                }
+              ],
+              "id": "968fa2f6-1b7e-428e-86ea-6d9dd2e6e204",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Greatest Songs",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "c9995be2-408c-41cd-b562-c6117b4bd8dc",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "The #1 Acoustic Album",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "ecdf6208-7b51-4c4e-ae22-9ad5ddd2a67f",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "The Chillout Session",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "aca92f9a-f1c5-4197-b422-1ded76350b6f",
+              "secondarytypes": [
+                "Compilation",
+                "Soundtrack"
+              ],
+              "title": "Le Grand Journal : La Grande B.O, Volume 3",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "8cd3ea59-8d45-4ca5-a436-4ddfd1abcd0e",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Triple J: Hottest 100",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "b7539c32-53e7-4908-bda3-81449c367da6",
+                  "name": "Lana Del Rey"
+                }
+              ],
+              "id": "153a4039-dbef-44f2-ab4a-3135c3b3d9b0",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Greatest Hits",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "0080ac0c-fac6-4c0e-a92f-73231b4e5ab4",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "גלגלצ / סוף שבוע רגוע",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "20007d0b-3438-4b7d-9a97-b404e43d122c",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Chillsville: Population You",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "bb91285a-a5e5-41f4-b8e7-19f4d8418474",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "The Singer Songwriter",
+              "type": "Album"
+            }
+          ],
+          "title": "Video Games"
+        },
+        {
+          "artists": [
+            {
+              "id": "b7539c32-53e7-4908-bda3-81449c367da6",
+              "name": "Lana Del Rey"
+            }
+          ],
+          "duration": 276,
+          "id": "b9fa0680-600f-4119-bf48-65ba918f46b7",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "7a65ec6a-a912-44dc-8b7c-ab6105358f88",
+              "secondarytypes": [
+                "Compilation",
+                "DJ-mix"
+              ],
+              "title": "Ministry of Sound: Chillout Sessions Classics",
+              "type": "Album"
+            }
+          ],
+          "title": "Video Games"
+        }
+      ],
+      "score": 0.994989
+    },
+    {
+      "id": "240d28b4-07b6-45b0-9803-3a3c04921d31",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "b7539c32-53e7-4908-bda3-81449c367da6",
+              "name": "Lana Del Rey"
+            }
+          ],
+          "duration": 284,
+          "id": "6cba33be-dc83-4f80-ae90-53103d865702",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "b7539c32-53e7-4908-bda3-81449c367da6",
+                  "name": "Lana Del Rey"
+                }
+              ],
+              "id": "39b93682-5353-494c-8628-180f1db2d323",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Video Games / Blue Jeans",
+              "type": "Single"
+            },
+            {
+              "artists": [
+                {
+                  "id": "b7539c32-53e7-4908-bda3-81449c367da6",
+                  "name": "Lana Del Rey"
+                }
+              ],
+              "id": "868eb27c-853a-435f-88ab-7eea967f0064",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "The Singles",
+              "type": "Single"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "70bb0973-3c1d-4825-9bbe-56e1dce44197",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "BRIT Awards 2012",
+              "type": "Album"
+            },
+            {
+              "id": "266aec45-baed-4152-bfdf-75a908cb3e51",
+              "title": "Video Games",
+              "type": "Single"
+            }
+          ],
+          "title": "Video Games"
+        },
+        {
+          "id": "8811ac0f-1f5f-452d-a844-c6188b677d14"
+        },
+        {
+          "artists": [
+            {
+              "id": "b7539c32-53e7-4908-bda3-81449c367da6",
+              "name": "Lana Del Rey"
+            }
+          ],
+          "duration": 281,
+          "id": "b9d06b81-b582-46d4-ad41-be47a6961892",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "ec557011-2aec-4d23-b39e-37dd7d8bee1a",
+              "secondarytypes": [
+                "Compilation",
+                "Live"
+              ],
+              "title": "This Is Acoustic",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "b7539c32-53e7-4908-bda3-81449c367da6",
+                  "name": "Lana Del Rey"
+                }
+              ],
+              "id": "c6c0ec90-3088-4bd2-8d05-d171adec6102",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Greatest Hits",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "b7539c32-53e7-4908-bda3-81449c367da6",
+                  "name": "Lana Del Rey"
+                }
+              ],
+              "id": "4b16a1bc-8644-48ae-9b3e-8ae36aa30cfc",
+              "title": "Born to Die",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "b7539c32-53e7-4908-bda3-81449c367da6",
+                  "name": "Lana Del Rey"
+                }
+              ],
+              "id": "c9ff68d9-af4f-4791-9e62-69170af0a71e",
+              "title": "Lana Del Rey EP",
+              "type": "EP"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "13be757e-9973-439c-b53b-e681cd213fb0",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Mastermix Classic Cuts, Volume 140: Modern Ballads",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "b7539c32-53e7-4908-bda3-81449c367da6",
+                  "name": "Lana Del Rey"
+                }
+              ],
+              "id": "968fa2f6-1b7e-428e-86ea-6d9dd2e6e204",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Greatest Songs",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "c9995be2-408c-41cd-b562-c6117b4bd8dc",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "The #1 Acoustic Album",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "ecdf6208-7b51-4c4e-ae22-9ad5ddd2a67f",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "The Chillout Session",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "aca92f9a-f1c5-4197-b422-1ded76350b6f",
+              "secondarytypes": [
+                "Compilation",
+                "Soundtrack"
+              ],
+              "title": "Le Grand Journal : La Grande B.O, Volume 3",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "8cd3ea59-8d45-4ca5-a436-4ddfd1abcd0e",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Triple J: Hottest 100",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "b7539c32-53e7-4908-bda3-81449c367da6",
+                  "name": "Lana Del Rey"
+                }
+              ],
+              "id": "153a4039-dbef-44f2-ab4a-3135c3b3d9b0",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Greatest Hits",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "0080ac0c-fac6-4c0e-a92f-73231b4e5ab4",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "גלגלצ / סוף שבוע רגוע",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "20007d0b-3438-4b7d-9a97-b404e43d122c",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Chillsville: Population You",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "bb91285a-a5e5-41f4-b8e7-19f4d8418474",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "The Singer Songwriter",
+              "type": "Album"
+            }
+          ],
+          "title": "Video Games"
+        },
+        {
+          "id": "d0293457-9e9e-4377-956a-b5713b6888cd"
+        },
+        {
+          "artists": [
+            {
+              "id": "b7539c32-53e7-4908-bda3-81449c367da6",
+              "name": "Lana Del Rey"
+            }
+          ],
+          "duration": 279,
+          "id": "e5613219-9dc5-4f58-ac1d-c5989eac118e",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "6f0d2cde-2b1f-4342-9797-8c70a3e5c090",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Promo Only: Modern Rock Radio, January 2012",
+              "type": "Album"
+            }
+          ],
+          "title": "Video Games"
+        },
+        {
+          "id": "efe08fae-5de7-404a-9720-45495bfd36b6"
+        }
+      ],
+      "score": 0.939148
+    }
+  ],
+  "status": "ok"
+}

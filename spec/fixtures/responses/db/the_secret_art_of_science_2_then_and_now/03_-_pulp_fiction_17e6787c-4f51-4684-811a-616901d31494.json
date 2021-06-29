@@ -1,0 +1,29 @@
+{
+  "results": [
+    {
+      "id": "48b6fe63-ddda-4f6c-8d40-0d5a2c3aaccf",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "022b58ea-6098-411d-b88a-652821d4c191",
+              "name": "DJ DB"
+            }
+          ],
+          "duration": 282,
+          "id": "0455c738-b4eb-4ca8-8f1a-062215e4b280",
+          "releasegroups": [
+            {
+              "id": "c4ec56dc-8c9d-4079-b899-a096beffdcc0",
+              "title": "The Secret Art Of Science 2",
+              "type": "Album"
+            }
+          ],
+          "title": "Pulp Fiction"
+        }
+      ],
+      "score": 0.980978
+    }
+  ],
+  "status": "ok"
+}

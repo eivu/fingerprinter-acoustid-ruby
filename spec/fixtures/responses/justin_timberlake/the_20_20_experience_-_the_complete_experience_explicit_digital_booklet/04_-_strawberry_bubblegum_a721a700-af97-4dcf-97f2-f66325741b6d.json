@@ -1,0 +1,43 @@
+{
+  "results": [
+    {
+      "id": "29f1a810-344d-47a1-89c6-caa73a7a2c71",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "596ffa74-3d08-44ef-b113-765d43d12738",
+              "name": "Justin Timberlake"
+            }
+          ],
+          "duration": 479,
+          "id": "dda36fa4-ba55-42ca-9261-4540d7e9448f",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "596ffa74-3d08-44ef-b113-765d43d12738",
+                  "name": "Justin Timberlake"
+                }
+              ],
+              "id": "deae6fc2-a675-4f35-9565-d2aaea4872c7",
+              "title": "The 20/20 Experience",
+              "type": "Album"
+            },
+            {
+              "id": "fe51b20f-83e4-49dd-9a36-b8d4da138325",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "The Complete 20/20 Experience",
+              "type": "Album"
+            }
+          ],
+          "title": "Strawberry Bubblegum"
+        }
+      ],
+      "score": 0.997098
+    }
+  ],
+  "status": "ok"
+}

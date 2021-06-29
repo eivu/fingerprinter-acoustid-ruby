@@ -21,7 +21,7 @@ http_interactions:
       message: OK
     headers:
       Date:
-      - Tue, 29 Jun 2021 13:48:54 GMT
+      - Tue, 29 Jun 2021 21:24:43 GMT
       Content-Type:
       - application/json; charset=UTF-8
       Transfer-Encoding:
@@ -33,7 +33,7 @@ http_interactions:
       Access-Control-Allow-Origin:
       - "*"
       X-Envoy-Upstream-Service-Time:
-      - '84'
+      - '859'
       Strict-Transport-Security:
       - max-age=15724800; includeSubDomains
     body:
@@ -79,5 +79,5 @@ http_interactions:
         Soundtrack", "type": "Album"}], "title": "Monkey Chase"}], "score": 0.910452}],
         "status": "ok"}'
     http_version:
-  recorded_at: Tue, 29 Jun 2021 13:48:54 GMT
+  recorded_at: Tue, 29 Jun 2021 21:24:43 GMT
 recorded_with: VCR 3.0.3

@@ -1,0 +1,29 @@
+{
+  "results": [
+    {
+      "id": "391dcb9d-b31c-4e22-bd5a-481046b99df3",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "022b58ea-6098-411d-b88a-652821d4c191",
+              "name": "DJ DB"
+            }
+          ],
+          "duration": 368,
+          "id": "065575e8-2e0b-4ed7-9a58-9300d8be8e82",
+          "releasegroups": [
+            {
+              "id": "c4ec56dc-8c9d-4079-b899-a096beffdcc0",
+              "title": "The Secret Art Of Science 2",
+              "type": "Album"
+            }
+          ],
+          "title": "Never as Good"
+        }
+      ],
+      "score": 0.975749
+    }
+  ],
+  "status": "ok"
+}

@@ -1,0 +1,63 @@
+{
+  "results": [
+    {
+      "id": "ef40bc48-5a65-4905-8a94-963cb14f15ba",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "57843aed-c1c1-4f45-9859-478dd999bc18",
+              "name": "School of Seven Bells"
+            }
+          ],
+          "duration": 301,
+          "id": "f05bfc3c-66f9-4cee-958a-3988d76330e3",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "81f933a0-79b7-45c4-82c2-81d9be021bdb",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Hobbyism",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "57843aed-c1c1-4f45-9859-478dd999bc18",
+                  "name": "School of Seven Bells"
+                }
+              ],
+              "id": "8a2d9685-b7df-4aa7-9e07-39b7efe63ea2",
+              "title": "Disconnect From Desire",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "c8f14294-a0ea-4a77-b504-135eaddac213",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Sampler, Volume 17",
+              "type": "Album"
+            }
+          ],
+          "title": "Babelonia"
+        }
+      ],
+      "score": 0.966217
+    }
+  ],
+  "status": "ok"
+}

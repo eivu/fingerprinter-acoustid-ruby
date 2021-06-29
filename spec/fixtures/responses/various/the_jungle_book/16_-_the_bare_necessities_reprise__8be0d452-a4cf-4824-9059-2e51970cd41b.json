@@ -1,0 +1,164 @@
+{
+  "results": [
+    {
+      "id": "1d41a89e-3881-4b5e-828c-b265bbaa6caa",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "d10253ac-e1c5-47f3-846f-65cce388b7fb",
+              "joinphrase": " and ",
+              "name": "Phil Harris"
+            },
+            {
+              "id": "af2eb4da-3d69-45f0-9591-3b0f9a8b7379",
+              "name": "Sebastian Cabot"
+            }
+          ],
+          "duration": 57,
+          "id": "3c37b323-8999-49f9-a1a8-5564e106f51f",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "4204e06b-d2e4-4823-b6f3-47f7593518cb",
+                  "joinphrase": ", ",
+                  "name": "George Bruns"
+                },
+                {
+                  "id": "c47026a1-3300-4cf7-80df-8b9462a884e4",
+                  "joinphrase": " & ",
+                  "name": "Richard M. Sherman"
+                },
+                {
+                  "id": "d378dedb-444f-48f5-a6e6-3e8e31ef6c14",
+                  "joinphrase": ", ",
+                  "name": "Robert B. Sherman"
+                },
+                {
+                  "id": "0a8df504-df94-4d77-a3c5-2b9e5c9727e2",
+                  "name": "Terry Gilkyson"
+                }
+              ],
+              "id": "1257fcdf-743f-3dff-9894-107b398fb777",
+              "secondarytypes": [
+                "Soundtrack"
+              ],
+              "title": "The Jungle Book: Original Cast Soundtrack",
+              "type": "Album"
+            }
+          ],
+          "title": "The Bare Necessities (reprise)"
+        }
+      ],
+      "score": 0.959346
+    },
+    {
+      "id": "6a19e32d-c78b-4faa-b667-93568868cfcb",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "d10253ac-e1c5-47f3-846f-65cce388b7fb",
+              "joinphrase": " and ",
+              "name": "Phil Harris"
+            },
+            {
+              "id": "af2eb4da-3d69-45f0-9591-3b0f9a8b7379",
+              "name": "Sebastian Cabot"
+            }
+          ],
+          "duration": 57,
+          "id": "3c37b323-8999-49f9-a1a8-5564e106f51f",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "4204e06b-d2e4-4823-b6f3-47f7593518cb",
+                  "joinphrase": ", ",
+                  "name": "George Bruns"
+                },
+                {
+                  "id": "c47026a1-3300-4cf7-80df-8b9462a884e4",
+                  "joinphrase": " & ",
+                  "name": "Richard M. Sherman"
+                },
+                {
+                  "id": "d378dedb-444f-48f5-a6e6-3e8e31ef6c14",
+                  "joinphrase": ", ",
+                  "name": "Robert B. Sherman"
+                },
+                {
+                  "id": "0a8df504-df94-4d77-a3c5-2b9e5c9727e2",
+                  "name": "Terry Gilkyson"
+                }
+              ],
+              "id": "1257fcdf-743f-3dff-9894-107b398fb777",
+              "secondarytypes": [
+                "Soundtrack"
+              ],
+              "title": "The Jungle Book: Original Cast Soundtrack",
+              "type": "Album"
+            }
+          ],
+          "title": "The Bare Necessities (reprise)"
+        }
+      ],
+      "score": 0.938636
+    },
+    {
+      "id": "5f3ed6a9-405a-4f46-abc3-bdd74b28f0e0",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "d10253ac-e1c5-47f3-846f-65cce388b7fb",
+              "joinphrase": " and ",
+              "name": "Phil Harris"
+            },
+            {
+              "id": "af2eb4da-3d69-45f0-9591-3b0f9a8b7379",
+              "name": "Sebastian Cabot"
+            }
+          ],
+          "duration": 57,
+          "id": "3c37b323-8999-49f9-a1a8-5564e106f51f",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "4204e06b-d2e4-4823-b6f3-47f7593518cb",
+                  "joinphrase": ", ",
+                  "name": "George Bruns"
+                },
+                {
+                  "id": "c47026a1-3300-4cf7-80df-8b9462a884e4",
+                  "joinphrase": " & ",
+                  "name": "Richard M. Sherman"
+                },
+                {
+                  "id": "d378dedb-444f-48f5-a6e6-3e8e31ef6c14",
+                  "joinphrase": ", ",
+                  "name": "Robert B. Sherman"
+                },
+                {
+                  "id": "0a8df504-df94-4d77-a3c5-2b9e5c9727e2",
+                  "name": "Terry Gilkyson"
+                }
+              ],
+              "id": "1257fcdf-743f-3dff-9894-107b398fb777",
+              "secondarytypes": [
+                "Soundtrack"
+              ],
+              "title": "The Jungle Book: Original Cast Soundtrack",
+              "type": "Album"
+            }
+          ],
+          "title": "The Bare Necessities (reprise)"
+        }
+      ],
+      "score": 0.882042
+    }
+  ],
+  "status": "ok"
+}

@@ -1,0 +1,195 @@
+{
+  "results": [
+    {
+      "id": "329a649c-b1e3-43b6-8f80-d1f2d4128463",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "4204e06b-d2e4-4823-b6f3-47f7593518cb",
+              "name": "George Bruns"
+            }
+          ],
+          "duration": 163,
+          "id": "602da87b-d783-4eb9-a8d7-a29038232b73",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "4204e06b-d2e4-4823-b6f3-47f7593518cb",
+                  "joinphrase": ", ",
+                  "name": "George Bruns"
+                },
+                {
+                  "id": "c47026a1-3300-4cf7-80df-8b9462a884e4",
+                  "joinphrase": " & ",
+                  "name": "Richard M. Sherman"
+                },
+                {
+                  "id": "d378dedb-444f-48f5-a6e6-3e8e31ef6c14",
+                  "joinphrase": ", ",
+                  "name": "Robert B. Sherman"
+                },
+                {
+                  "id": "0a8df504-df94-4d77-a3c5-2b9e5c9727e2",
+                  "name": "Terry Gilkyson"
+                }
+              ],
+              "id": "1257fcdf-743f-3dff-9894-107b398fb777",
+              "secondarytypes": [
+                "Soundtrack"
+              ],
+              "title": "The Jungle Book: Original Cast Soundtrack",
+              "type": "Album"
+            }
+          ],
+          "title": "Tiger Fight"
+        },
+        {
+          "artists": [
+            {
+              "id": "c47026a1-3300-4cf7-80df-8b9462a884e4",
+              "joinphrase": " & ",
+              "name": "Richard M. Sherman"
+            },
+            {
+              "id": "d378dedb-444f-48f5-a6e6-3e8e31ef6c14",
+              "name": "Robert B. Sherman"
+            }
+          ],
+          "duration": 158,
+          "id": "621eecb4-59ad-4f6d-a9d0-df3cc56ae7c8",
+          "releasegroups": [
+            {
+              "id": "094618e5-1dde-3f3e-a2fd-cefec8929675",
+              "secondarytypes": [
+                "Soundtrack"
+              ],
+              "title": "Das Dschungelbuch",
+              "type": "Album"
+            }
+          ],
+          "title": "Tigerkampf"
+        }
+      ],
+      "score": 0.975145
+    },
+    {
+      "id": "39c67bbf-7131-4b37-aae3-335d2af6debf",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "4204e06b-d2e4-4823-b6f3-47f7593518cb",
+              "name": "George Bruns"
+            }
+          ],
+          "duration": 163,
+          "id": "602da87b-d783-4eb9-a8d7-a29038232b73",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "4204e06b-d2e4-4823-b6f3-47f7593518cb",
+                  "joinphrase": ", ",
+                  "name": "George Bruns"
+                },
+                {
+                  "id": "c47026a1-3300-4cf7-80df-8b9462a884e4",
+                  "joinphrase": " & ",
+                  "name": "Richard M. Sherman"
+                },
+                {
+                  "id": "d378dedb-444f-48f5-a6e6-3e8e31ef6c14",
+                  "joinphrase": ", ",
+                  "name": "Robert B. Sherman"
+                },
+                {
+                  "id": "0a8df504-df94-4d77-a3c5-2b9e5c9727e2",
+                  "name": "Terry Gilkyson"
+                }
+              ],
+              "id": "1257fcdf-743f-3dff-9894-107b398fb777",
+              "secondarytypes": [
+                "Soundtrack"
+              ],
+              "title": "The Jungle Book: Original Cast Soundtrack",
+              "type": "Album"
+            }
+          ],
+          "title": "Tiger Fight"
+        },
+        {
+          "artists": [
+            {
+              "id": "c47026a1-3300-4cf7-80df-8b9462a884e4",
+              "joinphrase": " & ",
+              "name": "Richard M. Sherman"
+            },
+            {
+              "id": "d378dedb-444f-48f5-a6e6-3e8e31ef6c14",
+              "name": "Robert B. Sherman"
+            }
+          ],
+          "duration": 158,
+          "id": "621eecb4-59ad-4f6d-a9d0-df3cc56ae7c8",
+          "releasegroups": [
+            {
+              "id": "094618e5-1dde-3f3e-a2fd-cefec8929675",
+              "secondarytypes": [
+                "Soundtrack"
+              ],
+              "title": "Das Dschungelbuch",
+              "type": "Album"
+            }
+          ],
+          "title": "Tigerkampf"
+        },
+        {
+          "artists": [
+            {
+              "id": "4204e06b-d2e4-4823-b6f3-47f7593518cb",
+              "name": "George Bruns"
+            }
+          ],
+          "duration": 163,
+          "id": "841b8bc7-ff2a-4783-b7dd-4148e687eaa8",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "4204e06b-d2e4-4823-b6f3-47f7593518cb",
+                  "joinphrase": ", ",
+                  "name": "George Bruns"
+                },
+                {
+                  "id": "0a8df504-df94-4d77-a3c5-2b9e5c9727e2",
+                  "joinphrase": ", ",
+                  "name": "Terry Gilkyson"
+                },
+                {
+                  "id": "c47026a1-3300-4cf7-80df-8b9462a884e4",
+                  "joinphrase": " & ",
+                  "name": "Richard M. Sherman"
+                },
+                {
+                  "id": "d378dedb-444f-48f5-a6e6-3e8e31ef6c14",
+                  "name": "Robert B. Sherman"
+                }
+              ],
+              "id": "44243185-02f8-4901-bfd2-1551bf42823d",
+              "secondarytypes": [
+                "Soundtrack"
+              ],
+              "title": "Le Livre de la jungle",
+              "type": "Album"
+            }
+          ],
+          "title": "Lutte avec le tigre (instrumental)"
+        }
+      ],
+      "score": 0.943499
+    }
+  ],
+  "status": "ok"
+}

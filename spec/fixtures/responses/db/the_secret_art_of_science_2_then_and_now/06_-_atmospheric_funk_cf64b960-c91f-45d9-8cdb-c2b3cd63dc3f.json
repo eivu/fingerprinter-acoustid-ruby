@@ -1,0 +1,29 @@
+{
+  "results": [
+    {
+      "id": "86e5d446-7507-4fe7-8837-50d8bd21eedd",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "022b58ea-6098-411d-b88a-652821d4c191",
+              "name": "DJ DB"
+            }
+          ],
+          "duration": 241,
+          "id": "5e6f4f66-a582-4feb-8e09-1e0a294063b2",
+          "releasegroups": [
+            {
+              "id": "c4ec56dc-8c9d-4079-b899-a096beffdcc0",
+              "title": "The Secret Art Of Science 2",
+              "type": "Album"
+            }
+          ],
+          "title": "Atmospheric Funk"
+        }
+      ],
+      "score": 0.983053
+    }
+  ],
+  "status": "ok"
+}

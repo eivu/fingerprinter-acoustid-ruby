@@ -21,7 +21,7 @@ http_interactions:
       message: OK
     headers:
       Date:
-      - Tue, 29 Jun 2021 13:48:19 GMT
+      - Tue, 29 Jun 2021 21:24:06 GMT
       Content-Type:
       - application/json; charset=UTF-8
       Transfer-Encoding:
@@ -33,7 +33,7 @@ http_interactions:
       Access-Control-Allow-Origin:
       - "*"
       X-Envoy-Upstream-Service-Time:
-      - '885'
+      - '116'
       Strict-Transport-Security:
       - max-age=15724800; includeSubDomains
     body:
@@ -128,5 +128,5 @@ http_interactions:
         ["Compilation"], "title": "100 Hits American Woman", "type": "Album"}], "title":
         "The Chain"}], "score": 0.642867}], "status": "ok"}'
     http_version:
-  recorded_at: Tue, 29 Jun 2021 13:48:19 GMT
+  recorded_at: Tue, 29 Jun 2021 21:24:06 GMT
 recorded_with: VCR 3.0.3

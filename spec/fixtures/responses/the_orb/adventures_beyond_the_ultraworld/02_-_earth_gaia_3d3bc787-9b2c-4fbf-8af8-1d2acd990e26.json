@@ -1,0 +1,56 @@
+{
+  "results": [
+    {
+      "id": "68794079-767b-4aae-bee9-4cc157e4deff",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "42c14c80-bd17-47e4-9bb2-a35897638c4d",
+              "name": "The Orb"
+            }
+          ],
+          "duration": 474,
+          "id": "e350ace1-5cc8-4f0d-be7b-a1fa6ae8d64c",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "e8511f7e-c56c-34b9-a1c4-d68222d1170d",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Space Night Vol. II",
+              "type": "Album"
+            }
+          ],
+          "title": "Earth (Gaia)"
+        },
+        {
+          "artists": [
+            {
+              "id": "42c14c80-bd17-47e4-9bb2-a35897638c4d",
+              "name": "The Orb"
+            }
+          ],
+          "duration": 588,
+          "id": "e9c094c3-b788-46b6-b8c8-ca525f59693a",
+          "releasegroups": [
+            {
+              "id": "27b682b2-dd29-3e15-8ef2-f6475f4d262f",
+              "title": "The Orb’s Adventures Beyond the Ultraworld",
+              "type": "Album"
+            }
+          ],
+          "title": "Earth (Gaia)"
+        }
+      ],
+      "score": 0.980565
+    }
+  ],
+  "status": "ok"
+}

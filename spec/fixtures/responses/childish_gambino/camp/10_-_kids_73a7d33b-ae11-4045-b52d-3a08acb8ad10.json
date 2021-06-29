@@ -1,0 +1,32 @@
+{
+  "results": [
+    {
+      "id": "4acf45ac-ce35-463b-9637-e7e557a5aeab",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "7fb57fba-a6ef-44c2-abab-2fa3bdee607e",
+              "name": "Childish Gambino"
+            }
+          ],
+          "duration": 297,
+          "id": "029055b9-4ffe-4cbc-8f9f-7be5696b91f9",
+          "releasegroups": [
+            {
+              "id": "5253c012-f7d3-440e-919b-5bac6d91ae7e",
+              "title": "Camp",
+              "type": "Album"
+            }
+          ],
+          "title": "Kids (Keep Up)"
+        },
+        {
+          "id": "65c99e84-0dd0-4a3f-a4c1-1d7f6eda2365"
+        }
+      ],
+      "score": 0.908492
+    }
+  ],
+  "status": "ok"
+}

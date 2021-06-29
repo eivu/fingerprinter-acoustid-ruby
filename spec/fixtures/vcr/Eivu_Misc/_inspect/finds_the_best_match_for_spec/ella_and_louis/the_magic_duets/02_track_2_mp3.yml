@@ -21,7 +21,7 @@ http_interactions:
       message: OK
     headers:
       Date:
-      - Tue, 29 Jun 2021 13:32:40 GMT
+      - Tue, 29 Jun 2021 21:19:13 GMT
       Content-Type:
       - application/json; charset=UTF-8
       Transfer-Encoding:
@@ -33,7 +33,7 @@ http_interactions:
       Access-Control-Allow-Origin:
       - "*"
       X-Envoy-Upstream-Service-Time:
-      - '87'
+      - '144'
       Strict-Transport-Security:
       - max-age=15724800; includeSubDomains
     body:
@@ -107,5 +107,5 @@ http_interactions:
         "secondarytypes": ["Compilation"], "title": "Icons", "type": "Album"}], "title":
         "Can Anyone Explain? (No! No! No!)"}], "score": 0.935654}], "status": "ok"}'
     http_version:
-  recorded_at: Tue, 29 Jun 2021 13:32:41 GMT
+  recorded_at: Tue, 29 Jun 2021 21:19:13 GMT
 recorded_with: VCR 3.0.3

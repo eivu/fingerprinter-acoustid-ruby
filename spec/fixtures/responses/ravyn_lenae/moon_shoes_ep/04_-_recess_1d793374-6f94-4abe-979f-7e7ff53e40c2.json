@@ -1,0 +1,29 @@
+{
+  "results": [
+    {
+      "id": "3e565b60-a677-4ff4-bfb8-a2f5609e8a21",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "94c64122-dbd4-4927-b2fa-f204b0b4b0c2",
+              "name": "Ravyn Lenae"
+            }
+          ],
+          "duration": 188,
+          "id": "db808b85-ec96-442a-9df1-2031791c5ca5",
+          "releasegroups": [
+            {
+              "id": "74223740-723a-4b35-96c4-147d71c0d335",
+              "title": "Moon Shoes",
+              "type": "EP"
+            }
+          ],
+          "title": "Recess"
+        }
+      ],
+      "score": 0.997033
+    }
+  ],
+  "status": "ok"
+}

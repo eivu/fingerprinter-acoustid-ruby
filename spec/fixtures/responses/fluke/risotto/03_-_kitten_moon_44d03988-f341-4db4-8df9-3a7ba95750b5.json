@@ -1,0 +1,29 @@
+{
+  "results": [
+    {
+      "id": "39c7038d-031b-4022-889b-4353150f8522",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "3c3d3ad8-3935-4c00-affb-768563916f36",
+              "name": "Fluke"
+            }
+          ],
+          "duration": 558,
+          "id": "ea1f5bd0-0c56-41ad-951b-9144858ea87a",
+          "releasegroups": [
+            {
+              "id": "50615933-ee44-33a2-b6e1-75f9dd35b937",
+              "title": "Risotto",
+              "type": "Album"
+            }
+          ],
+          "title": "Kitten Moon"
+        }
+      ],
+      "score": 0.964587
+    }
+  ],
+  "status": "ok"
+}

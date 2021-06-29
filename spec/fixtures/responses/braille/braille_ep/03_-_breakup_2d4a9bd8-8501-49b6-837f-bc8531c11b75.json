@@ -1,0 +1,85 @@
+{
+  "results": [
+    {
+      "id": "0ea3156f-7c7d-402d-b688-2e17245142e8",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "d20cbbbb-7359-47eb-b724-a17274989b42",
+              "name": "Braille"
+            }
+          ],
+          "duration": 328,
+          "id": "40183bc8-160a-4b4e-85a4-45d8e6c8843d",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "8bb978c1-a003-4f6f-ac53-0c84ec8b28ee",
+                  "name": "Scuba"
+                }
+              ],
+              "id": "3a7dcb96-f203-426f-a87d-ffb09581a353",
+              "secondarytypes": [
+                "Compilation",
+                "DJ-mix"
+              ],
+              "title": "DJ-Kicks: Scuba",
+              "type": "Album"
+            }
+          ],
+          "title": "Breakup"
+        },
+        {
+          "artists": [
+            {
+              "id": "d20cbbbb-7359-47eb-b724-a17274989b42",
+              "name": "Braille"
+            }
+          ],
+          "duration": 235,
+          "id": "7040f8d3-e15a-4e8f-ade4-57347f05e355",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "8bb978c1-a003-4f6f-ac53-0c84ec8b28ee",
+                  "name": "Scuba"
+                }
+              ],
+              "id": "3a7dcb96-f203-426f-a87d-ffb09581a353",
+              "secondarytypes": [
+                "Compilation",
+                "DJ-mix"
+              ],
+              "title": "DJ-Kicks: Scuba",
+              "type": "Album"
+            }
+          ],
+          "title": "Breakup"
+        },
+        {
+          "artists": [
+            {
+              "id": "d20cbbbb-7359-47eb-b724-a17274989b42",
+              "name": "Braille"
+            }
+          ],
+          "duration": 326,
+          "id": "c37df246-2188-4b55-ab3f-e94bfe606926",
+          "releasegroups": [
+            {
+              "id": "02deedd2-3874-4db0-bd23-110019cdcfb2",
+              "title": "A Meaning",
+              "type": "EP"
+            }
+          ],
+          "title": "Breakup"
+        }
+      ],
+      "score": 0.901872
+    }
+  ],
+  "status": "ok"
+}

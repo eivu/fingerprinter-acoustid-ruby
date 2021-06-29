@@ -1,0 +1,444 @@
+{
+  "results": [
+    {
+      "id": "73369a42-60dc-4252-8962-45f476eeec45",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "bd13909f-1c29-4c27-a874-d4aaf27c5b1a",
+              "name": "Fleetwood Mac"
+            }
+          ],
+          "duration": 270,
+          "id": "cd06c484-9319-4376-a104-504871e19756",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "bd13909f-1c29-4c27-a874-d4aaf27c5b1a",
+                  "name": "Fleetwood Mac"
+                }
+              ],
+              "id": "ff1401ed-44e6-46f8-8ab3-232b34603552",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Fleetwood Mac / Rumours",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "80447165-d1fc-4ad1-921d-3fa972d7710b",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "100 Greatest Classic Rock Songs",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "bd13909f-1c29-4c27-a874-d4aaf27c5b1a",
+                  "name": "Fleetwood Mac"
+                }
+              ],
+              "id": "7a815e9e-7fa4-3d9e-a9ea-3d15a3ff677d",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "The Very Best of Fleetwood Mac",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "7e836750-3cd3-4c71-aa9e-b5143bc56a2b",
+              "secondarytypes": [
+                "Soundtrack"
+              ],
+              "title": "Guardians of the Galaxy: Awesome Mix, Vol. 2 (Original Motion Picture Soundtrack)",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "5e374c38-5fcd-4943-b4c5-2489372fcab9",
+              "secondarytypes": [
+                "Soundtrack"
+              ],
+              "title": "I, Tonya",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "bd13909f-1c29-4c27-a874-d4aaf27c5b1a",
+                  "name": "Fleetwood Mac"
+                }
+              ],
+              "id": "416bb5e5-c7d1-3977-8fd7-7c9daf6c2be6",
+              "title": "Rumours",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "247066b1-6292-456e-bf2f-2c5ece8dc4d1",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "100 Hits American Woman",
+              "type": "Album"
+            }
+          ],
+          "title": "The Chain"
+        },
+        {
+          "artists": [
+            {
+              "id": "bd13909f-1c29-4c27-a874-d4aaf27c5b1a",
+              "name": "Fleetwood Mac"
+            }
+          ],
+          "duration": 266,
+          "id": "d4751aa8-3fd9-4e64-993c-c530ba6e20dd",
+          "releasegroups": [
+            {
+              "id": "c5e1e90f-a702-3a7c-831e-4be25c5dc528",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Rumours Outtakes",
+              "type": "Album"
+            }
+          ],
+          "title": "The Chain"
+        },
+        {
+          "artists": [
+            {
+              "id": "bd13909f-1c29-4c27-a874-d4aaf27c5b1a",
+              "name": "Fleetwood Mac"
+            }
+          ],
+          "duration": 269,
+          "id": "fa007a56-d648-4428-a532-c2a4e985d9fa",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "bd13909f-1c29-4c27-a874-d4aaf27c5b1a",
+                  "name": "Fleetwood Mac"
+                }
+              ],
+              "id": "6c59167c-4ce9-4091-b812-464bc8ed8f5e",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "50 Years: Don’t Stop",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "159da484-2996-4ea4-a085-709e94bf87e3",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Classic Cuts, Volume 160: Legends",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "5a2ed760-4c83-4d00-aa64-1ee604a8458c",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Bacobens Rock Top 500 (CD5)",
+              "type": "Album"
+            }
+          ],
+          "title": "The Chain"
+        }
+      ],
+      "score": 0.994792
+    },
+    {
+      "id": "c0b5c25e-e69e-4df3-a6e6-9b7ce87be97e",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "bd13909f-1c29-4c27-a874-d4aaf27c5b1a",
+              "name": "Fleetwood Mac"
+            }
+          ],
+          "duration": 270,
+          "id": "cd06c484-9319-4376-a104-504871e19756",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "bd13909f-1c29-4c27-a874-d4aaf27c5b1a",
+                  "name": "Fleetwood Mac"
+                }
+              ],
+              "id": "ff1401ed-44e6-46f8-8ab3-232b34603552",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Fleetwood Mac / Rumours",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "80447165-d1fc-4ad1-921d-3fa972d7710b",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "100 Greatest Classic Rock Songs",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "bd13909f-1c29-4c27-a874-d4aaf27c5b1a",
+                  "name": "Fleetwood Mac"
+                }
+              ],
+              "id": "7a815e9e-7fa4-3d9e-a9ea-3d15a3ff677d",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "The Very Best of Fleetwood Mac",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "7e836750-3cd3-4c71-aa9e-b5143bc56a2b",
+              "secondarytypes": [
+                "Soundtrack"
+              ],
+              "title": "Guardians of the Galaxy: Awesome Mix, Vol. 2 (Original Motion Picture Soundtrack)",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "5e374c38-5fcd-4943-b4c5-2489372fcab9",
+              "secondarytypes": [
+                "Soundtrack"
+              ],
+              "title": "I, Tonya",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "bd13909f-1c29-4c27-a874-d4aaf27c5b1a",
+                  "name": "Fleetwood Mac"
+                }
+              ],
+              "id": "416bb5e5-c7d1-3977-8fd7-7c9daf6c2be6",
+              "title": "Rumours",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "247066b1-6292-456e-bf2f-2c5ece8dc4d1",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "100 Hits American Woman",
+              "type": "Album"
+            }
+          ],
+          "title": "The Chain"
+        },
+        {
+          "artists": [
+            {
+              "id": "bd13909f-1c29-4c27-a874-d4aaf27c5b1a",
+              "name": "Fleetwood Mac"
+            }
+          ],
+          "duration": 266,
+          "id": "d4751aa8-3fd9-4e64-993c-c530ba6e20dd",
+          "releasegroups": [
+            {
+              "id": "c5e1e90f-a702-3a7c-831e-4be25c5dc528",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Rumours Outtakes",
+              "type": "Album"
+            }
+          ],
+          "title": "The Chain"
+        }
+      ],
+      "score": 0.945148
+    },
+    {
+      "id": "44a2c4c6-8d6a-4a55-8b28-21da46f17068",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "bd13909f-1c29-4c27-a874-d4aaf27c5b1a",
+              "name": "Fleetwood Mac"
+            }
+          ],
+          "duration": 270,
+          "id": "cd06c484-9319-4376-a104-504871e19756",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "bd13909f-1c29-4c27-a874-d4aaf27c5b1a",
+                  "name": "Fleetwood Mac"
+                }
+              ],
+              "id": "ff1401ed-44e6-46f8-8ab3-232b34603552",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Fleetwood Mac / Rumours",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "80447165-d1fc-4ad1-921d-3fa972d7710b",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "100 Greatest Classic Rock Songs",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "bd13909f-1c29-4c27-a874-d4aaf27c5b1a",
+                  "name": "Fleetwood Mac"
+                }
+              ],
+              "id": "7a815e9e-7fa4-3d9e-a9ea-3d15a3ff677d",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "The Very Best of Fleetwood Mac",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "7e836750-3cd3-4c71-aa9e-b5143bc56a2b",
+              "secondarytypes": [
+                "Soundtrack"
+              ],
+              "title": "Guardians of the Galaxy: Awesome Mix, Vol. 2 (Original Motion Picture Soundtrack)",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "5e374c38-5fcd-4943-b4c5-2489372fcab9",
+              "secondarytypes": [
+                "Soundtrack"
+              ],
+              "title": "I, Tonya",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "bd13909f-1c29-4c27-a874-d4aaf27c5b1a",
+                  "name": "Fleetwood Mac"
+                }
+              ],
+              "id": "416bb5e5-c7d1-3977-8fd7-7c9daf6c2be6",
+              "title": "Rumours",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "247066b1-6292-456e-bf2f-2c5ece8dc4d1",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "100 Hits American Woman",
+              "type": "Album"
+            }
+          ],
+          "title": "The Chain"
+        }
+      ],
+      "score": 0.642867
+    }
+  ],
+  "status": "ok"
+}

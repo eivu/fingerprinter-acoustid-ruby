@@ -1,0 +1,81 @@
+{
+  "results": [
+    {
+      "id": "63945f06-192c-4e3b-a59e-6a02164925a9",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "596ffa74-3d08-44ef-b113-765d43d12738",
+              "name": "Justin Timberlake"
+            }
+          ],
+          "duration": 430,
+          "id": "461d2301-850e-4bc4-a57d-e7845561b9e6",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "596ffa74-3d08-44ef-b113-765d43d12738",
+                  "name": "Justin Timberlake"
+                }
+              ],
+              "id": "deae6fc2-a675-4f35-9565-d2aaea4872c7",
+              "title": "The 20/20 Experience",
+              "type": "Album"
+            },
+            {
+              "id": "fe51b20f-83e4-49dd-9a36-b8d4da138325",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "The Complete 20/20 Experience",
+              "type": "Album"
+            }
+          ],
+          "title": "Don’t Hold the Wall"
+        }
+      ],
+      "score": 0.996835
+    },
+    {
+      "id": "d83e714b-98a6-4275-b64f-6e4f0567a9c1",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "596ffa74-3d08-44ef-b113-765d43d12738",
+              "name": "Justin Timberlake"
+            }
+          ],
+          "duration": 430,
+          "id": "461d2301-850e-4bc4-a57d-e7845561b9e6",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "596ffa74-3d08-44ef-b113-765d43d12738",
+                  "name": "Justin Timberlake"
+                }
+              ],
+              "id": "deae6fc2-a675-4f35-9565-d2aaea4872c7",
+              "title": "The 20/20 Experience",
+              "type": "Album"
+            },
+            {
+              "id": "fe51b20f-83e4-49dd-9a36-b8d4da138325",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "The Complete 20/20 Experience",
+              "type": "Album"
+            }
+          ],
+          "title": "Don’t Hold the Wall"
+        }
+      ],
+      "score": 0.694686
+    }
+  ],
+  "status": "ok"
+}

@@ -1,0 +1,40 @@
+{
+  "results": [
+    {
+      "id": "02925616-d730-4229-8948-be72cf157b78",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "fc7376fe-1a6f-4414-b4a7-83f50ed59c92",
+              "joinphrase": " feat. ",
+              "name": "Flying Lotus"
+            },
+            {
+              "id": "321531fc-db73-4ffa-a959-61a61a2908c1",
+              "name": "Erykah Badu"
+            }
+          ],
+          "duration": 174,
+          "id": "74ca1f3b-fe95-4f05-ad57-470b08b21717",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "fc7376fe-1a6f-4414-b4a7-83f50ed59c92",
+                  "name": "Flying Lotus"
+                }
+              ],
+              "id": "eb9e0983-2478-4494-a8e2-e4117c2ba40f",
+              "title": "Until the Quiet Comes",
+              "type": "Album"
+            }
+          ],
+          "title": "See Thru to U"
+        }
+      ],
+      "score": 0.928232
+    }
+  ],
+  "status": "ok"
+}

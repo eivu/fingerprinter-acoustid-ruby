@@ -1,0 +1,49 @@
+{
+  "results": [
+    {
+      "id": "27509ed3-7f4d-4284-a7f0-fc3f39e7bda6",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "4bc9e8c3-7eae-454f-a56c-bccf96f3926b",
+              "name": "Sammy Davis Jr."
+            }
+          ],
+          "duration": 140,
+          "id": "0c1d7071-d7f0-4d48-a861-98732339b798",
+          "releasegroups": [
+            {
+              "id": "4d612100-c323-3518-8cd6-3799c617e332",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Yes I Can! The Sammy Davis Jr. Story",
+              "type": "Album"
+            }
+          ],
+          "title": "Once in a Lifetime (live)"
+        },
+        {
+          "artists": [
+            {
+              "id": "4bc9e8c3-7eae-454f-a56c-bccf96f3926b",
+              "name": "Sammy Davis Jr."
+            }
+          ],
+          "duration": 143,
+          "id": "f38e5f00-09aa-452e-9047-79e5963f6c8c",
+          "releasegroups": [
+            {
+              "id": "6fac76ed-b861-3519-9df3-04355946ec58",
+              "title": "At the Cocoanut Grove"
+            }
+          ],
+          "title": "Once a Lifetime"
+        }
+      ],
+      "score": 0.998022
+    }
+  ],
+  "status": "ok"
+}

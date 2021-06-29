@@ -1,0 +1,40 @@
+{
+  "results": [
+    {
+      "id": "b03f3f03-1785-4079-a6fa-c64e9c36075d",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "97b226c8-7140-4da3-91ac-15e62e131a81",
+              "name": "Macklemore & Ryan Lewis"
+            }
+          ],
+          "duration": 224,
+          "id": "c8b9a2e9-3cc4-420d-a25b-3db2f1ad59c3",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "97b226c8-7140-4da3-91ac-15e62e131a81",
+                  "name": "Macklemore & Ryan Lewis"
+                }
+              ],
+              "id": "e6c51635-9eaf-4096-8413-101eefbb6fb6",
+              "title": "Make the Money",
+              "type": "Single"
+            },
+            {
+              "id": "22315cdd-4ed9-427c-9492-560cf4afed58",
+              "title": "The Heist",
+              "type": "Album"
+            }
+          ],
+          "title": "Make the Money"
+        }
+      ],
+      "score": 0.968486
+    }
+  ],
+  "status": "ok"
+}

@@ -1,0 +1,5217 @@
+{
+  "results": [
+    {
+      "id": "336aa54c-0101-42f5-83d8-1df7d83e01b6",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "3e55d51d-687f-4a9d-af96-2fabccf802e5",
+              "name": "The Cardigans"
+            }
+          ],
+          "duration": 196,
+          "id": "42f6cca7-10c3-46b0-8028-b27ba4f2d596",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "08bfcc02-71d3-4095-9e58-8b27ee5fa66b",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "40X Love",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "3e55d51d-687f-4a9d-af96-2fabccf802e5",
+                  "name": "The Cardigans"
+                }
+              ],
+              "id": "332bd203-9eec-3435-b289-2e6c6779636a",
+              "title": "Lovefool",
+              "type": "Single"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "86dc0451-dda5-4add-b537-54203eac90df",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Hits on TV 2003",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "19429f69-2f21-308c-8a7f-65d2b569f560",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "90s Anthems",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "a032d21d-eb4c-4582-a42f-4978c0355af0",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "True School Party",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "5b52caa3-b45c-3bfe-b2f2-bd6c9dd17f18",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Chick Flicks: The Sequel",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "3e55d51d-687f-4a9d-af96-2fabccf802e5",
+                  "name": "The Cardigans"
+                }
+              ],
+              "id": "80bd5fb4-5547-36ec-9060-adbe7faa1215",
+              "title": "Your New Cuckoo",
+              "type": "Single"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "6dbed32e-4e8a-39de-bc4e-76ad1c6dc913",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Fresh Hits 1997",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "323c4c35-a016-4f81-a095-32d7754343e8",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "The Best Movie Album in the World... Ever!",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "3df719ce-503d-4d14-b25d-47686a3b370a",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "We Love Lovesongs",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "0d2e00e8-485d-32e1-b0ed-d756b28c689b",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "The All Time Greatest Movie Songs, Volume 1",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "773f1258-ff6e-41f9-b365-534505ccd1ee",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Hits for Kids, Vol. 9",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "ce7f6a36-eb4d-3e46-b4bb-68c24b0f19f6",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "MTV Fresh 3",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "c433d8fd-23d0-3c00-bf95-30552edcdd16",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "20 Years on MTV: 1997",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "05867795-4675-4686-9f02-b8ce0caf88b3",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "80’s and 90’s Hits",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "2525cbd2-c722-3297-8d84-56a9beab4ac3",
+              "secondarytypes": [
+                "Soundtrack"
+              ],
+              "title": "The Very Best of Cold Feet",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "45de1147-6645-3675-82a3-77903c6e0af7",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Diamonds: Love Songs Are Forever",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "19c93ad9-be27-436e-a2cb-a51b4757bf1c",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Cleaning Motivation Songs"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "aedfa0dd-419d-3b75-b887-4e99e21521c6",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Indie Anthems",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "b96329f1-286f-3789-931c-fcf4b5ae8ae0",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Absolute Music 13",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "3e55d51d-687f-4a9d-af96-2fabccf802e5",
+                  "name": "The Cardigans"
+                }
+              ],
+              "id": "33a35fc0-1126-30c2-a046-b2803116f882",
+              "title": "First Band on the Moon",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "a0f955f3-af29-4960-9b95-8a919d622721",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "No.1: The Greatest Hit Songs",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "98152d4b-39d3-4284-b621-e8296924530b",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Made in the 90s",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "a5c6b3f2-5dbf-35d6-b3c3-86e882f315fd",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "10 Jahre Antenne Bayern: Birthday Collection",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "6e1c6e81-0635-384a-a963-1907d9fa2c98",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Most Wanted Music 1",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "6bc24e03-db85-304c-b03d-0c4e3ce0dc39",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Best of ’97",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "44453dc3-2668-3570-97d8-b92116aaeed8",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Now That’s What I Call Music! 3",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "9c9b5082-1b55-4ff0-a6f0-c53947bdfdf5",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Absolute Svenska Klassiker",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "81cd2f84-dffe-3fdb-b48b-07f283a08073",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Radioactive Chartbusters, Volume 3",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "a38c3b5d-e482-4ca7-b8d1-7da918c8eb4d",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Mr Music Hits 9-96",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "9dc7031d-b034-34d6-a1b3-e27970099e0a",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "One Shot '90, Volume 3",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "e9d6df7d-fc7a-3aff-94e5-386ec4b9129c",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Woman II",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "9f55831c-ebc8-3585-b495-5cf99573f975",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "A Woman’s Touch",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "b9538123-4122-4f76-a049-718316de7f12",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Best of My Love: Songs From the Heart 1961-2011",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "2bf5039e-694f-4479-97b4-70f4757736e5",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Saved by the Girl",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "14bfbbed-9045-49d4-b6c9-6d5d76a766c6",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Crazy in Love",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "6fb92296-c773-3a50-a8e3-817bc874cab8",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "The Best Anthems… Ever! Volume 2",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "03db85ec-1115-4628-90a8-26fdf00f8695",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Forever 90s",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "51e4e2d6-e297-386a-8bfd-0b4d2d37f150",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Real Love",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "aa4c900b-4ebb-4d22-b99f-bed4294c89a0",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "BBC Radio 2's Tracks Of My Years With Ken Bruce",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "2eb51e0c-1406-40ed-9d70-b1852def311b",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "The All Time Greatest Movie Songs of the Last 3 Decades",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "c63e7527-07c8-4861-ac29-e554bf5cf217",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Britpop at the BBC",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "b95cceaf-4108-3ecc-a037-b76e4c04300e",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Shine: Best of 97",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "bd1ffd44-bee3-35e7-b04c-cd971cde5ffe",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "100% Bittersweet Melodies",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "e56d94f6-bce0-41c3-be74-b5330ef96753",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Cleaning Motivation"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "f0c5315c-7b71-4af5-b609-81df38a44507",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "100 Essential Hits - 90s",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "e19eb786-2966-365b-b924-d5665660f7c2",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "100 Nineties Classics",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "bce72dfd-8725-3762-9917-c0663e582278",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Woman 2",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "3af10464-e9cd-458a-83d4-e8ba2d76af7e",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Happy End: 20 oscarreife Filmhits",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "abf391c0-101b-4a17-8278-496abc47e6ac",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "101 90s Hits",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "7ce956b1-6bd3-3b9b-831c-4994dab00b5a",
+              "secondarytypes": [
+                "Soundtrack"
+              ],
+              "title": "Cold Feet",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "4c869072-4f97-45f2-8043-69b3e617cbe6",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Les 100 plus grands tubes",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "8995e5d7-6bb6-3feb-8a12-64d5f7514313",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Platin, Vol. 2",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "66a851c4-ac1e-32fe-be31-d294a3df248e",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Now That’s What I Call Music! 1997: The Millennium Series",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "3611fe50-3d6b-4010-9a58-ad58c22cafbb",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Greatest Ever! School Days: The Definitive Collection",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "ad5ed68d-2f92-3b66-ac73-0604cbef4f66",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Video Hits 96–06",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "b85632bb-fe65-475b-a5c4-2768475ddd1e",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "De Pre Historie 1997",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "efc1e6db-136e-463a-8d9b-aea0f8df84f5",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "American Dreams",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "ffb071c9-2ff0-30fe-a8a8-8f13fa0c266e",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "FriendsReunited.co.uk: The 90s",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "6382e768-436a-49b3-8b6c-f132ddc31462",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "100 Film Classics",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "1047ecd9-022c-4ede-9cd9-9914a189549a",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Top 97: Die besten Hits des Jahres",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "b64781da-e928-3401-aad0-e7c9fcfc9600",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Kuschelrock Special Edition: Die schönsten Movie-Songs aller Zeiten",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "66487554-15e1-456c-a3ed-31d64c2a404f",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Life's Greatest Hits",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "2b20c833-d800-4fb7-9f46-5d30536daa15",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "The Ultimate Collection: Feeling Good: 100 Hits",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "8832f9d6-7f2d-387d-bd93-77a5e6948409",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "107.5: Songs We Know You Love",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "2ccc155a-4595-471d-a9f0-bdf62e3783b2",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Turn It Up & Pass It On, Volume 10",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "89265a59-ad77-41a1-ac5e-47d8a0d00ccc",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Liebe ist... Best Of",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "345ede86-fc54-3aea-94e5-e801a4dcc574",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Woman",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "51d6123c-6c80-4322-86e8-a3c35bef32fd",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Booom ’97: The Third",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "3e55d51d-687f-4a9d-af96-2fabccf802e5",
+                  "name": "The Cardigans"
+                }
+              ],
+              "id": "88e04fd5-f6db-329b-a5d8-61ca9e1e7f9e",
+              "secondarytypes": [
+                "Interview"
+              ],
+              "title": "iTunes Originals",
+              "type": "Other"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "f87d6c3c-e97d-4178-a3ac-9bc0abc7f293",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "On the Road",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "845f5b1e-52d0-4404-8e99-cceda8d3bda5",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Fetenhits: 90’s Best Of",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "d0e81935-ce3a-3bed-81aa-95385104414c",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "All Stars Disco 9 & 10",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "4ea78828-05f1-302c-b132-d79e4506bed8",
+              "secondarytypes": [
+                "Soundtrack"
+              ],
+              "title": "Enron: The Smartest Guys in the Room",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "5193ea94-6b6e-4321-9cb6-359978f30f1c",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "RDS 100 successi per ogni occasione",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "155636e5-0762-3dac-906d-305b97de8716",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "1990's Rock",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "a8b7c7db-96e6-3d32-ae12-1d98c684e27d",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Unstoppable 90's: Alternative",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "6a9b0bf0-ff7e-4b77-a45d-25167f49e091",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Knuffelrock Special Edition: De Mooiste Film-Hits Allertijden",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "1778abab-3e17-4ab7-ac8e-f6704b3e8a5c",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Absolute 90’s, Vol. 2",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "a0102f00-8d52-44cf-8e2d-f3da45457984",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Дискач 90-х DFM",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "907eb715-5af7-46e5-b3f6-c5b3569d5a45",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Top 50 - 30 Ans (100 Tubes), Vol. 3",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "3e55d51d-687f-4a9d-af96-2fabccf802e5",
+                  "name": "The Cardigans"
+                }
+              ],
+              "id": "fad3995d-8a10-3d91-94cd-6841ace900a4",
+              "secondarytypes": [
+                "Remix"
+              ],
+              "title": "2 in 1",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "d61864ec-c8f5-42d5-b7ef-cd058e2775c6",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "90s Anthems - The Ultimate Collection",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "9d788ca7-8a7e-3411-826d-831cfa34a0f6",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "All Women",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "b0e52ef9-fa55-492c-af3c-7d68743cc164",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Bachelorette Party",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "e4b83693-53b8-4f9b-b266-7078a5d8b0d1",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "The Boys of Summer",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "791d81fc-ccbc-455e-b984-dc15d8ffefa1",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "You Gotta Try New Music, Volume 3"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "892045f2-ce6d-4e8f-b72e-c51271ee8fe6",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Lieblings… Radio Hits",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "41fe22c9-5f3f-48fa-8487-862f782c9ab2",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Dinner Party Summer",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "31a63755-33ca-3fdc-97fd-73a1c81d7261",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "MTV Buzz Bin, Volume 2",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "870701b5-be34-4a14-b7af-ca44abdf7d78",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "101 Hits: Are We There Yet?!",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "44a94fb6-438c-4258-8d5c-18abda15ffe5",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "100 Hits: Movies",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "a02985e2-251e-3a29-a67d-83cd5340ac5c",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Pure 90's",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "cd8e0e0a-1ddb-3f88-b5f7-01f4094f3b6c",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Shine 6",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "20589768-2bb4-4859-a04d-9115b098d5e3",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Starmania: Original Hits, Vol. 1",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "612d426b-7393-3c18-a1cd-11bdd49666de",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Essential Songs: Spring Collection",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "1fb4c837-1d26-4a38-aca0-5fc87059b4bd",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "The Best of 90’s Festival",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "618a94f1-b323-4758-b91c-2c7c71d240b3",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Shine",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "42dddb0b-c6b5-3f37-a1cd-c8629627c855",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Now That's What I Call Music",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "81eb3f57-73e8-3edc-be21-f1039bec74bb",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Simply the Best Movie Album",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "fcb7cd13-52fc-3518-8085-edf137d18d82",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Ground Zero",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "ac02e63f-73f7-44c2-bb4f-971f5254fb8e",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "C’était mieux avant : Les Années 90",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "ed6e0e25-fa6a-464d-9ed8-9746ce02c273",
+              "title": "Songs for You"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "cf41036a-4ffb-4a3d-bf53-49fb76e0bbb2",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "This Year's Love (Now and Forever)",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "4277df58-2533-3d8d-ab8d-35b8eae04a35",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Greatest Hits 1996",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "9346cf3b-7c02-300d-aa88-3597e36875df",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Tips - News - Trends: Albums KW 15/16",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "b4348fdd-1646-4268-8fdc-68a2a688ea30",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Movie930",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "c461a54f-7e71-37a9-86f3-9ed3732425ff",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Crush",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "745dc312-ba89-33c8-ad70-4e3fe75c14d7",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Movies' Greatest Love Songs",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "b79b81ec-6cba-4b70-85be-3a1b531c8c7a",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "100 Hits: Girls Night",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "650ebbf1-e25c-3f13-ac2b-d98010c1c5ee",
+              "secondarytypes": [
+                "Soundtrack"
+              ],
+              "title": "William Shakespeare’s Romeo + Juliet: Music From the Motion Picture",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "a88c53b7-645f-32fa-92d7-665d283585d4",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "The Best of Shine",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "ee62c493-eb1e-36f7-99db-5d3bc5b0faee",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Now That’s What I Call Music! 37",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "28eedba4-e395-44c1-ab37-137c7881badd",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "90’s Movies Hits"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "04ca2165-23d9-39c1-8d61-8340d3fa83c0",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "100% Hits: The Best of '97",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "cc401134-0668-4931-8782-33993c7a2d4a",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Joe Top 2000, Volume 8",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "4c8f037a-2ee5-4ad0-9719-ea8641268299",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Whatever: One Hit Wonders of the '90s",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "59af0950-72e4-4149-a59f-ee1d82c32702",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "100 Acoustic Memories",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "3e55d51d-687f-4a9d-af96-2fabccf802e5",
+                  "name": "The Cardigans"
+                }
+              ],
+              "id": "1386af4b-0adb-3aa9-bf7f-4753c3acb387",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Best Of",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "bf646de0-4f81-4b72-a881-2a730736666a",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Top of the Pops: 1995–2000",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "e0534a53-3842-477d-9f8c-e7025ee5d6c6",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "The Braun MTV Eurochart '97, Volume 7",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "fe6fddb2-a2c0-40b6-bedd-3cf527bcea34",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "The All Time Greatest Love Songs V",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "dd44b390-f98f-3167-a72d-e5fc78d0dedd",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Your Favorite Chick Flix Songs From the Movies!",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "646bb47a-8cd9-3b12-a07b-dd586b34acaa",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Knuffelrock 12",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "03bd7378-02fc-33dc-96cb-75913063dcac",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "The Ultimate Chick Flick Love Songs",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "611cafb3-f313-4364-ba2b-31eb1f81526c",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Late Night Love: 38 Hot Love Hits",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "29bb5158-cfbd-396f-869d-616ab55b0d3a",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "The Very Best of School Disco.com",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "00aed66c-5f0c-36b6-b2c5-a98d6323b949",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Fetenhits: The Real 90's",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "73b76f35-e3f1-4fbc-ab62-7aaf49e4b45f",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Classic 90s",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "6804a252-70a6-33b5-9026-8f20786b6859",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Classic Cuts Presents: 90’s Night: The Ultimate DJ Collection: Complete Set",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "e928a262-0cf4-3673-98d0-d27db0d29557",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "The All Time Greatest Movie Songs",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "9782720f-e207-4ad7-b36a-0ca406e48ad9",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Je t’aime 4",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "3e55d51d-687f-4a9d-af96-2fabccf802e5",
+                  "name": "The Cardigans"
+                }
+              ],
+              "id": "e6a687c1-e320-3e9b-a549-b0ce52dca789",
+              "title": "Long Gone Before Daylight",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "1ad79cd0-0701-4e63-8166-b1d397765f47",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Superwoman: The Soundtrack to a Perfect Day",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "eb8c59d1-a7b0-432e-a844-fb9890ce9646",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Latest & Greatest Indie Love",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "b687045e-1fcb-4532-b340-cd6ce0f35df9",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Classic Cuts: Number 2’s",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "4316d059-5973-31ee-b9a2-c9baaecff53d",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "All Time Greatest Movie Songs",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "cd8ddd6d-6246-3773-aaf9-c2ceb59c9753",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "The Real 90's",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "eecb2165-f34c-3f6d-8be9-e5b2950379d0",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "KROQ 97 Hits",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "a29d768e-e990-42e3-8e7f-fff766c90d52",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Het Beste Uit De Q-Music Top 500 Van De 90’s: Editie 2012",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "a61c1200-706e-3bb8-96f0-33cb16f62231",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Big Shiny 90s, Volume 2",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "3ff26a9a-3c1b-3004-a188-e517364e1290",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Whatever: The ’90s Pop & Culture Box",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "4b09edb2-6a41-374c-ac30-0a6821454c41",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Maynard’s Classics ’95 – ’00",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "a6822db7-dbe3-3c62-95ab-9915c9fecc23",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Hits Zone: Summer 97",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "889bbfca-8e23-4050-bce6-3296d52d5b10",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Best of the 90's",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "0645a451-115c-4bec-9e7e-ee1cb5c15f6a",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Ö3 Greatest Hits, Volume 2",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "af18179c-2c4b-4ff0-bad8-5d0e572effee",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "The Ultimate Collection: 90s Anthems",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "3e55d51d-687f-4a9d-af96-2fabccf802e5",
+                  "name": "The Cardigans"
+                }
+              ],
+              "id": "1688b3ee-64e3-3b3c-9ebe-9e2fae604b3c",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Best Hits",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "958ddf70-f343-435c-af3e-70c222f26b2f",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Best of the 90s",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "dd831cc0-1ed4-4ffb-82f8-322339a3bc79",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Die ultimative Chart Show: Die erfolgreichsten Hits der Welt",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "fbb7a47e-2e6c-3a01-8edd-2ffeb44a0a6c",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Converse All Star Sampler",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "59156ced-7332-3a17-94d6-5eb9b72e5fc7",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Sound Check 3",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "62ab9f77-83ff-47f8-9688-5e419300b0cc",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "NOW 100 Hits: Movies",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "77879f3b-bc44-3477-b038-abbe934f322f",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Just the Best, Vol. 12",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "b5171c17-1ce7-41a9-82bc-f6815036e839",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "No.1 90s ORICON HITS",
+              "type": "Album"
+            }
+          ],
+          "title": "Lovefool"
+        },
+        {
+          "artists": [
+            {
+              "id": "3e55d51d-687f-4a9d-af96-2fabccf802e5",
+              "name": "The Cardigans"
+            }
+          ],
+          "duration": 202,
+          "id": "c951d180-d81e-4537-bbee-d4212a247f11",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "5ce433dc-3f97-4709-b9e8-f52854211aa1",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Promo Only: Modern Rock Radio, January 1997",
+              "type": "Album"
+            }
+          ],
+          "title": "Love Fool"
+        }
+      ],
+      "score": 0.950949
+    },
+    {
+      "id": "ce116913-8356-4c11-9584-964ba87e6211",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "3e55d51d-687f-4a9d-af96-2fabccf802e5",
+              "name": "The Cardigans"
+            }
+          ],
+          "id": "103fee3e-d157-43aa-a612-f8c47b24cb5d",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "a00b76da-4dc2-4225-9337-83e10d7baa0c",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Radio Secrets",
+              "type": "Album"
+            }
+          ],
+          "title": "Lovefool"
+        },
+        {
+          "artists": [
+            {
+              "id": "3e55d51d-687f-4a9d-af96-2fabccf802e5",
+              "name": "The Cardigans"
+            }
+          ],
+          "duration": 200,
+          "id": "17b09856-1602-404d-bd41-afd1a665a2f7",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "3e55d51d-687f-4a9d-af96-2fabccf802e5",
+                  "name": "The Cardigans"
+                }
+              ],
+              "id": "e774fef7-d905-4d84-b75b-25669a9be897",
+              "title": "Lovefool (Todd Terry Remixes)",
+              "type": "Single"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "949b7fe4-9480-4fe0-8d0e-dcaa5b54168f",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Power of a Woman",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "c412f506-bfee-4f80-861e-ee681b3888fe",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Now Dance",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "b5aa5a34-5456-321e-af72-4feba9722c69",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "The Best Summer Album in the World…Ever!",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "a79fff9a-a845-4e4c-80bc-369294e4fd40",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Pure & Simple",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "80981846-a3c5-4f86-8ead-a68c5d903983",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Sucesso JP 3"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "1351d5b1-f1ff-3112-97cd-ce14fb105730",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Ibiza Uncovered",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "da4ef6ba-71e5-3e43-97a6-f24dc0511a0e",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "The Best Dance Album in the World… Ever! Part 7",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "d5c8acac-bd0a-3d5f-8574-ae891f361f1e",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Trackspotting",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "3e55d51d-687f-4a9d-af96-2fabccf802e5",
+                  "name": "The Cardigans"
+                }
+              ],
+              "id": "332bd203-9eec-3435-b289-2e6c6779636a",
+              "title": "Lovefool",
+              "type": "Single"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "68ac2de8-ca62-336a-946f-cf3a21296584",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Hitdisc 166B",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "d082e2f5-72c2-4929-b922-2cbe0d4e65e8",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Viva Dance, Volume 7",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "515dc3be-9c1b-3755-b73a-321c128858b8",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Dance Zone Level 9",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "c14249f9-0023-3d53-bbaa-fbe598703f53",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Dance Decades: A Complete History of Dance",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "9a50a53b-4769-3a1d-8bfd-b000fcedfcd2",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Sugar Hits!",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "79b5b1c3-7b53-4d06-8e3b-7e8eb6ac1ccb",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Hitbreaker: Pop News 4/97",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "2f7ecb1e-2194-36f8-9b14-9e5066c2c9b9",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Massive Dance: 98",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "8e6d1680-2077-4e0c-9d7d-71065b43b8e2",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Maxi Dance Sensation 26",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "59b8968c-fd3d-4e49-9e06-2dfba6947dd4",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Screamin' House",
+              "type": "Album"
+            }
+          ],
+          "title": "Lovefool (Tee’s Club radio)"
+        },
+        {
+          "artists": [
+            {
+              "id": "3e55d51d-687f-4a9d-af96-2fabccf802e5",
+              "name": "The Cardigans"
+            }
+          ],
+          "duration": 194,
+          "id": "2000c7f8-4213-40e2-b336-506b46ef1d6e",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "b95a8214-b8c1-4fc9-8dde-97211e0010dd",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "M80 Radio – Volume 2 – LOS70",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "d3f590a4-50ce-4044-bb5f-9ca9cb87ad9f",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Kiss FM Hits 3",
+              "type": "Album"
+            }
+          ],
+          "title": "Lovefool"
+        },
+        {
+          "artists": [
+            {
+              "id": "3e55d51d-687f-4a9d-af96-2fabccf802e5",
+              "name": "The Cardigans"
+            }
+          ],
+          "duration": 194,
+          "id": "2c04f1ba-6b3c-442a-9ecb-37445f737f27",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "e293ea84-2ad3-4b1a-9457-5ee7c380488b",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Driven By the 90s: 100 Essential Driving Songs",
+              "type": "Album"
+            }
+          ],
+          "title": "Lovefool"
+        },
+        {
+          "artists": [
+            {
+              "id": "3e55d51d-687f-4a9d-af96-2fabccf802e5",
+              "name": "The Cardigans"
+            }
+          ],
+          "duration": 198,
+          "id": "4086c3e2-537e-4e2d-bf06-72efde042c8c",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "e2263065-925b-44b0-9a18-9649258b4f1b",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Greatest Ever! Mum: The Definitive Collection",
+              "type": "Album"
+            }
+          ],
+          "title": "Lovefool"
+        },
+        {
+          "artists": [
+            {
+              "id": "3e55d51d-687f-4a9d-af96-2fabccf802e5",
+              "name": "The Cardigans"
+            }
+          ],
+          "duration": 196,
+          "id": "41d3a68f-6904-4ffb-a272-99e675cfb37a",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "3e55d51d-687f-4a9d-af96-2fabccf802e5",
+                  "name": "The Cardigans"
+                }
+              ],
+              "id": "1386af4b-0adb-3aa9-bf7f-4753c3acb387",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Best Of",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "3e55d51d-687f-4a9d-af96-2fabccf802e5",
+                  "name": "The Cardigans"
+                }
+              ],
+              "id": "332bd203-9eec-3435-b289-2e6c6779636a",
+              "title": "Lovefool",
+              "type": "Single"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "6c21990e-7a94-4c5f-9bba-2c4dced9a777",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Best Day of My Life",
+              "type": "Album"
+            }
+          ],
+          "title": "Lovefool (Puck version)"
+        },
+        {
+          "artists": [
+            {
+              "id": "3e55d51d-687f-4a9d-af96-2fabccf802e5",
+              "name": "The Cardigans"
+            }
+          ],
+          "duration": 196,
+          "id": "42f6cca7-10c3-46b0-8028-b27ba4f2d596",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "08bfcc02-71d3-4095-9e58-8b27ee5fa66b",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "40X Love",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "3e55d51d-687f-4a9d-af96-2fabccf802e5",
+                  "name": "The Cardigans"
+                }
+              ],
+              "id": "332bd203-9eec-3435-b289-2e6c6779636a",
+              "title": "Lovefool",
+              "type": "Single"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "86dc0451-dda5-4add-b537-54203eac90df",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Hits on TV 2003",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "19429f69-2f21-308c-8a7f-65d2b569f560",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "90s Anthems",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "a032d21d-eb4c-4582-a42f-4978c0355af0",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "True School Party",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "5b52caa3-b45c-3bfe-b2f2-bd6c9dd17f18",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Chick Flicks: The Sequel",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "3e55d51d-687f-4a9d-af96-2fabccf802e5",
+                  "name": "The Cardigans"
+                }
+              ],
+              "id": "80bd5fb4-5547-36ec-9060-adbe7faa1215",
+              "title": "Your New Cuckoo",
+              "type": "Single"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "6dbed32e-4e8a-39de-bc4e-76ad1c6dc913",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Fresh Hits 1997",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "323c4c35-a016-4f81-a095-32d7754343e8",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "The Best Movie Album in the World... Ever!",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "3df719ce-503d-4d14-b25d-47686a3b370a",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "We Love Lovesongs",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "0d2e00e8-485d-32e1-b0ed-d756b28c689b",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "The All Time Greatest Movie Songs, Volume 1",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "773f1258-ff6e-41f9-b365-534505ccd1ee",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Hits for Kids, Vol. 9",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "ce7f6a36-eb4d-3e46-b4bb-68c24b0f19f6",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "MTV Fresh 3",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "c433d8fd-23d0-3c00-bf95-30552edcdd16",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "20 Years on MTV: 1997",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "05867795-4675-4686-9f02-b8ce0caf88b3",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "80’s and 90’s Hits",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "2525cbd2-c722-3297-8d84-56a9beab4ac3",
+              "secondarytypes": [
+                "Soundtrack"
+              ],
+              "title": "The Very Best of Cold Feet",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "45de1147-6645-3675-82a3-77903c6e0af7",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Diamonds: Love Songs Are Forever",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "19c93ad9-be27-436e-a2cb-a51b4757bf1c",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Cleaning Motivation Songs"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "aedfa0dd-419d-3b75-b887-4e99e21521c6",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Indie Anthems",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "b96329f1-286f-3789-931c-fcf4b5ae8ae0",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Absolute Music 13",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "3e55d51d-687f-4a9d-af96-2fabccf802e5",
+                  "name": "The Cardigans"
+                }
+              ],
+              "id": "33a35fc0-1126-30c2-a046-b2803116f882",
+              "title": "First Band on the Moon",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "a0f955f3-af29-4960-9b95-8a919d622721",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "No.1: The Greatest Hit Songs",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "98152d4b-39d3-4284-b621-e8296924530b",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Made in the 90s",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "a5c6b3f2-5dbf-35d6-b3c3-86e882f315fd",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "10 Jahre Antenne Bayern: Birthday Collection",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "6e1c6e81-0635-384a-a963-1907d9fa2c98",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Most Wanted Music 1",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "6bc24e03-db85-304c-b03d-0c4e3ce0dc39",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Best of ’97",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "44453dc3-2668-3570-97d8-b92116aaeed8",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Now That’s What I Call Music! 3",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "9c9b5082-1b55-4ff0-a6f0-c53947bdfdf5",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Absolute Svenska Klassiker",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "81cd2f84-dffe-3fdb-b48b-07f283a08073",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Radioactive Chartbusters, Volume 3",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "a38c3b5d-e482-4ca7-b8d1-7da918c8eb4d",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Mr Music Hits 9-96",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "9dc7031d-b034-34d6-a1b3-e27970099e0a",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "One Shot '90, Volume 3",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "e9d6df7d-fc7a-3aff-94e5-386ec4b9129c",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Woman II",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "9f55831c-ebc8-3585-b495-5cf99573f975",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "A Woman’s Touch",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "b9538123-4122-4f76-a049-718316de7f12",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Best of My Love: Songs From the Heart 1961-2011",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "2bf5039e-694f-4479-97b4-70f4757736e5",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Saved by the Girl",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "14bfbbed-9045-49d4-b6c9-6d5d76a766c6",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Crazy in Love",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "6fb92296-c773-3a50-a8e3-817bc874cab8",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "The Best Anthems… Ever! Volume 2",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "03db85ec-1115-4628-90a8-26fdf00f8695",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Forever 90s",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "51e4e2d6-e297-386a-8bfd-0b4d2d37f150",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Real Love",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "aa4c900b-4ebb-4d22-b99f-bed4294c89a0",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "BBC Radio 2's Tracks Of My Years With Ken Bruce",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "2eb51e0c-1406-40ed-9d70-b1852def311b",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "The All Time Greatest Movie Songs of the Last 3 Decades",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "c63e7527-07c8-4861-ac29-e554bf5cf217",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Britpop at the BBC",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "b95cceaf-4108-3ecc-a037-b76e4c04300e",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Shine: Best of 97",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "bd1ffd44-bee3-35e7-b04c-cd971cde5ffe",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "100% Bittersweet Melodies",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "e56d94f6-bce0-41c3-be74-b5330ef96753",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Cleaning Motivation"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "f0c5315c-7b71-4af5-b609-81df38a44507",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "100 Essential Hits - 90s",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "e19eb786-2966-365b-b924-d5665660f7c2",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "100 Nineties Classics",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "bce72dfd-8725-3762-9917-c0663e582278",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Woman 2",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "3af10464-e9cd-458a-83d4-e8ba2d76af7e",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Happy End: 20 oscarreife Filmhits",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "abf391c0-101b-4a17-8278-496abc47e6ac",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "101 90s Hits",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "7ce956b1-6bd3-3b9b-831c-4994dab00b5a",
+              "secondarytypes": [
+                "Soundtrack"
+              ],
+              "title": "Cold Feet",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "4c869072-4f97-45f2-8043-69b3e617cbe6",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Les 100 plus grands tubes",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "8995e5d7-6bb6-3feb-8a12-64d5f7514313",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Platin, Vol. 2",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "66a851c4-ac1e-32fe-be31-d294a3df248e",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Now That’s What I Call Music! 1997: The Millennium Series",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "3611fe50-3d6b-4010-9a58-ad58c22cafbb",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Greatest Ever! School Days: The Definitive Collection",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "ad5ed68d-2f92-3b66-ac73-0604cbef4f66",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Video Hits 96–06",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "b85632bb-fe65-475b-a5c4-2768475ddd1e",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "De Pre Historie 1997",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "efc1e6db-136e-463a-8d9b-aea0f8df84f5",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "American Dreams",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "ffb071c9-2ff0-30fe-a8a8-8f13fa0c266e",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "FriendsReunited.co.uk: The 90s",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "6382e768-436a-49b3-8b6c-f132ddc31462",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "100 Film Classics",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "1047ecd9-022c-4ede-9cd9-9914a189549a",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Top 97: Die besten Hits des Jahres",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "b64781da-e928-3401-aad0-e7c9fcfc9600",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Kuschelrock Special Edition: Die schönsten Movie-Songs aller Zeiten",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "66487554-15e1-456c-a3ed-31d64c2a404f",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Life's Greatest Hits",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "2b20c833-d800-4fb7-9f46-5d30536daa15",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "The Ultimate Collection: Feeling Good: 100 Hits",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "8832f9d6-7f2d-387d-bd93-77a5e6948409",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "107.5: Songs We Know You Love",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "2ccc155a-4595-471d-a9f0-bdf62e3783b2",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Turn It Up & Pass It On, Volume 10",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "89265a59-ad77-41a1-ac5e-47d8a0d00ccc",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Liebe ist... Best Of",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "345ede86-fc54-3aea-94e5-e801a4dcc574",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Woman",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "51d6123c-6c80-4322-86e8-a3c35bef32fd",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Booom ’97: The Third",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "3e55d51d-687f-4a9d-af96-2fabccf802e5",
+                  "name": "The Cardigans"
+                }
+              ],
+              "id": "88e04fd5-f6db-329b-a5d8-61ca9e1e7f9e",
+              "secondarytypes": [
+                "Interview"
+              ],
+              "title": "iTunes Originals",
+              "type": "Other"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "f87d6c3c-e97d-4178-a3ac-9bc0abc7f293",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "On the Road",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "845f5b1e-52d0-4404-8e99-cceda8d3bda5",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Fetenhits: 90’s Best Of",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "d0e81935-ce3a-3bed-81aa-95385104414c",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "All Stars Disco 9 & 10",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "4ea78828-05f1-302c-b132-d79e4506bed8",
+              "secondarytypes": [
+                "Soundtrack"
+              ],
+              "title": "Enron: The Smartest Guys in the Room",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "5193ea94-6b6e-4321-9cb6-359978f30f1c",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "RDS 100 successi per ogni occasione",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "155636e5-0762-3dac-906d-305b97de8716",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "1990's Rock",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "a8b7c7db-96e6-3d32-ae12-1d98c684e27d",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Unstoppable 90's: Alternative",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "6a9b0bf0-ff7e-4b77-a45d-25167f49e091",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Knuffelrock Special Edition: De Mooiste Film-Hits Allertijden",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "1778abab-3e17-4ab7-ac8e-f6704b3e8a5c",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Absolute 90’s, Vol. 2",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "a0102f00-8d52-44cf-8e2d-f3da45457984",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Дискач 90-х DFM",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "907eb715-5af7-46e5-b3f6-c5b3569d5a45",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Top 50 - 30 Ans (100 Tubes), Vol. 3",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "3e55d51d-687f-4a9d-af96-2fabccf802e5",
+                  "name": "The Cardigans"
+                }
+              ],
+              "id": "fad3995d-8a10-3d91-94cd-6841ace900a4",
+              "secondarytypes": [
+                "Remix"
+              ],
+              "title": "2 in 1",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "d61864ec-c8f5-42d5-b7ef-cd058e2775c6",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "90s Anthems - The Ultimate Collection",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "9d788ca7-8a7e-3411-826d-831cfa34a0f6",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "All Women",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "b0e52ef9-fa55-492c-af3c-7d68743cc164",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Bachelorette Party",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "e4b83693-53b8-4f9b-b266-7078a5d8b0d1",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "The Boys of Summer",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "791d81fc-ccbc-455e-b984-dc15d8ffefa1",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "You Gotta Try New Music, Volume 3"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "892045f2-ce6d-4e8f-b72e-c51271ee8fe6",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Lieblings… Radio Hits",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "41fe22c9-5f3f-48fa-8487-862f782c9ab2",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Dinner Party Summer",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "31a63755-33ca-3fdc-97fd-73a1c81d7261",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "MTV Buzz Bin, Volume 2",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "870701b5-be34-4a14-b7af-ca44abdf7d78",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "101 Hits: Are We There Yet?!",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "44a94fb6-438c-4258-8d5c-18abda15ffe5",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "100 Hits: Movies",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "a02985e2-251e-3a29-a67d-83cd5340ac5c",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Pure 90's",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "cd8e0e0a-1ddb-3f88-b5f7-01f4094f3b6c",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Shine 6",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "20589768-2bb4-4859-a04d-9115b098d5e3",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Starmania: Original Hits, Vol. 1",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "612d426b-7393-3c18-a1cd-11bdd49666de",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Essential Songs: Spring Collection",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "1fb4c837-1d26-4a38-aca0-5fc87059b4bd",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "The Best of 90’s Festival",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "618a94f1-b323-4758-b91c-2c7c71d240b3",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Shine",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "42dddb0b-c6b5-3f37-a1cd-c8629627c855",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Now That's What I Call Music",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "81eb3f57-73e8-3edc-be21-f1039bec74bb",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Simply the Best Movie Album",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "fcb7cd13-52fc-3518-8085-edf137d18d82",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Ground Zero",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "ac02e63f-73f7-44c2-bb4f-971f5254fb8e",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "C’était mieux avant : Les Années 90",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "ed6e0e25-fa6a-464d-9ed8-9746ce02c273",
+              "title": "Songs for You"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "cf41036a-4ffb-4a3d-bf53-49fb76e0bbb2",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "This Year's Love (Now and Forever)",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "4277df58-2533-3d8d-ab8d-35b8eae04a35",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Greatest Hits 1996",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "9346cf3b-7c02-300d-aa88-3597e36875df",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Tips - News - Trends: Albums KW 15/16",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "b4348fdd-1646-4268-8fdc-68a2a688ea30",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Movie930",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "c461a54f-7e71-37a9-86f3-9ed3732425ff",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Crush",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "745dc312-ba89-33c8-ad70-4e3fe75c14d7",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Movies' Greatest Love Songs",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "b79b81ec-6cba-4b70-85be-3a1b531c8c7a",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "100 Hits: Girls Night",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "650ebbf1-e25c-3f13-ac2b-d98010c1c5ee",
+              "secondarytypes": [
+                "Soundtrack"
+              ],
+              "title": "William Shakespeare’s Romeo + Juliet: Music From the Motion Picture",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "a88c53b7-645f-32fa-92d7-665d283585d4",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "The Best of Shine",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "ee62c493-eb1e-36f7-99db-5d3bc5b0faee",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Now That’s What I Call Music! 37",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "28eedba4-e395-44c1-ab37-137c7881badd",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "90’s Movies Hits"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "04ca2165-23d9-39c1-8d61-8340d3fa83c0",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "100% Hits: The Best of '97",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "cc401134-0668-4931-8782-33993c7a2d4a",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Joe Top 2000, Volume 8",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "4c8f037a-2ee5-4ad0-9719-ea8641268299",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Whatever: One Hit Wonders of the '90s",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "59af0950-72e4-4149-a59f-ee1d82c32702",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "100 Acoustic Memories",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "3e55d51d-687f-4a9d-af96-2fabccf802e5",
+                  "name": "The Cardigans"
+                }
+              ],
+              "id": "1386af4b-0adb-3aa9-bf7f-4753c3acb387",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Best Of",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "bf646de0-4f81-4b72-a881-2a730736666a",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Top of the Pops: 1995–2000",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "e0534a53-3842-477d-9f8c-e7025ee5d6c6",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "The Braun MTV Eurochart '97, Volume 7",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "fe6fddb2-a2c0-40b6-bedd-3cf527bcea34",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "The All Time Greatest Love Songs V",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "dd44b390-f98f-3167-a72d-e5fc78d0dedd",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Your Favorite Chick Flix Songs From the Movies!",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "646bb47a-8cd9-3b12-a07b-dd586b34acaa",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Knuffelrock 12",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "03bd7378-02fc-33dc-96cb-75913063dcac",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "The Ultimate Chick Flick Love Songs",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "611cafb3-f313-4364-ba2b-31eb1f81526c",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Late Night Love: 38 Hot Love Hits",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "29bb5158-cfbd-396f-869d-616ab55b0d3a",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "The Very Best of School Disco.com",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "00aed66c-5f0c-36b6-b2c5-a98d6323b949",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Fetenhits: The Real 90's",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "73b76f35-e3f1-4fbc-ab62-7aaf49e4b45f",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Classic 90s",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "6804a252-70a6-33b5-9026-8f20786b6859",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Classic Cuts Presents: 90’s Night: The Ultimate DJ Collection: Complete Set",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "e928a262-0cf4-3673-98d0-d27db0d29557",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "The All Time Greatest Movie Songs",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "9782720f-e207-4ad7-b36a-0ca406e48ad9",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Je t’aime 4",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "3e55d51d-687f-4a9d-af96-2fabccf802e5",
+                  "name": "The Cardigans"
+                }
+              ],
+              "id": "e6a687c1-e320-3e9b-a549-b0ce52dca789",
+              "title": "Long Gone Before Daylight",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "1ad79cd0-0701-4e63-8166-b1d397765f47",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Superwoman: The Soundtrack to a Perfect Day",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "eb8c59d1-a7b0-432e-a844-fb9890ce9646",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Latest & Greatest Indie Love",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "b687045e-1fcb-4532-b340-cd6ce0f35df9",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Classic Cuts: Number 2’s",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "4316d059-5973-31ee-b9a2-c9baaecff53d",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "All Time Greatest Movie Songs",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "cd8ddd6d-6246-3773-aaf9-c2ceb59c9753",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "The Real 90's",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "eecb2165-f34c-3f6d-8be9-e5b2950379d0",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "KROQ 97 Hits",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "a29d768e-e990-42e3-8e7f-fff766c90d52",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Het Beste Uit De Q-Music Top 500 Van De 90’s: Editie 2012",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "a61c1200-706e-3bb8-96f0-33cb16f62231",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Big Shiny 90s, Volume 2",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "3ff26a9a-3c1b-3004-a188-e517364e1290",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Whatever: The ’90s Pop & Culture Box",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "4b09edb2-6a41-374c-ac30-0a6821454c41",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Maynard’s Classics ’95 – ’00",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "a6822db7-dbe3-3c62-95ab-9915c9fecc23",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Hits Zone: Summer 97",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "889bbfca-8e23-4050-bce6-3296d52d5b10",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Best of the 90's",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "0645a451-115c-4bec-9e7e-ee1cb5c15f6a",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Ö3 Greatest Hits, Volume 2",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "af18179c-2c4b-4ff0-bad8-5d0e572effee",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "The Ultimate Collection: 90s Anthems",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "3e55d51d-687f-4a9d-af96-2fabccf802e5",
+                  "name": "The Cardigans"
+                }
+              ],
+              "id": "1688b3ee-64e3-3b3c-9ebe-9e2fae604b3c",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Best Hits",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "958ddf70-f343-435c-af3e-70c222f26b2f",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Best of the 90s",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "dd831cc0-1ed4-4ffb-82f8-322339a3bc79",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Die ultimative Chart Show: Die erfolgreichsten Hits der Welt",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "fbb7a47e-2e6c-3a01-8edd-2ffeb44a0a6c",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Converse All Star Sampler",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "59156ced-7332-3a17-94d6-5eb9b72e5fc7",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Sound Check 3",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "62ab9f77-83ff-47f8-9688-5e419300b0cc",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "NOW 100 Hits: Movies",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "77879f3b-bc44-3477-b038-abbe934f322f",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Just the Best, Vol. 12",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "b5171c17-1ce7-41a9-82bc-f6815036e839",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "No.1 90s ORICON HITS",
+              "type": "Album"
+            }
+          ],
+          "title": "Lovefool"
+        },
+        {
+          "artists": [
+            {
+              "id": "3e55d51d-687f-4a9d-af96-2fabccf802e5",
+              "name": "The Cardigans"
+            }
+          ],
+          "duration": 196,
+          "id": "4bc4a293-53a0-4165-b729-7630e66f2385",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "6b9f7831-26a4-47cc-a379-9182f7ab65df",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Hit Express Vol. 2",
+              "type": "Album"
+            }
+          ],
+          "title": "Lovefool"
+        },
+        {
+          "artists": [
+            {
+              "id": "3e55d51d-687f-4a9d-af96-2fabccf802e5",
+              "name": "The Cardigans"
+            }
+          ],
+          "duration": 196,
+          "id": "54d060ac-a8cd-4c40-ab23-a21b6fa6b7f6",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "92fdd949-491c-4cf3-90b9-387b51e784a5",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Cinéma : Les Plus Grands Hits",
+              "type": "Album"
+            }
+          ],
+          "title": "Romeo + Juliette: Lovefool"
+        },
+        {
+          "artists": [
+            {
+              "id": "3e55d51d-687f-4a9d-af96-2fabccf802e5",
+              "name": "The Cardigans"
+            }
+          ],
+          "duration": 193,
+          "id": "5c482417-8420-4e75-a9db-1b7291aee84a",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "7b07d54d-463b-4b60-ae9b-a02c4bcc8899",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "The Hits Album: The 90’s Album",
+              "type": "Album"
+            }
+          ],
+          "title": "Lovefool"
+        },
+        {
+          "id": "6428841f-5907-492c-b0d1-4a664c92f32e"
+        },
+        {
+          "artists": [
+            {
+              "id": "3e55d51d-687f-4a9d-af96-2fabccf802e5",
+              "name": "The Cardigans"
+            }
+          ],
+          "duration": 198,
+          "id": "655ad588-3bba-4e14-8247-6ec571ee5ab0",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "5479ff64-4d5c-41ec-9d48-47592702fd76",
+              "secondarytypes": [
+                "Compilation",
+                "Soundtrack"
+              ],
+              "title": "Wonderful You"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "fc84a442-e0de-33fb-8308-e678fd9a024e",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Las Cien de la 100, Volume 2",
+              "type": "Album"
+            }
+          ],
+          "title": "Lovefool"
+        },
+        {
+          "artists": [
+            {
+              "id": "3e55d51d-687f-4a9d-af96-2fabccf802e5",
+              "name": "The Cardigans"
+            }
+          ],
+          "duration": 196,
+          "id": "6df90a21-7472-4e2f-b3ab-c69b176749bd",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "05ad9532-e297-4d1e-89d6-fab183ae557c",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Die grössten Romantik-Hits",
+              "type": "Album"
+            }
+          ],
+          "title": "Lovefool"
+        },
+        {
+          "artists": [
+            {
+              "id": "3e55d51d-687f-4a9d-af96-2fabccf802e5",
+              "name": "The Cardigans"
+            }
+          ],
+          "duration": 198,
+          "id": "7ff0fdb0-7de2-4e86-81cb-91573f368e7f",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "54b20090-fb8c-47fa-8a92-855e14cc4780",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "The Best Film ...Ever!",
+              "type": "Album"
+            }
+          ],
+          "title": "Romeo i Julia"
+        },
+        {
+          "id": "a2968aa9-0752-4a38-ad8a-080b83befc80"
+        },
+        {
+          "artists": [
+            {
+              "id": "3e55d51d-687f-4a9d-af96-2fabccf802e5",
+              "name": "The Cardigans"
+            }
+          ],
+          "duration": 193,
+          "id": "b2635a09-ef70-4156-92de-26831a1579a5",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "7a1ab612-4118-4360-9e84-daec4928877e",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Zoo Magazine CD Sampler 06",
+              "type": "Album"
+            }
+          ],
+          "title": "Lovefool"
+        },
+        {
+          "artists": [
+            {
+              "id": "3e55d51d-687f-4a9d-af96-2fabccf802e5",
+              "name": "The Cardigans"
+            }
+          ],
+          "duration": 472,
+          "id": "b75e2e41-48a2-431d-8aae-9584e44915b2",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "3e55d51d-687f-4a9d-af96-2fabccf802e5",
+                  "name": "The Cardigans"
+                }
+              ],
+              "id": "e774fef7-d905-4d84-b75b-25669a9be897",
+              "title": "Lovefool (Todd Terry Remixes)",
+              "type": "Single"
+            },
+            {
+              "id": "332bd203-9eec-3435-b289-2e6c6779636a",
+              "title": "Lovefool",
+              "type": "Single"
+            }
+          ],
+          "title": "Lovefool (Tee’s Frozen Sun mix)"
+        },
+        {
+          "artists": [
+            {
+              "id": "3e55d51d-687f-4a9d-af96-2fabccf802e5",
+              "name": "The Cardigans"
+            }
+          ],
+          "duration": 198,
+          "id": "c5ac67cd-f4ae-48e9-8b9b-f9955856ebd9",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "7867a014-6cbf-4a17-a4ac-7c55f42a4fd8",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "No.1 Mum",
+              "type": "Album"
+            }
+          ],
+          "title": "Lovefool"
+        },
+        {
+          "artists": [
+            {
+              "id": "3e55d51d-687f-4a9d-af96-2fabccf802e5",
+              "name": "The Cardigans"
+            }
+          ],
+          "duration": 196,
+          "id": "cd156247-2306-4f23-8f86-20573fd8f046",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "55471953-5635-3257-80ff-cb8d644e5441",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Top of the 90's: Die besten Hits der 90er",
+              "type": "Album"
+            }
+          ],
+          "title": "Lovefool"
+        },
+        {
+          "id": "d4031505-7feb-4276-ae61-d7f099df1b79"
+        },
+        {
+          "artists": [
+            {
+              "id": "3e55d51d-687f-4a9d-af96-2fabccf802e5",
+              "name": "The Cardigans"
+            }
+          ],
+          "duration": 197,
+          "id": "d4378431-d079-4bef-9c1d-45c5f50b1323",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "f2223d00-9c0f-4473-9e4c-a55202e9e0bb",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Classic Cuts Presents: 90s Night: The Ultimate DJ Collection: 1997",
+              "type": "Album"
+            }
+          ],
+          "title": "Lovefool"
+        },
+        {
+          "id": "d89f51ce-bf9b-48f7-b16b-a7efb4551fa3"
+        },
+        {
+          "artists": [
+            {
+              "id": "3e55d51d-687f-4a9d-af96-2fabccf802e5",
+              "name": "The Cardigans"
+            }
+          ],
+          "duration": 195,
+          "id": "d9958a62-1380-4e29-ba80-d1f8d5105baa",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "84a687da-2f3c-4b58-88da-a19a77c3b3d7",
+              "title": "MTV Buzz Bin: Volume 2"
+            }
+          ],
+          "title": "Lovefool"
+        },
+        {
+          "id": "dfc1f753-2f84-49d6-a96f-ff53daac1679"
+        },
+        {
+          "id": "f1d887e0-b14c-43c2-87e8-346f7cbfc83d"
+        },
+        {
+          "id": "f260ba80-01cb-447e-b121-ebe0224636f6"
+        },
+        {
+          "artists": [
+            {
+              "id": "3e55d51d-687f-4a9d-af96-2fabccf802e5",
+              "name": "The Cardigans"
+            }
+          ],
+          "duration": 196,
+          "id": "fdccc02d-3c80-40e6-842b-ebf0c589d07b",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "0ae5d3e8-91ed-48cc-9700-fe62158efef8",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "L'Album Rock 90's",
+              "type": "Album"
+            }
+          ],
+          "title": "Lovefool"
+        },
+        {
+          "artists": [
+            {
+              "id": "3e55d51d-687f-4a9d-af96-2fabccf802e5",
+              "name": "The Cardigans"
+            }
+          ],
+          "duration": 200,
+          "id": "fed76f1f-5c27-429a-a13a-fa6652a7c196",
+          "releasegroups": [
+            {
+              "id": "09302dce-2cef-3cd2-a576-ad1b81c13abc",
+              "title": "My Favourite Game",
+              "type": "Single"
+            }
+          ],
+          "title": "Lovefool (Live at Hultsfredsfestivalen, 1997)"
+        }
+      ],
+      "score": 0.942247
+    }
+  ],
+  "status": "ok"
+}

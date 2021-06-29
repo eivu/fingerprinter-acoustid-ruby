@@ -1,0 +1,803 @@
+{
+  "results": [
+    {
+      "id": "4860cf81-bced-4dbe-a405-91d1d75cd3f2",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "d10253ac-e1c5-47f3-846f-65cce388b7fb",
+              "joinphrase": " and ",
+              "name": "Phil Harris"
+            },
+            {
+              "id": "402107aa-56fc-4d06-831d-8150a95a9c84",
+              "name": "Bruce Reitherman"
+            }
+          ],
+          "duration": 291,
+          "id": "2d253179-3974-4fba-bf19-7a6e0cbe4211",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "b316f16e-9e5a-30dc-b615-507cd19f6b36",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "The Magic of Disney: 20 Superstar Hits",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "7fb389d2-ed5d-3a19-bce4-2338b071fc85",
+              "secondarytypes": [
+                "Compilation",
+                "Soundtrack"
+              ],
+              "title": "Classic Disney, Volume II: 60 Years of Musical Magic",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "7af162c3-2c5c-3675-80ff-abb4073661e1",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Mastermix Classic Cuts 18: Novelty",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "400ca36a-1d60-4081-a3e8-87fd88d2411c",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Absolute Disney: Volume 1",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "ae61c887-c92a-3986-9457-cfb065e65fd9",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "101 Songs From the Musicals",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "b8e8a18b-ee83-3a8a-b022-4f5512e0da7c",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Disney's Greatest, Volume 2",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "f0f8df11-cb90-3c90-bcaf-646fa2888818",
+              "secondarytypes": [
+                "Soundtrack"
+              ],
+              "title": "The Greatest Hits of Walt Disney",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "ac1160c1-df5e-3e49-956a-71230ffe6db2",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Disney: Greatest Musicals",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "4744e12b-1720-3878-bc87-09e6c0e6636c",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "The Best Disney Album in the World ...Ever",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "66e96f87-dd7e-4c36-89ef-20e4d538063a",
+              "title": "Disney's Musical Fantasy",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "53961402-3c8a-3189-85f0-da4cce5da00b",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "The Music of Disney: A Legacy in Song",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "f309ccdd-0be3-442a-9db6-cd7217b4fe19",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Now That’s What I Call Disney!",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "a27eb861-ef50-4600-80ab-873dac5a11f8",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Die größten Disney Filmhits",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "16bdc7b3-6bfc-4f1c-89ad-d0756af40327",
+                  "name": "Julie Andrews"
+                }
+              ],
+              "id": "dc2f1e47-8788-3e32-b15b-61d3e58a00c9",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Julie Andrews Selects Her Favorite Disney Songs",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "7f55ac10-0b6a-387c-9794-da94a96978ff",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Disney's Magical Tunes",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "2018d2d8-1800-4fd1-a483-bc736c216dc8",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Disney Sing Your Heart Out",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "a6ed387c-9af4-4342-bc67-80ca36c14616",
+              "secondarytypes": [
+                "Compilation",
+                "Soundtrack"
+              ],
+              "title": "Disney Classics Box Set",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "1220b27a-6895-43d1-825b-2319d2e3320e",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Walt Disney Records Presents Classics 2: 20 Original American Songs",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "39c7db57-2460-3b59-a761-35177704d057",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Disney Magic",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "0c149bfc-75ea-3d7d-ae60-44f308144845",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Disney's Original Classics",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "1f12554b-d535-4fc7-8958-1be83d3be0f5",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Ultimate Disney",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "fa1821a3-cb45-3c55-be75-b73314862a63",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Disney's Greatest Hits",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "5e168738-6347-399d-826b-4d644d7ecb27",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Hello Children Everywhere",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "cc47e837-4dca-478a-b63d-1c66a82e2cb1",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Classic Disney",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "21e1cb4a-003d-379d-ae09-38ec58b73974",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Ultimate Disney",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "093a32bb-8c97-401f-95b5-fec0aecf3c9d",
+              "secondarytypes": [
+                "Soundtrack"
+              ],
+              "title": "マイ・ファースト・ディズニー オリジナル・サウンドトラック・ベスト",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "4d2bb0c9-710b-343f-b61c-8af43fa571f4",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Disney's Greatest Hits",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "fba75f72-bfaa-3fa2-8559-1fb4b9733354",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Absolutely Disney",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "c34c211f-2b9e-40e7-b9ca-ad744847b645",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "The Greatests Hits of Walt Disney",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "25cbc18f-1b36-3fa1-8da7-ff8fdb3df73e",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Best of Disney",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "3a3ec699-49ab-49e8-bfd5-951194ec61e0",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "La Magia Disney",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "6dbf6e3f-58b4-34a3-839b-1adc41182ac6",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Les Plus Grandes Chansons des films Disney",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "a3199c31-fbb7-462f-aba1-d5a8380986e8",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Songs and Story: The Jungle Book",
+              "type": "EP"
+            },
+            {
+              "artists": [
+                {
+                  "id": "4204e06b-d2e4-4823-b6f3-47f7593518cb",
+                  "joinphrase": ", ",
+                  "name": "George Bruns"
+                },
+                {
+                  "id": "c47026a1-3300-4cf7-80df-8b9462a884e4",
+                  "joinphrase": " & ",
+                  "name": "Richard M. Sherman"
+                },
+                {
+                  "id": "d378dedb-444f-48f5-a6e6-3e8e31ef6c14",
+                  "joinphrase": ", ",
+                  "name": "Robert B. Sherman"
+                },
+                {
+                  "id": "0a8df504-df94-4d77-a3c5-2b9e5c9727e2",
+                  "name": "Terry Gilkyson"
+                }
+              ],
+              "id": "1257fcdf-743f-3dff-9894-107b398fb777",
+              "secondarytypes": [
+                "Soundtrack"
+              ],
+              "title": "The Jungle Book: Original Cast Soundtrack",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "ab70986e-7906-3b06-a9f6-6d06685f2bab",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Driving With Disney",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "12253802-c8e5-487d-abb6-d4feec4f341e",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Disney Icon Volume 2",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "b9001676-3be2-330a-ac70-bc46b508e2ee",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "The Disney Experience",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "c2f68ff1-b1d7-482c-a161-aca3ca8a1210",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Super Friendship! 〜 Disney Music Collection",
+              "type": "Album"
+            }
+          ],
+          "title": "The Bare Necessities"
+        },
+        {
+          "artists": [
+            {
+              "id": "d10253ac-e1c5-47f3-846f-65cce388b7fb",
+              "joinphrase": " and ",
+              "name": "Phil Harris"
+            },
+            {
+              "id": "af2eb4da-3d69-45f0-9591-3b0f9a8b7379",
+              "name": "Sebastian Cabot"
+            }
+          ],
+          "duration": 57,
+          "id": "3c37b323-8999-49f9-a1a8-5564e106f51f",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "4204e06b-d2e4-4823-b6f3-47f7593518cb",
+                  "joinphrase": ", ",
+                  "name": "George Bruns"
+                },
+                {
+                  "id": "c47026a1-3300-4cf7-80df-8b9462a884e4",
+                  "joinphrase": " & ",
+                  "name": "Richard M. Sherman"
+                },
+                {
+                  "id": "d378dedb-444f-48f5-a6e6-3e8e31ef6c14",
+                  "joinphrase": ", ",
+                  "name": "Robert B. Sherman"
+                },
+                {
+                  "id": "0a8df504-df94-4d77-a3c5-2b9e5c9727e2",
+                  "name": "Terry Gilkyson"
+                }
+              ],
+              "id": "1257fcdf-743f-3dff-9894-107b398fb777",
+              "secondarytypes": [
+                "Soundtrack"
+              ],
+              "title": "The Jungle Book: Original Cast Soundtrack",
+              "type": "Album"
+            }
+          ],
+          "title": "The Bare Necessities (reprise)"
+        },
+        {
+          "artists": [
+            {
+              "id": "0a8df504-df94-4d77-a3c5-2b9e5c9727e2",
+              "joinphrase": " feat. ",
+              "name": "Terry Gilkyson"
+            },
+            {
+              "id": "d10253ac-e1c5-47f3-846f-65cce388b7fb",
+              "name": "Phil Harris"
+            }
+          ],
+          "duration": 288,
+          "id": "5baa45b1-9673-4964-80bd-4c8abe366394",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "321052e7-c31f-32c7-9ef9-dc7b5fbde2cf",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Disney's Jungle Boogie: 14 Favorite Songs From Jungle Book, the Lion King, Jungle Cubs, Timon & Pumbaa",
+              "type": "Album"
+            }
+          ],
+          "title": "The Bare Necessities (The Jungle Book)"
+        },
+        {
+          "artists": [
+            {
+              "id": "0a8df504-df94-4d77-a3c5-2b9e5c9727e2",
+              "joinphrase": " feat. ",
+              "name": "Terry Gilkyson"
+            },
+            {
+              "id": "d10253ac-e1c5-47f3-846f-65cce388b7fb",
+              "name": "Phil Harris"
+            }
+          ],
+          "duration": 292,
+          "id": "7385dc49-8f1e-4793-9ee2-dc116d46ef88",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "314ab028-2cae-3d88-bcd9-02ae297dd425",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "And the Winner Is… A Collection of Honored Disney Classic Songs",
+              "type": "Album"
+            }
+          ],
+          "title": "The Bare Necessities (The Jungle Book)"
+        },
+        {
+          "artists": [
+            {
+              "id": "d10253ac-e1c5-47f3-846f-65cce388b7fb",
+              "joinphrase": " and ",
+              "name": "Phil Harris"
+            },
+            {
+              "id": "402107aa-56fc-4d06-831d-8150a95a9c84",
+              "name": "Bruce Reitherman"
+            }
+          ],
+          "duration": 290,
+          "id": "8da54e49-4e72-4cc5-af48-95c7ff860632",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "41bf43f6-351d-464c-9299-60bc1f5b3a92",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Disney Soundtracks Collection",
+              "type": "Album"
+            }
+          ],
+          "title": "The Bare Necessities"
+        },
+        {
+          "artists": [
+            {
+              "id": "d10253ac-e1c5-47f3-846f-65cce388b7fb",
+              "name": "Phil Harris"
+            }
+          ],
+          "duration": 290,
+          "id": "a0558f84-395e-4385-a4e7-1102e631eb12",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "ca5349b9-2597-4fc8-aabb-31f7a00a7478",
+              "title": "Disney Ultimate Buddy Collection",
+              "type": "Album"
+            }
+          ],
+          "title": "The Bare Necessitites"
+        }
+      ],
+      "score": 0.950752
+    },
+    {
+      "id": "56147e02-4195-4b67-b20e-41875cb547a6",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "0a8df504-df94-4d77-a3c5-2b9e5c9727e2",
+              "name": "Terry Gilkyson"
+            }
+          ],
+          "duration": 250,
+          "id": "9cb50072-3a9f-41d6-acf5-4125e9b99eff",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "7ee01bdb-e063-3219-a639-1e8846a71c5f",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "The Disney Collection, Volume 2",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "2018d2d8-1800-4fd1-a483-bc736c216dc8",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Disney Sing Your Heart Out",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "1b29d47f-b79f-3032-b9fa-09360887e468",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "The Very Best of Disney",
+              "type": "Album"
+            }
+          ],
+          "title": "The Bare Necessities (feat. Phil Harris)"
+        }
+      ],
+      "score": 0.565071
+    }
+  ],
+  "status": "ok"
+}

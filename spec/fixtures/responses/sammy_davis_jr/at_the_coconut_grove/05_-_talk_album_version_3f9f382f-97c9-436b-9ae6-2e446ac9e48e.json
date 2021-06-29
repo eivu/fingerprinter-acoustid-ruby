@@ -1,0 +1,28 @@
+{
+  "results": [
+    {
+      "id": "8a6fd2df-66a5-47a1-b8ee-fe3d885d0b47",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "4bc9e8c3-7eae-454f-a56c-bccf96f3926b",
+              "name": "Sammy Davis Jr."
+            }
+          ],
+          "duration": 98,
+          "id": "596f7b3f-aebb-400c-a15a-8f102653c6c8",
+          "releasegroups": [
+            {
+              "id": "6fac76ed-b861-3519-9df3-04355946ec58",
+              "title": "At the Cocoanut Grove"
+            }
+          ],
+          "title": "Talk"
+        }
+      ],
+      "score": 0.998143
+    }
+  ],
+  "status": "ok"
+}

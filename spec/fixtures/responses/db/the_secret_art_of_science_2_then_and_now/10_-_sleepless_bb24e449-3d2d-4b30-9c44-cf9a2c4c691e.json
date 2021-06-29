@@ -1,0 +1,29 @@
+{
+  "results": [
+    {
+      "id": "052e4435-6746-4aca-9773-18b04f92e2b0",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "022b58ea-6098-411d-b88a-652821d4c191",
+              "name": "DJ DB"
+            }
+          ],
+          "duration": 364,
+          "id": "d234a9ce-ff32-4e10-be76-2dc8460c8694",
+          "releasegroups": [
+            {
+              "id": "c4ec56dc-8c9d-4079-b899-a096beffdcc0",
+              "title": "The Secret Art Of Science 2",
+              "type": "Album"
+            }
+          ],
+          "title": "Sleepless"
+        }
+      ],
+      "score": 0.99044
+    }
+  ],
+  "status": "ok"
+}

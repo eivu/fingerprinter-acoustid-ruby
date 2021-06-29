@@ -21,7 +21,7 @@ http_interactions:
       message: OK
     headers:
       Date:
-      - Tue, 29 Jun 2021 13:47:59 GMT
+      - Tue, 29 Jun 2021 21:23:49 GMT
       Content-Type:
       - application/json; charset=UTF-8
       Transfer-Encoding:
@@ -33,7 +33,7 @@ http_interactions:
       Access-Control-Allow-Origin:
       - "*"
       X-Envoy-Upstream-Service-Time:
-      - '174'
+      - '184'
       Strict-Transport-Security:
       - max-age=15724800; includeSubDomains
     body:
@@ -465,5 +465,5 @@ http_interactions:
         "type": "Album"}], "title": "Go All the Way"}], "score": 0.990902}], "status":
         "ok"}'
     http_version:
-  recorded_at: Tue, 29 Jun 2021 13:47:59 GMT
+  recorded_at: Tue, 29 Jun 2021 21:23:49 GMT
 recorded_with: VCR 3.0.3

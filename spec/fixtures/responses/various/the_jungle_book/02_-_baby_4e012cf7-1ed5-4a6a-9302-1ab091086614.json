@@ -1,0 +1,121 @@
+{
+  "results": [
+    {
+      "id": "bb96b6a7-85ea-4072-b820-1f30c02dd321",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "4204e06b-d2e4-4823-b6f3-47f7593518cb",
+              "name": "George Bruns"
+            }
+          ],
+          "duration": 130,
+          "id": "580f56a3-d93f-474b-b0e7-6f1e97fc3fc7",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "4204e06b-d2e4-4823-b6f3-47f7593518cb",
+                  "joinphrase": ", ",
+                  "name": "George Bruns"
+                },
+                {
+                  "id": "0a8df504-df94-4d77-a3c5-2b9e5c9727e2",
+                  "joinphrase": ", ",
+                  "name": "Terry Gilkyson"
+                },
+                {
+                  "id": "c47026a1-3300-4cf7-80df-8b9462a884e4",
+                  "joinphrase": " & ",
+                  "name": "Richard M. Sherman"
+                },
+                {
+                  "id": "d378dedb-444f-48f5-a6e6-3e8e31ef6c14",
+                  "name": "Robert B. Sherman"
+                }
+              ],
+              "id": "44243185-02f8-4901-bfd2-1551bf42823d",
+              "secondarytypes": [
+                "Soundtrack"
+              ],
+              "title": "Le Livre de la jungle",
+              "type": "Album"
+            }
+          ],
+          "title": "Mon bébé (instrumental)"
+        },
+        {
+          "artists": [
+            {
+              "id": "c47026a1-3300-4cf7-80df-8b9462a884e4",
+              "joinphrase": " & ",
+              "name": "Richard M. Sherman"
+            },
+            {
+              "id": "d378dedb-444f-48f5-a6e6-3e8e31ef6c14",
+              "name": "Robert B. Sherman"
+            }
+          ],
+          "duration": 130,
+          "id": "5ea18186-d8c6-4299-91eb-b9d67999b76b",
+          "releasegroups": [
+            {
+              "id": "094618e5-1dde-3f3e-a2fd-cefec8929675",
+              "secondarytypes": [
+                "Soundtrack"
+              ],
+              "title": "Das Dschungelbuch",
+              "type": "Album"
+            }
+          ],
+          "title": "Baby"
+        },
+        {
+          "artists": [
+            {
+              "id": "4204e06b-d2e4-4823-b6f3-47f7593518cb",
+              "name": "George Bruns"
+            }
+          ],
+          "duration": 131,
+          "id": "8e387bef-8bc0-4a11-9be1-80c7245961ea",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "4204e06b-d2e4-4823-b6f3-47f7593518cb",
+                  "joinphrase": ", ",
+                  "name": "George Bruns"
+                },
+                {
+                  "id": "c47026a1-3300-4cf7-80df-8b9462a884e4",
+                  "joinphrase": " & ",
+                  "name": "Richard M. Sherman"
+                },
+                {
+                  "id": "d378dedb-444f-48f5-a6e6-3e8e31ef6c14",
+                  "joinphrase": ", ",
+                  "name": "Robert B. Sherman"
+                },
+                {
+                  "id": "0a8df504-df94-4d77-a3c5-2b9e5c9727e2",
+                  "name": "Terry Gilkyson"
+                }
+              ],
+              "id": "1257fcdf-743f-3dff-9894-107b398fb777",
+              "secondarytypes": [
+                "Soundtrack"
+              ],
+              "title": "The Jungle Book: Original Cast Soundtrack",
+              "type": "Album"
+            }
+          ],
+          "title": "Baby"
+        }
+      ],
+      "score": 0.983518
+    }
+  ],
+  "status": "ok"
+}

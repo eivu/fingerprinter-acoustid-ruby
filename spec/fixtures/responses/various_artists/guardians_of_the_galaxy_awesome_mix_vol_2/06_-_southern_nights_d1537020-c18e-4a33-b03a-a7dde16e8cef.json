@@ -1,0 +1,1990 @@
+{
+  "results": [
+    {
+      "id": "3f252270-6b7c-4758-99e5-3b865e568637",
+      "recordings": [
+        {
+          "id": "1450b7ae-94e9-45d8-bdd7-f26c21d0720b"
+        },
+        {
+          "artists": [
+            {
+              "id": "57976431-1a5c-4968-a422-b92c5e9b0d4f",
+              "name": "Glen Campbell"
+            }
+          ],
+          "duration": 179,
+          "id": "85d86d5d-47f9-4e9c-b6f7-1c5c1504b3ca",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "57976431-1a5c-4968-a422-b92c5e9b0d4f",
+                  "name": "Glen Campbell"
+                }
+              ],
+              "id": "85c465f3-da23-3dfb-834f-23c665e14ec0",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Rhinestone Cowboy: The Best of Glen Campbell",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "c338f62c-de79-4f2b-9060-e57164f153d4",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Southern Nights",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "b7488c61-5af7-49a9-a7d5-ad179cf19d63",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Romancing the 70s, Volume 1: You Needed Me",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "072ce3fa-da9a-4c1e-b2c6-a3ae83857523",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Music for Cruizin' - Goin' Places",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "57976431-1a5c-4968-a422-b92c5e9b0d4f",
+                  "name": "Glen Campbell"
+                }
+              ],
+              "id": "a70296b9-4430-4c07-8743-950f8f1b1511",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Ultimate Glen Campbell",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "06f561e3-e9b7-393a-99b7-d6273519943f",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Ultimate Seventies: 1977",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "57976431-1a5c-4968-a422-b92c5e9b0d4f",
+                  "name": "Glen Campbell"
+                }
+              ],
+              "id": "bfbacbec-2c8e-4dbc-a158-1ca7c8c1ddc4",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Southern Nights & Basic",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "f1321346-86ce-3d37-b98c-e502a33000d3",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "The 70's: 1977: Back in the Groove",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "57976431-1a5c-4968-a422-b92c5e9b0d4f",
+                  "name": "Glen Campbell"
+                }
+              ],
+              "id": "2c5d4a05-2be1-321b-becd-e4be836dda1c",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "The Essential Glen Campbell, Volume 2",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "00c181e5-cc2a-3ad4-8e3e-4e1a3fbcd947",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "25 Years of Rock 'n' Roll: 1977, Volume 2",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "c9c3d1be-e2d7-4a45-ac86-6e3767d413b1",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "You Light Up My Life: Gentle Memories of the ’70s",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "b2b8923d-6850-3ade-86ba-3f6fd23fba6b",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Country Roads: 20 Driving Country Classics",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "57976431-1a5c-4968-a422-b92c5e9b0d4f",
+                  "name": "Glen Campbell"
+                }
+              ],
+              "id": "ee69c35d-f3e9-3495-8f12-bfff927f4731",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "All the Best",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "57976431-1a5c-4968-a422-b92c5e9b0d4f",
+                  "name": "Glen Campbell"
+                }
+              ],
+              "id": "2e0daf8c-9673-4670-8654-f202bee7bbd2",
+              "title": "Southern Nights",
+              "type": "Single"
+            },
+            {
+              "artists": [
+                {
+                  "id": "57976431-1a5c-4968-a422-b92c5e9b0d4f",
+                  "name": "Glen Campbell"
+                }
+              ],
+              "id": "7dba5dd6-1f30-331d-8e94-f17a5fc5548e",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "The Definitive Glen Campbell",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "db1cdd0c-58ec-3593-ae16-dbce031f3bad",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Rock -n- Roll's Greatest Hits of All Time: 70's, Volume 2",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "57976431-1a5c-4968-a422-b92c5e9b0d4f",
+                  "name": "Glen Campbell"
+                }
+              ],
+              "id": "aae43ca9-ee88-400c-9786-0357b4fceddd",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Gentle On My Mind: The Best Of"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "cf8fba08-44ef-4597-b1dc-df94c8e8436a",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Echoes of Love",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "96cd4697-19e0-34a3-981f-d8ed6035bb21",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Hit History, Volume 23: 1977",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "57976431-1a5c-4968-a422-b92c5e9b0d4f",
+                  "name": "Glen Campbell"
+                }
+              ],
+              "id": "dfab07bc-cb15-3568-b5e4-049f45ce0584",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Classic Campbell",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "57976431-1a5c-4968-a422-b92c5e9b0d4f",
+                  "name": "Glen Campbell"
+                }
+              ],
+              "id": "ff142bce-c58d-4ff3-af49-b4ab474f1b41",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "The Complete Glen Campbell",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "4202929a-b6a3-431e-9a20-bc47bdf116b5",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Summer in the 70s",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "9c8be85e-74ea-3b86-bcab-6b0923640f9e",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Sounds of the Seventies: 1977",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "d157ab6b-f7d2-42bd-b6bd-405444b4c1dd",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "70s Mix",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "f99d50a9-99aa-4b8c-9add-b4dd4cd21f6f",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "200 Partyhits",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "57976431-1a5c-4968-a422-b92c5e9b0d4f",
+                  "name": "Glen Campbell"
+                }
+              ],
+              "id": "ab674235-ccd2-30be-88bf-ea67160dd0a0",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "All-Time Favorite Hits",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "7b5d5b1a-74e5-4067-8a02-7458a2696182",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "The Vichy Government \"Mixtape\"",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "ecff2a69-5b6e-3d7e-8e06-e41f64e2e8d8",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "The Most Awesome Line Dancing Album 6",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "02347382-65a2-4bf1-8ea2-c43656f05a9f",
+              "title": "On the Road Again"
+            },
+            {
+              "artists": [
+                {
+                  "id": "57976431-1a5c-4968-a422-b92c5e9b0d4f",
+                  "name": "Glen Campbell"
+                }
+              ],
+              "id": "2918a0c0-259f-3a4f-956a-73fe67384c0f",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Gentle on My Mind",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "525abbd2-03bb-406c-879d-d21f1b9efa75",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Easy Listening Country",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "04384abe-0877-4dfb-b517-81824d1bba19",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Ilja Richter präsentiert: Disco 76-77",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "57976431-1a5c-4968-a422-b92c5e9b0d4f",
+                  "name": "Glen Campbell"
+                }
+              ],
+              "id": "afaf5a10-16a3-3af2-bde6-b1ab98338493",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Classics Collection",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "bc165dc5-ef88-3c12-bb9e-704dd258be6b",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "AM Gold: 1977",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "57976431-1a5c-4968-a422-b92c5e9b0d4f",
+                  "name": "Glen Campbell"
+                }
+              ],
+              "id": "11b69d9a-39c5-42d0-8ab3-90a9e307210c",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "The Legacy (1961-2002)",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "2313de0e-38f5-36a1-bd28-f74bdfcf055b",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Classic Country: 1975–1979",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "6a288233-fc5d-3ffd-ade8-032203eca1c2",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "That’s Country: Simply the Best of Country",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "427ccb12-6c51-3cfe-8ab7-79999e7ed24e",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Classic Country: Late '70s",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "57976431-1a5c-4968-a422-b92c5e9b0d4f",
+                  "name": "Glen Campbell"
+                }
+              ],
+              "id": "beb83980-8538-4f3c-8e0e-d6ac6a28b2c9",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Greatest Hits",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "c7fa1a6b-01ca-4b50-8506-12fe3c425051",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Only Country 1975-1979",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "cb14403e-f2b3-4bed-97c3-9158afd00fc0",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "A Time to Remember: 1977",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "57976431-1a5c-4968-a422-b92c5e9b0d4f",
+                  "name": "Glen Campbell"
+                }
+              ],
+              "id": "3917a277-f9c8-4173-b6fc-d5d18d2c39e5",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Southern Nights: His Greatest Hits",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "57976431-1a5c-4968-a422-b92c5e9b0d4f",
+                  "name": "Glen Campbell"
+                }
+              ],
+              "id": "71e169e0-ef2b-3f30-b2fa-8d8bc4159f68",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "The Capitol Years 65/77",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "d88dbdc4-27b9-4b0d-9d75-a74dbb4731a8",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "70s Rock",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "bc3a013c-f059-3a2b-b6cf-06e57e67943c",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Singers and Songwriters: 1976-1977",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "3a2c9557-395b-3f91-9195-482f4184e3e6",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Take Me Home Country Roads",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "57976431-1a5c-4968-a422-b92c5e9b0d4f",
+                  "name": "Glen Campbell"
+                }
+              ],
+              "id": "891ed15f-a611-3d38-816f-3cdaf4c9eb26",
+              "title": "Southern Nights",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "15cee325-c8c6-3a16-9318-ed15e11e188d",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Classic Country: Golden '70s",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "9b3b90a8-cbc6-4312-924d-fbe9bac788b6",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Jukebox-Hits: Die Dritte",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "57976431-1a5c-4968-a422-b92c5e9b0d4f",
+                  "name": "Glen Campbell"
+                }
+              ],
+              "id": "a7b4095e-b0cf-34c1-a59a-b126e15d516b",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "The Very Best of Glen Campbell",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "1a97a8b0-b1d2-4c75-a27f-1e3a06d93a61",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Sounds of the 70s: 1977",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "a0dea457-e949-3146-a8ce-a40026087cb0",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "The No. 1 Hits 1977",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "57976431-1a5c-4968-a422-b92c5e9b0d4f",
+                  "name": "Glen Campbell"
+                }
+              ],
+              "id": "d8b21537-0464-388d-82e3-d6e8f6612f05",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "20 Greatest Hits",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "8009c13e-b2ab-4c0a-828a-c1b7a218b4da",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Easy Ridin'",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "57976431-1a5c-4968-a422-b92c5e9b0d4f",
+                  "name": "Glen Campbell"
+                }
+              ],
+              "id": "c7c9f336-8025-4c03-9d48-11b93db1b942",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Country Classics",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "5912b75b-c598-32b3-a943-0aa352289c33",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Superstars of Country: Southern Nights",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "57976431-1a5c-4968-a422-b92c5e9b0d4f",
+                  "name": "Glen Campbell"
+                }
+              ],
+              "id": "942874c5-2551-4e11-a0ad-ceeb28478816",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "The Legacy (1961-2017)",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "8d318c6b-b882-38ec-bac8-abaaff7785c3",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "20 Original Country Greats",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "8df0f9fd-4c8c-42c5-a179-34777872c709",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Totally Country",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "86585d82-b3a4-4c5b-8838-747aa6cb2662",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "This Is… 1977",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "752bc3c8-709a-4db3-87e3-38f2359f6c67",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Capitol Records 50th Anniversary 1942–1992",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "32098ba4-a4e3-36de-a0a3-bc86028bec5c",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "200 solstik",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "7e836750-3cd3-4c71-aa9e-b5143bc56a2b",
+              "secondarytypes": [
+                "Soundtrack"
+              ],
+              "title": "Guardians of the Galaxy: Awesome Mix, Vol. 2 (Original Motion Picture Soundtrack)",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "23b592ff-dbe0-46ef-9a7e-1d5ebcd68993",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "De Pre Historie '70",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "137c1592-c8a5-4e46-9d50-ace3b41fe4f9",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Die giftgrüne Superplatte",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "37d805e8-cb2a-317f-8110-cd2bb8cadaf2",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Rock On: 1977",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "1a50e361-c602-3d04-9bce-e9d40fb285a0",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Contemporary Country: The Late ’70s",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "57976431-1a5c-4968-a422-b92c5e9b0d4f",
+                  "name": "Glen Campbell"
+                }
+              ],
+              "id": "f0b1cfd3-026f-4c97-bda3-a6caedd83ccc",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "The Capitol Albums Collection, Vol. 3",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "57976431-1a5c-4968-a422-b92c5e9b0d4f",
+                  "name": "Glen Campbell"
+                }
+              ],
+              "id": "dc4e8b9e-4422-3630-a033-e4f97a658298",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "The Collection 1962-1989",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "6f54d6df-58af-45a8-8129-d78e14473128",
+              "secondarytypes": [
+                "Soundtrack"
+              ],
+              "title": "Convoy O.S.T.",
+              "type": "Album"
+            }
+          ],
+          "title": "Southern Nights"
+        },
+        {
+          "id": "a99996ac-4a7e-4992-aa12-cc1d5d7f410f"
+        },
+        {
+          "id": "d9ce7c35-9027-479a-833b-e5a57c9eab19"
+        }
+      ],
+      "score": 0.958399
+    },
+    {
+      "id": "d8798b8f-5de2-48ee-a2d1-16a198c96bdb",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "57976431-1a5c-4968-a422-b92c5e9b0d4f",
+              "name": "Glen Campbell"
+            }
+          ],
+          "duration": 179,
+          "id": "85d86d5d-47f9-4e9c-b6f7-1c5c1504b3ca",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "57976431-1a5c-4968-a422-b92c5e9b0d4f",
+                  "name": "Glen Campbell"
+                }
+              ],
+              "id": "85c465f3-da23-3dfb-834f-23c665e14ec0",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Rhinestone Cowboy: The Best of Glen Campbell",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "c338f62c-de79-4f2b-9060-e57164f153d4",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Southern Nights",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "b7488c61-5af7-49a9-a7d5-ad179cf19d63",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Romancing the 70s, Volume 1: You Needed Me",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "072ce3fa-da9a-4c1e-b2c6-a3ae83857523",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Music for Cruizin' - Goin' Places",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "57976431-1a5c-4968-a422-b92c5e9b0d4f",
+                  "name": "Glen Campbell"
+                }
+              ],
+              "id": "a70296b9-4430-4c07-8743-950f8f1b1511",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Ultimate Glen Campbell",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "06f561e3-e9b7-393a-99b7-d6273519943f",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Ultimate Seventies: 1977",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "57976431-1a5c-4968-a422-b92c5e9b0d4f",
+                  "name": "Glen Campbell"
+                }
+              ],
+              "id": "bfbacbec-2c8e-4dbc-a158-1ca7c8c1ddc4",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Southern Nights & Basic",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "f1321346-86ce-3d37-b98c-e502a33000d3",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "The 70's: 1977: Back in the Groove",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "57976431-1a5c-4968-a422-b92c5e9b0d4f",
+                  "name": "Glen Campbell"
+                }
+              ],
+              "id": "2c5d4a05-2be1-321b-becd-e4be836dda1c",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "The Essential Glen Campbell, Volume 2",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "00c181e5-cc2a-3ad4-8e3e-4e1a3fbcd947",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "25 Years of Rock 'n' Roll: 1977, Volume 2",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "c9c3d1be-e2d7-4a45-ac86-6e3767d413b1",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "You Light Up My Life: Gentle Memories of the ’70s",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "b2b8923d-6850-3ade-86ba-3f6fd23fba6b",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Country Roads: 20 Driving Country Classics",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "57976431-1a5c-4968-a422-b92c5e9b0d4f",
+                  "name": "Glen Campbell"
+                }
+              ],
+              "id": "ee69c35d-f3e9-3495-8f12-bfff927f4731",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "All the Best",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "57976431-1a5c-4968-a422-b92c5e9b0d4f",
+                  "name": "Glen Campbell"
+                }
+              ],
+              "id": "2e0daf8c-9673-4670-8654-f202bee7bbd2",
+              "title": "Southern Nights",
+              "type": "Single"
+            },
+            {
+              "artists": [
+                {
+                  "id": "57976431-1a5c-4968-a422-b92c5e9b0d4f",
+                  "name": "Glen Campbell"
+                }
+              ],
+              "id": "7dba5dd6-1f30-331d-8e94-f17a5fc5548e",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "The Definitive Glen Campbell",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "db1cdd0c-58ec-3593-ae16-dbce031f3bad",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Rock -n- Roll's Greatest Hits of All Time: 70's, Volume 2",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "57976431-1a5c-4968-a422-b92c5e9b0d4f",
+                  "name": "Glen Campbell"
+                }
+              ],
+              "id": "aae43ca9-ee88-400c-9786-0357b4fceddd",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Gentle On My Mind: The Best Of"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "cf8fba08-44ef-4597-b1dc-df94c8e8436a",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Echoes of Love",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "96cd4697-19e0-34a3-981f-d8ed6035bb21",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Hit History, Volume 23: 1977",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "57976431-1a5c-4968-a422-b92c5e9b0d4f",
+                  "name": "Glen Campbell"
+                }
+              ],
+              "id": "dfab07bc-cb15-3568-b5e4-049f45ce0584",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Classic Campbell",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "57976431-1a5c-4968-a422-b92c5e9b0d4f",
+                  "name": "Glen Campbell"
+                }
+              ],
+              "id": "ff142bce-c58d-4ff3-af49-b4ab474f1b41",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "The Complete Glen Campbell",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "4202929a-b6a3-431e-9a20-bc47bdf116b5",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Summer in the 70s",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "9c8be85e-74ea-3b86-bcab-6b0923640f9e",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Sounds of the Seventies: 1977",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "d157ab6b-f7d2-42bd-b6bd-405444b4c1dd",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "70s Mix",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "f99d50a9-99aa-4b8c-9add-b4dd4cd21f6f",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "200 Partyhits",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "57976431-1a5c-4968-a422-b92c5e9b0d4f",
+                  "name": "Glen Campbell"
+                }
+              ],
+              "id": "ab674235-ccd2-30be-88bf-ea67160dd0a0",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "All-Time Favorite Hits",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "7b5d5b1a-74e5-4067-8a02-7458a2696182",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "The Vichy Government \"Mixtape\"",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "ecff2a69-5b6e-3d7e-8e06-e41f64e2e8d8",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "The Most Awesome Line Dancing Album 6",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "02347382-65a2-4bf1-8ea2-c43656f05a9f",
+              "title": "On the Road Again"
+            },
+            {
+              "artists": [
+                {
+                  "id": "57976431-1a5c-4968-a422-b92c5e9b0d4f",
+                  "name": "Glen Campbell"
+                }
+              ],
+              "id": "2918a0c0-259f-3a4f-956a-73fe67384c0f",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Gentle on My Mind",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "525abbd2-03bb-406c-879d-d21f1b9efa75",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Easy Listening Country",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "04384abe-0877-4dfb-b517-81824d1bba19",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Ilja Richter präsentiert: Disco 76-77",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "57976431-1a5c-4968-a422-b92c5e9b0d4f",
+                  "name": "Glen Campbell"
+                }
+              ],
+              "id": "afaf5a10-16a3-3af2-bde6-b1ab98338493",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Classics Collection",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "bc165dc5-ef88-3c12-bb9e-704dd258be6b",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "AM Gold: 1977",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "57976431-1a5c-4968-a422-b92c5e9b0d4f",
+                  "name": "Glen Campbell"
+                }
+              ],
+              "id": "11b69d9a-39c5-42d0-8ab3-90a9e307210c",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "The Legacy (1961-2002)",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "2313de0e-38f5-36a1-bd28-f74bdfcf055b",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Classic Country: 1975–1979",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "6a288233-fc5d-3ffd-ade8-032203eca1c2",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "That’s Country: Simply the Best of Country",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "427ccb12-6c51-3cfe-8ab7-79999e7ed24e",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Classic Country: Late '70s",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "57976431-1a5c-4968-a422-b92c5e9b0d4f",
+                  "name": "Glen Campbell"
+                }
+              ],
+              "id": "beb83980-8538-4f3c-8e0e-d6ac6a28b2c9",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Greatest Hits",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "c7fa1a6b-01ca-4b50-8506-12fe3c425051",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Only Country 1975-1979",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "cb14403e-f2b3-4bed-97c3-9158afd00fc0",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "A Time to Remember: 1977",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "57976431-1a5c-4968-a422-b92c5e9b0d4f",
+                  "name": "Glen Campbell"
+                }
+              ],
+              "id": "3917a277-f9c8-4173-b6fc-d5d18d2c39e5",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Southern Nights: His Greatest Hits",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "57976431-1a5c-4968-a422-b92c5e9b0d4f",
+                  "name": "Glen Campbell"
+                }
+              ],
+              "id": "71e169e0-ef2b-3f30-b2fa-8d8bc4159f68",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "The Capitol Years 65/77",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "d88dbdc4-27b9-4b0d-9d75-a74dbb4731a8",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "70s Rock",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "bc3a013c-f059-3a2b-b6cf-06e57e67943c",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Singers and Songwriters: 1976-1977",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "3a2c9557-395b-3f91-9195-482f4184e3e6",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Take Me Home Country Roads",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "57976431-1a5c-4968-a422-b92c5e9b0d4f",
+                  "name": "Glen Campbell"
+                }
+              ],
+              "id": "891ed15f-a611-3d38-816f-3cdaf4c9eb26",
+              "title": "Southern Nights",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "15cee325-c8c6-3a16-9318-ed15e11e188d",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Classic Country: Golden '70s",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "9b3b90a8-cbc6-4312-924d-fbe9bac788b6",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Jukebox-Hits: Die Dritte",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "57976431-1a5c-4968-a422-b92c5e9b0d4f",
+                  "name": "Glen Campbell"
+                }
+              ],
+              "id": "a7b4095e-b0cf-34c1-a59a-b126e15d516b",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "The Very Best of Glen Campbell",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "1a97a8b0-b1d2-4c75-a27f-1e3a06d93a61",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Sounds of the 70s: 1977",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "a0dea457-e949-3146-a8ce-a40026087cb0",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "The No. 1 Hits 1977",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "57976431-1a5c-4968-a422-b92c5e9b0d4f",
+                  "name": "Glen Campbell"
+                }
+              ],
+              "id": "d8b21537-0464-388d-82e3-d6e8f6612f05",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "20 Greatest Hits",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "8009c13e-b2ab-4c0a-828a-c1b7a218b4da",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Easy Ridin'",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "57976431-1a5c-4968-a422-b92c5e9b0d4f",
+                  "name": "Glen Campbell"
+                }
+              ],
+              "id": "c7c9f336-8025-4c03-9d48-11b93db1b942",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Country Classics",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "5912b75b-c598-32b3-a943-0aa352289c33",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Superstars of Country: Southern Nights",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "57976431-1a5c-4968-a422-b92c5e9b0d4f",
+                  "name": "Glen Campbell"
+                }
+              ],
+              "id": "942874c5-2551-4e11-a0ad-ceeb28478816",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "The Legacy (1961-2017)",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "8d318c6b-b882-38ec-bac8-abaaff7785c3",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "20 Original Country Greats",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "8df0f9fd-4c8c-42c5-a179-34777872c709",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Totally Country",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "86585d82-b3a4-4c5b-8838-747aa6cb2662",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "This Is… 1977",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "752bc3c8-709a-4db3-87e3-38f2359f6c67",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Capitol Records 50th Anniversary 1942–1992",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "32098ba4-a4e3-36de-a0a3-bc86028bec5c",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "200 solstik",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "7e836750-3cd3-4c71-aa9e-b5143bc56a2b",
+              "secondarytypes": [
+                "Soundtrack"
+              ],
+              "title": "Guardians of the Galaxy: Awesome Mix, Vol. 2 (Original Motion Picture Soundtrack)",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "23b592ff-dbe0-46ef-9a7e-1d5ebcd68993",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "De Pre Historie '70",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "137c1592-c8a5-4e46-9d50-ace3b41fe4f9",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Die giftgrüne Superplatte",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "37d805e8-cb2a-317f-8110-cd2bb8cadaf2",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Rock On: 1977",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "1a50e361-c602-3d04-9bce-e9d40fb285a0",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Contemporary Country: The Late ’70s",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "57976431-1a5c-4968-a422-b92c5e9b0d4f",
+                  "name": "Glen Campbell"
+                }
+              ],
+              "id": "f0b1cfd3-026f-4c97-bda3-a6caedd83ccc",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "The Capitol Albums Collection, Vol. 3",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "57976431-1a5c-4968-a422-b92c5e9b0d4f",
+                  "name": "Glen Campbell"
+                }
+              ],
+              "id": "dc4e8b9e-4422-3630-a033-e4f97a658298",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "The Collection 1962-1989",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "6f54d6df-58af-45a8-8129-d78e14473128",
+              "secondarytypes": [
+                "Soundtrack"
+              ],
+              "title": "Convoy O.S.T.",
+              "type": "Album"
+            }
+          ],
+          "title": "Southern Nights"
+        }
+      ],
+      "score": 0.895022
+    }
+  ],
+  "status": "ok"
+}

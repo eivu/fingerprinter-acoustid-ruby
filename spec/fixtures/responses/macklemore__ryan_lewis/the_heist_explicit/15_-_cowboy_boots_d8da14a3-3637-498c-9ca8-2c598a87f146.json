@@ -1,0 +1,29 @@
+{
+  "results": [
+    {
+      "id": "17a063ec-0b08-4ec6-b63f-9a8dc934c425",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "97b226c8-7140-4da3-91ac-15e62e131a81",
+              "name": "Macklemore & Ryan Lewis"
+            }
+          ],
+          "duration": 257,
+          "id": "b72d633e-c240-4041-9d0c-5c60cbeb1c39",
+          "releasegroups": [
+            {
+              "id": "22315cdd-4ed9-427c-9492-560cf4afed58",
+              "title": "The Heist",
+              "type": "Album"
+            }
+          ],
+          "title": "Cowboy Boots"
+        }
+      ],
+      "score": 0.965176
+    }
+  ],
+  "status": "ok"
+}

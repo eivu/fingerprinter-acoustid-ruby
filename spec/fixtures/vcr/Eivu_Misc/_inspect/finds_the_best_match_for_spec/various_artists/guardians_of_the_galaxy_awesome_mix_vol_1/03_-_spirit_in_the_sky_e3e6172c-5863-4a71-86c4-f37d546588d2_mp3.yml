@@ -21,7 +21,7 @@ http_interactions:
       message: OK
     headers:
       Date:
-      - Tue, 29 Jun 2021 13:48:00 GMT
+      - Tue, 29 Jun 2021 21:23:50 GMT
       Content-Type:
       - application/json; charset=UTF-8
       Transfer-Encoding:
@@ -33,7 +33,9 @@ http_interactions:
       Access-Control-Allow-Origin:
       - "*"
       X-Envoy-Upstream-Service-Time:
-      - '481'
+      - '512'
+      X-Envoy-Decorator-Operation:
+      - acoustid-server-api.acoustid.svc.cluster.local:3031/*
       Strict-Transport-Security:
       - max-age=15724800; includeSubDomains
     body:
@@ -4205,5 +4207,5 @@ http_interactions:
         "title": "Spirit in the Sky", "type": "Album"}], "title": "Spirit in the Sky"}],
         "score": 0.943565}], "status": "ok"}'
     http_version:
-  recorded_at: Tue, 29 Jun 2021 13:48:01 GMT
+  recorded_at: Tue, 29 Jun 2021 21:23:51 GMT
 recorded_with: VCR 3.0.3

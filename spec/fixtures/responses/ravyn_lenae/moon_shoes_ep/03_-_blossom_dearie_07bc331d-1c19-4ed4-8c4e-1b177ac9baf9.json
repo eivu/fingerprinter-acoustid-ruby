@@ -1,0 +1,29 @@
+{
+  "results": [
+    {
+      "id": "1fa57835-3818-4bce-badc-4699ac9b6832",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "94c64122-dbd4-4927-b2fa-f204b0b4b0c2",
+              "name": "Ravyn Lenae"
+            }
+          ],
+          "duration": 189,
+          "id": "6fbabf2f-f2d3-442d-ba10-81614623f202",
+          "releasegroups": [
+            {
+              "id": "74223740-723a-4b35-96c4-147d71c0d335",
+              "title": "Moon Shoes",
+              "type": "EP"
+            }
+          ],
+          "title": "Blossom Dearie"
+        }
+      ],
+      "score": 0.997237
+    }
+  ],
+  "status": "ok"
+}

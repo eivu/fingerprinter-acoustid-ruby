@@ -1,0 +1,29 @@
+{
+  "results": [
+    {
+      "id": "3628c414-b458-49ca-afef-cc9f32c1950b",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "022b58ea-6098-411d-b88a-652821d4c191",
+              "name": "DJ DB"
+            }
+          ],
+          "duration": 272,
+          "id": "2ab1ad75-84dd-4e6b-8655-455439caf87f",
+          "releasegroups": [
+            {
+              "id": "c4ec56dc-8c9d-4079-b899-a096beffdcc0",
+              "title": "The Secret Art Of Science 2",
+              "type": "Album"
+            }
+          ],
+          "title": "Soul of Darkness"
+        }
+      ],
+      "score": 0.987478
+    }
+  ],
+  "status": "ok"
+}

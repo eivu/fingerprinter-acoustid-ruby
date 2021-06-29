@@ -21,7 +21,7 @@ http_interactions:
       message: OK
     headers:
       Date:
-      - Tue, 29 Jun 2021 13:42:38 GMT
+      - Tue, 29 Jun 2021 21:17:46 GMT
       Content-Type:
       - application/json; charset=UTF-8
       Transfer-Encoding:
@@ -33,7 +33,7 @@ http_interactions:
       Access-Control-Allow-Origin:
       - "*"
       X-Envoy-Upstream-Service-Time:
-      - '63'
+      - '73'
       Strict-Transport-Security:
       - max-age=15724800; includeSubDomains
     body:
@@ -45,5 +45,5 @@ http_interactions:
         "Camp", "type": "Album"}], "title": "Fire Fly"}, {"id": "e1814a81-5f1c-43a6-b824-cb2552cd73c3"}],
         "score": 0.97653}], "status": "ok"}'
     http_version:
-  recorded_at: Tue, 29 Jun 2021 13:42:38 GMT
+  recorded_at: Tue, 29 Jun 2021 21:17:46 GMT
 recorded_with: VCR 3.0.3

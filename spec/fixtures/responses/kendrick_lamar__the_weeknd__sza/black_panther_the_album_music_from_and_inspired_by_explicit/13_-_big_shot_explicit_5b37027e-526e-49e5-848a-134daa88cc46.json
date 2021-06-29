@@ -1,0 +1,75 @@
+{
+  "results": [
+    {
+      "id": "af09f423-5ac9-4439-895b-d29bc978fe3d",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "381086ea-f511-4aba-bdf9-71c753dc5077",
+              "joinphrase": " & ",
+              "name": "Kendrick Lamar"
+            },
+            {
+              "id": "e4a51f17-a57b-47b1-b37b-f552d0f8e9e6",
+              "name": "Travis Scott"
+            }
+          ],
+          "duration": 221,
+          "id": "5c9fd7ce-4290-4e22-9039-70844c4cfc1b",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "381086ea-f511-4aba-bdf9-71c753dc5077",
+                  "name": "Kendrick Lamar"
+                }
+              ],
+              "id": "4e317e28-e6b2-46d7-81f7-306e349b3dd4",
+              "secondarytypes": [
+                "Soundtrack"
+              ],
+              "title": "Black Panther: The Album (Music From and Inspired By)",
+              "type": "Album"
+            }
+          ],
+          "title": "Big Shot"
+        },
+        {
+          "artists": [
+            {
+              "id": "381086ea-f511-4aba-bdf9-71c753dc5077",
+              "joinphrase": " & ",
+              "name": "Kendrick Lamar"
+            },
+            {
+              "id": "e4a51f17-a57b-47b1-b37b-f552d0f8e9e6",
+              "name": "Travis Scott"
+            }
+          ],
+          "duration": 221,
+          "id": "89099238-5302-4584-b101-6e4af0d11738",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "381086ea-f511-4aba-bdf9-71c753dc5077",
+                  "name": "Kendrick Lamar"
+                }
+              ],
+              "id": "4e317e28-e6b2-46d7-81f7-306e349b3dd4",
+              "secondarytypes": [
+                "Soundtrack"
+              ],
+              "title": "Black Panther: The Album (Music From and Inspired By)",
+              "type": "Album"
+            }
+          ],
+          "title": "Big Shot"
+        }
+      ],
+      "score": 0.988575
+    }
+  ],
+  "status": "ok"
+}

@@ -1,0 +1,56 @@
+---
+http_interactions:
+- request:
+    method: get
+    uri: https://api.acoustid.org/v2/lookup?client=<ACOUSTID_CLIENT_ID>&duration=309&fingerprint=AQADtEkipfIS_DL6FepLiEk_TOeios_VwT3qqMjxUAtO40OY7ujPo5aOBvqy4Ezxi9C7GM1y4j8cRhd-x_AjaD9wXBFj4vFR6Sy2HNqRvwOfC5d4nA-cG3ePo6kp9FEOtnh1hJYOZVwqBqmPH_2CPzhzvDjxBfGPY4J_48yDftCRHw2HenOQ3CFCb0dz4Y_xYDqa4jk0m-gbXOyAK8Z3eMKJXkdCHvd85McfnEHETDzxHi7Kk9Dx-rgf8Anz4vgPz2qCPArx4Tl49CEP9_iF58ePP4j0ZNC0SPARWg-uaRNOK3g4HU149MIl7QZ-lGgqzngWxEefchCP-iyeJMdeXD6a5ER_nBd6ePfxwA96Es_x5jAfF88OtTmu4dEhe0KtouGiGH8ENCfqEUeP3MfxVLBQD_3hH_kI_YePljTy26iNdMchXjhyLUd1XMen0PB49OuRLlsEfcOlIA-Pn4FX9DnyDTUhImSFS8Rx52jIG396-LC2oUc_NNOLzghzQr-QB_UW_IN_VDrCH82zG_LU4nEE7cSJ5in-4N_hBz9uaOFx-PgDS8izVEhf4VDPwUc_0fiDo6mDLoemH0cO3-iHy_h5hFFYC2ZEQuOP5szRZ0ev48cjog-hSQdoEp-O9PiJ4PLRc9Cow-cR_LDEHZmqObiUHL4F7cezGSVy5gjvo8uDhj--0Tgf9IS_GPWFH-EzNA9e9HAP4_CH40d64cqgI_3R0_gtonBo9DnC5BF-CHmDzsfjGM26o2_QsAip6dDy4Flg3gk8Hr0W4jv6Q9QR-vjx6HjR8wye0UE4L-ghvrgyNH2KH14X_Dse1Jvx4xB3_IPLBx9uFReHQ9TUomcT_GjOoHbxHdqN9DQOy8e74xfyHD_0_PB59Mcf_OguNP2L59CeA76Q5QY_48vRjLyQP7DC_FAp5mieodfxoM8iCWcIHVdwZBEP5zqOXvjBCyEPdzyeQTecz8Z_bH6EF7dkPN-wnYUm0ziHyn3ho3_wR0YbFX6Uo50Z_ENFEc2DozfMHblWfIt09EVXHj5RSyfyo-UhFj2L3ynyocmDEuFFiMM7Iw8qXfhjNNFRbzizIswOnUdFScWzB130IEx-5EFPiJWE4MuKXh7eoFHD49GNv0hPiD8eNH_w3Gi-QJOYrcaP2g6OwzHxnPAfVE6E30I_6INJonfwo5GXHNWHk2haFfrgF73Qn3CWV7CaHMchVkXP437wCNVDNCOPH9rxB0Hz4PhSoYl44SvSaTPOF-IZVE4-1H3wSkbFExr34_mRH2dunMYNNxvuUAiV3MFz6McXZD_x5wg1gome4z6eKGSgWwtwH284PDfOHI_4GHvW4VpRCw0XHRcjwCf2EUe_GD_ywTx6oSd85MczHoJ_tA9-9EIzfegL8UR-XD26-MJ39MvhkcenMUinQh8y6fByRvjRfAc_HuELa4R25BX-D2ifw9Omwn2PHGK3ow-a9eiDfkfz5dCPipuDv8dx-D6-wzquWDggdhLaOzj6oXmS4xv6WRCJH_7xHSaL74J_4Yd8WOhHCU-Io9mhHUW-44F_dI6Jp3iOMLvhJaKhZ4c_MF_R5YxA28HH4OAN3TqQj4dx4jlyCp8u6PCRHxePF9kb-A966A_6wxdh5hXywwqf4TBKvQjDiiNKJhd6UvjxF91EtLvgR8FPnDb6o10Ia8YDr8J5iPNkXBnMHdr5Iox-XCQOWzkuvAou4ifSfMHR6IauNmBeNFx2HPXx4hfcIUS_H-kZfDj8BjoOf-igH9U7NMeFHtQPXXg-xLSMhscd_EFDHqHxQ8_QnKj1CKfxC-6B79CO74gPkzo69Dxcor-Q7HCP8Dfe4EdTEeWD8BCP9IGP0hc-8eiD5jxKr0gXFzr8GOn4wByN8viJLCf84tCloJ1k_GiU44H7jvjhHWGP50L_gJIiNvhz_AnhL0V4aLzgItxl9I_hH-EzH7_RNxCfGe0e5C-aUDx6CdWFBs9R24GP9NDhH7eGlD0-8XhL5CG0o9k7oj4-9GrhEX-M-sSNLyqayUfoDS0TwYPfClYoWTgP7wj1HLqP8DmFxr1wqcC9I5crJAujBhfbodGbBJdwBQ1SJPtx78N9XFngTTueI3eiR9ApGdeJnCOHUx7CHjryoulm_MHhR8nxKSh9NIyR_MWRs0IXoTlaZocffJOQqhfM5Qm0B_kF78HpDrHRH3rhH-F-XDqeI8y0HToppLvhB_18dMcvJCOXI1-C6qD446pgfMTdw3gUMuiyx-isD7aHfIcO3-DXIPyH98Sn42qMMA9eom9cPJcEVfqKX8FltDmaRzk-M_iHiiKaB0dvmNuR68QdCT_eHv5R88iFlhCLnk3xGx_CRA9C9CLE4zrCEweIU0QAIBgjCxBAEQMCOEGEQsAxookhCmolEABGMMQAIY4hQwByRAolwjPMEIOISBgZB4AAaBFGkTKMAEmAJM4wBJQThCABAHNAKAAAAAYwwghxAhFglEHCGUCARcAqJJBiwDihDMACWCiQIAIwoLghzABqiaCGCSKMEIACQgChxkkoBDOCMGAMUcpAk4QhQiBGmADOAwAMNAIIKQxCSgiAqEBMHGeYQgASIOE3jDsgIADAAQCEEEJIKRwiCgAhmBKCOMAAwsAwowQERCBAAGNGKGGZY4gxIDgVxACmgISCUKKIEMAAx4gCmADHrCBEAaSIA0CAgJwQijjrjHAKGKUEMgYgphAzQiiBCKHAMAKAEEQKYxwABBAAgBAiEG4sAMBaI6xjCgEhhCHAAEEFEggAIAREXCEDgBICKIOIAcAYxJQgwgAliEGGSUUMEAYRApCjgggnmLFYGIAQgEgBCQAVgAghDHhCCeKNQFgAQIRDhgkAgAAIGCCEYIAhIAhzBBpBIDAMUGKAEMoQYwASgALBhHFMEKKdMEAQRpUChAjhjHCACGcYIcQJApRSQgABBADSKWKJEgB4gIQjSCBDIQigGCCIMwAxggwRDhgCKlEGOOMoUwQxQoyhTAgDjCAUAamFEAQzJaxwhAggAaEACQYIIQABIxBjADkBDANMKIKMApQQQZiwjBAAgHFIOqIgEkgQ4RxiVBBEiRKGCQIAI8hYQgQhAhBiiSCEGCEEUIBIYQQABksADBEBAgKcEIgI4YhQAiCBCAECCmAcUkQYJRQkSAgBmFICOCMEIY4AY5whUBACHAEIEAaFIYQQ5IwyACggkGJLQCIAMoCIpgFBggAEBRCOCSEAAxQQIRARgCHCKAASAWIUMAgjZQQBwhhAAAMKQAiAMAIiroQRwCgBhAKeGCCEMcQZ&meta=recordings%20releasegroups%20compress
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      Accept:
+      - "*/*"
+      User-Agent:
+      - rest-client/2.1.0 (darwin20.3.0 x86_64) ruby/2.7.1p83
+      Accept-Encoding:
+      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+      Host:
+      - api.acoustid.org
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Date:
+      - Tue, 29 Jun 2021 21:17:06 GMT
+      Content-Type:
+      - application/json; charset=UTF-8
+      Transfer-Encoding:
+      - chunked
+      Connection:
+      - keep-alive
+      Vary:
+      - Accept-Encoding
+      Access-Control-Allow-Origin:
+      - "*"
+      X-Envoy-Upstream-Service-Time:
+      - '111'
+      Strict-Transport-Security:
+      - max-age=15724800; includeSubDomains
+    body:
+      encoding: ASCII-8BIT
+      string: '{"results": [{"id": "5a10e1eb-c23c-429e-8d5e-b9b542d401a9", "recordings":
+        [{"artists": [{"id": "859d0860-d480-4efd-970c-c05d5f1776b8", "name": "Beyonc\u00e9"}],
+        "duration": 309, "id": "2c502dbd-abe9-4cdb-a950-2083a19623e7", "releasegroups":
+        [{"id": "8596171e-23b2-4bdd-8f1c-11960df0ecbe", "title": "BEYONC\u00c9", "type":
+        "Album"}], "title": "Blow"}, {"artists": [{"id": "859d0860-d480-4efd-970c-c05d5f1776b8",
+        "joinphrase": " feat. ", "name": "Beyonc\u00e9"}, {"id": "149f91ef-1287-46da-9a8e-87fee02f1471",
+        "name": "Pharrell Williams"}], "duration": 309, "id": "96d434eb-c2a1-4bb6-b3df-02d188a718ce",
+        "releasegroups": [{"artists": [{"id": "859d0860-d480-4efd-970c-c05d5f1776b8",
+        "name": "Beyonc\u00e9"}], "id": "2a72722a-17a8-43d8-9e05-c806e75d7d07", "secondarytypes":
+        ["Remix"], "title": "Blow Remix", "type": "Single"}, {"artists": [{"id": "859d0860-d480-4efd-970c-c05d5f1776b8",
+        "name": "Beyonc\u00e9"}], "id": "8596171e-23b2-4bdd-8f1c-11960df0ecbe", "title":
+        "BEYONC\u00c9", "type": "Album"}], "title": "Blow (remix)"}], "score": 0.946843}],
+        "status": "ok"}'
+    http_version:
+  recorded_at: Tue, 29 Jun 2021 21:17:06 GMT
+recorded_with: VCR 3.0.3

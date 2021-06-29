@@ -1,0 +1,52 @@
+{
+  "results": [
+    {
+      "id": "b386f49b-c9c7-45db-bbba-15ba9591eae7",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "250504d4-eca1-4b23-bea6-db1dc7d2eaf9",
+              "name": "Des’ree"
+            }
+          ],
+          "duration": 212,
+          "id": "ba30c772-bda5-4676-8047-4edcb461f6c3",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "5f81b95c-8a86-357d-88a4-4760ead1e413",
+              "secondarytypes": [
+                "Soundtrack"
+              ],
+              "title": "William Shakespeare’s Romeo + Juliet, Volume 2",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "650ebbf1-e25c-3f13-ac2b-d98010c1c5ee",
+              "secondarytypes": [
+                "Soundtrack"
+              ],
+              "title": "William Shakespeare’s Romeo + Juliet: Music From the Motion Picture",
+              "type": "Album"
+            }
+          ],
+          "title": "Kissing You (Love theme from Romeo + Juliet) (instrumental)"
+        }
+      ],
+      "score": 0.982859
+    }
+  ],
+  "status": "ok"
+}

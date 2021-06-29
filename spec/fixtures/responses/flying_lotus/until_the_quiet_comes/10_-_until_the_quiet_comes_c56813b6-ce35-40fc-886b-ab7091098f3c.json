@@ -1,0 +1,29 @@
+{
+  "results": [
+    {
+      "id": "8b8d48f3-5677-419e-95ce-ebe2026b2696",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "fc7376fe-1a6f-4414-b4a7-83f50ed59c92",
+              "name": "Flying Lotus"
+            }
+          ],
+          "duration": 131,
+          "id": "0aff090b-c192-4dff-a0d8-e82bee41760c",
+          "releasegroups": [
+            {
+              "id": "eb9e0983-2478-4494-a8e2-e4117c2ba40f",
+              "title": "Until the Quiet Comes",
+              "type": "Album"
+            }
+          ],
+          "title": "Until the Quiet Comes"
+        }
+      ],
+      "score": 0.936379
+    }
+  ],
+  "status": "ok"
+}

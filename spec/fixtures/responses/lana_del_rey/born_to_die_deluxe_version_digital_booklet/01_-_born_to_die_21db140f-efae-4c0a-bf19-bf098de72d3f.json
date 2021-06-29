@@ -1,0 +1,395 @@
+{
+  "results": [
+    {
+      "id": "fef26e04-0c1c-4b0b-bb5f-737208b8085d",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "b7539c32-53e7-4908-bda3-81449c367da6",
+              "name": "Lana Del Rey"
+            }
+          ],
+          "duration": 286,
+          "id": "ac71eb2c-0a25-4f06-acff-13bec69d06e1",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "b7539c32-53e7-4908-bda3-81449c367da6",
+                  "name": "Lana Del Rey"
+                }
+              ],
+              "id": "094bb9d4-bb3e-4771-82c0-99f39cf3150b",
+              "title": "Born to Die",
+              "type": "Single"
+            },
+            {
+              "artists": [
+                {
+                  "id": "b7539c32-53e7-4908-bda3-81449c367da6",
+                  "name": "Lana Del Rey"
+                }
+              ],
+              "id": "153a4039-dbef-44f2-ab4a-3135c3b3d9b0",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Greatest Hits",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "b7539c32-53e7-4908-bda3-81449c367da6",
+                  "name": "Lana Del Rey"
+                }
+              ],
+              "id": "c6c0ec90-3088-4bd2-8d05-d171adec6102",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Greatest Hits",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "b7539c32-53e7-4908-bda3-81449c367da6",
+                  "name": "Lana Del Rey"
+                }
+              ],
+              "id": "4b16a1bc-8644-48ae-9b3e-8ae36aa30cfc",
+              "title": "Born to Die",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "6655955b-1c1e-4bcb-84e4-81bcd9efab30",
+                  "name": "Ólafur Arnalds"
+                }
+              ],
+              "id": "63b597b0-da14-4ab8-a2c6-314faa830324",
+              "secondarytypes": [
+                "Soundtrack"
+              ],
+              "title": "Gimme Shelter",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "779563cc-3d85-40e4-b3ea-26facdde131f",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "As 100 Mais Da Antena 1, Volume 3",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "b7539c32-53e7-4908-bda3-81449c367da6",
+                  "name": "Lana Del Rey"
+                }
+              ],
+              "id": "c9ff68d9-af4f-4791-9e62-69170af0a71e",
+              "title": "Lana Del Rey EP",
+              "type": "EP"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "4440d2e9-8f1b-4154-9927-d37a65c2d7ae",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Now That’s What I Call Music! 81",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "b7539c32-53e7-4908-bda3-81449c367da6",
+                  "name": "Lana Del Rey"
+                }
+              ],
+              "id": "868eb27c-853a-435f-88ab-7eea967f0064",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "The Singles",
+              "type": "Single"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "79df6508-4918-471b-b0c9-7017614c567a",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Rock Werchter 40: 1975–2014",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "52401354-e641-4591-b72d-50645e9ab612",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Bravo Hits 76",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "63a39512-cc41-4449-9b37-32b97b2a8bbf",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "The Dome, Volume 61",
+              "type": "Album"
+            },
+            {
+              "id": "c2d93bf0-f042-4534-ba3f-a7d0775120f0",
+              "secondarytypes": [
+                "Remix"
+              ],
+              "title": "Born to Die",
+              "type": "EP"
+            }
+          ],
+          "title": "Born to Die"
+        }
+      ],
+      "score": 0.955828
+    },
+    {
+      "id": "902575fa-5d98-4e52-835d-d23f4f903c6d",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "b7539c32-53e7-4908-bda3-81449c367da6",
+              "name": "Lana Del Rey"
+            }
+          ],
+          "duration": 287,
+          "id": "2078dfad-3be1-4112-a31f-bbd7b5c3cf81",
+          "releasegroups": [
+            {
+              "id": "094bb9d4-bb3e-4771-82c0-99f39cf3150b",
+              "title": "Born to Die",
+              "type": "Single"
+            }
+          ],
+          "title": "Born to Die (instrumental)"
+        },
+        {
+          "artists": [
+            {
+              "id": "b7539c32-53e7-4908-bda3-81449c367da6",
+              "name": "Lana Del Rey"
+            }
+          ],
+          "duration": 286,
+          "id": "ac71eb2c-0a25-4f06-acff-13bec69d06e1",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "b7539c32-53e7-4908-bda3-81449c367da6",
+                  "name": "Lana Del Rey"
+                }
+              ],
+              "id": "094bb9d4-bb3e-4771-82c0-99f39cf3150b",
+              "title": "Born to Die",
+              "type": "Single"
+            },
+            {
+              "artists": [
+                {
+                  "id": "b7539c32-53e7-4908-bda3-81449c367da6",
+                  "name": "Lana Del Rey"
+                }
+              ],
+              "id": "153a4039-dbef-44f2-ab4a-3135c3b3d9b0",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Greatest Hits",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "b7539c32-53e7-4908-bda3-81449c367da6",
+                  "name": "Lana Del Rey"
+                }
+              ],
+              "id": "c6c0ec90-3088-4bd2-8d05-d171adec6102",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Greatest Hits",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "b7539c32-53e7-4908-bda3-81449c367da6",
+                  "name": "Lana Del Rey"
+                }
+              ],
+              "id": "4b16a1bc-8644-48ae-9b3e-8ae36aa30cfc",
+              "title": "Born to Die",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "6655955b-1c1e-4bcb-84e4-81bcd9efab30",
+                  "name": "Ólafur Arnalds"
+                }
+              ],
+              "id": "63b597b0-da14-4ab8-a2c6-314faa830324",
+              "secondarytypes": [
+                "Soundtrack"
+              ],
+              "title": "Gimme Shelter",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "779563cc-3d85-40e4-b3ea-26facdde131f",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "As 100 Mais Da Antena 1, Volume 3",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "b7539c32-53e7-4908-bda3-81449c367da6",
+                  "name": "Lana Del Rey"
+                }
+              ],
+              "id": "c9ff68d9-af4f-4791-9e62-69170af0a71e",
+              "title": "Lana Del Rey EP",
+              "type": "EP"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "4440d2e9-8f1b-4154-9927-d37a65c2d7ae",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Now That’s What I Call Music! 81",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "b7539c32-53e7-4908-bda3-81449c367da6",
+                  "name": "Lana Del Rey"
+                }
+              ],
+              "id": "868eb27c-853a-435f-88ab-7eea967f0064",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "The Singles",
+              "type": "Single"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "79df6508-4918-471b-b0c9-7017614c567a",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Rock Werchter 40: 1975–2014",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "52401354-e641-4591-b72d-50645e9ab612",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Bravo Hits 76",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "63a39512-cc41-4449-9b37-32b97b2a8bbf",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "The Dome, Volume 61",
+              "type": "Album"
+            },
+            {
+              "id": "c2d93bf0-f042-4534-ba3f-a7d0775120f0",
+              "secondarytypes": [
+                "Remix"
+              ],
+              "title": "Born to Die",
+              "type": "EP"
+            }
+          ],
+          "title": "Born to Die"
+        }
+      ],
+      "score": 0.948114
+    }
+  ],
+  "status": "ok"
+}

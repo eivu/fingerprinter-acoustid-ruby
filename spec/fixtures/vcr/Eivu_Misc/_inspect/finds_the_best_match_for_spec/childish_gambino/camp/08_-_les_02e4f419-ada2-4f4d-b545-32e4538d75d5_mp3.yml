@@ -21,7 +21,7 @@ http_interactions:
       message: OK
     headers:
       Date:
-      - Tue, 29 Jun 2021 13:42:44 GMT
+      - Tue, 29 Jun 2021 21:17:52 GMT
       Content-Type:
       - application/json; charset=UTF-8
       Transfer-Encoding:
@@ -33,9 +33,7 @@ http_interactions:
       Access-Control-Allow-Origin:
       - "*"
       X-Envoy-Upstream-Service-Time:
-      - '140'
-      X-Envoy-Decorator-Operation:
-      - acoustid-server-api.acoustid.svc.cluster.local:3031/*
+      - '82'
       Strict-Transport-Security:
       - max-age=15724800; includeSubDomains
     body:
@@ -47,5 +45,5 @@ http_interactions:
         "Camp", "type": "Album"}], "title": "L.E.S."}, {"id": "f023b83a-dca0-4f24-9492-d5c38e07ceed"}],
         "score": 0.959324}], "status": "ok"}'
     http_version:
-  recorded_at: Tue, 29 Jun 2021 13:42:44 GMT
+  recorded_at: Tue, 29 Jun 2021 21:17:53 GMT
 recorded_with: VCR 3.0.3

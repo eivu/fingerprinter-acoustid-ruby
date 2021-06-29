@@ -1,0 +1,28 @@
+{
+  "results": [
+    {
+      "id": "94923fac-b768-4aaa-ac9a-514a8d20f7ed",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "4bc9e8c3-7eae-454f-a56c-bccf96f3926b",
+              "name": "Sammy Davis Jr."
+            }
+          ],
+          "duration": 91,
+          "id": "2f6b015a-38fe-4b9c-b2eb-204f55a63cd1",
+          "releasegroups": [
+            {
+              "id": "6fac76ed-b861-3519-9df3-04355946ec58",
+              "title": "At the Cocoanut Grove"
+            }
+          ],
+          "title": "The Birth of the Blues"
+        }
+      ],
+      "score": 0.997563
+    }
+  ],
+  "status": "ok"
+}

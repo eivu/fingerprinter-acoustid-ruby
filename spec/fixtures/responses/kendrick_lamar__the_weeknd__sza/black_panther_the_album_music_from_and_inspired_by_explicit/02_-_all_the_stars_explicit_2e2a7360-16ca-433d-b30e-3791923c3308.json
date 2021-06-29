@@ -1,0 +1,249 @@
+{
+  "results": [
+    {
+      "id": "fe789a31-2eab-4fe0-a9fe-fe8052c7c776",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "381086ea-f511-4aba-bdf9-71c753dc5077",
+              "joinphrase": ", ",
+              "name": "Kendrick Lamar"
+            },
+            {
+              "id": "272989c8-5535-492d-a25c-9f58803e027f",
+              "name": "SZA"
+            }
+          ],
+          "duration": 235,
+          "id": "33c6b40a-4480-4885-a97c-c1199feade7d",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "14b7180e-530a-4fe2-8766-4cbe94e60b95",
+              "title": "Drippin’ In Sauce",
+              "type": "Album"
+            }
+          ],
+          "title": "All The Stars"
+        },
+        {
+          "artists": [
+            {
+              "id": "381086ea-f511-4aba-bdf9-71c753dc5077",
+              "joinphrase": " & ",
+              "name": "Kendrick Lamar"
+            },
+            {
+              "id": "272989c8-5535-492d-a25c-9f58803e027f",
+              "name": "SZA"
+            }
+          ],
+          "duration": 232,
+          "id": "575171c0-cc4e-49a0-86b2-d1cc116eac82",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "381086ea-f511-4aba-bdf9-71c753dc5077",
+                  "name": "Kendrick Lamar"
+                }
+              ],
+              "id": "4e317e28-e6b2-46d7-81f7-306e349b3dd4",
+              "secondarytypes": [
+                "Soundtrack"
+              ],
+              "title": "Black Panther: The Album (Music From and Inspired By)",
+              "type": "Album"
+            }
+          ],
+          "title": "All the Stars"
+        },
+        {
+          "artists": [
+            {
+              "id": "381086ea-f511-4aba-bdf9-71c753dc5077",
+              "joinphrase": " & ",
+              "name": "Kendrick Lamar"
+            },
+            {
+              "id": "272989c8-5535-492d-a25c-9f58803e027f",
+              "name": "SZA"
+            }
+          ],
+          "duration": 233,
+          "id": "7e3ab8aa-5d84-4e1f-b66e-c8bd9ce0b2c7",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "18924371-d2d0-472b-8ed5-e6e55cdef819",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "2019 GRAMMY® Nominees",
+              "type": "Album"
+            },
+            {
+              "id": "a30a790a-2449-45cc-8f27-0fb1974495f9",
+              "title": "All the Stars",
+              "type": "Single"
+            }
+          ],
+          "title": "All the Stars"
+        },
+        {
+          "artists": [
+            {
+              "id": "381086ea-f511-4aba-bdf9-71c753dc5077",
+              "joinphrase": " & ",
+              "name": "Kendrick Lamar"
+            },
+            {
+              "id": "272989c8-5535-492d-a25c-9f58803e027f",
+              "name": "SZA"
+            }
+          ],
+          "duration": 232,
+          "id": "8898aa04-445d-405d-83fc-a156d5404f8f",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "bd74c067-7984-456b-b30d-62597a9b8437",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "MNM Big Hits: Best of 2018",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "1953b0f8-48da-4a9f-a6ad-e643d9dcb9b2",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "538: Hitzone: Best of 2018",
+              "type": "Album"
+            }
+          ],
+          "title": "All The Stars"
+        },
+        {
+          "artists": [
+            {
+              "id": "381086ea-f511-4aba-bdf9-71c753dc5077",
+              "joinphrase": " & ",
+              "name": "Kendrick Lamar"
+            },
+            {
+              "id": "272989c8-5535-492d-a25c-9f58803e027f",
+              "name": "SZA"
+            }
+          ],
+          "duration": 232,
+          "id": "a0a38516-c9c3-4a05-a2bf-523b6ca219ab",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "381086ea-f511-4aba-bdf9-71c753dc5077",
+                  "joinphrase": " & ",
+                  "name": "Kendrick Lamar"
+                },
+                {
+                  "id": "272989c8-5535-492d-a25c-9f58803e027f",
+                  "name": "SZA"
+                }
+              ],
+              "id": "a30a790a-2449-45cc-8f27-0fb1974495f9",
+              "title": "All the Stars",
+              "type": "Single"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "0ab515ec-698f-41c3-8c2a-1879eb256bf2",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Crowd Pleasers, Vol. II",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "381086ea-f511-4aba-bdf9-71c753dc5077",
+                  "name": "Kendrick Lamar"
+                }
+              ],
+              "id": "4e317e28-e6b2-46d7-81f7-306e349b3dd4",
+              "secondarytypes": [
+                "Soundtrack"
+              ],
+              "title": "Black Panther: The Album (Music From and Inspired By)",
+              "type": "Album"
+            }
+          ],
+          "title": "All the Stars"
+        },
+        {
+          "artists": [
+            {
+              "id": "381086ea-f511-4aba-bdf9-71c753dc5077",
+              "joinphrase": " with ",
+              "name": "Kendrick Lamar"
+            },
+            {
+              "id": "272989c8-5535-492d-a25c-9f58803e027f",
+              "name": "SZA"
+            }
+          ],
+          "duration": 233,
+          "id": "f7e95410-67ea-44ff-8277-461e0d89328e",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "15dbafa9-eed7-4692-85b1-4f252ca01d53",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Triple J: Hottest 100, Volume 26",
+              "type": "Album"
+            }
+          ],
+          "title": "All the Stars"
+        }
+      ],
+      "score": 0.964399
+    }
+  ],
+  "status": "ok"
+}

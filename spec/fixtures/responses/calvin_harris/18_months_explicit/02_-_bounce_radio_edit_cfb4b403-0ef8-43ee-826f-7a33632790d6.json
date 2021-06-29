@@ -1,0 +1,1019 @@
+{
+  "results": [
+    {
+      "id": "5c0ebdf6-b14d-4c92-a17a-23bc76df3983",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "8dd98bdc-80ec-4e93-8509-2f46bafc09a7",
+              "joinphrase": " feat. ",
+              "name": "Calvin Harris"
+            },
+            {
+              "id": "1239d1bc-cc09-43e0-bcd0-374f60346138",
+              "name": "Kelis"
+            }
+          ],
+          "duration": 225,
+          "id": "145c1cd9-00b8-4a43-9853-b51b987e15b1",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "e2b65c5b-c2a6-4f62-9c67-dbadcaa5955b",
+                  "joinphrase": " & ",
+                  "name": "Tommy Trash"
+                },
+                {
+                  "id": "f2ce41ce-7d22-4803-b608-1ee99225766d",
+                  "name": "Tom Piper"
+                }
+              ],
+              "id": "15fbf3be-5fa1-40d9-91cb-a2baf2d5998c",
+              "secondarytypes": [
+                "Compilation",
+                "DJ-mix"
+              ],
+              "title": "Ministry of Sound: The Annual 2012",
+              "type": "Album"
+            }
+          ],
+          "title": "Bounce"
+        },
+        {
+          "artists": [
+            {
+              "id": "8dd98bdc-80ec-4e93-8509-2f46bafc09a7",
+              "joinphrase": " feat. ",
+              "name": "Calvin Harris"
+            },
+            {
+              "id": "1239d1bc-cc09-43e0-bcd0-374f60346138",
+              "name": "Kelis"
+            }
+          ],
+          "id": "1926b992-7b65-4a68-8b05-badad88b39f1",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "d78b883b-7c29-44e0-b158-51fc3fd5c89f",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Pure… R&B Party",
+              "type": "Album"
+            }
+          ],
+          "title": "Bounce"
+        },
+        {
+          "artists": [
+            {
+              "id": "66c662b6-6e2f-4930-8610-912e24c63ed1",
+              "name": "AC/DC"
+            }
+          ],
+          "duration": 158,
+          "id": "2f2e8246-1fe5-4e57-8ff3-8e082daa1847",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "66c662b6-6e2f-4930-8610-912e24c63ed1",
+                  "name": "AC/DC"
+                }
+              ],
+              "id": "42a35290-3375-4a69-9a88-44bc1af55f9d",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Greatest Songs",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "66c662b6-6e2f-4930-8610-912e24c63ed1",
+                  "name": "AC/DC"
+                }
+              ],
+              "id": "ff9403ec-064e-36d7-9449-7b585e5a1efc",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "AC/DC Gold 2000",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "66c662b6-6e2f-4930-8610-912e24c63ed1",
+                  "name": "AC/DC"
+                }
+              ],
+              "id": "86c89f20-5e26-4346-8d3c-544e544f2c36",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Boom Box",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "66c662b6-6e2f-4930-8610-912e24c63ed1",
+                  "name": "AC/DC"
+                }
+              ],
+              "id": "9e83e095-95f4-317b-bc86-394036e41cb8",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Platinum Hits",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "66c662b6-6e2f-4930-8610-912e24c63ed1",
+                  "name": "AC/DC"
+                }
+              ],
+              "id": "f30734f4-333c-344c-98e9-71174cc5ebde",
+              "title": "Dirty Deeds Done Dirt Cheap",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "66c662b6-6e2f-4930-8610-912e24c63ed1",
+                  "name": "AC/DC"
+                }
+              ],
+              "id": "8cdad147-265f-455e-8f9d-f803f29a74ef",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Greatest Hell’s Hits",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "66c662b6-6e2f-4930-8610-912e24c63ed1",
+                  "name": "AC/DC"
+                }
+              ],
+              "id": "21075907-5013-4d86-b116-379a800772c4",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "3 Record Set",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "66c662b6-6e2f-4930-8610-912e24c63ed1",
+                  "name": "AC/DC"
+                }
+              ],
+              "id": "4cb17d8a-73e8-4f44-a532-66420bd9334b",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Greatest Hits - 30 Anniversary Edition",
+              "type": "Other"
+            },
+            {
+              "artists": [
+                {
+                  "id": "66c662b6-6e2f-4930-8610-912e24c63ed1",
+                  "name": "AC/DC"
+                }
+              ],
+              "id": "990b91eb-5d71-333e-afe1-7430afba8052",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "The Best",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "66c662b6-6e2f-4930-8610-912e24c63ed1",
+                  "name": "AC/DC"
+                }
+              ],
+              "id": "590931dd-8aaf-4cf8-8619-96eea0dfc9f2",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "2007 Gold Edition",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "66c662b6-6e2f-4930-8610-912e24c63ed1",
+                  "name": "AC/DC"
+                }
+              ],
+              "id": "580c0703-9b1d-44ac-9f95-92c4c830cde3",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "The Best 2000",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "66c662b6-6e2f-4930-8610-912e24c63ed1",
+                  "name": "AC/DC"
+                }
+              ],
+              "id": "e13a1634-fd73-4338-a914-4c2ca2e2b97b",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Box Set",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "66c662b6-6e2f-4930-8610-912e24c63ed1",
+                  "name": "AC/DC"
+                }
+              ],
+              "id": "9219604d-8bc7-3de1-974f-d996d3747e5a",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "The Very Best",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "66c662b6-6e2f-4930-8610-912e24c63ed1",
+                  "name": "AC/DC"
+                }
+              ],
+              "id": "01317d3b-4ac8-3526-a9c0-a17ae4a0a9ec",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Warning! High Voltage (Greatest Hits!)",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "66c662b6-6e2f-4930-8610-912e24c63ed1",
+                  "name": "AC/DC"
+                }
+              ],
+              "id": "c34d5885-b754-417b-b3fa-217a0197b9a3",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Greatest Hits",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "66c662b6-6e2f-4930-8610-912e24c63ed1",
+                  "name": "AC/DC"
+                }
+              ],
+              "id": "445520a9-5087-3a85-a293-13840c565143",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "The Best of AC/DC",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "66c662b6-6e2f-4930-8610-912e24c63ed1",
+                  "name": "AC/DC"
+                }
+              ],
+              "id": "c75445a4-a391-48b2-89a8-b6c36b07e8e6",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "There's Gonna Be Some Rockin'",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "66c662b6-6e2f-4930-8610-912e24c63ed1",
+                  "name": "AC/DC"
+                }
+              ],
+              "id": "ba99be03-e29f-4550-83dc-ab68ff6597c2",
+              "title": "The Definitive Collection, Volume I: The Best of Bon"
+            },
+            {
+              "artists": [
+                {
+                  "id": "66c662b6-6e2f-4930-8610-912e24c63ed1",
+                  "name": "AC/DC"
+                }
+              ],
+              "id": "cfb028c0-4046-49bf-9b86-7018f3322c45",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "The Complete Collection",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "66c662b6-6e2f-4930-8610-912e24c63ed1",
+                  "name": "AC/DC"
+                }
+              ],
+              "id": "53e1e3b0-8908-3fe2-a1e8-09ae25ba414b",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "2000 Collection",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "66c662b6-6e2f-4930-8610-912e24c63ed1",
+                  "name": "AC/DC"
+                }
+              ],
+              "id": "d0947cf2-5cf5-3b37-9b85-38704c6e7b06",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "AC/DC in the 20th Century",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "66c662b6-6e2f-4930-8610-912e24c63ed1",
+                  "name": "AC/DC"
+                }
+              ],
+              "id": "4beba2be-3137-4c54-87ee-eadbf793fad9",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Giganten des Rock",
+              "type": "Album"
+            },
+            {
+              "id": "0275d14a-9da2-4129-b02e-1a54a58759a2",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "The Collection",
+              "type": "Album"
+            }
+          ],
+          "title": "Big Balls"
+        },
+        {
+          "artists": [
+            {
+              "id": "8dd98bdc-80ec-4e93-8509-2f46bafc09a7",
+              "joinphrase": " feat. ",
+              "name": "Calvin Harris"
+            },
+            {
+              "id": "1239d1bc-cc09-43e0-bcd0-374f60346138",
+              "name": "Kelis"
+            }
+          ],
+          "duration": 225,
+          "id": "35f3f867-7052-45bd-94f8-583f7461690d",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "7d0af037-53b4-4631-b28c-3f627c96402e",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "#Holiday Anthems",
+              "type": "Album"
+            }
+          ],
+          "title": "Bounce"
+        },
+        {
+          "id": "3c32f474-e2a5-481f-ac05-7d8caeb5a8fe"
+        },
+        {
+          "id": "3f168250-0c2c-4820-93d8-d03d2bf19167"
+        },
+        {
+          "artists": [
+            {
+              "id": "8dd98bdc-80ec-4e93-8509-2f46bafc09a7",
+              "joinphrase": " feat. ",
+              "name": "Calvin Harris"
+            },
+            {
+              "id": "1239d1bc-cc09-43e0-bcd0-374f60346138",
+              "name": "Kelis"
+            }
+          ],
+          "duration": 224,
+          "id": "47698327-5f62-4219-95e9-c811b9f2268a",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "f19aab63-d2ea-4722-8785-2b8a641b2182",
+              "secondarytypes": [
+                "Compilation",
+                "DJ-mix"
+              ],
+              "title": "I Love Summer",
+              "type": "Album"
+            }
+          ],
+          "title": "Bounce"
+        },
+        {
+          "artists": [
+            {
+              "id": "8dd98bdc-80ec-4e93-8509-2f46bafc09a7",
+              "joinphrase": " feat. ",
+              "name": "Calvin Harris"
+            },
+            {
+              "id": "1239d1bc-cc09-43e0-bcd0-374f60346138",
+              "name": "Kelis"
+            }
+          ],
+          "duration": 222,
+          "id": "4ede2c2c-65ed-4d0d-a9bf-eb090702be72",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "4a22f40b-bdc6-48f9-a6f0-0510a2b307c9",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Waar is dat feestje ? Hier is dat feestje !",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "ccb09b78-b33f-4d4f-bb8c-2116c5414859",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Epic, Volume II: The Biggest Tracks. The Festival Anthems.",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "cccc3140-7fc1-47fa-aefa-e606e31092c3",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Now That’s What I Call a Party",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "8dd98bdc-80ec-4e93-8509-2f46bafc09a7",
+                  "joinphrase": " feat. ",
+                  "name": "Calvin Harris"
+                },
+                {
+                  "id": "1239d1bc-cc09-43e0-bcd0-374f60346138",
+                  "name": "Kelis"
+                }
+              ],
+              "id": "82fb3e2b-0e24-4a0b-8c71-fd36bd3a80e9",
+              "title": "Bounce",
+              "type": "Single"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "95df841b-52e6-4852-98cc-2efefe3c8efb",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "De Maxx Long Player 21: The Originals Edition",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "a98c4b7d-c627-47e6-9bd7-fe9f61dbdd0b",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Monster Floorfillers 2011",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "67b65492-828d-4414-9a75-ccf94cb6b6ed",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "More Music 2011",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "b3ae7c0f-84e6-4415-b7cc-25c5160c1688",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Pop Party 9",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "f19aab63-d2ea-4722-8785-2b8a641b2182",
+              "secondarytypes": [
+                "Compilation",
+                "DJ-mix"
+              ],
+              "title": "I Love Summer",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "174f7492-28c8-4376-8333-3a676f5ac89d",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Now Dance Summer, Part 3 - 2011",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "1de62cb5-d6b4-494e-86f9-00ff35ff386e",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "MNM Party 2014.2",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "00a83dd6-d44d-43ce-91ee-72b3729c59de",
+              "secondarytypes": [
+                "Compilation",
+                "DJ-mix"
+              ],
+              "title": "Running Trax: Summer 2012",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "8ecda770-4197-4a99-9cbc-a32044fc3562",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Bravo Black Hits, Vol. 25",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "ed3a5153-4a9d-469b-8f9c-78ac288fbfa7",
+              "secondarytypes": [
+                "Compilation",
+                "DJ-mix"
+              ],
+              "title": "Pacha Ibiza Dance Anthems",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "aef7588f-f2cc-42b5-875e-d99ca48184c1",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Essential R&B 2012",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "794aee17-0764-4b4d-814b-8ccb97dca62d",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Hit Connection 2011.3",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "136363f7-5bb2-4b11-ae7e-4ed5d31bff27",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "101 More Housework Songs",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "96a9391d-237e-4fda-8e14-691f1c4926de",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Now That’s What I Call Music! 79",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "8dd98bdc-80ec-4e93-8509-2f46bafc09a7",
+                  "name": "Calvin Harris"
+                }
+              ],
+              "id": "98432828-5764-4892-9e3f-9c674cf70acb",
+              "title": "18 Months",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "1c2ea846-5499-48f7-bb91-2fb4517eb892",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "MNM Big Hits 2011.3",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "bd1a7445-42b6-4a04-930e-f8ad8458e60a",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Pure... Dancefloor",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "db817f65-73b1-4a84-a13e-48c940577a40",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Radio 538: Hitzone 59",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "8dd98bdc-80ec-4e93-8509-2f46bafc09a7",
+                  "joinphrase": " feat. ",
+                  "name": "Calvin Harris"
+                },
+                {
+                  "id": "1239d1bc-cc09-43e0-bcd0-374f60346138",
+                  "name": "Kelis"
+                }
+              ],
+              "id": "c93932aa-a6c7-4e2b-ab0d-701f3c264431",
+              "secondarytypes": [
+                "Remix"
+              ],
+              "title": "Bounce",
+              "type": "Single"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "6d25b2a9-2ef9-43b4-93b2-325c711d01f1",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Nrj Dance 2011, Volume 2",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "b15f0a35-b6cb-4bc6-8522-184e84041f19",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Essential R&B: The Clubmix",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "a7356fbc-475a-4595-805d-62ca2b48319e",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Now That’s What I Call Music! 59",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "2597d265-ec40-4193-8684-ae9eca11d839",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Dance Hits 2011, Volume 2",
+              "type": "Album"
+            }
+          ],
+          "title": "Bounce"
+        },
+        {
+          "id": "5d4d88fd-803e-476d-a900-76165ef6d889"
+        },
+        {
+          "artists": [
+            {
+              "id": "8dd98bdc-80ec-4e93-8509-2f46bafc09a7",
+              "name": "Calvin Harris"
+            }
+          ],
+          "duration": 222,
+          "id": "69f6f250-e26f-4ce5-95a1-12129671ed7a",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "8dd98bdc-80ec-4e93-8509-2f46bafc09a7",
+                  "joinphrase": " feat. ",
+                  "name": "Calvin Harris"
+                },
+                {
+                  "id": "1239d1bc-cc09-43e0-bcd0-374f60346138",
+                  "name": "Kelis"
+                }
+              ],
+              "id": "c93932aa-a6c7-4e2b-ab0d-701f3c264431",
+              "secondarytypes": [
+                "Remix"
+              ],
+              "title": "Bounce",
+              "type": "Single"
+            }
+          ],
+          "title": "Bounce (radio edit instrumental)"
+        },
+        {
+          "id": "6c548e0b-a187-483e-8a19-4b7421e75738"
+        },
+        {
+          "id": "6efe4157-a495-4791-b4cf-99947de5f265"
+        },
+        {
+          "artists": [
+            {
+              "id": "0b108024-ccb5-468f-b2e9-77ed4f5615c6",
+              "name": "Olly Murs"
+            }
+          ],
+          "duration": 225,
+          "id": "726893be-c0de-444c-b65a-af72ce9b8a4e",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "ec1bfff8-cdf5-4e19-965b-8cccda6eb28e",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "RTL Sommerhits 2013",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "8c39c784-8a6b-4517-8f12-790d961722c2",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "The Dome, Volume 66",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "cd1a3566-e679-4eb3-93b5-a153dfc14d84",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Simon Mayo’s Drivetime",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "863e9973-7dbd-4524-b72d-cf80cf7b45ee",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Radio 538: Hitzone 65",
+              "type": "Album"
+            }
+          ],
+          "title": "Army of Two (radio edit)"
+        },
+        {
+          "artists": [
+            {
+              "id": "8dd98bdc-80ec-4e93-8509-2f46bafc09a7",
+              "joinphrase": " feat. ",
+              "name": "Calvin Harris"
+            },
+            {
+              "id": "1239d1bc-cc09-43e0-bcd0-374f60346138",
+              "name": "Kelis"
+            }
+          ],
+          "duration": 219,
+          "id": "78647cb6-d427-4465-be3c-2b00767faa04",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "06af3853-61cb-4b8a-9d6b-c81231d8a3b9",
+              "secondarytypes": [
+                "Compilation",
+                "DJ-mix"
+              ],
+              "title": "One R&B",
+              "type": "Album"
+            }
+          ],
+          "title": "Bounce"
+        }
+      ],
+      "score": 0.973826
+    }
+  ],
+  "status": "ok"
+}

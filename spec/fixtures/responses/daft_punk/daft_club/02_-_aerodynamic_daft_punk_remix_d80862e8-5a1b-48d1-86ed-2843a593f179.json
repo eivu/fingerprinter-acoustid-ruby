@@ -1,0 +1,71 @@
+{
+  "results": [
+    {
+      "id": "857cb7b8-ffa8-4aa0-b822-c941dd30b368",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "056e4f3e-d505-4dad-8ec1-d04f521cbb56",
+              "name": "Daft Punk"
+            }
+          ],
+          "duration": 370,
+          "id": "08e81a60-6788-4682-be49-52b8e2a55e1b",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "056e4f3e-d505-4dad-8ec1-d04f521cbb56",
+                  "name": "Daft Punk"
+                }
+              ],
+              "id": "93341465-cd7e-4558-aeeb-05676210acb8",
+              "title": "Daft Club Net Songs",
+              "type": "Other"
+            },
+            {
+              "id": "1fd2e0fe-90f6-35ca-92c0-d816ab3bb79c",
+              "secondarytypes": [
+                "Remix"
+              ],
+              "title": "Daft Club",
+              "type": "Album"
+            }
+          ],
+          "title": "Aerodynamic (Daft Punk remix)"
+        },
+        {
+          "artists": [
+            {
+              "id": "056e4f3e-d505-4dad-8ec1-d04f521cbb56",
+              "name": "Daft Punk"
+            }
+          ],
+          "duration": 290,
+          "id": "65f491fb-1816-4d97-97db-a39272f40c62",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "6c5a8df9-65fd-37c4-84a9-49b8777a007a",
+              "secondarytypes": [
+                "Compilation",
+                "DJ-mix"
+              ],
+              "title": "House Classics: Classic Uplifting House",
+              "type": "Album"
+            }
+          ],
+          "title": "One More Time"
+        }
+      ],
+      "score": 0.981636
+    }
+  ],
+  "status": "ok"
+}

@@ -1,0 +1,49 @@
+---
+http_interactions:
+- request:
+    method: get
+    uri: https://api.acoustid.org/v2/lookup?client=<ACOUSTID_CLIENT_ID>&duration=257&fingerprint=AQADtIriJEkbwU8ShB40KgizEPzx7NhiZniSHzEPnUluhBqH3ahIgT-uILQTaHk2Ys9LpC8X3ME_fLnhE_myHPoRPeAlC9Ej9MoDscoOL0mI8gkR_wnCPWjiG_qR58KTT_BYC8-Pwyd25thiJfhf_EO5kESyfOlw5F9wM1oQbpuOikmSCVquo_yHPJ-EOw_yQ5kWDz_yR0XDhcWPT8yRJ12gG67YGHl0-Enx8fCP9EdMETmc-MVf6HGyISi1D_1IvIeP_2hGE3kOTdrcIEzoxLginEQT6bCkoqI4BX_RswgvSM9yNCdC6ciPvyqYHFdGXKEKvcelwn_QcsR1PEvy4EcvwxeY18HDE7nSNPiFnmDyD_nhmA9eTPOh8kc_5Dtynih29MlU6Ep0xA-YaGqOhzOaLTXOOdLh4wtyGjqT4-JDZPrRw6FTFg-1JWjzCm8O6hn4EEiuh8gPRoqaLvCOY2eO6cvwHKioS0gVC87pItdhHD8eHJ_A_zj8Bj5-fD2eEMlpIXaw4jw8FlePJz-uE0d_HEdz7agfF3mToISc8EX4Decuog-aSsOZi_jRvIKnKM9Rv8gJ5Qh_UPmDacrxLEeFpyQu_OJRRkmPXwhzHn3CCmc8-MZ1qKkeo1KX4TKuI9eO4j2eYzpJeOxB2Tj2H32GxyJeXEvxSPGyCVpC5-jZ4cfRhw_8DB-N10KTVBIO9IM_4z5-hOoOvUfu4xd6NMeVS6jHwuiPnTuoPMIzZcZ-Io8y0dAe-Df-HKnSD3MiYkuHik1CYTeDWjqs7MejEz8e5EgWJsef4z-aLR1q5fjR62DyoFS0BE0oHXmzGJUzJmhKIw5xkUQficHOBWaKZNxl5M2OimI0NE9wNKFTPBQsTjc-oQ9OCcmfIuTRxLlxkhm-4-iPxkmGK0flHXnIQ5EeSUmQX3iOmOgvfFmHdFaM7gveovOCxlm448k-sB-uoJkURkJK9SE0SjpyFb0UeMcVlAuONxUuXgXzC4-CuhEeHmEiSQqqNFew78E7I-qOLwzW5kEfhOmRPOHxKGhiDiWDe0STusJHWDlOC08QvUHSToEr-EcpHVeKUsoVNMd_vEnwaUOYfNDYJ0G-S_h0_EW7rIE5KQ5-dP9xkWjERInBUDq-5HhJJJHOFW7SwowfVL6QR_CX4CON41OOivpgKrRxbbEw_fjBxAtCUQ3ki0LsUBKm1BSu9YH7Ee0STThvoKmP8GGOS8uR8_iOmxas9EEuQksaErUSRMf8-GgqPSHKHj9ONOSCiccbfEL4XNCSV8hzlE0p40kpcNLRXcRzGl14DdaRpXGMjlmooVbAOTF-VLqCRp5RJ8cW6gifSMafIAwvaJaOXAd67biMwyPzow-NkUuN7hcRJv4gfQ_CH2no45xGPJsyNKxJHD_CNOKGysKjK_iPnkaj5kFF48mxZwifIMmPc8eX4znaC95Ri8ed49fRPEFSMcuIMIykBt-j4ET8oOTS4Qsn3MIfwWJxhsi2PBxOpP3RG_rqDUelB_mNX0GOK8s3pD_-rKiIf0LvwD9aksdRnBmo_Pi8Bu0RL0lKItkTY8rxoNrgH7_hJj0eKTiP5hnyPS8eQt-2BPpa9GjKCzKTR7gYNBn64dET6OKxTaLxB9mNKUNr5E9w59CiSEfYB09m4tQTNNcQPsWXFpr8o6lTfNmhv_iw32i-oJeMNiPhx0a-JoJ_nGjvoDfMo1_xo5cI6sfxVAoyZVIhTy2y4_CzYx9R3Cne5GgqfNlhrgh9PCb0PfiqC81R2ylOLR2eozlqO_gURsOlwH-wR4P0QVEelDfyJ_jQoonmBt_yBUWYPZqQ1HTwLD2a0Ogz4XEeYBbuS-gD8Wxwbjk-HP5wB1_BA9_4wdaOw6mm456EXxLSPtDUXAitHOMP8_Aj-OjSo-JhN-jx8jhxHUFypij-EPdxR8ePu3ATbkO-Qw-ig_mDX2mOtUeYRsuguUfePBn6poUr4j-aH8nJIDyafHiaHccvHP2RLKeRO8R0OGUtvLiJ-_iPH3zgGv3RG3ayBN0z5BT6QZmYHLkm_GjHH5XDw6dRHVUiE42bHO9x4tRxFfqMnjlsHE4efMePX3DFICe0k8gf7Ad3YbKIRpSDb8d14UcTUw_-SfCOfBtO6Jbh8AjPFM-UHXuOo42GKa9S_PiAl0NiFfGD60LPwTy-45LCH3GYB4oo58iLO_hxZ-mIZ3qCvkOeOEh-_PDjzeDIB4_Cgzv-4j3CvkgeXEefw5OKJyOaKx2uaDiFZ9ORKXQE_Ql-BVeg8niXBZFmMvC5DKGPi4X25UhDCiVz_GjyGKcGaykqHn-Qf4Sm3UGYEk-OE82zoOTxJ0PfFE1F_CEirQu0RJQyCfmVCM-DmOjJwsuyMELv4cUbhLGWoZTWBefxH52zopnUaKiWVITH4wnRRM-RK4Ue5EnQE46ZoVaO7zh66WgsJXh2xFemQKPEZoOYHqGJk8H0LDXcIzz0-AgfBY6IysGPRkseVFSG5uhzXEf4pFDWTAgppWhnNHtwZUfzPGAeWsRxCg4ZIbsa6HmCXLmMN0dIPTCXhdBIWjhx1FoyDVqcDNl14aFynGiU55hEScdz4cyOW0MfD8k2Is_RKQqc4-JxaSlKYugjommFRLuRT1mUCKUtfHpQOyOe4zr6Igzj4KExSjvy4_6Gng_CJDdqBcniGVcwc7HwKoZ_fCd-oSfhvXjxc0Fy6uAcaUg__JUFYQxDSAAMABQGAQIAUBIwQAjQjhgDjADCCEKQI4QBgqVhAhjgBBkGKGCIEAYQpZAVjhEhkGTKAEYIUAg5JYBSzCNFiHOQU0AcYdgBCRBBRBCuAFGAAOgAIUg4IAjwAlihCGPAEIKIMIQAgJwxgAAELACEEkKMFBIYRhQRACoWMHCcGOGBcxYBRYxBSBGCmGMIKUAEIAwAQIgUQACnjDBCCEQYIgQQRwABjBIDJGQCAQqkYAgRQiQmgCmkCABCAk4FEMIIgoQwUlrCDECEACKIEQRQQJAAwDAoIbXMAAAIYEw4IwASjgACRBNSEAEgYs5xYRAlgAAlkBPCMCQI0RAIJoQACgFhnHJACOAYUVAwh5AgTAiCDMEIICAEMAA4ZIgSQiBlhABAMCCUUJIIgxwAAhADgAOCIMMAMRAAghggAggiiBIGACaEMEAxIQhgBCmgqAMACCCAAEQRhohmAAgjCBJGKUEIQkoBAgARQBkiEDMEMQKMEgwgTIBgXAgjnDBMIWGkQ0AghBgGRADBBAAAKCKUIMgaYxgURjhAGFDAEGWMMAAZARgUhikGgBKEQsKIORoAAxCwhkBFiCFIGIIBMcAZJAhDQghCFBCGcAAQNwOBJoCQASADCLBAAES0I4IcgZQCTABnABPQCgIEEAQIAxCAQEgEAEjSGAMMUQIBR4RTDEgupAOGEiAEAIpA6oBRQgBCiXEKESGYA04IZIgChABkABNAEEaUBAhYZBSzAgDAACFUAGCAAJwpIART0hgjCEICKIKAcAogo5wA1hBBmDHOACCAUIYBpRQAQAEkhBHJECKIYIA4YQQgCgwChCBMMCAIocyIAZhBAgEEABAECQOAIhwCQYAjACBEBEBIeQQMMEAJJpjAyjIEgAAEGcAQYUoQIAgBhAg&meta=recordings%20releasegroups%20compress
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      Accept:
+      - "*/*"
+      User-Agent:
+      - rest-client/2.1.0 (darwin20.3.0 x86_64) ruby/2.7.1p83
+      Accept-Encoding:
+      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+      Host:
+      - api.acoustid.org
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Date:
+      - Tue, 29 Jun 2021 21:17:03 GMT
+      Content-Type:
+      - application/json; charset=UTF-8
+      Transfer-Encoding:
+      - chunked
+      Connection:
+      - keep-alive
+      Vary:
+      - Accept-Encoding
+      Access-Control-Allow-Origin:
+      - "*"
+      X-Envoy-Upstream-Service-Time:
+      - '917'
+      Strict-Transport-Security:
+      - max-age=15724800; includeSubDomains
+    body:
+      encoding: ASCII-8BIT
+      string: '{"results": [{"id": "4df8ada6-8082-4fd1-a41e-cb3d42f05c97", "recordings":
+        [{"id": "6e759188-3587-41b5-9c1f-21d17700759c"}, {"artists": [{"id": "859d0860-d480-4efd-970c-c05d5f1776b8",
+        "name": "Beyonc\u00e9"}], "duration": 257, "id": "c036f796-95e4-474f-998e-8bd7955636bf",
+        "releasegroups": [{"id": "8596171e-23b2-4bdd-8f1c-11960df0ecbe", "title":
+        "BEYONC\u00c9", "type": "Album"}], "title": "Pretty Hurts"}], "score": 0.967827}],
+        "status": "ok"}'
+    http_version:
+  recorded_at: Tue, 29 Jun 2021 21:17:03 GMT
+recorded_with: VCR 3.0.3

@@ -1,0 +1,66 @@
+{
+  "results": [
+    {
+      "id": "a6d27e32-dbf1-497c-a85a-60917f52c547",
+      "recordings": [
+        {
+          "id": "d6908dbb-3a5e-4a62-8526-ede1062d5ec8"
+        },
+        {
+          "artists": [
+            {
+              "id": "42c14c80-bd17-47e4-9bb2-a35897638c4d",
+              "name": "Orb"
+            }
+          ],
+          "duration": 1129,
+          "id": "f36acf28-6801-4904-909d-c66183ae9ac4",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "a3e61767-9840-45c2-9b2d-e5fbaa472d77",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Grand Theft Auto: Episodes From Liberty City: Self-Actualization FM",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "42c14c80-bd17-47e4-9bb2-a35897638c4d",
+                  "name": "The Orb"
+                }
+              ],
+              "id": "27b682b2-dd29-3e15-8ef2-f6475f4d262f",
+              "title": "The Orb’s Adventures Beyond the Ultraworld",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "2809f029-b482-448a-ba46-129fb3ae5ee1",
+              "secondarytypes": [
+                "Soundtrack"
+              ],
+              "title": "Grand Theft Auto IV Radio",
+              "type": "Album"
+            }
+          ],
+          "title": "A Huge Ever Growing Pulsating Brain That Rules From the Centre of the Ultraworld (live mix mk 10)"
+        }
+      ],
+      "score": 0.947
+    }
+  ],
+  "status": "ok"
+}

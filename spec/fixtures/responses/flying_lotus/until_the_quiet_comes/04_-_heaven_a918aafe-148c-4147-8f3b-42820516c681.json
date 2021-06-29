@@ -1,0 +1,29 @@
+{
+  "results": [
+    {
+      "id": "cc25ec9e-e864-4974-a434-07e18d864496",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "fc7376fe-1a6f-4414-b4a7-83f50ed59c92",
+              "name": "Flying Lotus"
+            }
+          ],
+          "duration": 142,
+          "id": "5afce9a8-bd9d-40ce-bc15-77eb84b67fb0",
+          "releasegroups": [
+            {
+              "id": "eb9e0983-2478-4494-a8e2-e4117c2ba40f",
+              "title": "Until the Quiet Comes",
+              "type": "Album"
+            }
+          ],
+          "title": "Heave(n)"
+        }
+      ],
+      "score": 0.97635
+    }
+  ],
+  "status": "ok"
+}

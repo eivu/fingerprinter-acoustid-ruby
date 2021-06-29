@@ -1,0 +1,52 @@
+---
+http_interactions:
+- request:
+    method: get
+    uri: https://api.acoustid.org/v2/lookup?client=<ACOUSTID_CLIENT_ID>&duration=288&fingerprint=AQADtFwSR1EULZg6ZguadaHAk_jRuLvQM8f34ssT_ArRE82zHPmD04J-ZGGqHI4kOM6MX8EPrzH6CveFPC-0ZcmFNM9xZhxyHOWx76guqFk4eJKGIv_xB98yIc9EqDGPaDlYSskwJ3sQO9eRUBfu4JIafB36Hj4RKhGtISmTJ-hTwc9xCs-iBc2SI6KUC2oeZFeyoXmiB7We4skOTomC5kefKSgTCo0zH0_8o9KlIPUTaHkW5Bd2THEQO0GyJC_RKw-aDzOPZ5kp9GHQiDu-Mob2wdfhHa2i5_ika3ikPEKVKUOYiNBD5Gkm3BTSC7qO_HiOJv0wjc9x0RK-DIlyHWGeBR-aTjnaSXmMs1FwB3T5gXnyI1m2dEf2o9aTFM-MfjnqYMpxnFJ0PFMUEmOjEVMzhFlnJMEZ9DyaR5GI-3iig6L04xJ-fIiUHcme4xr-oLlRmXmIfzjRbEOyF_n0AKMZDwsXjUa18GiYqopwPtCT_DieKEbzjEJxxTPx5FKQJyWS7D1-8Mke1NTRjPmCbzElTLQiJETo4LKRB02cD91DqJaQS7iOR9FRH-k7oXLwEz-apkGuDD7uhlj9IMx_6ErD4TbCPB-qRMejZTpODGEOnVmP3An25DL8o09S8MQjnCeuR0FOCoqO58gz7PguNEn6BHyaIhexH9oRKfOc4DuexIST6NHRI1PuLUh24ZgeNMed4CnyQ2-aIvrxFwcVJUmOJySlDK8RvQ9KuOLRf_hywUl3qCTexDiPP7iGM3tgyFki4XzhMzgu5FXhREnD4BLxf4e_4jz-Do9GooefTbmQjMjzBc9yjLQD5g-aG9GzD8lcNN5xxcMf47rQ-EI1fNXxqchzJCj-48e-HP_Akcf2oz_OBo2GN3o0VEe46kLC3ENpPJw5PCzOo7lEdNuJL0L5BGaP3IF4pA_64zue3MLxe8hzND20JwryH_fxE8-DL8osfD6SM6oQXjsaRfgUpir-CM2PNjqaMUO_DLkp7CGeZF2G8wYTPQxxNI-I9Sk0-dh3gSF1RM5yVMFTEacjCoeP8DlOJSkFVQn1GDJzxFQO9DqaZUlC_Md3PEPlo1HTLbguJO-OnDueCz_CVKShKWlk4fuLc4mhn2jyDOGyBuc-NNGDnseXjEQYNklRZcuhilBEKTNSuwFDvcLVKvCYB3ua4xkOP8SjGI-IJOaHeMvx6ESPxjYuXcaPcwefC7_xI5Qk6VAUJRI35Bcq5zGa48ET8QipQcsVHHmLM1vwO6gUhYGT6EWfHsfTGNPhJjmoSS9C5hryBxfOYVJ2nNlw0sixHWJ_lJuIhjtKfREuP_gQKZlSuPrxKmjHyGgm5Tl6F8cT_fB4POlwxgmSelkkIWoTA9yJ6TmeS7iWwMkv9JOH5_iN9_gUTkITP0XJJcSVXXjy4PrgPcXt4NXRDU2c48QV5FnyIrm0R3gSpUNT8ah9zFGYC2Mi5UGTHyEZCckz4XiO5zr8J8J__EfyBVd0pFyuoE8xJa2QB-QRdj-cJkcb_9j7wFXo4W9IfEGto_nxKOmC68HeI2l6ItuHY2oPh8lR6uhzXEc_PCdOHQ-twX2RfIoyGi9cHveDP3gYaGQyIsyf4_gzBt9xTTDzFD-OmhdCJ8nxYcefFM14olI-dDuaMFNw9D38w6-POrXwRC_84snB5TPU5T3CX9gvtLk2o_mD3hqOZ_LRHP1i7NFi_A0StUKOakkCl8faHCetoFdi48PRTJmPWhKuHXkUKhB_5Ec-MSvOzAnUMg1CU_nQrPiF08HHRDLQHx_zIl0P7UfE_DhuXUFIBhsXQqN05PgShN21QUuaHDl-vOHRTR3SjofIX8iXnJisxjgY74eW44maYiafonIuofHW4FlwwcedRsMtHEmOmEIvuI_wHBcV0NzhPaowHu9x5riKB7_QfNoSPDnytFCVOGiS9Eh24zM-4UmPz8GXtbiPJkfH5IgltcKfBEeu4_7gHU8iZTjRH8niS0F8Ff9wY8pJ9CHOD8wDTzqiSw_0Hc2jIHH5BL8MNw_ebDjqHs1zvE2IH6MYIUfyoaQONyOjoNbRHVQe5UF_TEqyw3nwhYG_4fCVSkE_KniOPHiUI9RfNMc3PHhCnBeeXaj-IkwyJdBJB7lTIYxzaM2WImd2lEe1iEeVKFrQ_MET6MOJH1u4OeHwowmdHVV1ZMw3qD-0UOGWFZGssDjRPwmaqoyM7_gP53hp3FFi5BKSWPpwJTiqP3hapOShUXrxFM_BHlo4uuijHGOW4xT6QjzREvqRexsalTmeBNdhRg_OHP7QmRVx-LnxC8ltPNIVNDnaFcijB0-Oyzm25F6If07wgerxDD8e5kOyOJ5IhNcxOkTOnIfmigjzOPiWfMFPw02DcwueKDlKCc2PN1VwYcdR_YN35BJc6YF2lN2RHc4v7DzcnKhZPMrRjLIU9JyEL8eZBs8MPxx-4kqq4Dzx40-FR7iO1A3UeKnwP8GXH8lKwnvQ4wlxCWvCHH4uJN6R67jA3mCekMcl6SAnG06T4yL-4Ie_aEN_qbjT4OlU_Jgyo89x2njKhAmSSkOOR-ixkVeESrfwsAkumQHDHFP24zuu6GjC2Am6HEmPfDiVGLWFMNSgUUP45Xhz_MFzlETI5AjFBE3SDDfuRDiPJ_lxHT2aE89wBslChEqVujiT5EH9FN8Dr0NTB7uuILcNKRIs8Q-SX5j0CH-qoPl19E2N6_gveBSe4UmVII7zQLmJ-CDmHJWkfLCWo7KOx8OVDufxi7g0otuLJnqqYJdCCol05D4uJnDEB1fIIKEexL7xSJGCevnRpHhGsNpDrL2C7mh6AIIUEYAQQwhSQCmDHDGKMCUMAMwQZozziAkhgUPIEEIAQQAxJgARiBCmgDNAIICAUQQAoRAQgg2AJCHMMAKUFoIABYBE4AhnoDEIAMMMUAIgKYAgADjDCGKUCOAFQEABDAyRxBpFFJAIOEQQEYIgIwRoAAClAGFSAAIM8oQwgohgQCDgDQAKCAMQABwBJgExgABkCABGCYOdcBQwA4wSyCgEhEDSaUyI4UYoxxACDAIBEAJEMYCcBgQIwbggAABAmEAAEQCEAowIiIhBDBBGiBFMAGCxEEQJAwVCDBBACGFMWESFEiQx4IgABAFkgBBAQYOcYgAKIBxwBChLFEIAECgIMgAxBEAWgACGBCTEOKcNkAIJ4AAzABDCDDVECEicQ0Qw4gSjAAhhkBAWIGGkQU4ZhShIQkDBkJDCgKoIYlIwAgBhCAAkABMGUAOAJsJIxpQwhAEgBCPIAScMUoYxIBCAyHRhgFCGACIEQAwpIQBxABECBFNAMWOAEcAAA4gghkGAjMGEGSaIBBYpYJkC1CBhAAIGgGCEA4o4C4VIzginpDCCAECYYMgBAIxQQBiAiAFCIGWFIYY5YIkCmEBAjDHMKGOAEhIICYhCxEBFiRAEMCE8IVYIQAhGVCGrEARESIEAQgwKwKQR0kECCUJAQuPcAAA5oIxxUjAqAAKaAkKIEEAigghQTCFAjBFAKGEkEQwYRgwAQEBnCTEMEACMFMAhQBlCCgkrlAGSEUIEMkII4I1BRAADEBVQEIIYQMgQhYUhBIhAkDLCeGIUIYAAYJ0igggjABAICCYYEUgoZ6AgDhgLPAIGICaEIQAIAxwiyhHhoAIGEAOcVYARYBAVAxhCJGGGCiEMQgYJygBRAgiAIGEMISAVMQQwQAEjElwmEAFEYcoYAMooohQBxkADhBAASYMEk8RoqBCREBHFgBCECGAMoooJQIihAA&meta=recordings%20releasegroups%20compress
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      Accept:
+      - "*/*"
+      User-Agent:
+      - rest-client/2.1.0 (darwin20.3.0 x86_64) ruby/2.7.1p83
+      Accept-Encoding:
+      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+      Host:
+      - api.acoustid.org
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Date:
+      - Tue, 29 Jun 2021 21:21:14 GMT
+      Content-Type:
+      - application/json; charset=UTF-8
+      Transfer-Encoding:
+      - chunked
+      Connection:
+      - keep-alive
+      Vary:
+      - Accept-Encoding
+      Access-Control-Allow-Origin:
+      - "*"
+      X-Envoy-Upstream-Service-Time:
+      - '69'
+      Strict-Transport-Security:
+      - max-age=15724800; includeSubDomains
+    body:
+      encoding: ASCII-8BIT
+      string: '{"results": [{"id": "d2c84873-c6a6-45cc-a66b-8a71e6a6ed6e", "recordings":
+        [{"artists": [{"id": "596ffa74-3d08-44ef-b113-765d43d12738", "name": "Justin
+        Timberlake"}], "duration": 287, "id": "93794c0f-6178-4ad0-978e-e763ef3d5a04",
+        "releasegroups": [{"artists": [{"id": "596ffa74-3d08-44ef-b113-765d43d12738",
+        "name": "Justin Timberlake"}], "id": "deae6fc2-a675-4f35-9565-d2aaea4872c7",
+        "title": "The 20/20 Experience", "type": "Album"}, {"id": "fe51b20f-83e4-49dd-9a36-b8d4da138325",
+        "secondarytypes": ["Compilation"], "title": "The Complete 20/20 Experience",
+        "type": "Album"}], "title": "That Girl"}], "score": 0.998088}], "status":
+        "ok"}'
+    http_version:
+  recorded_at: Tue, 29 Jun 2021 21:21:14 GMT
+recorded_with: VCR 3.0.3

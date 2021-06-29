@@ -1,0 +1,119 @@
+{
+  "results": [
+    {
+      "id": "716124c3-35f8-4391-a70b-304d5f011022",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "859d0860-d480-4efd-970c-c05d5f1776b8",
+              "joinphrase": " feat. ",
+              "name": "Beyoncé"
+            },
+            {
+              "id": "f82bcf78-5b69-4622-a5ef-73800768d9ac",
+              "name": "JAY Z"
+            }
+          ],
+          "duration": 323,
+          "id": "82418990-d1c2-4556-a826-9bccf5e9cd03",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "859d0860-d480-4efd-970c-c05d5f1776b8",
+                  "name": "Beyoncé"
+                }
+              ],
+              "id": "3e1387d0-c3c0-4b02-8abe-b6bb40b409b6",
+              "title": "XO/Drunk in Love",
+              "type": "Single"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "7dbcff0f-f7c2-4f0a-809a-f81a15d0b58a",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "2015 GRAMMY Nominees",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "859d0860-d480-4efd-970c-c05d5f1776b8",
+                  "name": "Beyoncé"
+                }
+              ],
+              "id": "8596171e-23b2-4bdd-8f1c-11960df0ecbe",
+              "title": "BEYONCÉ",
+              "type": "Album"
+            }
+          ],
+          "title": "Drunk in Love"
+        },
+        {
+          "artists": [
+            {
+              "id": "859d0860-d480-4efd-970c-c05d5f1776b8",
+              "joinphrase": " feat. ",
+              "name": "Beyoncé"
+            },
+            {
+              "id": "f82bcf78-5b69-4622-a5ef-73800768d9ac",
+              "name": "JAY Z"
+            }
+          ],
+          "duration": 323,
+          "id": "ede2dc46-3ce4-4604-b1c2-eb63d6adc2a3",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "859d0860-d480-4efd-970c-c05d5f1776b8",
+                  "name": "Beyoncé"
+                }
+              ],
+              "id": "3e1387d0-c3c0-4b02-8abe-b6bb40b409b6",
+              "title": "XO/Drunk in Love",
+              "type": "Single"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "7dbcff0f-f7c2-4f0a-809a-f81a15d0b58a",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "2015 GRAMMY Nominees",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "859d0860-d480-4efd-970c-c05d5f1776b8",
+                  "name": "Beyoncé"
+                }
+              ],
+              "id": "8596171e-23b2-4bdd-8f1c-11960df0ecbe",
+              "title": "BEYONCÉ",
+              "type": "Album"
+            }
+          ],
+          "title": "Drunk in Love"
+        }
+      ],
+      "score": 0.970763
+    }
+  ],
+  "status": "ok"
+}

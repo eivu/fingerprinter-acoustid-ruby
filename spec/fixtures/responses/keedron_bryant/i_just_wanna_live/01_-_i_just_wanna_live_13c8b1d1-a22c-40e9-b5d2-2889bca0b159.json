@@ -1,0 +1,29 @@
+{
+  "results": [
+    {
+      "id": "5325abc1-d3e6-4444-b6bb-cf430555694b",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "0e7f5ec2-ca3e-4d20-9337-1d10e25c44f4",
+              "name": "Keedron Bryant"
+            }
+          ],
+          "duration": 188,
+          "id": "1f14e5cc-d135-4d94-ae14-238acbe34c2c",
+          "releasegroups": [
+            {
+              "id": "983ed539-7633-44ab-9d4c-af0b75cbd866",
+              "title": "I Just Wanna Live",
+              "type": "Single"
+            }
+          ],
+          "title": "I Just Wanna Live"
+        }
+      ],
+      "score": 0.996967
+    }
+  ],
+  "status": "ok"
+}

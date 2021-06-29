@@ -1,0 +1,29 @@
+{
+  "results": [
+    {
+      "id": "27a476bc-6e9b-426d-95f2-461da59e73ec",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "fc7376fe-1a6f-4414-b4a7-83f50ed59c92",
+              "name": "Flying Lotus"
+            }
+          ],
+          "duration": 280,
+          "id": "c12839be-ea3f-4d33-8af4-768b2f14f013",
+          "releasegroups": [
+            {
+              "id": "eb9e0983-2478-4494-a8e2-e4117c2ba40f",
+              "title": "Until the Quiet Comes",
+              "type": "Album"
+            }
+          ],
+          "title": "me Yesterday//Corded"
+        }
+      ],
+      "score": 0.937104
+    }
+  ],
+  "status": "ok"
+}

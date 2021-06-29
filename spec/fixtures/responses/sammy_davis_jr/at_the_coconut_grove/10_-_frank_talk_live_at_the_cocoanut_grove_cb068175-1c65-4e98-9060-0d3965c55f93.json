@@ -1,0 +1,28 @@
+{
+  "results": [
+    {
+      "id": "07725ccf-a3dd-48c9-a349-b27493b141e6",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "4bc9e8c3-7eae-454f-a56c-bccf96f3926b",
+              "name": "Sammy Davis Jr."
+            }
+          ],
+          "duration": 71,
+          "id": "9834d174-b98a-4a53-95fc-4ceb049fb112",
+          "releasegroups": [
+            {
+              "id": "6fac76ed-b861-3519-9df3-04355946ec58",
+              "title": "At the Cocoanut Grove"
+            }
+          ],
+          "title": "Frank Talk"
+        }
+      ],
+      "score": 0.99481
+    }
+  ],
+  "status": "ok"
+}

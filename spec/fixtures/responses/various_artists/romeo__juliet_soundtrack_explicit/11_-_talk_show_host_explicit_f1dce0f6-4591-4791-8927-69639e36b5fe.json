@@ -1,0 +1,418 @@
+{
+  "results": [
+    {
+      "id": "37f9bb08-7ffe-4e74-bfcb-51ee8d4cfa25",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "a74b1b7f-71a5-4011-9441-d0b5e4122711",
+              "name": "Radiohead"
+            }
+          ],
+          "duration": 251,
+          "id": "0092d01a-1461-4841-9191-36b484ef4783",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "c31400a5-9982-38cd-a840-e06758fbe42f",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Screenadelica: Hot Sounds From Cool Movies",
+              "type": "Album"
+            }
+          ],
+          "title": "Talk Show Host"
+        },
+        {
+          "artists": [
+            {
+              "id": "a74b1b7f-71a5-4011-9441-d0b5e4122711",
+              "name": "Radiohead"
+            }
+          ],
+          "duration": 254,
+          "id": "0a51bb42-6a12-4cb8-8d64-a10b8e7a9df2",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "a74b1b7f-71a5-4011-9441-d0b5e4122711",
+                  "name": "Radiohead"
+                }
+              ],
+              "id": "6c70ab0d-2559-31d6-b4c5-15cf513aa076",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Oxford Devils",
+              "type": "Album"
+            },
+            {
+              "id": "e449d0a3-5661-338c-a51e-a9910f725fa5",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Towering Above the Rest",
+              "type": "Album"
+            }
+          ],
+          "title": "Talk Show Host (Nellee Hooper remix)"
+        },
+        {
+          "artists": [
+            {
+              "id": "a74b1b7f-71a5-4011-9441-d0b5e4122711",
+              "name": "Radiohead"
+            }
+          ],
+          "duration": 254,
+          "id": "0be131dc-466e-4191-a4b0-d21ac1b91415",
+          "releasegroups": [
+            {
+              "id": "f720c4d7-a80d-4466-b92d-9d1de99ddba7",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "World Ballads Collection",
+              "type": "Album"
+            }
+          ],
+          "title": "Talk Show Host"
+        },
+        {
+          "artists": [
+            {
+              "id": "a74b1b7f-71a5-4011-9441-d0b5e4122711",
+              "name": "Radiohead"
+            }
+          ],
+          "duration": 256,
+          "id": "1027e4c7-c26d-4aeb-9374-15f25cd543c8",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "a74b1b7f-71a5-4011-9441-d0b5e4122711",
+                  "name": "Radiohead"
+                }
+              ],
+              "id": "77382869-e555-3c04-8ab5-acbeedcd61c0",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Raretrax 2",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "a74b1b7f-71a5-4011-9441-d0b5e4122711",
+                  "name": "Radiohead"
+                }
+              ],
+              "id": "46479293-ce6d-3a4d-8fe9-73ebb5ee5881",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "B-Sides",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "5460bcce-dd28-3dd6-a2df-ffd476ff88ef",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "See Hollywood and Vine",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "650ebbf1-e25c-3f13-ac2b-d98010c1c5ee",
+              "secondarytypes": [
+                "Soundtrack"
+              ],
+              "title": "William Shakespeare’s Romeo + Juliet: Music From the Motion Picture",
+              "type": "Album"
+            }
+          ],
+          "title": "Talk Show Host"
+        },
+        {
+          "id": "10307afa-3774-4544-bd5a-decb80cc8190"
+        },
+        {
+          "artists": [
+            {
+              "id": "a74b1b7f-71a5-4011-9441-d0b5e4122711",
+              "name": "Radiohead"
+            }
+          ],
+          "duration": 255,
+          "id": "1460310e-7a18-42b6-8ac0-a4195b035aa0",
+          "releasegroups": [
+            {
+              "id": "f4302994-a6fa-4a4a-9605-355a750468e6",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Looking Back at...",
+              "type": "Album"
+            }
+          ],
+          "title": "Talk Show Host (remix)"
+        },
+        {
+          "id": "1be786f0-c1df-4c6c-ae01-803e04a7f3bf"
+        },
+        {
+          "artists": [
+            {
+              "id": "a74b1b7f-71a5-4011-9441-d0b5e4122711",
+              "name": "Radiohead"
+            }
+          ],
+          "duration": 255,
+          "id": "212da394-7e9c-4178-af14-e2f24abaf2f8",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "a74b1b7f-71a5-4011-9441-d0b5e4122711",
+                  "name": "Radiohead"
+                }
+              ],
+              "id": "39baf9d2-f625-4bae-bec8-5505d81c80fd",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Every Last Crumb",
+              "type": "Album"
+            },
+            {
+              "id": "720f8fde-f44c-4c00-a50a-4f9fd2a5a17d",
+              "title": "Talk Show Host (Nellee Hooper mix)",
+              "type": "Single"
+            }
+          ],
+          "title": "Talk Show Host (Nellee Hooper mix)"
+        },
+        {
+          "artists": [
+            {
+              "id": "a74b1b7f-71a5-4011-9441-d0b5e4122711",
+              "name": "Radiohead"
+            }
+          ],
+          "duration": 282,
+          "id": "3c9ab94b-6c48-4123-8a5d-2538df76b35d",
+          "releasegroups": [
+            {
+              "id": "37410f3e-b7a0-40e3-8bcd-ba3aabc339ce",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "B‐Sides, Vol. 1",
+              "type": "Album"
+            }
+          ],
+          "title": "Talk Show Host"
+        },
+        {
+          "artists": [
+            {
+              "id": "a74b1b7f-71a5-4011-9441-d0b5e4122711",
+              "name": "Radiohead"
+            }
+          ],
+          "duration": 253,
+          "id": "3e6fb1db-7fb8-4f76-92fb-0555a7fecd0d",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "a74b1b7f-71a5-4011-9441-d0b5e4122711",
+                  "name": "Radiohead"
+                }
+              ],
+              "id": "dcfaca33-c71d-3f2d-b8ce-0194ff7fce43",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Fucking Rarities",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "a74b1b7f-71a5-4011-9441-d0b5e4122711",
+                  "name": "Radiohead"
+                }
+              ],
+              "id": "b8048f24-c026-3398-b23a-b5e50716cbc7",
+              "title": "The Bends",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "a74b1b7f-71a5-4011-9441-d0b5e4122711",
+                  "name": "Radiohead"
+                }
+              ],
+              "id": "60b9bffe-5959-3de1-ac79-63581b541323",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Leftover Computer",
+              "type": "Album"
+            },
+            {
+              "id": "c2ac2c8d-51c5-3abf-aafa-3f0e93795151",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Lost Treasures 1993–1997",
+              "type": "Album"
+            }
+          ],
+          "title": "Talk Show Host"
+        },
+        {
+          "artists": [
+            {
+              "id": "a74b1b7f-71a5-4011-9441-d0b5e4122711",
+              "name": "Radiohead"
+            }
+          ],
+          "duration": 257,
+          "id": "52058b05-06e1-43db-8634-d66bdd1df6b9",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "650ebbf1-e25c-3f13-ac2b-d98010c1c5ee",
+              "secondarytypes": [
+                "Soundtrack"
+              ],
+              "title": "William Shakespeare’s Romeo + Juliet: Music From the Motion Picture",
+              "type": "Album"
+            }
+          ],
+          "title": "Talk Show Host"
+        },
+        {
+          "artists": [
+            {
+              "id": "a74b1b7f-71a5-4011-9441-d0b5e4122711",
+              "name": "Radiohead"
+            }
+          ],
+          "duration": 280,
+          "id": "5f045f1c-aaf6-47ed-a129-ccf1233dc273",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "a74b1b7f-71a5-4011-9441-d0b5e4122711",
+                  "name": "Radiohead"
+                }
+              ],
+              "id": "88477b42-055d-3d1c-9e5c-7e1de8f35243",
+              "title": "Street Spirit (Fade Out)",
+              "type": "Single"
+            },
+            {
+              "artists": [
+                {
+                  "id": "a74b1b7f-71a5-4011-9441-d0b5e4122711",
+                  "name": "Radiohead"
+                }
+              ],
+              "id": "b8048f24-c026-3398-b23a-b5e50716cbc7",
+              "title": "The Bends",
+              "type": "Album"
+            },
+            {
+              "id": "80975c59-4094-30d5-bb58-365e8b061274",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "The Best Of",
+              "type": "Album"
+            }
+          ],
+          "title": "Talk Show Host"
+        },
+        {
+          "artists": [
+            {
+              "id": "a74b1b7f-71a5-4011-9441-d0b5e4122711",
+              "name": "Radiohead"
+            }
+          ],
+          "id": "d97860c6-441c-4909-8242-e411f2c65e94",
+          "releasegroups": [
+            {
+              "id": "33d7473f-98cb-42b8-ae4f-8d1d52f42639",
+              "secondarytypes": [
+                "Live"
+              ],
+              "title": "2008‐10‐08: International Forum, Tokyo, Japan",
+              "type": "Album"
+            }
+          ],
+          "title": "Talk Show Host"
+        },
+        {
+          "artists": [
+            {
+              "id": "a74b1b7f-71a5-4011-9441-d0b5e4122711",
+              "name": "Radiohead"
+            }
+          ],
+          "duration": 343,
+          "id": "ee02f13b-3fe6-43ec-818f-ebab40cb409a",
+          "releasegroups": [
+            {
+              "id": "802b7f93-111d-4264-9ca4-7c1d1c26589e",
+              "secondarytypes": [
+                "Live"
+              ],
+              "title": "1997-12-19: MTV's Live at the 10 Spot, Hammerstein Ballroom, New York City, NY, USA",
+              "type": "Album"
+            }
+          ],
+          "title": "Talk Show Host"
+        }
+      ],
+      "score": 0.993869
+    },
+    {
+      "id": "074003f3-67e1-4195-b3b6-05ba19f9e0e1",
+      "score": 0.693368
+    }
+  ],
+  "status": "ok"
+}

@@ -1,0 +1,147 @@
+---
+http_interactions:
+- request:
+    method: get
+    uri: https://api.acoustid.org/v2/lookup?client=<ACOUSTID_CLIENT_ID>&duration=170&fingerprint=AQADtMwTJeqCfjjxRMzx56gYISHTHOGq4b2MH2c644sW4g-m6Ea1HS1xIg-S63jyDc6fYImSTMadKcVzYk8PIt9zRMqS5Kj04OmBH__RTNFThO0FPch1_Meji7g0WahTotlb_BnClPiOR9CUsCt-4Dp6wamCB9cH70GtD0Xz4DVUJUmi46ssCD18Ivzx48vxoD-aEyfy6DgziQm0X1EQXzhxNE9yXMJ3PMdJ42w2HE5KOfgC9GgmLcEPHceV4x-aKyh_PMfRfCi1I_6h5tRwpehxoUf4YxfyWIVPw6-OXsKPS63x5mDwD8cF30T1HM8Q3vgF_jgP78PxGg-8H7WeEJMixkTsBT8TfGpX9LhzJag2Gs1TIU-LTiM1pA_6B73hJ0H_CM-hJc-O0KLx6EHzoKdUVM7hZEZvBcl3hDmma3gyB8czhEfSqtjF4Dmc3Sne4z8Oc-WCsjfC_ND04w1e6PCO5w3yC66SY0-jIw1Iz1D942hwHr4uQMeP40fSAz-A58d_HD-oo8c_IOaOL4PGH7luDMd7fCdh2yh5NA8_9JJTfHjwRIQYKckiPCf6GF-OnsaJPyxOH3tQTzl-5PWhJ0G85zhwcrh--MaF__iPM4cnBeOBi8cT-EHZ45kl_NEQ09GKnmgsHBAX7fjzEB-P_kiPAz_w4TiOXPjxQ8ePHD2eH-cF_3gUGfnh4yeU3se9I0xxHz_8HaCPf_hZ3MeRSNURHiN3432CX8eP80e_oHl2_Gh69OjDDimPHif0YhJc4jh--DjO4n-EkcHzpYJffN0QsjxufEO-ragViYOWi9iHR8lx-WCuCU2uQz7uAQ9z3Ef4g89o_Gh2PMdfVPnRXAmz4MqI40aZBMkyEtlz40O_GU8VMHoUXNjZ43_QPEF4JO-OK2iWZE8RPjc-QX-K-MGObn4Qiz0OvkEbgj96_HiO7xkEhifuCZme4bnxhlEo8F9wG36Gy3iSZgryI2mOm2hOojeDA320DX-C6kJOHc_xZ8WDo07BhHHQHJGe418W_LhRZwmu48iPHv_hHl-O8HiWo_tyHFewg-dw4TueHEn6IjyPHyPTEz-oPJiO_NClIGxyJTipEAlClsHxOHgo4g--AMl2I8xpYWpUUXjlghV-_PiPHMn2HPGnQJeM6MeFM7iCJsqDSFypItmP5ge_XegxpTj6HaWmHL-B_NBZfEROPDqaH31xJfiJHkd__C6SI6d7PEeNHx9yJKyEb8H3oJl25DyeHiNlDX0YSmBSU_gDPQ_C5Du65Kj0dDieBtfBZBmGm0j6Iz--4VlQWvhRHM1Qf_jRzUj2BSfyBzfxJWj-YluJNvvA7vhxpvjBnOkx5cjTIzllC5fDROjzZLgf5NCQ4xQuOnhSlF2G4kWy2QjzC_sfMI6IWT_-4j9yyKiepELyTniC6ziDO0OZfAqsPCKSHKkv9NpBfmiOHkOPstFxPB3xrUFy5PiMo_CHAyh-4bYhvEPP48PRJ4dOlGgWHn2dwphm7njB96iPSDleotBxzM0J60Hw48Jx4jj-4LBtMDZyJC6DXdlx4vbRF5YcZvjRHMmLHA15oY1VoZd62D2c55hE49xxInFfRM-Iel3g5sNpHNYVEf6KvsiRPGg-tHmA2uJhS_jRHP-R_Mhb1IpCwS4j_LgOHy1HwnwQJHeOfmgeXDcuHn2wGz1uIUdyBrssdEtyCT9xGzvqiDt8BjmR5DwePXj842KAH9VDJAsR4_iVBNbUCleS402GnkSj4z8CIbeIpsdpNMAuFj0P5BW0DxHeBl2P5g-O40UOPUc-HSeeBx--4xSD5iNCKG6OvA_cRErxK_iWMeAxo0NTC3m0HHoQHh96PI-BptRjfLAZG92M78gJ5QyDPPpQTjuoUsEHXri0ZQqeWcEPP6jE41mLxFueCJGSZg9q8njhf7h2nA_mM4U7cKaP4-xjXLjUY3qSo77xAyXTo-ERq0fVw90T9Gj0CJUznC_0LM-Qs0HTewr64hmDX4kU3MeF_8j7BMnFxEV_ODmqf9iPrHoTJAtVnAxsXQmmVBSJd3jg8khaI0-0YwbzHMZLfPiJnmCT4z-O_IKi9Ih_wkekW9CRzQfWh8bNo96FZuXxHXnRB82FL4W6B_mPOyhchRMaZZODr8NF-MePE_lS6EduNNfRN0aN5pHx48J-5IeO_MLToFET9Njx40euQ15c5MeN5vAxncd1PMkjgSwzBvkP5UdudMcjuNvRP8KP98jz4jz0U4hOHc0e9HiO3zncHXkO7UeznEJWHzcmxwgzbUh8418aHM2DWtbx4zuc_fixGn4_HFOeHD_CLPGhL_qR-7jCoB9SlQBAOBNEIEGAcIggrCRRBCMACKHGCEOAkUBZhBQgClsCDAKMCAOIcgAohYAxQiinBNEMOIAIkkQwIgkwjjmCGIIEEwfIoQYphJggQjjnFhSGGOIZIJ4AIBQEgBikxEBGGEuJQUZCca0QACihAEAKEaKMMIwYwwASBiiCkAKTCScAUw4IBRhBRADoiVFGCIWAJEoIZIBkTggpDAGAoIvEsIIIIJRxjABnADDMEYCwE4ISgRAhAAOFjWGGAeM4AAgZIwRixiFFHBBAAAMQQEKQ6IRaZCCqEAGaKsIEQQAh6hQARABBDEOCQAKRAE5ZRhRACjBDECAAAGlEYFhgJBW1CCIgAEGGUISIIIQAZgAAxBChALJKEAYoFACyRIhYACggmCBWI4KEIAYIgwZQQjlDGWIICeYAAUZAQogyDiABigRGOKKBcOwKABBTgihImCVCMWEtBUSAyAAliigqCAKCGWkgAoBxqQgwAABsiANICUYQYhIyxBgAFCjugAAGMAYRMsYIgQwTzgpCEABMWeREMYYoRQVgFAIgmKOIaIeEcgIZRomijDrBGDFEUQEAFQArAAQwAlFBETKCACAIIYY4QB2CEDIAmJHAWUYsoAaJZhURRStLkKAEEQKIGQoJJyoRBkGnhYoIKeEUIsIBhhQhRBhmhGOOMDmENFAogqAwQigFkABBISIIFUA5JJghyQgmkEDIGcGIAUAohBATBiDhHBASOAKMMcwIhBShjCDChTMEAWEMYQIQA8CySjBgIdKGCCARIIgDSgQhTDBCDEIACQESIUA5i7hExAAiAFECACAowYgYJAhhzgljAAFUGwGIsFxoh4gwLDGEBFReEAAAMk5YSphwAiEJGBcGSCSJAAIB54RDRBmqgGRUMGacIUoAJJAQQiECIhJMMMUAQw4AAYRQEggDlEGIAEIJAAQKhZEUiDkAzACQGCCEIY4B&meta=recordings%20releasegroups%20compress
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      Accept:
+      - "*/*"
+      User-Agent:
+      - rest-client/2.1.0 (darwin20.3.0 x86_64) ruby/2.7.1p83
+      Accept-Encoding:
+      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+      Host:
+      - api.acoustid.org
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Date:
+      - Tue, 29 Jun 2021 21:24:48 GMT
+      Content-Type:
+      - application/json; charset=UTF-8
+      Transfer-Encoding:
+      - chunked
+      Connection:
+      - keep-alive
+      Vary:
+      - Accept-Encoding
+      Access-Control-Allow-Origin:
+      - "*"
+      X-Envoy-Upstream-Service-Time:
+      - '113'
+      Strict-Transport-Security:
+      - max-age=15724800; includeSubDomains
+    body:
+      encoding: ASCII-8BIT
+      string: '{"results": [{"id": "73740df0-532d-49fb-bed1-2aa151af7c8b", "recordings":
+        [{"artists": [{"id": "27900926-b91e-4134-a7a9-8abd20bf020d", "name": "Roger
+        Carel"}], "duration": 175, "id": "18105a20-fb19-49c4-94ec-d64c05501e99", "releasegroups":
+        [{"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various
+        Artists"}], "id": "7a306ecb-47f9-4b87-8a07-6332b0cd0595", "secondarytypes":
+        ["Compilation"], "title": "Les 100 plus belles chansons Disney", "type": "Album"}],
+        "title": "Aie confiance (De \"Le Livre de la Jungle\")"}, {"artists": [{"id":
+        "ace542c8-d312-4054-84a2-e3dba12a78b9", "name": "Sterling Holloway"}], "duration":
+        170, "id": "182e13e3-e46b-410a-9134-85547e30225a", "releasegroups": [{"artists":
+        [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}],
+        "id": "d90ed9f2-9947-4120-ac3e-408f50f191ec", "secondarytypes": ["Compilation"],
+        "title": "Walt Disney\u2019s Original Soundtrack Collection, Vol. 1", "type":
+        "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name":
+        "Various Artists"}], "id": "2a1a6af0-807c-49e3-9dba-ffccecd55074", "secondarytypes":
+        ["Compilation"], "title": "Walt Disney''s Original Soundtrack Parade", "type":
+        "Album"}, {"artists": [{"id": "4204e06b-d2e4-4823-b6f3-47f7593518cb", "joinphrase":
+        ", ", "name": "George Bruns"}, {"id": "c47026a1-3300-4cf7-80df-8b9462a884e4",
+        "joinphrase": " & ", "name": "Richard M. Sherman"}, {"id": "d378dedb-444f-48f5-a6e6-3e8e31ef6c14",
+        "joinphrase": ", ", "name": "Robert B. Sherman"}, {"id": "0a8df504-df94-4d77-a3c5-2b9e5c9727e2",
+        "name": "Terry Gilkyson"}], "id": "1257fcdf-743f-3dff-9894-107b398fb777",
+        "secondarytypes": ["Soundtrack"], "title": "The Jungle Book: Original Cast
+        Soundtrack", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "e9ef23d1-4e1a-4258-b957-8d89b625f6a4",
+        "secondarytypes": ["Compilation"], "title": "The Disney Collection, Volume
+        1", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "dd1b5e06-e45a-44a4-baf3-2aafd4204f1c",
+        "title": "The Sherman Brothers Songbook", "type": "Album"}, {"artists": [{"id":
+        "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}], "id":
+        "8a4a8363-983c-38a3-9dda-08d84dc0c229", "secondarytypes": ["Compilation",
+        "Soundtrack"], "title": "Classic Disney, Volume III: 60 Years of Musical Magic",
+        "type": "Album"}], "title": "Trust in Me (The Python\u2019s Song)"}, {"artists":
+        [{"id": "ace542c8-d312-4054-84a2-e3dba12a78b9", "name": "Sterling Holloway"}],
+        "duration": 170, "id": "a640fcc1-4cea-4b28-8391-9c896c80bfe0", "releasegroups":
+        [{"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various
+        Artists"}], "id": "6e23015f-1c41-4160-b374-b318dd1f6186", "secondarytypes":
+        ["Compilation"], "title": "Pirates of the Caribbean and Other Villains", "type":
+        "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name":
+        "Various Artists"}], "id": "7fc44639-8d62-3461-a6b3-7c1c2792dff2", "secondarytypes":
+        ["Compilation"], "title": "Selections from Fantasia and Other Disney Musical
+        Classics", "type": "Album"}], "title": "Trust in Me (The Python\u2019s Song)"},
+        {"artists": [{"id": "66ea0139-149f-4a0c-8fbf-5ea9ec4a6e49", "name": "[Disney]"}],
+        "duration": 171, "id": "f952f522-701b-4389-8dce-5e5a51ff94e5", "releasegroups":
+        [{"id": "4fae91d7-e4a9-494b-ae15-ae8b7cf046fe", "secondarytypes": ["Compilation"],
+        "title": "The Ultimate Disney Hits [Disc 1]", "type": "Album"}], "title":
+        "Trust In Me (The Python''s Song)"}], "score": 0.944884}, {"id": "118705b9-8e7c-4af3-9150-19e2748e26f8",
+        "recordings": [{"artists": [{"id": "ace542c8-d312-4054-84a2-e3dba12a78b9",
+        "name": "Sterling Holloway"}], "duration": 170, "id": "182e13e3-e46b-410a-9134-85547e30225a",
+        "releasegroups": [{"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "d90ed9f2-9947-4120-ac3e-408f50f191ec",
+        "secondarytypes": ["Compilation"], "title": "Walt Disney\u2019s Original Soundtrack
+        Collection, Vol. 1", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "2a1a6af0-807c-49e3-9dba-ffccecd55074",
+        "secondarytypes": ["Compilation"], "title": "Walt Disney''s Original Soundtrack
+        Parade", "type": "Album"}, {"artists": [{"id": "4204e06b-d2e4-4823-b6f3-47f7593518cb",
+        "joinphrase": ", ", "name": "George Bruns"}, {"id": "c47026a1-3300-4cf7-80df-8b9462a884e4",
+        "joinphrase": " & ", "name": "Richard M. Sherman"}, {"id": "d378dedb-444f-48f5-a6e6-3e8e31ef6c14",
+        "joinphrase": ", ", "name": "Robert B. Sherman"}, {"id": "0a8df504-df94-4d77-a3c5-2b9e5c9727e2",
+        "name": "Terry Gilkyson"}], "id": "1257fcdf-743f-3dff-9894-107b398fb777",
+        "secondarytypes": ["Soundtrack"], "title": "The Jungle Book: Original Cast
+        Soundtrack", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "e9ef23d1-4e1a-4258-b957-8d89b625f6a4",
+        "secondarytypes": ["Compilation"], "title": "The Disney Collection, Volume
+        1", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "dd1b5e06-e45a-44a4-baf3-2aafd4204f1c",
+        "title": "The Sherman Brothers Songbook", "type": "Album"}, {"artists": [{"id":
+        "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}], "id":
+        "8a4a8363-983c-38a3-9dda-08d84dc0c229", "secondarytypes": ["Compilation",
+        "Soundtrack"], "title": "Classic Disney, Volume III: 60 Years of Musical Magic",
+        "type": "Album"}], "title": "Trust in Me (The Python\u2019s Song)"}, {"artists":
+        [{"id": "ace542c8-d312-4054-84a2-e3dba12a78b9", "name": "Sterling Holloway"}],
+        "duration": 170, "id": "a640fcc1-4cea-4b28-8391-9c896c80bfe0", "releasegroups":
+        [{"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various
+        Artists"}], "id": "6e23015f-1c41-4160-b374-b318dd1f6186", "secondarytypes":
+        ["Compilation"], "title": "Pirates of the Caribbean and Other Villains", "type":
+        "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name":
+        "Various Artists"}], "id": "7fc44639-8d62-3461-a6b3-7c1c2792dff2", "secondarytypes":
+        ["Compilation"], "title": "Selections from Fantasia and Other Disney Musical
+        Classics", "type": "Album"}], "title": "Trust in Me (The Python\u2019s Song)"}],
+        "score": 0.932951}, {"id": "30517935-3b09-4597-8fe6-c0761a2be370", "recordings":
+        [{"artists": [{"id": "ace542c8-d312-4054-84a2-e3dba12a78b9", "name": "Sterling
+        Holloway"}], "duration": 170, "id": "182e13e3-e46b-410a-9134-85547e30225a",
+        "releasegroups": [{"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "d90ed9f2-9947-4120-ac3e-408f50f191ec",
+        "secondarytypes": ["Compilation"], "title": "Walt Disney\u2019s Original Soundtrack
+        Collection, Vol. 1", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "2a1a6af0-807c-49e3-9dba-ffccecd55074",
+        "secondarytypes": ["Compilation"], "title": "Walt Disney''s Original Soundtrack
+        Parade", "type": "Album"}, {"artists": [{"id": "4204e06b-d2e4-4823-b6f3-47f7593518cb",
+        "joinphrase": ", ", "name": "George Bruns"}, {"id": "c47026a1-3300-4cf7-80df-8b9462a884e4",
+        "joinphrase": " & ", "name": "Richard M. Sherman"}, {"id": "d378dedb-444f-48f5-a6e6-3e8e31ef6c14",
+        "joinphrase": ", ", "name": "Robert B. Sherman"}, {"id": "0a8df504-df94-4d77-a3c5-2b9e5c9727e2",
+        "name": "Terry Gilkyson"}], "id": "1257fcdf-743f-3dff-9894-107b398fb777",
+        "secondarytypes": ["Soundtrack"], "title": "The Jungle Book: Original Cast
+        Soundtrack", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "e9ef23d1-4e1a-4258-b957-8d89b625f6a4",
+        "secondarytypes": ["Compilation"], "title": "The Disney Collection, Volume
+        1", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "dd1b5e06-e45a-44a4-baf3-2aafd4204f1c",
+        "title": "The Sherman Brothers Songbook", "type": "Album"}, {"artists": [{"id":
+        "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}], "id":
+        "8a4a8363-983c-38a3-9dda-08d84dc0c229", "secondarytypes": ["Compilation",
+        "Soundtrack"], "title": "Classic Disney, Volume III: 60 Years of Musical Magic",
+        "type": "Album"}], "title": "Trust in Me (The Python\u2019s Song)"}], "score":
+        0.732331}], "status": "ok"}'
+    http_version:
+  recorded_at: Tue, 29 Jun 2021 21:24:48 GMT
+recorded_with: VCR 3.0.3

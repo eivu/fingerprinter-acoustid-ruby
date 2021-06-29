@@ -1,0 +1,108 @@
+---
+http_interactions:
+- request:
+    method: get
+    uri: https://api.acoustid.org/v2/lookup?client=<ACOUSTID_CLIENT_ID>&duration=430&fingerprint=AQADtFqTKNGMK9OJ7xpmJk9S-C_4ZNKQXA-F8EdP-OmOXbrRTMkT3DnOckHuU0h-Y88SBnwm43h2HIyUCc10JNGZBv6F5o9w6Jzxhqgy2Wi-oD-aH7m3400TPNEz7FkGKnqxNpWC48cV5YF7HM8JtJESxrB3dGWO_5qG9kj4I8-K4y9-nDKsR0eljMf94PqUQM_hp0J_GU10PIn6oU5yBU2u4MeTJNnw32jy0CmSHXk9onEUNWiX41-E6hkN30MzqWGOJyFCUkFzicL5BPdxXQquJ0Rz6DzSX6jzoKlyFF-MPjqiOVKGZKeJN54EVpc4tEsmeNzBiAkDnkKPJEquI89wM8S_4KcTXNOFN0cTRcHhMw3yC1qqPoh-vDmuDVeSH2lu6GeQhezhB5NzXE9wLkef4mKOU4LVafCJb0fDiJaRXwlqUYJ4Gify44Gb43oDv8THovYaPDo8TUc8RkgcZomEXzgPM7mC70LzpULlI5WeQT_OHKp4IwzD4Dh-ojq-oz_8o3KPP-gPa1IudK-QPIgPNEzCH6UcHD_uI-TCNHBIdDi0xmjcHGjOoxd-XE9h_vgOPczRS4bZ43_QG1eOivpw-I-C3kLU40lwWBd4RXiHfHkECY3C49ygI0_Rb8efE2xynNiPPzrCZMkeItnq4s6s4Hk4wjOJh2OEL0TzoMxxHv_wI4qSJhuSnqD9YHvwRYSvHMcVPfByHE25oY-PuB8S10qCcn3wcTl-wWfwpsctJL2IkE5yvAfuBC_DDPGyIYm4hge_5Zjy41EV_Hg2Hsedoyd-4HngHG3i4xKqI31yeMp07DnYW9CXNEJEJjeeiJvwElN-XMOTJCFGHtWh5dzxU9hDLeB-3MEzlASTpUf4JXB59PhQXYnw4_kGdyiPHycr47RCPMb140FzJQz6Idtx7OnRXOiP8MSURznkGveN64h-lA-2E9T54MeUJ8KNK3rw7GiO52hqHqHyB292Cd6D8NJ4fL5wHpckZRN6vEO6G8kvNNEV_MSVMI3wRUH5DE2pC5fO4TyS5VlQSj80RlYQ2qKEPknQFNcy3E1RJVeKb2gePDp2ZHHCVIXo47ewSeRmhOyKhy-OPjk-PAuvwWMmJiHqC8mfI4-O7Thz8MqHv8KTY5QcInmkI_QEPz_uB8dzPD1iHtpDoA_CK7i0B49KhNPRxA9uCYryaAv6RNmRTUXzp6iTDzl0FmeQ_sKlJPgiEde2HZunWPiFI9rWILljPNMOqySe4MGV4FEaLcimfIMWhGdwfjgXBXdRMkezzMTpYPwRp8d26HlwBuEleDxS3ji_QXoURvgUGq9ywioqSdAY4pIDXwVj8fihiIoOZ4OTdkOPspzQjEHTJINm55iOMOeQMwsSLU0eomFsBV3WPDiHH76Fv8I_sDoSUshjfF-I5p0SVBeeYD7xPMVJ5XhlfDpKHs6KP0cs8kieOikuok-OiseU6vgW7mAuovm64I_G4xeeIhmXIAx45_gcnPLw3fiE58hfoUnrILT4CM8l4w6eoE7QVOqC1UsRJD2emXAffEVzHyUZNMtzo97xuMHT7LjxH3tOND2sRFNqMH8QPlkKV9BCKkF-NfiHK0cYh0GP5kwVgeGS44T2lGiMxwuaPEHJ5CijXEHTK3iC4w54xAKp8LjGw72mINehty1yoaFCTNToFOfx43gQP0VS67g47Ngv9KzwTGieH9-KPFJ27DG0SlEwvcgnPMclP-h8nKiJi2iuDL2KK1osDbmWBh8hHncRUsrRMMmDU0f_oPpG3B3uY7aQfimSZwc_XAkfPDVyJKWUWBz4bMZb_JkO7ynwIz-STD9-4UePpviOH3mhfTuqH9HxgY3SoDyeB76HemeF28OeHDlzHHKOnlLQPB8u6InQhE3QaTr-45eCC9U-oUl8PEhOnLmC5hL83EFPPI-KKd0llFF6fIcYZzr49Hi-YI2U4iH-HBf6Cgn7hAipkDniQXukI9WP6k9QSrCLGx7DFG1Eo0mfowuPHz9-hNKhnchHfMlRvWg4HT92GbEP6RfC6YfDC0-KG8eqoxqPZ3qQS0mgw2eQXwnyb8UzwmGEb8fOHNeHcgoo-pB3-EEu_HCOG5eO9HgiBbp4HOlj4mKCPAmx8fB-Qjt-jDkuOZfARpFsfEfPFP6R_qiPH8wlibikoy3xUcdDRc7xH1M-HZXJ45wuxPyO5ONRwnkefNthJzuaUJ2AI89VNEEV58TDSIeZRTd0KcgV-FmY46eQZ3ygH17z4MdoMAmPbtGhJe8RmjK-5HgSTCeaP_jhRU0T4ffRL0EYVQr0DTmO20lRn5Nw-ChvnMsxSguyR_kgTmKCOdwxBfUW_MP5ozxxOrAwycyBB7mYw3GuGOuDHk2dycieDz8UPUezrqglNM4nXDnKH1WaHT_6oHmDM5_wB7eOM4eO_FOC6zl2odfhH4zH4_hTNEd_aF_g6eiZFA3pE-UlXM_xcQPa5ceebLiKPHg8fBD_IH8wbT-OHs3RB0xuGq_xRcrwIZSPKR2-HduTHEe07sxwPcSTU3jQnInR60HMCVeO5Med4k5R-Rx8Hnf2oDpOvch1JGEm_Ac_DtPzJKiT4zrOBc1x_kiO-oiZHPnx1xDnR0T0Hh9TMI-owFTwh0hPoxc0qwgzHs_Bo8oVowmjmchb9IMWEtGDKwlRi07wMcGewTkm59hvhDmFyokSQiWePPjEFN5zfPhwW8Sh0zhEp8UjaCQPJj_eHO0BIowAgABiECRACEEAJQBAYSBzRFIBjAJMAUkgEAYooowAgxIDICMCAAAgMkI-oxAAhBGBAGFAECUQkMgRAggwAjhhBEDACOAEAg4oJQASSBABjATSECkYAAIBIlVACFjADBFESGEAAIQZoIAgAgJkBFbCUECEVYoBSKxBRhAANLAGUkENUooICowzThgIALAOISKFAAAxAYAQihCCADCWIMcUUBghQAghBqAECAEEYGQQAQAQgBACRDjghCWUEYUIYcwQiAAg0CmCBBGECgAAYgxI4BRSwiKGrEPAOAGgUIwQYRkSQACBjAKIMYEseQAjoDQxDCFAGCEICWCUEEIAoJADhAkAjUCEEEMqAcAAgAABQACgKBGMCEiAIIogAAixCikgGFMOKKCQFI4QZQggAjgCgBIEGiIMEIQQhZxS0AKDhIFGGEGAAQYYQgRwhBJGmEQCSCOYYgwgholEggIiDAKIGQUNocQiRRSAwhJipKOIACYEQwAABBARRiAEGEMAKQEEAAIA5CgSihgBBAOUAaS0QAIQBBwAhjiAhQAAAIcIAYgpIIwxlDpMAAFKAMMIkSAJoARAggJAEBIMMwOAQOARI5CAABkiEBECCGGEgYCR4AwQCgEkBVFIAeIAchQgYhR5mgCAjDGQEgUERwwAxIQXjmMEADCCASAQEowgQYAhkCBABAXAIGGIIkgAS7URFBFJFDMEEYEcYBIJgSUDQhCkDEBGKeSokBYJpogBAREHAGJSAIGMQEYQRpyQwAEAAEAAISGAEcgIoYRYBCAhkAYEGAAUMs4AogBDSgpFODAAEIoUcEoZJwAkwhhgAECCAacAkQQJgZBQBjGhjJGEGIa4IIYAQggVyBCBNCBQAAGEUUQww6hDghngLKGaICKQAsCgAIQAIBgBFXSIKiCEUgggBoQiRChkDWBAUK2ABUgIYggRACimODDGEecAEwooJAAAICnkDFCIEAI&meta=recordings%20releasegroups%20compress
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      Accept:
+      - "*/*"
+      User-Agent:
+      - rest-client/2.1.0 (darwin20.3.0 x86_64) ruby/2.7.1p83
+      Accept-Encoding:
+      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+      Host:
+      - api.acoustid.org
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Date:
+      - Tue, 29 Jun 2021 21:19:09 GMT
+      Content-Type:
+      - application/json; charset=UTF-8
+      Transfer-Encoding:
+      - chunked
+      Connection:
+      - keep-alive
+      Vary:
+      - Accept-Encoding
+      Access-Control-Allow-Origin:
+      - "*"
+      X-Envoy-Upstream-Service-Time:
+      - '119'
+      Strict-Transport-Security:
+      - max-age=15724800; includeSubDomains
+    body:
+      encoding: ASCII-8BIT
+      string: '{"results": [{"id": "78e28248-2f5f-448b-bbda-c296543bb8d6", "recordings":
+        [{"artists": [{"id": "54799c0e-eb45-4eea-996d-c4d71a63c499", "joinphrase":
+        " & ", "name": "Ella"}, {"id": "eea8a864-fcda-4602-9569-38ab446decd6", "name":
+        "Louis"}], "duration": 433, "id": "0ba685fe-7498-4b51-8dba-dcd952f2e97b",
+        "releasegroups": [{"artists": [{"id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+        "joinphrase": " & ", "name": "Ella Fitzgerald"}, {"id": "eea8a864-fcda-4602-9569-38ab446decd6",
+        "name": "Louis Armstrong"}], "id": "45aa0e31-ab75-4605-a3a3-f650d4fa4229",
+        "secondarytypes": ["Compilation"], "title": "Ella & Louis: The Complete Anthology",
+        "type": "Album"}], "title": "Learnin\u2019 the Blues"}, {"artists": [{"id":
+        "eea8a864-fcda-4602-9569-38ab446decd6", "name": "Louis Armstrong"}], "duration":
+        433, "id": "0f1cd4af-a0fa-44dd-8501-5a9e7e62d831", "releasegroups": [{"id":
+        "9c8ab851-c89f-4c0f-9a1c-35f22e78b741", "secondarytypes": ["Compilation"],
+        "title": "Milestones of a Jazz Legend"}], "title": "Learnin the Blues"}, {"artists":
+        [{"id": "54799c0e-eb45-4eea-996d-c4d71a63c499", "joinphrase": " & ", "name":
+        "Ella Fitzgerald"}, {"id": "eea8a864-fcda-4602-9569-38ab446decd6", "name":
+        "Louis Armstrong"}], "duration": 433, "id": "317bf091-2633-40fd-b005-00e86d73a932",
+        "releasegroups": [{"artists": [{"id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+        "joinphrase": " & ", "name": "Ella Fitzgerald"}, {"id": "eea8a864-fcda-4602-9569-38ab446decd6",
+        "name": "Louis Armstrong"}], "id": "7108712f-b350-310b-9419-232dceaaba00",
+        "title": "Ella and Louis Again", "type": "Album"}, {"artists": [{"id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+        "name": "Ella Fitzgerald"}], "id": "3dcd39f2-5c4f-4043-9534-9581e7191a30",
+        "secondarytypes": ["Compilation"], "title": "Six Classic Albums, Volume 3",
+        "type": "Album"}, {"artists": [{"id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+        "joinphrase": " & ", "name": "Ella Fitzgerald"}, {"id": "eea8a864-fcda-4602-9569-38ab446decd6",
+        "name": "Louis Armstrong"}], "id": "0cbe776a-d90b-424c-bd31-a87a42025821",
+        "secondarytypes": ["Compilation"], "title": "Ella and Louis: The Anthology",
+        "type": "Album"}, {"artists": [{"id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+        "joinphrase": " & ", "name": "Ella Fitzgerald"}, {"id": "eea8a864-fcda-4602-9569-38ab446decd6",
+        "name": "Louis Armstrong"}], "id": "37012d18-8647-3648-87e7-7a66423b863b",
+        "secondarytypes": ["Compilation"], "title": "The Complete Ella and Louis on
+        Verve", "type": "Album"}, {"artists": [{"id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+        "joinphrase": " & ", "name": "Ella Fitzgerald"}, {"id": "eea8a864-fcda-4602-9569-38ab446decd6",
+        "name": "Louis Armstrong"}], "id": "c70ee463-c59b-4146-a887-75d0f3b2b531",
+        "secondarytypes": ["Compilation"], "title": "Original Greatest Hits", "type":
+        "Album"}, {"artists": [{"id": "54799c0e-eb45-4eea-996d-c4d71a63c499", "joinphrase":
+        " & ", "name": "Ella Fitzgerald"}, {"id": "eea8a864-fcda-4602-9569-38ab446decd6",
+        "name": "Louis Armstrong"}], "id": "50fece99-77bf-455b-97ae-aabb9a848b8b",
+        "title": "Ella and Louis", "type": "Album"}, {"artists": [{"id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+        "joinphrase": " & ", "name": "Ella Fitzgerald"}, {"id": "eea8a864-fcda-4602-9569-38ab446decd6",
+        "name": "Louis Armstrong"}], "id": "c4d57285-84d5-4413-8118-b92f402ad1da",
+        "secondarytypes": ["Compilation"], "title": "Cheek to Cheek: The Complete
+        Duet Recordings", "type": "Album"}, {"id": "162346df-76e5-4cd7-9169-f047b61421d6",
+        "secondarytypes": ["Compilation"], "title": "Ella & Louis", "type": "Album"}],
+        "title": "Learnin'' the Blues"}, {"artists": [{"id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+        "joinphrase": " & ", "name": "Ella Fitzgerald"}, {"id": "eea8a864-fcda-4602-9569-38ab446decd6",
+        "name": "Louis Armstrong"}], "duration": 433, "id": "5fe853c9-d2e7-48d8-83e7-ad978e7ebf5d",
+        "releasegroups": [{"id": "24577902-0198-3733-b1cb-f10e8c2abb05", "secondarytypes":
+        ["Compilation"], "title": "Ella & Louis Classic Album Collection", "type":
+        "Album"}], "title": "Learnin'' the Blues"}, {"artists": [{"id": "eea8a864-fcda-4602-9569-38ab446decd6",
+        "name": "Louis Armstrong"}], "duration": 432, "id": "8c2b22f6-90a3-4480-8c76-9d93bd5745b2",
+        "releasegroups": [{"id": "5ef2fafd-fe62-3f23-8099-85167cd849c5", "secondarytypes":
+        ["Compilation"], "title": "Verve Jazz Masters 1", "type": "Album"}], "title":
+        "Learnin'' The Blues"}, {"artists": [{"id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+        "joinphrase": " & ", "name": "Ella Fitzgerald"}, {"id": "eea8a864-fcda-4602-9569-38ab446decd6",
+        "name": "Louis Armstrong"}], "duration": 435, "id": "aad06894-6c00-4b8b-9c68-ce62a268e0a9",
+        "releasegroups": [{"id": "8ec69375-a2ab-3388-a15a-446133b29861", "secondarytypes":
+        ["Compilation"], "title": "Verve Jazz Masters 24: Ella Fitzgerald & Louis
+        Armstrong", "type": "Album"}], "title": "Learnin'' the Blues"}, {"artists":
+        [{"id": "54799c0e-eb45-4eea-996d-c4d71a63c499", "joinphrase": " & ", "name":
+        "Ella Fitzgerald"}, {"id": "eea8a864-fcda-4602-9569-38ab446decd6", "name":
+        "Louis Armstrong"}], "duration": 432, "id": "d10b0b7b-c54a-4900-82f5-1356fb9c6469",
+        "releasegroups": [{"id": "162346df-76e5-4cd7-9169-f047b61421d6", "secondarytypes":
+        ["Compilation"], "title": "Ella & Louis", "type": "Album"}], "title": "Learnin''
+        the Blues"}, {"id": "d910d96a-d23a-4b56-82ec-0d25a0788798"}], "score": 0.977716}],
+        "status": "ok"}'
+    http_version:
+  recorded_at: Tue, 29 Jun 2021 21:19:09 GMT
+recorded_with: VCR 3.0.3

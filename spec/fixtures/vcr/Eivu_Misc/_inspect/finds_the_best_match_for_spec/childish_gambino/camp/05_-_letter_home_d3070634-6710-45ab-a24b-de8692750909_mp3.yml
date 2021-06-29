@@ -21,7 +21,7 @@ http_interactions:
       message: OK
     headers:
       Date:
-      - Tue, 29 Jun 2021 13:42:41 GMT
+      - Tue, 29 Jun 2021 21:17:49 GMT
       Content-Type:
       - application/json; charset=UTF-8
       Transfer-Encoding:
@@ -45,5 +45,5 @@ http_interactions:
         "Camp", "type": "Album"}], "title": "Letter Home"}, {"id": "64ff005b-b2b7-46e7-b214-4e230127f646"}],
         "score": 0.995362}], "status": "ok"}'
     http_version:
-  recorded_at: Tue, 29 Jun 2021 13:42:41 GMT
+  recorded_at: Tue, 29 Jun 2021 21:17:49 GMT
 recorded_with: VCR 3.0.3

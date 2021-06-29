@@ -1,0 +1,43 @@
+{
+  "results": [
+    {
+      "id": "6a2a0263-f2bd-488a-81d1-6d27929ff55e",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "9ddfc28e-9869-429e-8200-567dcf5ef008",
+              "name": "High Frequency Bandwidth"
+            }
+          ],
+          "duration": 289,
+          "id": "29ce44c5-f443-4e16-860b-462286e16458",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "9ddfc28e-9869-429e-8200-567dcf5ef008",
+                  "name": "High Frequency Bandwidth"
+                }
+              ],
+              "id": "6e99b843-94e4-4ead-aa69-4ef2c29b63f2",
+              "secondarytypes": [
+                "Soundtrack"
+              ],
+              "title": "HFB: PixelJunked - The Original Soundtrack to Shooter 1 + 2",
+              "type": "Album"
+            },
+            {
+              "id": "f42dafb1-e799-47f8-960f-5039cc4c729d",
+              "title": "Hell Fire and Brimstone",
+              "type": "Album"
+            }
+          ],
+          "title": "Hidden Foto Banks"
+        }
+      ],
+      "score": 0.900839
+    }
+  ],
+  "status": "ok"
+}

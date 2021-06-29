@@ -1,0 +1,33 @@
+{
+  "results": [
+    {
+      "id": "486e7460-42b0-41ee-b32e-589e42f2cc7e",
+      "score": 0.980949
+    },
+    {
+      "id": "0b6608cf-212e-40cd-bd2f-dd9b12c2dc93",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "b7539c32-53e7-4908-bda3-81449c367da6",
+              "name": "Lana Del Rey"
+            }
+          ],
+          "duration": 220,
+          "id": "b8c633ae-5c3b-48ee-b0bd-ad9340c90d72",
+          "releasegroups": [
+            {
+              "id": "4b16a1bc-8644-48ae-9b3e-8ae36aa30cfc",
+              "title": "Born to Die",
+              "type": "Album"
+            }
+          ],
+          "title": "Lolita"
+        }
+      ],
+      "score": 0.930196
+    }
+  ],
+  "status": "ok"
+}

@@ -1,0 +1,94 @@
+{
+  "results": [
+    {
+      "id": "881f88f8-d3b8-4af0-bd56-efba740d158d",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "3c3d3ad8-3935-4c00-affb-768563916f36",
+              "name": "Fluke"
+            }
+          ],
+          "duration": 349,
+          "id": "93c6bb6b-ee79-4e0f-b032-75ac8f6c1b4a",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "066809c3-3077-30e2-b027-1fc46a32b1fb",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Siglo XXI",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "fe85e827-d4cc-34af-8941-6165a2cb8fb0",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Street Mix: Music From VW Commercials, Volume 1",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "85e394ab-316b-446a-932c-4379764c1ab3",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Inhaled 2",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "3c3d3ad8-3935-4c00-affb-768563916f36",
+                  "name": "Fluke"
+                }
+              ],
+              "id": "50615933-ee44-33a2-b6e1-75f9dd35b937",
+              "title": "Risotto",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "6fc11bb2-3bf9-36f5-99ea-bec1800c1314",
+              "secondarytypes": [
+                "Soundtrack"
+              ],
+              "title": "La Femme Nikita: Music From the Television Series",
+              "type": "Album"
+            }
+          ],
+          "title": "Absurd"
+        },
+        {
+          "id": "f2b32b6f-2865-46f7-858d-98b132d7aeeb"
+        }
+      ],
+      "score": 0.953002
+    }
+  ],
+  "status": "ok"
+}

@@ -1,0 +1,319 @@
+{
+  "results": [
+    {
+      "id": "f2f82f0c-33e4-4101-8cfd-58bc7c6d40c6",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "42c14c80-bd17-47e4-9bb2-a35897638c4d",
+              "name": "The Orb"
+            }
+          ],
+          "duration": 267,
+          "id": "96e8c97e-90f6-4db2-93d9-2a32b03817e3",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "42c14c80-bd17-47e4-9bb2-a35897638c4d",
+                  "name": "The Orb"
+                }
+              ],
+              "id": "27b682b2-dd29-3e15-8ef2-f6475f4d262f",
+              "title": "The Orb’s Adventures Beyond the Ultraworld",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "bf9f6145-f4d0-4954-bb07-6b3ad8f54a19",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Relax",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "e04c075d-4b58-3116-97f7-adc3018860e0",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "My Songs",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "c0fec5c4-b450-4524-8eee-50f5645f4b05",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Moods: A World of Emotions",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "d8bf8e5f-532f-43a1-ba83-2eb97a64ead6",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "No Stress III",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "d4064204-9620-47f4-8dba-d5c4975cab9c",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Rave: 1",
+              "type": "Album"
+            }
+          ],
+          "title": "Little Fluffy Clouds"
+        },
+        {
+          "artists": [
+            {
+              "id": "42c14c80-bd17-47e4-9bb2-a35897638c4d",
+              "name": "The Orb"
+            }
+          ],
+          "duration": 275,
+          "id": "ffc0b14a-9a49-463f-b1f6-13f2976865c6",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "f947efd4-8d95-4cd4-be75-24b91b95d5a2",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Comfort zone",
+              "type": "Album"
+            }
+          ],
+          "title": "Little Fluffy Clouds"
+        }
+      ],
+      "score": 0.948972
+    },
+    {
+      "id": "8bbf7d47-b072-4399-bd19-9f8ffc1b8887",
+      "recordings": [
+        {
+          "id": "0549a8c4-e08d-4d4b-b575-a41349ec210e"
+        },
+        {
+          "artists": [
+            {
+              "id": "42c14c80-bd17-47e4-9bb2-a35897638c4d",
+              "name": "The Orb"
+            }
+          ],
+          "duration": 261,
+          "id": "0736a7c3-12e2-447b-9c1c-0f79d7ca0507",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "d1e12d7b-f69a-3861-82ce-7f286d51b801",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "David Mancuso Presents: The Loft - Volume 2",
+              "type": "Album"
+            }
+          ],
+          "title": "Little Fluffy Clouds"
+        },
+        {
+          "id": "4124c538-a325-4993-b3f0-1dbb988e3aa0"
+        },
+        {
+          "artists": [
+            {
+              "id": "42c14c80-bd17-47e4-9bb2-a35897638c4d",
+              "name": "The Orb"
+            }
+          ],
+          "duration": 263,
+          "id": "69bb33ee-d6b1-4ef1-a92a-78bd5e50773a",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "4407fc17-67e0-4331-b049-fe4aa1d66c1a",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Full Moon",
+              "type": "Album"
+            }
+          ],
+          "title": "Little Fluffy Clouds"
+        },
+        {
+          "artists": [
+            {
+              "id": "42c14c80-bd17-47e4-9bb2-a35897638c4d",
+              "name": "The Orb"
+            }
+          ],
+          "duration": 267,
+          "id": "96e8c97e-90f6-4db2-93d9-2a32b03817e3",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "42c14c80-bd17-47e4-9bb2-a35897638c4d",
+                  "name": "The Orb"
+                }
+              ],
+              "id": "27b682b2-dd29-3e15-8ef2-f6475f4d262f",
+              "title": "The Orb’s Adventures Beyond the Ultraworld",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "bf9f6145-f4d0-4954-bb07-6b3ad8f54a19",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Relax",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "e04c075d-4b58-3116-97f7-adc3018860e0",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "My Songs",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "c0fec5c4-b450-4524-8eee-50f5645f4b05",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Moods: A World of Emotions",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "d8bf8e5f-532f-43a1-ba83-2eb97a64ead6",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "No Stress III",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "d4064204-9620-47f4-8dba-d5c4975cab9c",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Rave: 1",
+              "type": "Album"
+            }
+          ],
+          "title": "Little Fluffy Clouds"
+        },
+        {
+          "artists": [
+            {
+              "id": "42c14c80-bd17-47e4-9bb2-a35897638c4d",
+              "name": "The Orb"
+            }
+          ],
+          "duration": 269,
+          "id": "ca50e2d6-ed7e-46da-b381-2ac0ca5ead1d",
+          "releasegroups": [
+            {
+              "id": "1a4dae85-8f19-3051-94f6-92be918f0ef9",
+              "secondarytypes": [
+                "Remix"
+              ],
+              "title": "Little Fluffy Clouds",
+              "type": "Single"
+            }
+          ],
+          "title": "Little Fluffy Clouds (ambient Mk 1)"
+        },
+        {
+          "id": "f1b90f94-636c-427e-a17e-2c9de3276357"
+        },
+        {
+          "id": "f3cf8886-d108-480b-8139-6bac20963f6f"
+        }
+      ],
+      "score": 0.919765
+    }
+  ],
+  "status": "ok"
+}

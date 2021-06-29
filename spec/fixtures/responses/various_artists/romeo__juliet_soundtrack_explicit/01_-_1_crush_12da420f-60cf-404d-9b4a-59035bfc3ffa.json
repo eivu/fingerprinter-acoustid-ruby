@@ -1,0 +1,361 @@
+{
+  "results": [
+    {
+      "id": "6c68cbcd-fbaf-4eac-9029-557f01753ddc",
+      "recordings": [
+        {
+          "id": "1603f847-6ff5-4e24-a16c-f43c6f73b52a"
+        },
+        {
+          "artists": [
+            {
+              "id": "f9ef7a22-4262-4596-a2a8-1d19345b8e50",
+              "name": "Garbage"
+            }
+          ],
+          "id": "17d586fb-8c9e-4726-8f9e-acfd5b3a2c0a",
+          "releasegroups": [
+            {
+              "id": "416bb36b-a0af-4186-ac0a-a8f82ed4ea9a",
+              "title": "Garbage Video",
+              "type": "Other"
+            }
+          ],
+          "title": "Sleep"
+        },
+        {
+          "id": "313164bf-691b-4c81-9bf9-f2786de88494"
+        },
+        {
+          "artists": [
+            {
+              "id": "f9ef7a22-4262-4596-a2a8-1d19345b8e50",
+              "name": "Garbage"
+            }
+          ],
+          "duration": 139,
+          "id": "e101e098-9418-44b2-bec3-dc148d022a57",
+          "releasegroups": [
+            {
+              "id": "dcad245f-9d95-3751-9e69-d50ca399b46a",
+              "title": "Garbage",
+              "type": "Album"
+            }
+          ],
+          "title": "Sleep"
+        },
+        {
+          "artists": [
+            {
+              "id": "f9ef7a22-4262-4596-a2a8-1d19345b8e50",
+              "name": "Garbage"
+            }
+          ],
+          "duration": 291,
+          "id": "f6815e32-a1f0-4c7e-a1e2-84d5f1f472a2",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "f9ef7a22-4262-4596-a2a8-1d19345b8e50",
+                  "name": "Garbage"
+                }
+              ],
+              "id": "416128be-7322-35ce-90ed-12b55534ae6b",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Complete Garbage",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "f9ef7a22-4262-4596-a2a8-1d19345b8e50",
+                  "name": "Garbage"
+                }
+              ],
+              "id": "ef913259-113e-3867-aeea-e52a40a40986",
+              "title": "Independent Access",
+              "type": "EP"
+            },
+            {
+              "artists": [
+                {
+                  "id": "f9ef7a22-4262-4596-a2a8-1d19345b8e50",
+                  "name": "Garbage"
+                }
+              ],
+              "id": "5857ef77-a8bb-3a3a-824c-67c830385bbd",
+              "title": "Subhuman",
+              "type": "Single"
+            },
+            {
+              "artists": [
+                {
+                  "id": "f9ef7a22-4262-4596-a2a8-1d19345b8e50",
+                  "name": "Garbage"
+                }
+              ],
+              "id": "7c14d304-c322-37ca-b80e-1654fd0da3fe",
+              "title": "Vow",
+              "type": "Single"
+            },
+            {
+              "artists": [
+                {
+                  "id": "f9ef7a22-4262-4596-a2a8-1d19345b8e50",
+                  "name": "Garbage"
+                }
+              ],
+              "id": "0de6711b-a628-39fc-a294-85bd703ee7c0",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "B‐Sides",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "f9ef7a22-4262-4596-a2a8-1d19345b8e50",
+                  "name": "Garbage"
+                }
+              ],
+              "id": "dcad245f-9d95-3751-9e69-d50ca399b46a",
+              "title": "Garbage",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "f9ef7a22-4262-4596-a2a8-1d19345b8e50",
+                  "name": "Garbage"
+                }
+              ],
+              "id": "c87f282e-be91-4764-9700-ac31489601c3",
+              "title": "Garbage",
+              "type": "EP"
+            },
+            {
+              "artists": [
+                {
+                  "id": "f9ef7a22-4262-4596-a2a8-1d19345b8e50",
+                  "name": "Garbage"
+                }
+              ],
+              "id": "fecd4728-a9fa-45a6-9e30-abf398ccd8ea",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Rare Track Collection",
+              "type": "EP"
+            },
+            {
+              "artists": [
+                {
+                  "id": "f9ef7a22-4262-4596-a2a8-1d19345b8e50",
+                  "name": "Garbage"
+                }
+              ],
+              "id": "ea0e4c98-6349-3ae6-800f-1dc6ee40b2b6",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "The G-Side Collection",
+              "type": "Album"
+            },
+            {
+              "id": "884c6fca-e99a-4334-b20d-7f125568c67a",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Hit Collection 2000",
+              "type": "Album"
+            }
+          ],
+          "title": "#1 Crush"
+        },
+        {
+          "artists": [
+            {
+              "id": "f9ef7a22-4262-4596-a2a8-1d19345b8e50",
+              "name": "Garbage"
+            }
+          ],
+          "duration": 268,
+          "id": "fdf29609-5ce9-4811-8ba5-42de646caf53",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "a070a2e5-cdc5-418b-92e5-bdd671208e57",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "100% Hits of ’97",
+              "type": "Album"
+            }
+          ],
+          "title": "Crush"
+        }
+      ],
+      "score": 0.964535
+    },
+    {
+      "id": "6df2cc25-1d77-4372-89d2-6a6a229694e3",
+      "recordings": [
+        {
+          "id": "1603f847-6ff5-4e24-a16c-f43c6f73b52a"
+        }
+      ],
+      "score": 0.946648
+    },
+    {
+      "id": "e44212b5-c56c-44da-a116-4251a2b3b842",
+      "recordings": [
+        {
+          "id": "313164bf-691b-4c81-9bf9-f2786de88494"
+        },
+        {
+          "artists": [
+            {
+              "id": "f9ef7a22-4262-4596-a2a8-1d19345b8e50",
+              "name": "Garbage"
+            }
+          ],
+          "duration": 291,
+          "id": "f6815e32-a1f0-4c7e-a1e2-84d5f1f472a2",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "f9ef7a22-4262-4596-a2a8-1d19345b8e50",
+                  "name": "Garbage"
+                }
+              ],
+              "id": "416128be-7322-35ce-90ed-12b55534ae6b",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Complete Garbage",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "f9ef7a22-4262-4596-a2a8-1d19345b8e50",
+                  "name": "Garbage"
+                }
+              ],
+              "id": "ef913259-113e-3867-aeea-e52a40a40986",
+              "title": "Independent Access",
+              "type": "EP"
+            },
+            {
+              "artists": [
+                {
+                  "id": "f9ef7a22-4262-4596-a2a8-1d19345b8e50",
+                  "name": "Garbage"
+                }
+              ],
+              "id": "5857ef77-a8bb-3a3a-824c-67c830385bbd",
+              "title": "Subhuman",
+              "type": "Single"
+            },
+            {
+              "artists": [
+                {
+                  "id": "f9ef7a22-4262-4596-a2a8-1d19345b8e50",
+                  "name": "Garbage"
+                }
+              ],
+              "id": "7c14d304-c322-37ca-b80e-1654fd0da3fe",
+              "title": "Vow",
+              "type": "Single"
+            },
+            {
+              "artists": [
+                {
+                  "id": "f9ef7a22-4262-4596-a2a8-1d19345b8e50",
+                  "name": "Garbage"
+                }
+              ],
+              "id": "0de6711b-a628-39fc-a294-85bd703ee7c0",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "B‐Sides",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "f9ef7a22-4262-4596-a2a8-1d19345b8e50",
+                  "name": "Garbage"
+                }
+              ],
+              "id": "dcad245f-9d95-3751-9e69-d50ca399b46a",
+              "title": "Garbage",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "f9ef7a22-4262-4596-a2a8-1d19345b8e50",
+                  "name": "Garbage"
+                }
+              ],
+              "id": "c87f282e-be91-4764-9700-ac31489601c3",
+              "title": "Garbage",
+              "type": "EP"
+            },
+            {
+              "artists": [
+                {
+                  "id": "f9ef7a22-4262-4596-a2a8-1d19345b8e50",
+                  "name": "Garbage"
+                }
+              ],
+              "id": "fecd4728-a9fa-45a6-9e30-abf398ccd8ea",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Rare Track Collection",
+              "type": "EP"
+            },
+            {
+              "artists": [
+                {
+                  "id": "f9ef7a22-4262-4596-a2a8-1d19345b8e50",
+                  "name": "Garbage"
+                }
+              ],
+              "id": "ea0e4c98-6349-3ae6-800f-1dc6ee40b2b6",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "The G-Side Collection",
+              "type": "Album"
+            },
+            {
+              "id": "884c6fca-e99a-4334-b20d-7f125568c67a",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Hit Collection 2000",
+              "type": "Album"
+            }
+          ],
+          "title": "#1 Crush"
+        }
+      ],
+      "score": 0.892415
+    }
+  ],
+  "status": "ok"
+}

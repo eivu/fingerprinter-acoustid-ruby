@@ -1,0 +1,29 @@
+{
+  "results": [
+    {
+      "id": "7b7881f1-c2bf-4910-a3a3-cbc7c89ac2ac",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "022b58ea-6098-411d-b88a-652821d4c191",
+              "name": "DJ DB"
+            }
+          ],
+          "duration": 276,
+          "id": "705f524a-72aa-42be-a9db-08d2d36d8c1a",
+          "releasegroups": [
+            {
+              "id": "c4ec56dc-8c9d-4079-b899-a096beffdcc0",
+              "title": "The Secret Art Of Science 2",
+              "type": "Album"
+            }
+          ],
+          "title": "Jazzmin"
+        }
+      ],
+      "score": 0.98165
+    }
+  ],
+  "status": "ok"
+}

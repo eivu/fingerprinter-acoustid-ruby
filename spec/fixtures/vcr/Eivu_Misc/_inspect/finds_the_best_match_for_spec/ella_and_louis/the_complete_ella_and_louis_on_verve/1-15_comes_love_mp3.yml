@@ -21,7 +21,7 @@ http_interactions:
       message: OK
     headers:
       Date:
-      - Tue, 29 Jun 2021 13:32:19 GMT
+      - Tue, 29 Jun 2021 21:18:52 GMT
       Content-Type:
       - application/json; charset=UTF-8
       Transfer-Encoding:
@@ -33,7 +33,7 @@ http_interactions:
       Access-Control-Allow-Origin:
       - "*"
       X-Envoy-Upstream-Service-Time:
-      - '103'
+      - '118'
       Strict-Transport-Security:
       - max-age=15724800; includeSubDomains
     body:
@@ -99,5 +99,5 @@ http_interactions:
         "secondarytypes": ["Compilation"], "title": "100 Songs for a Centennial",
         "type": "Album"}], "title": "Comes Love"}], "score": 1.0}], "status": "ok"}'
     http_version:
-  recorded_at: Tue, 29 Jun 2021 13:32:19 GMT
+  recorded_at: Tue, 29 Jun 2021 21:18:52 GMT
 recorded_with: VCR 3.0.3

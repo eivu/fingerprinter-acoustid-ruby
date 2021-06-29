@@ -1,0 +1,178 @@
+{
+  "results": [
+    {
+      "id": "14d70a6a-04fc-43b4-a2a9-03039bcce835",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "d35a5715-df72-42b3-b663-af3618c00ca9",
+              "name": "Darleen Carr"
+            }
+          ],
+          "duration": 209,
+          "id": "01280639-22ec-438c-93fb-a339cbcd7f86",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "dd1b5e06-e45a-44a4-baf3-2aafd4204f1c",
+              "title": "The Sherman Brothers Songbook",
+              "type": "Album"
+            }
+          ],
+          "title": "My Own Home"
+        },
+        {
+          "artists": [
+            {
+              "id": "d35a5715-df72-42b3-b663-af3618c00ca9",
+              "name": "Darleen Carr"
+            }
+          ],
+          "duration": 212,
+          "id": "11f60cf0-1a2b-4306-a90a-2a61e03f0e81",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "714c722d-f1eb-37b2-9659-d8a1f52de925",
+              "secondarytypes": [
+                "Compilation",
+                "Soundtrack"
+              ],
+              "title": "Classic Disney, Volume V: 60 Years of Musical Magic",
+              "type": "Album"
+            }
+          ],
+          "title": "My Own Home"
+        },
+        {
+          "artists": [
+            {
+              "id": "d35a5715-df72-42b3-b663-af3618c00ca9",
+              "name": "Darleen Carr"
+            }
+          ],
+          "duration": 212,
+          "id": "22db0196-1144-40e8-ab24-8bb2fb621b66",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "4204e06b-d2e4-4823-b6f3-47f7593518cb",
+                  "joinphrase": ", ",
+                  "name": "George Bruns"
+                },
+                {
+                  "id": "c47026a1-3300-4cf7-80df-8b9462a884e4",
+                  "joinphrase": " & ",
+                  "name": "Richard M. Sherman"
+                },
+                {
+                  "id": "d378dedb-444f-48f5-a6e6-3e8e31ef6c14",
+                  "joinphrase": ", ",
+                  "name": "Robert B. Sherman"
+                },
+                {
+                  "id": "0a8df504-df94-4d77-a3c5-2b9e5c9727e2",
+                  "name": "Terry Gilkyson"
+                }
+              ],
+              "id": "1257fcdf-743f-3dff-9894-107b398fb777",
+              "secondarytypes": [
+                "Soundtrack"
+              ],
+              "title": "The Jungle Book: Original Cast Soundtrack",
+              "type": "Album"
+            }
+          ],
+          "title": "My Own Home (The Jungle Book Theme)"
+        },
+        {
+          "artists": [
+            {
+              "id": "d35a5715-df72-42b3-b663-af3618c00ca9",
+              "name": "Darleen Carr"
+            }
+          ],
+          "duration": 210,
+          "id": "55b5990c-efc0-4d1a-97f0-b1230341201b",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "25cbc18f-1b36-3fa1-8da7-ff8fdb3df73e",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Best of Disney",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "bedb5281-e8d0-496f-b1da-73e507eba59f",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "The Very Best of Disney 2",
+              "type": "Album"
+            }
+          ],
+          "title": "My Own Home"
+        },
+        {
+          "artists": [
+            {
+              "id": "c47026a1-3300-4cf7-80df-8b9462a884e4",
+              "joinphrase": " & ",
+              "name": "Richard M. Sherman"
+            },
+            {
+              "id": "d378dedb-444f-48f5-a6e6-3e8e31ef6c14",
+              "name": "Robert B. Sherman"
+            }
+          ],
+          "duration": 210,
+          "id": "c48416e4-df3a-4f47-b7e4-7c1f7a4a2284",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "5e8c6a5a-3510-460c-a649-44251f857c58",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "The Very Best of Disney: 39 Original Songs",
+              "type": "Album"
+            }
+          ],
+          "title": "My Own Home (The Jungle Book)"
+        }
+      ],
+      "score": 0.964267
+    }
+  ],
+  "status": "ok"
+}

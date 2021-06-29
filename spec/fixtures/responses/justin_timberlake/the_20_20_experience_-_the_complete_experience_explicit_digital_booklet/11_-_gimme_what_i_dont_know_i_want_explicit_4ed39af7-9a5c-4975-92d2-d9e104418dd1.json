@@ -1,0 +1,75 @@
+{
+  "results": [
+    {
+      "id": "a12d8480-f03c-4198-a2c5-fd5e0d0bc3ca",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "596ffa74-3d08-44ef-b113-765d43d12738",
+              "name": "Justin Timberlake"
+            }
+          ],
+          "duration": 315,
+          "id": "113c153b-b29d-4647-a2db-1814bb154f55",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "596ffa74-3d08-44ef-b113-765d43d12738",
+                  "name": "Justin Timberlake"
+                }
+              ],
+              "id": "7cc6c164-bd3d-4920-9342-9cb8cd87d8de",
+              "title": "The 20/20 Experience (2 of 2)",
+              "type": "Album"
+            },
+            {
+              "id": "fe51b20f-83e4-49dd-9a36-b8d4da138325",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "The Complete 20/20 Experience",
+              "type": "Album"
+            }
+          ],
+          "title": "Gimme What I Don’t Know (I Want)"
+        },
+        {
+          "artists": [
+            {
+              "id": "596ffa74-3d08-44ef-b113-765d43d12738",
+              "name": "Justin Timberlake"
+            }
+          ],
+          "duration": 315,
+          "id": "bd255fba-9621-48d2-9e38-6b616d7cf5c1",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "596ffa74-3d08-44ef-b113-765d43d12738",
+                  "name": "Justin Timberlake"
+                }
+              ],
+              "id": "7cc6c164-bd3d-4920-9342-9cb8cd87d8de",
+              "title": "The 20/20 Experience (2 of 2)",
+              "type": "Album"
+            },
+            {
+              "id": "fe51b20f-83e4-49dd-9a36-b8d4da138325",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "The Complete 20/20 Experience",
+              "type": "Album"
+            }
+          ],
+          "title": "Gimme What I Don’t Know (I Want)"
+        }
+      ],
+      "score": 0.99198
+    }
+  ],
+  "status": "ok"
+}

@@ -21,7 +21,7 @@ http_interactions:
       message: OK
     headers:
       Date:
-      - Tue, 29 Jun 2021 13:33:06 GMT
+      - Tue, 29 Jun 2021 21:19:47 GMT
       Content-Type:
       - application/json; charset=UTF-8
       Transfer-Encoding:
@@ -33,7 +33,9 @@ http_interactions:
       Access-Control-Allow-Origin:
       - "*"
       X-Envoy-Upstream-Service-Time:
-      - '85'
+      - '123'
+      X-Envoy-Decorator-Operation:
+      - acoustid-server-api.acoustid.svc.cluster.local:3031/*
       Strict-Transport-Security:
       - max-age=15724800; includeSubDomains
     body:
@@ -92,5 +94,5 @@ http_interactions:
         ["Compilation"], "title": "Tidal / When the Pawn...", "type": "Album"}], "title":
         "Never Is a Promise"}], "score": 0.931698}], "status": "ok"}'
     http_version:
-  recorded_at: Tue, 29 Jun 2021 13:33:06 GMT
+  recorded_at: Tue, 29 Jun 2021 21:19:47 GMT
 recorded_with: VCR 3.0.3

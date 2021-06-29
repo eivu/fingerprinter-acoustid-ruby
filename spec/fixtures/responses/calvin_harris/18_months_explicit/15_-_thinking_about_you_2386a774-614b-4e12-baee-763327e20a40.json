@@ -1,0 +1,925 @@
+{
+  "results": [
+    {
+      "id": "9415aad7-07d8-423d-a40f-1ae754b29d99",
+      "recordings": [
+        {
+          "id": "2d44dc12-4247-4cd5-8432-0089fe4a259f"
+        },
+        {
+          "artists": [
+            {
+              "id": "8dd98bdc-80ec-4e93-8509-2f46bafc09a7",
+              "joinphrase": " feat. ",
+              "name": "Calvin Harris"
+            },
+            {
+              "id": "3813a063-9d78-435e-afde-e996053dcc65",
+              "name": "Ayah Marar"
+            }
+          ],
+          "duration": 241,
+          "id": "898c8905-0348-4568-9a7b-9c8479cb9653",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "e4511d51-b6fe-4007-94ed-db2443007234",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Now That’s What I Call Club Hits",
+              "type": "Album"
+            }
+          ],
+          "title": "Thinking About You"
+        },
+        {
+          "artists": [
+            {
+              "id": "8dd98bdc-80ec-4e93-8509-2f46bafc09a7",
+              "joinphrase": " feat. ",
+              "name": "Calvin Harris"
+            },
+            {
+              "id": "3813a063-9d78-435e-afde-e996053dcc65",
+              "name": "Ayah Marar"
+            }
+          ],
+          "duration": 247,
+          "id": "ea7e03d4-6306-4e4b-94e3-27d56b1c5a2a",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "fac8e528-5ad8-4169-90e9-5c1c9162770a",
+                  "joinphrase": " & ",
+                  "name": "Reece Low"
+                },
+                {
+                  "id": "ab56c2bd-bd9b-4f56-b99a-df13216fb91a",
+                  "name": "Rave Radio"
+                }
+              ],
+              "id": "57fa19ed-c5b4-4df9-9153-f4139efaeb02",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Wild Summer 2014",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "3d411ef4-f7ea-4545-abe6-cb72b5ff674a",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "MNM Big Hits 2013, Vol. 3",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "c77ef93b-7fda-30e9-bb7f-7f9629f07333",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "NRJ Dance 2013",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "c41f3ce3-64f7-477d-9768-2bb81710c5aa",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "So Fresh: The Hits of Spring 2013",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "28da320b-45ab-48a1-984f-633687a80c44",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Future Trance 66",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "5e327885-307e-4099-b316-8743fb2d8821",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Ultimate Fitness",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "35689ef9-56f2-4e8e-b93a-cf97930142a8",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Energy NRJ: Hit Music Only! Best of 2013, Volume 2",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "12bb762a-7ae6-485f-946c-1a41f8d51ba8",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "NRJ Winter Hits 2014",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "4b11c2d0-b900-49d6-acc5-a104f8cfdeb1",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "NRJ Hits 2014",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "8dd98bdc-80ec-4e93-8509-2f46bafc09a7",
+                  "name": "Calvin Harris"
+                }
+              ],
+              "id": "98432828-5764-4892-9e3f-9c674cf70acb",
+              "title": "18 Months",
+              "type": "Album"
+            }
+          ],
+          "title": "Thinking About You"
+        }
+      ],
+      "score": 0.967871
+    },
+    {
+      "id": "2a1ee29e-656d-48f1-b9bf-4563cf22caad",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "8dd98bdc-80ec-4e93-8509-2f46bafc09a7",
+              "joinphrase": " feat. ",
+              "name": "Calvin Harris"
+            },
+            {
+              "id": "3813a063-9d78-435e-afde-e996053dcc65",
+              "name": "Ayah Marar"
+            }
+          ],
+          "duration": 240,
+          "id": "2b064386-b137-41a9-8a6a-a0c602424cd0",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "59d0b3c6-fece-4906-af20-e15eec63d53d",
+              "secondarytypes": [
+                "Compilation",
+                "DJ-mix"
+              ],
+              "title": "Kontor: Top of the Clubs, Volume 61",
+              "type": "Album"
+            }
+          ],
+          "title": "Thinking About You"
+        },
+        {
+          "id": "2d44dc12-4247-4cd5-8432-0089fe4a259f"
+        },
+        {
+          "artists": [
+            {
+              "id": "8dd98bdc-80ec-4e93-8509-2f46bafc09a7",
+              "joinphrase": " feat. ",
+              "name": "Calvin Harris"
+            },
+            {
+              "id": "3813a063-9d78-435e-afde-e996053dcc65",
+              "name": "Ayah Marar"
+            }
+          ],
+          "duration": 247,
+          "id": "72312ebb-d645-46c1-82b5-7d777b7d2925",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "eaec981d-00f5-49ed-a8fe-2a7a5eb38d0f",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Dream Dance, Vol. 69",
+              "type": "Album"
+            }
+          ],
+          "title": "Thinking About You"
+        },
+        {
+          "artists": [
+            {
+              "id": "8dd98bdc-80ec-4e93-8509-2f46bafc09a7",
+              "joinphrase": " feat. ",
+              "name": "Calvin Harris"
+            },
+            {
+              "id": "3813a063-9d78-435e-afde-e996053dcc65",
+              "name": "Ayah Marar"
+            }
+          ],
+          "duration": 241,
+          "id": "898c8905-0348-4568-9a7b-9c8479cb9653",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "e4511d51-b6fe-4007-94ed-db2443007234",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Now That’s What I Call Club Hits",
+              "type": "Album"
+            }
+          ],
+          "title": "Thinking About You"
+        },
+        {
+          "artists": [
+            {
+              "id": "8dd98bdc-80ec-4e93-8509-2f46bafc09a7",
+              "joinphrase": " feat. ",
+              "name": "Calvin Harris"
+            },
+            {
+              "id": "3813a063-9d78-435e-afde-e996053dcc65",
+              "name": "Ayah Marar"
+            }
+          ],
+          "duration": 247,
+          "id": "ea7e03d4-6306-4e4b-94e3-27d56b1c5a2a",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "fac8e528-5ad8-4169-90e9-5c1c9162770a",
+                  "joinphrase": " & ",
+                  "name": "Reece Low"
+                },
+                {
+                  "id": "ab56c2bd-bd9b-4f56-b99a-df13216fb91a",
+                  "name": "Rave Radio"
+                }
+              ],
+              "id": "57fa19ed-c5b4-4df9-9153-f4139efaeb02",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Wild Summer 2014",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "3d411ef4-f7ea-4545-abe6-cb72b5ff674a",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "MNM Big Hits 2013, Vol. 3",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "c77ef93b-7fda-30e9-bb7f-7f9629f07333",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "NRJ Dance 2013",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "c41f3ce3-64f7-477d-9768-2bb81710c5aa",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "So Fresh: The Hits of Spring 2013",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "28da320b-45ab-48a1-984f-633687a80c44",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Future Trance 66",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "5e327885-307e-4099-b316-8743fb2d8821",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Ultimate Fitness",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "35689ef9-56f2-4e8e-b93a-cf97930142a8",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Energy NRJ: Hit Music Only! Best of 2013, Volume 2",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "12bb762a-7ae6-485f-946c-1a41f8d51ba8",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "NRJ Winter Hits 2014",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "4b11c2d0-b900-49d6-acc5-a104f8cfdeb1",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "NRJ Hits 2014",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "8dd98bdc-80ec-4e93-8509-2f46bafc09a7",
+                  "name": "Calvin Harris"
+                }
+              ],
+              "id": "98432828-5764-4892-9e3f-9c674cf70acb",
+              "title": "18 Months",
+              "type": "Album"
+            }
+          ],
+          "title": "Thinking About You"
+        }
+      ],
+      "score": 0.910063
+    },
+    {
+      "id": "398fc5ec-54db-4e03-871f-a2455b692f76",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "8dd98bdc-80ec-4e93-8509-2f46bafc09a7",
+              "joinphrase": " feat. ",
+              "name": "Calvin Harris"
+            },
+            {
+              "id": "3813a063-9d78-435e-afde-e996053dcc65",
+              "name": "Ayah Marar"
+            }
+          ],
+          "duration": 247,
+          "id": "09745817-a10e-441f-a5ca-16dd3511c9f2",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "22a58432-3e64-433c-b494-32d32d5bc503",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Chartboxx 1/2014",
+              "type": "Album"
+            }
+          ],
+          "title": "Thinking About You"
+        },
+        {
+          "id": "2d44dc12-4247-4cd5-8432-0089fe4a259f"
+        },
+        {
+          "artists": [
+            {
+              "id": "8dd98bdc-80ec-4e93-8509-2f46bafc09a7",
+              "joinphrase": " feat. ",
+              "name": "Calvin Harris"
+            },
+            {
+              "id": "3813a063-9d78-435e-afde-e996053dcc65",
+              "name": "Ayah Marar"
+            }
+          ],
+          "duration": 247,
+          "id": "72312ebb-d645-46c1-82b5-7d777b7d2925",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "eaec981d-00f5-49ed-a8fe-2a7a5eb38d0f",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Dream Dance, Vol. 69",
+              "type": "Album"
+            }
+          ],
+          "title": "Thinking About You"
+        },
+        {
+          "artists": [
+            {
+              "id": "8dd98bdc-80ec-4e93-8509-2f46bafc09a7",
+              "joinphrase": " feat. ",
+              "name": "Calvin Harris"
+            },
+            {
+              "id": "3813a063-9d78-435e-afde-e996053dcc65",
+              "name": "Ayah Marar"
+            }
+          ],
+          "duration": 206,
+          "id": "75b6fad5-e9e4-4731-828a-784aaafacd5f",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "78db97cc-e6c1-4122-a314-4c0cd34ba004",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Bravo Hits 83",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "65ae48c0-1e28-453c-a2e3-aa172222d424",
+              "secondarytypes": [
+                "Compilation",
+                "DJ-mix"
+              ],
+              "title": "Club Sounds: The Ultimate Club Dance Collection, Vol. 67",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "dc3dfbca-d5de-458d-8254-1f41657376b6",
+              "secondarytypes": [
+                "Soundtrack"
+              ],
+              "title": "Berlin Tag & Nacht 4",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "0c38d1fb-1c13-4d04-897f-9bbcaa9751de",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Absolute Music 74",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "dc044947-0ebf-4ad4-9004-22e7257fc865",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "538 Dance Smash: Hits of the Year 2013",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "a0167f2a-dc87-49d1-b9bf-88013a8907a5",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Now That’s What I Call Music! 86",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "007babc4-bf12-46b9-9fc7-17774ae1f6e1",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Radio 538: Hitzone 67",
+              "type": "Album"
+            }
+          ],
+          "title": "Thinking About You"
+        },
+        {
+          "artists": [
+            {
+              "id": "8dd98bdc-80ec-4e93-8509-2f46bafc09a7",
+              "joinphrase": " feat. ",
+              "name": "Calvin Harris"
+            },
+            {
+              "id": "3813a063-9d78-435e-afde-e996053dcc65",
+              "name": "Ayah Marar"
+            }
+          ],
+          "duration": 241,
+          "id": "898c8905-0348-4568-9a7b-9c8479cb9653",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "e4511d51-b6fe-4007-94ed-db2443007234",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Now That’s What I Call Club Hits",
+              "type": "Album"
+            }
+          ],
+          "title": "Thinking About You"
+        },
+        {
+          "artists": [
+            {
+              "id": "8dd98bdc-80ec-4e93-8509-2f46bafc09a7",
+              "joinphrase": " feat. ",
+              "name": "Calvin Harris"
+            },
+            {
+              "id": "3813a063-9d78-435e-afde-e996053dcc65",
+              "name": "Ayah Marar"
+            }
+          ],
+          "duration": 247,
+          "id": "ea7e03d4-6306-4e4b-94e3-27d56b1c5a2a",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "fac8e528-5ad8-4169-90e9-5c1c9162770a",
+                  "joinphrase": " & ",
+                  "name": "Reece Low"
+                },
+                {
+                  "id": "ab56c2bd-bd9b-4f56-b99a-df13216fb91a",
+                  "name": "Rave Radio"
+                }
+              ],
+              "id": "57fa19ed-c5b4-4df9-9153-f4139efaeb02",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Wild Summer 2014",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "3d411ef4-f7ea-4545-abe6-cb72b5ff674a",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "MNM Big Hits 2013, Vol. 3",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "c77ef93b-7fda-30e9-bb7f-7f9629f07333",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "NRJ Dance 2013",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "c41f3ce3-64f7-477d-9768-2bb81710c5aa",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "So Fresh: The Hits of Spring 2013",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "28da320b-45ab-48a1-984f-633687a80c44",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Future Trance 66",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "5e327885-307e-4099-b316-8743fb2d8821",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Ultimate Fitness",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "35689ef9-56f2-4e8e-b93a-cf97930142a8",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Energy NRJ: Hit Music Only! Best of 2013, Volume 2",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "12bb762a-7ae6-485f-946c-1a41f8d51ba8",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "NRJ Winter Hits 2014",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "4b11c2d0-b900-49d6-acc5-a104f8cfdeb1",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "NRJ Hits 2014",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "8dd98bdc-80ec-4e93-8509-2f46bafc09a7",
+                  "name": "Calvin Harris"
+                }
+              ],
+              "id": "98432828-5764-4892-9e3f-9c674cf70acb",
+              "title": "18 Months",
+              "type": "Album"
+            }
+          ],
+          "title": "Thinking About You"
+        }
+      ],
+      "score": 0.909419
+    },
+    {
+      "id": "9e8c9f2a-88df-45fe-be64-a710f54dd542",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "8dd98bdc-80ec-4e93-8509-2f46bafc09a7",
+              "joinphrase": " feat. ",
+              "name": "Calvin Harris"
+            },
+            {
+              "id": "3813a063-9d78-435e-afde-e996053dcc65",
+              "name": "Ayah Marar"
+            }
+          ],
+          "duration": 232,
+          "id": "693820d1-f548-416e-8c01-bd5ada78bf0a",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "5ac68141-a83a-46f0-84ab-6295132a33a8",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Ultra Music Festival 2014",
+              "type": "Album"
+            }
+          ],
+          "title": "Thinking About You"
+        },
+        {
+          "artists": [
+            {
+              "id": "8dd98bdc-80ec-4e93-8509-2f46bafc09a7",
+              "joinphrase": " feat. ",
+              "name": "Calvin Harris"
+            },
+            {
+              "id": "3813a063-9d78-435e-afde-e996053dcc65",
+              "name": "Ayah Marar"
+            }
+          ],
+          "duration": 240,
+          "id": "6c365b66-e4e1-4260-bc42-3c9f427924d3",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "a8b1e96f-0d32-480a-8078-2735d43e3d7b",
+              "secondarytypes": [
+                "Compilation",
+                "DJ-mix"
+              ],
+              "title": "MuchDance 2014",
+              "type": "Album"
+            }
+          ],
+          "title": "Thinking About You"
+        }
+      ],
+      "score": 0.879283
+    }
+  ],
+  "status": "ok"
+}

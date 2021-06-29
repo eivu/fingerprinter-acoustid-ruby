@@ -1,0 +1,43 @@
+{
+  "results": [
+    {
+      "id": "0eb2371b-c6f3-48c8-a31d-ef5cf7a6cc14",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "fc7376fe-1a6f-4414-b4a7-83f50ed59c92",
+              "name": "Flying Lotus"
+            }
+          ],
+          "duration": 174,
+          "id": "1fc82973-e619-41d1-b635-8ee2c1d4c91c",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "000e3783-adf1-452d-8da2-58203ca174ea",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Ninja Tune Publishing & Synch Sampler, Volume 16",
+              "type": "Album"
+            },
+            {
+              "id": "eb9e0983-2478-4494-a8e2-e4117c2ba40f",
+              "title": "Until the Quiet Comes",
+              "type": "Album"
+            }
+          ],
+          "title": "Putty Boy Strut"
+        }
+      ],
+      "score": 0.993625
+    }
+  ],
+  "status": "ok"
+}

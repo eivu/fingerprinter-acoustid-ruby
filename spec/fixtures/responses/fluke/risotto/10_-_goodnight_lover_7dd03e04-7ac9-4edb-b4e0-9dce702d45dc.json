@@ -1,0 +1,29 @@
+{
+  "results": [
+    {
+      "id": "df9e0d0c-0c33-4a71-9a9d-d310f7330370",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "3c3d3ad8-3935-4c00-affb-768563916f36",
+              "name": "Fluke"
+            }
+          ],
+          "duration": 454,
+          "id": "c9fa1662-7098-4fa4-8b1f-0c5a0478ced8",
+          "releasegroups": [
+            {
+              "id": "50615933-ee44-33a2-b6e1-75f9dd35b937",
+              "title": "Risotto",
+              "type": "Album"
+            }
+          ],
+          "title": "Goodnight Lover"
+        }
+      ],
+      "score": 0.98058
+    }
+  ],
+  "status": "ok"
+}

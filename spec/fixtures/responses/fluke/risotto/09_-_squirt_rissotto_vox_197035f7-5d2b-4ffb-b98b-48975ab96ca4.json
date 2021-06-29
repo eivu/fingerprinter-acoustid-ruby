@@ -1,0 +1,29 @@
+{
+  "results": [
+    {
+      "id": "b8c2303c-0c25-46f5-9599-83837838d542",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "3c3d3ad8-3935-4c00-affb-768563916f36",
+              "name": "Fluke"
+            }
+          ],
+          "duration": 375,
+          "id": "53ec3a7c-004d-4a98-b752-0076256abbd4",
+          "releasegroups": [
+            {
+              "id": "50615933-ee44-33a2-b6e1-75f9dd35b937",
+              "title": "Risotto",
+              "type": "Album"
+            }
+          ],
+          "title": "Squirt"
+        }
+      ],
+      "score": 0.986755
+    }
+  ],
+  "status": "ok"
+}

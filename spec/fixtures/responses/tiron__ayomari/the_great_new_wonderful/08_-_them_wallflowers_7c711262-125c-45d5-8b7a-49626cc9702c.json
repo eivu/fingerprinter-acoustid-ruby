@@ -1,0 +1,33 @@
+{
+  "results": [
+    {
+      "id": "534840df-66b4-4c15-a8df-902366513394",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "c76cfef6-a009-4c56-8dfd-90592df12808",
+              "joinphrase": " & ",
+              "name": "TiRon"
+            },
+            {
+              "id": "e62bfb07-c6a6-451b-9c5a-c7a7992ef734",
+              "name": "Ayomari"
+            }
+          ],
+          "id": "8fb58451-9541-41b6-9769-481a7dab8bd3",
+          "releasegroups": [
+            {
+              "id": "c9ec4851-f544-4f54-8e28-074ab61d937a",
+              "title": "The Great New Wonderful",
+              "type": "Album"
+            }
+          ],
+          "title": "Them Wallflowers"
+        }
+      ],
+      "score": 0.937368
+    }
+  ],
+  "status": "ok"
+}

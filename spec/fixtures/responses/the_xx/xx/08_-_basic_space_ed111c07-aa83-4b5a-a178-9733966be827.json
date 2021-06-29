@@ -1,0 +1,102 @@
+{
+  "results": [
+    {
+      "id": "86e50afb-a25f-4fd8-b17d-a8026ecfca6d",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "c5c2ea1c-4bde-4f4d-bd0b-47b200bf99d6",
+              "name": "The xx"
+            }
+          ],
+          "duration": 188,
+          "id": "8afec71e-8d69-4160-a0f2-8a8fcc2fc84b",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "c5c2ea1c-4bde-4f4d-bd0b-47b200bf99d6",
+                  "name": "The xx"
+                }
+              ],
+              "id": "23355caf-a543-4b5f-80fe-449101868fc1",
+              "title": "xx",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "6ad022ae-bd1e-4d8f-abf0-9a66af3afaf1",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Do Not Disturb, Volume 3",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "c5c2ea1c-4bde-4f4d-bd0b-47b200bf99d6",
+                  "name": "The xx"
+                }
+              ],
+              "id": "5e60b0a1-bd0b-4134-93de-0e0aa70f5203",
+              "title": "Basic Space",
+              "type": "Single"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "b3c4236a-619c-4224-afb1-c11f9a157878",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Amazon Sampler",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "0e6f73b6-e191-4ceb-a421-34331d412505",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Rough Trade Shops: Counter Culture 09",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "0965c079-5c11-412e-a0ab-dea4b905b642",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Popgun! 61 – Spreeblick-Download-Sommer-Sampler-2009",
+              "type": "Album"
+            }
+          ],
+          "title": "Basic Space"
+        }
+      ],
+      "score": 0.955169
+    }
+  ],
+  "status": "ok"
+}

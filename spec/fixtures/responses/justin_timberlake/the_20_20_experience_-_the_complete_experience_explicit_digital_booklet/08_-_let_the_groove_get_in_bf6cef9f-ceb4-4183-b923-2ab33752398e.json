@@ -1,0 +1,103 @@
+{
+  "results": [
+    {
+      "id": "a217288c-923c-4854-b006-5b1f8e2b57bb",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "596ffa74-3d08-44ef-b113-765d43d12738",
+              "name": "Justin Timberlake"
+            }
+          ],
+          "duration": 431,
+          "id": "0e9fc58d-b993-4ca6-b2d1-c98128a6b7f8",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "596ffa74-3d08-44ef-b113-765d43d12738",
+                  "name": "Justin Timberlake"
+                }
+              ],
+              "id": "deae6fc2-a675-4f35-9565-d2aaea4872c7",
+              "title": "The 20/20 Experience",
+              "type": "Album"
+            },
+            {
+              "id": "fe51b20f-83e4-49dd-9a36-b8d4da138325",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "The Complete 20/20 Experience",
+              "type": "Album"
+            }
+          ],
+          "title": "Let the Groove Get In"
+        },
+        {
+          "artists": [
+            {
+              "id": "36c0dd6e-2968-4f68-b092-1050fdf4d675",
+              "name": "Juliette"
+            }
+          ],
+          "duration": 446,
+          "id": "104b47fa-8402-464c-9233-c6e249266945",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "36c0dd6e-2968-4f68-b092-1050fdf4d675",
+                  "name": "Juliette"
+                }
+              ],
+              "id": "a671c54e-a316-375f-b87f-789c210b0eba",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Juliette",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "36c0dd6e-2968-4f68-b092-1050fdf4d675",
+                  "name": "Juliette"
+                }
+              ],
+              "id": "563338dc-447a-4c10-a86e-d91c12b8fe7b",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Intégrale des albums en 13 CD + 1 CD raretés",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "36c0dd6e-2968-4f68-b092-1050fdf4d675",
+                  "name": "Juliette"
+                }
+              ],
+              "id": "af49dba2-4efe-301d-9ec4-9f7beff5768a",
+              "title": "Irrésistible",
+              "type": "Album"
+            },
+            {
+              "id": "aa21ce2b-1219-4b21-a5a7-5023f20162cb",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Les 50 Plus Belles Chansons",
+              "type": "Album"
+            }
+          ],
+          "title": "Monsieur Vénus"
+        }
+      ],
+      "score": 0.990846
+    }
+  ],
+  "status": "ok"
+}

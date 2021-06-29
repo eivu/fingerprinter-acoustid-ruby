@@ -1,0 +1,182 @@
+{
+  "results": [
+    {
+      "id": "1bd75a70-ac01-4054-944f-091caf1caeb8",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "c47026a1-3300-4cf7-80df-8b9462a884e4",
+              "joinphrase": " & ",
+              "name": "Richard M. Sherman"
+            },
+            {
+              "id": "d378dedb-444f-48f5-a6e6-3e8e31ef6c14",
+              "name": "Robert B. Sherman"
+            }
+          ],
+          "duration": 126,
+          "id": "58fa33d7-f47b-4a7b-9e93-d950dd135239",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "6760872a-d102-336a-b1b0-f17a75a1912c",
+              "secondarytypes": [
+                "Compilation",
+                "Soundtrack"
+              ],
+              "title": "Classic Disney, Volume IV: 60 Years of Musical Magic",
+              "type": "Album"
+            }
+          ],
+          "title": "The Jungle Book: That's What Friends Are For"
+        },
+        {
+          "artists": [
+            {
+              "id": "cefac1f0-fa50-4a81-9bbd-fe3df803bfc1",
+              "joinphrase": ", ",
+              "name": "Chad Stuart"
+            },
+            {
+              "id": "29690718-02ca-4c57-9133-b33aa6fae401",
+              "joinphrase": ", ",
+              "name": "J. Pat O'Malley"
+            },
+            {
+              "id": "f3ae08e0-d86f-4cba-a96a-7ab1a3c11afe",
+              "joinphrase": ", ",
+              "name": "Lord Tim Hudson"
+            },
+            {
+              "id": "9d6034a5-2718-47fe-b3c5-49531f3a2943",
+              "joinphrase": ", ",
+              "name": "Digby Wolfe"
+            },
+            {
+              "id": "402107aa-56fc-4d06-831d-8150a95a9c84",
+              "joinphrase": " and ",
+              "name": "Bruce Reitherman"
+            },
+            {
+              "id": "2e75a80a-cf67-41ff-8967-1ca992ec4f45",
+              "name": "Bill Lee"
+            }
+          ],
+          "duration": 126,
+          "id": "6a60792e-ab44-4a32-a61b-b326ba93bb49",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "4204e06b-d2e4-4823-b6f3-47f7593518cb",
+                  "joinphrase": ", ",
+                  "name": "George Bruns"
+                },
+                {
+                  "id": "c47026a1-3300-4cf7-80df-8b9462a884e4",
+                  "joinphrase": " & ",
+                  "name": "Richard M. Sherman"
+                },
+                {
+                  "id": "d378dedb-444f-48f5-a6e6-3e8e31ef6c14",
+                  "joinphrase": ", ",
+                  "name": "Robert B. Sherman"
+                },
+                {
+                  "id": "0a8df504-df94-4d77-a3c5-2b9e5c9727e2",
+                  "name": "Terry Gilkyson"
+                }
+              ],
+              "id": "1257fcdf-743f-3dff-9894-107b398fb777",
+              "secondarytypes": [
+                "Soundtrack"
+              ],
+              "title": "The Jungle Book: Original Cast Soundtrack",
+              "type": "Album"
+            }
+          ],
+          "title": "That’s What Friends Are For (The Vulture Song)"
+        },
+        {
+          "artists": [
+            {
+              "id": "29690718-02ca-4c57-9133-b33aa6fae401",
+              "joinphrase": ", ",
+              "name": "J. Pat O'Malley"
+            },
+            {
+              "id": "9d6034a5-2718-47fe-b3c5-49531f3a2943",
+              "joinphrase": ", ",
+              "name": "Digby Wolfe"
+            },
+            {
+              "id": "f3ae08e0-d86f-4cba-a96a-7ab1a3c11afe",
+              "joinphrase": ", ",
+              "name": "Tim Hudson"
+            },
+            {
+              "id": "f666ee36-5c6c-46d2-923a-39ce7f02ca34",
+              "joinphrase": " and ",
+              "name": "Thurl Ravenscroft"
+            },
+            {
+              "id": "402107aa-56fc-4d06-831d-8150a95a9c84",
+              "name": "Bruce Reitherman"
+            }
+          ],
+          "duration": 125,
+          "id": "caab3b85-3446-4e73-ab71-ba1fa68ecc37",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "207a7e33-0cfe-4f5f-a573-b65a4159c047",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Now That's What I Call Disney 3",
+              "type": "Album"
+            }
+          ],
+          "title": "That's What Friends Are For (The Vulture Song)"
+        },
+        {
+          "artists": [
+            {
+              "id": "f666ee36-5c6c-46d2-923a-39ce7f02ca34",
+              "name": "Thurl Ravenscroft"
+            }
+          ],
+          "duration": 126,
+          "id": "fddf0d77-18a8-4784-95fe-5bf5568b6361",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "ca5349b9-2597-4fc8-aabb-31f7a00a7478",
+              "title": "Disney Ultimate Buddy Collection",
+              "type": "Album"
+            }
+          ],
+          "title": "That's What Friends Are For (The Vulture Song)"
+        }
+      ],
+      "score": 0.989386
+    }
+  ],
+  "status": "ok"
+}

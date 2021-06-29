@@ -1,0 +1,75 @@
+{
+  "results": [
+    {
+      "id": "06cd1063-dddf-4a2c-8169-18f1e0167f74",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "596ffa74-3d08-44ef-b113-765d43d12738",
+              "name": "Justin Timberlake"
+            }
+          ],
+          "duration": 424,
+          "id": "25c4070c-bab9-496f-a304-7cad1ba908b0",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "596ffa74-3d08-44ef-b113-765d43d12738",
+                  "name": "Justin Timberlake"
+                }
+              ],
+              "id": "7cc6c164-bd3d-4920-9342-9cb8cd87d8de",
+              "title": "The 20/20 Experience (2 of 2)",
+              "type": "Album"
+            },
+            {
+              "id": "fe51b20f-83e4-49dd-9a36-b8d4da138325",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "The Complete 20/20 Experience",
+              "type": "Album"
+            }
+          ],
+          "title": "Amnesia"
+        },
+        {
+          "artists": [
+            {
+              "id": "596ffa74-3d08-44ef-b113-765d43d12738",
+              "name": "Justin Timberlake"
+            }
+          ],
+          "duration": 424,
+          "id": "a4e28d53-a492-40f3-9f03-d4465235922f",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "596ffa74-3d08-44ef-b113-765d43d12738",
+                  "name": "Justin Timberlake"
+                }
+              ],
+              "id": "7cc6c164-bd3d-4920-9342-9cb8cd87d8de",
+              "title": "The 20/20 Experience (2 of 2)",
+              "type": "Album"
+            },
+            {
+              "id": "fe51b20f-83e4-49dd-9a36-b8d4da138325",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "The Complete 20/20 Experience",
+              "type": "Album"
+            }
+          ],
+          "title": "Amnesia"
+        }
+      ],
+      "score": 0.986089
+    }
+  ],
+  "status": "ok"
+}

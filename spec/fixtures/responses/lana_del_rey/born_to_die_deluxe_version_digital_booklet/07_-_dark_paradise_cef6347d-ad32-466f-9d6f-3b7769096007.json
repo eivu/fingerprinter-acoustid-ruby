@@ -1,0 +1,119 @@
+{
+  "results": [
+    {
+      "id": "0b95628c-226d-4c6f-aa00-85d266cdf402",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "b7539c32-53e7-4908-bda3-81449c367da6",
+              "name": "Lana Del Rey"
+            }
+          ],
+          "duration": 243,
+          "id": "39973f6c-4d2f-4683-947c-10f74f909cfe",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "b7539c32-53e7-4908-bda3-81449c367da6",
+                  "name": "Lana Del Rey"
+                }
+              ],
+              "id": "c6c0ec90-3088-4bd2-8d05-d171adec6102",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Greatest Hits",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "b7539c32-53e7-4908-bda3-81449c367da6",
+                  "name": "Lana Del Rey"
+                }
+              ],
+              "id": "4b16a1bc-8644-48ae-9b3e-8ae36aa30cfc",
+              "title": "Born to Die",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "b7539c32-53e7-4908-bda3-81449c367da6",
+                  "name": "Lana Del Rey"
+                }
+              ],
+              "id": "5b1d75d2-e253-47fc-98c1-584e409f6b29",
+              "title": "Dark Paradise",
+              "type": "Single"
+            },
+            {
+              "artists": [
+                {
+                  "id": "b7539c32-53e7-4908-bda3-81449c367da6",
+                  "name": "Lana Del Rey"
+                }
+              ],
+              "id": "968fa2f6-1b7e-428e-86ea-6d9dd2e6e204",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Greatest Songs",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "9ca34541-a427-4c7e-82ef-18a3687ec784",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Chartboxx 4/2013",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "b7539c32-53e7-4908-bda3-81449c367da6",
+                  "name": "Lana Del Rey"
+                }
+              ],
+              "id": "153a4039-dbef-44f2-ab4a-3135c3b3d9b0",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Greatest Hits",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "60a250ac-dd2c-44a0-a064-e039b2a158f3",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Ö3 Greatest Hits 62",
+              "type": "Album"
+            }
+          ],
+          "title": "Dark Paradise"
+        },
+        {
+          "id": "4e6a491d-36f2-4396-81fa-6534180fbb81"
+        }
+      ],
+      "score": 0.934797
+    }
+  ],
+  "status": "ok"
+}

@@ -1,0 +1,72 @@
+{
+  "results": [
+    {
+      "id": "09e3e3d8-7177-42ef-848c-3258b1088bc1",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "596ffa74-3d08-44ef-b113-765d43d12738",
+              "name": "Justin Timberlake"
+            }
+          ],
+          "duration": 485,
+          "id": "c01bd40c-5f23-4c34-9238-7a5f226f6c0e",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "596ffa74-3d08-44ef-b113-765d43d12738",
+                  "name": "Justin Timberlake"
+                }
+              ],
+              "id": "d67d4cba-b1de-4edb-8262-1822a3ec11a0",
+              "title": "Mirrors",
+              "type": "Single"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "bb8c0f46-5f0e-4952-aa72-9e5d164cf2ff",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Songs for the Philippines",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "596ffa74-3d08-44ef-b113-765d43d12738",
+                  "name": "Justin Timberlake"
+                }
+              ],
+              "id": "deae6fc2-a675-4f35-9565-d2aaea4872c7",
+              "title": "The 20/20 Experience",
+              "type": "Album"
+            },
+            {
+              "id": "fe51b20f-83e4-49dd-9a36-b8d4da138325",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "The Complete 20/20 Experience",
+              "type": "Album"
+            }
+          ],
+          "title": "Mirrors"
+        }
+      ],
+      "score": 0.993407
+    },
+    {
+      "id": "7bdb7527-a47f-45c2-8bef-182d98950fc3",
+      "score": 0.536195
+    }
+  ],
+  "status": "ok"
+}

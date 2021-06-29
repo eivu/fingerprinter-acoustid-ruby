@@ -1,0 +1,40 @@
+{
+  "results": [
+    {
+      "id": "c3d32d98-6260-4207-94f7-1e01c18f21ef",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "fc7376fe-1a6f-4414-b4a7-83f50ed59c92",
+              "joinphrase": " feat. ",
+              "name": "Flying Lotus"
+            },
+            {
+              "id": "dce804b7-e9cd-442d-85b2-a310e6ba7334",
+              "name": "Laura Darlington"
+            }
+          ],
+          "duration": 231,
+          "id": "e3c5a477-e63b-4bf1-9bb6-507561172506",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "fc7376fe-1a6f-4414-b4a7-83f50ed59c92",
+                  "name": "Flying Lotus"
+                }
+              ],
+              "id": "eb9e0983-2478-4494-a8e2-e4117c2ba40f",
+              "title": "Until the Quiet Comes",
+              "type": "Album"
+            }
+          ],
+          "title": "Phantasm"
+        }
+      ],
+      "score": 0.998879
+    }
+  ],
+  "status": "ok"
+}

@@ -1,0 +1,29 @@
+{
+  "results": [
+    {
+      "id": "7237316a-ce5d-419a-baf8-ab0062205ae4",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "8dd98bdc-80ec-4e93-8509-2f46bafc09a7",
+              "name": "Calvin Harris"
+            }
+          ],
+          "duration": 231,
+          "id": "5bdecf1b-c440-45ee-a858-8cf3948b8e8f",
+          "releasegroups": [
+            {
+              "id": "98432828-5764-4892-9e3f-9c674cf70acb",
+              "title": "18 Months",
+              "type": "Album"
+            }
+          ],
+          "title": "Awooga"
+        }
+      ],
+      "score": 0.93495
+    }
+  ],
+  "status": "ok"
+}

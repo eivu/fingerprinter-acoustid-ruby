@@ -1,0 +1,82 @@
+---
+http_interactions:
+- request:
+    method: get
+    uri: https://api.acoustid.org/v2/lookup?client=<ACOUSTID_CLIENT_ID>&duration=255&fingerprint=AQADtMoSJ4qSZEnwLHgmYfph3Yj0HDpzMJHGB6GbYJ6CH2Em48whUoLPI7RjXMnRSFuOz0jjoo0vQHuGf0dTyZAlJvh2hIcZ9bCl_LgeTDnxEGFU-eh96AeTXDnOg3sqeFyMWjmu4XKMKYeuwZJ047zRHHqOynoqhMlQi6-w8Yj645aCPrmgfUfKEL1R-3CmFNZ89LrQp0Wk5G2ghRNCPTia80Gn40qHUHAnaI8k4mKMSPrgHhaF60i_FT2PTos6iOVxHR55HH-mQdOjo0cjMhRy5fjRuPAZTFaOnkXz4coUNOeGI1MWHb0OKfzx5_CK0OJxKUuM0EqwnXi2QHT0w5rRD_miHOElwj2-Hs6PE8-gMxEcozVuoZvwoiUBLT9CS8_Q4pdxSzj3wc8wM0e6D8kZmNKHKw9-Eac0dEbsHb2UE5KmH16k6-iPngZl69BM4c49_BuafKjlQ2eOXUHZ4zvyHE1OzPioBM2P_mgq6WiPM0QyHmnRKpmLjzEqnYKdBNa0CN-R5ocu5UMmKhfK5-gZHtRzhNd26IouxDqqoPmMK3KG6JGQfLht3MMkZ0ezp3gyfDuaLcGPlNEF7UXJbEj7oueRJ1GKH3wYaHuOJlzaIcf1o-Xh8cKN9EEfcBQbovQJMRn648mJ6Tj-EK0qKPIWHmF-_EKPhhGp4Qsa5wgP_RPCX2iIP4qF60Nz4tGO5gr4ITxznN-GpEqUB06ZBg_xw9YMjzn-CKk_9EwFPSqYKMvBPIf2Iz1H-CiPdg-8Bz9cabiEPMwgnUWaHvWHZ3HQMDq-waFC5J0Ox4kI_o3hRbpQMkd4Hv7RGxyn6OiONPqgWUceHZ-wB_9x5sKkJmiUS_gSZXiO5jm-UDqaLDzypdA5hLnRJqGPL4uDE2V7fEKcNTnu5KCqB97yiSizo4df9AevRIbqF1VehOmPM3iMdvmEbSvhv9g-9BRxdUFboYmWbEF_NDuJPAv00QiP5ifORClehGIT9BIk-qjMG-4FjVE4lMyH3OgT_Mh13EeprmCSMMYPHdPRHH2M5kP4Hz6PP4ero0cfw7WF6IG-Ig2NMxWuKBe8nUItBn2E9NA-5H_Aahce5ah-2NnRg2W2I9SRfDKaL7hioVXxMBdehId25XDFGemyXCh3dJWMMBZUjsezo4xPeHrQMyRUikEYhcnxHNcG1xnOw1HhF5G65cH6FFpynCl-KLeh_rA1oytj9Bl8znhTw88ufJcg3vCpoMe041Thn9AVHA-aiik-hY-g7wijdOlQ0cdzXKLQZzHMoTz-GKFEiGeFc0cukTo8TkKfXIjJDYqmFf6Qr4epSBjpDP4RvoXWH2kuvMbFHM4343uRT4a-Cz7SH-8RUhtRMXtg-eiZQ3-O77g6Cz-mH9YU6ejxfLiEKxxRK4eY5-jyitgVITbRfEatLCHOI-xfeDzE7_gRpzy8E_kx6EF6HpcPx8SpY8qjCmfQ_7CUD5WY5SjZGr5aJOSK8MeNvelwrg16WPlxGXEPzUb4HH62o3wQfblQ64Ke4cthNTt-NPRxH5oVjkLqXNh-lHKMfehzNPXxY2pE7DJxHe2OUKQM69Ce7IjNGC98-vhzPGhOUGbyCveDL6DG43pgawh1qejCzPhh7pByHT_KnviFHk9RNoeWKDuF88Jv42IrlOEeSPrQH1eGg5eOy0iTSPjwu_gH-sOV8Kh1NHFYdJXgvAjtQ6ePHM2PUspKPK_w6-izH_EPHemZwIoe7ErqEc14HFfwZSdCLkHDNoSOH22cUIPJYT-aSNIHvRvx_eizZGD94nlx5tDy46bxlEFzFpp5sEqOMFyUPOhf_EZFKka3BB9m6vCRB2-iHKofodbh42FxES51_IMeONJGoWOYIUd1IX2E6cfDQ-qHukfqTsF3VFpyPPdRpDt0CeEjlWCp4eNwnIl3NDsTBh2-ZTgZHcd3vHpRHWHEaSGEuMnRjDyqbwX6RDnOF1V5lD688Pgy4pEMPwt-PIfjB30-IS-mPBJuiEf1PcXzYwqPfqjEw5sOf8eJMwT_44Sv48qPB98RC4--wJdyfMIP_3iP_KDynKhwaDn6hMfDFv_RJw9-fDP8oN4jaDxMycMPy8d1fEEOH-VyJfiW40LjJCr6tiCH_0jOJcilC63gNcrQH_3hsDHC-VB1ND-R5fZxZceL9h5-Gml0od6O50SbZYZHWERFH5eI5llQ6of-QU8oBefR_KiqhbiW40dlyTI09glqoln24clxVK_QyOWhHg9SnFGMqT3-oC_eSUP4E41S5fiY4UxyNPEFVzdOKF8On6iJ5_ikVdD2GM3WfDhuHbWyqIH04FJ-mBFOHvwh5iQeZoh_NAz2HI-yw9WQH7qO5uOOfGhiHmVuNPkR_US_Q-wGn0PITGBvnMNFFd0fpM-Pirxx5MqFB1-CZpl03MUT_bCK2AT0o1mUK3hysF9RmYdFSdCNHJWPL20QMtNBReuhJ1JxUMchPkHIvfh4PItQDs2T49uQ5SqhUolyhNwr9DBH_PgET6LAyFl8xPnR8ND8CHmiCD2Onhx-NPERTgqDR4fGHi8joupxSUafwWhPXMyNJ0OlD1qsHb_Qb0Xs440Z_IU5_Eh98BIYiVnwo8mPWh-OvjFM4jy8Q3wulMvxPUczHjevwc7RHxql8DBHojRu_EpwHY2mLEfRH9ePNuJxHZeOM9DD4tKOcqE4nLUGWWhivMd3AE8VIIoAAhBkAhBkBAQKAIKAEkAghhhiAiEhiDLKEAAUQsIBIgABAAABOBDCCEIpAAACBAByRAADhBAHACiccwYYRQSCzAAhgAFEAEMEI0AAIwwgFBAiABICGIOIQMQgIoASQAACBBIKEIGoAQpACqSDACAgCCPIGGiMAMo4IYwAgBAAKSLCEQIYQIQaoQRAgAmhSHGAEAqYQUwJwZwxwFAhDVIIGAGAYUAQYQQgwDDBjVFOIEQIQwJRJBxxADDFDAEGEGIUIgIIyJAyxhAhGGBGACAJQQxJYbBSBgAFkFKAAoIcIAooIhAATihhASBUIKKMBAg4AYxxImAlhALAGCCIUMYwYQBBCBBBCDAAMGGNgIIgYQBRgBHAADIQMAgBIY0CgYAAAAiAkFAECKDAA4AAoQwQQBBhiADACAOMIQgJJhRDABEJEGCCEOEAEEACxAACihFgAAJCEKIMMAIAJKhhCBADBBMMEQABUAQRYIlCmihAJCAEASAAlUQIpAAVSFnjjORAKCCIMA4AgoxiAgAqAKJAKKOpEEIJAgAVClKhoAOAMUUgMs4IA5QBBBgBgBAQOGBEZEI85IhADAiBDCEEIAAoMUAJIsSQUABjiJKEAW8EUIYgJyCAgBCIBCBCEEAMKcIQQoARjgljqFYAEOGQAAgYDIASCBiEEDBEECKCQMIARowBgABSgEAIEeMSAMIAAgzhCCFJhFHOKUMAAgJIAYURBihhDBAAASaUAUQIwoASAhqCgEFIEAMkA0dYUxyhAggFjBAGcMQANUAYDwwjhBBgCBBCEGQMY0IQwIhgyAgCBAGSIEAEcIaQAoACghnDCHJEKSSAEYhRZwQzTCgANEFKCKEYYgpRSBwAwhHhEFDKCaEMUYIIBYSzADmgpBVAAQAEAEgohgCAigkFBBHKEsQQAsABBwA&meta=recordings%20releasegroups%20compress
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      Accept:
+      - "*/*"
+      User-Agent:
+      - rest-client/2.1.0 (darwin20.3.0 x86_64) ruby/2.7.1p83
+      Accept-Encoding:
+      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+      Host:
+      - api.acoustid.org
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Date:
+      - Tue, 29 Jun 2021 21:24:25 GMT
+      Content-Type:
+      - application/json; charset=UTF-8
+      Transfer-Encoding:
+      - chunked
+      Connection:
+      - keep-alive
+      Vary:
+      - Accept-Encoding
+      Access-Control-Allow-Origin:
+      - "*"
+      X-Envoy-Upstream-Service-Time:
+      - '163'
+      Strict-Transport-Security:
+      - max-age=15724800; includeSubDomains
+    body:
+      encoding: ASCII-8BIT
+      string: '{"results": [{"id": "57e0e0ff-914f-437f-88e8-92b1a86bcae1", "recordings":
+        [{"artists": [{"id": "5caf18ba-44db-44d4-a6a3-828970a685f4", "name": "Kym
+        Mazelle"}], "duration": 255, "id": "1a584a01-a327-4541-8e7a-7c8abbcc4aa0",
+        "releasegroups": [{"id": "f4b382f9-5f33-4b04-84b1-2189bc99bb73", "title":
+        "Young Hearts Run Free", "type": "Single"}], "title": "Young Hearts Run Free
+        (original version)"}, {"id": "32f75327-3d96-42b8-907d-a8cf542715cc"}, {"id":
+        "78736994-35ba-4d49-9221-2ec6cb869393"}, {"artists": [{"id": "5caf18ba-44db-44d4-a6a3-828970a685f4",
+        "name": "Kym Mazelle"}], "duration": 255, "id": "f1bbf041-0828-4d3a-9496-715f200c4905",
+        "releasegroups": [{"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "79b5b1c3-7b53-4d06-8e3b-7e8eb6ac1ccb",
+        "secondarytypes": ["Compilation"], "title": "Hitbreaker: Pop News 4/97", "type":
+        "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name":
+        "Various Artists"}], "id": "7be8f2e1-3ad8-32f1-9e32-6a2b23c4af1c", "secondarytypes":
+        ["Compilation"], "title": "Empire 2002\u207a The Hottest Soundtracks\u2026
+        Now!", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "650ebbf1-e25c-3f13-ac2b-d98010c1c5ee",
+        "secondarytypes": ["Soundtrack"], "title": "William Shakespeare\u2019s Romeo
+        + Juliet: Music From the Motion Picture", "type": "Album"}, {"artists": [{"id":
+        "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}], "id":
+        "5eca7ad9-196f-44fb-a940-cf50c7001f3b", "secondarytypes": ["Compilation"],
+        "title": "Believe Your Ears : Soundsite Sampler February 97", "type": "Album"}],
+        "title": "Young Hearts Run Free"}], "score": 0.98113}, {"id": "c77b7e25-fed4-4ee0-9ea6-29f398b075e0",
+        "recordings": [{"id": "32f75327-3d96-42b8-907d-a8cf542715cc"}, {"id": "78736994-35ba-4d49-9221-2ec6cb869393"},
+        {"artists": [{"id": "5caf18ba-44db-44d4-a6a3-828970a685f4", "name": "Kym Mazelle"}],
+        "duration": 255, "id": "f1bbf041-0828-4d3a-9496-715f200c4905", "releasegroups":
+        [{"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various
+        Artists"}], "id": "79b5b1c3-7b53-4d06-8e3b-7e8eb6ac1ccb", "secondarytypes":
+        ["Compilation"], "title": "Hitbreaker: Pop News 4/97", "type": "Album"}, {"artists":
+        [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}],
+        "id": "7be8f2e1-3ad8-32f1-9e32-6a2b23c4af1c", "secondarytypes": ["Compilation"],
+        "title": "Empire 2002\u207a The Hottest Soundtracks\u2026 Now!", "type": "Album"},
+        {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various
+        Artists"}], "id": "650ebbf1-e25c-3f13-ac2b-d98010c1c5ee", "secondarytypes":
+        ["Soundtrack"], "title": "William Shakespeare\u2019s Romeo + Juliet: Music
+        From the Motion Picture", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "5eca7ad9-196f-44fb-a940-cf50c7001f3b",
+        "secondarytypes": ["Compilation"], "title": "Believe Your Ears : Soundsite
+        Sampler February 97", "type": "Album"}], "title": "Young Hearts Run Free"}],
+        "score": 0.947493}], "status": "ok"}'
+    http_version:
+  recorded_at: Tue, 29 Jun 2021 21:24:25 GMT
+recorded_with: VCR 3.0.3

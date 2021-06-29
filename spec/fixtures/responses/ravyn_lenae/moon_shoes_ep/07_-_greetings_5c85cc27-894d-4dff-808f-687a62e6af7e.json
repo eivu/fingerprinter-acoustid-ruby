@@ -1,0 +1,29 @@
+{
+  "results": [
+    {
+      "id": "99321c58-959e-4c74-a33e-a2e7600fc3b6",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "94c64122-dbd4-4927-b2fa-f204b0b4b0c2",
+              "name": "Ravyn Lenae"
+            }
+          ],
+          "duration": 161,
+          "id": "b9560d1f-ff1c-4996-991b-eb7c1becbcb8",
+          "releasegroups": [
+            {
+              "id": "74223740-723a-4b35-96c4-147d71c0d335",
+              "title": "Moon Shoes",
+              "type": "EP"
+            }
+          ],
+          "title": "Greetings"
+        }
+      ],
+      "score": 0.995781
+    }
+  ],
+  "status": "ok"
+}

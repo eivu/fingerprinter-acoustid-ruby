@@ -1,0 +1,40 @@
+{
+  "results": [
+    {
+      "id": "4e45d7c4-a133-4930-a42e-86710c4cb3b2",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "fc7376fe-1a6f-4414-b4a7-83f50ed59c92",
+              "joinphrase": " feat. ",
+              "name": "Flying Lotus"
+            },
+            {
+              "id": "044fd265-79dd-43eb-afc4-8b20becf7e17",
+              "name": "Thundercat"
+            }
+          ],
+          "duration": 79,
+          "id": "af51bb60-79a6-4a92-a8ff-d2f9c4bf4cfc",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "fc7376fe-1a6f-4414-b4a7-83f50ed59c92",
+                  "name": "Flying Lotus"
+                }
+              ],
+              "id": "eb9e0983-2478-4494-a8e2-e4117c2ba40f",
+              "title": "Until the Quiet Comes",
+              "type": "Album"
+            }
+          ],
+          "title": "DMT Song"
+        }
+      ],
+      "score": 0.93841
+    }
+  ],
+  "status": "ok"
+}

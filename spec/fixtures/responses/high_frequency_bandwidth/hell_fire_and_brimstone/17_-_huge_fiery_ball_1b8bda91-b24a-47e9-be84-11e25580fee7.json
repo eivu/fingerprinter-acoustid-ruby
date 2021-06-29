@@ -1,0 +1,29 @@
+{
+  "results": [
+    {
+      "id": "ff173538-9fc4-41b1-8cba-be68ea4954a6",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "9ddfc28e-9869-429e-8200-567dcf5ef008",
+              "name": "High Frequency Bandwidth"
+            }
+          ],
+          "duration": 166,
+          "id": "4d11c343-d8ab-45b7-a328-fd714d02b1a4",
+          "releasegroups": [
+            {
+              "id": "f42dafb1-e799-47f8-960f-5039cc4c729d",
+              "title": "Hell Fire and Brimstone",
+              "type": "Album"
+            }
+          ],
+          "title": "Huge Fiery Ball"
+        }
+      ],
+      "score": 0.979035
+    }
+  ],
+  "status": "ok"
+}

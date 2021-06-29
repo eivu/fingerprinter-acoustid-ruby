@@ -1,0 +1,903 @@
+{
+  "results": [
+    {
+      "id": "fd522917-8f70-4c8c-95ab-9844397db7f3",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "97b226c8-7140-4da3-91ac-15e62e131a81",
+              "joinphrase": " feat. ",
+              "name": "Macklemore & Ryan Lewis"
+            },
+            {
+              "id": "6c7f57c4-8f11-4c59-9d63-bca189f343c1",
+              "name": "Ray Dalton"
+            }
+          ],
+          "duration": 258,
+          "id": "25a2c3cc-0383-461a-a813-d22318df4b0f",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "c54b15a7-385f-43a1-a299-e0a5748dda3f",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "De Maxx Long Player 27",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "7d72da8d-72cf-4a05-ab1d-eee593956cb8",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Europa FM 2014",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "97b226c8-7140-4da3-91ac-15e62e131a81",
+                  "name": "Macklemore & Ryan Lewis"
+                }
+              ],
+              "id": "22315cdd-4ed9-427c-9492-560cf4afed58",
+              "title": "The Heist",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "3de20436-e665-4ff1-88ee-8a8bc28e3b5a",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "538 Hitzone: Best of 2013",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "babbeaa7-e317-4e78-8ef0-4f06dce3fdb3",
+              "secondarytypes": [
+                "Soundtrack"
+              ],
+              "title": "Berlin Tag & Nacht 6",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "0ec51113-4792-4725-bbe3-a8dfab0678f9",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "100x zomer 2015",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "9fe1953b-571e-4c4e-9ae6-24e9a4257369",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "100% Hits: Best of 2013",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "831e774a-ec50-4cf0-980a-164847a56c1a",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "NRJ Summer Hits Only 2013",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "56e2e78f-45b9-476e-afc6-23647a8c915b",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Radio 538: Hitzone 66",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "dd6cb541-7266-4173-8f14-ad2adecd72f9",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Het beste uit de Top 500 van de zomer (2016)",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "d41ed195-2589-4390-8fc7-69f7b090ae58",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Krone Hit Vol. 19",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "eb689fbe-c13c-4e78-844d-1b9b2c87877d",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "More Music 2013",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "2cb4b6be-8263-497d-9936-d980a43122e1",
+              "secondarytypes": [
+                "Soundtrack"
+              ],
+              "title": "NBA2K14"
+            },
+            {
+              "artists": [
+                {
+                  "id": "97b226c8-7140-4da3-91ac-15e62e131a81",
+                  "name": "Macklemore & Ryan Lewis"
+                }
+              ],
+              "id": "541e3876-2cbc-49c3-b62a-ea7bea19c011",
+              "title": "Can't Hold Us",
+              "type": "Single"
+            }
+          ],
+          "title": "Can’t Hold Us"
+        },
+        {
+          "id": "598d8460-6c09-4591-95d1-ae5fd7c99a2d"
+        },
+        {
+          "artists": [
+            {
+              "id": "97b226c8-7140-4da3-91ac-15e62e131a81",
+              "name": "Macklemore & Ryan Lewis"
+            }
+          ],
+          "duration": 264,
+          "id": "c07f34d5-7a0f-46a5-bebf-0891ec955fb6",
+          "releasegroups": [
+            {
+              "id": "541e3876-2cbc-49c3-b62a-ea7bea19c011",
+              "title": "Can't Hold Us",
+              "type": "Single"
+            }
+          ],
+          "title": "Can't Hold Us (instrumental)"
+        }
+      ],
+      "score": 0.956092
+    },
+    {
+      "id": "31e01260-e15d-4bfa-8b09-c27680c0cd2b",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "97b226c8-7140-4da3-91ac-15e62e131a81",
+              "joinphrase": " feat. ",
+              "name": "Macklemore & Ryan Lewis"
+            },
+            {
+              "id": "6c7f57c4-8f11-4c59-9d63-bca189f343c1",
+              "name": "Ray Dalton"
+            }
+          ],
+          "duration": 258,
+          "id": "25a2c3cc-0383-461a-a813-d22318df4b0f",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "c54b15a7-385f-43a1-a299-e0a5748dda3f",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "De Maxx Long Player 27",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "7d72da8d-72cf-4a05-ab1d-eee593956cb8",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Europa FM 2014",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "97b226c8-7140-4da3-91ac-15e62e131a81",
+                  "name": "Macklemore & Ryan Lewis"
+                }
+              ],
+              "id": "22315cdd-4ed9-427c-9492-560cf4afed58",
+              "title": "The Heist",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "3de20436-e665-4ff1-88ee-8a8bc28e3b5a",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "538 Hitzone: Best of 2013",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "babbeaa7-e317-4e78-8ef0-4f06dce3fdb3",
+              "secondarytypes": [
+                "Soundtrack"
+              ],
+              "title": "Berlin Tag & Nacht 6",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "0ec51113-4792-4725-bbe3-a8dfab0678f9",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "100x zomer 2015",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "9fe1953b-571e-4c4e-9ae6-24e9a4257369",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "100% Hits: Best of 2013",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "831e774a-ec50-4cf0-980a-164847a56c1a",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "NRJ Summer Hits Only 2013",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "56e2e78f-45b9-476e-afc6-23647a8c915b",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Radio 538: Hitzone 66",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "dd6cb541-7266-4173-8f14-ad2adecd72f9",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Het beste uit de Top 500 van de zomer (2016)",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "d41ed195-2589-4390-8fc7-69f7b090ae58",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Krone Hit Vol. 19",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "eb689fbe-c13c-4e78-844d-1b9b2c87877d",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "More Music 2013",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "2cb4b6be-8263-497d-9936-d980a43122e1",
+              "secondarytypes": [
+                "Soundtrack"
+              ],
+              "title": "NBA2K14"
+            },
+            {
+              "artists": [
+                {
+                  "id": "97b226c8-7140-4da3-91ac-15e62e131a81",
+                  "name": "Macklemore & Ryan Lewis"
+                }
+              ],
+              "id": "541e3876-2cbc-49c3-b62a-ea7bea19c011",
+              "title": "Can't Hold Us",
+              "type": "Single"
+            }
+          ],
+          "title": "Can’t Hold Us"
+        },
+        {
+          "id": "598d8460-6c09-4591-95d1-ae5fd7c99a2d"
+        },
+        {
+          "artists": [
+            {
+              "id": "97b226c8-7140-4da3-91ac-15e62e131a81",
+              "name": "Macklemore & Ryan Lewis"
+            }
+          ],
+          "duration": 264,
+          "id": "c07f34d5-7a0f-46a5-bebf-0891ec955fb6",
+          "releasegroups": [
+            {
+              "id": "541e3876-2cbc-49c3-b62a-ea7bea19c011",
+              "title": "Can't Hold Us",
+              "type": "Single"
+            }
+          ],
+          "title": "Can't Hold Us (instrumental)"
+        }
+      ],
+      "score": 0.949697
+    },
+    {
+      "id": "e7bc2f2a-a74a-4020-93b5-32c66c2a8378",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "97b226c8-7140-4da3-91ac-15e62e131a81",
+              "joinphrase": " feat. ",
+              "name": "Macklemore & Ryan Lewis"
+            },
+            {
+              "id": "6c7f57c4-8f11-4c59-9d63-bca189f343c1",
+              "name": "Ray Dalton"
+            }
+          ],
+          "duration": 258,
+          "id": "25a2c3cc-0383-461a-a813-d22318df4b0f",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "c54b15a7-385f-43a1-a299-e0a5748dda3f",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "De Maxx Long Player 27",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "7d72da8d-72cf-4a05-ab1d-eee593956cb8",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Europa FM 2014",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "97b226c8-7140-4da3-91ac-15e62e131a81",
+                  "name": "Macklemore & Ryan Lewis"
+                }
+              ],
+              "id": "22315cdd-4ed9-427c-9492-560cf4afed58",
+              "title": "The Heist",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "3de20436-e665-4ff1-88ee-8a8bc28e3b5a",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "538 Hitzone: Best of 2013",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "babbeaa7-e317-4e78-8ef0-4f06dce3fdb3",
+              "secondarytypes": [
+                "Soundtrack"
+              ],
+              "title": "Berlin Tag & Nacht 6",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "0ec51113-4792-4725-bbe3-a8dfab0678f9",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "100x zomer 2015",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "9fe1953b-571e-4c4e-9ae6-24e9a4257369",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "100% Hits: Best of 2013",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "831e774a-ec50-4cf0-980a-164847a56c1a",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "NRJ Summer Hits Only 2013",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "56e2e78f-45b9-476e-afc6-23647a8c915b",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Radio 538: Hitzone 66",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "dd6cb541-7266-4173-8f14-ad2adecd72f9",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Het beste uit de Top 500 van de zomer (2016)",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "d41ed195-2589-4390-8fc7-69f7b090ae58",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Krone Hit Vol. 19",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "eb689fbe-c13c-4e78-844d-1b9b2c87877d",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "More Music 2013",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "2cb4b6be-8263-497d-9936-d980a43122e1",
+              "secondarytypes": [
+                "Soundtrack"
+              ],
+              "title": "NBA2K14"
+            },
+            {
+              "artists": [
+                {
+                  "id": "97b226c8-7140-4da3-91ac-15e62e131a81",
+                  "name": "Macklemore & Ryan Lewis"
+                }
+              ],
+              "id": "541e3876-2cbc-49c3-b62a-ea7bea19c011",
+              "title": "Can't Hold Us",
+              "type": "Single"
+            }
+          ],
+          "title": "Can’t Hold Us"
+        }
+      ],
+      "score": 0.573649
+    },
+    {
+      "id": "c53c4f21-8b53-4d80-8c3d-9b127e14a415",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "97b226c8-7140-4da3-91ac-15e62e131a81",
+              "joinphrase": " feat. ",
+              "name": "Macklemore & Ryan Lewis"
+            },
+            {
+              "id": "6c7f57c4-8f11-4c59-9d63-bca189f343c1",
+              "name": "Ray Dalton"
+            }
+          ],
+          "duration": 258,
+          "id": "25a2c3cc-0383-461a-a813-d22318df4b0f",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "c54b15a7-385f-43a1-a299-e0a5748dda3f",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "De Maxx Long Player 27",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "7d72da8d-72cf-4a05-ab1d-eee593956cb8",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Europa FM 2014",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "97b226c8-7140-4da3-91ac-15e62e131a81",
+                  "name": "Macklemore & Ryan Lewis"
+                }
+              ],
+              "id": "22315cdd-4ed9-427c-9492-560cf4afed58",
+              "title": "The Heist",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "3de20436-e665-4ff1-88ee-8a8bc28e3b5a",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "538 Hitzone: Best of 2013",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "babbeaa7-e317-4e78-8ef0-4f06dce3fdb3",
+              "secondarytypes": [
+                "Soundtrack"
+              ],
+              "title": "Berlin Tag & Nacht 6",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "0ec51113-4792-4725-bbe3-a8dfab0678f9",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "100x zomer 2015",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "9fe1953b-571e-4c4e-9ae6-24e9a4257369",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "100% Hits: Best of 2013",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "831e774a-ec50-4cf0-980a-164847a56c1a",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "NRJ Summer Hits Only 2013",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "56e2e78f-45b9-476e-afc6-23647a8c915b",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Radio 538: Hitzone 66",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "dd6cb541-7266-4173-8f14-ad2adecd72f9",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Het beste uit de Top 500 van de zomer (2016)",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "d41ed195-2589-4390-8fc7-69f7b090ae58",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Krone Hit Vol. 19",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "eb689fbe-c13c-4e78-844d-1b9b2c87877d",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "More Music 2013",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "2cb4b6be-8263-497d-9936-d980a43122e1",
+              "secondarytypes": [
+                "Soundtrack"
+              ],
+              "title": "NBA2K14"
+            },
+            {
+              "artists": [
+                {
+                  "id": "97b226c8-7140-4da3-91ac-15e62e131a81",
+                  "name": "Macklemore & Ryan Lewis"
+                }
+              ],
+              "id": "541e3876-2cbc-49c3-b62a-ea7bea19c011",
+              "title": "Can't Hold Us",
+              "type": "Single"
+            }
+          ],
+          "title": "Can’t Hold Us"
+        }
+      ],
+      "score": 0.47205
+    },
+    {
+      "id": "4bc62730-07f1-438e-85be-27ac486ba57c",
+      "score": 0.445543
+    }
+  ],
+  "status": "ok"
+}

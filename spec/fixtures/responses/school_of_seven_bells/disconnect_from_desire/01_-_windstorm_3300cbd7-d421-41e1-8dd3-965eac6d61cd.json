@@ -1,0 +1,54 @@
+{
+  "results": [
+    {
+      "id": "20bd1437-e3a5-41d9-9fa3-f9b83e580b97",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "57843aed-c1c1-4f45-9859-478dd999bc18",
+              "name": "School of Seven Bells"
+            }
+          ],
+          "duration": 224,
+          "id": "0b66dbbf-359e-480b-8a4e-0d972e7c76af",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "d102b88b-0d1f-407d-9577-4c4adc75a90a",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "LSTN #10",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "57843aed-c1c1-4f45-9859-478dd999bc18",
+                  "name": "School of Seven Bells"
+                }
+              ],
+              "id": "8a2d9685-b7df-4aa7-9e07-39b7efe63ea2",
+              "title": "Disconnect From Desire",
+              "type": "Album"
+            },
+            {
+              "id": "8b7493a4-1c1c-4cbe-8b41-0d3ea835e613",
+              "title": "Windstorm",
+              "type": "Single"
+            }
+          ],
+          "title": "Windstorm"
+        }
+      ],
+      "score": 0.980683
+    }
+  ],
+  "status": "ok"
+}

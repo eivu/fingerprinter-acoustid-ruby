@@ -1,0 +1,40 @@
+{
+  "results": [
+    {
+      "id": "6b9410e1-463b-4648-8a51-99ab0f2a510c",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "97b226c8-7140-4da3-91ac-15e62e131a81",
+              "joinphrase": " feat. ",
+              "name": "Macklemore & Ryan Lewis"
+            },
+            {
+              "id": "c82451f4-e55e-4258-97c5-1ce43b0a5da5",
+              "name": "Ben Bridwell"
+            }
+          ],
+          "duration": 251,
+          "id": "2f774c88-513e-4752-92f1-3222cde68079",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "97b226c8-7140-4da3-91ac-15e62e131a81",
+                  "name": "Macklemore & Ryan Lewis"
+                }
+              ],
+              "id": "22315cdd-4ed9-427c-9492-560cf4afed58",
+              "title": "The Heist",
+              "type": "Album"
+            }
+          ],
+          "title": "Starting Over"
+        }
+      ],
+      "score": 0.949367
+    }
+  ],
+  "status": "ok"
+}

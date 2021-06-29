@@ -1,0 +1,32 @@
+{
+  "results": [
+    {
+      "id": "79a746c0-579f-419b-8a24-f24bed4d2d00",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "056e4f3e-d505-4dad-8ec1-d04f521cbb56",
+              "name": "Daft Punk"
+            }
+          ],
+          "duration": 193,
+          "id": "eda4bf35-a5ae-40f5-aa29-10824ae1a2d3",
+          "releasegroups": [
+            {
+              "id": "1fd2e0fe-90f6-35ca-92c0-d816ab3bb79c",
+              "secondarytypes": [
+                "Remix"
+              ],
+              "title": "Daft Club",
+              "type": "Album"
+            }
+          ],
+          "title": "Too Long (Gonzales version)"
+        }
+      ],
+      "score": 0.937434
+    }
+  ],
+  "status": "ok"
+}

@@ -21,7 +21,7 @@ http_interactions:
       message: OK
     headers:
       Date:
-      - Tue, 29 Jun 2021 13:44:05 GMT
+      - Tue, 29 Jun 2021 21:20:01 GMT
       Content-Type:
       - application/json; charset=UTF-8
       Transfer-Encoding:
@@ -33,7 +33,7 @@ http_interactions:
       Access-Control-Allow-Origin:
       - "*"
       X-Envoy-Upstream-Service-Time:
-      - '68'
+      - '812'
       Strict-Transport-Security:
       - max-age=15724800; includeSubDomains
     body:
@@ -44,5 +44,5 @@ http_interactions:
         [{"id": "50615933-ee44-33a2-b6e1-75f9dd35b937", "title": "Risotto", "type":
         "Album"}], "title": "Goodnight Lover"}], "score": 0.98058}], "status": "ok"}'
     http_version:
-  recorded_at: Tue, 29 Jun 2021 13:44:05 GMT
+  recorded_at: Tue, 29 Jun 2021 21:20:01 GMT
 recorded_with: VCR 3.0.3

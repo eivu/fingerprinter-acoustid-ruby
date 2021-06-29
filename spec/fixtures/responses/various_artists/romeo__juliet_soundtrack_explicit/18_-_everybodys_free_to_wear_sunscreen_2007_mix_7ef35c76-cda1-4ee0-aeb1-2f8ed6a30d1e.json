@@ -1,0 +1,390 @@
+{
+  "results": [
+    {
+      "id": "3ee8912e-63cd-41c9-a079-a79d564d01e7",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "4a37a655-160e-4961-980e-e639bd16f93e",
+              "name": "Quindon Tarver"
+            }
+          ],
+          "duration": 429,
+          "id": "928332b2-8c41-4f34-846c-0dacaf334076",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "650ebbf1-e25c-3f13-ac2b-d98010c1c5ee",
+              "secondarytypes": [
+                "Soundtrack"
+              ],
+              "title": "William Shakespeare’s Romeo + Juliet: Music From the Motion Picture",
+              "type": "Album"
+            }
+          ],
+          "title": "Everybody’s Free (to Wear Sunscreen) (’07 mix)"
+        }
+      ],
+      "score": 0.987689
+    },
+    {
+      "id": "b006a6a9-0bac-4589-b041-3563a0f7c741",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "4a37a655-160e-4961-980e-e639bd16f93e",
+              "name": "Quindon Tarver"
+            }
+          ],
+          "duration": 428,
+          "id": "2c1ad95b-b565-464f-8c8c-1af89657e0b9",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "04b94d74-1eb0-4633-ab8d-4f60d75e3114",
+                  "name": "Baz Luhrmann"
+                }
+              ],
+              "id": "3caf822a-4768-327d-aacc-a68cbdf6151b",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Everybody’s Free (to Wear Sunscreen): The Sunscreen Song (Class of ’99)",
+              "type": "Single"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "9ae35d26-0621-4bc1-9d9b-d3273b58ca7e",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Now That's What I Call Music! 26",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "04b94d74-1eb0-4633-ab8d-4f60d75e3114",
+                  "name": "Baz Luhrmann"
+                }
+              ],
+              "id": "6219c22b-d191-327a-8baf-190833c22fb2",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Something for Everybody",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "6f263a71-a0e9-3687-821e-724640ce2701",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "CMJ New Music Monthly, Volume 56: April 1998",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "6edd1b32-d020-3f63-b340-16963b1f989e",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Triple J: Hottest 100, Volume 5",
+              "type": "Album"
+            }
+          ],
+          "title": "Everybody’s Free (to Wear Sunscreen)"
+        },
+        {
+          "artists": [
+            {
+              "id": "015af1bb-739b-4fd8-bd67-b7980571ff43",
+              "name": "Lee Perry"
+            }
+          ],
+          "duration": 282,
+          "id": "42e36c8e-6e45-4349-a20d-81d3294474fc",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "04b94d74-1eb0-4633-ab8d-4f60d75e3114",
+                  "name": "Baz Luhrmann"
+                }
+              ],
+              "id": "3caf822a-4768-327d-aacc-a68cbdf6151b",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Everybody’s Free (to Wear Sunscreen): The Sunscreen Song (Class of ’99)",
+              "type": "Single"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "d9c58bbf-c692-3958-bf3a-b533f01f0a2f",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "The Best Dance Album in the World... Ever! Part 9",
+              "type": "Album"
+            }
+          ],
+          "title": "Everybody’s Free (to Wear Sunscreen) (Geographic’s Factor 15+ mix)"
+        },
+        {
+          "artists": [
+            {
+              "id": "4a37a655-160e-4961-980e-e639bd16f93e",
+              "name": "Quindon Tarver"
+            }
+          ],
+          "duration": 429,
+          "id": "928332b2-8c41-4f34-846c-0dacaf334076",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "650ebbf1-e25c-3f13-ac2b-d98010c1c5ee",
+              "secondarytypes": [
+                "Soundtrack"
+              ],
+              "title": "William Shakespeare’s Romeo + Juliet: Music From the Motion Picture",
+              "type": "Album"
+            }
+          ],
+          "title": "Everybody’s Free (to Wear Sunscreen) (’07 mix)"
+        },
+        {
+          "artists": [
+            {
+              "id": "04b94d74-1eb0-4633-ab8d-4f60d75e3114",
+              "name": "Baz Luhrmann"
+            }
+          ],
+          "duration": 306,
+          "id": "9c5d2f87-a8c0-4725-8cd3-b6d1ad0e1b6b",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "4e20e078-0c73-38a6-b1e7-c4fdb44fca8d",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Humo's Alle 99 Goed",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "13b3822f-df6e-4bc4-bda4-59144f5c2090",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "De Maxx Long Player 24: The Summer Edition",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "cb5571ad-af38-3019-bf04-80d215befc00",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Absolute '99: The Best of 1999",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "2c1890a8-95c6-3e87-ae89-8d50d6ab6eb8",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Now That’s What I Call Music! 2",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "f5e9fe2c-b8ab-3025-ac06-1d988aca89a6",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "The No.1 DJ Collection: 90's, Volume 12",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "86b661ef-2857-319d-8ec4-2ed70e654468",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "TMF Hitzone 7",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "04b94d74-1eb0-4633-ab8d-4f60d75e3114",
+                  "name": "Baz Luhrmann"
+                }
+              ],
+              "id": "3caf822a-4768-327d-aacc-a68cbdf6151b",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Everybody’s Free (to Wear Sunscreen): The Sunscreen Song (Class of ’99)",
+              "type": "Single"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "a9f8c07f-1dcd-45c4-9b51-74fac630481e",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "EMI sommar '99: (shit va' hits!)",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "5cc80fce-03ce-4e46-a997-82a74858545d",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "The No.1 DJ Collection: 90s (Digital Collection)",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "5e0f905e-d6b0-3cb9-abee-415205d0aaf3",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Absolute Music 31",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "6aaba72d-d196-3c75-8170-f500dfca86a6",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Now That’s What I Call Music! 43",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "d4f8c12b-b913-37f6-9b93-8c5673b2e823",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Absolute Music 21",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "53aa4a69-8295-39f5-aad3-d672759d90f0",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Promo Only: Mainstream Radio, April 1999",
+              "type": "Album"
+            }
+          ],
+          "title": "Everybody's Free (To Wear Sunscreen)"
+        }
+      ],
+      "score": 0.891021
+    }
+  ],
+  "status": "ok"
+}

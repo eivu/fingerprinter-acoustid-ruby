@@ -1,0 +1,43 @@
+{
+  "results": [
+    {
+      "id": "b582aed0-65c2-4bb5-a811-2d6b157d4ab5",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "c5c2ea1c-4bde-4f4d-bd0b-47b200bf99d6",
+              "name": "The xx"
+            }
+          ],
+          "duration": 313,
+          "id": "312fe5d3-cdcc-4c38-805d-97f856c5e076",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "011cf4e1-5ec0-4c0a-8499-00e307128116",
+                  "name": "Nathaniel Méchaly"
+                }
+              ],
+              "id": "bbc727d8-dec2-4137-ae32-45e26423e777",
+              "secondarytypes": [
+                "Soundtrack"
+              ],
+              "title": "Taken 3",
+              "type": "Album"
+            },
+            {
+              "id": "23355caf-a543-4b5f-80fe-449101868fc1",
+              "title": "xx",
+              "type": "Album"
+            }
+          ],
+          "title": "Infinity"
+        }
+      ],
+      "score": 0.927677
+    }
+  ],
+  "status": "ok"
+}

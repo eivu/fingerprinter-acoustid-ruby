@@ -1,0 +1,29 @@
+{
+  "results": [
+    {
+      "id": "a7133eca-a272-49dd-9f22-4112281ecce2",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "c4b933ea-dfa3-4d56-81f9-9f924e2540ec",
+              "name": "Sepalcure"
+            }
+          ],
+          "duration": 325,
+          "id": "6118477b-da1a-4e11-ba8d-4d73f549da6e",
+          "releasegroups": [
+            {
+              "id": "1e5f2fba-55ea-491c-ac64-57828adce29d",
+              "title": "Fight for Us",
+              "type": "Single"
+            }
+          ],
+          "title": "Music 4 All"
+        }
+      ],
+      "score": 0.992608
+    }
+  ],
+  "status": "ok"
+}

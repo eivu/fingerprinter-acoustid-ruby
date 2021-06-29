@@ -1,0 +1,483 @@
+{
+  "results": [
+    {
+      "id": "73740df0-532d-49fb-bed1-2aa151af7c8b",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "27900926-b91e-4134-a7a9-8abd20bf020d",
+              "name": "Roger Carel"
+            }
+          ],
+          "duration": 175,
+          "id": "18105a20-fb19-49c4-94ec-d64c05501e99",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "7a306ecb-47f9-4b87-8a07-6332b0cd0595",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Les 100 plus belles chansons Disney",
+              "type": "Album"
+            }
+          ],
+          "title": "Aie confiance (De \"Le Livre de la Jungle\")"
+        },
+        {
+          "artists": [
+            {
+              "id": "ace542c8-d312-4054-84a2-e3dba12a78b9",
+              "name": "Sterling Holloway"
+            }
+          ],
+          "duration": 170,
+          "id": "182e13e3-e46b-410a-9134-85547e30225a",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "d90ed9f2-9947-4120-ac3e-408f50f191ec",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Walt Disney’s Original Soundtrack Collection, Vol. 1",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "2a1a6af0-807c-49e3-9dba-ffccecd55074",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Walt Disney's Original Soundtrack Parade",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "4204e06b-d2e4-4823-b6f3-47f7593518cb",
+                  "joinphrase": ", ",
+                  "name": "George Bruns"
+                },
+                {
+                  "id": "c47026a1-3300-4cf7-80df-8b9462a884e4",
+                  "joinphrase": " & ",
+                  "name": "Richard M. Sherman"
+                },
+                {
+                  "id": "d378dedb-444f-48f5-a6e6-3e8e31ef6c14",
+                  "joinphrase": ", ",
+                  "name": "Robert B. Sherman"
+                },
+                {
+                  "id": "0a8df504-df94-4d77-a3c5-2b9e5c9727e2",
+                  "name": "Terry Gilkyson"
+                }
+              ],
+              "id": "1257fcdf-743f-3dff-9894-107b398fb777",
+              "secondarytypes": [
+                "Soundtrack"
+              ],
+              "title": "The Jungle Book: Original Cast Soundtrack",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "e9ef23d1-4e1a-4258-b957-8d89b625f6a4",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "The Disney Collection, Volume 1",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "dd1b5e06-e45a-44a4-baf3-2aafd4204f1c",
+              "title": "The Sherman Brothers Songbook",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "8a4a8363-983c-38a3-9dda-08d84dc0c229",
+              "secondarytypes": [
+                "Compilation",
+                "Soundtrack"
+              ],
+              "title": "Classic Disney, Volume III: 60 Years of Musical Magic",
+              "type": "Album"
+            }
+          ],
+          "title": "Trust in Me (The Python’s Song)"
+        },
+        {
+          "artists": [
+            {
+              "id": "ace542c8-d312-4054-84a2-e3dba12a78b9",
+              "name": "Sterling Holloway"
+            }
+          ],
+          "duration": 170,
+          "id": "a640fcc1-4cea-4b28-8391-9c896c80bfe0",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "6e23015f-1c41-4160-b374-b318dd1f6186",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Pirates of the Caribbean and Other Villains",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "7fc44639-8d62-3461-a6b3-7c1c2792dff2",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Selections from Fantasia and Other Disney Musical Classics",
+              "type": "Album"
+            }
+          ],
+          "title": "Trust in Me (The Python’s Song)"
+        },
+        {
+          "artists": [
+            {
+              "id": "66ea0139-149f-4a0c-8fbf-5ea9ec4a6e49",
+              "name": "[Disney]"
+            }
+          ],
+          "duration": 171,
+          "id": "f952f522-701b-4389-8dce-5e5a51ff94e5",
+          "releasegroups": [
+            {
+              "id": "4fae91d7-e4a9-494b-ae15-ae8b7cf046fe",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "The Ultimate Disney Hits [Disc 1]",
+              "type": "Album"
+            }
+          ],
+          "title": "Trust In Me (The Python's Song)"
+        }
+      ],
+      "score": 0.944884
+    },
+    {
+      "id": "118705b9-8e7c-4af3-9150-19e2748e26f8",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "ace542c8-d312-4054-84a2-e3dba12a78b9",
+              "name": "Sterling Holloway"
+            }
+          ],
+          "duration": 170,
+          "id": "182e13e3-e46b-410a-9134-85547e30225a",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "d90ed9f2-9947-4120-ac3e-408f50f191ec",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Walt Disney’s Original Soundtrack Collection, Vol. 1",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "2a1a6af0-807c-49e3-9dba-ffccecd55074",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Walt Disney's Original Soundtrack Parade",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "4204e06b-d2e4-4823-b6f3-47f7593518cb",
+                  "joinphrase": ", ",
+                  "name": "George Bruns"
+                },
+                {
+                  "id": "c47026a1-3300-4cf7-80df-8b9462a884e4",
+                  "joinphrase": " & ",
+                  "name": "Richard M. Sherman"
+                },
+                {
+                  "id": "d378dedb-444f-48f5-a6e6-3e8e31ef6c14",
+                  "joinphrase": ", ",
+                  "name": "Robert B. Sherman"
+                },
+                {
+                  "id": "0a8df504-df94-4d77-a3c5-2b9e5c9727e2",
+                  "name": "Terry Gilkyson"
+                }
+              ],
+              "id": "1257fcdf-743f-3dff-9894-107b398fb777",
+              "secondarytypes": [
+                "Soundtrack"
+              ],
+              "title": "The Jungle Book: Original Cast Soundtrack",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "e9ef23d1-4e1a-4258-b957-8d89b625f6a4",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "The Disney Collection, Volume 1",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "dd1b5e06-e45a-44a4-baf3-2aafd4204f1c",
+              "title": "The Sherman Brothers Songbook",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "8a4a8363-983c-38a3-9dda-08d84dc0c229",
+              "secondarytypes": [
+                "Compilation",
+                "Soundtrack"
+              ],
+              "title": "Classic Disney, Volume III: 60 Years of Musical Magic",
+              "type": "Album"
+            }
+          ],
+          "title": "Trust in Me (The Python’s Song)"
+        },
+        {
+          "artists": [
+            {
+              "id": "ace542c8-d312-4054-84a2-e3dba12a78b9",
+              "name": "Sterling Holloway"
+            }
+          ],
+          "duration": 170,
+          "id": "a640fcc1-4cea-4b28-8391-9c896c80bfe0",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "6e23015f-1c41-4160-b374-b318dd1f6186",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Pirates of the Caribbean and Other Villains",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "7fc44639-8d62-3461-a6b3-7c1c2792dff2",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Selections from Fantasia and Other Disney Musical Classics",
+              "type": "Album"
+            }
+          ],
+          "title": "Trust in Me (The Python’s Song)"
+        }
+      ],
+      "score": 0.932951
+    },
+    {
+      "id": "30517935-3b09-4597-8fe6-c0761a2be370",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "ace542c8-d312-4054-84a2-e3dba12a78b9",
+              "name": "Sterling Holloway"
+            }
+          ],
+          "duration": 170,
+          "id": "182e13e3-e46b-410a-9134-85547e30225a",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "d90ed9f2-9947-4120-ac3e-408f50f191ec",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Walt Disney’s Original Soundtrack Collection, Vol. 1",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "2a1a6af0-807c-49e3-9dba-ffccecd55074",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Walt Disney's Original Soundtrack Parade",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "4204e06b-d2e4-4823-b6f3-47f7593518cb",
+                  "joinphrase": ", ",
+                  "name": "George Bruns"
+                },
+                {
+                  "id": "c47026a1-3300-4cf7-80df-8b9462a884e4",
+                  "joinphrase": " & ",
+                  "name": "Richard M. Sherman"
+                },
+                {
+                  "id": "d378dedb-444f-48f5-a6e6-3e8e31ef6c14",
+                  "joinphrase": ", ",
+                  "name": "Robert B. Sherman"
+                },
+                {
+                  "id": "0a8df504-df94-4d77-a3c5-2b9e5c9727e2",
+                  "name": "Terry Gilkyson"
+                }
+              ],
+              "id": "1257fcdf-743f-3dff-9894-107b398fb777",
+              "secondarytypes": [
+                "Soundtrack"
+              ],
+              "title": "The Jungle Book: Original Cast Soundtrack",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "e9ef23d1-4e1a-4258-b957-8d89b625f6a4",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "The Disney Collection, Volume 1",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "dd1b5e06-e45a-44a4-baf3-2aafd4204f1c",
+              "title": "The Sherman Brothers Songbook",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "8a4a8363-983c-38a3-9dda-08d84dc0c229",
+              "secondarytypes": [
+                "Compilation",
+                "Soundtrack"
+              ],
+              "title": "Classic Disney, Volume III: 60 Years of Musical Magic",
+              "type": "Album"
+            }
+          ],
+          "title": "Trust in Me (The Python’s Song)"
+        }
+      ],
+      "score": 0.732331
+    }
+  ],
+  "status": "ok"
+}

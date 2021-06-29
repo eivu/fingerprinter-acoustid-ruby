@@ -1,0 +1,29 @@
+{
+  "results": [
+    {
+      "id": "265aadc2-854e-4b37-8d46-edb42f4fd454",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "57843aed-c1c1-4f45-9859-478dd999bc18",
+              "name": "School of Seven Bells"
+            }
+          ],
+          "duration": 292,
+          "id": "4280c12f-c90b-47e7-839b-ad8ad7828cb0",
+          "releasegroups": [
+            {
+              "id": "8a2d9685-b7df-4aa7-9e07-39b7efe63ea2",
+              "title": "Disconnect From Desire",
+              "type": "Album"
+            }
+          ],
+          "title": "Camarilla"
+        }
+      ],
+      "score": 0.983122
+    }
+  ],
+  "status": "ok"
+}

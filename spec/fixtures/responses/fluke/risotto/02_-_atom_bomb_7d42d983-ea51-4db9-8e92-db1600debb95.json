@@ -1,0 +1,176 @@
+{
+  "results": [
+    {
+      "id": "25738e41-ea74-4aba-8378-999568ef3706",
+      "recordings": [
+        {
+          "id": "183b336f-f568-4465-9b38-2bf2e09d96de"
+        },
+        {
+          "id": "48d37eb7-3bca-4c48-9fc2-4e037be065c7"
+        },
+        {
+          "artists": [
+            {
+              "id": "3c3d3ad8-3935-4c00-affb-768563916f36",
+              "name": "Fluke"
+            }
+          ],
+          "duration": 341,
+          "id": "4c17f7da-eedc-45dd-80de-1c02c77e9a18",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "04d9ffe3-5f89-368b-9bff-7c66384d7ad2",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Future: A Journey Through the Electronic Underground",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "3c3d3ad8-3935-4c00-affb-768563916f36",
+                  "name": "Fluke"
+                }
+              ],
+              "id": "49d98d7f-16b4-31ea-8d60-6488dcefcd84",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Progressive History X",
+              "type": "Album"
+            },
+            {
+              "id": "618a36c9-0035-4b31-99de-eaf02dd6fbe6",
+              "title": "Atom Bomb",
+              "type": "Single"
+            }
+          ],
+          "title": "Atom Bomb (Atomix 1)"
+        },
+        {
+          "artists": [
+            {
+              "id": "3c3d3ad8-3935-4c00-affb-768563916f36",
+              "name": "Fluke"
+            }
+          ],
+          "duration": 345,
+          "id": "cfc3ee1b-4d1d-4aeb-b9f1-a177c8586dcc",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "33510d6c-e01d-3b99-af09-f42b76d3c0ad",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Keinijg 2",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "3c3d3ad8-3935-4c00-affb-768563916f36",
+                  "name": "Fluke"
+                }
+              ],
+              "id": "50615933-ee44-33a2-b6e1-75f9dd35b937",
+              "title": "Risotto",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "2736916e-8fac-3184-8bea-e6ae698ad6f3",
+              "secondarytypes": [
+                "Soundtrack"
+              ],
+              "title": "The Sound of Gran Turismo: The Real Driving Simulator",
+              "type": "Album"
+            }
+          ],
+          "title": "Atom Bomb"
+        }
+      ],
+      "score": 0.96759
+    },
+    {
+      "id": "96a025ff-c542-4e98-84b9-53ca7844cf81",
+      "recordings": [
+        {
+          "id": "183b336f-f568-4465-9b38-2bf2e09d96de"
+        },
+        {
+          "artists": [
+            {
+              "id": "3c3d3ad8-3935-4c00-affb-768563916f36",
+              "name": "Fluke"
+            }
+          ],
+          "duration": 345,
+          "id": "cfc3ee1b-4d1d-4aeb-b9f1-a177c8586dcc",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "33510d6c-e01d-3b99-af09-f42b76d3c0ad",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Keinijg 2",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "3c3d3ad8-3935-4c00-affb-768563916f36",
+                  "name": "Fluke"
+                }
+              ],
+              "id": "50615933-ee44-33a2-b6e1-75f9dd35b937",
+              "title": "Risotto",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "2736916e-8fac-3184-8bea-e6ae698ad6f3",
+              "secondarytypes": [
+                "Soundtrack"
+              ],
+              "title": "The Sound of Gran Turismo: The Real Driving Simulator",
+              "type": "Album"
+            }
+          ],
+          "title": "Atom Bomb"
+        }
+      ],
+      "score": 0.83283
+    }
+  ],
+  "status": "ok"
+}

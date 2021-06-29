@@ -1,0 +1,29 @@
+{
+  "results": [
+    {
+      "id": "f4e68f9b-3d0f-4d21-af18-2ec4d1b2e188",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "57843aed-c1c1-4f45-9859-478dd999bc18",
+              "name": "School of Seven Bells"
+            }
+          ],
+          "duration": 396,
+          "id": "658fe53f-5a08-4819-9e5e-a7a639d2b241",
+          "releasegroups": [
+            {
+              "id": "8a2d9685-b7df-4aa7-9e07-39b7efe63ea2",
+              "title": "Disconnect From Desire",
+              "type": "Album"
+            }
+          ],
+          "title": "The Wait"
+        }
+      ],
+      "score": 0.98754
+    }
+  ],
+  "status": "ok"
+}

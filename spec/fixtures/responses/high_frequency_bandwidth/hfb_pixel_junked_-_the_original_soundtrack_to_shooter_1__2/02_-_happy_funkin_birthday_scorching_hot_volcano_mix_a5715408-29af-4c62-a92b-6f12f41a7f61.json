@@ -1,0 +1,47 @@
+{
+  "results": [
+    {
+      "id": "1f8b0969-fd86-4882-8308-0e1dc4bd1be3",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "9ddfc28e-9869-429e-8200-567dcf5ef008",
+              "name": "High Frequency Bandwidth"
+            }
+          ],
+          "duration": 374,
+          "id": "108d3b74-f07d-42b7-81d4-623079c38660",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "4a9ae90e-1488-482f-937a-8578d09c8bfc",
+              "secondarytypes": [
+                "Compilation",
+                "Soundtrack"
+              ],
+              "title": "Vocal Pack",
+              "type": "Album"
+            },
+            {
+              "id": "6e99b843-94e4-4ead-aa69-4ef2c29b63f2",
+              "secondarytypes": [
+                "Soundtrack"
+              ],
+              "title": "HFB: PixelJunked - The Original Soundtrack to Shooter 1 + 2",
+              "type": "Album"
+            }
+          ],
+          "title": "Happy Funkin' Birthday (Scorching Hot Volcano mix)"
+        }
+      ],
+      "score": 0.92047
+    }
+  ],
+  "status": "ok"
+}

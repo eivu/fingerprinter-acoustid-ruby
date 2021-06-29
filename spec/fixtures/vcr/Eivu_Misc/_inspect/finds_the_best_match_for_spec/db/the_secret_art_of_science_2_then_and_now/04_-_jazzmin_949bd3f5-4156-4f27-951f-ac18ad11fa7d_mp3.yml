@@ -1,0 +1,49 @@
+---
+http_interactions:
+- request:
+    method: get
+    uri: https://api.acoustid.org/v2/lookup?client=<ACOUSTID_CLIENT_ID>&duration=276&fingerprint=AQADtErCJVKoKMFzPBd8oT9-os8RKb-g8wgdJUfz4B0e4r6CRvsQimnIQscreFUo47rwYTp-JUjlGeeH58dtCfzh19hzPEHytAif44_R3EOFJ8fFB_8Rr_CeE1-JWV9w5qB3qHEQfil8Hb8sPIF_VGKLac0LIzFiZnnQlLLw4Dx-_AtSLc9w_tCPXpXRzMWPM0eVSoh2HcczH4f_BIwsBe9CGfWQZA3yw_lS-HMS9Mcl48F_5PLR5C96cviL_YU0Ht8R7oJzpfg3PIe7Y9I4_Ck6I-GHfDwcZonRL8eLZzl-BWk_fGnIQj10_fAYcbgHPcclRNIT-Pg2Ec9P_LoC_xIY_TgiOUdyH9VVfEfzfKh-PDnOI__x9YV3Dj_2U-CYGz906egVIpUVD3uOZ69gdMd5hDxEHW4iGaGlCDkejjhpvJfgJofu41fQXM4UVDKOG3uKPit8POjQkYevoj1a6lhfKLqCX2jcHP3w3ehzuJhYHTr-q5gc7cbDA46OyjkuPEyFfEqJHw1_MDvuEz-eICd6QpQWobRy9Dz0BmKaPbgTOI6CHxfshGCmB33ywIdO_DksnuiPvhb844PFKT20_6i-wL-gy-gXfBqaHL2O50fzXNCXcIYpzXhwzxC_B_-Qk_AtVDv69IGPH9QehOxC_EHPQJQY6M_hR8d__BApowd6KQcTSvhSoqvg74L8ED-aH9fRH5aFR4b41KjaoN8FH68F7Qkq6WhO41mMkpkON59gZtnxwzf6CKceXMuDvDm-g_rx9rhy4jnyBCdRiBKF79ApHV4P7Tt6JjCpoEcvgQlJnA365ERz6OzRPvDR6-hrDZbxDuKjHP1RfYGvC_pl9EF5OOXRH12oHX5y4U44Q_yMN_AVQ_uDrkdOmLfQf-gJ_4h1eF2KHroagtFhpYG-HLcu2MQH_6j3QEaTTYqR5cHEKunh68ihUUebqGjWC_eC9D2u47lR8YU4pYaf5cRJNO9x_Dg-MccfXMmJG8mlUMhdKmiy8XiYJXBzfCyOH8nynMjNHF-M6yPuhEiY9CliZ8nxHc9oYamSnMFOwRaJZ8eRHGFGHc137EqPZ8nx1QZzhDyUUzqaMUKodPjq406G_EieJoY_qcJ7NDl648dDXLSI51FwiUZyGbkXon0FR6WD37DT4ime50j3I9nLHC8e4h-anDq0edHx41aOPXuKpbtgtzjHE8_xI9klI8f0rRmeRWaCLz8uCVmOyRS0b0eYNBGeH1e54Dn0He5j45Zwwcdv48dn4w-u5BJyykgeKSQuoVIm4WGW4znxMQ4OLz-SPSdyM8cX4xSecIOYdMzxKMnxH3OWfQGr5MEuCrZIPDvxIznCjDqa7xip9PiS4yuPLJfQQzmlo3mEKt0Rr0buZEiOK00MfzreosmF4sdDXKKJ58FJI7miIVc0oYlyBU8ZA3ZaPMUfpFHGI5mcMseLE383IkyOZPOSpMSP_xHmRJmxPFcKvzgj4vmOfEhGSsYx3R6eRW7whTwuIcsxmYL27QgTB498XFzwfEi-D2kfG7eECw5u_Hg0G_MjfMmHXEbySCH2c6jERMFLDU8tfAt-ePkF7blwMx2--MGp4-mGhEkTLUdsJriCOcssgpUeTD-aVGvx7DiSH2FGHVM-PFN64Uwc_MjSS-ihnImO5kGoMDs-7fhIJEfox0Sz83h3-Dh-nAqxh06ER8clmkiuJEN0GU10DpZIXKfwpMdTw_uRjNmJPM_xB89yPBzSvBMSe4mK45TyCIuj5ClmZRZcsTiT8HiOHMkySvCP6XaEZ5GLL-RxCVl4TKYE7TuaiEEcaTleLkT-HMkP9zFu6bjgHMd_XDPmPcODWEyMJOYUCm-poImYBVapDU-Nb8EPLz-0X8HF40tznDqJJ5whJs2W4tZy_MecZdbAJy-mU2gsEt-PIznCjDqa7xgZ9bjy4xeR5ZgMXYkO54jTHa-JW0PyHWH6mOgvHU8P57jx4-Mxr06E68MlGsmVZEFka2iyD1bK4HjSCk_xH8nyI0-Z4_tUnDneIUxuItm8JMePZ8yxVMpT7BfssMWp8Hg-PDOSZTxSTLcjPHMFHjcxtROqPAiPJg8PHaEfGX1z1Dvh42hGBDrOFk8vYTraS8LP48mhRW0a9EL_IT_8oy9ahTn8HQEVcSnKLoUeBj0DZwzkdDluXfCHB-bR69DRSzEoSkc4KgpCa4evl_gD5Ufz4TtCx_Bz_PCaJIefFXWqEefMIE4NX4COb8G-B8-NX8GH6gzRPDl04eURXmHg_6i0XWjeDi1zlDwyXQlKVGVCmAwenMd9-PgI0cly9ENPWFuGLFcqVFuE7cePH-6HXkdolYGWB8GToFnzDU9DoQmVbnjcDD3C3NDxIk8SXZiP5xTiZ_hhXSGeK9A_vBnCk3BeXNEO_-AvpOOCsguhB1UZWGLw59Cjw39wwjZ6_JCSS0F_9IkCMz1eQQ9LjOPQ_MOjI_Th5zgPP0ngWenQazKexhJ-pIeO41uOfQ-e47qCH11DNNcmXB90lI2ClNJz9B-qF-lz4ZwDJg8O7VICZ4X-4zm26MGPN4eZDYV2wifCHHtOXAEfo6aI8UK4B73QvIf6o34UIrkW3IdHEn6N_sDxqcdrYo4eXKKRXMizCBPTSkngqCSs403xCT8c5Zmh6Q-e8DiLO9XxD2LiKTl-_MecKLOxPLlCuC7OiHgORIyVRBEiCBCEAEQIEARCCJQAAChEiDFIGYEEEUQgJAgQQgjgDLCKEIKMEQYAahATgBkAGAMEMeCMoIggYQQQQBCEEBAAAEEIMoQxo4BwBGFDBAWEAEIQcEQYBAAkDhEqEAAACAEQcoQY4oAQACCHABAAEOKUMIpIZBAwiBijlJSECGKIA0KIRIimQApDDAUMOKEQYUQAYRQxRBlmHDBCIKeUAIIAYZiCQACDDGCIUCEgE4QIQAgnRBIoCAAGUQEEM4w6IARTABgABBCEAMEUEcABRgygQhkmHCKAKKQIA4YBogQgChhhjAUCICEkIhAAgoQAWgghDCKAAiqEYAADQJBRAhICADFCCYEMZUARgYAVRAECjAKGCAAUAA4ILIAwABDARJByIOKAgkoIYRA2AhAlBCIAICiIcUADKIASAACgiDCAWEEJcsZZChkiDChhBGIEIGGIsMAJAQxQBABCAAHGEiEEAEJAJgwA0FAEKHAYBGOdQwwogbQACCAikCBKCMAIAwAJYRSQQEMBFBAACMWEAY6KgohzFDJCGFDOCUaEEVYAIIAgBAiBADCGSgGAoEwY4CAVwAGHqXUIAqQQMAIhYgQRgAkDBCPQAAK0hUYAAABUgAkDHCDWAAQcgKBCQAgCSiEikGAEGUUEAkA6BggQgABwDhAACEoEc0oIYRxwAEuKgFPIGISIEYQASoQBggFEiABICcAsFEABQQAQDBngjAUOCACYcaBChAwCyiHEjEDAKSEAIE4YIAgghAAGDDXCCCQEMMoAAID1BAlOAAMMEGEoEQQLISAABEgliACDAQCAAYAiAyAzRAAIETGEEKWBEFwQIwxQwBghHCDIGiCEIYBZIxQwAAoEJOLMCEoIc0Q4gAyx1AhBkIBEAEWMIMRAQJgAAgqCDACEKQEAUJBTRIghBCgGBBOQAKIQQAQRAASjADKpmBDICCSQEMIAaQwSwAognEJAUaQcEQAQSgQQjBCACAFAAAAC&meta=recordings%20releasegroups%20compress
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      Accept:
+      - "*/*"
+      User-Agent:
+      - rest-client/2.1.0 (darwin20.3.0 x86_64) ruby/2.7.1p83
+      Accept-Encoding:
+      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+      Host:
+      - api.acoustid.org
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Date:
+      - Tue, 29 Jun 2021 21:18:05 GMT
+      Content-Type:
+      - application/json; charset=UTF-8
+      Transfer-Encoding:
+      - chunked
+      Connection:
+      - keep-alive
+      Vary:
+      - Accept-Encoding
+      Access-Control-Allow-Origin:
+      - "*"
+      X-Envoy-Upstream-Service-Time:
+      - '71'
+      Strict-Transport-Security:
+      - max-age=15724800; includeSubDomains
+    body:
+      encoding: ASCII-8BIT
+      string: '{"results": [{"id": "7b7881f1-c2bf-4910-a3a3-cbc7c89ac2ac", "recordings":
+        [{"artists": [{"id": "022b58ea-6098-411d-b88a-652821d4c191", "name": "DJ DB"}],
+        "duration": 276, "id": "705f524a-72aa-42be-a9db-08d2d36d8c1a", "releasegroups":
+        [{"id": "c4ec56dc-8c9d-4079-b899-a096beffdcc0", "title": "The Secret Art Of
+        Science 2", "type": "Album"}], "title": "Jazzmin"}], "score": 0.98165}], "status":
+        "ok"}'
+    http_version:
+  recorded_at: Tue, 29 Jun 2021 21:18:05 GMT
+recorded_with: VCR 3.0.3

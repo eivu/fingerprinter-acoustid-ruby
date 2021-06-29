@@ -1,0 +1,53 @@
+---
+http_interactions:
+- request:
+    method: get
+    uri: https://api.acoustid.org/v2/lookup?client=<ACOUSTID_CLIENT_ID>&duration=245&fingerprint=AQADtFqyR9GCnxCfBT0uXClxPdjtwWmzgD92PEe7B2F-I3kkdDQqZ1aC8wF6ioVPvD2qDMc39Mqx6A-2fcLDo0pJhbihPURzXPjxJE6wUx6oZGkW_Mcu_EN_o1nx5KiNnEmRTM_RJH0WoT2Jpyn2tYOPKzdOCxxjVliLH2VmwkmeED6RPAiP48nx5AmeycOUyRkYxR9-idiHC56U4wnRmziR1LmQJneCMpoY_BNu-AmuY-zxE9wxkUeT8cLDZ2hiItmRc8fxBVccTM5kgepXVPE6jPrxC0ezLEedfKidIjyP5CGHJumzodozPDW-Y3vwKDkuiQKfhhVGE53r4NkFKxfxU0h4IbyB40lGYpeeoGm8BoziFX8xH3_RLDvqJB_-CnmHpBeqOEez5AquHIcfCT_eaPh5THqORX9Qhsd1ZajiIT2R7Bye4MMzMdhDi2jyFcya9cF97ECd5HClHFciJMuLWLyEJ1mOPS16oTlzXMKZcuAlUSnqHKM73HXgJbo0WNHxJ8ijI9kTXCGOp8TzhJiSH10z5gFnHMNz4UmG8CKS8SFW7cGlPOCTFlOO_gGeG88SOjg_NM_RP7hyEU-P6kaQ8FKE6sdH4UzCUPiD_hP8o8-KnTji4E8mQvmJPMQT40uWEH8rNM-FHi_u4HLQa4X7EX9QZheeJSaa8EIeJLWG-zh1PDmeB_7xVB1u40XoHCcNNQ-eJ0KevcElo9dQOy76_GiOH6-NW3LQ49JhlM2Hb3vQxYcYFz4u4h98J3h4_Ibzodt2xH9w6M0RORf6wA5TPDo-ODcsJvFQOR7u4_jRB_6FU8dV7HCP2kXLHf6OTy0uVUiWS4iT7PhRUS2a7il28DquIH8nIdFgNyRO5TgaotIiUkLX7HA-oSd-TM8R7cxxeD8m0S_UVMEXlQjfvLiUw7vw5fDYos5xncVvNKpklHJ4PMJxH15I4zwCsS_yCC_G5UUjqUHdEH_Q9Ji0JBfO_OhhtUZ15MqRfMGPJ8eVPXh-1M6GhP8R6RHxRDnYBO-DXjKahw54H2fu4TvGH3kUHt9SXEefDz6aTceTHf-GGxrzGnl3oemP49il4JfxJjrWx0cvVM6G_MOPMnxgBdrCOsilHNdyodlRO6LwLMeuo3mMvjxeinhwxq9w7Ec-ZoNWB2mJ74d7o0xWB-fx_PgnhL-gpQqRS0mGfXiiuDivoPmPnsdl4v2GMcfxTvjxo3mIdFNRhiWuK8MH_UHIRJmDxvlxHsfZhMMaSjpGRckT3Cn6FOGz49YRZ62Eko_QWMvxbkM-qKmONDWuB89yzDxRo7EjUniO-3jY8MJu5DyFV9kO7Tly4vqOo0xWF3_wHH8mhOkP7TlySfiCOXnxXkHzHz2Py8T7Ycxd40Xe4sc_9GHwCWVOnMo33NCfI5QyOmiq_DiOK9hHGU90jM8WoztCOU5xGkcZHt6Dvg707ciJLxe26SJ-vAfjw3Ya9ML_4WGPO_gD_jua55iOUoGr72h3JXiOO8Nz5agepO-hsQvyJMd-_BFOg3NfdP7RxMf1Dz-yk6joHI2aQgVfPEmOJ5egd9VRvYhT-Eed0BFeBz2a8uAvPInOCFOmEwhz4jlyPkFTtRJa6cih3givBU3FG3Ou4j34G42bGz254s7xEP8LHudXTPnRBzXc5DvaXXie4M7wXBma_MgLjeWRRxz2HH-E0-Dco_NLNPFx_cOPE9ko5rAaqAdfPEkePLkEvddRPUWcwj9qsQl-9GjAP3i4C1OiS8SPdBL6I39QcUdzB492xGKgH-mP65jDg0ftpDEal8ePh8f_gviH5sf04ELT_Ghz_MElkfiT7OiONOKRRB-ug04u_Enw443Q-Q2a-LiO_MMFTc9AfdBWg7uCb7jyBlfYJcdThErhv6h14XVw-AuuDFxOJpikXQtMpJOIfkZ-VNzhOyi3I1YI_UhtXA_mLAd_1FaPxs2IHw9_nM7B40dfTDlxDf3R8MMfXMelJtHRHel4KNKHXDi-7AnO4R-65mzgGPWP70f-4keT-NBu_Ae_HN_BJkqXyLiZoiuc39AsGqcTBFOuoGry4GXSCNXhvbg0pOQO7TsiE2UvXBGFbzWe7IMnHWEnXIbGw91MiBsThFok41Ng99izxcJvNDoqF0-JH99jJBX3IE-YFqdQn2j-FH-wC5xCPOFV5ELCyTkeJdHxo2hcsFUyIo6OSj7SrUFP4kEzTK-PJx8aVKkWHTEn6EduNLM1lOFSVLQaw-JRS8dVuCqeRI-GM8eDZjlK4oedIhdGJcoh56j7wUcenCqsfSGmo1IPP0NPfEfy6Aj1oAulB1eOBzmhXSzCOJlxHbPx7GAOP0UoaQpoZZDhTD3mLsbRQLOixPhCr8iD93CnD88bXCjCPKMGXW2Q43CSDGc0Hr-T4ENsrniO59CY5fCPdnVwFXnh6ca3Y2aO_GjqTNCkJTOu7cFlGY2TRYdGIc-xH-GHpoKexMjxxA-uLBeON0OYz1D07Mj1CLdB77h6NOs8dErCgEV-OFODWZuHo2gqBtcS5SryHCc8RuPwiDGeG6GgpcpS5Dx2T4Pd4w-eTMeuBX-6IhfxXDgqhTq8vShZB6pCvEcTpkf4qHiGM2rRHHWmDE8UnEIjNqgWyxTOHP3RPEVOIbkS4wt-4cryFC_-FP0mhHkcIckT4sUz8DnRfDFqBwEMEBQ6IQzQgiJBDEFCAMOgYAIxQoBA1BInAACiOIGQUkAIgARyADnFECSUCgeQAE6MhBgjiBBnIEOCeAaEYUpQ6IASholpBFACIMQUUwgQw4BRxDIhgHPGQYKAdQAQxAAzQBBhAFAEKCEgZAQJIEwiEAlgiAcMMmCEYMBJIZhlyiAhuFLMCEAIAEwxAgBAQCiAhDGAIAGYYQIIYRUACmBCkACEawAFEFYI5QQDABlmqGCMEgAYEIAAQQQGWACLjABCkKQJYoIpxASQQBjsCDOIECQIEAZBUAUxxAFAKMECAQCMAIUKZoUAQhEgEADEKAMYIkABIoAhBoBiAACGAGGdIQYqIIFiRAAjCGIESUAAQMIIpAhiRBAlCWGCCgEUUeYYAAABVhlAFRHACAKEQsA4AABRghCCGFGAAIAgMYQQAxAgAAEHJGMICoCECcIQBEwQBEHhgDGAKIIQUYIZQIAQQhmAlDFEIKaABIYgAY0ihAAECEDAAakYgkIQAgAIQhCiTAQKGMhEoAIIQgwwkiAtAYBAIBCIAAgpIQxDBADGACFAOEewAEQRBBQjgiBFBBBIUKSBIQAY4IQCBAwgHAFAAAEsQACgIpBTQhiGCAAMKUIEcwQzoAgCilGhCEJEACGMoAohIwAxBhLiiFJEGKQAYYoLAIBGADCBlCIEMacIEEY5ggByBHiGGEGIIiMEIgQIKpRRCCBAiCNKCWQIU0QBBwEDQDEmsCBAI6eYAAY4YBQg2AqAAGFACQSQAAgARQgASBEhpGJCAKIAQMIKgQAxkCGqAAEACKKMAMALIphhSDABFBHIUGM8EISIoZQnVChFDANIIGMUEQAyyRAgiiCCiAAAEAEAEZUIYCwjQCLAAABAGWiEAEQwg5iBwADClBPAAKKAEk4EIJgwQihABBEESGAMI6IQAYAiBBFAjBBIEUUkQAIYCQQkBAA&meta=recordings%20releasegroups%20compress
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      Accept:
+      - "*/*"
+      User-Agent:
+      - rest-client/2.1.0 (darwin20.3.0 x86_64) ruby/2.7.1p83
+      Accept-Encoding:
+      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+      Host:
+      - api.acoustid.org
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Date:
+      - Tue, 29 Jun 2021 21:20:24 GMT
+      Content-Type:
+      - application/json; charset=UTF-8
+      Transfer-Encoding:
+      - chunked
+      Connection:
+      - keep-alive
+      Vary:
+      - Accept-Encoding
+      Access-Control-Allow-Origin:
+      - "*"
+      X-Envoy-Upstream-Service-Time:
+      - '830'
+      Strict-Transport-Security:
+      - max-age=15724800; includeSubDomains
+    body:
+      encoding: ASCII-8BIT
+      string: '{"results": [{"id": "5c8a528f-a3c5-4ccc-a75b-5a96cfb036e5", "recordings":
+        [{"artists": [{"id": "9ddfc28e-9869-429e-8200-567dcf5ef008", "name": "High
+        Frequency Bandwidth"}], "duration": 243, "id": "2ce2e6d5-6128-4989-9df9-ae0b3abf954f",
+        "releasegroups": [{"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "4a9ae90e-1488-482f-937a-8578d09c8bfc",
+        "secondarytypes": ["Compilation", "Soundtrack"], "title": "Vocal Pack", "type":
+        "Album"}, {"id": "6e99b843-94e4-4ead-aa69-4ef2c29b63f2", "secondarytypes":
+        ["Soundtrack"], "title": "HFB: PixelJunked - The Original Soundtrack to Shooter
+        1 + 2", "type": "Album"}], "title": "Hill Film Blues (Mysterious Mine mix)"}],
+        "score": 0.925225}], "status": "ok"}'
+    http_version:
+  recorded_at: Tue, 29 Jun 2021 21:20:24 GMT
+recorded_with: VCR 3.0.3

@@ -1,0 +1,144 @@
+{
+  "results": [
+    {
+      "id": "90a2d916-8a27-41a4-a201-359c45d678fb",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "8843b788-77c3-4f6f-8296-121e1cc0651a",
+              "name": "Mundy"
+            }
+          ],
+          "duration": 238,
+          "id": "32593969-32af-43e1-9e69-266a71b18d2f",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "819bc18c-1972-490c-b788-593bc91589f5",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "The Party Mix - Movies",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "8843b788-77c3-4f6f-8296-121e1cc0651a",
+                  "name": "Mundy"
+                }
+              ],
+              "id": "7a225404-3aa1-3316-99af-0092d549aa07",
+              "title": "Jelly Legs",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "650ebbf1-e25c-3f13-ac2b-d98010c1c5ee",
+              "secondarytypes": [
+                "Soundtrack"
+              ],
+              "title": "William Shakespeare’s Romeo + Juliet: Music From the Motion Picture",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "533aa751-c74c-3870-834e-ad833f3e18c7",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "TOTP: The Cutting Edge",
+              "type": "Album"
+            }
+          ],
+          "title": "To You I Bestow"
+        },
+        {
+          "artists": [
+            {
+              "id": "dfa02816-bf7b-4229-81e7-3e3d7a29537d",
+              "name": "Mandy Smith"
+            }
+          ],
+          "duration": 232,
+          "id": "6b8c5dde-2af6-4a3a-9034-62d53e53b853",
+          "releasegroups": [
+            {
+              "id": "6bd80486-c02c-330f-9cbd-dbaf897dcb3f",
+              "title": "Mandy",
+              "type": "Album"
+            }
+          ],
+          "title": "He's My Boy"
+        },
+        {
+          "artists": [
+            {
+              "id": "8843b788-77c3-4f6f-8296-121e1cc0651a",
+              "name": "Mundy"
+            }
+          ],
+          "duration": 239,
+          "id": "7785579f-0cdd-4f4f-b435-5b1865f27a87",
+          "releasegroups": [
+            {
+              "id": "f979833c-355b-338e-ae4e-29c043395329",
+              "title": "To You I Bestow",
+              "type": "Single"
+            }
+          ],
+          "title": "To You I Bestow"
+        },
+        {
+          "artists": [
+            {
+              "id": "8843b788-77c3-4f6f-8296-121e1cc0651a",
+              "name": "Mundy"
+            }
+          ],
+          "duration": 238,
+          "id": "d7800f67-10d2-4cc8-88a3-94520a2c0132",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "e93f8ee3-5c4a-413c-9e3f-724a67f9aa99",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "100 Hits: Indie Anthems",
+              "type": "Album"
+            }
+          ],
+          "title": "To You I Bestow"
+        }
+      ],
+      "score": 0.981606
+    },
+    {
+      "id": "d1e3482b-fa18-4729-b973-1d85e98cbe55",
+      "score": 0.567247
+    }
+  ],
+  "status": "ok"
+}

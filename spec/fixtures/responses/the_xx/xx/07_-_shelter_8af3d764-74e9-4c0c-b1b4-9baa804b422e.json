@@ -1,0 +1,43 @@
+{
+  "results": [
+    {
+      "id": "7f10287c-4b51-4844-a022-5b54bb418ebf",
+      "recordings": [
+        {
+          "id": "070e7849-736b-4602-9aac-4abf6755e4df"
+        },
+        {
+          "artists": [
+            {
+              "id": "c5c2ea1c-4bde-4f4d-bd0b-47b200bf99d6",
+              "name": "The xx"
+            }
+          ],
+          "duration": 270,
+          "id": "55e82e79-df88-4454-830b-f50016560101",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "c5c2ea1c-4bde-4f4d-bd0b-47b200bf99d6",
+                  "name": "The xx"
+                }
+              ],
+              "id": "23355caf-a543-4b5f-80fe-449101868fc1",
+              "title": "xx",
+              "type": "Album"
+            },
+            {
+              "id": "ee12d07d-279e-465a-8407-64f25816a5e9",
+              "title": "Shelter / Night Time",
+              "type": "Single"
+            }
+          ],
+          "title": "Shelter"
+        }
+      ],
+      "score": 0.94884
+    }
+  ],
+  "status": "ok"
+}

@@ -1,0 +1,79 @@
+{
+  "results": [
+    {
+      "id": "df57068b-f316-4650-9aea-f0098448f686",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "b7539c32-53e7-4908-bda3-81449c367da6",
+              "name": "Lana Del Rey"
+            }
+          ],
+          "duration": 299,
+          "id": "dcf38068-ebbf-4cac-853e-16d34518f7ee",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "b7539c32-53e7-4908-bda3-81449c367da6",
+                  "name": "Lana Del Rey"
+                }
+              ],
+              "id": "c9ff68d9-af4f-4791-9e62-69170af0a71e",
+              "title": "Lana Del Rey EP",
+              "type": "EP"
+            },
+            {
+              "artists": [
+                {
+                  "id": "b7539c32-53e7-4908-bda3-81449c367da6",
+                  "name": "Lana Del Rey"
+                }
+              ],
+              "id": "c6c0ec90-3088-4bd2-8d05-d171adec6102",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Greatest Hits",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "b7539c32-53e7-4908-bda3-81449c367da6",
+                  "name": "Lana Del Rey"
+                }
+              ],
+              "id": "4b16a1bc-8644-48ae-9b3e-8ae36aa30cfc",
+              "title": "Born to Die",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "b7539c32-53e7-4908-bda3-81449c367da6",
+                  "name": "Lana Del Rey"
+                }
+              ],
+              "id": "968fa2f6-1b7e-428e-86ea-6d9dd2e6e204",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Greatest Songs",
+              "type": "Album"
+            },
+            {
+              "id": "87e2be78-69e7-4d74-98ce-9135f579116f",
+              "title": "Off to the Races",
+              "type": "Single"
+            }
+          ],
+          "title": "Off to the Races"
+        }
+      ],
+      "score": 0.934335
+    }
+  ],
+  "status": "ok"
+}

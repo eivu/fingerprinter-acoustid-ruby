@@ -1,0 +1,75 @@
+{
+  "results": [
+    {
+      "id": "88896bec-383c-4314-9f99-3dfc24031332",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "97b226c8-7140-4da3-91ac-15e62e131a81",
+              "joinphrase": " feat. ",
+              "name": "Macklemore & Ryan Lewis"
+            },
+            {
+              "id": "7fdfcd44-9a38-4695-97a4-c92ba14e1c30",
+              "name": "Evan Roman"
+            }
+          ],
+          "duration": 226,
+          "id": "7ddd7aee-8586-4eb6-bb50-6c4ecd350623",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "97b226c8-7140-4da3-91ac-15e62e131a81",
+                  "name": "Macklemore & Ryan Lewis"
+                }
+              ],
+              "id": "22315cdd-4ed9-427c-9492-560cf4afed58",
+              "title": "The Heist",
+              "type": "Album"
+            }
+          ],
+          "title": "A Wake"
+        }
+      ],
+      "score": 0.943434
+    },
+    {
+      "id": "e9acbb52-bf09-4b13-9fdd-b85e58a2024b",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "97b226c8-7140-4da3-91ac-15e62e131a81",
+              "joinphrase": " feat. ",
+              "name": "Macklemore & Ryan Lewis"
+            },
+            {
+              "id": "7fdfcd44-9a38-4695-97a4-c92ba14e1c30",
+              "name": "Evan Roman"
+            }
+          ],
+          "duration": 226,
+          "id": "7ddd7aee-8586-4eb6-bb50-6c4ecd350623",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "97b226c8-7140-4da3-91ac-15e62e131a81",
+                  "name": "Macklemore & Ryan Lewis"
+                }
+              ],
+              "id": "22315cdd-4ed9-427c-9492-560cf4afed58",
+              "title": "The Heist",
+              "type": "Album"
+            }
+          ],
+          "title": "A Wake"
+        }
+      ],
+      "score": 0.684072
+    }
+  ],
+  "status": "ok"
+}

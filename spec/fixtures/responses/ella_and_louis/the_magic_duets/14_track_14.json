@@ -1,0 +1,185 @@
+{
+  "results": [
+    {
+      "id": "f151e970-e034-483c-84d6-086fc71c4ef7",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+              "joinphrase": " & ",
+              "name": "Louis Armstrong"
+            },
+            {
+              "id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+              "joinphrase": " with ",
+              "name": "Ella Fitzgerald"
+            },
+            {
+              "id": "ec47f07c-c7f8-461c-944d-e3cfe6d2a1fb",
+              "name": "Dave Barbour’s Orchestra"
+            }
+          ],
+          "duration": 154,
+          "id": "27ba034e-8ab6-4bad-824f-84251523aa58",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+                  "joinphrase": " and ",
+                  "name": "Louis Armstrong"
+                },
+                {
+                  "id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+                  "name": "Ella Fitzgerald"
+                }
+              ],
+              "id": "9866badc-71b9-3e4e-952e-93a2e30bc98c",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Ella & Satchmo Together",
+              "type": "Album"
+            }
+          ],
+          "title": "Necessary Evil"
+        },
+        {
+          "artists": [
+            {
+              "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+              "name": "Louis Armstrong"
+            }
+          ],
+          "duration": 151,
+          "id": "39aa5177-045b-4621-8507-a2efcb047487",
+          "releasegroups": [
+            {
+              "id": "2c3e750e-b21c-30f4-802a-64303a61eb42",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Selection of Louis Armstrong",
+              "type": "Album"
+            }
+          ],
+          "title": "Necessary Evil"
+        },
+        {
+          "artists": [
+            {
+              "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+              "name": "Louis Armstrong"
+            }
+          ],
+          "duration": 156,
+          "id": "3a0e9cfa-c975-430d-b4c5-96374ef510ec",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+                  "joinphrase": " & ",
+                  "name": "Ella Fitzgerald"
+                },
+                {
+                  "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+                  "name": "Louis Armstrong"
+                }
+              ],
+              "id": "7c7a4217-fe23-4912-9d53-14a41913782b",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "The Complete Fitzgerald & Armstrong Studio Recorded Duets",
+              "type": "Album"
+            }
+          ],
+          "title": "Necessary Evil"
+        },
+        {
+          "artists": [
+            {
+              "id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+              "joinphrase": " & ",
+              "name": "Ella Fitzgerald"
+            },
+            {
+              "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+              "name": "Louis Armstrong"
+            }
+          ],
+          "duration": 156,
+          "id": "6cc3352f-f761-4353-9ff8-936d229950a0",
+          "releasegroups": [
+            {
+              "id": "8a796362-8901-38d2-a271-b56a19d0395a",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "The Magic Duets",
+              "type": "Album"
+            }
+          ],
+          "title": "Necessary Evil"
+        },
+        {
+          "artists": [
+            {
+              "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+              "name": "Louis Armstrong"
+            }
+          ],
+          "duration": 153,
+          "id": "c9145f95-cdb8-445b-9e0d-846ba3f1f2df",
+          "releasegroups": [
+            {
+              "id": "8d80301f-a239-4bbf-9959-0d3e5018f752",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Louis Armstrong & Guests",
+              "type": "Album"
+            }
+          ],
+          "title": "Necessary Evil"
+        },
+        {
+          "artists": [
+            {
+              "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+              "joinphrase": " with ",
+              "name": "Louis Armstrong"
+            },
+            {
+              "id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+              "name": "Ella Fitzgerald"
+            }
+          ],
+          "duration": 158,
+          "id": "d20e25b1-bd47-4b76-b6f2-80572b6d1532",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+                  "name": "Louis Armstrong"
+                }
+              ],
+              "id": "95c84950-64c1-3ef2-8dcb-a790ee465354",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Icons",
+              "type": "Album"
+            }
+          ],
+          "title": "Necessary Evil"
+        }
+      ],
+      "score": 0.929786
+    }
+  ],
+  "status": "ok"
+}

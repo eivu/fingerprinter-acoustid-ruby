@@ -1,0 +1,32 @@
+{
+  "results": [
+    {
+      "id": "e220a0c9-74fb-4c9e-bc78-ffa12daaba97",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "056e4f3e-d505-4dad-8ec1-d04f521cbb56",
+              "name": "Daft Punk"
+            }
+          ],
+          "duration": 325,
+          "id": "5d182e4b-9d5e-437c-9fd3-7d2d246fd574",
+          "releasegroups": [
+            {
+              "id": "1fd2e0fe-90f6-35ca-92c0-d816ab3bb79c",
+              "secondarytypes": [
+                "Remix"
+              ],
+              "title": "Daft Club",
+              "type": "Album"
+            }
+          ],
+          "title": "Crescendolls (Laidback Luke remix)"
+        }
+      ],
+      "score": 0.980717
+    }
+  ],
+  "status": "ok"
+}

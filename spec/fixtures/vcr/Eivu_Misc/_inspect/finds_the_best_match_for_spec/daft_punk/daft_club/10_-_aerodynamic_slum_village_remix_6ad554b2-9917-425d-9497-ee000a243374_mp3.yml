@@ -1,0 +1,63 @@
+---
+http_interactions:
+- request:
+    method: get
+    uri: https://api.acoustid.org/v2/lookup?client=<ACOUSTID_CLIENT_ID>&duration=217&fingerprint=AQADtKLSTckSIXzRPDlO48oTlGvgSYiPf0e1OA7yRDiaSzm0c8dj1Md7oz_UnUPPBFpKfOh3NPnxH6eGmoc-BWk_9M3wHT-PlhGaeAkeJT9yoaKP74W1H1V76Bou9DF8KcOVwz4qSTRkvWiOUmrxHXWh5TleGn3RhI6IK0d9nNchckVoH19yXEavHE3SBWdyfLHQp0g7OoHRZN3x8_h65EGzhS16PDzOHj1yoRnxZceF_zia_-gZ44sO7cI7IicszaiP-Aql49ASUgj73GgUjeiPH7l-eMcnGo92eI9i_Ie5KDmuQnskIZ3UVGiPoyRxSc3wBWnYHKL0IPyCuxF-PNfQPEHJDD--wxsTwz9yLUuh00PqMMeP5_DD4zqa5ziadElUdJGSI8wP_R3OB_nhuLhyXDlqLQ06nIzxXkgeHfZW5CnaI1WYBc0p4lFMQou6GH1D4s5x6OXQC82T43ugH4-MnyOqpofV7PgFcUsIV0LP4j36hC3SKR_6Izdx6cB56ES-HOVTPD8qKpeEB04biXhXPLqRLM8QilQy4UcPM-Zga0d9oVIjhOsEPcuRyxK-4x-c40cO_eiY7OiON0dPD80m9viOPziznNCPSzzCUDuqPMc1ZYUjSsgdErqOXw3SOEuN6_hRizlCiYce5MvROEVJ6gM-9IvRMzwq2mg0aTiDuDkeZdXR42ji40t0fEeoBj9e4_pxldERdxA_pJrQLsdFMUHeBOUOLfqQw2rY4QpyPGTEwxzx0AjzSFvQw04W_Eee_NASH6EdPAr6D-Zyws1x7kgVatDyF7GkEB-J51IEeCzuHNfxD32DdolioDJthHGYcNBvHGHWhSFyuOKLJp0gPwlKBs2h7lkiHOFfhHGy4F-hZ8cVxFfCDc-QC1quo2825Cl6ZniCalzwDumNi8mhRzgRHo6Odjze_Che-EY-fLGkQPR2XMrhHa8DcxpRT1HxCLqMRsfzo-lxyNOJftCy48k-NH9wNkPzLMEZQS93NJqyIPzxo3_g7sKTHrlGiHGMcFYuPPgV4UeJ5uFw4cjXiWiuIAyfCTmPRmyO2seN9oWWo5Rn6AnxVBtxKQrCxGpxB_kyD9eDnjKaM_iPnDn-46uOZ2GIfDmaqllWaN6M6wjDF9fRjKGMHBrJvGiVeIj1UDj-w1704nCOL1kqPOOioPrRVFl25JB_4g9yodXhSSz6PIglWMySQ88X3Ed14XClpTGeG05n9AifLESjTfhOXEdTZXFwebCZF1eKZD9y_HiDLlKWuPipDOUV5D70IzUzPDeMZ1kqfKGD_ggjLzjUn8ORS0d72CdKUUYo_Wg053iHN4l89Ap-iBeP6_hapGmO5lk2XFmO_2ge1EqE70Y_IX06JGNxHA-uLEsoDZc5fFeKPIembkeYLzueHDbOLBWeiM7RPEf47LjPQn5wyVaGVh1htBEO_YR_442OR-Pxor4I80ZPNCe61ghTRQnRf8HxOEeTJhG-Bw_lI-VzaB7y48eFSgyPn4kQLrqEB9q3I8yTDj88fFkqfKGD_hLCfDnkGT-R49FzFPZJhKagpbYQ9iFxJkfzUMiPX_ghPtyE3ugaEslSs3jwo-Z8-MePH86eDuGM5PjxKE_QPNmFCw0-5cgdiD_y4pMePAriTkML8UVZ23iP58ePj9CDb5LxoDz8Ho3xR0py3Gyg5dCm5ThxqglyqXiO5kefHveJHzEP_UZ-4kqNJ0afw3ERxsmhH1-ZILDY4NvxxDj5GBePkDp8VA7xZN2h6vjRNHlwNF-644f640nECF9yoaKD_0WYH89y_MdnfBJ-NCOLPkT-Q9WO_viFtwvCO_g-XFyO5omCMMST9biqBfphffh05DpOHnlQPUhfGeF3XFF0XLrQNYOWL8dpyvAehD8a3seJnBm0ZEpbhLSMH920GE234MeHnIf2HY3y49lx_EEPOdrRD59ynNLx57h2vGnw2dAkNNmY4VJy_Df0SMMZo9pJohlD4Vou5DkeHj9qBb2MnMeFZs8hZjzKdcRT_IfxZcItfD--BdemGM1zdL2ED-optGh2hPmFXo7wF16V4GZxCf_xo9knJOuOZx_x4zm65oIfot3Rh2Zx7XiN9Mh1dPt26Apj5EJvXEc73fiO60iWHeGUFy8ah4kW_EWYVWrx4MuHsKEOH1V69IF7uImOjwh_6EFMPcV5fHkC-MXFnPiPtyxKr-hjfEHfI8xj4T8uDn6gm0X5DHYkGfKaoM_xF6fT4UeoNtXRjBn-4sFLXMe3FnmO5iNKEnqgcQ2-oxaDsFnQxFPwdHiPSyjSPdC64OXxHNrD4z-sFh8f5IqEXHrwC6LkI9xW4lPxB-0FKz_SGh1x6DqaF2VynFEX9D3yIGQzPLygdRlSRj2qH0czEqWSD7UkmEaoB7IXxDxxXSF-oTyaZznu48d39ImiodNC4whjkUf1XcLzo2eg5Rnuo5yhPjusSEqOPvhD4hFFPEEYNwg__EXOEB-PX8fDIpSkHX6hUduLS0dYNTXe4syRD_pftEqOWHfwDecOf3rx5DCeZSm-kAqa5wif8ZAn_DluI8-OZhL6I_9Q_YMWheFx38iJSuty_AqaP3iIBrUio9qko1lf_Mclx2iX4ZFpvEmRXmKRsAra4ztOoWQYF0-uDL2C3Dm0Ty7CmMFzeMcXFueVoEkboR9L_Ij_AUEURMYKIBACTgnmgDAGAMeQAcgBIYQCyDABDBFIGAGQAAwBhJyDigEkkBKECCGIQQYQA4AhwgghKUGCIGqEJwoRJIAwxjDDAFBAEKKUUYAYYYQyRAAAHCICEKSUMYYJoQgCCAlpFFCAIYEMIEIAhQCSUBClkAEAOCAEMAwIRgBxBgBCBWJCGIENUQIRJQRxAFhCECCUEIOMUQQpBIAmlhDhBAAAIQIkIEQQQIxARCAliKCQEOCIIMQYAS02RjAiGBEAAUAQEEYpMYQAggiCDDBMGGEAAUQZAQARAgLhECUACDAAgBAJwQwhQAkmFFCGUgKEMEop4whCDCFCAFFKGUcgQAIQAwQCgglghBJGEaQAgoMApQQDQhhAEFFEAACQUoIQoJgCjAgFFRBgACOcJcQwpIgARiAigEBUIMOAAABByAgkQBUKDEBGMOQMIYohI6wwSgAiKBDMEqAUYgQIBCxAjADEzgJEEAkEQMwQIpAQAggCCGEKACSABIRwAqBxTBgBBKKEImWIoUAQRw1RRAgLhCFEAIGMAgYqAAADVgioGAUAHKYAIFgQqZwSgAFAhQDAGk0gEcAAABCESjGDCHACMcSIIMJAgpAiBikIjAIWCoIQNxAAiIwQRAAEAGEIKQIJJAIQQq0wgCjFAAFKIMEAcgQRoAggDhAihAACKAGIYEgAQggBBAmHjCMFIEGYAYYoJYgRAhgCACJOUAAMIlAIQgUjjhhAAAAAESMAMAoBQRyhgAgmBFSIAAYIYo4JAQAwyCCikCKSCKIMcQoJZQwiCAgEFAAAEaGUAQohBQQighgigHGASCqgAsoQ5IBQQBMhJACQCmAIMkQYoBBDgiBkFCfAUAWYAQ4YZAhSAgAgECRYMACAUUAARAAQAhgDCrDKEAEUE4AwQJhgQAgivGBAMEYIcoIAA6ggQCghjDBEGKMYYAAICoBCABMHBIIGGGewIYIgbgg&meta=recordings%20releasegroups%20compress
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      Accept:
+      - "*/*"
+      User-Agent:
+      - rest-client/2.1.0 (darwin20.3.0 x86_64) ruby/2.7.1p83
+      Accept-Encoding:
+      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+      Host:
+      - api.acoustid.org
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Date:
+      - Tue, 29 Jun 2021 21:18:30 GMT
+      Content-Type:
+      - application/json; charset=UTF-8
+      Transfer-Encoding:
+      - chunked
+      Connection:
+      - keep-alive
+      Vary:
+      - Accept-Encoding
+      Access-Control-Allow-Origin:
+      - "*"
+      X-Envoy-Upstream-Service-Time:
+      - '65'
+      Strict-Transport-Security:
+      - max-age=15724800; includeSubDomains
+    body:
+      encoding: ASCII-8BIT
+      string: '{"results": [{"id": "0c5eeefa-82ee-43c5-9f79-a6d872658023", "recordings":
+        [{"artists": [{"id": "056e4f3e-d505-4dad-8ec1-d04f521cbb56", "name": "Daft
+        Punk"}], "duration": 217, "id": "77eb9a09-f507-4455-b40b-589386cae338", "releasegroups":
+        [{"artists": [{"id": "056e4f3e-d505-4dad-8ec1-d04f521cbb56", "name": "Daft
+        Punk"}], "id": "93341465-cd7e-4558-aeeb-05676210acb8", "title": "Daft Club
+        Net Songs", "type": "Other"}, {"artists": [{"id": "056e4f3e-d505-4dad-8ec1-d04f521cbb56",
+        "name": "Daft Punk"}], "id": "1fd2e0fe-90f6-35ca-92c0-d816ab3bb79c", "secondarytypes":
+        ["Remix"], "title": "Daft Club", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "425ecc68-fed2-3e77-a9dd-9801e125ff78",
+        "secondarytypes": ["Compilation"], "title": "Kiss of the Dragon: Music from
+        and inspired by the motion picture", "type": "Album"}, {"artists": [{"id":
+        "056e4f3e-d505-4dad-8ec1-d04f521cbb56", "name": "Daft Punk"}], "id": "705354d1-3fa7-4af4-b982-18243c6c20be",
+        "secondarytypes": ["Remix"], "title": "Aerodynamic (Slum Village remix)",
+        "type": "Single"}, {"artists": [{"id": "056e4f3e-d505-4dad-8ec1-d04f521cbb56",
+        "name": "Daft Punk"}], "id": "2a7840ab-9567-37f4-85b8-3208db09434b", "secondarytypes":
+        ["Remix"], "title": "Discovery: Bonus Tracks From daftclub.com", "type": "Album"},
+        {"id": "aa5b9bea-dcdf-4911-838f-8f90b0fc1171", "title": "Harder, Better, Faster,
+        Stronger", "type": "Single"}], "title": "Aerodynamic (Slum Village remix)"},
+        {"id": "8f36491a-bdc7-4434-bfad-8f0ac5304a54"}], "score": 0.926226}], "status":
+        "ok"}'
+    http_version:
+  recorded_at: Tue, 29 Jun 2021 21:18:30 GMT
+recorded_with: VCR 3.0.3

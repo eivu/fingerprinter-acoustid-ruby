@@ -21,7 +21,7 @@ http_interactions:
       message: OK
     headers:
       Date:
-      - Tue, 29 Jun 2021 13:48:21 GMT
+      - Tue, 29 Jun 2021 21:24:08 GMT
       Content-Type:
       - application/json; charset=UTF-8
       Transfer-Encoding:
@@ -33,7 +33,7 @@ http_interactions:
       Access-Control-Allow-Origin:
       - "*"
       X-Envoy-Upstream-Service-Time:
-      - '176'
+      - '131'
       Strict-Transport-Security:
       - max-age=15724800; includeSubDomains
     body:
@@ -437,5 +437,5 @@ http_interactions:
         "title": "Convoy O.S.T.", "type": "Album"}], "title": "Southern Nights"}],
         "score": 0.895022}], "status": "ok"}'
     http_version:
-  recorded_at: Tue, 29 Jun 2021 13:48:21 GMT
+  recorded_at: Tue, 29 Jun 2021 21:24:08 GMT
 recorded_with: VCR 3.0.3

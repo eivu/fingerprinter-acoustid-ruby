@@ -1,0 +1,29 @@
+{
+  "results": [
+    {
+      "id": "4106a693-6a5a-46d2-911a-47bff5ab3fd3",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "3c3d3ad8-3935-4c00-affb-768563916f36",
+              "name": "Fluke"
+            }
+          ],
+          "duration": 441,
+          "id": "ab971ac0-d6b4-4f5f-a6f1-d93355d5a5d3",
+          "releasegroups": [
+            {
+              "id": "50615933-ee44-33a2-b6e1-75f9dd35b937",
+              "title": "Risotto",
+              "type": "Album"
+            }
+          ],
+          "title": "Reeferendrum"
+        }
+      ],
+      "score": 0.956561
+    }
+  ],
+  "status": "ok"
+}

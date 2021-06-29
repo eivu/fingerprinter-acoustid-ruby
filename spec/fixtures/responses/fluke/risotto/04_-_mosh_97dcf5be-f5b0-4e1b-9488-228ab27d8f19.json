@@ -1,0 +1,29 @@
+{
+  "results": [
+    {
+      "id": "8f989245-2b14-4a1a-839d-80c4253447a0",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "3c3d3ad8-3935-4c00-affb-768563916f36",
+              "name": "Fluke"
+            }
+          ],
+          "duration": 381,
+          "id": "e3f01f00-a13d-4f78-a79d-75cb1be96435",
+          "releasegroups": [
+            {
+              "id": "50615933-ee44-33a2-b6e1-75f9dd35b937",
+              "title": "Risotto",
+              "type": "Album"
+            }
+          ],
+          "title": "Mosh"
+        }
+      ],
+      "score": 0.970198
+    }
+  ],
+  "status": "ok"
+}

@@ -1,0 +1,70 @@
+{
+  "results": [
+    {
+      "id": "6ea1c2c3-4e42-4ddf-b0e9-7a87dd488cd4",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "4a37a655-160e-4961-980e-e639bd16f93e",
+              "name": "Quindon Tarver"
+            }
+          ],
+          "duration": 249,
+          "id": "30058a72-6bb1-4a25-b870-f138c875ddc0",
+          "releasegroups": [
+            {
+              "id": "1055966e-6ca3-464b-aced-cf076d557244",
+              "title": "When Dove's Cry",
+              "type": "Single"
+            }
+          ],
+          "title": "When Dove's Cry"
+        },
+        {
+          "artists": [
+            {
+              "id": "4a37a655-160e-4961-980e-e639bd16f93e",
+              "name": "Quindon Tarver"
+            }
+          ],
+          "duration": 246,
+          "id": "bca9424d-c42a-45ea-b72f-0297f074b0f1",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "5f81b95c-8a86-357d-88a4-4760ead1e413",
+              "secondarytypes": [
+                "Soundtrack"
+              ],
+              "title": "William Shakespeare’s Romeo + Juliet, Volume 2",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "650ebbf1-e25c-3f13-ac2b-d98010c1c5ee",
+              "secondarytypes": [
+                "Soundtrack"
+              ],
+              "title": "William Shakespeare’s Romeo + Juliet: Music From the Motion Picture",
+              "type": "Album"
+            }
+          ],
+          "title": "When Doves Cry"
+        }
+      ],
+      "score": 0.950026
+    }
+  ],
+  "status": "ok"
+}

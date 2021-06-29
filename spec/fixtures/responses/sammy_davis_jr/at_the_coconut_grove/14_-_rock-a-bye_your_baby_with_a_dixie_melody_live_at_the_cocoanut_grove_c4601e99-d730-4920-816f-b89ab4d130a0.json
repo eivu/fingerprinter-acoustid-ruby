@@ -1,0 +1,29 @@
+{
+  "results": [
+    {
+      "id": "fd5bf36c-1202-4996-b18c-5b90074a9c85",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "4bc9e8c3-7eae-454f-a56c-bccf96f3926b",
+              "name": "Sammy Davis Jr."
+            }
+          ],
+          "duration": 191,
+          "id": "0a1b8ff1-5625-4d5f-b22a-1333ad83d52c",
+          "releasegroups": [
+            {
+              "id": "515cf724-5ee4-35f7-84e7-7389be65ecba",
+              "title": "That's All!",
+              "type": "Album"
+            }
+          ],
+          "title": "Rock-a-bye Your Baby"
+        }
+      ],
+      "score": 0.955762
+    }
+  ],
+  "status": "ok"
+}

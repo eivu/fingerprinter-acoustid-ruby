@@ -24,19 +24,20 @@ describe Eivu::Misc do
         tagger      = ID3Tag.read(mp3_file)
         response_path = Eivu::Misc.file_paths_for(file)[:response]
 
+        fingerprinter = Eivu::Fingerprinter::Acoustid.new
+
         if File.exists?(response_path)
           response = Oj.load(File.read(response_path)).deep_symbolize_keys
         else
           sleep(snooze_duration)
-          fingerprinter = Eivu::Fingerprinter::Acoustid.new
           fingerprinter.generate(file)
           fingerprinter.submit
-          described_class.store_data_for(fingerprinter, file)
           response = fingerprint.response
+          described_class.store_data_for(fingerprinter, file)
         end
         
         result_set = Eivu::Objects::ResultSet.new(response)
-        match = result_set.best_match(duration: fingerprinter.duration, release_group_name: tagger.album)
+        match = result_set.best_match(duration: fingerprinter&.duration, release_group_name: tagger.album)
         puts "rec id: #{match.recording.id}"
         puts "album: #{match.release_group.title}"
         puts "title: #{match.title}"

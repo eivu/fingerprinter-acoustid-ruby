@@ -25,14 +25,14 @@ describe Eivu::Misc do
         response_path = Eivu::Misc.file_paths_for(file)[:response]
 
         fingerprinter = Eivu::Fingerprinter::Acoustid.new
-
-        if File.exist?(response_path)
+        if File.exists?(response_path)
           response = Oj.load(File.read(response_path)).deep_symbolize_keys
+          puts "skipping......."
         else
           sleep(snooze_duration)
           fingerprinter.generate(file)
           fingerprinter.submit
-          response = fingerprint.response
+          response = fingerprinter.response
           described_class.store_data_for(fingerprinter, file)
         end
 
@@ -42,7 +42,7 @@ describe Eivu::Misc do
         puts "album: #{match.release_group.title}"
         puts "orig: #{tagger.album}" 
         puts "title: #{match.title}"
-        puts "distance: #{Levenshtein.distance(tagger.album, match.release_group.title)}"
+        puts "distance: #{Levenshtein.distance(tagger.album&.downcase, match.release_group.title&.downcase)}"
         puts '--------------'.light_blue
       end
     end

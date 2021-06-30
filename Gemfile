@@ -13,3 +13,4 @@ gem 'rspec', '~> 3.10' # testing lib
 gem 'rubocop', '~> 1.17'
 gem 'vcr', '~> 3.0', '>= 3.0.1'
 gem 'webmock', '~> 3.13'
+gem 'levenshtein-ffi', '~> 1.1' # implementation of the levenshtein distance algorithm.

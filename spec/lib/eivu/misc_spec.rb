@@ -26,7 +26,7 @@ describe Eivu::Misc do
 
         fingerprinter = Eivu::Fingerprinter::Acoustid.new
 
-        if File.exists?(response_path)
+        if File.exist?(response_path)
           response = Oj.load(File.read(response_path)).deep_symbolize_keys
         else
           sleep(snooze_duration)
@@ -35,13 +35,14 @@ describe Eivu::Misc do
           response = fingerprint.response
           described_class.store_data_for(fingerprinter, file)
         end
-        
+
         result_set = Eivu::Objects::ResultSet.new(response)
         match = result_set.best_match(duration: fingerprinter&.duration, release_group_name: tagger.album)
         puts "rec id: #{match.recording.id}"
         puts "album: #{match.release_group.title}"
+        puts "orig: #{tagger.album}" 
         puts "title: #{match.title}"
-        match.print_artists
+        puts "distance: #{Levenshtein.distance(tagger.album, match.release_group.title)}"
         puts '--------------'.light_blue
       end
     end

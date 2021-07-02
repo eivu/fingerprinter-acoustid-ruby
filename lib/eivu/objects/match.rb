@@ -1,7 +1,7 @@
 # frozen_string_literal: true
 
 require_relative '../eivu-objects'
-require 'forwardable'
+require 'active_support'
 
 module Eivu
   module Objects

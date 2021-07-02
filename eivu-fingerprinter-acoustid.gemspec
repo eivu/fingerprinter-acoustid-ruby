@@ -1,10 +1,10 @@
-require File.join File.dirname(__FILE__), 'lib', 'icalendar', 'version'
+# frozen_string_literal: true
 
 Gem::Specification.new do |s|
   s.authors = ['Robert Jenkins']
   s.email   = ['me@rkj3.com']
 
-  s.name = "icalendar"
+  s.name = 'eivu-fingerprinter-acoustid'
   s.version = '0.1.0'
 
   # s.homepage = "https://github.com/icalendar/icalendar"
@@ -13,9 +13,8 @@ Gem::Specification.new do |s|
 #   s.description = <<-EOD
 # uby wrapper for the AcoustID service
 #   EOD
-  s.files       = ['lib/hola.rb']
-
-
+  s.files       = ['lib/eivu-fingerprinter-acoustid.rb']
+  s.require_paths = ['lib']
   # s.files = `git ls-files`.split "\n"
   # s.test_files = `git ls-files -- {test,spec,features}/*`.split "\n"
   # s.executables = `git ls-files -- bin/*`.split("\n").map { |f| File.basename f }

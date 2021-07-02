@@ -1,9 +1,9 @@
 # frozen_string_literal: true
 
-require 'eivu/objects/artist'
-require 'eivu/objects/base_class'
-require 'eivu/objects/release_group'
-require 'eivu/objects/recording'
-require 'eivu/objects/result'
-require 'eivu/objects/result_set'
-require 'eivu/objects/match'
+require_relative './objects/artist'
+require_relative './objects/base_class'
+require_relative './objects/release_group'
+require_relative './objects/recording'
+require_relative './objects/result'
+require_relative './objects/result_set'
+require_relative './objects/match'

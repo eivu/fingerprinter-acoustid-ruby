@@ -1,6 +1,6 @@
 # frozen_string_literal: true
 
-require 'eivu/objects/base_class'
+require_relative 'base_class'
 
 module Eivu
   module Objects

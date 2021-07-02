@@ -1,0 +1,213 @@
+---
+http_interactions:
+- request:
+    method: get
+    uri: https://api.acoustid.org/v2/lookup?client=<ACOUSTID_CLIENT_ID>&duration=267&fingerprint=AQADtMqSJEmqJMmEXEcTSzk0Tykoh0Eu6XhqNHGOOPCuQvtxHeFTMCeuvHguossDO0fIn9CDdkWY6Bf44zoaDrEDNfk0uNImZNoUGbWOHM2jGNeWQkvCfNB34hn-B2EqxmhF5MFJQZzEGJ-CtBr-I0uXHE7wQ0uF_MI3HqWU5UPD4Vp09Dn8C-E64R20KsOP2AycMvhiWJaOUP6gbzlq_siS57h2-MtxVkzwC1Zw58cjCW8apD3-QktGHuEORpJ2NE2kMDiPPkcam3DiFtqRa8d38NGOwvuCO8KP_Oh86HOOdgeVH0V9DmKcVsM13uB-fAthxin65IF6vEo-nIWvCGcgJ8P5EGHMpOiOI5tyEWfo4Gmhc4fj4WFyfM_Ro2F-6LnwJUS_I2VRNQEDf6GGTto2hB-J8xB_8FOOSzxxpIkYeeh_0EdoSdCXPOjxR8ibo1Gko-WD8zk-LcFLwdr0BNkPTeeQLhfRVFuPTyxqoolzPLwQ6oeWB5kXnMrxFV_QREyPTttxvB96gc8Do5MqHPUPx5kqnJeQ_YMu50jTEN2U43qC0-iboamOO0ceyIr4qHA6hcCpQ4ty1PrQ64JDEX-gMzu67_gq5PiED2H2HFVP5Av6ww7RqbPQ7_AIvkcuBz36C400yYJ65FEHJk2iwCeD_sfDCCFzaGnyCHG2Cz_8HA-N8wyeI22S3FDpEXEa9vjx8MXz4MgH8dkRG-SUCH-OK8-Ikjmo78iTGYd-FUgpvLh6pF3wHGJ-9Mjlo08cBmkWx4E27_guHA_x-VBfItyHKeGGPfhC-D1ONFqYMEN4vUhONAL3S0VTeQme4CJ6BilzaPeRdSOaXwilKviTQht_-EcfIz8qHmm-HFXKQyePHmm3B30eo3YCx9lxfQksDeUiGd-OG422VUEoTR_0IdeO5uClB8_iCFeH7kS8H80OzeBzhFb4AyVlPDvKSfCPUKTwPtCP_kP6oj6uIHzgeDK07niO68GzHI96NPtR_cGR3rjIE212NFaU4zweRMqzQOOKsJEUNA-6JnD-ovaFXLgW6EQoYwp1PMrxC7_kIffw79A6rA9yMfDxwZ-PPD-06PFwFbGXGO1oNGOOm2mC9UNsHd6KbxKFM6TQPOiarygXqgKTE72ORhOhDz_a5eg-_DYeHdoTorGP-EeHlDze4yd86C2uwT6-nvjhGaJMF6GO6wVfNIxyov-CUBRFQpukKMGVD8d1yLODJlN6hD--KOjW-GicLEbMHs15aEf1Ga8ORjyu44cP_cHJIu7B5CFX9MgzisVHaIe3EPmtgD1OpOeJTgsL3QetfUif4-HR_EMfKQwabU9Qifh8XNkRPkuKhr4g_UL1HGGk2GiiykIfKaGIiwjzvKgMTfF1NDvyfOCp4smCvoczPMefIy-kHE-O9nBQc0V7Q8-awRH1UPiJSyIoN0WfB4e-TMfhaY_wnVD1CRcTBo0ZowfnHM9TyGEePFqHJhcqKvmMt7gO_4KOX4j3oj8s9A86UJSUJsNxpM8h_Ti3CrV4NJ-DcG2HH6eQhZsO8XnQVMepRMGTHemkHc-e4w7OKSl6hkOYUMcPTSqPlJfBZEoW57iyHH1C-EeohDm0xB_C48PP4Rv6hWjidDiP3EH4Gl6jcvjx4w0-4Q9-BVaPHIkuKTm-wE8Z9NFxiTmaNEStdLgu5Dk-KoEzFceVw8qRE1meHE0lBTp5dOIR6sfxHY9OnEU1HmF28OgPP0e5xkInhvB42IXrMCIuXvjhmM1QHbqKZtOO64f_oFYWPNIhRppePNpz5JSFXGiaHPWLW9DyHE8akQiTxZHA88i1HH0YDpV1XGTBUYS35MF14YVzfAvKHWa04Nkg9gdzCW-cwE905AwuofoSH0yOb8H3wY2-ICdz4Ruh7fg8lIsOeU0y3DqafEa4HueFPAeTRz50ozF1XMdHHT_-TdBSoc-R6-jT4b7RMngsoQl79BmybD8-Qn9wws_R6qi3WIPV5YK67YevIzTRbMlROx0ucsH4nLCy4crxN0TUwW4qqOqN60PLIe0Pe0ll8BIJxznCHZVh7hk06uiL9ISvGwxx5ih5IbUUDqehST2OPip8dPvxoaMOMU_RB3cvvLKGP9AnFpOoG83xoTqU6cYWMWSI0NTxLR--5nCVHbnQsSnEOYGZBd2NP7iy409V6MnQ8kdz5GSOlUlk_BeuC_nRQfyDqxjyEWm3H6_g-NDq6riSI-cTnKLRTVmKJsdzYl54NFwnDtWF8CqY6Dn6BOKV4-zQqMT1CW_Q_6h-QLoSlDwRxsb1oztS8vjBQxx99DlaIT2OXBVeGaqD8DVYHdcf-Jlxfggl0pCl5qgoHfdx55DXOGgyhTlC77jRKfaRJc9iPM-giYb3FLF6oauOeDk-4R_E488RN7Tx6mieckWrI3s0FZ-g5cWDLH2OF82PcM3xEfqD7Dt8_PCZ45MThAl3oiS-9MJtNG4MzdKRo8lJGszGo4nGGLWk4DmaI3Z6JFSOyl9xmbgW4vD1AN9yhF9KWGGhd_AYvC3MScE_6IfzK8jVi8JxDpmsGbV0qOKFK9LRMWge4dohJyxOpzn84FWO95Cap8KZB2-0omJFNM_xHL8gjsevI08-nOHxFdSOCz38HN8UD7mIu5HwQqyDg3-EVKWHnkc2qiinCLoe9DrOScgjWLnxJ8d7fM6EMO6DWvsgH1mk8jB_NNVS4UuWLKiVIEwMuUco9WiOZ4kK3sFzouIHj0F7FVdVnMcvgrl0NBR-4zl6WnieBA8Ao5SBTDFCkAAGSAYAMkIJwAwBEDlABCGeCKIAAUgAAhFBSAAkCAIEUCCEEEQAApgQAhkAhFHOICAGUwJZIQwTzAEKlEPAIAiAEAQYYCQRAhIGAANEESEMAMAaY5AjChAiCRGICDGEEYBYABAQhBAiFCAMMEGQMMBIBAhYgjJhiDEAEIEUYMQBAByQHABMCDDAAIUIMMQJAQgCRAkgBDGEEGEAg4YAgxAhAhIhiCAIMcSQIAIYowBAFkBmhBAIoWGAAQgpZAAgAABkhABEIeGEAcYAAJBRyDmAIAAeAGWIEMwSIRAAAgEHoBIMAEMQIEhABQA3RFEBoDBGOQAMM4AYQogIxgjgFdKOEAeAAIBIgxwRBAABAoAGECOgoJgpAYExRAjjIAWEACCUQEZIYgQRAgn3gFAGAAAIA4IoJZwCAxAoFDDEAIGBIUAAJCRSQBiDBBBAGQcQAEBARYAighEhgNJKOIKIgEAYEAQgxjBkBAFGESCAAIY4I4wjylIAGRBCQAkIIAYoQogREgAjqEACAQEEERYZQSxBRDBFhBIUOOJYUAIIQADgigiALDFAAQCVIsgoQIgVhBiDgHFGFIIMAEYRAowQ1DCKBBDSCEGEQMhagZ0SQgEBCABIIwIEAhJJYIAD1ighiCAIACGBAMYghYgSAghjFEOECSEgQQgIgYlQiCgCLCUKCASMMUgZDIAyxhgAhDNAUCeEAIQAYAhDiAhiAAKCEEAYIQgBRIAQBjggEKCMCKAkAAQQYoQgwDhAgDDIEOGEMNwIwbQBABBBAEOAEAEAUEQYgYgjkggkFICKCSUAUgwZwoQQhAKniBHIKEAYAMoJpChAgAgIkIACGCAAIgYJSgQQBlBBADFAIEGAMQgBRAgCVllDCGCKGWMUMUIAY4wShAgAGGKEGEMJUE4BQpgjAghigGBEAA&meta=recordings%20releasegroups%20compress
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      Accept:
+      - "*/*"
+      User-Agent:
+      - rest-client/2.1.0 (darwin20.3.0 x86_64) ruby/2.7.1p83
+      Accept-Encoding:
+      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+      Host:
+      - api.acoustid.org
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Date:
+      - Fri, 02 Jul 2021 04:25:17 GMT
+      Content-Type:
+      - application/json; charset=UTF-8
+      Transfer-Encoding:
+      - chunked
+      Connection:
+      - keep-alive
+      Vary:
+      - Accept-Encoding
+      Access-Control-Allow-Origin:
+      - "*"
+      X-Envoy-Upstream-Service-Time:
+      - '118'
+      Strict-Transport-Security:
+      - max-age=15724800; includeSubDomains
+    body:
+      encoding: ASCII-8BIT
+      string: '{"results": [{"id": "7aa7281e-100f-425a-a9d6-0dd7376d6130", "recordings":
+        [{"id": "4222fb3e-6918-40ae-b417-2b31fa74ff70"}, {"artists": [{"id": "596ffa74-3d08-44ef-b113-765d43d12738",
+        "name": "Justin Timberlake"}], "duration": 267, "id": "4d5e00aa-f503-4b2d-af27-928fab4148d7",
+        "releasegroups": [{"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "7551fdd1-6d9f-45a4-a8a8-889bab1c8ee0",
+        "secondarytypes": ["Compilation"], "title": "Mastermix Professional Engineered
+        for DJs: Decades", "type": "Album"}], "title": "Rock Your Body"}, {"artists":
+        [{"id": "596ffa74-3d08-44ef-b113-765d43d12738", "name": "Justin Timberlake"}],
+        "duration": 269, "id": "bcd46548-901e-4c29-943b-9daff8d301b0", "releasegroups":
+        [{"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various
+        Artists"}], "id": "0fc2fe58-1d6a-46e9-a64e-ed349c8cb810", "secondarytypes":
+        ["Compilation"], "title": "Top Kids", "type": "Album"}, {"artists": [{"id":
+        "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}], "id":
+        "546f3b84-7c27-4498-84f3-e0f423c7b5b0", "secondarytypes": ["Compilation"],
+        "title": "Hits For Kids 10", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "31c425b8-56e2-4aae-b0ec-ff18d51ae0c4",
+        "secondarytypes": ["Compilation"], "title": "Radio 10 Top 4000 Editie 2018",
+        "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "d38f8c21-4766-4ea3-966e-b8d41f8e6cb4",
+        "secondarytypes": ["Compilation"], "title": "Rap & R''n''B Non Stop 2004",
+        "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "ffc05831-67e4-32bb-9db3-c69e6c84bb87",
+        "secondarytypes": ["Compilation"], "title": "Promo Only: Mainstream Radio,
+        April 2003", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "eafcd55e-d3c0-4ea4-9826-491e4345b7f6",
+        "secondarytypes": ["Compilation"], "title": "Nachtschicht, Volume 44", "type":
+        "Album"}], "title": "Rock Your Body"}, {"artists": [{"id": "596ffa74-3d08-44ef-b113-765d43d12738",
+        "name": "Justin Timberlake"}], "duration": 267, "id": "fc4df577-131b-4b88-b468-37a1b9a69570",
+        "releasegroups": [{"artists": [{"id": "596ffa74-3d08-44ef-b113-765d43d12738",
+        "name": "Justin Timberlake"}], "id": "4fd9da7e-53f3-376f-a659-08d24ed67110",
+        "title": "Rock Your Body", "type": "Single"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "f346af42-1182-42a5-9cbe-fcd7946e0320",
+        "secondarytypes": ["Compilation"], "title": "Het beste uit 2500 x Top 40",
+        "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "b5a4014a-ad97-35ce-8244-b74e15a35de6",
+        "secondarytypes": ["Compilation"], "title": "Now That\u2019s What I Call Music!
+        56", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "62d5774f-172a-34b3-b393-113521aef9ad",
+        "secondarytypes": ["Compilation"], "title": "So Fresh: The Hits of Spring
+        2003", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "89c73551-2331-429a-8c55-4f2353770a2b",
+        "secondarytypes": ["Compilation"], "title": "Pop Party 2", "type": "Album"},
+        {"artists": [{"id": "596ffa74-3d08-44ef-b113-765d43d12738", "name": "Justin
+        Timberlake"}], "id": "424620c6-e416-3ce8-bfcc-d5c59952456d", "title": "Justified",
+        "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "38b6bdd2-3b3a-3a11-8f65-968da5ded03a",
+        "secondarytypes": ["Compilation"], "title": "New Woman: The New Collection
+        2004", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "a9d76370-ea98-3f00-99ed-fcb26d243339",
+        "secondarytypes": ["Compilation"], "title": "Now That''s What I Call Music!
+        5", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "726e7b97-03cf-42f2-8bec-def514d5cacc",
+        "secondarytypes": ["Compilation"], "title": "NOW 100 Hits: Car Songs", "type":
+        "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name":
+        "Various Artists"}], "id": "e90d45ac-b6c1-3841-8aaa-5e0b9113ee38", "secondarytypes":
+        ["Compilation"], "title": "The R&B Yearbook", "type": "Album"}, {"artists":
+        [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}],
+        "id": "01a29bb9-ed7e-3daa-b78d-9119292831c1", "secondarytypes": ["Compilation"],
+        "title": "Bravo: The Hits 2003", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "047b2647-7020-47a7-963e-557ce0080738",
+        "secondarytypes": ["Soundtrack"], "title": "RTL Doctor\u2019s Diary", "type":
+        "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name":
+        "Various Artists"}], "id": "9fac2831-fd92-491f-8e60-e7df431b5342", "secondarytypes":
+        ["Compilation"], "title": "Now That\u2019s What I Call Music! 13", "type":
+        "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name":
+        "Various Artists"}], "id": "967b49a0-4a2e-3203-b9e1-d787cac6f347", "secondarytypes":
+        ["Compilation"], "title": "Miss Independent: 40 Tracks for the Girl With Attitude",
+        "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "f0f3b613-f0f6-43a5-bd3f-6b0dde53d332",
+        "secondarytypes": ["Compilation"], "title": "Veronica 00''s Top 500", "type":
+        "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name":
+        "Various Artists"}], "id": "251e520d-f11e-452d-8445-139307eeda79", "secondarytypes":
+        ["Compilation"], "title": "JUICY COOL & SEXY TUNES", "type": "Album"}, {"artists":
+        [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}],
+        "id": "e9975753-27e9-4e4b-8095-a6f59c5bb9d8", "secondarytypes": ["Compilation"],
+        "title": "60 Jahre Rock\u2010Pop, Vol. 2", "type": "Album"}, {"artists": [{"id":
+        "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}], "id":
+        "1373f1fc-3de1-3d88-a116-05a0235502d9", "secondarytypes": ["Compilation"],
+        "title": "Ultimate Feelgood Anthems", "type": "Album"}, {"artists": [{"id":
+        "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}], "id":
+        "b902a786-8616-40d2-afd0-5e792cd38489", "secondarytypes": ["Compilation"],
+        "title": "Heart Feel\u2010Good Songs", "type": "Album"}, {"artists": [{"id":
+        "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}], "id":
+        "d7e145e9-46fa-4425-a60a-df7fb925367e", "secondarytypes": ["Compilation"],
+        "title": "Baby Loves Disco", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "597b6506-3492-3aec-a7a8-b62f8e148af8",
+        "secondarytypes": ["Compilation"], "title": "Pop Rocks", "type": "Album"},
+        {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various
+        Artists"}], "id": "d08c53f4-0719-4f92-8680-0d8110383bf9", "secondarytypes":
+        ["Compilation", "DJ-mix"], "title": "Kisstory 2017", "type": "Album"}, {"artists":
+        [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}],
+        "id": "b24f2b82-8473-3d6e-b63c-faed61f06ae1", "secondarytypes": ["Compilation"],
+        "title": "NRJ Music Awards 2004", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "b8d74e1a-adc3-4221-9278-86d24d98d778",
+        "secondarytypes": ["Compilation", "DJ-mix"], "title": "Throwback House Party",
+        "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "03b7a13b-f22b-3a04-a8df-27783cd3727e",
+        "secondarytypes": ["Compilation"], "title": "Essential R&B: The Very Best
+        of R&B: Summer 2005", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "d53c9ab9-a5f5-4fef-85e6-019aa6879e8e",
+        "secondarytypes": ["Compilation"], "title": "Ultimate Feel Good", "type":
+        "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name":
+        "Various Artists"}], "id": "fa16774f-9980-4709-8230-0978b5d4ce40", "secondarytypes":
+        ["Compilation"], "title": "Pure\u2026 Dance Party", "type": "Album"}, {"artists":
+        [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}],
+        "id": "caf89ef8-ac87-3d83-ae28-6da93419a82c", "secondarytypes": ["Compilation"],
+        "title": "The Best Summer ...Ever!", "type": "Album"}, {"artists": [{"id":
+        "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}], "id":
+        "f819baff-55db-443e-aa87-0cf0da43fb53", "secondarytypes": ["Compilation"],
+        "title": "101 Pop Hits", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "90aea88e-b327-3a00-9ad2-c5eee058afa9",
+        "secondarytypes": ["Compilation"], "title": "R&B Anthems", "type": "Album"},
+        {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various
+        Artists"}], "id": "002cd3f3-2d45-3786-acbd-db114083bf06", "secondarytypes":
+        ["Compilation"], "title": "Fetenhits: The Real Classics, Volume 5", "type":
+        "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name":
+        "Various Artists"}], "id": "cdb1c3aa-52d9-41f1-89fc-5a670fbb8f16", "secondarytypes":
+        ["Compilation"], "title": "NRJ Hits 2003", "type": "Album"}, {"artists": [{"id":
+        "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}], "id":
+        "ed2d300c-16e8-4706-a6ea-aa8ad06fab12", "secondarytypes": ["Compilation"],
+        "title": "Black Flavour Club III", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "e6016585-0822-4525-9b75-3f78afaf32b3",
+        "secondarytypes": ["Compilation"], "title": "DJ 2000er Edition", "type": "Album"},
+        {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various
+        Artists"}], "id": "6abfa392-1d84-4eb8-8366-e2256088b05a", "secondarytypes":
+        ["Compilation"], "title": "Brit Awards 2015", "type": "Album"}, {"artists":
+        [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}],
+        "id": "d78b883b-7c29-44e0-b158-51fc3fd5c89f", "secondarytypes": ["Compilation"],
+        "title": "Pure\u2026 R&B Party", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "c419431f-8d0b-31a4-913c-2bcc25bae27d",
+        "secondarytypes": ["Compilation"], "title": "R&B Summertime", "type": "Album"},
+        {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various
+        Artists"}], "id": "5841cbfb-d17c-4e3c-af9e-339a1a4f88b5", "secondarytypes":
+        ["Compilation"], "title": "101 R&B Hits", "type": "Album"}, {"artists": [{"id":
+        "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}], "id":
+        "b70ed6d5-2bc4-4213-b594-f4d301449d34", "secondarytypes": ["Compilation"],
+        "title": "101 Number Ones", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "7319855e-3a30-3e54-8d62-66a77b6c3cd9",
+        "secondarytypes": ["Compilation"], "title": "R&B: The Collection", "type":
+        "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name":
+        "Various Artists"}], "id": "dc3a8275-b990-4fd8-a71c-11dbe7c9cb2b", "secondarytypes":
+        ["Compilation"], "title": "The Hits Album: The Car Album", "type": "Album"},
+        {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various
+        Artists"}], "id": "204acb13-08c0-494e-bff3-4a4202cfb1a7", "secondarytypes":
+        ["Compilation"], "title": "Just the Best, Vol. 46", "type": "Album"}, {"artists":
+        [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}],
+        "id": "93c7ca63-8c8b-4b90-ae79-7351a75405ed", "secondarytypes": ["Compilation"],
+        "title": "My Kitchen Rules: The Dinner Party Album", "type": "Album"}, {"artists":
+        [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}],
+        "id": "fec06282-581f-403e-bb43-483d0a5e98d1", "secondarytypes": ["Compilation"],
+        "title": "Pepsi: More Music - Volume 3", "type": "Album"}, {"artists": [{"id":
+        "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}], "id":
+        "38112ac7-053d-3c31-9aa3-b1b2350d9b3e", "secondarytypes": ["Compilation"],
+        "title": "Ultimate R&B", "type": "Album"}, {"artists": [{"id": "596ffa74-3d08-44ef-b113-765d43d12738",
+        "name": "Justin Timberlake"}], "id": "63d471eb-7694-4870-b8e5-dd76f42fd5b6",
+        "secondarytypes": ["Compilation"], "title": "Greatest Hits", "type": "Album"},
+        {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various
+        Artists"}], "id": "44f23c77-8214-3ac6-9514-86917951f15d", "secondarytypes":
+        ["Compilation"], "title": "Girls Night Out", "type": "Album"}, {"artists":
+        [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}],
+        "id": "0e6e5a6c-56c4-4cc2-80b8-a451c1333598", "secondarytypes": ["Compilation"],
+        "title": "\u00d63 Greatest Hits 25", "type": "Album"}, {"artists": [{"id":
+        "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}], "id":
+        "e39b4ade-7849-462c-8a7c-5622997ed97f", "secondarytypes": ["Compilation"],
+        "title": "Verdens bedste sommer", "type": "Album"}, {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "9c8c02d2-747c-3dcf-97aa-eccf75407b1f",
+        "secondarytypes": ["Compilation"], "title": "Brit Awards 2004", "type": "Album"}],
+        "title": "Rock Your Body"}], "score": 0.974438}, {"id": "a1b72c00-49ef-4826-8fcb-365f9d80364a",
+        "recordings": [{"id": "0e5df723-a407-497a-8fb5-89fc16fc2a7a"}, {"id": "4222fb3e-6918-40ae-b417-2b31fa74ff70"}],
+        "score": 0.953092}], "status": "ok"}'
+    http_version:
+  recorded_at: Fri, 02 Jul 2021 04:25:17 GMT
+recorded_with: VCR 3.0.3

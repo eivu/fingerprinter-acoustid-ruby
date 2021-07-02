@@ -1,0 +1,132 @@
+---
+http_interactions:
+- request:
+    method: get
+    uri: https://api.acoustid.org/v2/lookup?client=<ACOUSTID_CLIENT_ID>&duration=286&fingerprint=AQADtEmWJNTCRER-nBeuHNeFew38JccXBRePOSfSM8ax68EPX8Uf3MuDf5CPPkN6piD-ok-OY6puWPfx_LjhiA_6Cb3xD0e6oxV-6Ma5ozzkL8gveDtOiigl7MeT4ctB3McV4zywD-uHHPwC_Yi8IWwo_PDR9VAd3MeTPLiyoxe0hMa9YCcuHXl45CROoXsHKg6DHs_xG82TD_3xLyiz1JCNG37QHy96NHehZ8HRIT3xZvCHDyl5HD9EfdiuIhSO6Q_CnMcjnDp4PIfWDz8OT0lx5Yh-CqdEXIebCeeKLwuOk0d6Rgy6ZTr04mhGDWVyTOoLXjx6HvpxMUHY5SgpFH-QomtwEz2OkscbHUVzTUzwnGi4Fv2hkScOqxr6HBWLHZt3uMJ38EmOijp2BdeK8oaV4Nlx9Tjz4WNF6Ec6BR-H7wH2DKfhVseP8MnxTMMFKUfzHs-HHy2R88iTwzr6QDuaa_ha9GGK_LDySgFTsPaKbiN-uChJfCHCzDo05Cm--Pj1oGmOPugRi1E4tHlw8njxEp4cXPiyQ8szhM9wJbB-3ELDByV5_DhVNHWGjsGV4vgd_PlwOcdD_MGUpxIR_vjxd7iYaHBaBlcOXUeVMkfzDGGONjH2tUPzFCWl4_Hwx5iXF1dGCQ-OJtPRTbjY4HKO_mgazcclp8GLajumnBM-M8cZ1MnR9MU_ZM8xOg_kTdhxSUe-HPnRPcNvMElVxMeTo8tdNFWOJ8KVTajUHD9-NLkXJPmOXImOp4rQ5Ii06kieJST-gK86oM-FJvkmHD9yHnqSIcxXlMV5DR1Rvbh48MEvRB-RPBue4zqqbIevo28X_Nj1I3-R8CRukPrx7oF_nBUuw_zxzniR5Q90CaF_vBIeRg9O_KgO10H4S9CjY2KP-0jWRcW1GE2OPn1xRoeHF3ca4T62HeGqINETHz6uwzf64Dd-vDyao_sRJof2Iw_yEW-hUdTxc8jxEl8WpMMf4R98HGKVo_-RH59efDvM4ApR6cWPLc121Grx7ciP5FmcYHqiPKBqONyCkEHiHD_upPgbvMsxJw8aJztqJ9gTJH-ROTu-SwCzK8FJtEpe3PjBScpkfDyuHE2MHvyDH8kyKz1CKWGwJ7iYHtcW9D2a48ezHNeDp_gzIcwzOSh99IR49KfwOE4wHtp1I9OP8-iPHs-JWD2-VEh6oce54VWGPMj64SvODE0c4UfD48_AoYmeBtG3QtQ2VN0s4oeWOkWpBqeGvEXv4V-RCzpS9SiLHz_qwcdPND9uGZGOLBm_YFfGBcVTHg6n4zlSIvnhn7gF143QFw-HJhTCfUOSH48OnsKei2gUJSUqHKeCMxp-PFCP5gqmhcGxNziPL3gPqy_eI3_wSMpxBjf-GpqPXLBC9Ph0vMQ_nIgPRViS9nivQGuLdCuHfzk-5XC-oxfeKvhJJGsOP0NOomTCG1cpnDlCtkiesKh44eiboXkeXAk-JinCeEIy8cCO5-ATPBH2CEesREfyuXimPCL6Hk1N4U8c5Ar0RCifFe6loriEPtBtHA-05weOSNFR7-h5eJYk1B_yGzpzhD7uEOfxZMXhPsjyDLnyBEyeHB1ufMojPDuD8saf4gjTHMmLXUdT5cbELThV8CSuhSwe_DiOYi7xXMghMjty-HhzHC_hKTn64ziv4-pivMfzYHXQPPjwwaHjIB_qHz-08OizFpeUQYf2wFUUbtDhkYdWShtuVFnh42h-_IGCE9HtoF9C-AfTI6bw46PQL3HwYydcJcbxhA70Az9yiqhS_NgrC-8VnEKYM8F06EPtbGj-INcOn8G3JDiNttTQhE-QHz9K-RCfvfAzFFdyQs6LH_ox7YTDH_eD6wDjzdATHM0vMMuJ5wmeZsV99GAyMjj0XER2ZcWNJjmqX7gS5qCp4-JRj3A-pDaXIZkyk_jx4tmP5jl6cH_wPUMeJRcUSQ_SCn9xSZg42ngRUod-4osQ2ge_wBxO_MH1DU2-FCXp4NFxNM-Ovk0x7zme7ciPP6rRGw16Y0rwKMfX5EF18PJw7NB1uOmFPCZ64Tg-PE-QJ9C1LgirCpdC2EGfI4-JB1o_Qaz4BH4UhI-OUGcI60W1D_0l6MdTnHrwFrqDP7gRDv9Rmwyc8KiO41mDfnARPhjFHI9GEaeEixnBR3rQBq6Pcp6hb8V1xD8ozTKuecUTXTjxH0w6HvmRMEVHRZ0xbscX_GjOqqjU49GJb8gZRtByHuGOh3h0Y3ODH8_Rh8QjGdmzQD_CqF4mPM9xPWgutUKt6LiJ6D9K7fCHPseXGBoXckIY5sJxoQuF5rrwIBeP5IKf49lnvAV63Dku8shxHeaY4WLx5MSJ7zjxoDj2I8-JZ0cu5tB3hA1O9_CzFJ-P6Tku_Ah5L0gWcjju4LQSNIyC6cc95FCPXLi64EJOa3jR0_CF6fiLHPnQhy-05PiAfAouieiRU_DkcOiTE3JZAAOJUQQJBIAABgAylFKACAAUogIYAggDRBggLCLKQUSAhQYAwAwzmjCmiBDECkAJYYQYRAxhCAhBkBNIQCGIIAQgIYEgihjBAIKGUEs0gUAgY4BwACkhhBQEIQMMYsx4IgQgzgIgCJICIGGYgkYIwAAhAAygCUICKcQEAwgIg5AQDhgCBBOOEA0QU4QIpYgRAiBgHFDKAAAEAUAJQQQhAhmAADLCAeEEQ1QYAAQByBGkCFOOIIQQAsAL5BhiDBlPABTCECCYMIAAwIQxiBBHkBAAAUEAQQgIh4QxwghBDAMECoEMJdIQQYCCCBAojCIEeAAMIAYQZIABThBAkCMGEaYAAoIQwAQUQiBjkGBSAIYcokISI4lBmBkHmNBMICGUQwQoMAwDlAgmhCDCAaUEgoIa5JQxAjhnkFAEKGcAEIQAAhAhBhBEiBJUEESoANJRQoBjggAjhBCGAKAAQkIRQ4gQhBiuIBEAMiUQFUYZoDQ0SgmoBBECaCOUEMBgA4QFDADggQTKUYY4EoBCYpASDBEBDCKUGGOAQE4YJgghQCAhFEGMCGUEMAwZBAZAXFjDCGbKZACIEE4oJAwAxFMBBAsIGEQEIFooqcASRhAnhiBCOEIZFgRQIEQhzhmHhKgGQoGJQ8AIoAQkiDoMBABMAaaQAIACCwE3BAGmkBAAA6oIcJABBBBAgAgkkABAEEUNJAIYQAADDBAAFECIMKAoAwgJkYwA5ApDHCCEYUWIAcAwYIQTQACAjEJKE4MEQAoQw4ARhhihhAGKISOAIQ4RZJTgFgACChOAUAWEAAggYQClCBBBAABCMcoYQApIJAQgHDAEiHGQCAIF4wwKRYhQQDkiBAVMGEWAZAQAAQwBACIEjFMwCOAMEUAJwgwAgChFoEJESEbBYlA4YQBABADBgEIQGXAZwIQ5CYwRRAjjRAACOQTEBAQ&meta=recordings%20releasegroups%20compress
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      Accept:
+      - "*/*"
+      User-Agent:
+      - rest-client/2.1.0 (darwin20.3.0 x86_64) ruby/2.7.1p83
+      Accept-Encoding:
+      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+      Host:
+      - api.acoustid.org
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Date:
+      - Fri, 02 Jul 2021 04:25:16 GMT
+      Content-Type:
+      - application/json; charset=UTF-8
+      Transfer-Encoding:
+      - chunked
+      Connection:
+      - keep-alive
+      Vary:
+      - Accept-Encoding
+      Access-Control-Allow-Origin:
+      - "*"
+      X-Envoy-Upstream-Service-Time:
+      - '175'
+      Strict-Transport-Security:
+      - max-age=15724800; includeSubDomains
+    body:
+      encoding: ASCII-8BIT
+      string: '{"results": [{"id": "94664ed5-1dc0-4c34-8679-a9b01f671800", "recordings":
+        [{"artists": [{"id": "cc2c9c3c-b7bc-4b8b-84d8-4fbd8779e493", "name": "Adele"}],
+        "duration": 285, "id": "0731a828-a607-4f34-aa7e-5f38bd6f2f93", "releasegroups":
+        [{"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various
+        Artists"}], "id": "13be757e-9973-439c-b53b-e681cd213fb0", "secondarytypes":
+        ["Compilation"], "title": "Mastermix Classic Cuts, Volume 140: Modern Ballads",
+        "type": "Album"}], "title": "Skyfall"}, {"artists": [{"id": "cc2c9c3c-b7bc-4b8b-84d8-4fbd8779e493",
+        "name": "Adele"}], "id": "18f547ea-d090-4e55-afe5-99c8999174cf", "releasegroups":
+        [{"id": "4307ecf9-d0f2-4b95-b7ad-2f8cba84a5e9", "secondarytypes": ["Soundtrack"],
+        "title": "Skyfall", "type": "Single"}], "title": "Skyfall (Shahaf Moran Extended
+        Remix)"}, {"artists": [{"id": "cc2c9c3c-b7bc-4b8b-84d8-4fbd8779e493", "name":
+        "Adele"}], "duration": 290, "id": "228c547c-323f-4b40-beab-a275ccd3cb87",
+        "releasegroups": [{"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "name": "Various Artists"}], "id": "47dca169-2f66-493a-891b-465312144bee",
+        "title": "James Bond Themes (2012)", "type": "Album"}], "title": "Skyfall
+        (2012)"}, {"artists": [{"id": "ecce4724-1238-4286-8753-7ba52928cbd5", "name":
+        "Walt Ribeiro"}], "duration": 280, "id": "31edae1a-7411-4560-ad16-c02062f6efdf",
+        "releasegroups": [{"id": "0a5c30a0-5e4e-4c00-85da-66a139f6e907", "secondarytypes":
+        ["Compilation"], "title": "Every Song!", "type": "Album"}], "title": "Adele
+        ''SkyFall''"}, {"artists": [{"id": "cc2c9c3c-b7bc-4b8b-84d8-4fbd8779e493",
+        "name": "Adele"}], "duration": 277, "id": "4dd209b9-80fd-4e11-8093-3bab2db810fc",
+        "releasegroups": [{"artists": [{"id": "cc2c9c3c-b7bc-4b8b-84d8-4fbd8779e493",
+        "name": "Adele"}], "id": "ad1343e8-1832-4035-8dcc-0bed2daa5ace", "secondarytypes":
+        ["Compilation"], "title": "Greatest Hits", "type": "Album"}, {"id": "e4174758-d333-4a8e-a31f-dd0edd51518e",
+        "title": "21", "type": "Album"}], "title": "He Won\u2019t Go"}, {"artists":
+        [{"id": "cc2c9c3c-b7bc-4b8b-84d8-4fbd8779e493", "name": "Adele"}], "duration":
+        286, "id": "70f45e42-1058-4854-a763-51885db1862a", "releasegroups": [{"id":
+        "971e8b55-e764-4686-8e8a-6a5be244eeb8", "secondarytypes": ["Mixtape/Street"],
+        "title": "Music Sounds Better Fundamentals", "type": "Other"}], "title": "Skyfall"},
+        {"artists": [{"id": "cc2c9c3c-b7bc-4b8b-84d8-4fbd8779e493", "name": "Adele"}],
+        "id": "86e55391-405f-4347-9ca3-79bb6aea6c12", "releasegroups": [{"id": "c9ddd0ed-ba23-4dfc-bb7e-42f8ffb21fb7",
+        "secondarytypes": ["Live"], "title": "2011-04-08: Paradiso FM, Amsterdam,
+        Netherlands", "type": "Album"}], "title": "Hometown Glory"}, {"artists": [{"id":
+        "cc2c9c3c-b7bc-4b8b-84d8-4fbd8779e493", "name": "Adele"}], "id": "a89dc25d-8d7a-47e1-8d9d-3e1ef4e1a8a0",
+        "releasegroups": [{"id": "c9ddd0ed-ba23-4dfc-bb7e-42f8ffb21fb7", "secondarytypes":
+        ["Live"], "title": "2011-04-08: Paradiso FM, Amsterdam, Netherlands", "type":
+        "Album"}], "title": "Right as Rain"}, {"artists": [{"id": "348f3a5f-5112-4d72-b33b-11c60b4f9af2",
+        "name": "Thomas Newman"}], "duration": 152, "id": "c676ea1b-48b3-4477-acf3-b238d76bbc7d",
+        "releasegroups": [{"id": "8a42702f-9573-4efd-9de7-fc8e8a80ba74", "secondarytypes":
+        ["Soundtrack"], "title": "Skyfall: Original Motion Picture Soundtrack", "type":
+        "Album"}], "title": "Skyfall"}, {"artists": [{"id": "cc2c9c3c-b7bc-4b8b-84d8-4fbd8779e493",
+        "name": "Adele"}], "duration": 286, "id": "d74ce039-fb99-44fb-aa54-43bf707acf46",
+        "releasegroups": [{"artists": [{"id": "cc2c9c3c-b7bc-4b8b-84d8-4fbd8779e493",
+        "name": "Adele"}], "id": "4307ecf9-d0f2-4b95-b7ad-2f8cba84a5e9", "secondarytypes":
+        ["Soundtrack"], "title": "Skyfall", "type": "Single"}, {"artists": [{"id":
+        "cc2c9c3c-b7bc-4b8b-84d8-4fbd8779e493", "name": "Adele"}], "id": "ad1343e8-1832-4035-8dcc-0bed2daa5ace",
+        "secondarytypes": ["Compilation"], "title": "Greatest Hits", "type": "Album"},
+        {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various
+        Artists"}], "id": "d06b41a6-9d62-4ede-9f22-4bf1398ca13d", "secondarytypes":
+        ["Compilation", "Soundtrack"], "title": "The Best of Bond\u2026 James Bond",
+        "type": "Album"}], "title": "Skyfall"}], "score": 0.92972}, {"id": "3989d11c-6bec-45fd-b1aa-ffc389d9bcf8",
+        "recordings": [{"id": "18c29f00-8ccc-407a-be81-451cd6289d4d"}, {"artists":
+        [{"id": "cc2c9c3c-b7bc-4b8b-84d8-4fbd8779e493", "name": "Adele"}], "duration":
+        290, "id": "228c547c-323f-4b40-beab-a275ccd3cb87", "releasegroups": [{"artists":
+        [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various Artists"}],
+        "id": "47dca169-2f66-493a-891b-465312144bee", "title": "James Bond Themes
+        (2012)", "type": "Album"}], "title": "Skyfall (2012)"}, {"artists": [{"id":
+        "ecce4724-1238-4286-8753-7ba52928cbd5", "name": "Walt Ribeiro"}], "duration":
+        280, "id": "31edae1a-7411-4560-ad16-c02062f6efdf", "releasegroups": [{"id":
+        "0a5c30a0-5e4e-4c00-85da-66a139f6e907", "secondarytypes": ["Compilation"],
+        "title": "Every Song!", "type": "Album"}], "title": "Adele ''SkyFall''"},
+        {"artists": [{"id": "cc2c9c3c-b7bc-4b8b-84d8-4fbd8779e493", "name": "Adele"}],
+        "duration": 287, "id": "526285f6-93fb-4d68-943b-3655befc153d", "releasegroups":
+        [{"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various
+        Artists"}], "id": "e0a09228-2b7f-4801-ab0c-bdea470d584f", "secondarytypes":
+        ["Compilation", "Soundtrack"], "title": "Film Music 2012", "type": "Album"}],
+        "title": "Skyfall"}, {"artists": [{"id": "cc2c9c3c-b7bc-4b8b-84d8-4fbd8779e493",
+        "name": "Adele"}], "duration": 286, "id": "70f45e42-1058-4854-a763-51885db1862a",
+        "releasegroups": [{"id": "971e8b55-e764-4686-8e8a-6a5be244eeb8", "secondarytypes":
+        ["Mixtape/Street"], "title": "Music Sounds Better Fundamentals", "type": "Other"}],
+        "title": "Skyfall"}, {"artists": [{"id": "cc2c9c3c-b7bc-4b8b-84d8-4fbd8779e493",
+        "name": "Adele"}], "id": "cc5c5d19-4363-44bf-85da-3dcbc50318ce", "releasegroups":
+        [{"artists": [{"id": "24090467-a5c2-4ac9-91d8-f3d099a1ec69", "name": "Boy
+        Bruynzeel"}], "id": "9b1089e9-0b31-4db0-be09-8679872d2ebf", "secondarytypes":
+        ["DJ-mix"], "title": "The Video Year Mix 2012"}], "title": "Skyfall"}, {"artists":
+        [{"id": "cc2c9c3c-b7bc-4b8b-84d8-4fbd8779e493", "name": "Adele"}], "duration":
+        286, "id": "d74ce039-fb99-44fb-aa54-43bf707acf46", "releasegroups": [{"artists":
+        [{"id": "cc2c9c3c-b7bc-4b8b-84d8-4fbd8779e493", "name": "Adele"}], "id": "4307ecf9-d0f2-4b95-b7ad-2f8cba84a5e9",
+        "secondarytypes": ["Soundtrack"], "title": "Skyfall", "type": "Single"}, {"artists":
+        [{"id": "cc2c9c3c-b7bc-4b8b-84d8-4fbd8779e493", "name": "Adele"}], "id": "ad1343e8-1832-4035-8dcc-0bed2daa5ace",
+        "secondarytypes": ["Compilation"], "title": "Greatest Hits", "type": "Album"},
+        {"artists": [{"id": "89ad4ac3-39f7-470e-963a-56509c546377", "name": "Various
+        Artists"}], "id": "d06b41a6-9d62-4ede-9f22-4bf1398ca13d", "secondarytypes":
+        ["Compilation", "Soundtrack"], "title": "The Best of Bond\u2026 James Bond",
+        "type": "Album"}], "title": "Skyfall"}, {"artists": [{"id": "348f3a5f-5112-4d72-b33b-11c60b4f9af2",
+        "name": "Thomas Newman"}], "duration": 137, "id": "edda9387-65a9-4ade-903c-3a9cea3fa7c2",
+        "releasegroups": [{"id": "8a42702f-9573-4efd-9de7-fc8e8a80ba74", "secondarytypes":
+        ["Soundtrack"], "title": "Skyfall: Original Motion Picture Soundtrack", "type":
+        "Album"}], "title": "Adrenaline"}], "score": 0.91904}], "status": "ok"}'
+    http_version:
+  recorded_at: Fri, 02 Jul 2021 04:25:16 GMT
+recorded_with: VCR 3.0.3

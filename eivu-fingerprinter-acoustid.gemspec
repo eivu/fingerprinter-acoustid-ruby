@@ -7,6 +7,9 @@ Gem::Specification.new do |s|
   s.name = 'eivu-fingerprinter-acoustid'
   s.version = '0.1.0'
 
+  s.license          = 'MIT'
+  s.homepage         = 'https://github.com/eivu/eivu-fingerprinter-acoustid-ruby'
+
   # s.homepage = "https://github.com/icalendar/icalendar"
   s.platform = Gem::Platform::RUBY
   s.summary = 'Ruby wrapper for the AcoustID service'
@@ -15,6 +18,22 @@ Gem::Specification.new do |s|
 #   EOD
   s.files       = ['lib/eivu-fingerprinter-acoustid.rb']
   s.require_paths = ['lib']
+
+  s.add_dependency 'activesupport', '~> 6.1', '>= 6.1.4' # handy rails functions
+  s.add_dependency 'colorize', '~> 0.8.1'
+  s.add_dependency 'factory_bot', '~> 6.2' # factory_bot provides a framework and DSL for defining and using factories 
+  s.add_dependency 'faker', '~> 1.6', '>= 1.6.6' # easily generate fake data: names, addresses, phone numbers, etc
+  s.add_dependency 'fuzzy_match', '~> 2.1' # Find a needle (a document or record) in a haystack using string similarity and (optionally) regular expression rules. Uses Dice's Coefficient (aka Pair Similiarity) and Levenshtein Distance internally.
+  s.add_dependency 'id3tag', '~> 0.14.1' # mp3 id3 tagger
+  s.add_dependency 'levenshtein-ffi', '~> 1.1' # implementation of the levenshtein distance algorithm.
+  s.add_dependency 'oj', '~> 3.3', '>= 3.3.5' # The fastest JSON parser and object serializer.
+  s.add_dependency 'pry', '~> 0.14.1' # Debugger
+  s.add_dependency 'rest-client', '~> 2.1'
+  s.add_dependency 'rspec', '~> 3.10' # testing lib
+  s.add_dependency 'rubocop', '~> 1.17'
+  s.add_dependency 'vcr', '~> 3.0', '>= 3.0.1'
+  s.add_dependency 'webmock', '~> 3.13'
+
   # s.files = `git ls-files`.split "\n"
   # s.test_files = `git ls-files -- {test,spec,features}/*`.split "\n"
   # s.executables = `git ls-files -- bin/*`.split("\n").map { |f| File.basename f }

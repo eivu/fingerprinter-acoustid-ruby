@@ -52,25 +52,37 @@ describe Eivu::Objects::ResultSet do
   end
 
   describe 'best match' do
-    context 'challenge #1 - Ella & Louis - Willow Weep' do
-      subject(:match) { instance.best_match(duration: duration, release_group_name: title) }
+    subject(:best_match) { instance.best_match(duration: duration, release_group_name: album) }
 
-      let(:instance) { described_class.new(**info) }
-      let(:duration) { -1 }
+    let(:info) { Oj.load(File.read(file_path)).deep_symbolize_keys }
+    let(:instance) { described_class.new(**info) }
+    let(:duration) { -1 }
+
+    context 'challenge #1 - Ella & Louis - Willow Weep' do
+      let(:file_path) { 'spec/fixtures/objects/result_set_2-08_willow_weep_for_me.json' }
+      let(:album) { 'The Complete Ella and Louis on Verve' }
       let(:title) { 'Willow Weep For Me' }
-      let(:info) do
-        Oj.load(File.read('spec/fixtures/objects/result_set_2-08_willow_weep_for_me.json'))
-          .deep_symbolize_keys
-      end
 
       it 'parses the hash successfully' do
         aggregate_failures do
-          expect(match.recording.id).to eq('4cde11be')
-          expect(match.type).to eq('Album')
-          expect(match.release_group.id).to eq('162346df')
-          expect(match.result_score).to eq(0.999934)
-          expect(match.duration).to eq(259)
+          expect(best_match.recording.id).to eq('4cde11be')
+          expect(best_match.type).to eq('Album')
+          expect(best_match.release_group.id).to eq('37012d18')
+          expect(best_match.result_score).to eq(0.999934)
+          expect(best_match.duration).to eq(259)
+          expect(best_match.distance).to eq(0)
+          expect(best_match.release_group).to be_kind_of(Eivu::Objects::ReleaseGroup)
+          expect(best_match.recording).to be_kind_of(Eivu::Objects::Recording)
         end
+      end
+    end
+
+    context 'challenge #2 - no match found - Above & Beyond - Group Therapy 100 Live at MSQ' do
+      let(:file_path) { 'spec/fixtures/objects/result_set_100_live_at_madison_square_garden_abgt10.json' }
+      let(:album) { 'Group Therapy' }
+
+      it 'parses the hash successfully' do
+        expect(best_match).to be_nil
       end
     end
   end

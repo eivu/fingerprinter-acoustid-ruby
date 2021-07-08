@@ -47,7 +47,6 @@ describe Eivu::Objects::Result do
 
   describe '#generate_match' do
     subject(:match) do
-      # instance.filter(duration: duration, release_name: release_name, release_group_name: album)
       instance.generate_match(duration: duration, release_group_name: album)
     end
 

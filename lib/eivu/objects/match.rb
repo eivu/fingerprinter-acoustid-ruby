@@ -2,6 +2,7 @@
 
 require_relative '../eivu-objects'
 require 'active_support'
+require 'levenshtein'
 
 module Eivu
   module Objects

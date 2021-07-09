@@ -1,0 +1,353 @@
+{
+  "results": [
+    {
+      "id": "754e602d-dc0e-4f2d-87e4-6bee729e01b8",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "cc2c9c3c-b7bc-4b8b-84d8-4fbd8779e493",
+              "name": "Adele"
+            }
+          ],
+          "duration": 285,
+          "id": "028efe7f-cdfb-4135-846f-848f2fff15b1",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "96a9391d-237e-4fda-8e14-691f1c4926de",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Now That’s What I Call Music! 79",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "a6d7f584-76e5-498f-a47e-97150235ac34",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Radio 538: Hitzone 58",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "c5d96ed3-4a04-472f-bea8-411b3fb56bae",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "The No.1 DJ Collection: 2010s, Volume 3",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "2ad6133e-9153-4987-8485-3a55c642c402",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "So Fresh: The Hits of Summer 2012 & The Best of 2011",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "135d8761-32c1-4d1b-9236-5b72ef135670",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Mastermix Classic Cuts, Volume 106: Ballads / End of Nighters",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "cc2c9c3c-b7bc-4b8b-84d8-4fbd8779e493",
+                  "name": "Adele"
+                }
+              ],
+              "id": "e4174758-d333-4a8e-a31f-dd0edd51518e",
+              "title": "21",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "cc2c9c3c-b7bc-4b8b-84d8-4fbd8779e493",
+                  "name": "Adele"
+                }
+              ],
+              "id": "ad1343e8-1832-4035-8dcc-0bed2daa5ace",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Greatest Hits",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "cc2c9c3c-b7bc-4b8b-84d8-4fbd8779e493",
+                  "name": "Adele"
+                }
+              ],
+              "id": "6f37b6d7-fb39-4657-beb6-462c7c953cf7",
+              "title": "Someone Like You",
+              "type": "Single"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "e5820cff-4193-4a23-b8f4-d562fe541364",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Now That’s What I Call Music! 58",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "4e58f7aa-5240-4030-a2e7-ec082980c875",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Los Números 1 de Cadena 100",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "ff90066f-b09d-4209-ab43-85f2cae9bfef",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "NOW That's What I Call a No.1",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "f93fb971-6bfc-48f9-9a63-daa9a47cdb53",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "The No.1 DJ Collection: 2010s (Digital Collection)",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "52401354-e641-4591-b72d-50645e9ab612",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Bravo Hits 76",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "fd1459db-e487-40b1-8dcf-c00b114aa5cb",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Ö3 Greatest Hits 57",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "a90a6cdf-cf0b-42b1-8d50-d8928fc92a8d",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Los números uno de los 40 principales 2012",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "c161665e-e3ae-447e-84ba-3da00fa0ca68",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Now That’s What I Call Music! 41",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "c35c1761-14a1-4357-b19a-57be7aff110c",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Promo Only: Mainstream Radio, August 2011",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "cc2c9c3c-b7bc-4b8b-84d8-4fbd8779e493",
+                  "name": "Adele"
+                }
+              ],
+              "id": "971e8b55-e764-4686-8e8a-6a5be244eeb8",
+              "secondarytypes": [
+                "Mixtape/Street"
+              ],
+              "title": "Music Sounds Better Fundamentals",
+              "type": "Other"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "e205c5ca-fbbd-4625-9c21-a32df02650e8",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "CD Pool - Hits (2011-03)",
+              "type": "Album"
+            }
+          ],
+          "title": "Someone Like You"
+        },
+        {
+          "id": "160c592a-1e78-40d0-8ab6-24626ead50eb"
+        },
+        {
+          "artists": [
+            {
+              "id": "73fdb566-a9b1-494c-9f32-51768ec9fd27",
+              "joinphrase": " feat. ",
+              "name": "OutKast"
+            },
+            {
+              "id": "f7ff734a-f514-44dd-a80f-c53fc402f26b",
+              "joinphrase": ", ",
+              "name": "Konkrete"
+            },
+            {
+              "id": "5cb395b6-1cb9-4c9c-a79a-01a66513d1f6",
+              "joinphrase": " & ",
+              "name": "Big Gipp"
+            },
+            {
+              "id": "0638ba22-040f-438d-83a5-9b670c4adaf5",
+              "name": "Ludacris"
+            }
+          ],
+          "duration": 286,
+          "id": "1b545b06-f595-4646-b00d-7a9fccbae91c",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "73fdb566-a9b1-494c-9f32-51768ec9fd27",
+                  "name": "OutKast"
+                }
+              ],
+              "id": "fa64febd-61e0-346e-aaa2-04564ed4f0a3",
+              "title": "Speakerboxxx / The Love Below",
+              "type": "Album"
+            }
+          ],
+          "title": "Tomb of the Boom"
+        },
+        {
+          "artists": [
+            {
+              "id": "cc2c9c3c-b7bc-4b8b-84d8-4fbd8779e493",
+              "name": "Adele"
+            }
+          ],
+          "duration": 388,
+          "id": "1c2a4d53-79ff-42c6-8465-a49895dadc9d",
+          "releasegroups": [
+            {
+              "id": "6f37b6d7-fb39-4657-beb6-462c7c953cf7",
+              "title": "Someone Like You",
+              "type": "Single"
+            }
+          ],
+          "title": "Someone Like You (Live at her home)"
+        },
+        {
+          "id": "2b30e6d1-7dcf-46ce-808f-5410cc52c6bd"
+        },
+        {
+          "id": "78444206-9771-4811-99fa-258964d7858a"
+        },
+        {
+          "id": "f8e4dc49-8437-41ac-85e2-6a12e20748e6"
+        }
+      ],
+      "score": 0.801622
+    }
+  ],
+  "status": "ok"
+}

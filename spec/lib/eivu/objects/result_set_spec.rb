@@ -71,6 +71,7 @@ describe Eivu::Objects::ResultSet do
           expect(best_match.result_score).to eq(0.999934)
           expect(best_match.duration).to eq(259)
           expect(best_match.distance).to eq(0)
+          expect(best_match).to be_kind_of(Eivu::Objects::Match)
           expect(best_match.release_group).to be_kind_of(Eivu::Objects::ReleaseGroup)
           expect(best_match.recording).to be_kind_of(Eivu::Objects::Recording)
         end
@@ -92,6 +93,17 @@ describe Eivu::Objects::ResultSet do
 
       it 'parses the hash successfully' do
         expect(best_match).to be_nil
+      end
+    end
+
+    context 'challenge #4 - nil is provided as the album name' do
+      let(:file_path) { 'spec/fixtures/objects/result_set_11_someone_like_you_1.json' }
+      let(:album) { nil }
+      let(:duration) { 287 }
+
+      it 'parses the hash successfully' do
+        pending 'need to improve nil matching'
+        expect(best_match).to be_kind_of(Eivu::Objects::Match)
       end
     end
   end

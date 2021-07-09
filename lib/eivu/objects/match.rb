@@ -8,6 +8,8 @@ module Eivu
     class Match
       include Comparable
 
+      MIN_THRESHOLD = 12
+
       attr_reader :release_group, :recording, :result_score,
                   :original_release_group_name, :matched_release_group_name
 
@@ -30,6 +32,21 @@ module Eivu
       # returns -1 if self < other
       def <=> (other)
         result_score <=> other.result_score
+      end
+
+      def distance
+        @distance ||=
+          begin
+            orig_album    = original_release_group_name&.downcase
+            matched_album = release_group.title&.downcase
+            l_distance = Levenshtein.distance(orig_album, matched_album)
+            if l_distance <= MIN_THRESHOLD
+              l_distance
+            else
+              binding.pry
+              raise 'fix this'
+            end
+          end
       end
 
       def print_artists

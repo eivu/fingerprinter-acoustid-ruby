@@ -85,6 +85,15 @@ describe Eivu::Objects::ResultSet do
         expect(best_match).to be_nil
       end
     end
+
+    context 'challenge #3 - empty file' do
+      let(:file_path) { 'spec/fixtures/objects/result_set_empty.json' }
+      let(:album) { 'Unknown Album' }
+
+      it 'parses the hash successfully' do
+        expect(best_match).to be_nil
+      end
+    end
   end
 
   describe 'ok?' do

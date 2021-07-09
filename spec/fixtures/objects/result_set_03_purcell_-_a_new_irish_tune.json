@@ -1,0 +1,93 @@
+{
+  "results": [
+    {
+      "id": "ff053337",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "443aad48",
+              "name": "Andrés Segovia"
+            }
+          ],
+          "duration": 64,
+          "id": "e8012afc",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "443aad48",
+                  "name": "Andrés Segovia"
+                }
+              ],
+              "id": "6fb8ee22",
+              "title": "Golden Guitar Recital",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "443aad48",
+                  "name": "Andrés Segovia"
+                }
+              ],
+              "id": "d1eab92d",
+              "title": "The Segovia Collection (Vol. 4)_ The Baroque Guitar",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "ddea5540",
+                  "joinphrase": ", ",
+                  "name": "Purcell"
+                },
+                {
+                  "id": "95c7a1d1",
+                  "joinphrase": ", ",
+                  "name": "Scarlatti"
+                },
+                {
+                  "id": "27870d47",
+                  "joinphrase": ", ",
+                  "name": "Handel"
+                },
+                {
+                  "id": "24f1766e",
+                  "joinphrase": ", ",
+                  "name": "Bach"
+                },
+                {
+                  "id": "72e92c01",
+                  "joinphrase": "; ",
+                  "name": "Frescobaldi"
+                },
+                {
+                  "id": "443aad48",
+                  "name": "Andrés Segovia"
+                }
+              ],
+              "id": "ea8b03b3",
+              "secondarytypes": ["Compilation"],
+              "title": "The Segovia Collection, Volume 4: The Baroque Guitar",
+              "type": "Album"
+            },
+            {
+              "id": "1b6803df",
+              "secondarytypes": ["Compilation"],
+              "title": "A Centenary Celebration",
+              "type": "Album"
+            }
+          ],
+          "title": "A New Irish Tune"
+        }
+      ],
+      "score": 0.990164
+    },
+    {
+      "id": "b0477cc7",
+      "score": 0.927231
+    }
+  ],
+  "status": "ok"
+}

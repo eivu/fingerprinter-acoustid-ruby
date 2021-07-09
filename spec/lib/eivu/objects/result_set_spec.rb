@@ -58,7 +58,7 @@ describe Eivu::Objects::ResultSet do
     let(:instance) { described_class.new(**info) }
     let(:duration) { -1 }
 
-    context 'challenge #1 - Ella & Louis - Willow Weep' do
+    context 'weird - Ella & Louis - Willow Weep' do
       let(:file_path) { 'spec/fixtures/objects/result_set_2-08_willow_weep_for_me.json' }
       let(:album) { 'The Complete Ella and Louis on Verve' }
       let(:title) { 'Willow Weep For Me' }
@@ -78,12 +78,31 @@ describe Eivu::Objects::ResultSet do
       end
     end
 
-    context 'challenge #2 - no match found - Above & Beyond - Group Therapy 100 Live at MSQ' do
+    context 'no match found' do
       let(:file_path) { 'spec/fixtures/objects/result_set_100_live_at_madison_square_garden_abgt10.json' }
       let(:album) { 'Group Therapy' }
 
       it 'parses the hash successfully' do
         expect(best_match).to be_nil
+      end
+    end
+
+    context 'found via substring' do
+      let(:file_path) { 'spec/fixtures/objects/result_set_03_purcell_-_a_new_irish_tune.json' }
+      let(:album) { 'The Baroque Guitar' }
+
+      it 'parses the hash successfully' do
+        aggregate_failures do
+          expect(best_match).to be_kind_of(Eivu::Objects::Match)
+          expect(best_match.recording.id).to eq('e8012afc')
+          expect(best_match.type).to eq('Album')
+          expect(best_match.release_group.id).to eq('d1eab92d')
+          expect(best_match.result_score).to eq(0.990164)
+          expect(best_match.duration).to eq(64)
+          expect(best_match.distance).to eq(Eivu::Objects::Match::MIN_THRESHOLD)
+          expect(best_match.release_group).to be_kind_of(Eivu::Objects::ReleaseGroup)
+          expect(best_match.recording).to be_kind_of(Eivu::Objects::Recording)
+        end
       end
     end
 

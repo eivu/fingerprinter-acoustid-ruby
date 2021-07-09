@@ -43,7 +43,9 @@ module Eivu
             if l_distance <= MIN_THRESHOLD
               l_distance
             else
-              binding.pry
+              shorter, longer = [orig_album, matched_album].sort{|x,y| x.length <=> y .length}
+              return MIN_THRESHOLD if longer.include?(shorter)
+
               raise 'fix this'
             end
           end

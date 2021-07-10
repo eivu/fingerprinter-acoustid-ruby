@@ -1,0 +1,109 @@
+{
+  "results": [
+    {
+      "id": "aef35d4a",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "3532603a",
+              "name": "Nathalia"
+            }
+          ],
+          "duration": 198,
+          "id": "59a31b21",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "64cbf4a4",
+              "secondarytypes": ["Compilation"],
+              "title": "NRJ 200% Hits 2012, Volume 2",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "3532603a",
+                  "name": "Nathalia"
+                }
+              ],
+              "id": "604cb94d",
+              "secondarytypes": ["Soundtrack"],
+              "title": "Je veux le monde",
+              "type": "Single"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "2807806f",
+              "secondarytypes": ["Compilation"],
+              "title": "NRJ Summer Hits Only 2012",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "47cd8ec5",
+              "secondarytypes": ["Compilation"],
+              "title": "NRJ Hits 2012, Volume 2",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "e6efe961",
+                  "joinphrase": ", ",
+                  "name": "Rod Janois"
+                },
+                {
+                  "id": "e34fa00a",
+                  "joinphrase": ", ",
+                  "name": "Jean‐Pierre Pilot"
+                },
+                {
+                  "id": "ee6335d6",
+                  "joinphrase": ", ",
+                  "name": "Olivier Schultheis"
+                },
+                {
+                  "id": "657ff58d",
+                  "joinphrase": ", ",
+                  "name": "William Rousseau"
+                },
+                {
+                  "id": "9b090ca0",
+                  "joinphrase": " & ",
+                  "name": "Dove Attia"
+                },
+                {
+                  "id": "01367a60",
+                  "name": "Vincent Baguian"
+                }
+              ],
+              "id": "71285a7f",
+              "secondarytypes": ["Soundtrack"],
+              "title": "1789 : Les Amants de la Bastille",
+              "type": "Album"
+            }
+          ],
+          "title": "Je veux le monde"
+        }
+      ],
+      "score": 0.929523
+    }
+  ],
+  "status": "ok"
+}

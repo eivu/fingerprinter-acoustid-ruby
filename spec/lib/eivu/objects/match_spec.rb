@@ -9,19 +9,22 @@ describe Eivu::Objects::Match do
       described_class.new(release_group: rg, recording: rec.shallow_clone,
                           result_score: score,
                           original_release_group_name: title,
-                          matched_release_group_name: title)
+                          matched_release_group_name: title,
+                          result_id: result_id)
     end
 
     let(:rg) { build(:release_group) }
     let(:rec) { build(:recording) }
     let(:score) { 0.87 }
     let(:title) { 'xxxxxx' }
+    let(:result_id) { 'xyz123' }
 
     it 'generates the object successfully' do
       aggregate_failures do
         expect(instance.release_group).to eq(rg)
         expect(instance.recording).to eq(rec)
         expect(instance.result_score).to eq(score)
+        expect(instance.result_id).to eq(result_id)
         expect(instance.original_release_group_name).to eq(title)
         expect(instance.matched_release_group_name).to eq(title)
       end

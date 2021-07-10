@@ -69,6 +69,7 @@ describe Eivu::Objects::ResultSet do
           expect(best_match.type).to eq('Album')
           expect(best_match.release_group.id).to eq('37012d18')
           expect(best_match.result_score).to eq(0.999934)
+          expect(best_match.result_id).to eq('cecca08d')
           expect(best_match.duration).to eq(259)
           expect(best_match.distance).to eq(0)
           expect(best_match).to be_kind_of(Eivu::Objects::Match)
@@ -90,6 +91,7 @@ describe Eivu::Objects::ResultSet do
     context 'found via substring' do
       let(:file_path) { 'spec/fixtures/objects/result_set_03_purcell_-_a_new_irish_tune.json' }
       let(:album) { 'The Baroque Guitar' }
+      let(:offset) { Eivu::Objects::Match::OFFSET_IN_STRING}
 
       it 'parses the hash successfully' do
         aggregate_failures do
@@ -97,9 +99,31 @@ describe Eivu::Objects::ResultSet do
           expect(best_match.recording.id).to eq('e8012afc')
           expect(best_match.type).to eq('Album')
           expect(best_match.release_group.id).to eq('d1eab92d')
+          expect(best_match.result_id).to eq('ff053337')
           expect(best_match.result_score).to eq(0.990164)
           expect(best_match.duration).to eq(64)
-          expect(best_match.distance).to eq(Eivu::Objects::Match::MIN_THRESHOLD)
+          expect(best_match.distance).to eq(Eivu::Objects::Match::THRESHOLD_MIN + offset)
+          expect(best_match.release_group).to be_kind_of(Eivu::Objects::ReleaseGroup)
+          expect(best_match.recording).to be_kind_of(Eivu::Objects::Recording)
+        end
+      end
+    end
+
+    context 'found via reordering' do
+      let(:file_path) { 'spec/fixtures/objects/result_set_13_je_veux_le_monde_2012.json' }
+      let(:album) { '200 Procent Hits 2012 Volume 2 (NRJ) (Universal FR) CD2' }
+      let(:offset) { Eivu::Objects::Match::OFFSET_REORDERED}
+
+      it 'parses the hash successfully' do
+        aggregate_failures do
+          expect(best_match).to be_kind_of(Eivu::Objects::Match)
+          expect(best_match.recording.id).to eq('59a31b21')
+          expect(best_match.result_id).to eq('aef35d4a')
+          expect(best_match.type).to eq('Album')
+          expect(best_match.release_group.id).to eq('64cbf4a4')
+          expect(best_match.result_score).to eq(0.929523)
+          expect(best_match.duration).to eq(198)
+          expect(best_match.distance).to eq(Eivu::Objects::Match::THRESHOLD_MIN + offset)
           expect(best_match.release_group).to be_kind_of(Eivu::Objects::ReleaseGroup)
           expect(best_match.recording).to be_kind_of(Eivu::Objects::Recording)
         end

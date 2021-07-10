@@ -65,7 +65,8 @@ module Eivu
                         recording: rec.shallow_clone,
                         result_score: score,
                         original_release_group_name: release_group_name,
-                        matched_release_group_name: match)
+                        matched_release_group_name: match,
+                        result_id: id)
             end
           end
         end

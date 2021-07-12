@@ -10,15 +10,15 @@ Gem::Specification.new do |s|
   s.license          = 'MIT'
   s.homepage         = 'https://github.com/eivu/eivu-fingerprinter-acoustid-ruby'
 
-  # s.homepage = "https://github.com/icalendar/icalendar"
   s.platform = Gem::Platform::RUBY
   s.summary = 'Ruby wrapper for the AcoustID service'
 #   s.description = <<-EOD
 # uby wrapper for the AcoustID service
 #   EOD
-  s.files       = ['lib/eivu-fingerprinter-acoustid.rb']
+  s.files         = ['lib/eivu-fingerprinter-acoustid.rb']
   s.require_paths = ['lib']
 
+  s.add_dependency 'amatch', '~> 0.4.0' # library for approximate string matching and searching in strings
   s.add_dependency 'activesupport', '~> 6.1', '>= 6.1.4' # handy rails functions
   s.add_dependency 'colorize', '~> 0.8.1'
   s.add_dependency 'factory_bot', '~> 6.2' # factory_bot provides a framework and DSL for defining and using factories 

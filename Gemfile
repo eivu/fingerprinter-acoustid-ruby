@@ -1,6 +1,7 @@
 source 'https://rubygems.org'
 
 gem 'activesupport', require: 'active_support/all' # handy rails functions
+gem 'amatch', '~> 0.4.0' # library for approximate string matching and searching in strings
 gem 'colorize', '~> 0.8.1'
 gem 'factory_bot', '~> 6.2' # factory_bot provides a framework and DSL for defining and using factories 
 gem 'faker', '~> 1.6', '>= 1.6.6' # easily generate fake data: names, addresses, phone numbers, etc

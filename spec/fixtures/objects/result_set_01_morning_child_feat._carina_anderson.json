@@ -1,0 +1,303 @@
+{
+  "results": [
+    {
+      "id": "dad81e83-b298-4c2b-915c-7584dd089a75",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "3d05eb8b-1644-4143-9a61-b28e33c4d85f",
+              "joinphrase": " feat. ",
+              "name": "4hero"
+            },
+            {
+              "id": "9bd0c291-7188-4cdf-9569-e2c2d544abdd",
+              "name": "Carina Andersson"
+            }
+          ],
+          "duration": 276,
+          "id": "0fef630e-df3d-4880-97b6-06eb3e2767a7",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "2a38a01a-2edb-39ac-a158-3d32bc270475",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Norman Jay MBE Presents Good Times 7: Let the Good Times Roll",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "2f35b3f1-f883-4d81-a468-2e2b036f5111",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Giel Jazz",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "a419e733-3dc2-36db-8b30-d0e0f399d3da",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "15x15: A Celebration of 15 Years of The Big Chill",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "3d05eb8b-1644-4143-9a61-b28e33c4d85f",
+                  "name": "4hero"
+                }
+              ],
+              "id": "7ffe9b47-8b1e-3923-8b22-ff5deedebda2",
+              "title": "Play With the Changes",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "5707f92b-ecd1-3086-9e51-8b3280a39f7e",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Hed Kandi: Kandi Lounge",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "fabeeb13-014b-39c1-ba84-5a58aec5a8b0",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "FM4 Sunny Side Up 07",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "41177b2c-bbe1-34c1-afb0-ea1f341bd9ec",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Mercedes-Benz Mixed Tape 16",
+              "type": "Album"
+            }
+          ],
+          "title": "Morning Child"
+        },
+        {
+          "artists": [
+            {
+              "id": "3d05eb8b-1644-4143-9a61-b28e33c4d85f",
+              "name": "4hero"
+            }
+          ],
+          "duration": 275,
+          "id": "1df5ec2a-4c69-4842-bd0c-d50beb768ce6",
+          "releasegroups": [
+            {
+              "id": "2b91b3cd-0f5c-3476-ad03-6b684f94d20d",
+              "title": "Morning Child",
+              "type": "Single"
+            }
+          ],
+          "title": "Morning Child (instrumental)"
+        },
+        {
+          "artists": [
+            {
+              "id": "3d05eb8b-1644-4143-9a61-b28e33c4d85f",
+              "name": "4hero"
+            }
+          ],
+          "duration": 275,
+          "id": "a1ec1efe-05f9-4fcb-9d0b-69f853eace17",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "8de6c9b5-fbdd-47fc-81e5-b8cab94e452f",
+              "title": "Café del Mar 40th Anniversary",
+              "type": "Album"
+            }
+          ],
+          "title": "Morning Child"
+        },
+        {
+          "artists": [
+            {
+              "id": "3d05eb8b-1644-4143-9a61-b28e33c4d85f",
+              "name": "4hero"
+            }
+          ],
+          "duration": 145,
+          "id": "d6d1ddf8-f6fc-467b-8425-c8dd01df5038",
+          "releasegroups": [
+            {
+              "id": "7ffe9b47-8b1e-3923-8b22-ff5deedebda2",
+              "title": "Play With the Changes",
+              "type": "Album"
+            }
+          ],
+          "title": "Morning Child"
+        }
+      ],
+      "score": 0.943895
+    },
+    {
+      "id": "32a60729-8132-4ae5-a221-e32345c0f7d8",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "3d05eb8b-1644-4143-9a61-b28e33c4d85f",
+              "joinphrase": " feat. ",
+              "name": "4hero"
+            },
+            {
+              "id": "9bd0c291-7188-4cdf-9569-e2c2d544abdd",
+              "name": "Carina Andersson"
+            }
+          ],
+          "duration": 276,
+          "id": "0fef630e-df3d-4880-97b6-06eb3e2767a7",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "2a38a01a-2edb-39ac-a158-3d32bc270475",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Norman Jay MBE Presents Good Times 7: Let the Good Times Roll",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "2f35b3f1-f883-4d81-a468-2e2b036f5111",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Giel Jazz",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "a419e733-3dc2-36db-8b30-d0e0f399d3da",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "15x15: A Celebration of 15 Years of The Big Chill",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "3d05eb8b-1644-4143-9a61-b28e33c4d85f",
+                  "name": "4hero"
+                }
+              ],
+              "id": "7ffe9b47-8b1e-3923-8b22-ff5deedebda2",
+              "title": "Play With the Changes",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "5707f92b-ecd1-3086-9e51-8b3280a39f7e",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Hed Kandi: Kandi Lounge",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "fabeeb13-014b-39c1-ba84-5a58aec5a8b0",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "FM4 Sunny Side Up 07",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "41177b2c-bbe1-34c1-afb0-ea1f341bd9ec",
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Mercedes-Benz Mixed Tape 16",
+              "type": "Album"
+            }
+          ],
+          "title": "Morning Child"
+        }
+      ],
+      "score": 0.876055
+    }
+  ],
+  "status": "ok"
+}

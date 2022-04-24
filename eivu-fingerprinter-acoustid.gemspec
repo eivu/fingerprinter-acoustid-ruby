@@ -19,7 +19,7 @@ Gem::Specification.new do |s|
   s.files       = ['lib/eivu-fingerprinter-acoustid.rb']
   s.require_paths = ['lib']
 
-  s.add_dependency 'activesupport', '~> 6.1', '>= 6.1.4' # handy rails functions
+  s.add_dependency 'activesupport', '>= 6.1.4', '< 8.0' # handy rails functions
   s.add_dependency 'colorize', '~> 0.8.1'
   s.add_dependency 'factory_bot', '~> 6.2' # factory_bot provides a framework and DSL for defining and using factories 
   s.add_dependency 'faker', '~> 1.6', '>= 1.6.6' # easily generate fake data: names, addresses, phone numbers, etc

@@ -1,7 +1,7 @@
 # frozen_string_literal: true
 
 require_relative '../eivu-objects'
-require 'active_support'
+require 'active_support/all'
 require 'levenshtein'
 
 module Eivu

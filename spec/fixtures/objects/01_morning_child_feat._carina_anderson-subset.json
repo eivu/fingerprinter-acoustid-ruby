@@ -1,0 +1,82 @@
+{
+  "results": [
+    {
+      "id": "dad81e83",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "3d05eb8bf",
+              "joinphrase": " feat. ",
+              "name": "4hero"
+            },
+            {
+              "id": "9bd0c291",
+              "name": "Carina Andersson"
+            }
+          ],
+          "duration": 276,
+          "id": "0fef630e",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "3d05eb8bf",
+                  "name": "4hero"
+                }
+              ],
+              "id": "7ffe9b47",
+              "title": "Play With the Changes",
+              "type": "Album"
+            },
+          ],
+          "title": "Morning Child"
+        },
+        {
+          "artists": [
+            {
+              "id": "3d05eb8bf",
+              "name": "4hero"
+            }
+          ],
+          "duration": 275,
+          "id": "a1ec1efe-05f9-4fcb-9d0b-69f853eace17",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "8de6c9b5-fbdd-47fc-81e5-b8cab94e452f",
+              "title": "Café del Mar 40th Anniversary",
+              "type": "Album"
+            }
+          ],
+          "title": "Morning Child"
+        },
+        {
+          "artists": [
+            {
+              "id": "3d05eb8bf",
+              "name": "4hero"
+            }
+          ],
+          "duration": 145,
+          "id": "d6d1ddf8-f6fc-467b-8425-c8dd01df5038",
+          "releasegroups": [
+            {
+              "id": "7ffe9b47",
+              "title": "Play With the Changes",
+              "type": "Album"
+            }
+          ],
+          "title": "Morning Child"
+        }
+      ],
+      "score": 0.943895
+    },
+  ],
+  "status": "ok"
+}

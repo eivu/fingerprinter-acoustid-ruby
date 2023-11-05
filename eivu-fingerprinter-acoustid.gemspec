@@ -5,26 +5,26 @@ Gem::Specification.new do |s|
   s.email   = ['me@rkj3.com']
 
   s.name = 'eivu-fingerprinter-acoustid'
-  s.version = '0.1.0'
+  s.version = '0.1.2'
 
   s.license          = 'MIT'
   s.homepage         = 'https://github.com/eivu/eivu-fingerprinter-acoustid-ruby'
 
   s.platform = Gem::Platform::RUBY
   s.summary = 'Ruby wrapper for the AcoustID service'
-#   s.description = <<-EOD
-# uby wrapper for the AcoustID service
-#   EOD
+  #   s.description = <<-EOD
+  # ruby wrapper for the AcoustID service
+  #   EOD
   s.files         = ['lib/eivu-fingerprinter-acoustid.rb']
   s.require_paths = ['lib']
 
-  s.add_dependency 'amatch', '~> 0.4.0' # library for approximate string matching and searching in strings
   s.add_dependency 'activesupport', '>= 6.1.4', '< 8.0' # handy rails functions
+  s.add_dependency 'amatch', '~> 0.4.0' # library for approximate string matching and searching in strings
   s.add_dependency 'colorize', '~> 0.8.1'
   s.add_dependency 'factory_bot', '~> 6.2' # factory_bot provides a framework and DSL for defining and using factories 
   s.add_dependency 'faker', '~> 2.18' # easily generate fake data: names, addresses, phone numbers, etc
   s.add_dependency 'fuzzy_match', '~> 2.1' # Find a needle (a document or record) in a haystack using string similarity and (optionally) regular expression rules. Uses Dice's Coefficient (aka Pair Similiarity) and Levenshtein Distance internally.
-  s.add_dependency 'id3tag', '~> 0.14.1' # mp3 id3 tagger
+  s.add_dependency 'id3tag', '~> 1.1' # mp3 id3 tagger
   s.add_dependency 'levenshtein-ffi', '~> 1.1' # implementation of the levenshtein distance algorithm.
   s.add_dependency 'oj', '~> 3.3', '>= 3.3.5' # The fastest JSON parser and object serializer.
   s.add_dependency 'pry', '~> 0.14.1' # Debugger

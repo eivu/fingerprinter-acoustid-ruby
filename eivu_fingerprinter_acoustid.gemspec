@@ -1,10 +1,8 @@
 # frozen_string_literal: true
 
-require_relative "lib/eivu/fingerprinter_acoustid/version"
-
 Gem::Specification.new do |spec|
   spec.name = "eivu_fingerprinter_acoustid"
-  spec.version = "0.1.4"
+  spec.version = "1.0.0" # EivuFingerprinterAcoustid::VERSION
   spec.authors = ["Rob Jenkins"]
   spec.email = ["384403+dabobert@users.noreply.github.com"]
 
@@ -36,11 +34,11 @@ Gem::Specification.new do |spec|
   spec.add_dependency "activesupport", ">= 6.1.4", "< 8.0" # handy rails functions
   spec.add_dependency "amatch", "~> 0.4.0" # library for approximate string matching and searching in strings
   spec.add_dependency "colorize", "~> 0.8.1"
-  spec.add_dependency "factory_bot", "~> 6.2" # factory_bot provides a framework and DSL for defining and using factories
+  spec.add_dependency "damerau-levenshtein", "~> 1.3", ">= 1.3.3" # implementation of the Damerau-Levenshtein distance algorithm
+  spec.add_dependency "factory_bot", "~> 6.5", ">= 6.5.1" # factory_bot provides a framework and DSL for defining and using factories
   spec.add_dependency "faker", "~> 2.18" # easily generate fake data: names, addresses, phone numbers, etc
   spec.add_dependency "fuzzy_match", "~> 2.1" # Find a needle (a document or record) in a haystack using string similarity and (optionally) regular expression rules. Uses Dice's Coefficient (aka Pair Similiarity) and Levenshtein Distance internally.
   spec.add_dependency "id3tag", "~> 1.1" # mp3 id3 tagger
-  spec.add_dependency "levenshtein-ffi", "~> 1.1" # implementation of the levenshtein distance algorithm.
   spec.add_dependency "oj", "~> 3.3", ">= 3.3.5" # The fastest JSON parser and object serializer.
   spec.add_dependency "pry", "~> 0.14.1" # Debugger
   spec.add_dependency "rest-client", "~> 2.1"

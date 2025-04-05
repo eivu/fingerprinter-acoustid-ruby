@@ -1,5 +1,5 @@
 FactoryBot.define do
-  factory :release_group, class: Eivu::Objects::ReleaseGroup, aliases: [:releasegroup] do
+  factory :release_group, class: EivuFingerprinterAcoustid::Objects::ReleaseGroup, aliases: [:releasegroup] do
     id { Faker::Crypto.sha1 }
     type { %w[Album Single].sample }
     title { Faker::Music.album }

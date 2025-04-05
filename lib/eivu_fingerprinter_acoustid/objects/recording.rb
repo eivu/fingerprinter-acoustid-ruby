@@ -1,8 +1,8 @@
 # frozen_string_literal: true
 
-require_relative '../eivu-objects'
+require_relative '../objects'
 
-module Eivu
+module EivuFingerprinterAcoustid
   module Objects
     class Recording < BaseClass
       attr_reader :id, :duration, :releasegroups, :title, :artists
@@ -19,8 +19,8 @@ module Eivu
         @releasegroups  = releasegroups.collect do |rg|
           case rg.class.name
           when 'Hash'
-            Eivu::Objects::ReleaseGroup.new(**rg)
-          when 'Eivu::Objects::ReleaseGroup'
+            EivuFingerprinterAcoustid::Objects::ReleaseGroup.new(**rg)
+          when 'EivuFingerprinterAcoustid::Objects::ReleaseGroup'
             rg
           else
             raise ArgumentError, "Mismatched Type: #{rg.class} passed to create release group"
@@ -30,7 +30,7 @@ module Eivu
 
       # will delete before completion
       def shallow_clone
-        Eivu::Objects::Recording.new(id: id, title: title, artists: artists, releasegroups: [], duration: duration)
+        EivuFingerprinterAcoustid::Objects::Recording.new(id: id, title: title, artists: artists, releasegroups: [], duration: duration)
       end
 
       alias release_groups releasegroups

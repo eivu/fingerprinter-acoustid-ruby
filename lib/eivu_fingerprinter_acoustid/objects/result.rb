@@ -1,8 +1,8 @@
 # frozen_string_literal: true
 
-require_relative '../eivu-objects'
+require_relative "../objects"
 
-module Eivu
+module EivuFingerprinterAcoustid
   module Objects
     class Result < BaseClass
       DURATION_ACCEPTANCE_RANGE = 15
@@ -10,7 +10,7 @@ module Eivu
 
       def initialize(id:, recordings: [], score: nil)
         @id             = id
-        @recordings     = recordings.collect { |r| Eivu::Objects::Recording.new(**r) }
+        @recordings     = recordings.collect { |r| EivuFingerprinterAcoustid::Objects::Recording.new(**r) }
         @score          = score
       end
 
@@ -61,12 +61,12 @@ module Eivu
         tmp_recordings.each do |rec|
           rec.release_groups.each do |rg|
             if rg.title == match
-              return Eivu::Objects::Match.new(release_group: rg,
-                        recording: rec.shallow_clone,
-                        result_score: score,
-                        original_release_group_name: release_group_name,
-                        matched_release_group_name: match,
-                        result_id: id)
+              return EivuFingerprinterAcoustid::Objects::Match.new(release_group: rg,
+                                                                   recording: rec.shallow_clone,
+                                                                   result_score: score,
+                                                                   original_release_group_name: release_group_name,
+                                                                   matched_release_group_name: match,
+                                                                   result_id: id)
             end
           end
         end
@@ -78,7 +78,7 @@ module Eivu
       end
 
       def prune_bracketed_string(string)
-        string.split(']').collect{ |x| x.split('[')[0] }.join
+        string.split("]").collect { |x| x.split("[")[0] }.join
       end
     end
   end

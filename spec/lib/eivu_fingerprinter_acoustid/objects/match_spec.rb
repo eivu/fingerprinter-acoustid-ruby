@@ -1,9 +1,8 @@
 # frozen_string_literal: true
 
 require 'spec_helper'
-require 'eivu/eivu-objects'
 
-describe Eivu::Objects::Match do
+describe EivuFingerprinterAcoustid::Objects::Match do
   describe '#new' do
     subject(:instance) do
       described_class.new(release_group: rg, recording: rec.shallow_clone,

@@ -1,7 +1,7 @@
 # frozen_string_literal: true
-require_relative '../eivu-objects'
+require_relative '../objects'
 
-module Eivu
+module EivuFingerprinterAcoustid
   module Objects
     class ResultSet
       attr_reader :results, :status
@@ -9,7 +9,7 @@ module Eivu
       OK_STATUS = 'ok'
 
       def initialize(results:, status:)
-        @results = results.collect { |r| Eivu::Objects::Result.new(**r) }
+        @results = results.collect { |r| EivuFingerprinterAcoustid::Objects::Result.new(**r) }
         @status  = status
       end
 

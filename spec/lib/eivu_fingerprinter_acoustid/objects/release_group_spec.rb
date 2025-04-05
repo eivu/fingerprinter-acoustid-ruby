@@ -1,9 +1,9 @@
 # frozen_string_literal: true
 
 require 'spec_helper'
-require 'eivu/objects/release_group'
+# require 'eivu/objects/release_group'
 
-describe Eivu::Objects::ReleaseGroup do
+describe EivuFingerprinterAcoustid::Objects::ReleaseGroup do
 
   describe '#new' do
     context 'with proper eivu objects as inputs' do

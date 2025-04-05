@@ -1,9 +1,8 @@
 # frozen_string_literal: true
 
 require 'spec_helper'
-require 'eivu/eivu-objects'
 
-describe Eivu::Objects::Artist do
+describe EivuFingerprinterAcoustid::Objects::Artist do
   describe '#new' do
     subject(:instance) { described_class.new(**info) }
 

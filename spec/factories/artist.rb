@@ -1,5 +1,5 @@
 FactoryBot.define do
-  factory :artist, class: Eivu::Objects::Artist do
+  factory :artist, class: EivuFingerprinterAcoustid::Objects::Artist do
     id { Faker::Crypto.sha1 }
     name { Faker::Music.band }
     joinphrase { nil }

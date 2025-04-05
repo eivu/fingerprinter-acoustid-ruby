@@ -1,8 +1,8 @@
 # frozen_string_literal: true
 
-require_relative '../eivu-objects'
+require_relative '../objects'
 
-module Eivu
+module EivuFingerprinterAcoustid
   module Objects
     class ReleaseGroup < BaseClass
       attr_reader :id, :type, :title, :artists, :secondarytypes

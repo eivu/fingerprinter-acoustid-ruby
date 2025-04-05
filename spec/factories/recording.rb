@@ -1,5 +1,5 @@
 FactoryBot.define do
-  factory :recording, class: Eivu::Objects::Recording do
+  factory :recording, class: EivuFingerprinterAcoustid::Objects::Recording do
     id { Faker::Crypto.sha1 }
     title { Faker::Book.title }
     artists do

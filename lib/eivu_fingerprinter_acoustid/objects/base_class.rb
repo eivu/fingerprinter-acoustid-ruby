@@ -1,6 +1,6 @@
 # frozen_string_literal: true
 
-module Eivu
+module EivuFingerprinterAcoustid
   module Objects
     class BaseClass
 
@@ -29,8 +29,8 @@ module Eivu
         artists.collect do |a|
           case a.class.name
           when 'Hash'
-            Eivu::Objects::Artist.new(**a)
-          when 'Eivu::Objects::Artist'
+            EivuFingerprinterAcoustid::Objects::Artist.new(**a)
+          when 'EivuFingerprinterAcoustid::Objects::Artist'
             a
           else
             raise ArgumentError, "Mismatched Type: #{a.class} passed to create artist"

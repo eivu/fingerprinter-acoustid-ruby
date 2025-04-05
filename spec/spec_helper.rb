@@ -1,16 +1,25 @@
 # frozen_string_literal: true
-
-require_relative '../config/environment'
-require 'vcr'
+# require_relative '../config/environment'
+require "active_support/all"
+require 'factory_bot'
+require "eivu_fingerprinter_acoustid"
+require "fuzzy_match"
+require "oj"
+require 'faker'
+require "pry"
 require 'support/shared_examples/base_class_functionality_spec'
 
-VCR.configure do |config|
-  config.cassette_library_dir = 'spec/fixtures/vcr'
-  config.default_cassette_options = { match_requests_on: %i[method uri body], record: :once }
-  config.filter_sensitive_data('<ACOUSTID_CLIENT_ID>') { ENV['ACOUSTID_CLIENT_ID'] }
-  config.configure_rspec_metadata! # enables :vcr tag
-  config.hook_into :webmock
-end
+# RSpec.configure do |config|
+#   # Enable flags like --only-failures and --next-failure
+#   config.example_status_persistence_file_path = ".rspec_status"
+
+#   # Disable RSpec exposing methods globally on `Module` and `main`
+#   config.disable_monkey_patching!
+
+#   config.expect_with :rspec do |c|
+#     c.syntax = :expect
+#   end
+# end
 
 RSpec.configure do |config|
   config.expect_with :rspec do |expectations|

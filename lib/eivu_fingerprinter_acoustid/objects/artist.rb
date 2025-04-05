@@ -2,7 +2,7 @@
 
 require_relative 'base_class'
 
-module Eivu
+module EivuFingerprinterAcoustid
   module Objects
     class Artist < BaseClass
       attr_reader :id, :name, :joinphrase

@@ -1,11 +1,13 @@
 # frozen_string_literal: true
 
 require 'spec_helper'
-require 'eivu/fingerprinter/acoustid'
+# require 'eivu_fingerprinter_acoustid/engine'
+require 'eivu_fingerprinter_acoustid'
 
-describe Eivu::Fingerprinter::Acoustid do
+
+describe EivuFingerprinterAcoustid::Engine do
   describe '#identify' do
-    subject(:identify) { Eivu::Fingerprinter::Acoustid.identify(file) }
+    subject(:identify) { EivuFingerprinterAcoustid::Engine.identify(file) }
     let(:file) { "#{label}.mp3" }
     let(:fingerprint) { "#{folder}#{label}.txt" }
 

@@ -1,5 +1,5 @@
 FactoryBot.define do
-  factory :match, class: Eivu::Objects::Match do
+  factory :match, class: EivuFingerprinterAcoustid::Objects::Match do
     recording { build(:recording) }
     result_score { rand }
     release_group { build(:release_group) }

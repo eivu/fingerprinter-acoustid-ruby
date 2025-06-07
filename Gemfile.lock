@@ -24,7 +24,6 @@ GEM
       activesupport (>= 5.0.0)
     faker (2.23.0)
       i18n (>= 1.8.11, < 2)
-    ffi (1.15.5)
     fuzzy_match (2.1.0)
     hashdiff (1.0.1)
     http-accept (1.7.0)
@@ -34,8 +33,7 @@ GEM
       concurrent-ruby (~> 1.0)
     id3tag (1.1.0)
     json (2.6.3)
-    levenshtein-ffi (1.1.0)
-      ffi (~> 1.9)
+    levenshtein_lite (1.0.2)
     method_source (1.0.0)
     mime-types (3.4.1)
       mime-types-data (~> 3.2015)
@@ -54,6 +52,7 @@ GEM
       coderay (~> 1.1)
       method_source (~> 1.0)
     public_suffix (5.0.1)
+    racc (1.8.1)
     rainbow (3.1.1)
     regexp_parser (2.7.0)
     rest-client (2.1.0)
@@ -110,6 +109,8 @@ PLATFORMS
   arm64-darwin-23
   x86_64-darwin-20
   x86_64-darwin-22
+  x86_64-darwin-23
+  x86_64-darwin-24
   x86_64-linux
 
 DEPENDENCIES
@@ -120,9 +121,10 @@ DEPENDENCIES
   faker (~> 2.18)
   fuzzy_match (~> 2.1)
   id3tag (~> 1.1)
-  levenshtein-ffi (~> 1.1)
+  levenshtein_lite (~> 1.0, >= 1.0.2)
   oj (~> 3.3, >= 3.3.5)
   pry (~> 0.14.1)
+  racc (~> 1.4, >= 1.4.14)
   rest-client (~> 2.1)
   rspec (~> 3.10)
   rubocop (~> 1.17)
@@ -130,4 +132,4 @@ DEPENDENCIES
   webmock (~> 3.13)
 
 BUNDLED WITH
-   2.3.7
+   2.5.10

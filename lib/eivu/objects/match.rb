@@ -2,7 +2,7 @@
 
 require_relative '../eivu-objects'
 require 'active_support/all'
-require 'levenshtein'
+require 'levenshtein_lite'
 
 module Eivu
   module Objects
@@ -45,7 +45,7 @@ module Eivu
           begin
             orig_album    = original_release_group_name&.downcase
             matched_album = release_group.title&.downcase
-            l_distance = Levenshtein.distance(orig_album, matched_album)
+            l_distance = LevenshteinLite.distance(orig_album, matched_album)
             if l_distance <= THRESHOLD_MIN
               l_distance
             else
